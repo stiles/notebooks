@@ -3,8 +3,6 @@ Matching common Korean surnames to Los Angeles building and parcel data in hopes
 
 **The analysis is a work in progress, but ... a good bit?**
 
-![Map of Koreatown Buildings](https://raw.githubusercontent.com/stiles/notebooks/master/koreatown/map.png)
-
 ## What's going on here
 
 To answer the question, I downloaded [parcels](https://permitting.gis.lacounty.gov/permitting/rest/services/energovDev/ViewableDev/MapServer/8) data from Los Angeles County. I then clipped the massive countywide dataset to the Koreantown neighborhood, as [defined](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary/koreatown-la-county-neighborhood-current.geojson) by the *Los Angeles Times* [datadesk](https://github.com/datadesk).
@@ -21,3 +19,5 @@ Institutional | 11.1%
 Industrial | 3.4%
 
 The work in progress is an attempt to related the Los Angeles building footprint file with the parcels. Here's what I have so far:
+
+![Map of Koreatown Buildings](https://raw.githubusercontent.com/stiles/notebooks/master/koreatown/map.png)
