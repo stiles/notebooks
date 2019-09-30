@@ -5,6 +5,6 @@ This repo contains a quick analysis of President Trump's tweets — specificall
 ## Charts
 
 
-![Tweets Since Presidency](https://raw.githubusercontent.com/stiles/data/master/trump-tweet-frequency/trump_freq_candidacy.png)
+![Daily Trump tweets since inauguration](https://raw.githubusercontent.com/stiles/notebooks/master/trump-tweet-frequency/trump_freq_prez.png)
 
-![Daily Trump Tweets Since Inauguration](https://raw.githubusercontent.com/stiles/data/master/trump-tweet-frequency/trump_freq_prez.png)
+![Daily Trump tweets since candidacy announcement](https://raw.githubusercontent.com/stiles/notebooks/master/trump-tweet-frequency/trump_freq_candidacy.png)
