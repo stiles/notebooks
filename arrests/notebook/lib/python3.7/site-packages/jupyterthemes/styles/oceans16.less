@@ -1,0 +1,172 @@
+/* oceans16 base colors */
+@yellow:                #DDD7A3;
+@orange:                #EFAA8E;
+@red:                   #E39194;
+@magenta:               #e07a7a;
+@violet:                #CAA6EC;
+@blue:                  #77ABE7;
+@cyan:                  #61afef;
+@green:                 #8FCA9A;
+@code-gray:             #6a737d;
+@code-fg:               #B5C2D9;
+@code-yellow:           @yellow;
+@code-red:              @red;
+@code-violet:           @violet;
+@code-green:            @green;
+@code-blue:             @blue;
+@code-orange:           @orange;
+@code-cyan:             @cyan;
+@theme-flavor:          #000000;
+@theme-flavor-inverse:  #ffffff;
+
+/* oceans16 notebook colors */
+@notebook-bg:           #262931;
+@notebook-fg:           #A2B0C7;
+@notebook-base:         #373e4b;
+
+/* jtplot figure style */
+@axisFace:              #384151;
+@figureFace:            #384151;
+@textColor:             #CDD2E9;
+@edgeColor:             #899ab8;
+@gridColor:             #546379;
+
+/* selection, hover, prompts, brackets colors */
+@selected-bg:           #3572C6;
+@selected-half:         rgba(80, 92, 133,.45);
+@selected-third:        rgba(80, 92, 133,.22);
+@selected-tenth:        rgba(80, 92, 133,.05);
+@selected-error:        rgba(191, 97, 106,.4);
+@selected-active:       @selected-bg;
+@navbar-selected:       @selected-active;
+@selected-fg:           #D8DCEE;
+@selected-fg-bright:    #e4e8ee;
+@unemphasize-fg:        #92A2BD;
+
+/* code, text, markdown, & tooltip colors */
+@cc-input-bg:           #303845;
+@cc-input-fg:           #CDD2E9;
+@cc-output-bg-default:  #384151;
+@cc-output-fg:          #CDD2E9;
+@text-cell-fg:          #ABC1E2;
+@unrendered-text:       @item-theme;
+@header-fg:             @unrendered-text;
+@tooltip-bg-color:      #3C4657;
+@tooltip-fg-color:      @cc-input-fg;
+@nb-name-fg:            @header-fg;
+@nb-name-hover:         #61afef;
+
+/* cell border colors */
+@cc-border-selected:    #2769c3;
+@cc-border-edit:        #33517c;
+@tc-border-selected:    #2769c3;
+@tc-border-edit:        #33517c;
+
+/* menus, dividers, prompt-borders, brackets */
+@divider:               rgba(53, 114, 198,.2);
+@disabled:              #546379;
+@input-prompt:          #446489;
+@input-hover-bg:        #2a2e39;
+@prompt-hover-color:    #576a8d;
+@prompt-line:           rgba(53, 114, 198, 5);
+@tc-prompt-std:         rgba(53, 114, 198,.5);
+@matching-bracket:      #4C8BE2;
+@menubar-bg:            #242931;
+@menubar-fg:            @notebook-fg;
+@menubar-hover:         @dropdown-bg;
+@nb-header-bg:          @item-theme;
+@nb-header-fg:          #899ab8;
+@dropdown-bg:           lighten(#2E3642, 5%);
+@dropdown-border:       @selected-third;
+@dropdown-hover:        darken(@dropdown-bg, 2%);
+
+/* panels and form-control styles */
+@panel-header-bg:       #2E3642;
+@panel-bg:              #384152;
+@modal-bg:              @panel-bg;
+@alert-info-bg:         #4a5467;
+@form-input-bg:         @codeblock-bg;
+@form-input-border:     @codeblock-bg;
+@cmd-palette-bg:        #202937;
+@cmd-palette-form:      #293547;
+@cmd-palette-hover:     #2b3850;
+
+/* buttons, widgets, kernels colors */
+@item-theme:            #4C8BE2;
+@item-blue:             #4C8BE2;
+@item-cyan:             #157bff;
+@item-green:            #48a667;
+@item-red:              #dc6972;
+@item-orange:           #fea47f;
+
+@item-danger:           #e74c3c;
+@item-success:          #83a83b;
+@item-info:             #3498db;
+@item-warning:          #ff914d;
+
+/* tables and dataframes colors */
+@table-color:           #DBDFEF;
+@table-bg:              #434d61;
+@table-border:          #546379;
+@df-header-bg:          #2E3642;
+@df-header:             #D4D8EC;
+@df-header-border:      #4a5467;
+@df-cell-bg:            #434d61;
+@codeblock-bg:          #2A313C;
+@codeblock-border:      @codeblock-bg;
+
+/* btn, scrollbar and shadow colors */
+@button-bg:             #3a4452;
+@button-border:         @button-bg;
+@button-color:          @notebook-fg;
+@button-hover:          @item-theme;
+@button-hover-bg:       darken(@button-bg, 2%); //#2a2e39;
+@button-hover-border:   @button-hover-bg;
+@button-focus-bg:       #33517c;
+@button-focus-fg:       #157bff;
+@button-panel-bg:       @panel-header-bg;
+@button-panel-hover:    #2A313C;
+@scrollbar:             #3f4555;
+@scroll-trough:         #292d3a;
+@scrollbar-inactive:    #464e60;
+@box-shadow:            #3e4458;
+@md-header-link:        rgba(0,0,0,.32);
+
+/* oceans16 ansi colors */
+@ansiblack:             #2b303b;
+@ansiblue:              @cyan;
+@ansigray:              #899ab8;
+@ansigreen:             @green;
+@ansipurple:            #b399ef;
+@ansicyan:              @blue;
+@ansiyellow:            @yellow;
+@ansired:               @red;
+@stderr-bg:             @red;
+@stderr-fg:             #D0D4E6;
+@js-error:              @red;
+
+/* oceans16 codemirror colors */
+@cm-selected:           #42495e;
+@cm-gutters:            #343c4b;
+@cm-linenumber:         @cm-comment;
+@cm-comment:            #667FB1;
+@cm-atom:               @violet;
+@cm-number:             @orange;
+@cm-property:           @blue;
+@cm-attribute:          @red;
+@cm-keyword:            @violet;
+@cm-string:             @green;
+@cm-meta:               @yellow;
+@cm-operator:           @blue;
+@cm-builtin:            @red;
+@cm-variable:           @cc-input-fg;
+@cm-variable2:          @red;
+@cm-variable3:          @yellow;
+
+@cm-def:                @blue;
+@cm-error:              @selected-error;
+@cm-tag:                @cm-atom;
+@cm-link:               @cyan;
+@cm-storage:            @cm-atom;
+@cm-entity:             @red;
+@cm-latex:              #8fb36a;
