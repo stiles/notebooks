@@ -1,0 +1,3 @@
+[console_scripts]
+states = us.cli.states:main
+

@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: vega
+Version: 2.5.0
+Summary: IPyVega: An IPython/Jupyter widget for Vega 5 and Vega-Lite 3
+Home-page: http://github.com/vega/ipyvega
+Author: Dominik Moritz
+Author-email: domoritz@gmail.com
+License: BSD 3-clause
+Download-URL: http://github.com/vega/ipyvega
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Provides-Extra: widget
+Requires-Dist: ipywidgets ; extra == 'widget'
+
+
+IPython Vega
+============
+
+IPython/Jupyter notebook module for `Vega <https://github.com/vega/vega/>`_
+and `Vega-Lite <https://github.com/vega/vega-lite/>`_.
+Notebooks with embedded visualizations can be viewed on github and nbviewer.
+
+For more information, see https://github.com/vega/ipyvega.
+
+Installation Notes
+------------------
+When installing from PyPI, extra steps may be required to enable the Jupyter
+notebook extension. For more information, see the
+`github page <https://github.com/vega/ipyvega>`_.
+
+

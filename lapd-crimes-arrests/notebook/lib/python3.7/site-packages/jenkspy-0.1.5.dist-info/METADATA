@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: jenkspy
+Version: 0.1.5
+Summary: Compute Natural Breaks (Jenks algorythm)
+Home-page: http://github.com/mthh/jenkspy
+Author: Matthieu Viry
+Author-email: matthieu.viry@cnrs.fr
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering
+
+UNKNOWN
+
+
