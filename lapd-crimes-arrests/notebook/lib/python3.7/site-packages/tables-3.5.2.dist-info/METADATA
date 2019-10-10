@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: tables
+Version: 3.5.2
+Summary: Hierarchical datasets for Python
+Home-page: http://www.pytables.org/
+Author: Francesc Alted, Ivan Vilata,Antonio Valentino, Anthony Scopatz et al.
+Author-email: pytables@pytables.org
+Maintainer: PyTables maintainers
+Maintainer-email: pytables@pytables.org
+License: BSD 2-Clause
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Database
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Requires-Dist: numpy (>=1.9.3)
+Requires-Dist: numexpr (>=2.6.2)
+Requires-Dist: six (>=1.9.0)
+Requires-Dist: mock (>=2.0)
+
+PyTables is a package for managing hierarchical datasets and
+designed to efficently cope with extremely large amounts of
+data. PyTables is built on top of the HDF5 library and the
+NumPy package and features an object-oriented interface
+that, combined with C-code generated from Cython sources,
+makes of it a fast, yet extremely easy to use tool for
+interactively save and retrieve large amounts of data.
+
+

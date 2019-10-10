@@ -1,4 +1,0 @@
-[console_scripts]
-jt = jupyterthemes:main
-jupyter-theme = jupyterthemes:main
-

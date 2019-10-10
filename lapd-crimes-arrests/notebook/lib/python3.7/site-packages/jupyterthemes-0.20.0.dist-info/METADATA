@@ -1,0 +1,30 @@
+Metadata-Version: 2.0
+Name: jupyterthemes
+Version: 0.20.0
+Summary: Select and install a Jupyter notebook theme
+Home-page: https://github.com/dunovank/jupyter-themes
+Author: dunovank
+Author-email: dunovank@gmail.com
+License: MIT
+Download-URL: https://github.com/dunovank/jupyter-themes/tarball/v0.20.0
+Keywords: jupyter,python,ipython,notebook,theme,less,css
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Requires-Dist: jupyter-core
+Requires-Dist: notebook (>=5.6.0)
+Requires-Dist: ipython (>=5.4.1)
+Requires-Dist: matplotlib (>=1.4.3)
+Requires-Dist: lesscpy (>=0.11.2)
+
+UNKNOWN
+
+
