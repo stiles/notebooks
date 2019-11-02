@@ -597,8 +597,8 @@
 39,B000652,2,Leonard Boswell,Iowa,Leonard,Boswell,house,105,IA,D,,82.23
 40,B000657,16,Rick Boucher,Va.,Rick,Boucher,house,105,VA,D,,89.38
 41,B000716,2,Allen Boyd,Fla.,Allen,Boyd,house,105,FL,D,,82.39
-42,B000755,2,Kevin Brady,Texas,Kevin,Brady,house,105,TX,R,,94.13
-43,B001227,2,Robert Brady,Pa.,Robert,Brady,house,105,PA,D,,92.11
+42,B001227,2,Robert Brady,Pa.,Robert,Brady,house,105,PA,D,,92.11
+43,B000755,2,Kevin Brady,Texas,Kevin,Brady,house,105,TX,R,,94.13
 44,B000911,6,Corrine Brown,Fla.,Corrine,Brown,house,105,FL,D,,91.82
 45,B000918,34,George Brown,Calif.,George,Brown,house,105,CA,D,,88.21
 46,B000944,6,Sherrod Brown,Ohio,Sherrod,Brown,house,105,OH,D,,91.13
@@ -2428,8 +2428,8 @@
 220,K000172,28,Dale Kildee,Mich.,Dale,Kildee,house,108,MI,D,,94.75
 221,K000180,8,Carolyn Kilpatrick,Mich.,Carolyn,Kilpatrick,house,108,MI,D,,94.46
 222,K000188,8,Ron Kind,Wis.,Ron,Kind,house,108,WI,D,,93.01
-223,K000362,2,Steve King,Iowa,Steve,King,house,108,IA,R,,94.59
-224,K000210,12,Peter King,N.Y.,Peter,King,house,108,NY,R,,94.18
+223,K000210,12,Peter King,N.Y.,Peter,King,house,108,NY,R,,94.18
+224,K000362,2,Steve King,Iowa,Steve,King,house,108,IA,R,,94.59
 225,K000220,12,Jack Kingston,Ga.,Jack,Kingston,house,108,GA,R,,95.6
 226,K000360,4,Mark Kirk,Ill.,Mark,Kirk,house,108,IL,R,,92.59
 227,K000259,22,Gerald Kleczka,Wis.,Gerald,Kleczka,house,108,WI,D,,95.29
@@ -2486,8 +2486,8 @@
 278,M001149,2,Michael Michaud,Maine,Michael,Michaud,house,108,ME,D,,93.39
 279,M000714,10,Juanita Millender-McDonald,Calif.,Juanita,Millender-McDonald,house,108,CA,D,,96.61
 280,M001139,6,Gary Miller,Calif.,Gary,Miller,house,108,CA,R,,95.63
-281,M000725,30,George Miller,Calif.,George,Miller,house,108,CA,D,,92.49
-282,M001150,2,Candice Miller,Mich.,Candice,Miller,house,108,MI,R,,97.22
+281,M001150,2,Candice Miller,Mich.,Candice,Miller,house,108,MI,R,,97.22
+282,M000725,30,George Miller,Calif.,George,Miller,house,108,CA,D,,92.49
 283,M001154,2,Brad Miller,N.C.,Brad,Miller,house,108,NC,D,,95.09
 284,M001144,4,Jeff Miller,Fla.,Jeff,Miller,house,108,FL,R,,90.8
 285,M000844,22,Alan Mollohan,W.Va.,Alan,Mollohan,house,108,WV,D,,86.64
@@ -2565,8 +2565,8 @@
 357,R000570,6,Paul Ryan,Wis.,Paul,Ryan,house,108,WI,R,,93.73
 358,R000566,10,Jim Ryun,Kan.,Jim,Ryun,house,108,KS,R,,96.09
 359,S000005,26,Martin Sabo,Minn.,Martin,Sabo,house,108,MN,D,,91.88
-360,S001156,2,Linda Sánchez,Calif.,Linda,Sánchez,house,108,CA,D,,95.88
-361,S000030,8,Loretta Sánchez,Calif.,Loretta,Sánchez,house,108,CA,D,,96.06
+360,S000030,8,Loretta Sánchez,Calif.,Loretta,Sánchez,house,108,CA,D,,96.06
+361,S001156,2,Linda Sánchez,Calif.,Linda,Sánchez,house,108,CA,D,,95.88
 362,S000033,14,Bernard Sanders,Vt.,Bernard,Sanders,house,108,VT,I,,45.66
 363,S000044,8,Max Sandlin,Texas,Max,Sandlin,house,108,TX,D,,86.22
 364,S000097,22,H. James Saxton,N.J.,H. James,Saxton,house,108,NJ,R,,92.82
@@ -6234,8 +6234,8 @@
 159,G000566,8,Trey Gowdy,S.C.,Trey,Gowdy,house,115,SC,R,0.655,98.9
 160,G000377,22,Kay Granger,Texas,Kay,Granger,house,115,TX,R,0.392,98.23
 161,G000577,4,Garret Graves,La.,Garret,Graves,house,115,LA,R,0.502,94.72
-162,G000560,10,Tom Graves,Ga.,Tom,Graves,house,115,GA,R,0.741,94.46
-163,G000546,18,Sam Graves,Mo.,Sam,Graves,house,115,MO,R,0.432,94.43
+162,G000546,18,Sam Graves,Mo.,Sam,Graves,house,115,MO,R,0.432,94.43
+163,G000560,10,Tom Graves,Ga.,Tom,Graves,house,115,GA,R,0.741,94.46
 164,G000410,26,Gene Green,Texas,Gene,Green,house,115,TX,D,-0.324,92.87
 165,G000553,14,Al Green,Texas,Al,Green,house,115,TX,D,-0.438,96.98
 166,G000568,8,Morgan Griffith,Va.,Morgan,Griffith,house,115,VA,R,0.545,93.25
@@ -6516,8 +6516,8 @@
 441,W000821,4,Bruce Westerman,Ark.,Bruce,Westerman,house,115,AR,R,0.547,98.0
 442,W000826,2,Susan Wild,Pa.,Susan,Wild,house,115,PA,D,,100.0
 443,W000816,6,Roger Williams,Texas,Roger,Williams,house,115,TX,R,0.605,97.39
-444,W000795,18,Joe Wilson,S.C.,Joe,Wilson,house,115,SC,R,0.545,98.32
-445,W000808,8,Frederica Wilson,Fla.,Frederica,Wilson,house,115,FL,D,-0.474,97.23
+444,W000808,8,Frederica Wilson,Fla.,Frederica,Wilson,house,115,FL,D,-0.474,97.23
+445,W000795,18,Joe Wilson,S.C.,Joe,Wilson,house,115,SC,R,0.545,98.32
 446,W000804,12,Robert Wittman,Va.,Robert,Wittman,house,115,VA,R,0.425,95.47
 447,W000809,8,Steve Womack,Ark.,Steve,Womack,house,115,AR,R,0.347,98.51
 448,W000810,8,Rob Woodall,Ga.,Rob,Woodall,house,115,GA,R,0.643,94.28
