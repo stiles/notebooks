@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "69_bravo_location3311",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3311" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 126680.643600812414661, -436934.957652800250798 ] } }
+]
+}

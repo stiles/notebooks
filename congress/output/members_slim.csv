@@ -597,8 +597,8 @@
 39,B000652,2,Leonard Boswell,Iowa,Leonard,Boswell,house,105,IA,D,,82.23
 40,B000657,16,Rick Boucher,Va.,Rick,Boucher,house,105,VA,D,,89.38
 41,B000716,2,Allen Boyd,Fla.,Allen,Boyd,house,105,FL,D,,82.39
-42,B001227,2,Robert Brady,Pa.,Robert,Brady,house,105,PA,D,,92.11
-43,B000755,2,Kevin Brady,Texas,Kevin,Brady,house,105,TX,R,,94.13
+42,B000755,2,Kevin Brady,Texas,Kevin,Brady,house,105,TX,R,,94.13
+43,B001227,2,Robert Brady,Pa.,Robert,Brady,house,105,PA,D,,92.11
 44,B000911,6,Corrine Brown,Fla.,Corrine,Brown,house,105,FL,D,,91.82
 45,B000918,34,George Brown,Calif.,George,Brown,house,105,CA,D,,88.21
 46,B000944,6,Sherrod Brown,Ohio,Sherrod,Brown,house,105,OH,D,,91.13
@@ -1278,8 +1278,8 @@
 170,H000413,6,John Hayworth,Ariz.,John,Hayworth,house,106,AZ,R,,93.04
 171,H000444,14,Joel Hefley,Colo.,Joel,Hefley,house,106,CO,R,,84.91
 172,H000528,14,Wally Herger,Calif.,Wally,Herger,house,106,CA,R,,92.83
-173,H000605,4,Rick Hill,Mont.,Rick,Hill,house,106,MT,R,,91.31
-174,H001030,2,Baron Hill,Ind.,Baron,Hill,house,106,IN,D,,87.35
+173,H001030,2,Baron Hill,Ind.,Baron,Hill,house,106,IN,D,,87.35
+174,H000605,4,Rick Hill,Mont.,Rick,Hill,house,106,MT,R,,91.31
 175,H000615,6,Van Hilleary,Tenn.,Van,Hilleary,house,106,TN,R,,90.19
 176,H000621,8,Earl Hilliard,Ala.,Earl,Hilliard,house,106,AL,D,,87.78
 177,H000627,8,Maurice Hinchey,N.Y.,Maurice,Hinchey,house,106,NY,D,,90.89
@@ -2301,8 +2301,8 @@
 93,C000994,14,Randy Cunningham,Calif.,Randy,Cunningham,house,108,CA,R,,97.13
 94,D000096,8,Danny Davis,Ill.,Danny,Davis,house,108,IL,D,,95.71
 95,D000114,8,James Davis,Fla.,James,Davis,house,108,FL,D,,93.65
-96,D000597,4,Jo Ann Davis,Va.,Jo Ann,Davis,house,108,VA,R,,92.38
-97,D000136,10,Thomas Davis,Va.,Thomas,Davis,house,108,VA,R,,93.76
+96,D000136,10,Thomas Davis,Va.,Thomas,Davis,house,108,VA,R,,93.76
+97,D000597,4,Jo Ann Davis,Va.,Jo Ann,Davis,house,108,VA,R,,92.38
 98,D000598,4,Susan Davis,Calif.,Susan,Davis,house,108,CA,D,,95.94
 99,D000599,2,Lincoln Davis,Tenn.,Lincoln,Davis,house,108,TN,D,,84.83
 100,D000602,2,Artur Davis,Ala.,Artur,Davis,house,108,AL,D,,92.32
@@ -2486,8 +2486,8 @@
 278,M001149,2,Michael Michaud,Maine,Michael,Michaud,house,108,ME,D,,93.39
 279,M000714,10,Juanita Millender-McDonald,Calif.,Juanita,Millender-McDonald,house,108,CA,D,,96.61
 280,M001139,6,Gary Miller,Calif.,Gary,Miller,house,108,CA,R,,95.63
-281,M001150,2,Candice Miller,Mich.,Candice,Miller,house,108,MI,R,,97.22
-282,M000725,30,George Miller,Calif.,George,Miller,house,108,CA,D,,92.49
+281,M000725,30,George Miller,Calif.,George,Miller,house,108,CA,D,,92.49
+282,M001150,2,Candice Miller,Mich.,Candice,Miller,house,108,MI,R,,97.22
 283,M001154,2,Brad Miller,N.C.,Brad,Miller,house,108,NC,D,,95.09
 284,M001144,4,Jeff Miller,Fla.,Jeff,Miller,house,108,FL,R,,90.8
 285,M000844,22,Alan Mollohan,W.Va.,Alan,Mollohan,house,108,WV,D,,86.64
@@ -2565,8 +2565,8 @@
 357,R000570,6,Paul Ryan,Wis.,Paul,Ryan,house,108,WI,R,,93.73
 358,R000566,10,Jim Ryun,Kan.,Jim,Ryun,house,108,KS,R,,96.09
 359,S000005,26,Martin Sabo,Minn.,Martin,Sabo,house,108,MN,D,,91.88
-360,S000030,8,Loretta Sánchez,Calif.,Loretta,Sánchez,house,108,CA,D,,96.06
-361,S001156,2,Linda Sánchez,Calif.,Linda,Sánchez,house,108,CA,D,,95.88
+360,S001156,2,Linda Sánchez,Calif.,Linda,Sánchez,house,108,CA,D,,95.88
+361,S000030,8,Loretta Sánchez,Calif.,Loretta,Sánchez,house,108,CA,D,,96.06
 362,S000033,14,Bernard Sanders,Vt.,Bernard,Sanders,house,108,VT,I,,45.66
 363,S000044,8,Max Sandlin,Texas,Max,Sandlin,house,108,TX,D,,86.22
 364,S000097,22,H. James Saxton,N.J.,H. James,Saxton,house,108,NJ,R,,92.82
@@ -2799,8 +2799,8 @@
 45,B001227,10,Robert Brady,Pa.,Robert,Brady,house,109,PA,D,,93.45
 46,B000755,10,Kevin Brady,Texas,Kevin,Brady,house,109,TX,R,,95.09
 47,B000911,14,Corrine Brown,Fla.,Corrine,Brown,house,109,FL,D,,96.19
-48,B001235,6,Henry Brown,S.C.,Henry,Brown,house,109,SC,R,,97.01
-49,B000944,14,Sherrod Brown,Ohio,Sherrod,Brown,house,109,OH,D,,95.16
+48,B000944,14,Sherrod Brown,Ohio,Sherrod,Brown,house,109,OH,D,,95.16
+49,B001235,6,Henry Brown,S.C.,Henry,Brown,house,109,SC,R,,97.01
 50,B001247,4,Ginny Brown-Waite,Fla.,Ginny,Brown-Waite,house,109,FL,R,,90.73
 51,B001248,4,Michael Burgess,Texas,Michael,Burgess,house,109,TX,R,,94.51
 52,B001149,24,Dan Burton,Ind.,Dan,Burton,house,109,IN,R,,93.92
@@ -2845,11 +2845,11 @@
 91,C000984,12,Elijah Cummings,Md.,Elijah,Cummings,house,109,MD,D,,96.82
 92,C000994,16,Randy Cunningham,Calif.,Randy,Cunningham,house,109,CA,R,,96.77
 93,D000598,6,Susan Davis,Calif.,Susan,Davis,house,109,CA,D,,96.04
-94,D000096,10,Danny Davis,Ill.,Danny,Davis,house,109,IL,D,,94.26
-95,D000599,4,Lincoln Davis,Tenn.,Lincoln,Davis,house,109,TN,D,,81.45
+94,D000599,4,Lincoln Davis,Tenn.,Lincoln,Davis,house,109,TN,D,,81.45
+95,D000096,10,Danny Davis,Ill.,Danny,Davis,house,109,IL,D,,94.26
 96,D000114,10,James Davis,Fla.,James,Davis,house,109,FL,D,,94.21
-97,D000136,12,Thomas Davis,Va.,Thomas,Davis,house,109,VA,R,,91.42
-98,D000602,4,Artur Davis,Ala.,Artur,Davis,house,109,AL,D,,90.37
+97,D000602,4,Artur Davis,Ala.,Artur,Davis,house,109,AL,D,,90.37
+98,D000136,12,Thomas Davis,Va.,Thomas,Davis,house,109,VA,R,,91.42
 99,D000603,2,Geoff Davis,Ky.,Geoff,Davis,house,109,KY,R,,94.22
 100,D000597,6,Jo Ann Davis,Va.,Jo Ann,Davis,house,109,VA,R,,90.34
 101,D000168,14,Nathan Deal,Ga.,Nathan,Deal,house,109,GA,R,,91.83
@@ -3346,8 +3346,8 @@
 45,B000755,12,Kevin Brady,Texas,Kevin,Brady,house,110,TX,R,,94.3
 46,B001259,2,Bruce Braley,Iowa,Bruce,Braley,house,110,IA,D,,97.89
 47,B001262,2,Paul Broun,Ga.,Paul,Broun,house,110,GA,R,,89.69
-48,B001235,8,Henry Brown,S.C.,Henry,Brown,house,110,SC,R,,94.63
-49,B000911,16,Corrine Brown,Fla.,Corrine,Brown,house,110,FL,D,,98.31
+48,B000911,16,Corrine Brown,Fla.,Corrine,Brown,house,110,FL,D,,98.31
+49,B001235,8,Henry Brown,S.C.,Henry,Brown,house,110,SC,R,,94.63
 50,B001247,6,Ginny Brown-Waite,Fla.,Ginny,Brown-Waite,house,110,FL,R,,90.95
 51,B001260,2,Vern Buchanan,Fla.,Vern,Buchanan,house,110,FL,R,,91.72
 52,B001248,6,Michael Burgess,Texas,Michael,Burgess,house,110,TX,R,,92.98
@@ -3395,10 +3395,10 @@
 94,C001063,4,Henry Cuellar,Texas,Henry,Cuellar,house,110,TX,D,,94.08
 95,C001048,8,John Culberson,Texas,John,Culberson,house,110,TX,R,,93.61
 96,C000984,14,Elijah Cummings,Md.,Elijah,Cummings,house,110,MD,D,,99.44
-97,D000602,6,Artur Davis,Ala.,Artur,Davis,house,110,AL,D,,97.58
-98,D000096,12,Danny Davis,Ill.,Danny,Davis,house,110,IL,D,,98.29
-99,D000136,14,Thomas Davis,Va.,Thomas,Davis,house,110,VA,R,,87.26
-100,D000603,4,Geoff Davis,Ky.,Geoff,Davis,house,110,KY,R,,94.96
+97,D000096,12,Danny Davis,Ill.,Danny,Davis,house,110,IL,D,,98.29
+98,D000602,6,Artur Davis,Ala.,Artur,Davis,house,110,AL,D,,97.58
+99,D000603,4,Geoff Davis,Ky.,Geoff,Davis,house,110,KY,R,,94.96
+100,D000136,14,Thomas Davis,Va.,Thomas,Davis,house,110,VA,R,,87.26
 101,D000606,2,David Davis,Tenn.,David,Davis,house,110,TN,R,,95.47
 102,D000597,8,Jo Ann Davis,Va.,Jo Ann,Davis,house,110,VA,R,,94.7
 103,D000598,8,Susan Davis,Calif.,Susan,Davis,house,110,CA,D,,99.12
@@ -3506,8 +3506,8 @@
 205,J000287,4,Bobby Jindal,La.,Bobby,Jindal,house,110,LA,R,,84.47
 206,J000126,16,Eddie Johnson,Texas,Eddie,Johnson,house,110,TX,D,,97.92
 207,J000174,18,Sam Johnson,Texas,Sam,Johnson,house,110,TX,R,,93.01
-208,J000288,2,Hank Johnson,Ga.,Hank,Johnson,house,110,GA,D,,98.76
-209,J000285,8,Timothy Johnson,Ill.,Timothy,Johnson,house,110,IL,R,,79.44
+208,J000285,8,Timothy Johnson,Ill.,Timothy,Johnson,house,110,IL,R,,79.44
+209,J000288,2,Hank Johnson,Ga.,Hank,Johnson,house,110,GA,D,,98.76
 210,J000255,14,Walter Jones,N.C.,Walter,Jones,house,110,NC,R,,82.15
 211,J000284,10,Stephanie Jones,Ohio,Stephanie,Jones,house,110,OH,D,,97.7
 212,J000289,2,Jim Jordan,Ohio,Jim,Jordan,house,110,OH,R,,92.55
@@ -3583,8 +3583,8 @@
 282,M000689,16,John Mica,Fla.,John,Mica,house,110,FL,R,,95.02
 283,M001149,6,Michael Michaud,Maine,Michael,Michaud,house,110,ME,D,,96.66
 284,M000714,14,Juanita Millender-McDonald,Calif.,Juanita,Millender-McDonald,house,110,CA,D,,100.0
-285,M001150,6,Candice Miller,Mich.,Candice,Miller,house,110,MI,R,,90.55
-286,M001139,10,Gary Miller,Calif.,Gary,Miller,house,110,CA,R,,94.97
+285,M001139,10,Gary Miller,Calif.,Gary,Miller,house,110,CA,R,,94.97
+286,M001150,6,Candice Miller,Mich.,Candice,Miller,house,110,MI,R,,90.55
 287,M000725,34,George Miller,Calif.,George,Miller,house,110,CA,D,,98.0
 288,M001154,6,Brad Miller,N.C.,Brad,Miller,house,110,NC,D,,98.95
 289,M001144,8,Jeff Miller,Fla.,Jeff,Miller,house,110,FL,R,,92.27
@@ -4765,8 +4765,8 @@
 346,R000590,2,David Rivera,Fla.,David,Rivera,house,112,FL,R,,92.59
 347,R000591,2,Martha Roby,Ala.,Martha,Roby,house,112,AL,R,0.367,94.38
 348,R000582,4,Phil Roe,Tenn.,Phil,Roe,house,112,TN,R,0.493,95.47
-349,R000572,12,Mike Rogers,Mich.,Mike,Rogers,house,112,MI,R,0.4,95.69
-350,R000395,32,Harold Rogers,Ky.,Harold,Rogers,house,112,KY,R,0.332,92.98
+349,R000395,32,Harold Rogers,Ky.,Harold,Rogers,house,112,KY,R,0.332,92.98
+350,R000572,12,Mike Rogers,Mich.,Mike,Rogers,house,112,MI,R,0.4,95.69
 351,R000575,12,Mike Rogers,Ala.,Mike,Rogers,house,112,AL,R,0.338,92.99
 352,R000409,24,Dana Rohrabacher,Calif.,Dana,Rohrabacher,house,112,CA,R,0.627,89.19
 353,R000592,2,Todd Rokita,Ind.,Todd,Rokita,house,112,IN,R,0.598,94.58
@@ -4797,8 +4797,8 @@
 378,S001162,6,Allyson Schwartz,Pa.,Allyson,Schwartz,house,112,PA,D,-0.343,94.75
 379,S001183,2,David Schweikert,Ariz.,David,Schweikert,house,112,AZ,R,0.633,92.8
 380,S001157,10,David Scott,Ga.,David,Scott,house,112,GA,D,-0.301,92.88
-381,S001184,2,Tim Scott,S.C.,Tim,Scott,house,112,SC,R,0.655,93.82
-382,S000185,20,Robert Scott,Va.,Robert,Scott,house,112,VA,D,-0.451,94.32
+381,S000185,20,Robert Scott,Va.,Robert,Scott,house,112,VA,D,-0.451,94.32
+382,S001184,2,Tim Scott,S.C.,Tim,Scott,house,112,SC,R,0.655,93.82
 383,S001189,2,Austin Scott,Ga.,Austin,Scott,house,112,GA,R,0.572,95.05
 384,S000244,34,F. Sensenbrenner,Wis.,F.,Sensenbrenner,house,112,WI,R,0.646,88.07
 385,S000248,24,José Serrano,N.Y.,José,Serrano,house,112,NY,D,-0.491,94.2
@@ -5256,8 +5256,8 @@
 284,M000933,24,James Moran,Va.,James,Moran,house,113,VA,D,-0.302,93.55
 285,M001190,2,Markwayne Mullin,Okla.,Markwayne,Mullin,house,113,OK,R,0.506,95.89
 286,M001182,4,Mick Mulvaney,S.C.,Mick,Mulvaney,house,113,SC,R,0.75,90.29
-287,M001191,2,Patrick Murphy,Fla.,Patrick,Murphy,house,113,FL,D,-0.186,83.43
-288,M001151,12,Tim Murphy,Pa.,Tim,Murphy,house,113,PA,R,0.258,94.59
+287,M001151,12,Tim Murphy,Pa.,Tim,Murphy,house,113,PA,R,0.258,94.59
+288,M001191,2,Patrick Murphy,Fla.,Patrick,Murphy,house,113,FL,D,-0.186,83.43
 289,N000002,24,Jerrold Nadler,N.Y.,Jerrold,Nadler,house,113,NY,D,-0.509,95.06
 290,N000179,16,Grace Napolitano,Calif.,Grace,Napolitano,house,113,CA,D,-0.447,94.88
 291,N000015,26,Richard Neal,Mass.,Richard,Neal,house,113,MA,D,-0.416,94.75
@@ -5724,8 +5724,8 @@
 197,J000297,2,Evan Jenkins,W.Va.,Evan,Jenkins,house,114,WV,R,0.315,93.14
 198,J000290,8,Lynn Jenkins,Kan.,Lynn,Jenkins,house,114,KS,R,0.523,95.5
 199,J000288,10,Hank Johnson,Ga.,Hank,Johnson,house,114,GA,D,-0.47,96.84
-200,J000292,6,Bill Johnson,Ohio,Bill,Johnson,house,114,OH,R,0.429,95.88
-201,J000126,24,Eddie Johnson,Texas,Eddie,Johnson,house,114,TX,D,-0.485,95.13
+200,J000126,24,Eddie Johnson,Texas,Eddie,Johnson,house,114,TX,D,-0.485,95.13
+201,J000292,6,Bill Johnson,Ohio,Bill,Johnson,house,114,OH,R,0.429,95.88
 202,J000174,26,Sam Johnson,Texas,Sam,Johnson,house,114,TX,R,0.61,96.55
 203,J000296,4,David Jolly,Fla.,David,Jolly,house,114,FL,R,0.23,88.45
 204,J000255,22,Walter Jones,N.C.,Walter,Jones,house,114,NC,R,0.242,70.63
@@ -5734,8 +5734,8 @@
 207,K000009,34,Marcy Kaptur,Ohio,Marcy,Kaptur,house,114,OH,D,-0.35,97.35
 208,K000386,2,John Katko,N.Y.,John,Katko,house,114,NY,R,0.209,85.96
 209,K000375,6,Bill Keating,Mass.,Bill,Keating,house,114,MA,D,-0.329,95.39
-210,K000388,2,Trent Kelly,Miss.,Trent,Kelly,house,114,MS,R,0.568,96.84
-211,K000385,4,Robin Kelly,Ill.,Robin,Kelly,house,114,IL,D,-0.459,98.0
+210,K000385,4,Robin Kelly,Ill.,Robin,Kelly,house,114,IL,D,-0.459,98.0
+211,K000388,2,Trent Kelly,Miss.,Trent,Kelly,house,114,MS,R,0.568,96.84
 212,K000376,6,Mike Kelly,Pa.,Mike,Kelly,house,114,PA,R,0.317,94.89
 213,K000379,4,Joseph Kennedy,Mass.,Joseph,Kennedy,house,114,MA,D,-0.421,97.36
 214,K000380,4,Dan Kildee,Mich.,Dan,Kildee,house,114,MI,D,-0.394,98.11
@@ -5967,9 +5967,9 @@
 440,Y000062,10,John Yarmuth,Ky.,John,Yarmuth,house,114,KY,D,-0.378,97.37
 441,Y000063,6,Kevin Yoder,Kan.,Kevin,Yoder,house,114,KS,R,0.561,94.68
 442,Y000065,4,Ted Yoho,Fla.,Ted,Yoho,house,114,FL,R,0.699,91.67
-443,Y000066,2,David Young,Iowa,David,Young,house,114,IA,R,0.443,95.06
+443,Y000064,6,Todd Young,Ind.,Todd,Young,house,114,IN,R,0.486,96.2
 444,Y000033,44,Don Young,Alaska,Don,Young,house,114,AK,R,0.279,91.61
-445,Y000064,6,Todd Young,Ind.,Todd,Young,house,114,IN,R,0.486,96.2
+445,Y000066,2,David Young,Iowa,David,Young,house,114,IA,R,0.443,95.06
 446,Z000017,2,Lee Zeldin,N.Y.,Lee,Zeldin,house,114,NY,R,0.363,92.6
 447,Z000018,2,Ryan Zinke,Mont.,Ryan,Zinke,house,114,MT,R,0.412,94.53
 0,A000360,13,Lamar Alexander,Tenn.,Lamar,Alexander,senate,114,TN,R,0.323,87.06
@@ -6234,8 +6234,8 @@
 159,G000566,8,Trey Gowdy,S.C.,Trey,Gowdy,house,115,SC,R,0.655,98.9
 160,G000377,22,Kay Granger,Texas,Kay,Granger,house,115,TX,R,0.392,98.23
 161,G000577,4,Garret Graves,La.,Garret,Graves,house,115,LA,R,0.502,94.72
-162,G000546,18,Sam Graves,Mo.,Sam,Graves,house,115,MO,R,0.432,94.43
-163,G000560,10,Tom Graves,Ga.,Tom,Graves,house,115,GA,R,0.741,94.46
+162,G000560,10,Tom Graves,Ga.,Tom,Graves,house,115,GA,R,0.741,94.46
+163,G000546,18,Sam Graves,Mo.,Sam,Graves,house,115,MO,R,0.432,94.43
 164,G000410,26,Gene Green,Texas,Gene,Green,house,115,TX,D,-0.324,92.87
 165,G000553,14,Al Green,Texas,Al,Green,house,115,TX,D,-0.438,96.98
 166,G000568,8,Morgan Griffith,Va.,Morgan,Griffith,house,115,VA,R,0.545,93.25
@@ -6467,8 +6467,8 @@
 392,S000522,38,Christopher Smith,N.J.,Christopher,Smith,house,115,NJ,R,0.161,88.39
 393,S000583,32,Lamar Smith,Texas,Lamar,Smith,house,115,TX,R,0.425,98.93
 394,S001195,6,Jason Smith,Mo.,Jason,Smith,house,115,MO,R,0.618,95.84
-395,S001172,12,Adrian Smith,Neb.,Adrian,Smith,house,115,NE,R,0.51,97.86
-396,S000510,22,Adam Smith,Wash.,Adam,Smith,house,115,WA,D,-0.284,95.82
+395,S000510,22,Adam Smith,Wash.,Adam,Smith,house,115,WA,D,-0.284,95.82
+396,S001172,12,Adrian Smith,Neb.,Adrian,Smith,house,115,NE,R,0.51,97.86
 397,S001199,2,Lloyd Smucker,Pa.,Lloyd,Smucker,house,115,PA,R,0.397,96.81
 398,S001200,2,Darren Soto,Fla.,Darren,Soto,house,115,FL,D,-0.382,97.62
 399,S001175,12,Jackie Speier,Calif.,Jackie,Speier,house,115,CA,D,-0.383,96.51
@@ -6516,8 +6516,8 @@
 441,W000821,4,Bruce Westerman,Ark.,Bruce,Westerman,house,115,AR,R,0.547,98.0
 442,W000826,2,Susan Wild,Pa.,Susan,Wild,house,115,PA,D,,100.0
 443,W000816,6,Roger Williams,Texas,Roger,Williams,house,115,TX,R,0.605,97.39
-444,W000808,8,Frederica Wilson,Fla.,Frederica,Wilson,house,115,FL,D,-0.474,97.23
-445,W000795,18,Joe Wilson,S.C.,Joe,Wilson,house,115,SC,R,0.545,98.32
+444,W000795,18,Joe Wilson,S.C.,Joe,Wilson,house,115,SC,R,0.545,98.32
+445,W000808,8,Frederica Wilson,Fla.,Frederica,Wilson,house,115,FL,D,-0.474,97.23
 446,W000804,12,Robert Wittman,Va.,Robert,Wittman,house,115,VA,R,0.425,95.47
 447,W000809,8,Steve Womack,Ark.,Steve,Womack,house,115,AR,R,0.347,98.51
 448,W000810,8,Rob Woodall,Ga.,Rob,Woodall,house,115,GA,R,0.643,94.28
@@ -6659,8 +6659,8 @@
 23,B001292,6,Donald Beyer,Va.,Donald,Beyer,house,116,VA,D,-0.387,98.66
 24,B001302,4,Andy Biggs,Ariz.,Andy,Biggs,house,116,AZ,R,0.88,78.44
 25,B001257,16,Gus Bilirakis,Fla.,Gus,Bilirakis,house,116,FL,R,0.405,91.85
-26,B001311,2,Dan Bishop,N.C.,Dan,Bishop,house,116,NC,R,,98.08
-27,B001250,18,Rob Bishop,,Rob,Bishop,house,116,UT,R,0.536,90.19
+26,B001250,18,Rob Bishop,,Rob,Bishop,house,116,UT,R,0.536,90.19
+27,B001311,2,Dan Bishop,N.C.,Dan,Bishop,house,116,NC,R,,98.08
 28,B000490,28,Sanford Bishop,Ga.,Sanford,Bishop,house,116,GA,D,-0.282,98.32
 29,B000574,26,Earl Blumenauer,Ore.,Earl,Blumenauer,house,116,OR,D,-0.427,97.83
 30,B001303,4,Lisa Blunt Rochester,Del.,Lisa,Blunt Rochester,house,116,DE,D,-0.326,99.17
@@ -6829,8 +6829,8 @@
 193,J000294,8,Hakeem Jeffries,N.Y.,Hakeem,Jeffries,house,116,NY,D,-0.485,98.98
 194,J000299,4,Mike Johnson,La.,Mike,Johnson,house,116,LA,R,0.557,94.28
 195,J000301,2,Dusty Johnson,S.D.,Dusty,Johnson,house,116,SD,R,,96.51
-196,J000126,28,Eddie Johnson,Texas,Eddie,Johnson,house,116,TX,D,-0.485,98.68
-197,J000292,10,Bill Johnson,Ohio,Bill,Johnson,house,116,OH,R,0.432,96.8
+196,J000292,10,Bill Johnson,Ohio,Bill,Johnson,house,116,OH,R,0.432,96.8
+197,J000126,28,Eddie Johnson,Texas,Eddie,Johnson,house,116,TX,D,-0.485,98.68
 198,J000288,14,Hank Johnson,Ga.,Hank,Johnson,house,116,GA,D,-0.467,98.67
 199,J000255,26,Walter Jones,N.C.,Walter,Jones,house,116,NC,R,0.244,
 200,J000289,14,Jim Jordan,Ohio,Jim,Jordan,house,116,OH,R,0.719,87.1
@@ -6866,8 +6866,8 @@
 230,L000566,14,Robert Latta,Ohio,Robert,Latta,house,116,OH,R,0.519,98.01
 231,L000581,6,Brenda Lawrence,Mich.,Brenda,Lawrence,house,116,MI,D,-0.445,99.13
 232,L000586,4,Al Lawson,Fla.,Al,Lawson,house,116,FL,D,-0.256,97.76
-233,L000551,24,Barbara Lee,Calif.,Barbara,Lee,house,116,CA,D,-0.682,97.5
-234,L000590,2,Susie Lee,Nev.,Susie,Lee,house,116,NV,D,,96.86
+233,L000590,2,Susie Lee,Nev.,Susie,Lee,house,116,NV,D,,96.86
+234,L000551,24,Barbara Lee,Calif.,Barbara,Lee,house,116,CA,D,-0.682,97.5
 235,L000589,4,Debbie Lesko,Ariz.,Debbie,Lesko,house,116,AZ,R,0.606,93.54
 236,L000593,2,Mike Levin,Calif.,Mike,Levin,house,116,CA,D,,99.34
 237,L000592,2,Andy Levin,Mich.,Andy,Levin,house,116,MI,D,,98.68
@@ -7028,8 +7028,8 @@
 392,T000472,8,Mark Takano,Calif.,Mark,Takano,house,116,CA,D,-0.463,98.98
 393,T000479,2,Van Taylor,Texas,Van,Taylor,house,116,TX,R,,91.35
 394,T000467,12,Glenn Thompson,Pa.,Glenn,Thompson,house,116,PA,R,0.308,90.76
-395,T000460,22,Mike Thompson,Calif.,Mike,Thompson,house,116,CA,D,-0.396,97.12
-396,T000193,28,Bennie Thompson,Miss.,Bennie,Thompson,house,116,MS,D,-0.516,98.97
+395,T000193,28,Bennie Thompson,Miss.,Bennie,Thompson,house,116,MS,D,-0.516,98.97
+396,T000460,22,Mike Thompson,Calif.,Mike,Thompson,house,116,CA,D,-0.396,97.12
 397,T000238,26,William Thornberry,Texas,William,Thornberry,house,116,TX,R,0.525,92.85
 398,T000480,2,William Timmons,S.C.,William,Timmons,house,116,SC,R,,93.95
 399,T000470,10,Scott Tipton,Colo.,Scott,Tipton,house,116,CO,R,0.449,92.86
