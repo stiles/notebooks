@@ -1,0 +1,2 @@
+index,year,type,population,employer,department,position,overtime,wages,benefits,employercounty,adjusted_overtime,adjusted_wages,adjusted_benefits,employer_full,fire
+2300585,2018,COUNTY,1162.0,ALPINE,SHERIFF/CORONER,BATTALION CHIEF,13372.0,98258.0,42542.0,ALPINE,13372.0,98258.0,42542.0,ALPINE_COUNTY,True
