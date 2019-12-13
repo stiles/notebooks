@@ -4,6 +4,6 @@ This repo contains the early stages of an analysis of President Trump's tweets â
 
 ## Quick frequency charts
 
-![Daily Trump tweets since inauguration heatmap](https://raw.githubusercontent.com/stiles/notebooks/master/trump-tweet-frequency/trump_freq_prez.png)
+![Daily Trump tweets since inauguration heatmap](https://raw.githubusercontent.com/stiles/notebooks/master/trump-tweet-frequency/trump_freq_prez_heatmap.png)
 
 ![Daily Trump tweets since inauguration column chart](https://raw.githubusercontent.com/stiles/notebooks/master/trump-tweet-frequency/trump_freq_prez_bar.png)
