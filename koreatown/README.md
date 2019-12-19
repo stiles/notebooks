@@ -7,7 +7,7 @@ Matching common Korean surnames to Los Angeles building and parcel data in hopes
 
 To answer the question, I downloaded [parcels](https://permitting.gis.lacounty.gov/permitting/rest/services/energovDev/ViewableDev/MapServer/8) data from Los Angeles County. I then clipped that massive countywide dataset to the boundaries of the Koreantown neighborhood, as [defined](http://s3-us-west-2.amazonaws.com/boundaries.latimes.com/archive/1.0/boundary/koreatown-la-county-neighborhood-current.geojson) by the *Los Angeles Times* [datadesk](https://github.com/datadesk).
 
-Thankfully, the parcels records have an `ownername` field, which I used to setset the data based on a list of the top Korean surnames (Kim, Lee, Park, Choi, Chung, Cho, etc...). The parcel records also have a `usetype` field, allowing for some grouping and aggregates of those Korean (and Non-Korean) owners by property type. 
+Thankfully, the parcels records have an `ownername` field, which I used to subset the data based on a list of the top Korean surnames (Kim, Lee, Park, Choi, Chung, Cho, etc...). The parcel records also have a `usetype` field, allowing for some grouping and aggregates of those Korean (and Non-Korean) owners by property type. 
 
 ## What share do 'Koreans' own?
 
