@@ -13,13 +13,13 @@ This repo contains the early stages of an analysis of President Trump's tweets â
 ## Data files
 
 [2019](http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json)
-[2018](http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json)
-[2017](http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json)
-[2016](http://www.trumptwitterarchive.com/data/realdonaldtrump/2016.json)
-[2015](http://www.trumptwitterarchive.com/data/realdonaldtrump/2015.json)
-[2014](http://www.trumptwitterarchive.com/data/realdonaldtrump/2014.json)
-[2013](http://www.trumptwitterarchive.com/data/realdonaldtrump/2013.json)
-[2012](http://www.trumptwitterarchive.com/data/realdonaldtrump/2012.json)
-[2011](http://www.trumptwitterarchive.com/data/realdonaldtrump/2011.json)
-[2010](http://www.trumptwitterarchive.com/data/realdonaldtrump/2010.json)
-[2009](http://www.trumptwitterarchive.com/data/realdonaldtrump/2009.json)
+[2018](http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json) | 
+[2017](http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json) | 
+[2016](http://www.trumptwitterarchive.com/data/realdonaldtrump/2016.json) | 
+[2015](http://www.trumptwitterarchive.com/data/realdonaldtrump/2015.json) | 
+[2014](http://www.trumptwitterarchive.com/data/realdonaldtrump/2014.json) | 
+[2013](http://www.trumptwitterarchive.com/data/realdonaldtrump/2013.json) | 
+[2012](http://www.trumptwitterarchive.com/data/realdonaldtrump/2012.json) | 
+[2011](http://www.trumptwitterarchive.com/data/realdonaldtrump/2011.json) | 
+[2010](http://www.trumptwitterarchive.com/data/realdonaldtrump/2010.json) | 
+[2009](http://www.trumptwitterarchive.com/data/realdonaldtrump/2009.json) | 
