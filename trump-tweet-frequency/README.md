@@ -22,4 +22,4 @@ This repo contains the early stages of an analysis of President Trump's tweets â
 [2012](http://www.trumptwitterarchive.com/data/realdonaldtrump/2012.json) | 
 [2011](http://www.trumptwitterarchive.com/data/realdonaldtrump/2011.json) | 
 [2010](http://www.trumptwitterarchive.com/data/realdonaldtrump/2010.json) | 
-[2009](http://www.trumptwitterarchive.com/data/realdonaldtrump/2009.json) | 
+[2009](http://www.trumptwitterarchive.com/data/realdonaldtrump/2009.json)
