@@ -12,7 +12,7 @@ This repo contains the early stages of an analysis of President Trump's tweets â
 
 ## Data files
 
-[2019](http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json)
+[2019](http://www.trumptwitterarchive.com/data/realdonaldtrump/2019.json) | 
 [2018](http://www.trumptwitterarchive.com/data/realdonaldtrump/2018.json) | 
 [2017](http://www.trumptwitterarchive.com/data/realdonaldtrump/2017.json) | 
 [2016](http://www.trumptwitterarchive.com/data/realdonaldtrump/2016.json) | 
