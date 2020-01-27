@@ -1,0 +1,4 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+575197093,11116973,N72EX,,N72EX,,SNA,VNY,VNY,
+575200232,11116973,N72EX,,N72EX,,VNY,LGB,LGB,
+575169265,11116973,N72EX,,N72EX,,SMO,SNA,SNA,

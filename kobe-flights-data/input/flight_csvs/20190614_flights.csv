@@ -1,0 +1,4 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+551946516,11116973,N72EX,,N72EX,,SMO,LGB,LGB,
+551903846,11116973,N72EX,,N72EX,,SNA,SMO,SMO,
+551892657,11116973,N72EX,,N72EX,,LGB,SNA,SNA,

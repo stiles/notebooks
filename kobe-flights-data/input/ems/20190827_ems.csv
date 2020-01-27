@@ -1,0 +1,5 @@
+flight_id,timestamp,IAS,TAS,mach,alt_MCP,alt_FMS,autopilot_flags,true_track,roll_angle,QNH,wind_direction,wind_speed,precision,alt_GPS,emergency_status,tcas_acas_status
+568219980,1566944068,,,,,,,,,,,,9,1500,,
+568219980,1566945009,,,,,,,,,,,,,1250,,
+568159297,1566922104,,,,,,,,,,,,,,,
+568159297,1566922768,,,,,,,,,,,,,1150,,

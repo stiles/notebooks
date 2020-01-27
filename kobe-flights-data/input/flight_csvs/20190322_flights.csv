@@ -1,0 +1,3 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+534959221,11116973,N72EX,,N72EX,,TOA,,,
+534947107,11116973,N72EX,,N72EX,,SAN,TOA,TOA,

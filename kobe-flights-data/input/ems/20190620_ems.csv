@@ -1,0 +1,5 @@
+flight_id,timestamp,IAS,TAS,mach,alt_MCP,alt_FMS,autopilot_flags,true_track,roll_angle,QNH,wind_direction,wind_speed,precision,alt_GPS,emergency_status,tcas_acas_status
+553008097,1560990738,,,,,,,,,,,,9,425,,
+553008097,1560991828,,,,,,,,,,,,,850,,
+553008097,1560993500,,,,,,,,,,,,,1000,,
+553020009,1560995114,,,,,,,,,,,,,825,,

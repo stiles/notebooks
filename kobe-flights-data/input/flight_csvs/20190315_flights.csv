@@ -1,0 +1,4 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+533757718,11116973,N72EX,,N72EX,,VNY,VNY,VNY,
+533783088,11116973,N72EX,,N72EX,,VNY,LGB,LGB,
+533744865,11116973,N72EX,,N72EX,,VNY,VNY,VNY,

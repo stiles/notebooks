@@ -1,0 +1,3 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+534564698,11116973,N72EX,,N72EX,,SAN,LGB,LGB,
+534561860,11116973,N72EX,,N72EX,,CLD,SAN,SAN,

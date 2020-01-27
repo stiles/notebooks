@@ -1,0 +1,4 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+535181282,11116973,N72EX,,N72EX,,LAX,LGB,LGB,
+535177175,11116973,N72EX,,N72EX,,SAN,LAX,LAX,
+535165663,11116973,N72EX,,N72EX,,LGB,SAN,SAN,

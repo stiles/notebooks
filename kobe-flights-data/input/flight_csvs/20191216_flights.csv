@@ -1,0 +1,4 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+590668926,11116973,N72EX,,N72EX,N72EX,LGB,CLD,CLD,
+590690258,11116973,N72EX,,N72EX,N72EX,CLD,LAX,LAX,
+590695925,11116973,N72EX,,N72EX,N72EX,LAX,LGB,LGB,

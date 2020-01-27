@@ -1,0 +1,3 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+567589403,11116973,N72EX,,N72EX,,LGB,LGB,LGB,
+567586720,11116973,N72EX,,N72EX,,,LGB,LGB,

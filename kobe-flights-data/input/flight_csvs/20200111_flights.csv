@@ -1,0 +1,4 @@
+flight_id,aircraft_id,reg,equip,callsign,flight,schd_from,schd_to,real_to,reserved
+595429825,11116973,N72EX,,N72EX,N72EX,LGB,SMO,SMO,
+595444346,11116973,N72EX,,N72EX,N72EX,SMO,AVX,AVX,
+595472880,11116973,N72EX,,N72EX,N72EX,,SMO,SMO,
