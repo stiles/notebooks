@@ -1,103 +1,111 @@
-,date_collected,lab_type,test_count
-0,2020-01-18,us_public_health_labs,0
-1,2020-01-19,us_public_health_labs,0
-2,2020-01-20,us_public_health_labs,0
-3,2020-01-21,us_public_health_labs,0
-4,2020-01-22,us_public_health_labs,0
-5,2020-01-23,us_public_health_labs,0
-6,2020-01-24,us_public_health_labs,0
-7,2020-01-25,us_public_health_labs,0
-8,2020-01-26,us_public_health_labs,0
-9,2020-01-27,us_public_health_labs,0
-10,2020-01-28,us_public_health_labs,0
-11,2020-01-29,us_public_health_labs,0
-12,2020-01-30,us_public_health_labs,0
-13,2020-01-31,us_public_health_labs,0
-14,2020-02-01,us_public_health_labs,0
-15,2020-02-02,us_public_health_labs,0
-16,2020-02-03,us_public_health_labs,0
-17,2020-02-04,us_public_health_labs,0
-18,2020-02-05,us_public_health_labs,0
-19,2020-02-06,us_public_health_labs,1
-20,2020-02-07,us_public_health_labs,0
-21,2020-02-08,us_public_health_labs,0
-22,2020-02-09,us_public_health_labs,2
-23,2020-02-10,us_public_health_labs,0
-24,2020-02-11,us_public_health_labs,0
-25,2020-02-12,us_public_health_labs,0
-26,2020-02-13,us_public_health_labs,0
-27,2020-02-14,us_public_health_labs,4
-28,2020-02-15,us_public_health_labs,3
-29,2020-02-16,us_public_health_labs,0
-30,2020-02-17,us_public_health_labs,26
-31,2020-02-18,us_public_health_labs,2
-32,2020-02-19,us_public_health_labs,3
-33,2020-02-20,us_public_health_labs,0
-34,2020-02-21,us_public_health_labs,1
-35,2020-02-22,us_public_health_labs,3
-36,2020-02-23,us_public_health_labs,2
-37,2020-02-24,us_public_health_labs,13
-38,2020-02-25,us_public_health_labs,11
-39,2020-02-26,us_public_health_labs,23
-40,2020-02-27,us_public_health_labs,109
-41,2020-02-28,us_public_health_labs,144
-42,2020-02-29,us_public_health_labs,252
-43,2020-03-01,us_public_health_labs,198
-44,2020-03-02,us_public_health_labs,477
-45,2020-03-03,us_public_health_labs,688
-46,2020-03-04,us_public_health_labs,995
-47,2020-03-05,us_public_health_labs,1338
-48,2020-03-06,us_public_health_labs,1438
-49,2020-03-07,us_public_health_labs,1162
-50,2020-03-08,us_public_health_labs,1102‡
-51,2020-01-18,cdc_labs,4
-52,2020-01-19,cdc_labs,0
-53,2020-01-20,cdc_labs,7
-54,2020-01-21,cdc_labs,3
-55,2020-01-22,cdc_labs,10
-56,2020-01-23,cdc_labs,36
-57,2020-01-24,cdc_labs,53
-58,2020-01-25,cdc_labs,101
-59,2020-01-26,cdc_labs,79
-60,2020-01-27,cdc_labs,77
-61,2020-01-28,cdc_labs,65
-62,2020-01-29,cdc_labs,102
-63,2020-01-30,cdc_labs,256
-64,2020-01-31,cdc_labs,63
-65,2020-02-01,cdc_labs,310
-66,2020-02-02,cdc_labs,33
-67,2020-02-03,cdc_labs,131
-68,2020-02-04,cdc_labs,93
-69,2020-02-05,cdc_labs,104
-70,2020-02-06,cdc_labs,74
-71,2020-02-07,cdc_labs,93
-72,2020-02-08,cdc_labs,79
-73,2020-02-09,cdc_labs,36
-74,2020-02-10,cdc_labs,37
-75,2020-02-11,cdc_labs,95
-76,2020-02-12,cdc_labs,56
-77,2020-02-13,cdc_labs,47
-78,2020-02-14,cdc_labs,36
-79,2020-02-15,cdc_labs,51
-80,2020-02-16,cdc_labs,24
-81,2020-02-17,cdc_labs,7
-82,2020-02-18,cdc_labs,32
-83,2020-02-19,cdc_labs,63
-84,2020-02-20,cdc_labs,55
-85,2020-02-21,cdc_labs,249
-86,2020-02-22,cdc_labs,255
-87,2020-02-23,cdc_labs,67
-88,2020-02-24,cdc_labs,50
-89,2020-02-25,cdc_labs,50
-90,2020-02-26,cdc_labs,80
-91,2020-02-27,cdc_labs,62
-92,2020-02-28,cdc_labs,86
-93,2020-02-29,cdc_labs,80
-94,2020-03-01,cdc_labs,31
-95,2020-03-02,cdc_labs,94
-96,2020-03-03,cdc_labs,73
-97,2020-03-04,cdc_labs,105
-98,2020-03-05,cdc_labs,78
-99,2020-03-06,cdc_labs,5
-100,2020-03-07,cdc_labs,137
-101,2020-03-08,cdc_labs,46‡
+,Date,lab_type,test_count
+0,2020-01-18,US Public Health Labs,0
+1,2020-01-19,US Public Health Labs,0
+2,2020-01-20,US Public Health Labs,0
+3,2020-01-21,US Public Health Labs,0
+4,2020-01-22,US Public Health Labs,0
+5,2020-01-23,US Public Health Labs,0
+6,2020-01-24,US Public Health Labs,0
+7,2020-01-25,US Public Health Labs,0
+8,2020-01-26,US Public Health Labs,0
+9,2020-01-27,US Public Health Labs,0
+10,2020-01-28,US Public Health Labs,0
+11,2020-01-29,US Public Health Labs,0
+12,2020-01-30,US Public Health Labs,0
+13,2020-01-31,US Public Health Labs,0
+14,2020-02-01,US Public Health Labs,0
+15,2020-02-02,US Public Health Labs,0
+16,2020-02-03,US Public Health Labs,0
+17,2020-02-04,US Public Health Labs,0
+18,2020-02-05,US Public Health Labs,0
+19,2020-02-06,US Public Health Labs,1
+20,2020-02-07,US Public Health Labs,0
+21,2020-02-08,US Public Health Labs,0
+22,2020-02-09,US Public Health Labs,2
+23,2020-02-10,US Public Health Labs,0
+24,2020-02-11,US Public Health Labs,0
+25,2020-02-12,US Public Health Labs,0
+26,2020-02-13,US Public Health Labs,0
+27,2020-02-14,US Public Health Labs,4
+28,2020-02-15,US Public Health Labs,3
+29,2020-02-16,US Public Health Labs,0
+30,2020-02-17,US Public Health Labs,26
+31,2020-02-18,US Public Health Labs,2
+32,2020-02-19,US Public Health Labs,3
+33,2020-02-20,US Public Health Labs,0
+34,2020-02-21,US Public Health Labs,1
+35,2020-02-22,US Public Health Labs,3
+36,2020-02-23,US Public Health Labs,2
+37,2020-02-24,US Public Health Labs,14
+38,2020-02-25,US Public Health Labs,11
+39,2020-02-26,US Public Health Labs,25
+40,2020-02-27,US Public Health Labs,117
+41,2020-02-28,US Public Health Labs,150
+42,2020-02-29,US Public Health Labs,259
+43,2020-03-01,US Public Health Labs,210
+44,2020-03-02,US Public Health Labs,489
+45,2020-03-03,US Public Health Labs,714
+46,2020-03-04,US Public Health Labs,1017
+47,2020-03-05,US Public Health Labs,1395
+48,2020-03-06,US Public Health Labs,1622
+49,2020-03-07,US Public Health Labs,1288
+50,2020-03-08,US Public Health Labs,1275
+51,2020-03-09,US Public Health Labs,2094‡
+52,2020-03-10,US Public Health Labs,1388‡
+53,2020-03-11,US Public Health Labs,461‡
+54,2020-03-12,US Public Health Labs,6‡
+55,2020-01-18,CDC Labs,4
+56,2020-01-19,CDC Labs,0
+57,2020-01-20,CDC Labs,7
+58,2020-01-21,CDC Labs,3
+59,2020-01-22,CDC Labs,10
+60,2020-01-23,CDC Labs,36
+61,2020-01-24,CDC Labs,53
+62,2020-01-25,CDC Labs,101
+63,2020-01-26,CDC Labs,79
+64,2020-01-27,CDC Labs,77
+65,2020-01-28,CDC Labs,65
+66,2020-01-29,CDC Labs,102
+67,2020-01-30,CDC Labs,256
+68,2020-01-31,CDC Labs,63
+69,2020-02-01,CDC Labs,310
+70,2020-02-02,CDC Labs,33
+71,2020-02-03,CDC Labs,131
+72,2020-02-04,CDC Labs,93
+73,2020-02-05,CDC Labs,104
+74,2020-02-06,CDC Labs,74
+75,2020-02-07,CDC Labs,93
+76,2020-02-08,CDC Labs,79
+77,2020-02-09,CDC Labs,36
+78,2020-02-10,CDC Labs,37
+79,2020-02-11,CDC Labs,95
+80,2020-02-12,CDC Labs,56
+81,2020-02-13,CDC Labs,47
+82,2020-02-14,CDC Labs,36
+83,2020-02-15,CDC Labs,51
+84,2020-02-16,CDC Labs,24
+85,2020-02-17,CDC Labs,7
+86,2020-02-18,CDC Labs,32
+87,2020-02-19,CDC Labs,63
+88,2020-02-20,CDC Labs,55
+89,2020-02-21,CDC Labs,249
+90,2020-02-22,CDC Labs,255
+91,2020-02-23,CDC Labs,67
+92,2020-02-24,CDC Labs,50
+93,2020-02-25,CDC Labs,50
+94,2020-02-26,CDC Labs,80
+95,2020-02-27,CDC Labs,62
+96,2020-02-28,CDC Labs,86
+97,2020-02-29,CDC Labs,80
+98,2020-03-01,CDC Labs,31
+99,2020-03-02,CDC Labs,94
+100,2020-03-03,CDC Labs,73
+101,2020-03-04,CDC Labs,105
+102,2020-03-05,CDC Labs,78
+103,2020-03-06,CDC Labs,5
+104,2020-03-07,CDC Labs,163
+105,2020-03-08,CDC Labs,67
+106,2020-03-09,CDC Labs,28‡
+107,2020-03-10,CDC Labs,23‡
+108,2020-03-11,CDC Labs,0‡
+109,2020-03-12,CDC Labs,0‡
