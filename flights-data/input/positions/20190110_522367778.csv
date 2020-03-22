@@ -1,0 +1,3 @@
+snapshot_id,altitude,heading,latitude,longitude,radar_id,speed,squawk
+1547108695,1000,234,34.02554,-118.03757,8444,0,0000
+1547108726,1200,75,34.02980,-118.01431,8444,110,1200
