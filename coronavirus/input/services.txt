@@ -1,0 +1,1 @@
+https://services1.arcgis.com/0MSEUqKaxRlEPj5g/ArcGIS/rest/services/COVID19_Counties_View/FeatureServer/0|esri_covid_counties|100
