@@ -1,11 +1,9 @@
 week,week_ending_date,year,count
-10,2020-03-07,historical,5008.0
 11,2020-03-14,historical,4993.0
 12,2020-03-21,historical,4811.0
 13,2020-03-28,historical,4747.0
 14,2020-04-04,historical,4768.0
 15,2020-04-11,historical,4676.0
-10,2020-03-07,this_year,5340.0
 11,2020-03-14,this_year,5107.0
 12,2020-03-21,this_year,5302.0
 13,2020-03-28,this_year,5313.0
