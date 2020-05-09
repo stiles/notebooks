@@ -1,4 +1,4 @@
-Notice Date,"EffectiveDate","ReceivedDate",Company,City,County,"No. OfEmployees",Layoff/Closure
+notice_date,effective_date,received_date,company,city,employees,layoff_closure
 06/29/2018,08/28/2018,07/02/2018,"Dream Center Education Holdings, LLC",Alameda,Alameda County,78,Closure Permanent
 06/29/2018,08/28/2018,07/02/2018,"Dream Center Education Holdings, LLC",Ontario,San Bernardino,88,Closure Permanent
 06/29/2018,08/28/2018,07/02/2018,"Dream Center Education Holdings, LLC",Sacramento,Sacramento,124,Closure Permanent

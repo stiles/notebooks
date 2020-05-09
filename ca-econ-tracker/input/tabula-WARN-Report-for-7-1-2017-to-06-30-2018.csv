@@ -1,0 +1,646 @@
+notice_date,effective_date,received_date,company,city,employees,layoff_closure
+06/22/2017,06/22/2017,07/03/2017,"Space Systems/Loral, LLC (SSL)",Palo Alto,Santa Clara,173,Layoff Permanent
+06/23/2017,08/25/2017,07/03/2017,The Boeing Company,El Segundo,Los Angeles,40,Layoff Unknown at this time
+06/23/2017,08/25/2017,07/03/2017,The Boeing Company,Huntington,Orange County,47,Layoff Unknown at this time
+06/30/2017,09/01/2017,07/03/2017,"Micron Technology, Inc.",Milpitas,Santa Clara,57,Layoff Permanent
+07/05/2017,09/03/2017,07/05/2017,"Options for Youth-Victor Valley, Inc.",Fontana,San Bernardino,107,Closure Permanent
+07/05/2017,09/03/2017,07/05/2017,"Options for Youth-Victor Valley, Inc.",Ontario,San Bernardino,1,Closure Permanent
+07/05/2017,09/08/2017,07/06/2017,"Ebisu Marketing, Corp / Hotei Marketing, Inc.",Los Angeles,Los Angeles,116,Closure Permanent
+07/07/2017,09/05/2017,07/07/2017,"BCBG Max Azria Group, LLC",Vernon,Los Angeles,492,Layoff Permanent
+06/30/2017,03/15/2017,07/10/2017,Cedars-Sinai,Los Angeles,Los Angeles,77,Layoff Permanent
+06/22/2017,09/10/2017,07/11/2017,Sears,San Diego,San Diego County,12,Closure Permanent
+06/22/2017,09/10/2017,07/11/2017,Sears,San Diego,San Diego County,74,Closure Permanent
+07/05/2017,09/18/2017,07/11/2017,Sutters Place Inc. dba Bay 101,San Jose,Santa Clara,86,Layoff Permanent
+07/10/2017,09/29/2017,07/11/2017,"AutoTrader.com, Inc.",Manhattan,Los Angeles,19,Closure Permanent
+07/06/2017,10/31/2016,07/12/2017,freenet digital Entertainment Inc.,Sherman Oaks,Los Angeles,2,Closure Unknown at this time
+07/10/2017,09/05/2017,07/12/2017,BAE Systems San Diego Ship Repair (SDSR),San Diego,San Diego County,276,Layoff Permanent
+07/11/2017,09/30/2017,07/12/2017,"Payless ShoeSource Distribution, Inc.",Redlands,San Bernardino,140,Closure Permanent
+07/13/2017,09/12/2017,07/14/2017,"Marvell Semiconductor, Inc.",Santa Clara,Santa Clara,7,Layoff Permanent
+07/14/2017,08/29/2017,07/14/2017,"YP, LLC",Glendale,Los Angeles,35,Layoff Permanent
+07/16/2017,09/14/2017,07/16/2017,"Buca Restaurants 2, Inc.",San Francisco,San Francisco,72,Closure Permanent
+07/17/2017,09/18/2017,07/17/2017,King’s Fish House,Laguna Hills,Orange County,92,Closure Temporary
+07/17/2017,09/21/2017,07/17/2017,"Interviewing Service of America, LLC",Alhambra,Los Angeles,66,Closure Permanent
+07/07/2017,09/24/2017,07/18/2017,Kmart Corporation,Eureka,Humboldt County,52,Closure Permanent
+07/18/2017,09/17/2017,07/18/2017,"Penske Vehicle Services, Inc.",Torrance,Los Angeles,15,Closure Permanent
+07/07/2017,09/24/2017,07/19/2017,Kmart Corporation,Riverside,Riverside County,64,Closure Permanent
+07/18/2017,09/15/2017,07/19/2017,"Spectrum Brands, Inc.",Mira Loma,Riverside County,130,Closure Permanent
+07/18/2017,09/30/2017,07/19/2017,Best Buy,San Francisco,San Francisco,106,Closure Permanent
+07/19/2017,09/20/2017,07/20/2017,Bay Club Thousand Oaks,Thousand Oaks,Ventura County,119,Closure Permanent
+07/19/2017,09/22/2017,07/21/2017,"LoBue Bros., Inc.",Lindsay,Tulare County,98,Closure Permanent
+07/20/2017,09/18/2017,07/21/2017,EagleBurgmann Industries L.P.,Lakeside,San Diego County,81,Closure Permanent
+07/21/2017,09/20/2017,07/21/2017,"The Ritz-Carlton, Half Moon Bay",Half Moon Bay,San Mateo County,7,Closure Permanent
+07/10/2017,07/07/2017,07/25/2017,GREE International Entertainment Inc.,San Francisco,San Francisco,63,Closure Permanent
+07/24/2017,09/19/2017,07/25/2017,Bank of the West,San Ramon,Contra Costa,54,Layoff Permanent
+07/26/2017,09/24/2017,07/27/2017,Agensys,Santa Monica,Los Angeles,222,Closure Permanent
+07/27/2017,08/03/2017,07/27/2017,PSSI (Foster Farms),Livingston,Merced County,158,Closure Permanent
+07/27/2017,10/01/2017,07/27/2017,"Molina Healthcare, Inc. (MHI)",Long Beach,Los Angeles,4,Layoff Permanent
+07/27/2017,10/01/2017,07/27/2017,"Molina Healthcare, Inc. (MHI)",Sacramento,Sacramento,5,Layoff Permanent
+07/27/2017,10/01/2017,07/27/2017,Molina Medical Management,Sacramento,Sacramento,13,Layoff Permanent
+07/27/2017,10/01/2017,07/27/2017,Molina Medical Management Inc. (MMM),Colton,San Bernardino,5,Layoff Permanent
+07/27/2017,10/01/2017,07/27/2017,Molina Medical Management Inc. (MMM),Riverside,Riverside County,1,Layoff Permanent
+07/27/2017,10/01/2017,07/27/2017,"Molina Medical Management, Inc. (MMM)",Long Beach,Los Angeles,25,Layoff Permanent
+07/27/2017,10/01/2017,07/27/2017,"Molina Medical Management, Inc. (MMM)",Pomona,Los Angeles,10,Layoff Permanent
+07/24/2017,07/26/2017,07/28/2017,Symantec Corporation,Mountain View,Santa Clara,20,Layoff Permanent
+07/26/2017,07/27/2017,07/28/2017,"Cisco Systems, Inc.",San Jose,Santa Clara,9,Layoff Permanent
+07/21/2017,09/22/2017,07/31/2017,The Boeing Company,El Segundo,Los Angeles,21,Layoff Unknown at this time
+07/21/2017,09/22/2017,07/31/2017,The Boeing Company,Huntington,Orange County,54,Layoff Unknown at this time
+07/28/2017,09/28/2017,07/31/2017,Durham School Services,Hayward,Alameda County,92,Layoff Permanent
+07/28/2017,11/15/2017,07/31/2017,"Competitor Group, Inc.",San Diego,San Diego County,145,Closure Permanent
+07/28/2017,09/01/2017,08/01/2017,Symantec Corporation,Mountain View,Santa Clara,14,Layoff Permanent
+07/31/2017,10/03/2017,08/01/2017,Schneider Electric,Clovis,Fresno County,78,Layoff Permanent
+07/18/2017,07/01/2017,08/02/2017,Hidden Valley Berries LLC,Oxnard,Ventura County,42,Closure Permanent
+07/31/2017,06/28/2017,08/02/2017,"Financial Recovery Alliance, Inc.",Citrus Heights,Sacramento,1,Closure Permanent
+08/01/2017,10/01/2017,08/02/2017,KapStone Container Corporation,Oakland,Alameda County,67,Closure Permanent
+07/26/2017,09/25/2017,08/03/2017,Seagate US LLC,Cupertino,Santa Clara,44,Layoff Permanent
+07/26/2017,09/25/2017,08/03/2017,Seagate US LLC,Fremont,Alameda County,51,Layoff Permanent
+08/01/2017,09/30/2017,08/03/2017,Jacobs Technology Inc.,Edwards,Kern County,80,Closure Permanent
+08/01/2017,09/30/2017,08/04/2017,Meridian Sports Clubs California,Los Angeles,Los Angeles,65,Closure Permanent
+08/07/2017,10/06/2017,08/08/2017,"Dole Food Company, Inc. (Dole Berry",Oxnard,Ventura County,172,Closure Permanent
+08/08/2017,10/11/2017,08/09/2017,"Irwin Industries, Inc. (AECOM)",Long Beach,Los Angeles,120,Closure Permanent
+08/08/2017,10/11/2017,08/09/2017,"Irwin Industries, Inc. (Ashland LLC)",Los Angeles,Los Angeles,51,Closure Permanent
+08/08/2017,10/11/2017,08/09/2017,"Irwin Industries, Inc. (Carpinteria Pier Marine",Ojai,Ventura County,33,Closure Permanent
+08/08/2017,10/11/2017,08/09/2017,"Irwin Industries, Inc. (Lompoc Oil Field)",Lompoc,Santa Barbara,1,Closure Permanent
+08/08/2017,10/11/2017,08/09/2017,"Irwin Industries, Inc. (PBF Torrance Refinery)",Torrance,Los Angeles,29,Closure Permanent
+08/08/2017,10/11/2017,08/09/2017,"Irwin Industries, Inc. (Phillips 66 Coalinga",Coalinga,Fresno County,24,Closure Permanent
+08/08/2017,10/11/2017,08/09/2017,"Irwin Industries, Inc. (Shore Terminals LLC)",Wilmington,Los Angeles,78,Closure Permanent
+08/08/2017,10/11/2017,08/09/2017,"Irwin Industries, Inc.(3M Moreno Valley)",Corona,Riverside County,1,Closure Permanent
+08/09/2017,10/07/2017,08/10/2017,"Ryder Systems, Inc.",Stockton,San Joaquin,140,Layoff Permanent
+08/09/2017,10/12/2017,08/11/2017,"Quest Nutrition, LLC",Hacienda,Los Angeles,402,Closure Permanent
+08/09/2017,10/26/2017,08/11/2017,"Quest Nutrition, LLC",Walnut,Los Angeles,122,Closure Permanent
+08/10/2017,10/09/2017,08/11/2017,Pergrine Pharmaceuticals (Avid Bioservices),Tustin,Orange County,60,Layoff Permanent
+08/11/2017,10/13/2017,08/14/2017,"Brocade Communications Systems, Inc.",San Jose,Santa Clara,96,Layoff Permanent
+08/03/2017,10/11/2017,08/15/2017,Menzies Aviation,San Francisco,San Mateo County,260,Layoff Permanent
+08/14/2017,10/16/2017,08/15/2017,Brinderson,El Segundo,Los Angeles,204,Closure Permanent
+08/16/2017,10/15/2017,08/17/2017,"SunBridge Carmichael Rehabilitation Center,",Carmichael,Sacramento,72,Closure Permanent
+08/16/2017,10/16/2017,08/17/2017,"Bridgepoint Education, Inc.",San Diego,San Diego County,50,Layoff Permanent
+08/16/2017,10/17/2017,08/17/2017,MSE Technologies LLC,Van Nuys,Los Angeles,155,Layoff Permanent
+08/18/2017,10/20/2017,08/21/2017,"RMR Financial, LLC",Los Gatos,Santa Clara,3,Closure Permanent
+08/15/2017,10/20/2017,08/22/2017,Daiso California LLC,Hayward,Alameda County,98,Closure Permanent
+08/21/2017,12/01/2017,08/22/2017,Harris Corporation,Morgan Hill,Santa Clara,69,Closure Permanent
+08/19/2016,10/23/2017,08/22/2017,Chili's Grill & Bar Restaurant (CANCELLED)**,Thousand Oaks,Ventura County,48,Closure Permanent
+08/18/2017,10/23/2017,08/23/2017,Euromotors Concord Inc. dba Audi Concord,Concord,Contra Costa,83,Closure Permanent
+08/23/2017,10/23/2017,08/24/2017,"FedEx Cross Border, LLC",Carson,Los Angeles,3,Closure Permanent
+08/23/2017,10/27/2017,08/24/2017,One Call Care Management,West Hills,Los Angeles,19,Closure Unknown at this time
+08/23/2017,10/25/2017,08/25/2017,Schneider Electric,Clovis,Fresno County,2,Layoff Permanent
+08/24/2017,10/23/2017,08/25/2017,Smart & Final Stores LLC,Commerce,Los Angeles,73,Layoff Permanent
+08/25/2017,08/25/2017,08/25/2017,"Natco Pregra, Inc.",Stanton,Orange County,79,Closure Unknown at this time
+08/18/2017,10/20/2017,08/28/2017,Boeing Company,El Segundo,Los Angeles,11,Layoff Unknown at this time
+08/18/2017,10/20/2017,08/28/2017,Boeing Company,Huntington,Orange County,21,Layoff Unknown at this time
+08/22/2017,10/27/2017,08/28/2017,"Sodexo, Inc",Los Angeles,Los Angeles,68,Closure Permanent
+08/24/2017,10/30/2017,08/28/2017,"The Honest Company, Inc.",Ontario,San Bernardino,69,Closure Permanent
+08/17/2017,10/17/2017,08/29/2017,"Tamo, Inc.",Rancho,San Bernardino,38,Closure Permanent
+08/28/2017,10/28/2017,08/29/2017,"Dole Food Company, Inc.",Watsonville,Santa Cruz,402,Closure Permanent
+08/29/2017,10/31/2017,08/30/2017,"Tesla, Inc.",Roseville,Placer County,63,Layoff Permanent
+08/29/2017,10/31/2017,08/31/2017,SolarCity Corporation,Roseville,Placer County,141,Layoff Permanent
+08/29/2017,10/28/2017,09/01/2017,Country Care Health Center,Atascadero,San Luis Obispo,50,Closure Permanent
+08/30/2017,10/19/2017,09/01/2017,DaVita Medical Group,El Segundo,Los Angeles,57,Layoff Permanent
+08/31/2017,10/30/2017,09/01/2017,Trio Engineered Products,Adelanto,San Bernardino,30,Closure Permanent
+08/31/2017,10/31/2017,09/01/2017,"Oracle America, Inc.",Santa Clara,Santa Clara,964,Layoff Permanent
+09/01/2017,09/30/2017,09/01/2017,Total Woman Gym + Spa,Encinitas,San Diego County,59,Closure Permanent
+08/31/2017,10/31/2017,09/06/2017,"Oracle America, Inc.",San Diego,San Diego County,54,Layoff Permanent
+09/01/2017,10/31/2017,09/06/2017,"Juicero, Inc.",Commerce,Los Angeles,98,Layoff Permanent
+09/01/2017,11/15/2017,09/06/2017,Merrill Farms LLC,Salinas,Monterey County,180,Closure Permanent
+09/01/2017,10/31/2017,09/08/2017,"Juicero, Inc.",San Francisco,San Francisco,87,Layoff Permanent
+09/01/2017,11/06/2017,09/08/2017,Rusty's Surf Ranch,Santa Monica,Los Angeles,50,Closure Temporary
+09/06/2017,11/06/2017,09/08/2017,D+H Corporation,San Francisco,San Francisco,49,Closure Permanent
+09/01/2017,08/30/2017,09/11/2017,"Eventbrite, Inc.",Oakland,Alameda County,3,Layoff Permanent
+09/01/2017,08/30/2017,09/11/2017,"Eventbrite, Inc.",San Francisco,San Francisco,44,Layoff Permanent
+09/06/2017,12/15/2017,09/11/2017,"Graphic Packaging International, Inc.",Santa Clara,Santa Clara,127,Closure Permanent
+09/06/2017,11/09/2017,09/12/2017,Super Store Industries,Fairfield,Solano County,111,Layoff Permanent
+09/07/2017,11/15/2017,09/12/2017,"Providence Farms, LLC",Salinas,Monterey County,77,Closure Unknown at this time
+09/11/2017,11/10/2017,09/12/2017,"Collection Technology, Inc.",Rancho,San Bernardino,10,Layoff Permanent
+09/06/2017,11/10/2017,09/13/2017,"Restoration Hardware, Inc.",Mira Loma,Riverside County,122,Layoff Permanent
+09/11/2017,11/10/2017,09/13/2017,"Marvell Semiconductor, Inc.",Santa Clara,Santa Clara,5,Layoff Permanent
+09/12/2017,11/10/2017,09/13/2017,"Vons Companies, Inc.",Mira Loma,Riverside County,40,Closure Permanent
+09/12/2017,11/10/2017,09/14/2017,"Vons Companies, Inc.",El Monte,Los Angeles,142,Closure Permanent
+09/12/2017,11/12/2017,09/14/2017,RR Donnelley,San Francisco,San Francisco,33,Closure Permanent
+09/13/2017,10/27/2017,09/15/2017,Providence Saint Joseph Medical Center,Burbank,Los Angeles,43,Layoff Permanent
+09/13/2017,10/27/2017,09/15/2017,Providence Saint Joseph Medical Center,Mission Hills,Los Angeles,4,Layoff Permanent
+09/13/2017,10/27/2017,09/15/2017,Providence Saint Joseph Medical Center,Orange,Orange County,2,Layoff Permanent
+09/13/2017,10/27/2017,09/15/2017,Providence Saint Joseph Medical Center,Pasadena,Los Angeles,1,Layoff Permanent
+09/13/2017,10/27/2017,09/15/2017,Providence Saint Joseph Medical Center,Torrance,Los Angeles,2,Layoff Permanent
+09/13/2017,10/27/2017,09/15/2017,Providence Saint Joseph Medical Center,Valencia,Los Angeles,7,Layoff Permanent
+09/14/2017,11/15/2017,09/15/2017,"Molina Medical Management, Inc. (MMM)",Long Beach,Los Angeles,9,Layoff Permanent
+09/14/2017,11/15/2017,09/15/2017,"Molina Medical Management, Inc. (MMM)",Pomona,Los Angeles,3,Layoff Permanent
+09/14/2017,11/15/2017,09/15/2017,"Molina Medical Management, Inc. (MMM)",Sacramento,Sacramento,5,Layoff Permanent
+09/14/2017,11/15/2017,09/15/2017,"Molina Medical Management, Inc. (MMM)",San Bernardino,San Bernardino,1,Layoff Permanent
+09/14/2017,11/15/2017,09/18/2017,"Molina Healthcare, Inc.",Long Beach,Los Angeles,194,Layoff Permanent
+09/14/2017,11/15/2017,09/18/2017,"Molina Healthcare, Inc.",Pomona,Los Angeles,1,Layoff Permanent
+09/14/2017,11/15/2017,09/18/2017,"Molina Healthcare, Inc.",Sacramento,Sacramento,3,Layoff Permanent
+09/14/2017,11/15/2017,09/19/2017,"Molina Healthcare of California, Inc.",El Centro,Imperial County,2,Layoff Permanent
+09/14/2017,11/15/2017,09/19/2017,"Molina Healthcare of California, Inc.",Pomona,Los Angeles,1,Layoff Permanent
+09/15/2017,05/31/2017,09/19/2017,General Transworld Corp.,Carson,Los Angeles,5,Closure Permanent
+09/18/2017,10/31/2017,09/19/2017,"Peoples, Inc.",Costa Mesa,Orange County,78,Closure Permanent
+09/14/2017,11/15/2017,09/20/2017,"Molina Healthcare of California, Inc.",Long Beach,Los Angeles,145,Layoff Permanent
+09/14/2017,11/15/2017,09/20/2017,"Molina Healthcare of California, Inc.",Sacramento,Sacramento,3,Layoff Permanent
+09/14/2017,11/15/2017,09/20/2017,"Molina Healthcare of California, Inc.",San Diego,San Diego County,9,Layoff Permanent
+09/14/2017,11/15/2017,09/20/2017,"Molina Healthcare of California, Inc.",Victorville,San Bernardino,14,Layoff Permanent
+09/15/2017,11/17/2017,09/20/2017,The Boeing Company (Boeing Huntington,Huntington,Orange County,12,Layoff Permanent
+09/15/2017,11/17/2017,09/20/2017,The Boeing Company (El Segundo RIF),El Segundo,Los Angeles,21,Layoff Permanent
+09/13/2017,11/13/2017,09/21/2017,Silgan Containers,Riverbank,Stanislaus County,162,Layoff Temporary
+09/18/2017,11/01/2017,09/22/2017,"George Amaral Ranches, Inc.",Gonzales,Monterey County,115,Closure Permanent
+09/21/2017,12/08/2017,09/22/2017,"Marvell Semiconductor, Inc.",Santa Clara,Santa Clara,1,Layoff Permanent
+08/30/2017,11/05/2017,09/25/2017,"Tower 23, Inc. JRDN Restaurant",San Diego,San Diego County,94,Closure Temporary
+08/31/2017,10/31/2017,09/25/2017,"PAE Aviation and Technical Services LLC,",China Lake,Kern County,293,Closure Permanent
+09/01/2017,10/31/2017,09/25/2017,"Beckman Coulter, Inc.",Chatsworth,Los Angeles,141,Closure Permanent
+09/19/2017,11/20/2017,09/25/2017,Schneider Electric,Clovis,Fresno County,78,Layoff Permanent
+09/25/2017,09/26/2017,09/26/2017,"Cisco Systems, Inc.",San Jose,Santa Clara,310,Layoff Permanent
+09/21/2017,09/21/2017,09/27/2017,"Stearns Lending, LLC",Rohnert Park,Sonoma County,6,Closure Permanent
+09/21/2017,11/20/2017,09/27/2017,"Stearns Lending, LLC",Costa Mesa,Orange County,47,Layoff Permanent
+09/21/2017,11/20/2017,09/27/2017,"Stearns Lending, LLC",Santa Ana,Orange County,112,Layoff Permanent
+08/18/2017,10/23/2017,09/28/2017,"Allergan, Inc.",Irvine,Orange County,111,Layoff Permanent
+09/27/2017,12/07/2017,09/28/2017,"Marvell Semiconductor, Inc.",Santa Clara,Santa Clara,4,Layoff Permanent
+09/28/2017,12/01/2017,09/28/2017,"Molina Healthcare of California, Inc.",Long Beach,Los Angeles,1,Layoff Permanent
+09/17/2017,11/21/2017,09/29/2017,Victor Treatment Centers,Lodi,San Joaquin,101,Closure Permanent
+09/28/2017,12/01/2017,09/29/2017,"Molina Healthcare, Inc.",Long Beach,Los Angeles,13,Layoff Permanent
+09/29/2017,10/04/2017,10/02/2017,Symantec Corporation,Mountain View,Santa Clara,21,Layoff Permanent
+09/25/2017,10/02/2017,10/03/2017,"CareFusion Resources, LLC",San Diego,San Diego County,82,Layoff Permanent
+10/03/2017,12/03/2017,10/04/2017,"Swissport SA, LLC",Los Angeles,Los Angeles,280,Layoff Permanent
+10/03/2017,12/15/2017,10/04/2017,"CVS Pharmacy, Inc.",La Habra,Orange County,39,Layoff Permanent
+10/03/2017,12/15/2017,10/04/2017,"CVS Pharmacy, Inc.",Tracy,San Joaquin,14,Layoff Permanent
+10/02/2017,12/01/2017,10/05/2017,"Brier Oak on Sunset, LLC",Los Angeles,Los Angeles,128,Layoff Permanent
+10/04/2017,12/08/2017,10/09/2017,"KeHE Monterrey Provisions, LLC",San Diego,San Diego County,91,Closure Permanent
+10/06/2017,12/15/2017,10/09/2017,Essendant Inc.,Whittier,Los Angeles,123,Closure Permanent
+10/07/2017,12/09/2017,10/09/2017,"Nestle USA, Inc.",Tulare,Tulare County,217,Layoff Temporary
+10/05/2017,12/15/2017,10/12/2017,"Swissport SA, LLC",San Francisco,San Mateo County,68,Layoff Permanent
+10/10/2017,12/11/2017,10/12/2017,"Marvell Semiconductor, Inc.",Santa Clara,Santa Clara,5,Layoff Permanent
+10/12/2017,12/15/2017,10/13/2017,"Andersen Hotels, Inc. dba Hotel Laguna",Laguna Beach,Orange County,121,Closure Permanent
+10/10/2017,12/13/2017,10/16/2017,Schneider Electric,Clovis,Fresno County,15,Layoff Permanent
+10/10/2017,12/16/2017,10/16/2017,Jacobs Field Services North America Inc.,Carson,Los Angeles,19,Layoff Permanent
+10/10/2017,12/16/2017,10/16/2017,Jacobs Field Services North America Inc.,Carson,Los Angeles,157,Layoff Permanent
+10/13/2017,12/15/2017,10/16/2017,"ATA Retail Services, LLC",Hayward,Alameda County,74,Closure Permanent
+10/11/2017,12/10/2017,10/17/2017,Laurmark Enterprises Inc. dba BAK Industries,Chatsworth,Los Angeles,199,Closure Permanent
+10/11/2017,12/10/2017,10/17/2017,Laurmark Enterprises Inc. dba BAK Industries,San Fernando,Los Angeles,62,Closure Permanent
+10/12/2017,12/11/2017,10/17/2017,"St. John Knits, Inc.",Irvine,Orange County,72,Layoff Permanent
+10/16/2017,11/01/2017,10/17/2017,"National Planning Holdings, Inc.",El Segundo,Los Angeles,163,Layoff Unknown at this time
+09/23/2017,11/26/2017,10/18/2017,"Nestle USA, Inc.",Bakersfield,Kern County,679,Layoff Temporary
+10/10/2017,12/09/2017,10/18/2017,"PIRCH, Inc.",San Diego,San Diego County,78,Closure Permanent
+10/16/2017,12/16/2017,10/18/2017,"Edmunds.com, Inc.",Santa Monica,Los Angeles,60,Layoff Permanent
+10/17/2017,12/31/2017,10/18/2017,Louis Vuitton USA Inc.,Hollywood,Los Angeles,4,Closure Permanent
+10/18/2017,12/17/2017,10/18/2017,Sea World LLC,San Diego,San Diego County,79,Layoff Permanent
+10/17/2017,12/18/2017,10/19/2017,"Museum of Ice Cream, Los Angeles",Los Angeles,Los Angeles,114,Closure Permanent
+10/18/2017,01/02/2018,10/19/2017,"Confluent Medical Technologies, Inc.",Sunnyvale,Santa Clara,69,Closure Permanent
+10/19/2017,12/21/2017,10/19/2017,Nokia USA Inc.,Sunnyvale,Santa Clara,72,Layoff Permanent
+10/13/2017,12/22/2017,10/20/2017,Murrays Iron Works,Commerce,Los Angeles,46,Closure Permanent
+10/17/2017,12/17/2017,10/20/2017,Pacific Steel Casting Company LLC,Berkeley,Alameda County,106,Closure Permanent
+10/19/2017,01/08/2018,10/20/2017,"Capital One, N.A.",San Francisco,San Francisco,132,Layoff Permanent
+10/13/2017,12/15/2017,10/23/2017,Boeing Company,El Segundo,Los Angeles,38,Layoff Unknown at this time
+10/20/2017,12/31/2017,10/23/2017,"YesVideo, Inc.",Santa Clara,Santa Clara,99,Closure Permanent
+10/13/2017,11/17/2017,10/24/2017,Boeing Company,Huntington,Orange County,46,Layoff Unknown at this time
+10/21/2017,12/23/2017,10/24/2017,"Bouchon Beverly Hills, L.P.",Beverly Hills,Los Angeles,137,Closure Permanent
+10/23/2017,12/24/2017,10/24/2017,PharMerica (8822-San Francisco-KHPS,San Leandro,Alameda County,15,Closure Permanent
+10/23/2017,12/24/2017,10/24/2017,PharMerica (8842-Westminster-KHPS Facility,Westminster,Orange County,49,Closure Permanent
+10/23/2017,12/24/2017,10/24/2017,PharMerica (8895 Los Angeles-KHPS Facility,Los Angeles,Los Angeles,22,Closure Permanent
+10/23/2017,12/24/2017,10/25/2017,PharMerica Corporation,Baldwin Park,Los Angeles,20,Closure Permanent
+10/23/2017,12/24/2017,10/25/2017,PharMerica Corporation,Gardena,Los Angeles,14,Closure Permanent
+10/23/2017,12/24/2017,10/25/2017,PharMerica Corporation,La Mirada,Los Angeles,42,Closure Permanent
+10/23/2017,12/24/2017,10/25/2017,PharMerica Corporation,Perris,Riverside County,9,Closure Permanent
+10/23/2017,12/24/2017,10/25/2017,PharMerica Corporation,San Diego,San Diego County,8,Closure Permanent
+10/23/2017,12/24/2017,10/26/2017,PharMerica Corporation,Ontario,San Bernardino,37,Closure Permanent
+10/24/2017,12/27/2017,10/26/2017,"Juniper Networks, Inc.",Sunnyvale,Santa Clara,123,Layoff Permanent
+10/26/2017,12/29/2017,10/26/2017,"Molina Healthcare, Inc. (MHI)",Long Beach,Los Angeles,44,Layoff Permanent
+09/13/2017,11/09/2017,10/27/2017,Scoobeez San Diego,San Diego,San Diego County,94,Closure Permanent
+10/24/2017,12/28/2017,10/27/2017,Joseph Cozza Salon Inc.,San Francisco,San Francisco,11,Closure Permanent
+10/24/2017,12/28/2017,10/27/2017,Joseph Cozza Salon Inc.,San Francisco,San Francisco,54,Closure Permanent
+10/25/2017,12/31/2017,10/27/2017,"Broadspectrum Downstream Services, Inc.",El Segundo,Los Angeles,255,Layoff Permanent
+10/25/2017,12/31/2017,10/27/2017,"Broadspectrum Downstream Services, Inc.",Richmond,Contra Costa,113,Layoff Permanent
+10/25/2017,01/01/2018,10/27/2017,McKesson Corporation,San Francisco,San Francisco,129,Closure Permanent
+10/27/2017,12/31/2017,10/27/2017,Hemming Horse LLP (HM LLP),Los Angeles,Los Angeles,2,Closure Permanent
+10/27/2017,12/31/2017,10/27/2017,Hemming Horse LLP (HM LLP),San Francisco,San Francisco,1,Closure Permanent
+10/27/2017,12/31/2017,10/27/2017,Hemming Horse LLP (HM LLP),San Mateo,San Mateo County,30,Closure Permanent
+10/27/2017,12/31/2017,10/27/2017,Hemming Horse LLP (HM LLP),Walnut Creek,Contra Costa,5,Closure Permanent
+10/26/2017,10/29/2017,10/30/2017,"HealthCare Conglomerate Associates, LLC",Tulare,Tulare County,524,Closure Temporary
+10/27/2017,01/14/2018,10/30/2017,"C and D Zodiac, Inc.",La Palma,Orange County,177,Closure Permanent
+10/23/2017,02/02/2018,10/31/2017,Novo Health Services,Long Beach,Los Angeles,86,Closure Permanent
+10/27/2017,01/01/2018,10/31/2017,"Eurest Services, Inc.",Mountain View,Santa Clara,169,Closure Permanent
+10/31/2017,12/31/2017,10/31/2017,"F and S Distributing Company, LLC",Vernon,Los Angeles,11,Closure Permanent
+11/01/2017,12/31/2017,11/01/2017,Bridgestone Bandag,Long Beach,Los Angeles,65,Closure Permanent
+11/01/2017,12/31/2017,11/01/2017,"Genentech, Inc.",Vacaville,Solano County,128,Layoff Permanent
+11/01/2017,12/31/2017,11/02/2017,Amgen,Thousand Oaks,Ventura County,121,Layoff Permanent
+11/02/2017,01/02/2018,11/02/2017,"REA 2003-1, LLC dba Saddle Ranch",Universal City,Los Angeles,124,Layoff Permanent
+11/02/2017,01/02/2018,11/02/2017,"Tyson Foods, Inc.",San Diego,San Diego County,53,Layoff Permanent
+07/24/2017,09/24/2017,11/03/2017,Build-A-Bear Workshop Inc.,Anaheim,Orange County,72,Closure Permanent
+10/27/2017,01/01/2018,11/03/2017,Boeing Company,El Segundo,Los Angeles,6,Layoff Unknown at this time
+10/27/2017,01/01/2018,11/03/2017,Boeing Company,Huntington,Orange County,9,Layoff Unknown at this time
+10/30/2017,12/31/2017,11/03/2017,Schneider Electric,Clovis,Fresno County,18,Layoff Permanent
+11/03/2017,01/05/2018,11/03/2017,"C.T. Mac, Inc.",Corona,Riverside County,81,Layoff Permanent
+11/03/2017,01/05/2018,11/03/2017,"C.T. Mac, Inc.",Yorba Linda,Orange County,73,Layoff Permanent
+11/03/2017,01/05/2018,11/03/2017,"Cormac, Inc. California Corporation",Norco,Riverside County,113,Layoff Permanent
+06/09/2017,08/11/2017,11/06/2017,Nestle,Glendale,Los Angeles,498,Closure Permanent
+10/31/2017,12/01/2017,11/06/2017,Symantec Corporation,Mountain View,Santa Clara,31,Layoff Permanent
+10/31/2017,12/01/2017,11/06/2017,Symantec Corporation,San Francisco,San Francisco,15,Layoff Permanent
+11/07/2017,01/08/2018,11/07/2017,Robert Talbott Inc.,Monterey,Monterey County,38,Layoff Permanent
+11/07/2017,01/08/2018,11/07/2017,"Telltale, Inc.",San Rafael,Marin County,90,Layoff Permanent
+10/30/2017,12/29/2017,11/08/2017,"Renovate America, Inc.",San Diego,San Diego County,100,Layoff Permanent
+10/31/2017,12/31/2017,11/08/2017,"Latitude 45 Catering, Inc.",Paramount,Los Angeles,33,Closure Permanent
+08/03/2017,10/01/2017,11/09/2017,Universal Alloy Corporation,Anaheim,Orange County,111,Layoff Permanent
+10/31/2017,12/15/2017,11/09/2017,"United Denim, Inc.",Los Angeles,Los Angeles,164,Closure Permanent
+11/08/2017,03/31/2018,11/09/2017,CSS Division of Parker Hannifin Corporation,Ventura,Ventura County,39,Closure Permanent
+11/09/2017,01/02/2018,11/09/2017,"Collection Technology, Inc.",Rancho,San Bernardino,13,Layoff Permanent
+11/03/2017,01/08/2018,11/13/2017,Zenith Education Group (Zenith),Santa Ana,Orange County,29,Layoff Permanent
+11/03/2017,02/28/2018,11/13/2017,Actelion,South San,San Mateo County,34,Layoff Permanent
+11/07/2017,11/08/2017,11/13/2017,Infinera Corporation,Sunnyvale,Santa Clara,73,Layoff Permanent
+11/13/2017,01/30/2018,11/14/2017,"Specialty Commodities, Inc.",Stockton,San Joaquin,63,Closure Permanent
+11/14/2017,12/31/2017,11/14/2017,Parker School Uniforms,Sacramento,Sacramento,1,Closure Permanent
+11/14/2017,12/31/2017,11/15/2017,Parker School Uniforms,Montrose,Los Angeles,2,Closure Permanent
+11/14/2017,12/31/2017,11/15/2017,Parker School Uniforms,San Clemente,Orange County,3,Closure Permanent
+11/14/2017,12/31/2017,11/15/2017,Parker School Uniforms,San Diego,San Diego County,3,Closure Permanent
+11/15/2017,01/15/2018,11/15/2017,SynerMed,Monterey Park,Los Angeles,566,Layoff Permanent
+11/15/2017,01/15/2018,11/15/2017,"Tyson Foods, Inc.",San Diego,San Diego County,17,Layoff Permanent
+11/15/2017,01/14/2018,11/16/2017,Oath Inc.,Sunnyvale,Santa Clara,90,Layoff Permanent
+11/16/2017,01/15/2018,11/16/2017,"Avanir Pharmaceuticals, Inc.",Aliso Viejo,Orange County,73,Layoff Permanent
+11/16/2017,01/15/2018,11/16/2017,SynerMed,San Bernardino,San Bernardino,60,Layoff Permanent
+11/17/2015,12/04/2017,11/17/2017,"Citrix Systems, Inc.",Santa Clara,Santa Clara,97,Layoff Permanent
+11/16/2017,01/16/2018,11/17/2017,"Dole Food Company, Inc.",Watsonville,Santa Cruz,140,Closure Permanent
+11/15/2017,01/15/2018,11/20/2017,L.E. Cooke Co,Visalia,Tulare County,278,Closure Permanent
+11/17/2017,01/19/2018,11/20/2017,"Brocade Communications Systems, Inc.",San Jose,Santa Clara,308,Layoff Permanent
+11/20/2017,01/20/2018,11/20/2017,Sedgwick LLP,San Francisco,San Francisco,78,Closure Permanent
+11/10/2017,12/31/2018,11/21/2017,"Nelson-Miller, Inc.",Los Angeles,Los Angeles,127,Closure Permanent
+11/17/2017,11/17/2017,11/21/2017,"Cal Pacific Specialty Foods, LLC (Cal Pacific)",Moss Landing,Monterey County,323,Closure Permanent
+11/17/2017,08/02/2018,11/21/2017,"Burleigh Point, Ltd.dba Billabong (Billabong",Irvine,Orange County,50,Closure Permanent
+11/20/2017,01/31/2018,11/21/2017,"APS West Coast, Inc.",Oxnard,Ventura County,46,Closure Permanent
+11/22/2017,01/21/2018,11/22/2017,"Prysm, Inc.",San Jose,Santa Clara,148,Closure Permanent
+11/22/2017,01/15/2018,11/27/2017,Verizon,San Jose,Santa Clara,190,Layoff Permanent
+11/16/2017,12/31/2017,11/28/2017,Strategic Medical Ventures,Fountain Valley,Orange County,96,Layoff Permanent
+11/16/2017,12/31/2017,11/28/2017,Strategic Medical Ventures,Long Beach,Los Angeles,14,Layoff Permanent
+11/16/2017,01/15/2018,11/28/2017,SynerMed,San Bernardino,San Bernardino,60,Layoff Permanent
+11/17/2017,01/09/2018,11/28/2017,The Boeing Company,El Segundo,Los Angeles,1,Layoff Permanent
+11/17/2017,01/19/2018,11/28/2017,The Boeing Company,Huntington,Orange County,4,Layoff Permanent
+11/28/2017,01/29/2018,11/28/2017,"Gateway One Lending &amp; Finance, LLC",Anaheim,Orange County,231,Layoff Permanent
+11/28/2017,01/31/2018,11/29/2017,"Macys Corporate Services, Inc.",Redondo Beach,Los Angeles,26,Closure Permanent
+11/29/2017,01/29/2018,11/29/2017,"BuzzFeed, Inc.",Los Angeles,Los Angeles,69,Layoff Permanent
+11/21/2017,01/29/2018,11/30/2017,Delta Dental of California,Rancho Cordova,Sacramento,51,Layoff Permanent
+11/22/2017,12/31/2017,11/30/2017,"Volume Services, Inc. dba Centerplate",San Francisco,San Francisco,1330,Layoff Permanent
+11/29/2017,01/29/2018,11/30/2017,"BuzzFeed, Inc.",San Francisco,San Francisco,3,Layoff Permanent
+11/07/2017,01/06/2018,12/01/2017,General Electric Company,San Ramon,Contra Costa,158,Layoff Permanent
+11/30/2017,02/28/2018,12/01/2017,Boston Scientific Corporation,Valencia,Los Angeles,289,Layoff Permanent
+12/01/2017,01/31/2018,12/01/2017,"Crunch, LLC",Redwood City,San Mateo County,48,Closure Permanent
+12/01/2017,09/30/2018,12/01/2017,"AMF Support Surfaces, Inc. (dba Tridien",Riverside,Riverside County,72,Closure Permanent
+11/29/2017,02/01/2018,12/04/2017,"Autodesk, Inc",San Francisco,San Francisco,108,Layoff Permanent
+11/29/2017,02/01/2018,12/04/2017,"Autodesk, Inc.",San Rafael,Marin County,49,Layoff Permanent
+11/29/2017,01/17/2018,12/05/2017,Symantec Corporation,Mountain View,Santa Clara,31,Layoff Permanent
+11/29/2017,01/17/2018,12/05/2017,Symantec Corporation,San Francisco,San Francisco,2,Layoff Permanent
+12/01/2017,01/31/2018,12/05/2017,Kalstar Enterprises,Oxnard,Ventura County,44,Layoff Permanent
+11/06/2017,12/08/2017,12/08/2017,"Mattel, Inc.",El Segundo,Los Angeles,70,Layoff Permanent
+12/06/2017,02/09/2018,12/08/2017,"Northrop Grumman Corporation, Aerospace",San Diego,San Diego County,51,Layoff Permanent
+12/06/2017,02/09/2018,12/08/2017,"Northrop Grumman Corporation, Aerospace",El Segundo,Los Angeles,82,Layoff Permanent
+12/07/2017,02/09/2018,12/08/2017,"Dart NeuroScience, LLC",San Diego,San Diego County,265,Closure Permanent
+11/29/2017,02/25/2018,12/11/2017,Loma Linda University Medical Center,Loma Linda,San Bernardino,94,Closure Permanent
+12/06/2017,02/04/2018,12/12/2017,"Depomed, Inc.",Newark,Alameda County,328,Closure Permanent
+12/13/2017,02/12/2018,12/13/2017,"Tyson Foods, Inc.",San Diego,San Diego County,40,Closure Permanent
+09/15/2017,11/17/2017,12/18/2017,"RMR Financial, LLC",Los Gatos,Santa Clara,17,Closure Permanent
+12/01/2017,02/01/2018,12/19/2017,Alstyle Apparels Anaheim Distribution Center,Anaheim,Orange County,81,Closure Permanent
+12/14/2017,02/12/2018,12/19/2017,"Huge, Inc.",Los Angeles,Los Angeles,23,Closure Permanent
+12/15/2017,02/18/2018,12/19/2017,"Evolution Hospitality, LLC",San Diego,San Diego County,41,Layoff Temporary
+12/18/2017,02/24/2018,12/19/2017,WestRock Converting Companys,Moreno Valley,Riverside County,76,Closure Permanent
+12/20/2017,12/17/2017,12/21/2017,"P.F. Changs China Bistro, Inc.",Burbank,Los Angeles,74,Closure Permanent
+12/15/2017,02/16/2018,12/26/2017,Boeing Company,El Segundo,Los Angeles,1,Layoff Unknown at this time
+12/21/2017,02/23/2018,12/26/2017,Molina Medical Management Inc. (MMM),Compton,Los Angeles,14,Layoff Permanent
+12/21/2017,02/23/2018,12/26/2017,Molina Medical Management Inc. (MMM),Moreno Valley,Riverside County,35,Layoff Permanent
+12/21/2017,02/23/2018,12/26/2017,Molina Medical Management Inc. (MMM),Sacramento,Sacramento,95,Layoff Permanent
+12/21/2017,02/23/2018,12/26/2017,Molina Medical Management Inc. (MMM),Wilmington,Los Angeles,11,Layoff Permanent
+12/15/2017,02/16/2018,12/27/2017,Boeing Company,Huntington,Orange County,2,Layoff Unknown at this time
+12/26/2017,12/31/2017,12/27/2017,ItsOn Inc.,Redwood City,San Mateo County,68,Closure Permanent
+12/21/2017,02/23/2018,12/29/2017,Molina Medical Management Inc. (MMM),Long Beach,Los Angeles,52,Layoff Permanent
+12/21/2017,02/23/2018,12/29/2017,Molina Medical Management Inc. (MMM),Ontario,San Bernardino,85,Layoff Permanent
+12/28/2017,01/07/2018,12/29/2017,Rubio Arts Corporation,Anaheim,Orange County,5,Layoff Permanent
+12/20/2017,02/05/2018,01/02/2018,"CalAtlantic Group, Inc.",Irvine,Orange County,15,Layoff Unknown at this time
+12/27/2017,02/28/2018,01/02/2018,"Accountable Healthcare, IPA",Signal Hill,Los Angeles,66,Layoff Permanent
+12/29/2017,03/03/2018,01/02/2018,"West RB, LLC ( Bistro West)",Carlsbad,San Diego County,82,Closure Permanent
+01/03/2018,03/06/2018,01/05/2018,"Act-On Software, Inc.",Roseville,Placer County,96,Closure Permanent
+01/04/2018,01/04/2018,01/05/2018,"GoPro, Inc.",San Mateo,San Mateo County,140,Layoff Permanent
+01/04/2018,04/01/2018,01/05/2018,Adventist Health (Hanford),Hanford,Kings County,205,Layoff Permanent
+01/04/2018,04/01/2018,01/05/2018,Adventist Health (Reedley and Selma),Reedley,Fresno County,115,Layoff Permanent
+01/05/2018,03/05/2018,01/05/2018,Schneider Electric,Clovis,Fresno County,9,Layoff Permanent
+01/05/2018,04/01/2018,01/05/2018,Adventist Health St. Helena,Saint Helena,Napa County,200,Layoff Permanent
+01/05/2018,01/08/2018,01/08/2018,"Smurfit Kappa North America, LLC",City of Industry,Los Angeles,155,Layoff Permanent
+01/04/2018,01/06/2018,01/09/2018,"Aurora Vista Del Mar, LLC (Hospital)",Ventura,Ventura County,194,Layoff Permanent
+01/05/2018,12/04/2017,01/09/2018,Creation Technologies,Milpitas,Santa Clara,177,Closure Permanent
+01/05/2018,01/05/2018,01/09/2018,"Activision Publishing, Inc. (Activision)",Fresno,Fresno County,50,Closure Permanent
+01/05/2018,03/18/2018,01/09/2018,Macys,Laguna Hills,Orange County,111,Closure Permanent
+01/05/2018,03/18/2018,01/09/2018,Macys,Los Angeles,Los Angeles,128,Closure Permanent
+01/05/2018,03/18/2018,01/09/2018,Macys,San Francisco,San Francisco,197,Closure Permanent
+01/05/2018,04/01/2018,01/09/2018,Adventist Health Simi Valley (Adventist Health),Simi Valley,Ventura County,70,Closure Permanent
+01/08/2018,03/09/2018,01/09/2018,"Mellanox Technologies Silicon Photonics, Inc.",Monterey Park,Los Angeles,98,Closure Permanent
+01/09/2018,03/09/2018,01/09/2018,Lockheed Martin Corporation,Edwards,Kern County,20,Layoff Permanent
+01/09/2018,03/09/2018,01/09/2018,Scripps Health Administrative Services,San Diego,San Diego County,69,Layoff Permanent
+01/09/2018,03/10/2018,01/09/2018,"Ipsos Interactive Services U.S., LLC (“Ipsos”)",Fresno,Fresno County,88,Closure Permanent
+12/08/2017,12/08/2017,01/10/2018,"Dr. Fresh, LLC",Buena Park,Orange County,33,Layoff Permanent
+01/04/2018,03/18/2018,01/10/2018,Kmart Corporation,Cudahy,Los Angeles,117,Closure Permanent
+01/04/2018,03/18/2018,01/10/2018,Sears Holdings Corporation,San Jose,Santa Clara,76,Closure Permanent
+01/04/2018,03/18/2018,01/10/2018,Sears Holdings Corporation,Valencia,Los Angeles,67,Closure Permanent
+01/04/2018,04/08/2018,01/10/2018,Kmart Corporation,Redding,Shasta County,72,Closure Permanent
+01/04/2018,04/08/2018,01/10/2018,Kmart Corporation (Store #04749),Ontario,San Bernardino,79,Closure Permanent
+01/04/2018,04/08/2018,01/10/2018,Sears Holdings Corporation,Brea,Orange County,72,Closure Permanent
+01/04/2018,04/08/2018,01/10/2018,Sears Holdings Corporation,Westminster,Orange County,88,Closure Permanent
+01/10/2018,03/10/2018,01/10/2018,Xerox Corporation,Cerritos,Los Angeles,47,Layoff Permanent
+01/10/2018,03/12/2018,01/10/2018,Gigamon Inc. (&quot;Gigamon&quot;),Santa Clara,Santa Clara,74,Layoff Permanent
+01/10/2018,03/19/2018,01/11/2018,Vasquez Company Inc.,Corona,Riverside County,53,Closure Permanent
+01/10/2018,04/01/2018,01/11/2018,Adventist Health Glendale,Glendale,Los Angeles,167,Closure Permanent
+01/11/2018,03/13/2018,01/11/2018,SynerMed,Monterey Park,Los Angeles,275,Layoff Permanent
+01/11/2018,03/16/2018,01/11/2018,Sams Club,Rowland Heights,Los Angeles,158,Closure Permanent
+01/11/2018,03/16/2018,01/11/2018,Sams Club (#6623),Sacramento,Sacramento,162,Closure Permanent
+01/11/2018,03/16/2018,01/11/2018,Sams Club (#6625),San Fernando,Los Angeles,178,Closure Permanent
+01/11/2018,03/16/2018,01/11/2018,Sams Club (#6627),Stanton,Orange County,158,Closure Permanent
+01/11/2018,03/16/2018,01/11/2018,Walmart (#5230),Sacramento,Sacramento,359,Closure Permanent
+01/05/2018,04/01/2018,01/12/2018,Adventist Health Feather River,Paradise,Butte County,72,Closure Permanent
+01/10/2018,03/12/2018,01/12/2018,Marvell Semiconductor,Santa Clara,Santa Clara,1,Layoff Permanent
+01/10/2018,03/12/2018,01/12/2018,"VMware, Inc.",Palo Alto,Santa Clara,159,Layoff Permanent
+01/12/2018,03/14/2018,01/12/2018,King’s Fish House,Orange,Orange County,80,Closure Temporary
+01/12/2018,03/16/2018,01/12/2018,"Allergan, Inc.",Irvine,Orange County,421,Layoff Permanent
+01/12/2018,03/23/2018,01/12/2018,Brinderson (Tesoro Martinez Refinery),Martinez,Contra Costa,94,Layoff Permanent
+01/12/2018,03/29/2018,01/16/2018,Brinderson,Wilmington,Los Angeles,256,Layoff Permanent
+01/16/2018,03/17/2018,01/16/2018,"California Dairies, Inc. (CDI)",Los Banos,Merced County,63,Closure Permanent
+01/16/2018,03/30/2018,01/16/2018,Wargaming America Inc,Emeryville,Alameda County,117,Closure Permanent
+01/16/2018,02/16/2018,01/17/2018,"Menasha Packaging Company, LLC",Bloomington,San Bernardino,13,Closure Permanent
+01/16/2018,03/16/2018,01/17/2018,"Tyson Foods, Inc.",San Diego,San Diego County,79,Layoff Permanent
+01/10/2018,04/01/2018,01/19/2018,Adventist Health Corporate,Roseville,Placer County,229,Layoff Permanent
+01/19/2018,03/25/2018,01/19/2018,TGI Friday’s,Oxnard,Ventura County,41,Closure Permanent
+01/18/2018,03/26/2018,01/23/2018,"ABM Industry Groups, LLC",Bakersfield,Kern County,104,Closure Permanent
+01/18/2018,03/26/2018,01/23/2018,"ABM Industry Groups, LLC",Fresno,Fresno County,189,Closure Permanent
+01/18/2018,03/26/2018,01/23/2018,"ABM Industry Groups, LLC",Visalia,Tulare County,72,Closure Permanent
+01/19/2018,01/19/2018,01/23/2018,"StandardAero Business Aviation Services,",Los Angeles,Los Angeles,63,Closure Permanent
+01/22/2018,03/23/2018,01/23/2018,Health Net of California,Woodland Hills,Los Angeles,63,Layoff Permanent
+01/15/2018,10/22/2018,01/24/2018,Zodiac Pool Systems LLC,Vista,San Diego County,67,Closure Permanent
+01/16/2018,02/16/2018,01/24/2018,"Menasha Packaging Company, LLC",Bloomington,San Bernardino,12,Closure Permanent
+01/19/2018,04/01/2018,01/24/2018,Adventist Health Sonora,Sonora,Tuolumne County,135,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Anaheim,Orange County,6,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Brea,Orange County,3,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Long Beach,Los Angeles,2,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Los Angeles,Los Angeles,9,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Norco,Riverside County,2,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Norwalk,Los Angeles,4,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Ontario,San Bernardino,2,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Santa Ana,Orange County,2,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,Torrance,Los Angeles,2,Layoff Permanent
+01/25/2018,03/31/2018,01/26/2018,Dollar Loan Center California LLC,West Covina,Los Angeles,9,Layoff Permanent
+01/25/2018,03/26/2018,01/29/2018,"Montage Hotels and Resorts, LLC",Beverly Hills,Los Angeles,54,Closure Temporary
+01/26/2018,04/16/2018,01/30/2018,"Toys R Us- Delaware, Inc.",Emeryville,Alameda County,54,Closure Permanent
+01/26/2018,04/16/2018,01/30/2018,"Toys R Us- Delaware, Inc.",San Jose,Santa Clara,59,Closure Permanent
+01/29/2018,03/31/2018,01/30/2018,"Absolute Screenprint, Inc.",Brea,Orange County,170,Closure Permanent
+01/19/2018,02/16/2018,01/31/2018,Boeing Company,El Segundo,Los Angeles,5,Layoff Unknown at this time
+01/19/2018,03/23/2018,01/31/2018,Boeing Company,Huntington,Orange County,3,Layoff Unknown at this time
+01/30/2018,03/16/2018,02/01/2018,"Laird Technologies, Inc.",Milpitas,Santa Clara,9,Closure Permanent
+01/26/2018,04/01/2018,02/02/2018,"K and R Farms, LP",Salinas,Monterey County,235,Closure Permanent
+01/29/2018,04/01/2018,02/02/2018,Adventist Health White Memorial,Los Angeles,Los Angeles,160,Layoff Permanent
+01/30/2018,04/01/2018,02/02/2018,"Broadspectrum Downstream Services, Inc",Benicia,Solano County,92,Layoff Permanent
+01/31/2018,04/01/2018,02/02/2018,"Compass Group, USA, Inc.",Rancho,San Bernardino,6,Closure Permanent
+02/01/2018,03/17/2018,02/02/2018,"Freshly Picked, LLC",Cypress,Orange County,26,Closure Permanent
+01/23/2018,02/28/2018,02/05/2018,"Kane Warehousing, Inc.",Oxnard,Ventura County,48,Layoff Permanent
+01/29/2018,03/30/2018,02/05/2018,Infiniti of Riverside,Riverside,Riverside County,25,Closure Permanent
+01/30/2018,03/30/2018,02/05/2018,Schneider Electric,Clovis,Fresno County,33,Layoff Permanent
+02/01/2018,04/06/2018,02/05/2018,Nypro,Porterville,Tulare County,111,Closure Permanent
+08/30/2017,11/01/2017,02/06/2018,Jackson National Life Insurance Company,El Segundo,Los Angeles,161,Closure Permanent
+02/02/2018,04/06/2018,02/06/2018,Boeing Company,Huntington,Orange County,3,Layoff Permanent
+02/05/2018,04/01/2018,02/06/2018,Adventist Health Bakersfield,Bakersfield,Kern County,177,Layoff Permanent
+02/05/2018,04/06/2018,02/06/2018,Artistree,City of Industry,Los Angeles,104,Layoff Permanent
+02/05/2018,04/06/2018,02/06/2018,Elite Leather Company,Chino,San Bernardino,88,Layoff Permanent
+02/06/2018,02/18/2018,02/06/2018,New Seasons Market,Sunnyvale,Santa Clara,101,Closure Permanent
+02/06/2018,03/05/2018,02/07/2018,Blue Shield of California,San Francisco,San Francisco,44,Layoff Permanent
+01/26/2018,03/27/2018,02/08/2018,ASM Research,Long Beach,Los Angeles,2,Layoff Permanent
+02/05/2018,04/06/2018,02/08/2018,"EBuys, Inc., dba Shoe Metro",San Diego,San Diego County,57,Closure Permanent
+02/08/2018,04/16/2018,02/09/2018,"The Ritz-Carlton, Lake Tahoe",Truckee,Nevada County,236,Closure Temporary
+01/29/2018,05/15/2018,02/12/2018,Littelfuse,Orange,Orange County,54,Layoff Permanent
+02/05/2018,03/31/2018,02/12/2018,"Revision Optics, Inc.",Lake Forest,Orange County,40,Layoff Permanent
+02/09/2018,02/09/2018,02/12/2018,Irvine Management Company,Irvine,Orange County,80,Layoff Permanent
+02/12/2018,04/13/2018,02/12/2018,"Illumina, Inc.",Hayward,Alameda County,1,Layoff Permanent
+02/12/2018,04/13/2018,02/13/2018,"Illumina, Inc.",San Diego,San Diego County,55,Layoff Unknown at this time
+02/12/2018,04/13/2018,02/13/2018,"Illumina, Inc.",San Francisco,San Francisco,3,Layoff Unknown at this time
+02/12/2018,04/13/2018,02/13/2018,"Illumina, Inc.",Santa Clara,Santa Clara,2,Layoff Unknown at this time
+02/12/2018,04/16/2018,02/14/2018,"Marvell Semiconducter, Inc.",Santa Clara,Santa Clara,11,Layoff Permanent
+02/12/2018,04/16/2018,02/14/2018,"Marvell Semiconductor, Inc.",Aliso Viejo,Orange County,1,Layoff Permanent
+02/15/2018,04/15/2018,02/15/2018,"Tyson Foods, Inc.",San Diego,San Diego County,401,Closure Permanent
+02/16/2018,04/22/2018,02/16/2018,TGI Fridays,Brea,Orange County,57,Closure Permanent
+02/20/2018,04/27/2018,02/21/2018,"NetApp, Inc.",Sunnyvale,Santa Clara,70,Layoff Permanent
+02/09/2018,04/15/2018,02/22/2018,Centerplate,Santa Clara,Santa Clara,759,Layoff Permanent
+02/13/2018,03/30/2018,02/22/2018,Symantec Corporation,Mountain View,Santa Clara,6,Layoff Permanent
+02/13/2018,03/30/2018,02/22/2018,Symantec Corporation,San Francisco,San Francisco,1,Layoff Permanent
+02/22/2018,04/22/2018,02/23/2018,CEVA Logistics,Stockton,San Joaquin,11,Closure Permanent
+11/07/2017,01/07/2018,02/26/2018,Zodiac Seats California LLC,Rancho,San Bernardino,186,Closure Permanent
+02/23/2018,04/29/2018,02/26/2018,"MV Transportation, Inc.",Stockton,San Joaquin,73,Closure Permanent
+02/22/2018,04/29/2018,02/28/2018,Sears Holdings Corporation,Redding,Shasta County,7,Closure Permanent
+02/22/2018,04/29/2018,02/28/2018,Sears Holdings Corporation,Redding,Shasta County,43,Closure Permanent
+02/28/2018,05/01/2018,02/28/2018,"WP Payroll Management, LLC",Los Angeles,Los Angeles,113,Closure Permanent
+02/28/2018,04/28/2018,03/01/2018,ARYZTA LLC,Los Angeles,Los Angeles,109,Closure Permanent
+03/01/2018,03/15/2018,03/01/2018,Icon Identity Solutions,Rancho,San Bernardino,22,Closure Permanent
+03/01/2018,05/01/2018,03/01/2018,"Formation Brands, LLC",Union City,Alameda County,50,Closure Permanent
+03/01/2018,05/04/2018,03/01/2018,Pathways Continuous Care dba Pathways,Sunnyvale,Santa Clara,116,Closure Permanent
+03/02/2018,01/01/2018,03/02/2018,PPG,Irvine,Orange County,34,Closure Permanent
+03/02/2018,02/02/2018,03/02/2018,Flextronics International USA Inc,Alviso,Santa Clara,52,Layoff Permanent
+03/01/2018,04/30/2018,03/05/2018,"Tintri, Inc.",Mountain View,Santa Clara,58,Layoff Permanent
+03/06/2018,04/30/2018,03/06/2018,"Beachbody, LLC",El Segundo,Los Angeles,20,Layoff Permanent
+03/06/2018,04/30/2018,03/06/2018,"Beachbody, LLC",Santa Monica,Los Angeles,70,Layoff Permanent
+03/06/2018,04/30/2018,03/07/2018,"Beachbody, LLC",Westlake Village,Ventura County,4,Layoff Permanent
+03/07/2018,05/14/2018,03/07/2018,Walkenhorsts,Napa,Napa County,57,Layoff Permanent
+02/20/2018,09/30/2018,03/09/2018,Seneca Foods Corporation,Modesto,Stanislaus County,1975,Closure Permanent
+03/09/2018,05/11/2018,03/09/2018,"Foothill Distributing Co., Inc.",Redding,Shasta County,95,Closure Permanent
+03/08/2018,03/14/2018,03/12/2018,Snap Inc.,Santa Monica,Los Angeles,30,Layoff Permanent
+03/08/2018,03/14/2018,03/12/2018,Snap Inc.,Venice,Los Angeles,62,Layoff Unknown at this time
+03/15/2018,05/14/2018,03/15/2018,"Toys R Us, Inc.",Rialto,San Bernardino,39,Closure Permanent
+03/15/2018,05/25/2018,03/15/2018,"Toys R Us, Inc.",Rialto,San Bernardino,241,Closure Permanent
+03/15/2018,05/25/2018,03/15/2018,"Toys R Us, Inc.",Stockton,San Joaquin,88,Closure Permanent
+03/15/2018,05/15/2018,03/16/2018,"Sandberg Furniture Manufacturing Co., Inc.",Vernon,Los Angeles,105,Closure Unknown at this time
+03/16/2018,03/28/2018,03/16/2018,"H and M International Transportation, Inc.",Commerce,Los Angeles,113,Closure Unknown at this time
+03/16/2018,05/18/2018,03/16/2018,"Advanced Call Center Technologies, LLC",North Highlands,Sacramento,51,Closure Permanent
+12/18/2017,02/23/2018,03/19/2018,"Nestle Regional Globe Office North America,",Glendale,Los Angeles,85,Layoff Permanent
+12/18/2017,02/23/2018,03/19/2018,"Nestle USA, Inc. (NUSA)",Oakland,Alameda County,4,Closure Permanent
+03/20/2018,05/25/2018,03/20/2018,"Johanson Dielectrics, Inc.",Sylmar,Los Angeles,197,Layoff Permanent
+03/19/2018,04/25/2018,03/21/2018,Symantec Corporation,Mountain View,Santa Clara,18,Layoff Permanent
+03/19/2018,04/25/2018,03/21/2018,Symantec Corporation,San Francisco,San Francisco,1,Layoff Permanent
+03/21/2018,05/22/2018,03/21/2018,General Electric Company,San Ramon,Contra Costa,120,Layoff Permanent
+03/21/2018,05/23/2018,03/21/2018,Boyd Coffee Company,San Diego,San Diego County,3,Closure Permanent
+03/19/2018,06/02/2018,03/22/2018,Raleys,Windsor,Sonoma County,63,Closure Temporary
+03/21/2018,05/25/2018,03/22/2018,Gayle Manufacturing Company,Woodland,Yolo County,76,Closure Permanent
+03/22/2018,05/22/2018,03/22/2018,Claim Jumper,Temecula,Riverside County,77,Closure Permanent
+03/12/2018,05/18/2018,03/23/2018,Jonathan Louis International Ltd.,Gardena,Los Angeles,100,Closure Permanent
+03/26/2018,06/01/2018,03/26/2018,iQor Holdings US LLC,Simi Valley,Ventura County,129,Layoff Permanent
+03/22/2018,05/22/2018,03/27/2018,"Allied Business Schools, Inc.",Laguna Hills,Orange County,71,Layoff Permanent
+03/26/2018,05/28/2018,03/28/2018,Adventist health Tehachapi Valley,Tehachapi,Kern County,1,Layoff Permanent
+03/26/2018,05/29/2018,03/29/2018,"The Cheesecake Factory Restaurants, Inc.",Palo Alto,Santa Clara,140,Closure Permanent
+03/26/2018,05/30/2018,03/30/2018,"Zone Enterprises of Anaheim, LLC",Anaheim,Orange County,216,Closure Permanent
+03/26/2018,07/14/2018,03/30/2018,"C and D Zodiac, inc.",Garden Grove,Orange County,46,Closure Permanent
+03/30/2018,05/31/2018,03/30/2018,"Compass Group USA, Inc. dba Chartwells",Berkeley,Alameda County,45,Closure Permanent
+03/30/2018,06/01/2018,03/30/2018,"FAA San Bruno. Inc., dba Melody Toyota",San Bruno,San Mateo County,52,Closure Permanent
+03/22/2018,05/25/2018,04/02/2018,"KnuEdge, Inc.",San Diego,San Diego County,30,Closure Permanent
+03/26/2018,05/28/2018,04/02/2018,"San Diego Gaming Ventures, LLC",Jamul,San Diego County,650,Layoff Permanent
+03/27/2018,05/31/2018,04/02/2018,Marys Gone Crackers,Gridley,Butte County,137,Closure Permanent
+03/28/2018,05/29/2018,04/02/2018,"C and D Zodiac, Inc.-Garden Grove",Garden Grove,Orange County,21,Layoff Permanent
+03/28/2018,05/31/2018,04/02/2018,Roman Catholic Welfare Corporation of,Richmond,Contra Costa,128,Closure Permanent
+03/28/2018,06/09/2018,04/02/2018,Roman Catholic Welfare Corporation of,Oakland,Alameda County,39,Closure Permanent
+03/28/2018,06/16/2018,04/02/2018,Roman Catholic Welfare Corporation of,Oakland,Alameda County,17,Closure Permanent
+03/29/2018,04/02/2018,04/02/2018,"Snap, Inc.",Venice,Los Angeles,35,Layoff Permanent
+03/30/2018,05/31/2018,04/02/2018,"Pacific South Farms, Ltd.",Carpinteria,Santa Barbara,16,Closure Permanent
+03/30/2018,06/08/2018,04/02/2018,Walmart,Simi Valley,Ventura County,130,Closure Permanent
+04/02/2018,07/03/2018,04/02/2018,Community Medical Center Long Beach,Long Beach,Los Angeles,353,Closure Permanent
+03/29/2018,04/02/2018,04/03/2018,Snap Inc.,Santa Monica,Los Angeles,26,Layoff Permanent
+03/12/2018,06/04/2018,04/04/2018,DHL Supply Chain,Moreno Valley,Riverside County,136,Closure Permanent
+04/04/2018,06/03/2018,04/04/2018,"Kraco Enterprises, LLC",Compton,Los Angeles,83,Layoff Permanent
+04/02/2018,06/01/2018,04/06/2018,Workrite Uniform Company,Oxnard,Ventura County,101,Closure Permanent
+04/06/2018,06/30/2018,04/06/2018,"Kizan International, Inc.",Brisbane,San Mateo County,60,Layoff Permanent
+04/06/2018,07/01/2018,04/06/2018,"COMP Management, Inc.",Moreno Valley,Riverside County,4,Closure Permanent
+04/03/2018,06/01/2018,04/09/2018,"Total Airport Services, LLC",Los Angeles,Los Angeles,100,Closure Permanent
+04/11/2018,06/15/2018,04/11/2018,"Hecny Transportation, Inc.",Brisbane,San Mateo County,2,Closure Permanent
+04/11/2018,06/15/2018,04/13/2018,"Four Seasons General Merchandise, Inc.",Los Angeles,Los Angeles,150,Closure Permanent
+04/12/2018,04/12/2018,04/13/2018,"Esterline Power Systems, Leach International",Buena Park,Orange County,46,Layoff Permanent
+02/06/2018,06/01/2018,04/16/2018,"Gateway One Lending and Finance, LLC",Anaheim,Orange County,30,Layoff Permanent
+04/12/2018,03/20/2018,04/16/2018,Molina Healthcare of California and Molina,Long Beach,Los Angeles,75,Layoff Permanent
+04/12/2018,03/20/2018,04/16/2018,"Molina Healthcare, Inc.",Sacramento,Sacramento,4,Layoff Permanent
+04/12/2018,07/14/2018,04/17/2018,"C and D Zodiac, Inc.",Garden Grove,Orange County,12,Closure Permanent
+04/13/2018,06/15/2018,04/17/2018,"Nestle USA, Inc.",Glendale,Los Angeles,52,Closure Permanent
+04/13/2018,06/15/2018,04/17/2018,"Nestle USA, Inc.",Oakland,Alameda County,2,Layoff Permanent
+04/16/2018,06/15/2018,04/17/2018,"Roth Staffing Companies, L.P., dba Ultimate",Irvine,Orange County,128,Layoff Permanent
+04/13/2018,06/17/2018,04/18/2018,"Rainforest Cafe, Inc.",Anaheim,Orange County,356,Closure Permanent
+04/12/2018,07/08/2018,04/19/2018,Sears Holdings Corporation,Citrus Heights,Sacramento,9,Closure Permanent
+04/12/2018,07/08/2018,04/19/2018,Sears Holdings Corporation,Citrus Heights,Sacramento,67,Closure Permanent
+04/12/2018,07/08/2018,04/19/2018,Sears Holdings Corporation,El Cajon,San Diego County,11,Closure Permanent
+04/12/2018,07/08/2018,04/19/2018,Sears Holdings Corporation,El Cajon,San Diego County,104,Closure Permanent
+04/12/2018,07/08/2018,04/19/2018,Sears Holdings Corporation,Fairfield,Solano County,9,Closure Permanent
+04/12/2018,07/08/2018,04/19/2018,Sears Holdings Corporation,Fairfield,Solano County,80,Closure Permanent
+04/12/2018,07/08/2018,04/19/2018,Sears Holdings Corporation,Roseville,Placer County,64,Closure Permanent
+04/18/2018,06/19/2018,04/19/2018,Qualcomm Incorporated,San Diego,San Diego County,1231,Layoff Unknown at this time
+04/18/2018,06/19/2018,04/19/2018,Qualcomm Incorporated,San Jose,Santa Clara,169,Layoff Unknown at this time
+04/18/2018,06/19/2018,04/19/2018,Qualcomm Incorporated,Santa Clara,Santa Clara,100,Layoff Unknown at this time
+04/02/2018,04/02/2018,04/23/2018,Curvature,Chino,San Bernardino,26,Layoff Permanent
+04/02/2018,04/02/2018,04/23/2018,Curvature,Norwalk,Los Angeles,2,Layoff Permanent
+04/02/2018,04/27/2018,04/23/2018,Curvature,Diamond Bar,Los Angeles,1,Layoff Permanent
+04/02/2018,04/27/2018,04/23/2018,Curvature,Stockton,San Joaquin,3,Layoff Permanent
+04/02/2018,09/01/2018,04/23/2018,Curvature,Duarte,Los Angeles,1,Layoff Permanent
+04/02/2018,09/01/2018,04/23/2018,Curvature,Escondido,San Diego County,3,Layoff Permanent
+04/02/2018,09/01/2018,04/23/2018,Curvature,Northridge,Los Angeles,1,Layoff Permanent
+04/02/2018,09/21/2018,04/23/2018,Curvature,Garden Grove,Orange County,3,Layoff Permanent
+10/09/2017,12/11/2017,04/24/2018,Pacific Alliance Medical Center,Los Angeles,Los Angeles,750,Closure Permanent
+04/02/2018,04/02/2018,04/24/2018,Curvature,Livermore,Alameda County,20,Layoff Permanent
+04/02/2018,04/27/2018,04/24/2018,Curvature,Roseville,Placer County,1,Layoff Permanent
+04/02/2018,05/18/2018,04/24/2018,Curvature,Fairfield,Solano County,1,Layoff Permanent
+04/02/2018,05/18/2018,04/24/2018,Curvature,Riverside,Riverside County,1,Layoff Permanent
+04/02/2018,09/01/2018,04/24/2018,Curvature,Pittsburg,Contra Costa,2,Layoff Permanent
+02/05/2018,04/13/2018,04/25/2018,"CKE Restaurant Holdings, Inc.",Anaheim,Orange County,173,Layoff Unknown at this time
+04/02/2018,04/27/2018,04/25/2018,Curvature,Fresno,Fresno County,1,Layoff Permanent
+04/02/2018,05/18/2018,04/25/2018,Curvature,Sacramento,Sacramento,3,Layoff Permanent
+04/02/2018,06/08/2018,04/25/2018,Curvature,Wallace,Calaveras County,1,Layoff Permanent
+04/02/2018,09/01/2018,04/25/2018,Curvature,Wheatland,Yuba County,1,Layoff Permanent
+04/19/2018,06/29/2018,04/25/2018,Options For Youth Public San Gabriel Charter,Chino,San Bernardino,33,Layoff Unknown at this time
+04/19/2018,06/29/2018,04/25/2018,Options For Youth Public San Gabriel Charter,Irwindale,Los Angeles,49,Layoff Unknown at this time
+04/19/2018,06/29/2018,04/25/2018,Options For Youth Public San Gabriel Charter,Los Angeles,Los Angeles,19,Layoff Unknown at this time
+04/13/2018,06/18/2018,04/26/2018,LuLaRoe,Fontana,San Bernardino,127,Layoff Permanent
+04/23/2018,07/01/2018,04/26/2018,"Diversified Silicone Products, Inc.",Santa Fe,Los Angeles,68,Closure Permanent
+04/25/2018,06/30/2018,04/27/2018,"SMA Solar Technology America, LLC",Rocklin,Placer County,51,Layoff Permanent
+04/12/2018,06/13/2018,05/01/2018,"SYR Service Company, LLC",Montecito,Santa Barbara,161,Layoff Permanent
+04/23/2018,05/17/2018,05/01/2018,Charter Communications,Cerritos,Los Angeles,66,Layoff Permanent
+04/25/2018,06/22/2018,05/01/2018,Wells Fargo,Rancho,San Bernardino,58,Closure Unknown at this time
+04/25/2018,06/25/2018,05/01/2018,"Earl of Sandwich (Anaheim), LLC",Anaheim,Orange County,69,Closure Permanent
+04/30/2018,03/18/2019,05/01/2018,"WWF Operating Company, LLC",American,Napa County,72,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,Arleta,Los Angeles,2,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,Fresno,Fresno County,3,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,Hayward,Alameda County,2,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,Ontario,San Bernardino,6,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,San Diego,San Diego County,1,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,Santa Fe,Los Angeles,5,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,Santa Maria,Santa Barbara,1,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,Turlock,Stanislaus County,1,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,Watsonville,Santa Cruz,1,Closure Permanent
+04/18/2018,06/21/2018,05/02/2018,Boyd Coffee Company,West,Yolo County,4,Closure Permanent
+04/26/2018,06/29/2018,05/03/2018,Frederick K.C. Price III Christian Schools,Los Angeles,Los Angeles,46,Closure Permanent
+04/27/2018,04/27/2018,05/03/2018,VSolvit LLC,Ventura,Ventura County,107,Layoff Permanent
+04/27/2018,06/29/2018,05/03/2018,AMETEK Inc.,Irvine,Orange County,42,Closure Permanent
+04/30/2018,07/02/2018,05/03/2018,"C and D Zodiac, Inc.",Garden Grove,Orange County,13,Layoff Permanent
+04/30/2018,07/04/2018,05/03/2018,"Sky Chefs, Inc. d/b/a LSG Sky Chefs",San Jose,Santa Clara,78,Closure Permanent
+05/01/2018,06/30/2018,05/03/2018,First Student,Los Angeles,Los Angeles,174,Closure Permanent
+05/01/2018,06/30/2018,05/03/2018,First Transit,Santa Maria,Santa Barbara,69,Closure Permanent
+05/01/2018,07/01/2018,05/03/2018,Ignyta,San Diego,San Diego County,57,Layoff Permanent
+05/01/2018,06/30/2018,05/04/2018,Bechtel Global Corporation,San Francisco,San Francisco,126,Closure Permanent
+05/01/2018,07/02/2018,05/04/2018,Saban Brands LLC,Los Angeles,Los Angeles,70,Layoff Permanent
+05/01/2018,07/27/2018,05/04/2018,"DENSO Wireless Systems America, Inc.",Vista,San Diego County,160,Closure Permanent
+05/01/2018,08/03/2018,05/04/2018,Campari America,San Francisco,San Francisco,95,Closure Permanent
+04/27/2018,05/31/2018,05/07/2018,"Sodexo, Inc.",Seaside,Monterey County,163,Closure Permanent
+04/30/2018,06/01/2018,05/07/2018,Symantec Corporation,Mountain View,Santa Clara,10,Layoff Permanent
+05/03/2018,07/06/2018,05/07/2018,Breitburn Management Company LLC,Los Angeles,Los Angeles,51,Closure Permanent
+05/03/2018,07/06/2018,05/07/2018,Grimmway Farms,Bakersfield,Kern County,201,Closure Temporary
+04/20/2018,06/17/2018,05/08/2018,"Sodexo, Inc.",Ukiah,Mendocino County,32,Closure Unknown at this time
+04/20/2018,06/30/2018,05/08/2018,"Sodexo, Inc.",Saint Helena,Napa County,38,Closure Unknown at this time
+04/20/2018,06/30/2018,05/08/2018,"Sodexo, Inc.",Vallejo,Solano County,19,Closure Unknown at this time
+04/26/2018,06/25/2018,05/08/2018,Daybreak Game Company,San Diego,San Diego County,79,Layoff Permanent
+05/03/2018,09/01/2018,05/09/2018,RR Donnelley,Ontario,San Bernardino,10,Closure Permanent
+05/04/2018,07/04/2018,05/10/2018,Spartan Shops Inc.,San Jose,Santa Clara,881,Layoff Permanent
+05/04/2018,07/05/2018,05/10/2018,Irvine Management Company,Irvine,Orange County,55,Layoff Permanent
+05/07/2018,06/29/2018,05/10/2018,Bank of the West,San Ramon,Contra Costa,35,Layoff Permanent
+05/07/2018,07/06/2018,05/10/2018,"SunBridge Paradise Rehabilitation Center,",Paradise,Butte County,78,Layoff Permanent
+05/07/2018,08/05/2018,05/11/2018,"Al Jazeera International (USA), LLC",San Francisco,San Francisco,68,Closure Permanent
+05/10/2018,07/09/2018,05/11/2018,Molina Healthcare of California,Sacramento,Sacramento,4,Layoff Permanent
+05/11/2018,07/15/2018,05/14/2018,Unisys Corporation,Edwards,Kern County,90,Layoff Permanent
+05/09/2018,07/10/2018,05/15/2018,"NetApp, Inc.",Sunnyvale,Santa Clara,36,Layoff Permanent
+05/11/2018,07/10/2018,05/15/2018,Munchery,Gardena,Los Angeles,82,Closure Permanent
+05/11/2018,07/16/2018,05/15/2018,Home Point Financial Corporation,Lake Forest,Orange County,83,Closure Permanent
+05/14/2018,06/30/2018,05/15/2018,Intel,Santa Clara,Santa Clara,65,Layoff Permanent
+05/07/2018,07/05/2018,05/17/2018,Grass Valley,Grass Valley,Nevada County,13,Closure Permanent
+05/16/2018,07/15/2018,05/18/2018,SSB Manufacturing Company,San Leandro,Alameda County,153,Closure Permanent
+05/03/2018,06/29/2018,05/21/2018,Symantec Corporation,Mountain View,Santa Clara,4,Layoff Permanent
+05/15/2018,07/16/2018,05/21/2018,"Soleil Communications, Inc. and Apollo",San Diego,San Diego County,88,Closure Permanent
+05/15/2018,07/18/2018,05/21/2018,Qualcomm Incorporated,San Diego,San Diego County,44,Layoff Unknown at this time
+05/17/2018,06/22/2018,05/21/2018,Richstone Family Center,Hawthorne,Los Angeles,58,Layoff Permanent
+05/17/2018,07/16/2018,05/21/2018,RR Donnelley,San Diego,San Diego County,49,Closure Permanent
+05/11/2018,07/10/2018,05/29/2018,Jasari Investments DBA Manteca Bowl,Manteca,San Joaquin,69,Closure Permanent
+05/15/2018,07/16/2018,05/29/2018,"Education Credit Management Corporation,",Santa Ana,Orange County,28,Closure Permanent
+05/15/2018,07/16/2018,05/29/2018,Stratoflight Corporation,Santa Ana,Orange County,57,Closure Permanent
+05/18/2018,07/19/2018,05/29/2018,"American Career College, Inc - Long Beach",Long Beach,Los Angeles,22,Closure Permanent
+05/24/2018,08/06/2018,05/29/2018,Bank of America,Pasadena,Los Angeles,575,Layoff Permanent
+03/15/2018,05/14/2018,05/30/2018,"Toys R Us, Inc.",Los Angeles,Los Angeles,72,Closure Permanent
+05/07/2018,07/15/2018,05/30/2018,JT3 LLC,Edwards,Kern County,746,Closure Permanent
+05/22/2018,07/31/2018,05/30/2018,Crab Cooker Newport Beach,Newport Beach,Orange County,60,Layoff Temporary
+05/23/2018,07/27/2018,05/30/2018,Deluxe Entertainment Services Group Inc.,Burbank,Los Angeles,52,Layoff Permanent
+05/23/2018,07/27/2018,05/30/2018,"RA Center, LLC",San Francisco,San Francisco,140,Closure Permanent
+02/06/2018,04/07/2018,05/31/2018,Concentra Inc.,Valencia,Los Angeles,180,Layoff Permanent
+05/23/2018,07/27/2018,05/31/2018,Deluxe Entertainment Services Group Inc.,Burbank,Los Angeles,25,Layoff Permanent
+05/25/2018,07/26/2018,05/31/2018,DynCorp International LLC,Fort Irwin,San Bernardino,27,Layoff Permanent
+05/25/2018,07/31/2018,05/31/2018,"IDEX Health & Science, LLC",Carlsbad,San Diego County,58,Closure Permanent
+05/25/2018,07/26/2018,06/01/2018,DynCorp International LLC,Fort Irwin,San Bernardino,91,Layoff Permanent
+05/31/2018,07/31/2018,06/01/2018,Arconic Fastening Systems,Newbury Park,Ventura County,30,Closure Permanent
+05/31/2018,08/01/2018,06/04/2018,"Conifer Revenue Cycle Solutions, LLC",Anaheim,Orange County,68,Closure Permanent
+05/31/2018,09/28/2018,06/04/2018,Wells Fargo,San Francisco,San Francisco,96,Closure Unknown at this time
+06/01/2018,07/30/2018,06/05/2018,"Motorcar Parts of America, Inc.",Torrance,Los Angeles,21,Layoff Permanent
+06/01/2018,08/03/2018,06/05/2018,"Continental Maritime of San Diego, Inc.",San Diego,San Diego County,235,Layoff Permanent
+06/01/2018,08/07/2018,06/05/2018,Finance of America Holdings LLC,Roseville,Placer County,43,Layoff Permanent
+05/29/2018,07/31/2018,06/06/2018,TsiCorp,El Segundo,Los Angeles,5,Closure Permanent
+05/29/2018,07/31/2018,06/06/2018,TsiCorp,Wilmington,Los Angeles,3,Closure Permanent
+05/30/2018,05/31/2018,06/06/2018,"Driessen Aircraft Interiors Systems USA, Inc.",Huntington,Orange County,10,Layoff Permanent
+06/04/2018,08/03/2018,06/07/2018,U.S. Bank,Irvine,Orange County,60,Closure Permanent
+06/05/2018,08/04/2018,06/07/2018,GDIT/CSRA,Moffett Field,Santa Clara,67,Layoff Permanent
+05/31/2018,09/02/2018,06/08/2018,"Sears, Roebuck and Co.",City of Industry,Los Angeles,51,Closure Permanent
+06/11/2018,08/08/2018,06/11/2018,Impax Laboratories LLC,Hayward,Alameda County,533,Closure Permanent
+06/07/2018,06/01/2018,06/12/2018,Cedars-Sinai,Los Angeles,Los Angeles,187,Layoff Permanent
+05/10/2018,07/09/2018,06/18/2018,Molina Healthcare of California,Long Beach,Los Angeles,106,Layoff Permanent
+05/30/2018,07/16/2018,06/18/2018,"RHI, Inc. dba Robertson Honda",North Hollywood,Los Angeles,119,Closure Unknown at this time
+06/11/2018,08/11/2018,06/18/2018,Onestop Internet Inc.,El Segundo,Los Angeles,69,Closure Permanent
+06/11/2018,08/11/2018,06/18/2018,Onestop Internet Inc.,Rancho,Los Angeles,56,Closure Permanent
+06/12/2018,08/13/2018,06/18/2018,Qualcomm Incorporated,San Diego,San Diego County,17,Layoff Unknown at this time
+06/12/2018,08/13/2018,06/18/2018,Qualcomm Incorporated,San Jose,Santa Clara,26,Layoff Unknown at this time
+06/12/2018,08/15/2018,06/18/2018,Antelope Valley Hospital,Palmdale,Los Angeles,137,Layoff Permanent
+06/13/2018,08/14/2018,06/18/2018,"Land O Lakes, Inc.",Tulare,Tulare County,84,Layoff Unknown at this time
+06/14/2018,08/14/2018,06/19/2018,"AT&T Communications, Inc.",Cerritos,Los Angeles,107,Layoff Permanent
+06/14/2018,08/14/2018,06/19/2018,Crystal Jade Jiang Nan LLC,San Francisco,San Francisco,77,Closure Permanent
+06/15/2018,08/14/2018,06/19/2018,"Tesla, Inc.",Fremont,Alameda County,420,Layoff Permanent
+06/15/2018,08/14/2018,06/19/2018,"Tesla, Inc.",Palo Alto,Santa Clara,86,Layoff Permanent
+06/14/2018,08/10/2018,06/20/2018,"ECS Refining, Inc.",Stockton,San Joaquin,159,Closure Permanent
+06/18/2018,08/17/2018,06/21/2018,Rexam Beverage Can Company,Chatsworth,Los Angeles,107,Closure Permanent
+06/19/2018,06/29/2018,06/21/2018,"CH2M HILL Engineers, Inc.",San Jose,Santa Clara,88,Layoff Permanent
+04/15/2018,06/15/2018,06/22/2018,NPL,San Diego,San Diego County,1,Closure Unknown at this time
+06/21/2018,09/12/2018,06/22/2018,"G2 Secure Staff, LLC",Los Angeles,Los Angeles,219,Layoff Permanent
+05/23/2017,07/28/2017,06/25/2018,Warner Music Inc.,Burbank,Los Angeles,57,Layoff Permanent
+06/12/2018,08/01/2018,06/25/2018,Community Bank,Pasadena,Los Angeles,37,Layoff Permanent
+06/20/2018,07/13/2018,06/25/2018,Symantec Corporation,Mountain View,Santa Clara,8,Layoff Permanent
+06/21/2018,08/19/2018,06/25/2018,Wells Fargo,Irvine,Orange County,67,Closure Unknown at this time
+08/03/2017,11/01/2017,06/26/2018,Chemring Energetic Devices,Torrance,Los Angeles,81,Closure Permanent
+06/20/2018,08/20/2018,06/26/2018,Globalfoundries U.S. Inc.,Santa Clara,Santa Clara,87,Layoff Permanent
+06/22/2018,09/03/2018,06/26/2018,Kings Fish House Calabasas,Calabasas,Los Angeles,89,Closure Temporary
+06/26/2018,06/26/2018,06/27/2018,"Banc of California, N.A.",Brea,Orange County,1,Layoff Permanent
+06/26/2018,06/26/2018,06/27/2018,"Banc of California, N.A.",Los Angeles,Los Angeles,10,Layoff Permanent
+06/26/2018,06/26/2018,06/27/2018,"Banc of California, N.A.",San Diego,San Diego County,2,Layoff Permanent
+05/01/2018,07/02/2018,06/28/2018,Credit.org/Springboard Solutions,Riverside,Riverside County,111,Closure Permanent
+05/29/2018,08/02/2018,06/28/2018,JCPenney,Buena Park,Orange County,98,Closure Permanent
+06/26/2018,08/27/2018,06/28/2018,"Western Digital Technology, Inc.",San Jose,Santa Clara,79,Layoff Permanent
+06/27/2018,08/26/2018,06/28/2018,Tri-City Healthcare District dba Tri-City,Oceanside,San Diego County,80,Closure Unknown at this time
+06/27/2018,06/27/2018,06/29/2018,eBay Inc.,Brisbane,San Mateo County,5,Layoff Permanent
+06/27/2018,06/27/2018,06/29/2018,eBay Inc.,San Francisco,San Francisco,41,Layoff Permanent
+06/27/2018,06/27/2018,06/29/2018,eBay Inc.,San Jose,Santa Clara,228,Layoff Permanent
+06/27/2018,08/31/2018,06/29/2018,California Medical Business Services,Arcadia,Los Angeles,64,Closure Permanent
+06/28/2018,08/28/2018,06/29/2018,Deluxe Entertainment Services Group Inc.,Burbank,Los Angeles,2,Layoff Permanent

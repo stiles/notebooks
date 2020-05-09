@@ -1,0 +1,770 @@
+notice_date,effective_date,received_date,company,city,employees,layoff_closure
+06/30/2014,0  6  / 1  8  / 2  0  14,0  7  / 0  1  / 2  0  14,Symantec Corporation,Mountain View,51,Layoff Permanent
+06/30/2014,0  9  / 1  2  / 2  0  14,0  7  / 0  7  / 2  0  14,"Post Foods, LLC",Modesto,52,Closure Permanent
+06/30/2014,0  9  / 2  6  / 2  0  14,0  7  / 0  7  / 2  0  14,"Post Foods, LLC",Modesto,6,Closure Permanent
+07/01/2014,0  9  / 1  5  / 2  0  14,0  7  / 0  7  / 2  0  14,"Crissair, Inc",Palmdale,170,Closure Permanent
+07/02/2014,1  0  / 0  1  / 2  0  14,0  7  / 0  7  / 2  0  14,Brooks Automation Inc.,Petaluma,89,Closure Permanent
+07/08/2014,0  9  / 0  7  / 2  0  14,0  7  / 0  8  / 2  0  14,"Bimbo Bakeries USA, Inc.",Fresno,73,Layoff Permanent
+07/09/2014,0  9  / 0  7  / 2  0  14,0  7  / 1  0  / 2  0  14,"Buca Restaurants 2, Inc./Buca di",Irvine,87,Closure Permanent
+07/15/2014,0  9  / 1  5  / 2  0  14,0  7  / 1  7  / 2  0  14,Xerox Business Services,Bakersfield,38,Layoff Permanent
+07/17/2014,0  9  / 1  5  / 2  0  14,0  7  / 1  7  / 2  0  14,Microsift and Nokia Inc,San Diego,378,Layoff Permanent
+07/07/2014,0  8  / 3  0  / 2  0  14,0  7  / 2  9  / 2  0  14,"McDonald's Restaurant/Nicwil, Inc.",Los Angeles,55,Closure Permanent
+07/07/2014,0  9  / 0  7  / 2  0  14,0  7  / 2  9  / 2  0  14,ITT Cannon LLC,Santa Ana,7,Layoff Permanent
+07/08/2014,1  1  / 1  4  / 2  0  14,0  7  / 2  9  / 2  0  14,American Medical Response of,Torrance,120,Closure Permanent
+07/11/2014,0  9  / 0  9  / 2  0  14,0  7  / 2  9  / 2  0  14,Temple Community Hospital,Los Angeles,288,Closure Unknown at this time
+07/15/2014,0  9  / 1  5  / 2  0  14,0  7  / 2  9  / 2  0  14,Intuit Inc.,Folsom,10,Layoff Permanent
+07/15/2014,0  9  / 1  5  / 2  0  14,0  7  / 2  9  / 2  0  14,Intuit Inc.,Menlo Park,7,Layoff Permanent
+07/15/2014,0  9  / 1  5  / 2  0  14,0  7  / 2  9  / 2  0  14,Intuit Inc.,Mountain View,65,Layoff Permanent
+07/18/2014,0  9  / 1  6  / 2  0  14,0  7  / 2  9  / 2  0  14,Grand Cafe,San Francisco,2,Layoff Permanent
+07/18/2014,0  9  / 1  9  / 2  0  14,0  7  / 2  9  / 2  0  14,Boeing Company,El Segundo,23,Layoff Permanent
+07/18/2014,0  9  / 1  9  / 2  0  14,0  7  / 2  9  / 2  0  14,Boeing Company,Long Beach,35,Layoff Permanent
+07/25/2014,0  9  / 2  5  / 2  0  14,0  7  / 2  9  / 2  0  14,Grand Cafe,San Francisco,1,Layoff Permanent
+07/15/2014,0  9  / 2  7  / 2  0  14,0  7  / 3  0  / 2  0  14,"Sierra-Cascade Nursery, Inc./Ballico",Ballico,544,Closure Temporary
+07/17/2014,0  9  / 1  9  / 2  0  14,0  7  / 3  0  / 2  0  14,Foster Poultry Farms,Porterville,60,Layoff Unknown at this time
+07/21/2014,0  9  / 2  2  / 2  0  14,0  7  / 3  0  / 2  0  14,Super Glue/Pacer Technology,Rancho,14,Layoff Permanent
+07/21/2014,0  9  / 2  2  / 2  0  14,0  7  / 3  0  / 2  0  14,T.G.I. Friday's,San Diego,56,Closure Permanent
+07/22/2014,0  9  / 3  0  / 2  0  14,0  7  / 3  0  / 2  0  14,Novartis Pharmaceuticals Corporation,Vacaville,57,Layoff Permanent
+07/23/2014,0  9  / 2  6  / 2  0  14,0  7  / 3  0  / 2  0  14,Broadcom Corporation,Irvine,240,Layoff Permanent
+07/23/2014,0  9  / 2  6  / 2  0  14,0  7  / 3  0  / 2  0  14,Broadcom Corporation,San Diego,203,Layoff Permanent
+07/23/2014,0  9  / 2  6  / 2  0  14,0  7  / 3  0  / 2  0  14,Broadcom Corporation,San Jose,7,Layoff Permanent
+07/23/2014,0  9  / 2  6  / 2  0  14,0  7  / 3  0  / 2  0  14,Broadcom Corporation,Santa Clara,7,Layoff Permanent
+07/23/2014,0  9  / 2  6  / 2  0  14,0  7  / 3  0  / 2  0  14,Broadcom Corporation,Santa Clara,61,Layoff Permanent
+07/23/2014,0  9  / 2  6  / 2  0  14,0  7  / 3  0  / 2  0  14,Broadcom Corporation,Sunnyvale,112,Layoff Permanent
+07/23/2014,0  9  / 3  0  / 2  0  14,0  7  / 3  0  / 2  0  14,"Bruker Daltonics, Inc.",Fremont,78,Layoff Permanent
+07/25/2014,0  9  / 2  3  / 2  0  14,0  7  / 3  0  / 2  0  14,Raytheon Company-Space and,El Segundo,24,Layoff Permanent
+07/25/2014,0  9  / 2  4  / 2  0  14,0  7  / 3  0  / 2  0  14,ITT Cannon LLC,Santa Ana,5,Layoff Permanent
+07/28/2014,0  9  / 2  6  / 2  0  14,0  7  / 3  0  / 2  0  14,"Lazar Industries, LLC",Los Angeles,55,Closure Permanent
+07/10/2014,0  7  / 1  1  / 2  0  14,0  7  / 3  1  / 2  0  14,Hewlitt-Packard Company,Palo Alto,82,Layoff Permanent
+07/29/2014,0  9  / 3  0  / 2  0  14,0  7  / 3  1  / 2  0  14,"Moss & Stone, LLC",San Francisco,104,Closure Unknown at this time
+07/29/2014,1  0  / 0  3  / 2  0  14,0  7  / 3  1  / 2  0  14,Millennium Partners Sports Club,San Francisco,189,Closure Permanent
+07/30/2014,0  9  / 3  0  / 2  0  14,0  7  / 3  1  / 2  0  14,"Trius Therapeutics, Inc.",San Diego,6,Layoff Unknown at this time
+07/31/2014,0  9  / 3  0  / 2  0  14,0  7  / 3  1  / 2  0  14,"Cerexa, Inc.",Oakland,52,Closure Permanent
+07/11/2014,0  7  / 1  7  / 2  0  14,0  8  / 0  1  / 2  0  14,"G2 Secure Staff, LLC (Waste",Pico Rivera,55,Closure Permanent
+07/14/2014,0  9  / 0  1  / 2  0  14,0  8  / 0  1  / 2  0  14,DNC - Back Lot Deli-Bradley Terminal-,Los Angeles,25,Layoff Permanent
+07/14/2014,0  9  / 2  6  / 2  0  14,0  8  / 0  1  / 2  0  14,Terminal 2 Wolfgang Pucks-Bradley,Los Angeles,24,Layoff Permanent
+07/15/2014,0  9  / 1  3  / 2  0  14,0  8  / 0  1  / 2  0  14,Beverly Community Hospital,Montebello,82,Layoff Permanent
+07/15/2014,0  9  / 1  5  / 2  0  14,0  8  / 0  1  / 2  0  14,Intuit Inc,San Diego,7,Layoff Permanent
+07/15/2014,0  9  / 1  5  / 2  0  14,0  8  / 0  1  / 2  0  14,Intuit Inc,Woodland Hills,120,Layoff Permanent
+07/16/2014,0  9  / 2  9  / 2  0  14,0  8  / 0  1  / 2  0  14,"VPD IV, INc",El Dorado Hills,17,Closure Permanent
+07/29/2014,0  9  / 3  0  / 2  0  14,0  8  / 0  4  / 2  0  14,Tatitlek Corporation,Twentynine Palms,2562,Layoff Permanent
+08/01/2014,1  0  / 0  3  / 2  0  14,0  8  / 0  4  / 2  0  14,Nestle Prepared Foods Company/Hot,Chatsworth,353,Layoff Unknown at this time
+08/01/2014,1  0  / 0  7  / 2  0  14,0  8  / 0  4  / 2  0  14,CTI Foods/Custom Food Products,Long Beach,315,Closure Permanent
+07/30/2014,1  0  / 0  3  / 2  0  14,0  8  / 0  5  / 2  0  14,Northrop Grumman Corporation,Fort Irwin,423,Layoff Permanent
+07/31/2014,0  6  / 1  8  / 2  0  14,0  8  / 0  5  / 2  0  14,Symantec Corporation,Mountain View,4,Layoff Permanent
+07/31/2014,0  8  / 0  1  / 2  0  14,0  8  / 0  5  / 2  0  14,Hewlett-Packard Company,Palo Alto,39,Layoff Permanent
+08/01/2014,0  9  / 1  9  / 2  0  14,0  8  / 0  5  / 2  0  14,Boeing Company,Long Beach,158,Layoff Unknown at this time
+08/01/2014,1  0  / 0  1  / 2  0  14,0  8  / 0  5  / 2  0  14,"United Airlines, Inc.",San Francisco,233,Layoff Permanent
+08/04/2014,1  0  / 0  3  / 2  0  14,0  8  / 0  5  / 2  0  14,RMR Financial LLC,Santa Monica,12,Layoff Permanent
+07/31/2014,1  0  / 0  4  / 2  0  14,0  8  / 0  6  / 2  0  14,Foothill Transit/First Transit,Arcadia,416,Layoff Permanent
+08/05/2014,1  0  / 0  4  / 2  0  14,0  8  / 0  6  / 2  0  14,"Space Systems/Loral, LLC",Palo Alto,53,Layoff Permanent
+08/05/2014,1  0  / 0  5  / 2  0  14,0  8  / 0  7  / 2  0  14,Springleaf Finance,Rancho,10,Closure Permanent
+08/05/2014,1  0  / 0  8  / 2  0  14,0  8  / 0  7  / 2  0  14,"Actavis, Inc.",Corona,48,Layoff Permanent
+08/06/2014,1  0  / 0  6  / 2  0  14,0  8  / 1  1  / 2  0  14,Sutter Health/ABSMC Summit,Oakland,4,Layoff Permanent
+08/08/2014,1  0  / 1  0  / 2  0  14,0  8  / 1  1  / 2  0  14,Southern California Edison Company,Azusa,8,Layoff Permanent
+08/08/2014,1  0  / 1  0  / 2  0  14,0  8  / 1  1  / 2  0  14,Southern California Edison Company,Baldwin Park,320,Layoff Permanent
+08/08/2014,1  0  / 1  0  / 2  0  14,0  8  / 1  1  / 2  0  14,Southern California Edison Company,Rosemead,82,Layoff Permanent
+08/12/2014,0  8  / 1  2  / 2  0  14,0  8  / 1  3  / 2  0  14,TaylorMade Golf Company,Carlsbad,98,Layoff Permanent
+08/11/2014,1  0  / 1  0  / 2  0  14,0  8  / 1  4  / 2  0  14,"RAD Harvest, LLC",Monterey,1,Layoff Permanent
+08/11/2014,1  0  / 1  0  / 2  0  14,0  8  / 1  4  / 2  0  14,"RAD Harvest, LLC",Salinas,80,Layoff Permanent
+08/14/2014,0  9  / 2  6  / 2  0  14,0  8  / 1  4  / 2  0  14,"Amcor Rigid Plastics USA, Inc.",Los Angeles,112,Layoff Permanent
+08/14/2014,1  0  / 1  4  / 2  0  14,0  8  / 1  5  / 2  0  14,Raytheon Company-Space & Airborne,El Segundo,28,Layoff Permanent
+08/19/2014,0  8  / 1  9  / 2  0  14,0  8  / 1  9  / 2  0  14,"Risk Management Solutions, Inc.",Newark,78,Layoff Permanent
+08/21/2014,1  0  / 2  0  / 2  0  14,0  8  / 2  1  / 2  0  14,"Angelica Textile Services, Inc.",San Diego,67,Closure Permanent
+08/25/2014,1  1  / 0  1  / 2  0  14,0  8  / 2  5  / 2  0  14,BD Medical,Carlsbad,100,Closure Permanent
+08/22/2014,1  0  / 2  4  / 2  0  14,0  8  / 2  6  / 2  0  14,Boeing Company,Huntington Beach,53,Layoff Unknown at this time
+08/22/2014,1  0  / 2  4  / 2  0  14,0  8  / 2  6  / 2  0  14,Boeing Company,Long Beach,49,Layoff Unknown at this time
+08/25/2014,1  0  / 2  4  / 2  0  14,0  8  / 2  6  / 2  0  14,Ball Metal Food & Household Products,Oakdale,159,Layoff Permanent
+08/18/2014,1  0  / 2  3  / 2  0  14,0  8  / 2  7  / 2  0  14,Imperium Security Specialists,San Jose,45,Layoff Unknown at this time
+08/22/2014,1  0  / 2  4  / 2  0  14,0  8  / 2  7  / 2  0  14,Boeing Company,El Segundo,37,Layoff Unknown at this time
+08/26/2014,0  8  / 2  6  / 2  0  14,0  8  / 2  7  / 2  0  14,Disney Interactive,Palo Alto,55,Layoff Permanent
+08/26/2014,0  8  / 2  6  / 2  0  14,0  8  / 2  8  / 2  0  14,"Aruba Networks, Inc.",Sunnyvale,116,Layoff Permanent
+08/26/2014,1  0  / 2  5  / 2  0  14,0  8  / 2  8  / 2  0  14,HSBC,Pomona,40,Layoff Permanent
+08/27/2014,1  1  / 0  3  / 2  0  14,0  8  / 2  8  / 2  0  14,Precyse Solutions LLC,Los Angeles,61,Layoff Permanent
+08/22/2014,1  0  / 2  2  / 2  0  14,0  9  / 0  2  / 2  0  14,Super Glue/Pacer Technology,Ontario,10,Layoff Permanent
+08/22/2014,1  0  / 2  2  / 2  0  14,0  9  / 0  2  / 2  0  14,Super Glue/Pacer Technology,Rancho,1,Layoff Permanent
+08/25/2014,1  0  / 2  6  / 2  0  14,0  9  / 0  2  / 2  0  14,USS-POSCO Industries,Pittsburg,643,Layoff Unknown at this time
+08/05/2014,0  8  / 0  4  / 2  0  14,0  9  / 0  3  / 2  0  14,BAE Systems,San Francisco,1,Layoff Unknown at this time
+08/12/2014,0  8  / 1  1  / 2  0  14,0  9  / 0  3  / 2  0  14,BAE Systems,San Francisco,1,Layoff Unknown at this time
+08/21/2014,1  1  / 1  0  / 2  0  14,0  9  / 0  3  / 2  0  14,"Investor's Business Daily, Inc.",Los Angeles,38,Layoff Permanent
+08/25/2014,1  0  / 3  1  / 2  0  14,0  9  / 0  3  / 2  0  14,"Allergan, Inc.",Irvine,129,Layoff Permanent
+08/28/2014,1  1  / 0  1  / 2  0  14,0  9  / 0  3  / 2  0  14,Menzies Aviation LAX,Los Angeles,65,Layoff Permanent
+08/28/2014,1  1  / 0  1  / 2  0  14,0  9  / 0  4  / 2  0  14,Stingaree,San Diego,111,Closure Permanent
+09/02/2014,1  1  / 0  3  / 2  0  14,0  9  / 0  4  / 2  0  14,"Exelixis, Inc.",South San,152,Layoff Permanent
+08/25/2014,0  9  / 0  9  / 2  0  14,0  9  / 0  5  / 2  0  14,BAE Systems,San Francisco,87,Layoff Temporary
+08/29/2014,1  0  / 0  1  / 2  0  14,0  9  / 0  5  / 2  0  14,Symantec Corporation,Mountain View,2,Layoff Permanent
+08/29/2014,1  0  / 2  9  / 2  0  14,0  9  / 0  5  / 2  0  14,The House of Big Fish and Ice Cold,Laguna Beach,58,Closure Permanent
+09/02/2014,1  0  / 2  6  / 2  0  14,0  9  / 0  5  / 2  0  14,Bank of America,Simi Valley,36,Layoff Permanent
+09/04/2014,1  1  / 0  7  / 2  0  14,0  9  / 0  5  / 2  0  14,The Active Network,San Diego,47,Layoff Permanent
+09/05/2014,1  1  / 0  7  / 2  0  14,0  9  / 0  5  / 2  0  14,QBE North America,Irvine,68,Layoff Unknown at this time
+09/04/2014,1  1  / 0  6  / 2  0  14,0  9  / 0  9  / 2  0  14,Narus,Sunnyvale,17,Layoff Permanent
+09/08/2014,1  1  / 0  3  / 2  0  14,0  9  / 0  9  / 2  0  14,"Exelixis, Inc.",South San,2,Layoff Permanent
+09/03/2014,1  0  / 3  1  / 2  0  14,0  9  / 1  0  / 2  0  14,"Security Industry Specialist, Inc.",San Bruno,10,Layoff Permanent
+09/03/2014,1  0  / 3  1  / 2  0  14,0  9  / 1  0  / 2  0  14,"Security Industry Specialists, Inc.",Mountain View,310,Layoff Permanent
+09/03/2014,1  0  / 3  1  / 2  0  14,0  9  / 1  0  / 2  0  14,"Security Industry Specialists, Inc.",Palo Alto,3,Layoff Permanent
+09/03/2014,1  0  / 3  1  / 2  0  14,0  9  / 1  0  / 2  0  14,"Security Industry Specialists, Inc.",San Francisco,12,Layoff Permanent
+09/08/2014,1  1  / 0  7  / 2  0  14,0  9  / 1  5  / 2  0  14,Discover Home Loans,Irvine,4,Layoff Permanent
+09/09/2014,1  1  / 1  0  / 2  0  14,0  9  / 1  5  / 2  0  14,Antelope Valley Hospital,Lancaster,99,Layoff Unknown at this time
+09/12/2014,1  1  / 1  4  / 2  0  14,0  9  / 1  5  / 2  0  14,Ducommun Incorporated/Ducommun,Monrovia,68,Layoff Permanent
+09/07/2014,1  1  / 1  0  / 2  0  14,0  9  / 1  7  / 2  0  14,Aramark Management Services,Los Alamitos,51,Closure Permanent
+09/11/2014,1  1  / 1  0  / 2  0  14,0  9  / 1  7  / 2  0  14,California Superstores Valencia CJDR,Valencia,64,Closure Unknown at this time
+09/15/2014,1  1  / 1  4  / 2  0  14,0  9  / 1  7  / 2  0  14,United Technologies,San Diego,6,Closure Permanent
+09/15/2014,1  1  / 1  6  / 2  0  14,0  9  / 1  7  / 2  0  14,Drew Ford,La Mesa,281,Closure Permanent
+09/10/2014,1  1  / 0  2  / 2  0  14,0  9  / 1  8  / 2  0  14,Bank of America,Los Angeles,5,Layoff Permanent
+09/11/2014,1  1  / 1  0  / 2  0  14,0  9  / 1  8  / 2  0  14,Morrison Healthcare,Los Alamitos,53,Closure Permanent
+09/11/2014,1  1  / 1  5  / 2  0  14,0  9  / 1  8  / 2  0  14,Morrison Healthcare,Palm Springs,85,Closure Permanent
+09/15/2014,1  1  / 1  4  / 2  0  14,0  9  / 1  8  / 2  0  14,Yahoo! Inc.,Carlsbad,59,Closure Permanent
+09/15/2014,1  1  / 2  4  / 2  0  14,0  9  / 1  8  / 2  0  14,Warren's Blackboard,North Hollywood,58,Layoff Permanent
+09/17/2014,0  9  / 1  7  / 2  0  14,0  9  / 1  8  / 2  0  14,"Hightail, Inc.",Campbell,74,Layoff Permanent
+09/17/2014,1  1  / 2  4  / 2  0  14,0  9  / 1  8  / 2  0  14,San Francisco Marriott Marquis,San Francisco,22,Layoff Temporary
+09/12/2014,1  1  / 1  2  / 2  0  14,0  9  / 2  2  / 2  0  14,BD Biosciences,San Jose,60,Layoff Permanent
+09/15/2014,1  1  / 1  9  / 2  0  14,0  9  / 2  3  / 2  0  14,Ralphs Grocery Company,Whittier,62,Closure Unknown at this time
+09/19/2014,1  1  / 1  9  / 2  0  14,0  9  / 2  3  / 2  0  14,Western/Induspac Packaging Group,Livermore,46,Closure Unknown at this time
+09/15/2014,1  1  / 1  7  / 2  0  14,0  9  / 2  5  / 2  0  14,Discover Financial Services-Personal,Irvine,25,Layoff Permanent
+09/15/2014,1  1  / 1  7  / 2  0  14,0  9  / 2  5  / 2  0  14,Morrison Healthcare,Fountain Valley,91,Closure Permanent
+09/17/2014,1  1  / 1  7  / 2  0  14,0  9  / 2  5  / 2  0  14,"Microsoft and Nokia, Inc.",Mountain View,94,Layoff Permanent
+09/18/2014,1  1  / 1  7  / 2  0  14,0  9  / 2  5  / 2  0  14,"Microsoft and Nokia, Inc.",San Diego,13,Layoff Permanent
+09/18/2014,1  1  / 1  7  / 2  0  14,0  9  / 2  5  / 2  0  14,"Microsoft and Nokia, Inc.",Sunnyvale,53,Layoff Permanent
+09/19/2014,1  1  / 1  8  / 2  0  14,0  9  / 2  5  / 2  0  14,Sierra Nevada Corporation,Poway,33,Closure Permanent
+09/19/2014,1  1  / 2  2  / 2  0  14,0  9  / 2  5  / 2  0  14,Envoy Air,Los Angeles,107,Layoff Permanent
+09/22/2014,1  1  / 2  1  / 2  0  14,0  9  / 2  5  / 2  0  14,Office Max,Menlo Park,74,Closure Permanent
+09/22/2014,1  1  / 2  1  / 2  0  14,0  9  / 2  9  / 2  0  14,Moark LLC,Fontana,73,Closure Permanent
+09/15/2014,1  1  / 1  7  / 2  0  14,0  9  / 3  0  / 2  0  14,Discover Financial Services,Irvine,25,Layoff Permanent
+09/22/2014,1  0  / 3  1  / 2  0  14,0  9  / 3  0  / 2  0  14,Arcata Associates Inc.,Edwards,101,Layoff Permanent
+09/22/2014,1  1  / 2  1  / 2  0  14,0  9  / 3  0  / 2  0  14,Moark LLC,Menifee,25,Closure Permanent
+09/22/2014,1  1  / 2  1  / 2  0  14,0  9  / 3  0  / 2  0  14,Moark LLC,Nuevo,87,Closure Permanent
+09/22/2014,1  1  / 2  3  / 2  0  14,0  9  / 3  0  / 2  0  14,Silgan Containers,Riverbank,178,Layoff Temporary
+09/22/2014,1  0  / 1  0  / 2  0  14,1  0  / 0  1  / 2  0  14,"Cisco Systems, Inc.",San Jose,1005,Layoff Permanent
+09/22/2014,1  1  / 2  1  / 2  0  14,1  0  / 0  1  / 2  0  14,Boeing Company,Huntington Beach,40,Layoff Unknown at this time
+09/26/2014,1  0  / 2  7  / 2  0  14,1  0  / 0  1  / 2  0  14,Exide Technologies,Los Angeles,61,Layoff Temporary
+09/22/2014,1  1  / 2  1  / 2  0  14,1  0  / 0  2  / 2  0  14,Boeing Company,Long Beach,227,Layoff Unknown at this time
+09/22/2014,1  1  / 2  1  / 2  0  14,1  0  / 0  3  / 2  0  14,Boeing Company,El Segundo,51,Layoff Unknown at this time
+09/16/2014,0  9  / 3  0  / 2  0  14,1  0  / 0  6  / 2  0  14,Asset Protection and Security,El Centro,184,Closure Permanent
+09/30/2014,1  2  / 0  1  / 2  0  14,1  0  / 0  6  / 2  0  14,MBM Foodservice,Fullerton,76,Closure Permanent
+09/25/2014,1  1  / 2  4  / 2  0  14,1  0  / 0  7  / 2  0  14,"Astronics Test Systems, Inc.",Irvine,53,Layoff Permanent
+09/26/2014,1  1  / 1  5  / 2  0  14,1  0  / 0  7  / 2  0  14,Crothall Halthcare-Desert Regional,Palm Springs,81,Closure Permanent
+10/02/2014,0  1  / 1  7  / 2  0  15,1  0  / 0  7  / 2  0  14,"Kohl's Department Stores, Inc.",Hayward,90,Closure Permanent
+10/02/2014,1  2  / 0  2  / 2  0  14,1  0  / 0  7  / 2  0  14,McGraw-Hill Education,Monterey,47,Layoff Unknown at this time
+10/01/2014,1  2  / 0  1  / 2  0  14,1  0  / 0  8  / 2  0  14,ITT Cannon LLC,Santa Ana,41,Layoff Permanent
+10/03/2014,1  1  / 0  6  / 2  0  14,1  0  / 0  8  / 2  0  14,"Albertson's, LLC",Hawthorne,78,Closure Permanent
+10/03/2014,1  2  / 3  1  / 2  0  14,1  0  / 0  8  / 2  0  14,Atrium Corporation,Ontario,131,Closure Permanent
+09/29/2014,1  1  / 2  8  / 2  0  14,1  0  / 0  9  / 2  0  14,"Allergan, Inc.",Carlsbad,40,Layoff Permanent
+09/29/2014,1  1  / 2  8  / 2  0  14,1  0  / 1  3  / 2  0  14,"Allergan, Inc.",Irvine,371,Layoff Permanent
+09/15/2014,1  1  / 3  0  / 2  0  14,1  0  / 1  4  / 2  0  14,"Nor-Cal Beverage Co, Inc.",Loomis,118,Layoff Permanent
+09/15/2014,1  1  / 3  0  / 2  0  14,1  0  / 1  4  / 2  0  14,"Nor-Cal Beverage Co., Inc./Go Girl",West Sacramento,10,Layoff Permanent
+09/28/2014,1  1  / 2  8  / 2  0  14,1  0  / 1  4  / 2  0  14,Tatitlek Corporation,Twentynine Palms,125,Layoff Permanent
+09/29/2014,1  1  / 2  8  / 2  0  14,1  0  / 1  4  / 2  0  14,"Allergan, Inc.",Goleta,134,Closure Permanent
+09/29/2014,1  1  / 2  9  / 2  0  14,1  0  / 1  4  / 2  0  14,Super Glue/Pacer Technology,Rancho,65,Layoff Permanent
+09/23/2014,1  1  / 3  0  / 2  0  14,1  0  / 1  6  / 2  0  14,"Kmart, Store #3276",San Leandro,102,Closure Permanent
+09/23/2014,1  1  / 3  0  / 2  0  14,1  0  / 1  6  / 2  0  14,"Kmart, Store #4281",Covina,92,Closure Permanent
+09/25/2014,1  0  / 2  5  / 2  0  14,1  0  / 1  6  / 2  0  14,Tri Counties Bank,Redding,34,Layoff Permanent
+09/25/2014,1  0  / 2  5  / 2  0  14,1  0  / 1  6  / 2  0  14,Tri Counties Bank,Redding,40,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 1  6  / 2  0  14,Prometheus Real Estate Group,Hayward,5,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 1  6  / 2  0  14,Prometheus Real Estate Group,Los Gatos,8,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 1  6  / 2  0  14,Prometheus Real Estate Group,Mountain View,9,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 1  6  / 2  0  14,Prometheus Real Estate Group,San Mateo,9,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  0  / 2  0  14,Prometheus Real Estate Group,San Jose,6,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  0  / 2  0  14,Prometheus Real Estate Group,Santa Clara,9,Layoff Permanent
+10/10/2014,1  2  / 1  2  / 2  0  14,1  0  / 2  0  / 2  0  14,Boeing Company,El Segundo,34,Layoff Unknown at this time
+10/10/2014,1  2  / 1  2  / 2  0  14,1  0  / 2  0  / 2  0  14,Boeing Company,Huntington Beach,61,Layoff Unknown at this time
+10/10/2014,1  2  / 1  2  / 2  0  14,1  0  / 2  0  / 2  0  14,Boeing Company,Long Beach,44,Layoff Unknown at this time
+10/16/2014,1  0  / 1  7  / 2  0  14,1  0  / 2  0  / 2  0  14,Chukchansi Gold Resort & Casino,Coarsegold,1034,Closure Temporary
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  1  / 2  0  14,Prometheus Real Estate Group,Dublin,7,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  1  / 2  0  14,Prometheus Real Estate Group,Fremont,6,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  1  / 2  0  14,Prometheus Real Estate Group,Pleasanton,5,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  1  / 2  0  14,Prometheus Real Estate Group,Sacramento,6,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  1  / 2  0  14,Prometheus Real Estate Group,San Jose,6,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  1  / 2  0  14,Prometheus Real Estate Group,San Jose,7,Layoff Permanent
+10/01/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  1  / 2  0  14,Prometheus Real Estate Group,San Jose,10,Layoff Permanent
+10/03/2014,1  2  / 1  9  / 2  0  14,1  0  / 2  2  / 2  0  14,City National Bank,Costa Mesa,2,Closure Permanent
+10/08/2014,1  2  / 0  7  / 2  0  14,1  0  / 2  2  / 2  0  14,Bank of America,Canoga Park,57,Layoff Permanent
+10/14/2014,1  0  / 1  6  / 2  0  14,1  0  / 2  2  / 2  0  14,Harrold Ford,Sacramento,120,Layoff Unknown at this time
+10/15/2014,1  2  / 1  5  / 2  0  14,1  0  / 2  2  / 2  0  14,Albertelli Law,Chatsworth,66,Layoff Permanent
+10/15/2014,1  2  / 1  6  / 2  0  14,1  0  / 2  2  / 2  0  14,Volcano Corporation,Rancho Cordova,170,Layoff Permanent
+10/15/2014,1  2  / 1  9  / 2  0  14,1  0  / 2  2  / 2  0  14,The Active Network,San Diego,65,Layoff Permanent
+10/10/2014,0  9  / 0  9  / 2  0  14,1  0  / 2  3  / 2  0  14,BAE Systems,San Francisco,201,Layoff Temporary
+10/15/2014,1  1  / 2  6  / 2  0  14,1  0  / 2  7  / 2  0  14,Bon Appetit Management Company,Santa Clara,97,Closure Permanent
+10/17/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  7  / 2  0  14,American Medical Response West,Modesto,211,Layoff Permanent
+10/17/2014,1  2  / 1  9  / 2  0  14,1  0  / 2  8  / 2  0  14,THINK Together,Santa Ana,77,Layoff Permanent
+10/20/2014,1  2  / 1  9  / 2  0  14,1  0  / 2  8  / 2  0  14,Walt Disney Pictures,Burbank,61,Layoff Permanent
+10/21/2014,1  2  / 2  0  / 2  0  14,1  0  / 2  8  / 2  0  14,Fallbrook Hospital,Fallbrook,269,Layoff Permanent
+10/21/2014,1  2  / 2  0  / 2  0  14,1  0  / 2  8  / 2  0  14,Fallbrook Hospital Skilled Nursing,Fallbrook,96,Layoff Permanent
+10/21/2014,1  2  / 2  2  / 2  0  14,1  0  / 2  8  / 2  0  14,Hacienda Hotel,El Segundo,28,Closure Temporary
+10/22/2014,1  2  / 2  2  / 2  0  14,1  0  / 2  8  / 2  0  14,"Amgen, Inc.",Newbury Park,349,Layoff Permanent
+10/15/2014,0  1  / 1  1  / 2  0  15,1  0  / 2  9  / 2  0  14,Kmart,El Centro,75,Closure Permanent
+10/22/2014,1  0  / 2  4  / 2  0  14,1  0  / 2  9  / 2  0  14,"Carbine, LLC",Aliso Viejo,60,Layoff Unknown at this time
+10/23/2014,0  1  / 1  6  / 2  0  15,1  0  / 2  9  / 2  0  14,XO Group Inc.,Redding,113,Closure Permanent
+10/23/2014,1  2  / 2  3  / 2  0  14,1  0  / 2  9  / 2  0  14,Supertex LLC/Microchip Technology,San Jose,83,Layoff Permanent
+10/24/2014,1  2  / 2  3  / 2  0  14,1  0  / 2  9  / 2  0  14,"Hartman Studios, Inc.",Richmond,219,Layoff Permanent
+10/24/2014,1  2  / 3  1  / 2  0  14,1  0  / 2  9  / 2  0  14,First Student,Upland,156,Closure Permanent
+10/24/2014,0  1  / 0  2  / 2  0  15,1  0  / 3  0  / 2  0  14,HGST,San Jose,26,Layoff Permanent
+10/24/2014,0  1  / 0  2  / 2  0  15,1  0  / 3  0  / 2  0  14,HGST,San Jose,47,Layoff Permanent
+10/24/2014,1  2  / 2  9  / 2  0  14,1  0  / 3  0  / 2  0  14,"LMC Services, Inc.",Glendale,93,Closure Permanent
+10/28/2014,1  0  / 2  9  / 2  0  14,1  0  / 3  0  / 2  0  14,"Advanced Micro Devices, Inc.",Sunnyvale,57,Layoff Unknown at this time
+10/28/2014,1  2  / 2  6  / 2  0  14,1  0  / 3  0  / 2  0  14,Verizon California Inc.,Victorville,58,Closure Permanent
+10/29/2014,1  2  / 2  8  / 2  0  14,1  0  / 3  1  / 2  0  14,Microsoft and Nokia Inc.,San Diego,154,Layoff Permanent
+10/29/2014,1  2  / 2  8  / 2  0  14,1  1  / 0  4  / 2  0  14,Microsoft and Nokia Inc.,Mountain View,8,Layoff Permanent
+10/15/2014,1  2  / 1  9  / 2  0  14,1  1  / 0  6  / 2  0  14,Olam Spices & Vegetables,Modesto,242,Layoff Permanent
+10/22/2014,1  2  / 2  2  / 2  0  14,1  1  / 0  6  / 2  0  14,Fallbrook Home Health and Hospice,Fallbrook,37,Closure Permanent
+10/24/2014,0  1  / 0  2  / 2  0  15,1  1  / 0  6  / 2  0  14,HGST,San Jose,3,Layoff Permanent
+10/27/2014,0  1  / 0  5  / 2  0  15,1  1  / 0  6  / 2  0  14,Sutter Amador Hospital,Jackson,1,Layoff Permanent
+10/29/2014,1  2  / 2  8  / 2  0  14,1  1  / 0  6  / 2  0  14,Microsoft and Nokia Inc.,Sunnyvale,13,Layoff Permanent
+10/30/2014,1  2  / 2  8  / 2  0  14,1  1  / 0  6  / 2  0  14,Ghirardelli Chocolate Manufactory,San Francisco,84,Closure Temporary
+10/29/2014,1  2  / 3  1  / 2  0  14,1  1  / 1  2  / 2  0  14,"MV Transportation, Inc.",Redwood City,123,Layoff Permanent
+10/31/2014,0  1  / 0  2  / 2  0  15,1  1  / 1  2  / 2  0  14,"Actavis, Inc.",Corona,200,Layoff Permanent
+10/31/2014,0  1  / 0  5  / 2  0  15,1  1  / 1  2  / 2  0  14,Chaminade Resort & Spa,Santa Cruz,180,Layoff Temporary
+11/04/2014,0  1  / 0  5  / 2  0  15,1  1  / 1  2  / 2  0  14,Laureate Education Inc,Los Angeles,105,Layoff Permanent
+11/12/2014,1  2  / 2  2  / 2  0  14,1  1  / 1  2  / 2  0  14,Aimbridge Employee Service Corp,El Segundo,13,Closure Temporary
+10/30/2014,1  2  / 3  1  / 2  0  14,1  1  / 1  4  / 2  0  14,Associated Third Party Administrators,El Monte,85,Closure Permanent
+10/31/2014,0  1  / 0  1  / 2  0  15,1  1  / 1  4  / 2  0  14,Boeing Co,Huntington Beach,64,Layoff Unknown at this time
+11/05/2014,0  1  / 0  5  / 2  0  15,1  1  / 1  4  / 2  0  14,"Simmons Manufacturing Company,",Compton,94,Closure Permanent
+11/06/2014,1  1  / 0  5  / 2  0  14,1  1  / 1  4  / 2  0  14,Living Social,Torrance,79,Closure Permanent
+10/31/2014,0  1  / 0  1  / 2  0  15,1  1  / 1  7  / 2  0  14,Boeing Company,El Segundo,64,Layoff Unknown at this time
+10/31/2014,0  1  / 0  1  / 2  0  15,1  1  / 1  7  / 2  0  14,Boeing Company,Long Beach,93,Layoff Unknown at this time
+10/31/2014,0  1  / 0  1  / 2  0  15,1  1  / 1  7  / 2  0  14,SoCAL,San Gabriel,45,Closure Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros - Shed Media USA,Los Angeles,1,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Burbank Television,Burbank,6,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Consumer Products,Burbank,4,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Distributing,Burbank,17,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Distributing,Encino,4,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Entertainment,Burbank,13,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Home Entertainment,Burbank,46,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. International Television,Burbank,9,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Pictures,Burbank,1,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Studio Facilities,Burbank,24,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Technical Operations,Burbank,11,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Television,Los Angeles,4,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Theatrical Enterprises,Burbank,6,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,Warner Bros. Worldwide Television,Burbank,5,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  1  / 2  0  / 2  0  14,WBTV Distribution Inc,Burbank,1,Layoff Permanent
+11/06/2014,1  1  / 0  6  / 2  0  14,1  1  / 2  1  / 2  0  14,"Space Systems/Loral, LLC (""SSL"")",Palo Alto,57,Layoff Permanent
+11/13/2014,0  1  / 0  7  / 2  0  15,1  1  / 2  1  / 2  0  14,ITT Canon LLC,Santa Ana,5,Layoff Permanent
+11/13/2014,1  1  / 2  1  / 2  0  14,1  1  / 2  1  / 2  0  14,Hewlett-Packard Company (HP),Palo Alto,25,Layoff Permanent
+11/14/2014,0  1  / 1  4  / 2  0  15,1  1  / 2  1  / 2  0  14,HERE North America LLC,Calabasas,15,Layoff Permanent
+11/14/2014,0  2  / 2  8  / 2  0  15,1  1  / 2  1  / 2  0  14,HERE North America LLC,Calabasas,3,Layoff Permanent
+11/19/2014,0  2  / 1  3  / 2  0  15,1  1  / 2  1  / 2  0  14,Science Application International,San Diego,63,Layoff Permanent
+10/29/2014,0  1  / 3  0  / 2  0  15,1  1  / 2  4  / 2  0  14,St. Joseph Health Queen of the Valley,Napa,59,Layoff Permanent
+10/31/2014,1  0  / 2  7  / 2  0  14,1  1  / 2  4  / 2  0  14,"Chivas USA (""Chivas"")",Carson,75,Layoff Permanent
+10/31/2014,1  2  / 0  1  / 2  0  14,1  1  / 2  4  / 2  0  14,Symantec Corporation,Mountain View,25,Layoff Permanent
+11/03/2014,0  1  / 0  2  / 2  0  15,1  1  / 2  4  / 2  0  14,"Bridgepoint Education, Inc.",San Diego,160,Layoff Permanent
+10/23/2014,1  0  / 2  4  / 2  0  14,1  2  / 0  2  / 2  0  14,Hewlett-Packard Company,Palo Alto,80,Layoff Permanent
+11/04/2014,0  1  / 1  0  / 2  0  15,1  2  / 0  2  / 2  0  14,WCI Global Business Services Inc -,Burbank,12,Layoff Permanent
+11/12/2014,1  1  / 1  2  / 2  0  14,1  2  / 0  2  / 2  0  14,Abbott Vascular,Murrieta,8,Layoff Permanent
+11/12/2014,1  1  / 1  2  / 2  0  14,1  2  / 0  2  / 2  0  14,Abbott Vascular,Temecula,9,Layoff Permanent
+11/12/2014,1  1  / 1  2  / 2  0  14,1  2  / 0  2  / 2  0  14,Abbott Vascular,Temecula,41,Layoff Permanent
+11/12/2014,1  1  / 1  2  / 2  0  14,1  2  / 0  2  / 2  0  14,Abbott Vascular,Temecula,53,Layoff Permanent
+10/23/2014,1  0  / 2  4  / 2  0  14,1  2  / 0  3  / 2  0  14,Hewlett-Packard Company,Roseville,54,Layoff Permanent
+10/28/2014,1  2  / 2  9  / 2  0  14,1  2  / 0  4  / 2  0  14,"Advanced Micro Devices, Inc.",Sunnyvale,57,Layoff Unknown at this time
+11/05/2014,0  1  / 0  5  / 2  0  15,1  2  / 0  9  / 2  0  14,"General Mills Operations, LLC",Lodi,410,Closure Permanent
+11/14/2014,0  1  / 1  5  / 2  0  15,1  2  / 1  1  / 2  0  14,"Trinity Sports, Inc.",Los Angeles,135,Closure Permanent
+11/21/2014,0  2  / 2  7  / 2  0  15,1  2  / 1  1  / 2  0  14,Valley Waste Management,Walnut Creek,66,Layoff Permanent
+11/25/2014,0  1  / 0  1  / 2  0  15,1  2  / 1  1  / 2  0  14,Symantec Corporation - Mountain View,Mountain View,12,Layoff Permanent
+11/21/2014,0  1  / 2  3  / 2  0  15,1  2  / 1  2  / 2  0  14,Boeing Company,El Segundo,57,Layoff Unknown at this time
+11/21/2014,0  1  / 2  3  / 2  0  15,1  2  / 1  2  / 2  0  14,Boeing Company,Huntington Beach,29,Layoff Unknown at this time
+11/21/2014,0  1  / 2  3  / 2  0  15,1  2  / 1  2  / 2  0  14,Boeing Company,Long Beach,95,Layoff Unknown at this time
+12/05/2014,0  2  / 0  6  / 2  0  15,1  2  / 1  2  / 2  0  14,Boeing Company,Long Beach,21,Layoff Unknown at this time
+11/11/2014,0  1  / 0  9  / 2  0  15,1  2  / 1  6  / 2  0  14,PROVIDENCE HEALTH AND,Torrance,59,Closure Unknown at this time
+11/25/2014,0  2  / 1  0  / 2  0  15,1  2  / 1  6  / 2  0  14,ARAMARK SPORTS AND,Monterey,119,Closure Permanent
+12/04/2014,0  2  / 0  3  / 2  0  15,1  2  / 1  6  / 2  0  14,CALIFORNIA REDWOOD COMPANY,Korbel,106,Closure Permanent
+11/04/2014,1  2  / 0  5  / 2  0  14,1  2  / 1  7  / 2  0  14,Capitol Expressway Ford,San Jose,102,Layoff Permanent
+11/19/2014,1  2  / 1  0  / 2  0  14,1  2  / 1  7  / 2  0  14,Wish I Ah Health & Wellness Center,Auberry,95,Closure Permanent
+11/21/2014,1  2  / 3  1  / 2  0  14,1  2  / 1  7  / 2  0  14,"Keaster Products, Inc.",Van Nuys,2,Closure Unknown at this time
+12/02/2014,1  2  / 0  5  / 2  0  14,1  2  / 1  7  / 2  0  14,NARUS,Sunnyvale,35,Closure Permanent
+12/04/2014,0  2  / 0  1  / 2  0  15,1  2  / 1  7  / 2  0  14,MILLS-PENINSULA HEALTH,Burlingame,67,Layoff Permanent
+12/05/2014,0  2  / 0  8  / 2  0  15,1  2  / 1  7  / 2  0  14,"INTELLISOURCE, LLC",Ontario,312,Closure Unknown at this time
+12/05/2014,0  2  / 2  3  / 2  0  15,1  2  / 1  7  / 2  0  14,LA SANDIA SMP LLC/RICHARD,Santa Monica,72,Closure Permanent
+12/05/2014,0  2  / 2  3  / 2  0  15,1  2  / 1  7  / 2  0  14,ZENGO SMP LLC/RICHARD,Santa Monica,72,Closure Permanent
+12/05/2014,1  2  / 0  3  / 2  0  14,1  2  / 1  7  / 2  0  14,FREEDOM COMMUNICATIONS INC.,Santa Ana,88,Layoff Permanent
+12/09/2014,0  2  / 0  1  / 2  0  15,1  2  / 1  7  / 2  0  14,GENESIS HEALTHCARE,Foothill Ranch,71,Layoff Permanent
+12/09/2014,0  2  / 0  7  / 2  0  15,1  2  / 1  7  / 2  0  14,"BOWHEAD SUPPORT GROUP, LLC",Herlong,119,Closure Permanent
+11/14/2014,0  1  / 1  4  / 2  0  15,1  2  / 1  8  / 2  0  14,HERE North American LLC,Sunnyvale,82,Layoff Permanent
+12/08/2014,0  3  / 1  2  / 2  0  15,1  2  / 1  8  / 2  0  14,"TOPPAN PHOTOMASKS, INC.",Santa Clara,75,Closure Permanent
+12/08/2014,1  2  / 1  2  / 2  0  14,1  2  / 1  8  / 2  0  14,"SPG SOLAR, INC.",Petaluma,10,Closure Unknown at this time
+12/10/2014,0  4  / 3  0  / 2  0  15,1  2  / 1  8  / 2  0  14,GRANICUS INC,San Francisco,47,Closure Permanent
+12/12/2014,0  2  / 1  2  / 2  0  15,1  2  / 1  8  / 2  0  14,SEAWORLD LLC,San Diego,108,Layoff Permanent
+11/24/2014,0  1  / 3  0  / 2  0  15,1  2  / 1  9  / 2  0  14,"HCC INVESTORS, LLC",Rancho Santa Fe,156,Closure Permanent
+12/05/2014,0  2  / 0  5  / 2  0  15,1  2  / 1  9  / 2  0  14,ITT CANNON LLC,Santa Ana,7,Layoff Permanent
+12/10/2014,0  2  / 1  1  / 2  0  15,1  2  / 1  9  / 2  0  14,QUALCOMM INC.,San Jose,1,Layoff Unknown at this time
+12/10/2014,0  2  / 1  1  / 2  0  15,1  2  / 1  9  / 2  0  14,QUALCOMM INC.,San Jose,45,Layoff Unknown at this time
+12/10/2014,0  2  / 1  1  / 2  0  15,1  2  / 1  9  / 2  0  14,QUALCOMM INC.,San Jose,59,Layoff Unknown at this time
+12/10/2014,0  2  / 1  1  / 2  0  15,1  2  / 1  9  / 2  0  14,QUALCOMM INC.,Santa Clara,2,Layoff Unknown at this time
+12/10/2014,0  2  / 1  1  / 2  0  15,1  2  / 1  9  / 2  0  14,QUALCOMM INC.,Santa Clara,4,Layoff Unknown at this time
+12/10/2014,0  2  / 1  1  / 2  0  15,1  2  / 1  9  / 2  0  14,Qualcomm Incorporated,San Diego,178,Layoff Unknown at this time
+12/10/2014,0  2  / 1  5  / 2  0  15,1  2  / 1  9  / 2  0  14,"INTERMUNE, INC",Brisbane,170,Layoff Permanent
+12/12/2014,0  1  / 1  5  / 2  0  15,1  2  / 1  9  / 2  0  14,EXIDE TECHNOLOGIES,Los Angeles,64,Layoff Temporary
+12/12/2014,0  2  / 2  2  / 2  0  15,1  2  / 1  9  / 2  0  14,EL CENTRO REGIONAL MEDICAL,El Centro,68,Layoff Permanent
+12/09/2014,0  2  / 1  6  / 2  0  15,1  2  / 2  2  / 2  0  14,HACIENDA HOTEL,El Segundo,93,Closure Temporary
+12/10/2014,0  2  / 0  8  / 2  0  15,1  2  / 2  2  / 2  0  14,BANK OF AMERICA,Los Angeles,3,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Cerritos,24,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Downey,26,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Lakewood,25,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Los Angeles,24,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,San Bernardino,14,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Santa Monica,44,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Thousand Oaks,32,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Ventura,26,Layoff Permanent
+12/15/2014,0  2  / 1  2  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Victorville,19,Layoff Permanent
+12/15/2014,0  2  / 1  5  / 2  0  15,1  2  / 2  2  / 2  0  14,MFS INC. SERVICES,Santa Barbara,8,Layoff Permanent
+12/15/2014,1  2  / 3  1  / 2  0  14,1  2  / 2  2  / 2  0  14,ARAMARK,Wheatland,152,Closure Permanent
+12/18/2014,1  2  / 1  5  / 2  0  14,1  2  / 2  2  / 2  0  14,ENSIGN UNITED STATES DRILLING,Bakersfield,700,Layoff Unknown at this time
+12/19/2014,0  2  / 1  7  / 2  0  15,1  2  / 2  2  / 2  0  14,NORCO DELIVERY SERVICES,Anaheim,93,Layoff Permanent
+12/15/2014,1  2  / 3  1  / 2  0  14,1  2  / 2  3  / 2  0  14,ARAMARK,Chula Vista,110,Closure Permanent
+12/15/2014,1  2  / 3  1  / 2  0  14,1  2  / 2  3  / 2  0  14,ARAMARK,Irvine,56,Closure Permanent
+12/15/2014,1  2  / 3  1  / 2  0  14,1  2  / 2  3  / 2  0  14,ARAMARK,Mountain View,175,Closure Permanent
+12/15/2014,1  2  / 3  1  / 2  0  14,1  2  / 2  3  / 2  0  14,ARAMARK,San Bernardino,77,Closure Permanent
+12/16/2014,0  2  / 2  0  / 2  0  15,1  2  / 2  4  / 2  0  14,HORMEL FOODS CORPORATION,Stockton,113,Layoff Permanent
+12/15/2014,0  2  / 1  3  / 2  0  15,1  2  / 2  6  / 2  0  14,Safeway Inc. Corporate Headquarters,Pleasanton,26,Layoff Unknown at this time
+12/22/2014,0  2  / 2  7  / 2  0  15,1  2  / 2  6  / 2  0  14,OfficeMax Incorporated,Menlo Park,71,Closure Permanent
+12/19/2014,0  2  / 2  0  / 2  0  15,1  2  / 2  9  / 2  0  14,Boeing Company,El Segundo,33,Layoff Unknown at this time
+12/19/2014,0  2  / 2  0  / 2  0  15,1  2  / 2  9  / 2  0  14,Boeing Company,Huntington Beach,20,Layoff Unknown at this time
+12/19/2014,0  2  / 2  0  / 2  0  15,1  2  / 2  9  / 2  0  14,Boeing Company,Long Beach,119,Layoff Unknown at this time
+12/29/2014,0  2  / 2  8  / 2  0  15,1  2  / 3  1  / 2  0  14,"L-3 Engineering & Technical Services,",Vandenberg,91,Closure Permanent
+01/05/2015,0  3  / 0  6  / 2  0  15,0  1  / 0  5  / 2  0  15,RadioShack Corporation,Woodland,57,Closure Permanent
+12/31/2014,0  1  / 3  1  / 2  0  15,0  1  / 0  5  / 2  0  15,Exelis Inc.,Vandenberg,125,Layoff Permanent
+12/23/2014,0  1  / 0  6  / 2  0  15,0  1  / 0  6  / 2  0  15,Bae Systems,San Francisco,192,Layoff Temporary
+12/30/2014,0  2  / 2  8  / 2  0  15,0  1  / 0  7  / 2  0  15,HomeStreet Bank,Covina,66,Closure Permanent
+01/03/2015,0  3  / 0  6  / 2  0  15,0  1  / 0  8  / 2  0  15,Boeing Company,Long Beach,23,Layoff Unknown at this time
+01/07/2015,0  3  / 1  0  / 2  0  15,0  1  / 0  8  / 2  0  15,"Brice Manufacturing Company, Inc",Pacoima,61,Layoff Permanent
+01/05/2015,0  3  / 0  5  / 2  0  15,0  1  / 0  9  / 2  0  15,ITT Cannon LLC,Santa Ana,12,Layoff Permanent
+01/07/2015,0  4  / 0  3  / 2  0  15,0  1  / 0  9  / 2  0  15,ASCO Power Technologies,Stockton,104,Closure Permanent
+01/08/2015,0  3  / 0  8  / 2  0  15,0  1  / 0  9  / 2  0  15,Genco,Woodland,50,Closure Permanent
+01/08/2015,0  3  / 1  6  / 2  0  15,0  1  / 0  9  / 2  0  15,Macy's Furniture Gallery,Woodland Hills,19,Closure Unknown at this time
+01/08/2015,0  3  / 2  1  / 2  0  15,0  1  / 0  9  / 2  0  15,Macy's Vallco Shopping Mall,Cupertino,107,Closure Unknown at this time
+01/08/2015,0  3  / 1  6  / 2  0  15,0  1  / 1  2  / 2  0  15,Macy's Westfield Promenade Store,Woodland Hills,109,Closure Permanent
+01/06/2015,0  3  / 0  9  / 2  0  15,0  1  / 1  3  / 2  0  15,Southern California Edison Company,San Clemente,45,Closure Permanent
+01/09/2015,0  3  / 0  9  / 2  0  15,0  1  / 1  3  / 2  0  15,"Sodexo, Inc",Duarte,160,Closure Permanent
+01/12/2015,0  3  / 1  3  / 2  0  15,0  1  / 1  3  / 2  0  15,Kixeye Inc.,San Francisco,70,Layoff Permanent
+12/31/2014,0  2  / 0  1  / 2  0  15,0  1  / 1  3  / 2  0  15,Symantec Corporation,Mountain View,4,Layoff Permanent
+01/08/2015,0  3  / 0  9  / 2  0  15,0  1  / 1  4  / 2  0  15,"Rabobank, N.A.",Imperial,79,Closure Unknown at this time
+01/14/2015,0  1  / 1  4  / 2  0  14,0  1  / 1  5  / 2  0  15,"Tibco Software, Inc",Palo Alto,80,Layoff Permanent
+01/13/2015,0  3  / 1  6  / 2  0  15,0  1  / 1  6  / 2  0  15,Broadcom Corporation,Santa Clara,60,Layoff Permanent
+01/15/2015,0  3  / 1  5  / 2  0  15,0  1  / 1  6  / 2  0  15,Leidos,El Segundo,80,Layoff Permanent
+01/15/2015,0  3  / 1  6  / 2  0  15,0  1  / 1  6  / 2  0  15,"COM DEV USA, LLC",El Segundo,53,Layoff Unknown at this time
+01/15/2015,0  3  / 1  8  / 2  0  15,0  1  / 1  6  / 2  0  15,Vons Companies Inc.,Arcadia,168,Closure Permanent
+01/15/2015,0  5  / 1  5  / 2  0  15,0  1  / 1  6  / 2  0  15,"Raybern Foods, LLC",Hayward,116,Closure Permanent
+01/15/2015,0  5  / 1  5  / 2  0  15,0  1  / 1  6  / 2  0  15,"Raybern Foods, LLC",Oakland,42,Closure Permanent
+01/16/2015,0  4  / 3  0  / 2  0  15,0  1  / 1  6  / 2  0  15,"OSI Electronics, Inc",Camarillo,118,Closure Permanent
+01/13/2015,0  3  / 1  5  / 2  0  15,0  1  / 2  0  / 2  0  15,Ralphs Grocery Comapny,Los Angeles,70,Closure Unknown at this time
+01/16/2015,0  2  / 2  6  / 2  0  15,0  1  / 2  0  / 2  0  15,Albertson's LLC,Marina Del Rey,80,Closure Permanent
+01/16/2015,0  2  / 2  6  / 2  0  15,0  1  / 2  0  / 2  0  15,"Albertson's, LLC",San Diego,63,Closure Permanent
+01/15/2015,0  5  / 2  9  / 2  0  15,0  1  / 2  1  / 2  0  15,"Walt Disney Parks and Resorts U.S.,",Fullerton,85,Layoff Permanent
+01/20/2015,0  3  / 2  3  / 2  0  15,0  1  / 2  1  / 2  0  15,"G2 Secure Staff, LLC",Moreno Valley,39,Layoff Permanent
+01/15/2014,0  3  / 1  6  / 2  0  15,0  1  / 2  3  / 2  0  15,"Vista Ford, Inc",Canoga Park,11,Closure Permanent
+01/16/2015,0  3  / 2  0  / 2  0  15,0  1  / 2  3  / 2  0  15,Boeing Company,El Segundo,15,Layoff Unknown at this time
+01/16/2015,0  3  / 2  0  / 2  0  15,0  1  / 2  3  / 2  0  15,Boeing Company,Huntington Beach,9,Layoff Unknown at this time
+01/16/2015,0  3  / 2  0  / 2  0  15,0  1  / 2  3  / 2  0  15,Boeing Company,Long Beach,36,Layoff Unknown at this time
+01/21/2015,0  3  / 1  6  / 2  0  15,0  1  / 2  3  / 2  0  15,Johns Manville,Willows,40,Layoff Temporary
+01/16/2015,0  3  / 1  6  / 2  0  15,0  1  / 2  6  / 2  0  15,ITT Cannon LLC,Santa Ana,10,Layoff Permanent
+01/20/2015,1  0  / 3  1  / 2  0  15,0  1  / 2  6  / 2  0  15,"Zodiac Pool Systems, Inc",Vista,97,Closure Permanent
+01/20/2015,1  2  / 1  5  / 2  0  15,0  1  / 2  6  / 2  0  15,Chevron,San Ramon,100,Layoff Permanent
+01/21/2015,0  3  / 3  1  / 2  0  15,0  1  / 2  6  / 2  0  15,"InDyne, Inc.",Vandenberg AFB,541,Layoff Permanent
+01/22/2015,0  3  / 2  3  / 2  0  15,0  1  / 2  6  / 2  0  15,"G2 Secure Staff, LLC",Azusa,106,Layoff Permanent
+01/22/2015,0  3  / 2  4  / 2  0  15,0  1  / 2  6  / 2  0  15,"VMware, Inc",Palo Alto,114,Layoff Permanent
+01/23/2015,0  3  / 2  8  / 2  0  15,0  1  / 2  6  / 2  0  15,"Gap, Inc",San Francisco,108,Layoff Permanent
+01/23/2015,0  3  / 2  4  / 2  0  15,0  1  / 2  7  / 2  0  15,"Tabula, Inc.",Santa Clara,120,Closure Permanent
+01/26/2015,0  1  / 2  6  / 2  0  15,0  1  / 2  7  / 2  0  15,"Sun World International, LLC",Coachella,24,Layoff Permanent
+01/26/2015,0  3  / 2  7  / 2  0  15,0  1  / 2  7  / 2  0  15,"Bimbo Bakeries USA, Inc",Fresno,92,Closure Permanent
+01/26/2015,0  3  / 2  7  / 2  0  15,0  1  / 2  7  / 2  0  15,"Bimbo Bakeries USA, Inc.",Fresno,92,Layoff Permanent
+01/27/2015,0  2  / 2  7  / 2  0  15,0  1  / 2  7  / 2  0  15,Exide Technologies,Los Angeles,67,Layoff Temporary
+01/28/2015,0  3  / 3  0  / 2  0  15,0  1  / 2  8  / 2  0  15,International Business Machines,San Jose,68,Layoff Permanent
+01/15/2015,0  3  / 3  1  / 2  0  15,0  1  / 2  9  / 2  0  15,UTI,Anaheim,32,Closure Permanent
+01/26/2015,0  3  / 2  6  / 2  0  15,0  1  / 2  9  / 2  0  15,Sims Recycling Solutions,Rancho,57,Layoff Permanent
+01/28/2015,0  3  / 2  9  / 2  0  15,0  1  / 3  0  / 2  0  15,Bank of America,West Hills,113,Layoff Permanent
+01/29/2015,0  3  / 3  1  / 2  0  15,0  1  / 3  0  / 2  0  15,"Safeway, Inc. Corporate Headquarters",Pleasanton,18,Layoff Unknown at this time
+01/27/2015,0  1  / 2  4  / 2  0  15,0  2  / 0  2  / 2  0  15,Ryder Integrated Logistics,Inglewood,73,Closure Permanent
+01/27/2015,0  5  / 0  3  / 2  0  15,0  2  / 0  2  / 2  0  15,Sears Holdings Corporation,Canoga Park,122,Closure Permanent
+01/28/2015,0  4  / 0  2  / 2  0  15,0  2  / 0  2  / 2  0  15,"Actavis, Inc",Corona,40,Layoff Permanent
+01/30/2015,0  3  / 3  0  / 2  0  15,0  2  / 0  2  / 2  0  15,JPMorgan Chase & Co.,Pleasanton,63,Layoff Permanent
+01/30/2015,0  3  / 3  1  / 2  0  15,0  2  / 0  2  / 2  0  15,Fallbrook Hospital Skilled Nursing,Fallbrook,96,Closure Permanent
+02/02/2015,0  4  / 0  3  / 2  0  15,0  2  / 0  2  / 2  0  15,"G2 Secure Staff, LLC",Orange,54,Layoff Permanent
+01/28/2015,0  3  / 3  1  / 2  0  15,0  2  / 0  3  / 2  0  15,"Fluor Enterprises, Inc.",Aliso Viejo,6,Layoff Permanent
+01/28/2015,1  2  / 1  5  / 2  0  15,0  2  / 0  3  / 2  0  15,Access Business Group LLC,Lakeview,72,Closure Permanent
+01/30/2015,0  4  / 0  3  / 2  0  15,0  2  / 0  3  / 2  0  15,Boeing Company,El Segundo,36,Layoff Unknown at this time
+01/30/2015,0  4  / 0  3  / 2  0  15,0  2  / 0  3  / 2  0  15,Boeing Company,Huntington Beach,25,Layoff Unknown at this time
+01/30/2015,0  4  / 0  3  / 2  0  15,0  2  / 0  3  / 2  0  15,Boeing Company,Long Beach,66,Layoff Unknown at this time
+01/30/2015,0  2  / 0  2  / 2  0  15,0  2  / 0  4  / 2  0  15,Baker Hughes Oilfield Operations Inc.,Shafter,130,Layoff Permanent
+01/30/2015,0  5  / 3  1  / 2  0  15,0  2  / 0  5  / 2  0  15,Northrop Grumman Technical,Fort Irwin,443,Layoff Permanent
+02/02/2015,0  3  / 1  8  / 2  0  15,0  2  / 0  5  / 2  0  15,Lockheed Martin Corporation,Palmdale,74,Layoff Permanent
+02/02/2015,0  4  / 0  3  / 2  0  15,0  2  / 0  5  / 2  0  15,Sony Pictures Entertainment,Culver City,69,Closure Permanent
+02/02/2015,0  3  / 0  1  / 2  0  15,0  2  / 0  9  / 2  0  15,Symantec Corporation,Mountain View,85,Layoff Permanent
+02/04/2015,0  4  / 0  3  / 2  0  15,0  2  / 0  9  / 2  0  15,"Citrix Systems, Inc",Santa Clara,99,Layoff Permanent
+02/03/2015,0  4  / 0  4  / 2  0  15,0  2  / 1  0  / 2  0  15,"International Coffee & Tea, LLC",Santa Monica,69,Closure Permanent
+02/04/2015,0  4  / 0  8  / 2  0  15,0  2  / 1  0  / 2  0  15,Menzies Aviation LAX,Los Angeles,134,Layoff Permanent
+02/05/2015,0  2  / 1  3  / 2  0  15,0  2  / 1  0  / 2  0  15,Hewlett-Packard Company,Palo Alto,52,Layoff Permanent
+02/09/2015,0  4  / 1  0  / 2  0  15,0  2  / 1  0  / 2  0  15,United Technologies Corporation,San Diego,4,Layoff Permanent
+02/04/2015,0  5  / 0  5  / 2  0  15,0  2  / 1  2  / 2  0  15,Pfizer Inc.,Foothill Ranch,70,Closure Unknown at this time
+02/10/2015,0  4  / 1  3  / 2  0  15,0  2  / 1  2  / 2  0  15,"VPM Maintenance Management, LLC",San Francisco,35,Layoff Permanent
+01/29/2015,0  3  / 2  9  / 2  0  15,0  2  / 1  3  / 2  0  15,Sutter Roseville Medical Center,Roseville,1,Layoff Permanent
+02/05/2015,0  4  / 3  0  / 2  0  15,0  2  / 1  3  / 2  0  15,Staples,La Mirada,59,Layoff Permanent
+02/05/2015,0  5  / 0  1  / 2  0  15,0  2  / 1  3  / 2  0  15,Farmer Brothers,Torrance,271,Closure Permanent
+02/06/2015,0  4  / 1  0  / 2  0  15,0  2  / 1  3  / 2  0  15,Boeing Company,El Segundo,9,Layoff Temporary
+02/09/2015,0  4  / 1  0  / 2  0  15,0  2  / 1  3  / 2  0  15,Staples,Los Angeles,97,Layoff Permanent
+02/12/2015,0  2  / 2  8  / 2  0  15,0  2  / 1  3  / 2  0  15,Fireman's Fund Insurance Company,Novato,23,Layoff Permanent
+02/13/2015,0  4  / 1  5  / 2  0  15,0  2  / 1  3  / 2  0  15,Green Diamond Resource Company,Korbel,12,Closure Permanent
+02/03/2015,0  2  / 2  8  / 2  0  15,0  2  / 1  7  / 2  0  15,Anthem,Diamond Bar,3,Closure Permanent
+02/09/2015,0  4  / 1  3  / 2  0  15,0  2  / 1  7  / 2  0  15,AT&T,San Ramon,74,Layoff Permanent
+02/13/2015,0  4  / 1  5  / 2  0  15,0  2  / 1  7  / 2  0  15,PennySaver USA Printing LLC,Vista,131,Closure Permanent
+02/13/2015,0  4  / 1  9  / 2  0  15,0  2  / 1  7  / 2  0  15,Marriott International Inc.,Truckee,259,Closure Temporary
+02/13/2015,0  4  / 3  0  / 2  0  15,0  2  / 1  7  / 2  0  15,Courtesy Motors,Chico,91,Closure Permanent
+02/09/2015,0  4  / 0  9  / 2  0  15,0  2  / 1  8  / 2  0  15,El Centro Regional Medical Center,El Centro,20,Layoff Permanent
+02/10/2015,0  4  / 1  0  / 2  0  15,0  2  / 1  8  / 2  0  15,Staples,La Mirada,99,Layoff Permanent
+02/16/2015,0  2  / 1  6  / 2  0  15,0  2  / 1  8  / 2  0  15,Halliburton Energy Services Inc.,Bakersfield,52,Layoff Permanent
+02/17/2015,0  3  / 2  7  / 2  0  15,0  2  / 1  8  / 2  0  15,Mandarin Oriental San Francisco Inc.,San Francisco,193,Layoff Permanent
+02/10/2015,0  4  / 1  0  / 2  0  15,0  2  / 1  9  / 2  0  15,Nabors Completion & Production,Compton,136,Layoff Unknown at this time
+02/13/2015,0  4  / 1  4  / 2  0  15,0  2  / 1  9  / 2  0  15,Wallenius Wilhelmsen Logistics,Wilmington,104,Layoff Unknown at this time
+02/11/2015,0  4  / 1  3  / 2  0  15,0  2  / 2  0  / 2  0  15,Daybreak Game Company,San Diego,140,Layoff Permanent
+02/13/2015,0  4  / 1  4  / 2  0  15,0  2  / 2  3  / 2  0  15,Doctors Medical Center,San Pablo,709,Layoff Permanent
+02/13/2015,0  4  / 2  4  / 2  0  15,0  2  / 2  3  / 2  0  15,Marriott,San Francisco,24,Layoff Permanent
+02/16/2015,0  4  / 0  3  / 2  0  15,0  2  / 2  3  / 2  0  15,DreamWorks Animation,Glendale,13,Layoff Permanent
+02/16/2015,0  4  / 0  3  / 2  0  15,0  2  / 2  3  / 2  0  15,DreamWorks Animation,Glendale,101,Layoff Permanent
+02/16/2015,0  4  / 0  3  / 2  0  15,0  2  / 2  3  / 2  0  15,DreamWorks Animation,Redwood City,403,Closure Unknown at this time
+02/16/2015,0  8  / 1  4  / 2  0  15,0  2  / 2  3  / 2  0  15,Centrex,Modesto,163,Closure Permanent
+02/21/2015,0  4  / 2  5  / 2  0  15,0  2  / 2  3  / 2  0  15,Safeway Inc.,West Sacramento,213,Closure Unknown at this time
+02/03/2015,0  3  / 0  4  / 2  0  15,0  2  / 2  4  / 2  0  15,DynCorp International LLC,El Centro,12,Closure Permanent
+02/03/2015,0  3  / 0  4  / 2  0  15,0  2  / 2  4  / 2  0  15,DynCorp International LLC,San Diego,81,Closure Permanent
+02/17/2015,0  4  / 2  0  / 2  0  15,0  2  / 2  4  / 2  0  15,Trulia Inc,San Francisco,140,Layoff Permanent
+02/20/2015,0  4  / 2  4  / 2  0  15,0  2  / 2  5  / 2  0  15,Boeing Company,Huntington Beach,59,Layoff Unknown at this time
+02/23/2015,0  4  / 2  4  / 2  0  15,0  2  / 2  5  / 2  0  15,Safeway Inc.,Dublin,3,Layoff Unknown at this time
+02/23/2015,0  4  / 2  4  / 2  0  15,0  2  / 2  5  / 2  0  15,Safeway Inc.,Pleasanton,129,Layoff Unknown at this time
+02/20/2015,0  4  / 2  4  / 2  0  15,0  2  / 2  6  / 2  0  15,Boeing Company,Long Beach,71,Layoff Unknown at this time
+02/17/2015,0  5  / 1  5  / 2  0  15,0  2  / 2  7  / 2  0  15,DialAmerica,San Diego,227,Closure Permanent
+02/20/2015,0  4  / 2  4  / 2  0  15,0  2  / 2  7  / 2  0  15,Boeing Company,El Segundo,35,Layoff Unknown at this time
+02/24/2015,0  4  / 2  4  / 2  0  15,0  2  / 2  7  / 2  0  15,"Bienvenidos Children Center, Inc.",Los Angeles,15,Layoff Unknown at this time
+02/24/2015,0  4  / 3  0  / 2  0  15,0  2  / 2  7  / 2  0  15,Panasonic Disc Manufacturing,Torrance,87,Closure Permanent
+02/25/2015,0  5  / 0  1  / 2  0  15,0  2  / 2  7  / 2  0  15,"Midland Credit Management, Inc.",San Diego,40,Layoff Permanent
+02/23/2015,0  4  / 2  6  / 2  0  15,0  3  / 0  2  / 2  0  15,USS-POSCO Industries,Pittsburg,666,Closure Temporary
+02/25/2015,0  4  / 2  6  / 2  0  15,0  3  / 0  2  / 2  0  15,"Better Bakery, LLC",Valencia,45,Layoff Permanent
+02/23/2015,0  4  / 2  4  / 2  0  15,0  3  / 0  3  / 2  0  15,"RealPage, Inc.",San Francisco,89,Closure Permanent
+02/26/2015,0  2  / 2  6  / 2  0  15,0  3  / 0  3  / 2  0  15,Baker Hughes Oilfield Operations Inc.,Shafter,50,Layoff Permanent
+02/27/2015,0  4  / 2  9  / 2  0  15,0  3  / 0  3  / 2  0  15,"V&L Produce, Inc.",Vernon,87,Layoff Permanent
+02/26/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Active Network,San Diego,53,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Clovis,19,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Clovis,23,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Coalinga,22,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Fresno,22,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Fresno,24,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Fresno,27,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Fresno,28,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Fresno,29,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Kerman,23,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  4  / 2  0  15,Scarbrough Management Corporation,Selma,22,Layoff Permanent
+02/27/2015,0  4  / 1  5  / 2  0  15,0  3  / 0  5  / 2  0  15,Symantec Corporation,Mountain View,7,Layoff Permanent
+03/02/2015,0  5  / 0  2  / 2  0  15,0  3  / 0  5  / 2  0  15,CP Costa Mesa LLC,Costa Mesa,85,Closure Temporary
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Arvin,20,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Bakersfield,12,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Bakersfield,20,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Bakersfield,21,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Delano,24,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Escalon,23,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Galt,22,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Manteca,28,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Modesto,23,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Modesto,25,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Modesto,27,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Oakdale,31,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Riverbank,21,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Salida,25,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Sonora,18,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Stockton,25,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Stockton,28,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Stockton,29,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Stockton,36,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Taft,21,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Tehachapi,24,Layoff Permanent
+03/02/2015,0  5  / 0  1  / 2  0  15,0  3  / 0  6  / 2  0  15,Scarbrough Management Corporation,Wasco,17,Layoff Permanent
+03/05/2014,0  5  / 0  4  / 2  0  15,0  3  / 0  9  / 2  0  15,"The Fresh Market, Inc.",Laguna Hills,65,Closure Permanent
+03/05/2014,0  5  / 0  4  / 2  0  15,0  3  / 0  9  / 2  0  15,"The Fresh Market, Inc.",Palo Alto,54,Closure Permanent
+03/05/2014,0  5  / 0  4  / 2  0  15,0  3  / 0  9  / 2  0  15,"The Fresh Market, Inc.",Santa Barbara,60,Closure Permanent
+03/09/2015,0  5  / 0  8  / 2  0  15,0  3  / 0  9  / 2  0  15,Safeway Inc.,Pleasanton,113,Layoff Unknown at this time
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Antioch,21,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Antioch,23,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Concord,20,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Concord,22,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Concord,24,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Concord,25,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Danville,23,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Martinez,21,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Oakley,28,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Pleasant Hill,22,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,San Ramon,15,Layoff Permanent
+11/13/2014,0  1  / 1  4  / 2  0  15,0  3  / 0  9  / 2  0  15,Scarbrough Management Corporation,Walnut Creek,23,Layoff Permanent
+02/23/2015,0  4  / 2  5  / 2  0  15,0  3  / 1  0  / 2  0  15,Warner Bros. Advanced Media,Burbank,25,Layoff Permanent
+03/06/2015,0  5  / 1  7  / 2  0  15,0  3  / 1  1  / 2  0  15,"United Airlines, Inc.",Ontario,57,Layoff Permanent
+03/06/2015,0  5  / 1  9  / 2  0  15,0  3  / 1  1  / 2  0  15,United Industries Corporation,Terminal Island,136,Closure Permanent
+03/09/2015,0  5  / 0  8  / 2  0  15,0  3  / 1  1  / 2  0  15,"Life Sales, LLC",Novato,8,Layoff Permanent
+03/04/2015,0  5  / 0  4  / 2  0  15,0  3  / 1  3  / 2  0  15,Electronic Arts Inc.,Emeryville,71,Layoff Permanent
+03/05/2015,0  5  / 0  9  / 2  0  15,0  3  / 1  3  / 2  0  15,Unilever Company,Sunnyvale,57,Closure Permanent
+03/06/2015,0  5  / 1  7  / 2  0  15,0  3  / 1  3  / 2  0  15,"United Airlines, Inc.",Sacramento,60,Layoff Permanent
+03/11/2015,0  3  / 1  0  / 2  0  15,0  3  / 1  3  / 2  0  15,"eHealthInsurance Services, Inc.",Gold River,72,Layoff Permanent
+03/12/2015,0  3  / 1  6  / 2  0  15,0  3  / 1  6  / 2  0  15,Exide Technologies,Vernon,84,Closure Permanent
+03/13/2015,0  4  / 1  6  / 2  0  15,0  3  / 1  7  / 2  0  15,"Service America Corporation, d/b/a",San Diego,831,Layoff Unknown at this time
+03/17/2015,0  5  / 2  2  / 2  0  15,0  3  / 1  7  / 2  0  15,"Tatung Co. of America, Inc.",Carson,98,Closure Permanent
+03/09/2015,0  4  / 3  0  / 2  0  15,0  3  / 1  8  / 2  0  15,"Fairbanks Ranch Country Club, Inc.",Rancho Santa Fe,152,Layoff Permanent
+03/12/2015,0  3  / 1  2  / 2  0  15,0  3  / 1  9  / 2  0  15,"Mattel, Inc.",El Segundo,107,Layoff Permanent
+03/17/2015,0  3  / 3  1  / 2  0  15,0  3  / 1  9  / 2  0  15,Sony Electronics Inc.,San Diego,75,Layoff Unknown at this time
+03/18/2015,0  3  / 1  8  / 2  0  15,0  3  / 1  9  / 2  0  15,"Halliburton Energy Services, Inc.",Bakersfield,39,Layoff Permanent
+03/18/2015,0  5  / 2  2  / 2  0  15,0  3  / 1  9  / 2  0  15,"Compass Group, USA, Inc.",San Francisco,66,Layoff Permanent
+03/17/2015,0  5  / 2  9  / 2  0  15,0  3  / 2  3  / 2  0  15,ITT Cannon LLC,Santa Ana,56,Layoff Permanent
+03/23/2015,0  5  / 2  2  / 2  0  15,0  3  / 2  3  / 2  0  15,Safeway Inc.,Pleasanton,72,Layoff Permanent
+02/27/2015,0  4  / 2  6  / 2  0  15,0  3  / 2  4  / 2  0  15,Bank of America,Simi Valley,114,Layoff Permanent
+03/20/2015,0  5  / 2  5  / 2  0  15,0  3  / 2  4  / 2  0  15,Boeing Company,El Segundo,45,Layoff Unknown at this time
+03/20/2015,0  5  / 2  5  / 2  0  15,0  3  / 2  4  / 2  0  15,Boeing Company,Huntington Beach,32,Layoff Unknown at this time
+03/20/2015,0  5  / 2  5  / 2  0  15,0  3  / 2  4  / 2  0  15,Boeing Company,Long Beach,119,Layoff Unknown at this time
+03/24/2015,0  6  / 0  1  / 2  0  15,0  3  / 2  4  / 2  0  15,"The Patina Group NewCo, LLC (Nick",Los Angeles,75,Closure Temporary
+03/19/2015,0  5  / 0  8  / 2  0  15,0  3  / 2  5  / 2  0  15,Keck Medicine of USC-Healthcare,Los Angeles,5,Layoff Temporary
+03/19/2015,0  5  / 0  8  / 2  0  15,0  3  / 2  5  / 2  0  15,Keck Medicine of USC-Healthcare,Los Angeles,1,Layoff Temporary
+03/19/2015,0  5  / 0  8  / 2  0  15,0  3  / 2  5  / 2  0  15,Keck Medicine of USC-Keck Hospital,Los Angeles,39,Layoff Temporary
+03/19/2015,0  5  / 0  8  / 2  0  15,0  3  / 2  5  / 2  0  15,Keck Medicine of USC-Soto Street,Los Angeles,24,Layoff Temporary
+03/19/2015,0  5  / 0  8  / 2  0  15,0  3  / 2  5  / 2  0  15,Keck Medicine of USC-USC Norris,Los Angeles,3,Layoff Temporary
+03/24/2015,0  5  / 2  3  / 2  0  15,0  3  / 2  5  / 2  0  15,"Technicolor Creative Services USA,",Burbank,167,Layoff Unknown at this time
+03/24/2015,0  5  / 2  3  / 2  0  15,0  3  / 2  5  / 2  0  15,"Technicolor Creative Services USA,",Glendale,5,Layoff Unknown at this time
+03/19/2015,0  5  / 0  8  / 2  0  15,0  3  / 2  6  / 2  0  15,Keck Medicine of USC-Pasadena,Pasadena,1,Layoff Temporary
+03/19/2015,0  5  / 0  8  / 2  0  15,0  3  / 2  6  / 2  0  15,Keck Medicine of USC-USC Verdugo,Glendale,21,Layoff Temporary
+03/26/2015,0  2  / 0  4  / 2  0  15,0  3  / 2  6  / 2  0  15,"Dex Media, Inc.",Los Alamitos,49,Closure Permanent
+03/26/2015,0  5  / 3  1  / 2  0  15,0  3  / 2  6  / 2  0  15,"Greatwide Distribution Logistics, LLC",Pico Rivera,156,Layoff Permanent
+03/23/2015,0  3  / 0  6  / 2  0  15,0  3  / 2  7  / 2  0  15,BAE Systems,San Francisco,201,Layoff Temporary
+03/27/2015,0  3  / 1  6  / 2  0  15,0  3  / 2  7  / 2  0  15,"Cryptic Studios, Inc.",Los Gatos,27,Layoff Permanent
+03/27/2015,0  3  / 1  6  / 2  0  15,0  3  / 2  7  / 2  0  15,"Perfect World Co., Ltd",Redwood City,31,Layoff Permanent
+03/26/2015,0  5  / 2  9  / 2  0  15,0  3  / 3  0  / 2  0  15,"Brice Manufacturing Company, Inc.",Pacoima,19,Layoff Permanent
+03/30/2015,0  5  / 2  9  / 2  0  15,0  4  / 0  1  / 2  0  15,"Lightspeed, Inc. dba SkilledUp",San Francisco,27,Layoff Permanent
+03/30/2015,0  5  / 3  1  / 2  0  15,0  4  / 0  1  / 2  0  15,"Sutton Place Management, LLC",San Francisco,98,Closure Unknown at this time
+03/30/2015,0  6  / 1  2  / 2  0  15,0  4  / 0  1  / 2  0  15,"Apollo Education Group, Inc.",San Francisco,4,Layoff Permanent
+03/30/2015,0  8  / 3  1  / 2  0  15,0  4  / 0  1  / 2  0  15,"Apollo Education Group, Inc.",San Francisco,34,Layoff Permanent
+04/01/2015,0  5  / 3  1  / 2  0  15,0  4  / 0  1  / 2  0  15,East Bay Perinatal Medical Associates,Berkeley,34,Layoff Permanent
+04/01/2015,0  5  / 3  0  / 2  0  15,0  4  / 0  2  / 2  0  15,WorleyParsons Group Inc.,Arcadia,82,Layoff Unknown at this time
+04/01/2015,0  5  / 3  0  / 2  0  15,0  4  / 0  2  / 2  0  15,WorleyParsons Group Inc.,Monrovia,8,Layoff Unknown at this time
+03/26/2015,0  5  / 3  1  / 2  0  15,0  4  / 0  3  / 2  0  15,"Schenker, Inc.",Hawthorne,29,Layoff Permanent
+03/30/2015,0  5  / 3  1  / 2  0  15,0  4  / 0  3  / 2  0  15,Northrop Grumman Corporation,Fort Irwin,476,Layoff Permanent
+03/31/2015,0  5  / 1  5  / 2  0  15,0  4  / 0  3  / 2  0  15,Symantec Corporation,Mountain View,30,Layoff Permanent
+04/02/2015,0  6  / 0  1  / 2  0  15,0  4  / 0  3  / 2  0  15,"OnLive, Inc.",Mountain View,98,Closure Unknown at this time
+04/03/2015,0  9  / 0  1  / 2  0  15,0  4  / 0  3  / 2  0  15,"Dex Media, Inc.",Los Alamitos,25,Closure Permanent
+04/02/2015,0  6  / 0  4  / 2  0  15,0  4  / 0  6  / 2  0  15,"Allergan, Inc.",Irvine,577,Layoff Permanent
+04/06/2015,0  6  / 0  8  / 2  0  15,0  4  / 0  6  / 2  0  15,"Jerry's Famous Deli, Inc.",Sherman Oaks,60,Closure Permanent
+04/03/2015,0  6  / 0  5  / 2  0  15,0  4  / 0  7  / 2  0  15,Boeing Company,El Segundo,1,Layoff Unknown at this time
+04/03/2015,0  6  / 0  5  / 2  0  15,0  4  / 0  7  / 2  0  15,Boeing Company,Long Beach,8,Layoff Unknown at this time
+04/01/2015,0  6  / 0  1  / 2  0  15,0  4  / 1  0  / 2  0  15,Rolling Hills Country Club,Rolling Hills Estate,50,Layoff Temporary
+04/09/2015,0  6  / 1  2  / 2  0  15,0  4  / 1  3  / 2  0  15,Deluxe 3D LLC d/b/a Stereo D,Burbank,227,Layoff Permanent
+04/10/2015,0  6  / 1  5  / 2  0  15,0  4  / 1  3  / 2  0  15,"NYC Food and Beverage, LLC",San Jose,144,Closure Permanent
+04/13/2015,0  6  / 1  2  / 2  0  15,0  4  / 1  3  / 2  0  15,Safeway Inc.,Pleasanton,96,Layoff Unknown at this time
+04/13/2015,0  6  / 1  3  / 2  0  15,0  4  / 1  4  / 2  0  15,"MV Transportation, Inc.",Irvine,436,Closure Permanent
+04/14/2015,0  5  / 1  6  / 2  0  15,0  4  / 1  4  / 2  0  15,Vons Companies Inc.,Bakersfield,56,Closure Permanent
+04/14/2015,0  5  / 1  6  / 2  0  15,0  4  / 1  4  / 2  0  15,Vons Companies Inc.,Riverside,61,Closure Permanent
+03/08/2015,0  5  / 3  1  / 2  0  15,0  4  / 1  5  / 2  0  15,"Vose Technical Systems, Inc.",Fort Irwin,60,Layoff Unknown at this time
+04/13/2015,0  6  / 1  9  / 2  0  15,0  4  / 1  5  / 2  0  15,"Walmart Stores, Inc.",Pico Rivera,533,Layoff Permanent
+04/16/2015,0  6  / 1  5  / 2  0  15,0  4  / 1  6  / 2  0  15,"Advanced Micro Devices, Inc.",Sunnyvale,85,Layoff Unknown at this time
+04/15/2015,0  1  / 0  2  / 2  0  15,0  4  / 2  0  / 2  0  15,Cypress Semiconductor Company,Sunnyvale,95,Layoff Permanent
+04/17/2015,0  6  / 1  9  / 2  0  15,0  4  / 2  0  / 2  0  15,"Western Digital Technologies, Inc.",Irvine,115,Layoff Permanent
+04/13/2015,0  6  / 1  9  / 2  0  15,0  4  / 2  1  / 2  0  15,"Ortho Organizers, Inc.",Carlsbad,97,Layoff Permanent
+04/21/2015,0  4  / 2  0  / 2  0  15,0  4  / 2  1  / 2  0  15,"Halliburton Energy Services, Inc.",Bakersfield,14,Layoff Permanent
+04/21/2015,0  6  / 2  0  / 2  0  15,0  4  / 2  1  / 2  0  15,SanDisk Corporation,Milpitas,61,Layoff Permanent
+04/21/2015,0  6  / 3  0  / 2  0  15,0  4  / 2  1  / 2  0  15,"Riverbed Technology, Inc.",San Francisco,85,Layoff Permanent
+04/21/2015,0  6  / 3  0  / 2  0  15,0  4  / 2  1  / 2  0  15,"Riverbed Technology, Inc.",Sunnyvale,75,Layoff Permanent
+04/17/2015,0  6  / 1  9  / 2  0  15,0  4  / 2  2  / 2  0  15,Boeing Company,El Segundo,49,Layoff Unknown at this time
+04/17/2015,0  6  / 1  9  / 2  0  15,0  4  / 2  2  / 2  0  15,Boeing Company,Huntington Beach,28,Layoff Unknown at this time
+04/17/2015,0  6  / 1  9  / 2  0  15,0  4  / 2  2  / 2  0  15,Boeing Company,Long Beach,48,Layoff Unknown at this time
+04/17/2015,0  6  / 1  9  / 2  0  15,0  4  / 2  2  / 2  0  15,Staples,Ontario,41,Closure Permanent
+04/17/2015,0  6  / 1  9  / 2  0  15,0  4  / 2  2  / 2  0  15,Staples,Poway,53,Closure Permanent
+04/22/2015,0  6  / 2  1  / 2  0  15,0  4  / 2  2  / 2  0  15,"Technicolor USA, Inc.",Burbank,106,Closure Unknown at this time
+04/24/2015,0  6  / 3  0  / 2  0  15,0  4  / 2  4  / 2  0  15,"United Brothers Motor Group, Inc. dba",City of Industry,72,Layoff Permanent
+04/27/2015,06/26/2015,04/27/2015,"Health Net, Inc. (CANCELLED)**",Woodland Hills,1217,Layoff Unknown at this time
+04/27/2015,0  6  / 2  6  / 2  0  15,0  4  / 2  7  / 2  0  15,Safeway Inc.,Dublin,1,Layoff Unknown at this time
+04/27/2015,0  6  / 2  6  / 2  0  15,0  4  / 2  7  / 2  0  15,Safeway Inc.,Pleasanton,20,Layoff Unknown at this time
+04/21/2015,0  6  / 2  6  / 2  0  15,0  4  / 2  8  / 2  0  15,"Apollo Education Group, Inc.",San Francisco,60,Layoff Permanent
+04/24/2015,0  7  / 0  4  / 2  0  15,0  4  / 2  8  / 2  0  15,"Prospect Enterprises, Inc. - American",Los Angeles,85,Layoff Permanent
+04/24/2015,0  7  / 0  4  / 2  0  15,0  4  / 2  8  / 2  0  15,"Prospect Enterprises, Inc. - American",Sacramento,19,Layoff Permanent
+04/24/2015,0  7  / 0  4  / 2  0  15,0  4  / 2  8  / 2  0  15,"Prospect Enterprises, Inc. - Cactus",Thousand Palms,5,Layoff Permanent
+04/24/2015,0  7  / 0  4  / 2  0  15,0  4  / 2  8  / 2  0  15,"Prospect Enterprises, Inc. -",San Diego,57,Layoff Permanent
+04/24/2015,0  7  / 0  4  / 2  0  15,0  4  / 2  8  / 2  0  15,"Prospect Enterprises, Inc. - Los",Los Angeles,23,Layoff Permanent
+04/27/2015,06/26/2015,04/28/2015,"Health Net, Inc. (CANCELLED)**",Rancho Cordova,385,Layoff Unknown at this time
+04/27/2015,06/26/2015,04/28/2015,"Health Net, Inc. (CANCELLED)**",Rancho Cordova,520,Layoff Unknown at this time
+04/27/2015,0  6  / 2  9  / 2  0  15,0  4  / 3  0  / 2  0  15,"Nestle USA, Inc.",Modesto,56,Layoff Temporary
+04/30/2015,0  6  / 3  0  / 2  0  15,0  4  / 3  0  / 2  0  15,Hamilton Sundstrand Corporation,San Diego,3,Closure Permanent
+04/29/2015,0  7  / 0  1  / 2  0  15,0  5  / 0  1  / 2  0  15,"Actavis, Inc.",Corona,4,Layoff Permanent
+05/01/2015,0  6  / 3  0  / 2  0  15,0  5  / 0  1  / 2  0  15,"Kumho Tire U.S.A., Inc.",Rancho,20,Closure Permanent
+05/01/2015,0  6  / 3  0  / 2  0  15,0  5  / 0  1  / 2  0  15,T.G.I. Friday's,La Jolla,54,Closure Permanent
+04/30/2015,0  6  / 1  0  / 2  0  15,0  5  / 0  4  / 2  0  15,Symantec Corporation,Mountain View,4,Layoff Permanent
+05/01/2015,0  7  / 0  1  / 2  0  15,0  5  / 0  4  / 2  0  15,"California Chassis, Inc.",Anaheim,20,Closure Permanent
+05/01/2015,0  7  / 0  3  / 2  0  15,0  5  / 0  4  / 2  0  15,ARYZTA,La Mirada,131,Closure Unknown at this time
+04/29/2015,0  7  / 0  1  / 2  0  15,0  5  / 0  5  / 2  0  15,"Littler Mendelson, P.C.",San Francisco,113,Layoff Permanent
+04/27/2015,0  6  / 3  0  / 2  0  15,0  5  / 0  6  / 2  0  15,Hi-Desert Memorial Health Care,Joshua Tree,541,Layoff Unknown at this time
+04/29/2015,0  7  / 1  0  / 2  0  15,0  5  / 0  6  / 2  0  15,Ralphs Grocery Company,Duarte,72,Closure Unknown at this time
+05/04/2015,0  7  / 0  3  / 2  0  15,0  5  / 0  6  / 2  0  15,Fireman's Fund Insurnace Company,Novato,7,Layoff Permanent
+05/01/2015,0  7  / 0  3  / 2  0  15,0  5  / 0  7  / 2  0  15,"Herren Enterprises, Inc. d/b/a Doctor's",Laguna Hills,117,Layoff Permanent
+04/27/2015,0  6  / 3  0  / 2  0  15,0  5  / 0  8  / 2  0  15,Hi-Desert Memorial Health Care,Yucca Valley,8,Layoff Unknown at this time
+04/27/2015,0  6  / 3  0  / 2  0  15,0  5  / 0  8  / 2  0  15,Hi-Desert Memorial Health Care,Yucca Valley,13,Layoff Unknown at this time
+04/27/2015,0  6  / 3  0  / 2  0  15,0  5  / 0  8  / 2  0  15,Hi-Desert Memorial Health Care,Yucca Valley,21,Layoff Unknown at this time
+05/07/2015,0  7  / 1  0  / 2  0  15,0  5  / 0  8  / 2  0  15,Vons Companies Inc.,Fresno,73,Layoff Permanent
+05/07/2015,0  7  / 1  2  / 2  0  15,0  5  / 0  8  / 2  0  15,"Greatwide Distribution Logistics, LLC",West Sacramento,71,Layoff Permanent
+05/07/2015,0  7  / 1  4  / 2  0  15,0  5  / 0  8  / 2  0  15,Sutter Medical Foundation,Elk Grove,17,Layoff Permanent
+05/08/2015,0  7  / 0  7  / 2  0  15,0  5  / 0  8  / 2  0  15,BP,San Diego,90,Closure Permanent
+05/08/2015,0  7  / 1  0  / 2  0  15,0  5  / 0  8  / 2  0  15,"Olam West Coast, Inc.",Modesto,65,Closure Permanent
+04/27/2015,0  7  / 0  1  / 2  0  15,0  5  / 1  1  / 2  0  15,"CytoSport, Inc.",Benicia,124,Closure Permanent
+04/30/2015,0  4  / 3  0  / 2  0  15,0  5  / 1  1  / 2  0  15,"Toyota Motor Credit Corporation,",Torrance,941,Closure Permanent
+05/04/2015,0  7  / 0  5  / 2  0  15,0  5  / 1  1  / 2  0  15,Hollywood Presbyterian Medical,Los Angeles,87,Layoff Permanent
+05/08/2015,0  7  / 0  8  / 2  0  15,0  5  / 1  1  / 2  0  15,Fruit Patch,Dinuba,132,Closure Permanent
+05/06/2015,0  5  / 0  8  / 2  0  15,0  5  / 1  2  / 2  0  15,"Zynga, Inc.",San Francisco,179,Layoff Permanent
+05/07/2015,0  7  / 1  0  / 2  0  15,0  5  / 1  2  / 2  0  15,"Vons Companies, Inc.",Fresno,54,Layoff Unknown at this time
+05/07/2015,0  7  / 1  0  / 2  0  15,0  5  / 1  2  / 2  0  15,"Vons Companies, Inc.",Fresno,73,Layoff Unknown at this time
+05/08/2015,0  7  / 1  0  / 2  0  15,0  5  / 1  2  / 2  0  15,Boeing Company,Long Beach,26,Layoff Unknown at this time
+05/11/2015,0  7  / 1  3  / 2  0  15,0  5  / 1  2  / 2  0  15,CR Briggs Corporation,Trona,39,Layoff Permanent
+05/06/2015,0  5  / 0  8  / 2  0  15,0  5  / 1  3  / 2  0  15,"Zynga, Inc.",Santa Clara,1,Layoff Permanent
+05/07/2015,0  1  / 1  6  / 2  0  15,0  5  / 1  3  / 2  0  15,Cypress Semiconductor Company,San Jose,51,Layoff Permanent
+05/14/2015,0  5  / 1  4  / 2  0  15,0  5  / 1  4  / 2  0  15,"Western Dental Services, Inc.",Orange,237,Closure Permanent
+05/13/2015,0  7  / 1  5  / 2  0  15,0  5  / 1  5  / 2  0  15,Owens-Brockway Glass Container Inc.,Oakland,67,Layoff Permanent
+05/13/2015,0  7  / 1  0  / 2  0  15,0  5  / 1  8  / 2  0  15,AT&T Global Customer Service,San Ramon,89,Layoff Permanent
+05/18/2015,0  7  / 1  7  / 2  0  15,0  5  / 1  8  / 2  0  15,Safeway Inc.,Pleasanton,28,Layoff Unknown at this time
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development Council,Thornton,3,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,3,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,7,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,8,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Tracy,9,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,4,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,10,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,13,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,21,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,4,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Lodi,7,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,7,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Escalon,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,3,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,French Camp,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,10,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Lodi,4,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,9,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Lodi,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Lathrop,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Lodi,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Lodi,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Lodi,11,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Manteca,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Manteca,14,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,3,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Tracy,4,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,3,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,19,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,4,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Manteca,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Manteca,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,3,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,4,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,34,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,10,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,18,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,8,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,6,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,2,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Tracy,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,20,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,3,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Manteca,10,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,5,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,3,Closure Permanent
+04/30/2015,0  9  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,16,Closure Permanent
+04/30/2015,0  9  / 3  0  / 2  0  15,0  5  / 1  9  / 2  0  15,Head Start Child Development,Stockton,16,Closure Permanent
+05/19/2015,0  7  / 1  9  / 2  0  15,0  5  / 1  9  / 2  0  15,Wichcraft Operating LLC,San Francisco,29,Closure Permanent
+04/30/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  0  / 2  0  15,Head Start Child Development,Stockton,8,Layoff Permanent
+05/19/2015,0  7  / 2  0  / 2  0  15,0  5  / 2  0  / 2  0  15,"NetApp, Inc.",Sunnyvale,125,Layoff Permanent
+05/20/2015,0  7  / 1  9  / 2  0  15,0  5  / 2  0  / 2  0  15,SanDisk Corporation,Milpitas,27,Layoff Permanent
+05/01/2015,0  7  / 1  0  / 2  0  15,0  5  / 2  1  / 2  0  15,Sonnen BMW,San Rafael,114,Closure Unknown at this time
+05/08/2015,0  8  / 1  4  / 2  0  15,0  5  / 2  1  / 2  0  15,"Emulex Corporation, Avago",Costa Mesa,49,Layoff Permanent
+05/08/2015,0  8  / 1  4  / 2  0  15,0  5  / 2  1  / 2  0  15,"Emulex Corporation, Avago",San Jose,38,Layoff Permanent
+05/08/2015,0  8  / 2  8  / 2  0  15,0  5  / 2  1  / 2  0  15,"Emulex Corporation, Avago",San Jose,1,Layoff Permanent
+05/21/2015,0  8  / 0  9  / 2  0  15,0  5  / 2  1  / 2  0  15,Greatwide Distribution Logistics LLC,Fresno,93,Layoff Permanent
+05/19/2015,0  5  / 0  5  / 2  0  15,0  5  / 2  2  / 2  0  15,BAE Systems,San Francisco,104,Layoff Temporary
+05/19/2015,0  5  / 1  2  / 2  0  15,0  5  / 2  6  / 2  0  15,ITT Cannon LLC,Santa Ana,10,Layoff Permanent
+05/26/2015,0  7  / 2  5  / 2  0  15,0  5  / 2  6  / 2  0  15,"The San Diego Union Tribune, LLC",Oceanside,3,Layoff Permanent
+05/26/2015,0  7  / 2  5  / 2  0  15,0  5  / 2  6  / 2  0  15,"The San Diego Union Tribune, LLC",San Diego,175,Layoff Permanent
+05/26/2015,0  7  / 2  9  / 2  0  15,0  5  / 2  6  / 2  0  15,"Certified Players, Inc.",Inglewood,118,Closure Unknown at this time
+05/15/2015,0  7  / 1  0  / 2  0  15,0  5  / 2  7  / 2  0  15,AT&T Global Customer Service,Tustin,129,Layoff Permanent
+05/15/2015,0  7  / 1  5  / 2  0  15,0  5  / 2  7  / 2  0  15,"Crystal Cathedral Ministries,",Garden Grove,27,Closure Permanent
+05/27/2015,0  7  / 2  9  / 2  0  15,0  5  / 2  7  / 2  0  15,"H.J. Heinz Company, L.P.",Chatsworth,144,Closure Permanent
+05/20/2015,0  7  / 1  5  / 2  0  15,0  5  / 2  8  / 2  0  15,"SureFire, LLC",Fountain Valley,12,Layoff Permanent
+05/20/2015,0  7  / 1  5  / 2  0  15,0  5  / 2  8  / 2  0  15,"SureFire, LLC",Fountain Valley,21,Layoff Permanent
+05/20/2015,0  7  / 1  5  / 2  0  15,0  5  / 2  8  / 2  0  15,"SureFire, LLC",Santa Ana,2,Layoff Permanent
+05/20/2015,0  7  / 1  5  / 2  0  15,0  5  / 2  8  / 2  0  15,"SureFire, LLC",Santa Ana,9,Layoff Permanent
+05/22/2015,0  7  / 2  4  / 2  0  15,0  5  / 2  8  / 2  0  15,Boeing Company,Huntington Beach,32,Layoff Unknown at this time
+05/22/2015,0  7  / 2  4  / 2  0  15,0  5  / 2  8  / 2  0  15,Boeing Company,Long Beach,91,Layoff Unknown at this time
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  8  / 2  0  15,"Campesinos Unidos, Inc. - Lily",Calexico,9,Closure Permanent
+05/22/2015,0  7  / 2  4  / 2  0  15,0  5  / 2  9  / 2  0  15,Boeing Company,El Segundo,40,Layoff Unknown at this time
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. -",Brawley,7,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. - Carmen",Brawley,10,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. - Claudio",El Centro,13,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. - Head Start",El Centro,12,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. - Imperial",Imperial,2,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. - McKinley",El Centro,13,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. - Michael H.",Niland,4,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. - Norah L.",Heber,9,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. - Victor",El Centro,15,Closure Permanent
+05/28/2015,0  6  / 3  0  / 2  0  15,0  5  / 2  9  / 2  0  15,"Campesinos Unidos, Inc. -",Westmorland,4,Closure Permanent
+05/26/2015,0  7  / 2  7  / 2  0  15,0  6  / 0  1  / 2  0  15,Envoy,San Diego,79,Layoff Permanent
+05/28/2015,0  8  / 0  1  / 2  0  15,0  6  / 0  1  / 2  0  15,Raley's,Newark,61,Closure Permanent
+05/28/2015,0  8  / 0  7  / 2  0  15,0  6  / 0  1  / 2  0  15,House of Blues Los Angeles,West Hollywood,197,Closure Permanent
+05/29/2015,0  7  / 0  8  / 2  0  15,0  6  / 0  1  / 2  0  15,Symantec Corporation,Mountain View,13,Layoff Permanent
+05/28/2015,0  7  / 3  1  / 2  0  15,0  6  / 0  2  / 2  0  15,"Rio Mesa Farms, LLC",Santa Paula,61,Closure Permanent
+05/28/2015,0  7  / 3  1  / 2  0  15,0  6  / 0  2  / 2  0  15,"Rio Mesa Farms, LLC",Somis,74,Closure Permanent
+06/02/2015,0  8  / 0  3  / 2  0  15,0  6  / 0  2  / 2  0  15,Green Tree Servicing LLC,Rancho,53,Layoff Permanent
+05/28/2015,0  7  / 3  1  / 2  0  15,0  6  / 0  3  / 2  0  15,"Ito Packing Company, Inc.",Reedley,197,Closure Permanent
+05/28/2015,0  7  / 3  1  / 2  0  15,0  6  / 0  3  / 2  0  15,Ralphs Grocery Company,Mission Hills,70,Closure Unknown at this time
+05/21/2015,0  5  / 2  0  / 2  0  15,0  6  / 0  4  / 2  0  15,BAE Systems,San Francisco,1,Layoff Temporary
+06/04/2015,0  8  / 0  3  / 2  0  15,0  6  / 0  4  / 2  0  15,Verizon Wireless,Irvine,50,Layoff Permanent
+06/04/2015,0  8  / 0  7  / 2  0  15,0  6  / 0  4  / 2  0  15,CR Briggs Corporation,Trona,31,Layoff Permanent
+06/01/2015,0  7  / 3  1  / 2  0  15,0  6  / 0  5  / 2  0  15,Alexza Pharmaceuticals,Mountain View,28,Layoff Permanent
+05/27/2015,0  5  / 2  6  / 2  0  15,0  6  / 0  8  / 2  0  15,BAE Systems,San Francisco,1,Layoff Temporary
+06/02/2015,0  8  / 0  3  / 2  0  15,0  6  / 0  8  / 2  0  15,Compass Pointe Healthcare System,San Gabriel,68,Closure Unknown at this time
+06/04/2015,0  9  / 3  0  / 2  0  15,0  6  / 0  8  / 2  0  15,Brooks Automation,Poway,36,Closure Unknown at this time
+06/08/2015,0  8  / 0  7  / 2  0  15,0  6  / 0  8  / 2  0  15,Safeway Inc.,Pleasanton,8,Layoff Unknown at this time
+06/05/2015,0  8  / 0  3  / 2  0  15,0  6  / 0  9  / 2  0  15,"Littler Mendelson, P.C.",Los Angeles,2,Layoff Permanent
+06/08/2015,0  8  / 1  2  / 2  0  15,0  6  / 1  0  / 2  0  15,"Wilshire West Car Wash, LLC",Santa Monica,66,Closure Permanent
+06/10/2015,0  9  / 3  0  / 2  0  15,0  6  / 1  1  / 2  0  15,ClosetMaid Corporation,Chino,71,Closure Permanent
+06/11/2015,0  8  / 1  5  / 2  0  15,0  6  / 1  1  / 2  0  15,"King Meat, Inc.",Los Angeles,227,Closure Unknown at this time
+06/12/2015,0  7  / 3  1  / 2  0  15,0  6  / 1  2  / 2  0  15,Saks & Company LLC,Santa Barbara,56,Closure Permanent
+06/12/2015,0  8  / 1  0  / 2  0  15,0  6  / 1  2  / 2  0  15,"Flying Food Group, LLC",Harbor City,121,Layoff Permanent
+06/05/2015,0  8  / 0  7  / 2  0  15,0  6  / 1  5  / 2  0  15,Boeing Company,Long Beach,15,Layoff Unknown at this time
+06/11/2015,0  7  / 1  5  / 2  0  15,0  6  / 1  5  / 2  0  15,Intel Corporation,Folsom,152,Layoff Permanent
+06/12/2015,0  8  / 1  4  / 2  0  15,0  6  / 1  5  / 2  0  15,"Brice Manufacturing Company, Inc.",Pacoima,15,Layoff Permanent
+06/16/2015,0  8  / 1  7  / 2  0  15,0  6  / 1  6  / 2  0  15,"Bridgepoint Education, Inc.",San Diego,2,Layoff Permanent
+06/16/2015,0  8  / 1  7  / 2  0  15,0  6  / 1  6  / 2  0  15,"Bridgepoint Education, Inc.",San Diego,5,Layoff Permanent
+06/16/2015,0  8  / 1  7  / 2  0  15,0  6  / 1  6  / 2  0  15,"Bridgepoint Education, Inc.",San Diego,12,Layoff Permanent
+06/16/2015,0  8  / 1  5  / 2  0  15,0  6  / 1  7  / 2  0  15,"Discover Home Loans, Inc.",Irvine,393,Closure Permanent
+06/11/2015,0  7  / 1  5  / 2  0  15,0  6  / 1  8  / 2  0  15,Intel Corporation,Santa Clara,10,Layoff Permanent
+06/11/2015,0  7  / 1  5  / 2  0  15,0  6  / 1  8  / 2  0  15,Intel Corporation,Santa Clara,52,Layoff Permanent
+06/11/2015,0  7  / 1  5  / 2  0  15,0  6  / 1  8  / 2  0  15,Intel Corporation,Santa Clara,103,Layoff Permanent
+06/23/2015,0  8  / 2  3  / 2  0  15,0  6  / 2  3  / 2  0  15,"Gap, Inc.",San Francisco,62,Layoff Permanent
+06/12/2015,0  9  / 1  1  / 2  0  15,0  6  / 2  4  / 2  0  15,Cal State Steel Corp.,Compton,44,Closure Permanent
+06/19/2015,0  8  / 1  7  / 2  0  15,0  6  / 2  4  / 2  0  15,"TABC, Inc.",Long Beach,104,Layoff Permanent
+06/19/2015,0  8  / 2  1  / 2  0  15,0  6  / 2  5  / 2  0  15,Boeing Company,El Segundo,26,Layoff Unknown at this time
+06/19/2015,0  8  / 2  1  / 2  0  15,0  6  / 2  5  / 2  0  15,Boeing Company,Long Beach,28,Layoff Unknown at this time
+06/19/2015,0  8  / 2  1  / 2  0  15,0  6  / 2  5  / 2  0  15,Boeing Compnay,Huntington Beach,6,Layoff Unknown at this time
+06/23/2015,0  8  / 0  7  / 2  0  15,0  6  / 2  5  / 2  0  15,"Aerotek, Inc.",Long Beach,121,Layoff Unknown at this time
+06/23/2015,0  9  / 0  1  / 2  0  15,0  6  / 2  9  / 2  0  15,Merced Transportation Company,Merced,107,Layoff Permanent
+06/23/2015,1  2  / 3  1  / 2  0  15,0  6  / 2  9  / 2  0  15,E2OPEN,San Mateo,54,Closure Permanent
+06/24/2015,0  8  / 3  1  / 2  0  15,0  6  / 2  9  / 2  0  15,University of Phoenix,San Francisco,14,Layoff Permanent
+06/25/2015,0  8  / 2  4  / 2  0  15,0  6  / 2  9  / 2  0  15,"Intuit, Inc.",San Francisco,6,Layoff Permanent
+06/25/2015,0  8  / 2  4  / 2  0  15,0  6  / 2  9  / 2  0  15,"Intuit, Inc.",Woodland Hills,4,Layoff Permanent
+06/26/2015,0  7  / 3  1  / 2  0  15,0  6  / 2  9  / 2  0  15,LongView International Technology,Laguna Niguel,500,Layoff Unknown at this time
+06/26/2015,1  2  / 3  1  / 2  0  15,0  6  / 2  9  / 2  0  15,Precision Specialty Metals,Los Angeles,61,Closure Unknown at this time
+06/24/2015,0  8  / 1  9  / 2  0  15,0  6  / 3  0  / 2  0  15,"SureFire, LLC",Fountain Valley,1,Layoff Permanent
+06/24/2015,0  8  / 1  9  / 2  0  15,0  6  / 3  0  / 2  0  15,"SureFire, LLC",Fountain Valley,14,Layoff Permanent
+06/24/2015,0  8  / 1  9  / 2  0  15,0  6  / 3  0  / 2  0  15,"SureFire, LLC",Fountain Valley,26,Layoff Permanent
+06/24/2015,0  8  / 1  9  / 2  0  15,0  6  / 3  0  / 2  0  15,"SureFire, LLC",Fountain Valley,45,Layoff Permanent
+06/24/2015,0  8  / 1  9  / 2  0  15,0  6  / 3  0  / 2  0  15,"SureFire, LLC",Santa Ana,2,Layoff Permanent
+06/24/2015,0  8  / 1  9  / 2  0  15,0  6  / 3  0  / 2  0  15,"SureFire, LLC",Santa Ana,10,Layoff Permanent
+06/25/2015,0  8  / 2  4  / 2  0  15,0  6  / 3  0  / 2  0  15,"Intuit, Inc.",Menlo Park,27,Layoff Permanent
+06/25/2015,0  8  / 2  4  / 2  0  15,0  6  / 3  0  / 2  0  15,"Intuit, Inc.",Mountain View,13,Layoff Permanent
+06/25/2015,0  8  / 2  4  / 2  0  15,0  6  / 3  0  / 2  0  15,"Intuit, Inc.",San Diego,11,Layoff Permanent
+06/25/2015,0  8  / 2  4  / 2  0  15,0  6  / 3  0  / 2  0  15,"Intuit, Inc.",San Francisco,86,Layoff Permanent
+06/25/2015,0  8  / 2  4  / 2  0  15,0  6  / 3  0  / 2  0  15,"Intuit, Inc.",Santa Monica,49,Closure Permanent
+06/25/2015,0  8  / 2  4  / 2  0  15,0  6  / 3  0  / 2  0  15,"Intuit, Inc.",Venice,11,Closure Permanent
+06/29/2015,0  8  / 2  8  / 2  0  15,0  6  / 3  0  / 2  0  15,"Safeway, Inc.",Pleasanton,18,Layoff Unknown at this time
+06/30/2015,0  7  / 2  2  / 2  0  15,0  6  / 3  0  / 2  0  15,Medtronic Ablation Frontiers LLC,Carlsbad,50,Closure Permanent

@@ -1,0 +1,655 @@
+notice_date,effective_date,received_date,company,city,employees,layoff_closure
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Antelope,55,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Bakersfield,22,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Brentwood,22,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Chico,22,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Clovis,33,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Fontana,33,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Long Beach,11,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Modesto,11,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Moreno Valley,66,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Pomona,22,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Roseville,11,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,San Marcos,11,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Stockton,22,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Vacaville,11,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Ventura,11,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Visalia,11,Closure Permanent
+06/30/2016,08/31/2016,07/01/2016,DCS Facility Services,Yuba City,11,Closure Permanent
+07/01/2016,08/31/2016,07/01/2016,Ryder,Fontana,7,Closure Permanent
+06/29/2016,08/24/2016,07/05/2016,Symantec Corporation,Mountain View,77,Layoff Permanent
+06/29/2016,09/01/2016,07/05/2016,Seagate US LLC,Cupertino,70,Layoff Permanent
+06/30/2016,09/02/2016,07/05/2016,"Actavis, Inc.",Corona,10,Layoff Permanent
+06/30/2016,09/04/2016,07/05/2016,USS-POSCO Industries,Pittsburg,643,Layoff Temporary
+06/27/2016,08/27/2016,07/06/2016,"Owens & Minor Distribution, Inc.",Ontario,87,Layoff Permanent
+06/27/2016,08/27/2016,07/06/2016,"Owens & Minor Distribution, Inc.",Tracy,102,Layoff Permanent
+06/27/2016,08/25/2016,07/07/2016,Tyson Foods Inc.,Vernon,34,Closure Permanent
+06/30/2016,08/30/2016,07/07/2016,"SkyWest Airlines, Inc.",Los Angeles,325,Layoff Unknown at this time
+06/30/2016,09/02/2016,07/07/2016,"Rockwell Collins, Inc.",Poway,1,Closure Permanent
+07/01/2016,09/01/2016,07/07/2016,O.P.I. Products Inc.,North Hollywood,408,Closure Permanent
+03/18/2016,05/20/2016,07/08/2016,Scripps Health,San Diego,150,Layoff Permanent
+07/05/2016,08/22/2016,07/08/2016,"Peppermint Holdings, LLC d/b/a One",Ontario,60,Layoff Permanent
+07/08/2016,09/09/2016,07/08/2016,"Brookvale International, LLC",Carson,107,Closure Permanent
+07/12/2016,09/12/2016,07/11/2016,"McLane/Suneast, Inc. d/b/a McLane",Merced,56,Layoff Permanent
+06/30/2016,08/30/2016,07/12/2016,"Impact Logistics, Inc.",City of Industry,61,Closure Permanent
+07/06/2016,09/05/2016,07/12/2016,"DFINE, Inc.",San Jose,65,Closure Permanent
+07/13/2016,07/13/2016,07/13/2016,"IAC Search & Media, Inc.",Oakland,32,Layoff Permanent
+07/11/2016,09/09/2016,07/14/2016,Valmark Interface Solutions,Livermore,14,Layoff Permanent
+07/15/2016,07/18/2016,07/18/2016,"Mindspark Interactive Network, Inc. &",Oakland,6,Layoff Permanent
+07/18/2016,09/16/2016,07/18/2016,Safeway Inc.,Pleasanton,5,Layoff Unknown at this time
+07/15/2016,07/15/2016,07/20/2016,"Rincon Pacific, LLC",Oxnard,79,Layoff Permanent
+07/15/2016,09/12/2016,07/20/2016,"Intelicare Direct, Inc.",San Jose,32,Closure Permanent
+07/20/2016,09/30/2016,07/21/2016,"Rockwell Collins, Inc.",Poway,10,Closure Permanent
+07/21/2016,09/20/2016,07/21/2016,"RockYou, Inc.",San Francisco,62,Layoff Permanent
+07/22/2016,09/23/2016,07/26/2016,Boeing Company,El Segundo,38,Layoff Unknown at this time
+07/22/2016,09/23/2016,07/26/2016,Boeing Company,Huntington Beach,73,Layoff Unknown at this time
+07/25/2016,09/24/2016,07/27/2016,Macy's Laurel Plaza Store,North Hollywood,176,Closure Permanent
+07/26/2016,10/03/2016,07/28/2016,"Oakley, Inc.",Foothill Ranch,417,Layoff Unknown at this time
+07/22/2016,09/30/2016,07/29/2016,Levy Restaurants,Sacramento,373,Closure Permanent
+07/25/2016,09/23/2016,07/29/2016,"Bowers Companies, Inc. d/b/a Bowers",Long Beach,56,Closure Permanent
+07/25/2016,09/23/2016,07/29/2016,"Bowers Companies, Inc. d/b/a Bowers",North Hollywood,99,Closure Permanent
+07/25/2016,09/30/2016,07/29/2016,"Merchant e-Solutions, Inc.",Redwood City,36,Closure Permanent
+07/27/2016,10/31/2016,07/29/2016,"Bare Escentuals Beauty, Inc.",San Francisco,190,Layoff Permanent
+07/28/2016,10/28/2016,08/01/2016,"Balda C. Brewer, Inc.",Anaheim,130,Closure Permanent
+07/29/2016,09/28/2016,08/01/2016,Chili's Restaurant,Foothill Ranch,52,Closure Permanent
+08/01/2016,09/30/2016,08/01/2016,"ConAgra Foods, Inc.",Oakland,11,Closure Permanent
+07/29/2016,10/10/2016,08/02/2016,Good Hope International,Anaheim,60,Layoff Permanent
+07/28/2016,09/28/2016,08/03/2016,"Micrel, Inc.",San Jose,195,Layoff Permanent
+07/28/2016,09/30/2016,08/03/2016,Golden Valley Citrus Inc.,Strathmore,145,Layoff Unknown at this time
+08/02/2016,09/01/2016,08/03/2016,Silgan Containers,Modesto,60,Layoff Temporary
+08/03/2016,10/03/2016,08/03/2016,Architectural Lighting Works,Hayward,55,Closure Permanent
+08/01/2016,09/30/2016,08/04/2016,"SkyWest Airlines, Inc.",San Francisco,325,Layoff Unknown at this time
+08/03/2016,10/03/2016,08/04/2016,"Walt Disney Parks & Resorts U.S., Inc.",Glendale,74,Layoff Permanent
+08/03/2016,11/18/2016,08/04/2016,"J Brand, Inc.",Los Angeles,27,Layoff Permanent
+08/04/2016,10/07/2016,08/04/2016,"Teva Pharmaceuticals USA, Inc.",Corona,19,Layoff Permanent
+08/03/2016,08/04/2016,08/08/2016,"SunEdison, Inc.",Belmont,15,Layoff Permanent
+08/03/2016,08/04/2016,08/08/2016,"SunEdison, Inc.",San Francisco,1,Layoff Permanent
+08/04/2016,10/05/2016,08/09/2016,Brake Parts Inc.,Chowchilla,1,Closure Permanent
+08/11/2016,10/12/2016,08/11/2016,"G2 Secure Staff, LLC",Los Angeles,90,Layoff Permanent
+08/12/2016,10/14/2016,08/12/2016,"Xerox Business Services, LLC",Los Angeles,11,Layoff Permanent
+08/08/2016,10/07/2016,08/15/2016,AMVETS Department of California,Chula Vista,16,Closure Permanent
+08/13/2016,10/15/2016,08/15/2016,MedRisk,Calabasas,4,Closure Permanent
+08/15/2016,10/31/2016,08/15/2016,Brooks Institute,Ventura,169,Closure Permanent
+08/16/2016,10/16/2016,08/17/2016,Silgan Containers,Riverbank,177,Layoff Temporary
+08/16/2016,12/07/2016,08/17/2016,"Morton Salt, Inc.",Newark,70,Closure Permanent
+08/16/2016,10/16/2016,08/18/2016,Silgan Containers,Modesto,30,Layoff Temporary
+08/17/2016,08/18/2016,08/18/2016,"Cisco Systems, Inc.",San Jose,899,Layoff Permanent
+08/17/2016,10/17/2016,08/18/2016,QLogic Corporation,Aliso Viejo,69,Layoff Permanent
+08/17/2016,11/01/2016,08/18/2016,Gardens Regional Hospital and Medical,Hawaiian Gardens,318,Layoff Permanent
+08/17/2016,10/10/2016,08/19/2016,"FireEye, Inc.",Milpitas,80,Layoff Permanent
+08/19/2016,10/21/2016,08/22/2016,Boeing Company,El Segundo,20,Layoff Unknown at this time
+08/19/2016,10/21/2016,08/22/2016,Boeing Company,Huntington Beach,37,Layoff Unknown at this time
+08/19/2016,10/19/2016,08/23/2016,SolarCity Corporation,San Francisco,28,Layoff Permanent
+08/19/2016,10/19/2016,08/23/2016,SolarCity Corporation,San Mateo,80,Layoff Permanent
+08/22/2016,10/21/2016,08/23/2016,Safeway Inc.,Pleasanton,1,Layoff Unknown at this time
+08/23/2016,10/21/2016,08/23/2016,Ericsson Inc.,San Jose,435,Closure Permanent
+08/24/2016,10/24/2016,08/25/2016,"Western Digital Technologies, Inc.",Milpitas,59,Layoff Permanent
+08/25/2016,10/25/2016,08/26/2016,"Ashley Furniture Industries, Inc.",Colton,900,Closure Permanent
+08/26/2016,10/28/2016,08/26/2016,The Lash Group,San Bruno,133,Closure Permanent
+08/25/2016,10/25/2016,08/29/2016,National Oilwell Varco,Orange,72,Layoff Permanent
+08/26/2016,10/28/2016,08/29/2016,"US Lines, LLC",Newport Beach,92,Closure Permanent
+08/29/2016,10/28/2016,08/30/2016,"Border Grill Santa Monica, LP",Santa Monica,64,Closure Permanent
+08/30/2016,10/30/2016,08/30/2016,"Genworth Financial, Inc.",San Rafael,58,Closure Unknown at this time
+07/27/2016,09/30/2016,08/31/2016,"Kyocera Precisions Tools, Inc.",San Jose,7,Closure Permanent
+08/29/2016,11/01/2016,08/31/2016,"BCBG Max Azria Group, LLC",Vernon,123,Layoff Permanent
+08/31/2016,10/31/2016,08/31/2016,DrJays.com,San Diego,3,Closure Unknown at this time
+09/01/2016,10/31/2016,09/01/2016,Pacific Laser Systems,San Rafael,69,Closure Permanent
+09/01/2016,10/31/2016,09/01/2016,Xerox Business Services,Irvine,19,Layoff Permanent
+09/01/2016,11/04/2016,09/01/2016,"Teva Pharmaceuticals USA, Inc.",Corona,14,Layoff Permanent
+09/01/2016,11/01/2016,09/02/2016,Valley Medical Oncology Consultants,Castro Valley,102,Layoff Permanent
+09/01/2016,11/01/2016,09/02/2016,Valley Medical Oncology Consultants,Los Gatos,29,Layoff Permanent
+09/01/2016,11/01/2016,09/02/2016,Valley Medical Oncology Consultants,Mountain View,9,Layoff Permanent
+08/29/2016,11/02/2016,09/06/2016,Menzies Aviation,San Jose,85,Layoff Permanent
+09/06/2016,11/07/2016,09/06/2016,Morning Sun Shirt Company,Garden Grove,76,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Clovis,52,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Concord,29,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Corona,45,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Lathrop,48,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",National City,91,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Oakland,25,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Orange,76,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Oxnard,38,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Rancho Cordova,104,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",San Bernardino,70,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",San Dimas,48,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Sylmar,87,Closure Permanent
+09/07/2016,09/06/2016,09/07/2016,"ITT Technical Services, Inc.",Torrance,67,Closure Permanent
+09/01/2016,11/01/2016,09/08/2016,Keil's Food Stores,Clairemont,48,Closure Permanent
+09/06/2016,09/07/2016,09/08/2016,"SunEdison, Inc.",Belmont,17,Layoff Permanent
+09/08/2016,09/30/2016,09/08/2016,Tech Sol LLC,Chula Vista,102,Closure Permanent
+08/19/2016,10/26/2016,09/09/2016,"Zodiac Seat Shells U.S., LLC",Santa Maria,205,Layoff Permanent
+09/07/2016,11/08/2016,09/09/2016,The Hertz Corporation,San Francisco,156,Layoff Permanent
+09/08/2016,11/02/2016,09/13/2016,Symantec Corporation,Mountain View,23,Layoff Permanent
+09/12/2016,09/12/2016,09/13/2016,"VF Contemporary Brands, Inc.",Los Angeles,55,Layoff Permanent
+09/12/2016,09/12/2016,09/13/2016,"VF Contemporary Brands, Inc.",Vernon,50,Layoff Permanent
+09/12/2016,10/31/2016,09/13/2016,Brake Parts Inc.,Chowchilla,1,Closure Permanent
+09/13/2016,12/02/2016,09/14/2016,The Carlstar Group,Ontario,139,Closure Permanent
+09/13/2016,10/22/2016,09/16/2016,Southern California Edison Company,Rosemead,43,Layoff Permanent
+09/14/2016,01/31/2017,09/19/2016,"Oakley, Inc.",Mira Loma,119,Closure Unknown at this time
+09/16/2016,11/18/2016,09/19/2016,Boeing Company,El Segundo,59,Layoff Unknown at this time
+09/16/2016,11/18/2016,09/19/2016,Boeing Company,Huntington Beach,23,Layoff Unknown at this time
+09/14/2016,09/14/2016,09/20/2016,Sony Computer Entertainment America,San Diego,40,Layoff Permanent
+09/15/2016,11/18/2016,09/20/2016,DreamWorks Animation and,Glendale,226,Layoff Permanent
+09/16/2016,07/31/2016,09/20/2016,Synaptics Incorporated,San Jose,77,Layoff Permanent
+09/13/2016,11/15/2016,09/22/2016,"Varengo, Inc.",Anaheim,60,Layoff Permanent
+09/13/2016,11/15/2016,09/22/2016,"Varengo, Inc.",Torrance,22,Layoff Permanent
+09/19/2016,01/06/2017,09/26/2016,Balboa Water Group,Valencia,245,Closure Permanent
+09/22/2016,11/21/2016,09/26/2016,Ryder,Fontana,11,Closure Permanent
+09/26/2016,11/28/2016,09/26/2016,Cypress Semiconductor Corporation,San Jose,103,Layoff Permanent
+09/26/2016,12/02/2016,09/27/2016,"World Courier Ground, Inc.",Burlingame,66,Closure Permanent
+09/27/2016,12/02/2016,09/28/2016,Motorola Mobility LLC,Santa Clara,9,Layoff Permanent
+09/27/2016,12/02/2016,09/28/2016,Motorola Mobility LLC,Sunnyvale,58,Closure Permanent
+09/28/2016,12/02/2016,09/28/2016,"Teva Pharmaceuticals USA, Inc.",Corona,11,Layoff Permanent
+09/28/2016,11/28/2016,09/29/2016,Hotel Nikko San Francisco,San Francisco,336,Closure Temporary
+09/29/2016,01/31/2017,09/29/2016,"Adecco USA, Inc.",Jurupa Valley,129,Closure Permanent
+08/03/2016,10/17/2016,09/30/2016,"Davidson Motors, Inc. dba Lexus of",Riverside,103,Layoff Permanent
+09/28/2016,09/29/2016,09/30/2016,"SunEdison, Inc.",Belmont,9,Layoff Permanent
+09/28/2016,09/29/2016,09/30/2016,"SunEdison, Inc.",San Francisco,2,Layoff Permanent
+09/30/2016,11/29/2016,09/30/2016,MSE Technologies LLC,Van Nuys,115,Layoff Permanent
+09/30/2016,11/30/2016,09/30/2016,Tree Island Wire (USA) Inc,Pomona,16,Closure Permanent
+09/16/2016,12/11/2016,10/03/2016,Kmart,Fontana,133,Closure Permanent
+09/16/2016,12/11/2016,10/03/2016,Kmart,Los Angeles,234,Closure Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Concord,15,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Modesto,14,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Novato,15,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Roseville,20,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Sacramento,15,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Salinas,3,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,San Francisco,11,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,San Leandro,15,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,San Mateo,14,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Santa Cruz,14,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Santa Rosa,10,Layoff Permanent
+09/30/2016,12/02/2016,10/03/2016,Sutter VNA & Hospice,Yuba City,8,Layoff Permanent
+09/30/2016,12/03/2016,10/05/2016,NPL Construction Co.,Union City,106,Closure Permanent
+09/15/2016,09/30/2016,10/06/2016,"CareFusion Resources, LLC",San Diego,128,Layoff Permanent
+10/01/2016,11/30/2016,10/06/2016,First Transit,Anaheim,319,Closure Permanent
+10/07/2016,12/06/2016,10/07/2016,"Savant Systems, LLC",San Francisco,18,Closure Permanent
+09/30/2016,12/01/2016,10/10/2016,ITT Corporation,Valencia,2,Closure Permanent
+09/30/2016,12/02/2016,10/10/2016,Boeing Company,El Segundo,3,Layoff Temporary
+10/03/2016,03/31/2017,10/10/2016,"Benchmark Electronics, Inc.",Anaheim,89,Closure Permanent
+10/06/2016,12/05/2016,10/10/2016,"Theranos, Inc.",Newark,72,Layoff Permanent
+10/06/2016,12/05/2016,10/10/2016,"Theranos, Inc.",Palo Alto,62,Layoff Permanent
+10/10/2016,12/12/2016,10/10/2016,Red Lion Hotel Woodlake Center,Sacramento,120,Closure Permanent
+10/05/2016,12/05/2016,10/11/2016,"TreeHouse Private Brands, Inc.",Azusa,647,Closure Permanent
+10/10/2016,12/09/2016,10/11/2016,"Sierra Food Group, Inc.",Fresno,46,Layoff Permanent
+10/13/2016,12/12/2016,10/14/2016,Stone Brewing Co.,Escondido,51,Layoff Permanent
+10/14/2016,12/25/2016,10/14/2016,"Bert-Co Industries, Inc.",Ontario,106,Layoff Unknown at this time
+10/13/2016,12/30/2016,10/17/2016,Thermo Fisher Scientific,Hercules,2,Closure Permanent
+10/13/2016,03/31/2017,10/17/2016,Thermo Fisher Scientific,Santa Clara,38,Layoff Permanent
+10/13/2016,09/30/2017,10/17/2016,Thermo Fisher Scientific,San Diego,44,Closure Permanent
+10/13/2016,12/12/2016,10/18/2016,"GKN Aerospace Chem-tronics, Inc. DBA",Santa Ana,95,Layoff Permanent
+10/14/2016,12/13/2016,10/18/2016,Brake Parts Inc.,Chowchilla,1,Closure Permanent
+10/14/2016,12/16/2016,10/18/2016,Boeing Company,El Segundo,33,Layoff Unknown at this time
+10/14/2016,12/16/2016,10/18/2016,Boeing Company,Huntington Beach,13,Layoff Unknown at this time
+10/14/2016,01/03/2017,10/18/2016,Ralphs Grocery Company,Los Angeles,87,Closure Unknown at this time
+10/17/2016,12/20/2016,10/18/2016,Channel Technologies Group LLC,Santa Barbara,198,Closure Permanent
+10/18/2016,12/17/2016,10/18/2016,ngmoco LLC,San Francisco,93,Closure Permanent
+10/17/2016,01/13/2017,10/19/2016,Shire,Los Angeles,360,Layoff Permanent
+09/14/2016,11/15/2016,10/20/2016,Utilimap Corporation,San Ramon,5,Layoff Permanent
+10/18/2016,11/15/2016,10/20/2016,Associated Third Party Administrators,Concord,13,Closure Permanent
+10/18/2016,11/15/2016,10/20/2016,Associated Third Party Administrators,San Francisco,2,Closure Permanent
+10/18/2016,11/15/2016,10/20/2016,Associated Third Party Administrators,San Francisco,4,Closure Permanent
+10/18/2016,11/15/2016,10/21/2016,Associated Third Party Administrators,Alameda,192,Closure Permanent
+10/18/2016,11/15/2016,10/21/2016,Associated Third Party Administrators,San Diego,7,Closure Permanent
+10/24/2016,12/23/2016,10/24/2016,AVCORP Composite Fabrication,Gardena,61,Layoff Permanent
+10/24/2016,01/03/2017,10/24/2016,"Ricoh Electronics, Inc.",Tustin,147,Layoff Permanent
+10/20/2016,12/24/2016,10/25/2016,"Nestle USA, Inc.",Modesto,78,Layoff Temporary
+10/25/2016,12/30/2016,10/25/2016,"athenahealth, Inc.",San Francisco,103,Layoff Permanent
+10/18/2016,12/05/2016,10/26/2016,"Veolia ES Industrial Services, Inc.",Benicia,57,Closure Permanent
+10/26/2016,12/26/2016,10/26/2016,"Micrel, Inc.",San Jose,41,Layoff Permanent
+10/24/2016,12/26/2016,10/27/2016,"Norm's Restaurants, LLC",Los Angeles,73,Closure Permanent
+10/26/2016,10/27/2016,10/27/2016,"SunEdison, Inc.",Belmont,15,Layoff Permanent
+10/27/2016,12/27/2016,10/27/2016,"Twitter, Inc.",San Francisco,67,Layoff Permanent
+10/27/2016,01/16/2017,10/28/2016,CAM-BAS Inc.,San Jose,44,Closure Temporary
+10/27/2016,12/27/2016,10/31/2016,AT&T,San Ramon,102,Layoff Permanent
+10/28/2016,12/31/2016,10/31/2016,"Native Bouquet, LLC",Oceanside,97,Closure Permanent
+10/31/2016,12/31/2016,10/31/2016,"Aeroflex/Metelics, Inc.",Sunnyvale,97,Closure Permanent
+10/28/2016,01/02/2017,11/01/2016,Boeing Company,El Segundo,15,Layoff Unknown at this time
+10/28/2016,01/02/2017,11/01/2016,Boeing Company,Huntington Beach,9,Layoff Unknown at this time
+08/25/2016,10/28/2016,11/02/2016,Adient US LLC,Fremont,40,Closure Permanent
+10/31/2016,12/30/2016,11/02/2016,Brake Parts Inc.,Chowchilla,3,Closure Permanent
+11/02/2016,01/03/2017,11/02/2016,"Marvell Semiconductor, Inc.",Santa Clara,139,Layoff Permanent
+11/02/2016,01/06/2017,11/03/2016,"Teva Pharmaceuticals USA, Inc.",Corona,29,Layoff Permanent
+11/03/2016,01/06/2017,11/03/2016,"NetApp, Inc.",Sunnyvale,160,Layoff Permanent
+11/01/2016,11/02/2016,11/04/2016,"Cisco Systems, Inc.",San Jose,42,Layoff Permanent
+11/04/2016,01/06/2017,11/07/2016,Visa Inc.,Foster City,213,Layoff Permanent
+11/07/2016,01/06/2017,11/07/2016,"American Apparel, LLC",Garden Grove,332,Closure Permanent
+11/07/2016,01/06/2017,11/07/2016,"American Apparel, LLC",Los Angeles,2166,Closure Permanent
+11/07/2016,01/06/2017,11/07/2016,"American Apparel, LLC",South Gate,959,Closure Permanent
+05/02/2016,07/08/2016,11/08/2016,Ardea Biosciences,San Diego,193,Layoff Permanent
+07/28/2016,07/01/2016,11/08/2016,Hewlett Packard Enterprise,Citrus Heights,143,Layoff Permanent
+10/31/2016,12/31/2016,11/08/2016,First Transit,Bakersfield,91,Closure Permanent
+10/31/2016,12/31/2016,11/08/2016,"Harbor View Farms, LLC",Oxnard,97,Layoff Permanent
+11/03/2016,01/03/2017,11/08/2016,"Marvell Semiconductor, Inc.",Aliso Viejo,20,Layoff Permanent
+11/03/2016,01/03/2017,11/08/2016,"Marvell Semiconductor, Inc.",Folsom,12,Layoff Permanent
+11/04/2016,01/06/2017,11/08/2016,YMCA of Metropolitan Los Angeles,Los Angeles,3,Closure Permanent
+11/07/2016,01/07/2017,11/08/2016,Western Health Resources (Western,San Diego,120,Closure Permanent
+11/08/2016,01/09/2017,11/08/2016,"Meggitt (North Hollywood), Inc.",Corona,96,Closure Permanent
+11/04/2016,01/07/2016,11/10/2016,FoodsCo Store,Redwood City,69,Closure Unknown at this time
+11/09/2016,01/09/2017,11/10/2016,QuinStreet,Foster City,57,Layoff Permanent
+07/28/2016,07/01/2016,11/14/2016,Hewlett Packard Enterprise,Palo Alto,258,Layoff Permanent
+10/24/2016,12/23/2016,11/14/2016,Legacy Supply Chain Services,Fontana,220,Closure Permanent
+11/10/2016,12/31/2016,11/14/2016,"Bienvenidos Children Center, Inc.",Los Angeles,13,Layoff Unknown at this time
+01/29/2016,03/31/2016,11/15/2016,Broadcom and Avago,Irvine,771,Layoff Permanent
+01/29/2016,03/31/2016,11/15/2016,Broadcom and Avago,San Jose,48,Layoff Permanent
+01/29/2016,03/31/2016,11/15/2016,Broadcom and Avago,Santa Clara,435,Layoff Permanent
+07/13/2016,09/13/2016,11/15/2016,Broadcom,San Diego,64,Layoff Permanent
+11/15/2016,12/31/2016,11/15/2016,Intel Corporation,Santa Clara,84,Layoff Permanent
+11/15/2016,01/15/2017,11/15/2016,"KPS Global, LLC",Chino,78,Closure Permanent
+11/15/2016,01/15/2017,11/15/2016,"Violin Memory, Inc.",Santa Clara,106,Layoff Permanent
+11/15/2016,01/31/2017,11/15/2016,GENCO,Redlands,26,Closure Permanent
+11/11/2016,01/14/2017,11/16/2016,UPS,Oakland,470,Closure Temporary
+11/16/2016,01/16/2017,11/16/2016,Competitive Edge Research &,San Diego,85,Closure Unknown at this time
+11/16/2016,12/31/2016,11/17/2016,Schawk/SGK,Cupertino,85,Layoff Permanent
+09/15/2016,08/26/2016,11/18/2016,Hewlett Packard Enterprise,Sunnyvale,208,Layoff Permanent
+11/18/2016,01/20/2017,11/18/2016,DreamWorks Animation and,Glendale,170,Layoff Permanent
+11/21/2016,01/29/2017,11/21/2016,Kett Engineering Corporation,California City,62,Layoff Permanent
+06/17/2016,08/16/2016,11/23/2016,JBS USA Food Company,Santa Fe Springs,647,Closure Unknown at this time
+11/15/2016,01/27/2017,11/23/2016,"Hino Motors Manufacturing U.S.A., Inc.",Ontario,135,Closure Permanent
+11/18/2016,01/20/2017,11/28/2016,Boeing Company,El Segundo,45,Layoff Unknown at this time
+11/18/2016,01/20/2017,11/28/2016,Boeing Company,Huntington Beach,13,Layoff Unknown at this time
+11/20/2016,01/23/2017,11/28/2016,Chili's Restaurant,Huntington Beach,46,Closure Permanent
+11/18/2016,12/09/2016,11/29/2016,Pebble Technology Corporation,Redwood City,82,Closure Permanent
+11/29/2016,11/30/2016,11/30/2016,"SunEdison, Inc.",Belmont,10,Layoff Permanent
+11/29/2016,01/31/2017,11/30/2016,"Anthony's Fish Grotto of La Mesa, Inc.",San Diego,136,Closure Permanent
+11/29/2016,03/03/2017,11/30/2016,"BlueScope Buildings North America, Inc.",Turlock,51,Closure Permanent
+11/30/2016,11/30/2016,11/30/2016,"GoPro, Inc.",San Mateo,138,Layoff Permanent
+11/30/2016,01/31/2017,11/30/2016,"Dole Packaged Foods, LLC",Stockton,30,Closure Permanent
+11/30/2016,02/03/2017,11/30/2016,"Teva Pharmaceuticals USA, Inc.",Corona,19,Layoff Permanent
+11/07/2016,01/28/2017,12/01/2016,Target,Cupertino,208,Closure Permanent
+11/30/2016,02/17/2017,12/01/2016,"Encore Repair Services, LLC",Simi Valley,116,Closure Permanent
+11/29/2016,01/03/2017,12/05/2016,Kuleto's,San Francisco,102,Closure Permanent
+12/02/2016,01/31/2017,12/05/2016,"Prospect Mortgage, LLC",Sherman Oaks,94,Layoff Permanent
+12/02/2016,02/03/2017,12/05/2016,Transamerica Life Insurance Company,Los Angeles,320,Closure Permanent
+12/05/2016,02/04/2017,12/06/2016,"Princess Cruise Lines, Ltd.",Santa Clarita,61,Layoff Permanent
+12/06/2016,02/03/2017,12/06/2016,SunPower Corporation,Richmond,59,Layoff Permanent
+12/06/2016,02/03/2017,12/06/2016,SunPower Corporation,San Jose,57,Layoff Permanent
+12/06/2016,02/04/2017,12/06/2016,Sea World LLC,San Diego,60,Layoff Permanent
+12/07/2016,02/07/2016,12/07/2016,"Slater's 50/50, Inc.",Anaheim,88,Closure Permanent
+12/07/2016,02/07/2016,12/07/2016,"Slater’s 50/50, Inc.",Huntington Beach,101,Closure Permanent
+12/07/2016,02/07/2016,12/07/2016,"Slater’s 50/50, Inc.",San Diego,145,Closure Permanent
+12/07/2016,02/01/2017,12/07/2016,"Blue Coat Systems, Inc.",Mountain View,27,Layoff Permanent
+12/07/2016,02/01/2017,12/07/2016,Symantec Corporation,Mountain View,84,Layoff Permanent
+12/07/2016,12/07/2016,12/08/2016,"Beepi, Inc.",Mountain View,102,Closure Permanent
+12/05/2016,02/03/2017,12/12/2016,Atmel Corporation,San Jose,45,Layoff Permanent
+12/07/2016,02/07/2016,12/12/2016,"24356 Swartz Burgers, Inc.",San Marcos,105,Closure Permanent
+12/07/2016,02/07/2016,12/12/2016,"61 N Raymond, Inc.",Pasadena,154,Closure Permanent
+12/07/2016,02/07/2016,12/12/2016,"8009 Day Burgers, Inc.",Rancho,136,Closure Permanent
+11/19/2016,11/19/2016,12/14/2016,Ozumo Oakland LLC,Oakland,45,Closure Permanent
+12/15/2016,02/28/2017,12/15/2016,Global Paratransit Inc.,Gardena,105,Layoff Permanent
+12/07/2016,02/15/2017,12/16/2016,Pfizer Inc,San Francisco,200,Layoff Unknown at this time
+12/14/2016,12/15/2016,12/16/2016,"SunEdison, Inc.",Belmont,16,Layoff Permanent
+12/19/2016,02/25/2017,12/19/2016,"GBW Railcar Services, LLC",Mira Loma,142,Closure Permanent
+10/19/2016,01/13/2017,12/20/2016,Ryder,Rialto,28,Layoff Permanent
+12/16/2016,02/17/2017,12/21/2016,Boeing Company,El Segundo,9,Layoff Unknown at this time
+12/16/2016,02/17/2017,12/21/2016,Boeing Company,Huntington Beach,13,Layoff Unknown at this time
+12/20/2016,02/18/2017,12/22/2016,"OneRoof Energy, Inc.",San Diego,63,Layoff Permanent
+12/21/2016,03/03/2017,12/22/2016,"Teva Pharmaceuticals USA, Inc.",Corona,49,Layoff Permanent
+12/20/2016,02/21/2017,12/29/2016,XOMA Corporation,Berkeley,57,Layoff Permanent
+12/29/2016,01/28/2017,12/29/2016,Bristol Farms,San Francisco,82,Closure Permanent
+12/29/2016,03/04/2017,12/29/2016,Louis Vuitton USA Inc.,San Francisco,37,Closure Permanent
+12/30/2016,02/28/2017,12/30/2016,Freeport-McMoRan Oil & Gas LLC,Bakersfield,31,Layoff Permanent
+12/30/2016,02/28/2017,12/30/2016,Freeport-McMoRan Oil & Gas LLC,Goleta,4,Layoff Permanent
+12/30/2016,02/28/2017,12/30/2016,Freeport-McMoRan Oil & Gas LLC,Los Angeles,13,Layoff Permanent
+12/30/2016,02/28/2017,12/30/2016,Freeport-McMoRan Oil & Gas LLC,Newport Beach,2,Layoff Permanent
+12/30/2016,02/28/2017,12/30/2016,Freeport-McMoRan Oil & Gas LLC,Oxnard,1,Layoff Permanent
+01/02/2017,03/06/2017,01/03/2017,TGI Friday's,Yorba Linda,42,Closure Permanent
+01/03/2017,03/06/2017,01/04/2017,"CKE Restaurants Holdings, Inc.",Carpinteria,25,Closure Permanent
+01/04/2017,03/06/2017,01/06/2017,Macy's,Santa Barbara,96,Closure Permanent
+01/04/2017,03/06/2017,01/09/2017,Macy's,San Diego,193,Closure Permanent
+01/04/2017,03/06/2017,01/09/2017,Macy's,San Francisco,16,Closure Permanent
+01/06/2017,01/28/2017,01/09/2017,Verizon Wireless,Rancho Cordova,1070,Layoff Permanent
+08/10/2016,10/11/2016,01/10/2017,"Alaska Air Group, Inc.",Burlingame,275,Layoff Permanent
+10/21/2016,01/09/2017,01/10/2017,National Steel and Shipbuilding,San Diego,844,Layoff Permanent
+01/06/2017,02/22/2017,01/10/2017,"GKN Aerospace Chem-tronics, Inc. DBA",Santa Ana,15,Layoff Permanent
+01/10/2017,03/11/2017,01/11/2017,Glu Mobile Inc.,Long Beach,70,Layoff Permanent
+01/10/2017,03/31/2017,01/11/2017,"Rakuten Commerce LLC, dba",Aliso Viejo,73,Closure Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Antioch,107,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Auburn,8,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Bakersfield,1,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Chico,4,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Clovis,6,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Fremont,2,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Hollister,1,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Merced,2,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Oakland,3,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Rancho Cordova,11,Layoff Permanent
+01/11/2017,03/18/2017,01/12/2017,Pacific Gas and Electric Company,Salinas,2,Layoff Permanent
+01/04/2017,03/04/2017,01/13/2017,Atmel Corporation,San Jose,9,Layoff Permanent
+01/06/2017,03/08/2017,01/13/2017,"Theranos, Inc.",Newark,53,Layoff Permanent
+01/06/2017,03/08/2017,01/13/2017,"Theranos, Inc.",Palo Alto,97,Layoff Permanent
+01/09/2017,04/03/2017,01/13/2017,"Morton Salt, Inc.",Newark,70,Closure Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,Davis,9,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,Fairfield,9,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,Lodi,4,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,Marysville,1,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,Modesto,1,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,Pismo Beach,3,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,San Carlos,1,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,San Francisco,132,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,San Jose,4,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,Santa Rosa,6,Layoff Permanent
+01/11/2017,03/18/2017,01/13/2017,Pacific Gas and Electric Company,Ukiah,1,Layoff Permanent
+01/12/2017,01/13/2017,01/13/2017,"Pandora Media, Inc.",Oakland,91,Layoff Permanent
+01/12/2017,03/13/2017,01/13/2017,Crownpeak Technology/TriNet PEO,Los Angeles,20,Closure Unknown at this time
+01/12/2017,03/13/2017,01/13/2017,Google Inc.,Mountain View,94,Layoff Permanent
+01/12/2017,03/14/2017,01/13/2017,Sungevity,Oakland,66,Layoff Permanent
+01/12/2017,03/20/2017,01/13/2017,Visa Inc.,Foster City,58,Layoff Permanent
+01/13/2017,02/24/2017,01/13/2017,Intel Corporation,Santa Clara,54,Layoff Permanent
+01/11/2017,01/12/2017,01/17/2017,"SunEdison, Inc.",Belmont,2,Layoff Permanent
+01/12/2017,03/17/2017,01/17/2017,Nordstrom Main Place Store,Santa Ana,195,Closure Permanent
+01/13/2017,01/17/2017,01/17/2017,"Cisco Systems, Inc.",San Jose,25,Layoff Permanent
+01/09/2017,12/31/2016,01/18/2017,Sears Hometown and Outlet,San Leandro,1,Closure Permanent
+01/09/2017,04/09/2017,01/19/2017,Sears Holdings Corporation,Santa Monica,80,Closure Permanent
+01/18/2017,03/20/2017,01/19/2017,"Oracle America, Inc.",Santa Clara,441,Layoff Permanent
+01/19/2017,02/09/2017,01/19/2017,"Moran Foods, LLC d/b/a Save-A-Lot, Ltd.",Los Angeles,35,Closure Permanent
+01/19/2017,03/20/2017,01/19/2017,Pacific Life Insurance Company,Newport Beach,95,Layoff Permanent
+01/20/2017,03/21/2017,01/23/2017,"The Wet Seal, LLC",Irvine,148,Closure Permanent
+01/20/2017,03/24/2017,01/23/2017,Boeing Company,El Segundo,6,Layoff Unknown at this time
+01/20/2017,03/24/2017,01/23/2017,Boeing Company,Huntington Beach,5,Layoff Unknown at this time
+01/20/2017,03/24/2017,01/23/2017,Boeing Company,Long Beach,3,Layoff Unknown at this time
+01/23/2017,03/28/2017,01/24/2017,AOL Inc.,San Jose,80,Layoff Permanent
+01/26/2017,04/04/2017,01/26/2017,"iHeartMedia, Inc.",Aliso Viejo,72,Closure Permanent
+01/24/2017,03/31/2017,01/27/2017,"San Diego Sportservice, Inc.",San Diego,1130,Closure Permanent
+01/24/2017,03/31/2017,01/27/2017,"Walmart Stores, Inc.",San Bruno,174,Layoff Permanent
+01/26/2017,01/09/2017,01/27/2017,"DoubleDutch, Inc.",San Francisco,57,Layoff Permanent
+01/26/2017,03/27/2017,01/27/2017,Verizon,San Jose,60,Layoff Permanent
+01/26/2017,03/28/2017,01/27/2017,Memorial Health Services,Long Beach,422,Layoff Permanent
+01/27/2017,03/31/2017,01/30/2017,The Armor All/STP Products Company,Pleasanton,4,Closure Permanent
+01/30/2017,02/28/2017,01/30/2017,"National Distribution Centers, LLC",Chino,102,Closure Permanent
+01/30/2017,03/31/2017,01/30/2017,"Enphase Energy, Inc.",Petaluma,60,Layoff Permanent
+01/30/2017,04/01/2017,01/31/2017,"Penske Vehicle Services, Inc.",Westlake Village,5,Closure Permanent
+01/23/2017,01/24/2017,02/01/2017,Stanford Health Care,Atherton,129,Layoff Permanent
+01/23/2017,01/24/2017,02/01/2017,Stanford Health Care,Newark,12,Layoff Permanent
+01/23/2017,01/24/2017,02/01/2017,Stanford Health Care,Oakland,1,Layoff Permanent
+01/23/2017,03/31/2017,02/01/2017,Gap Inc.,San Francisco,216,Layoff Permanent
+01/31/2017,03/31/2017,02/01/2017,Freeport-McMoRan Oil & Gas LLC,Bakersfield,2,Layoff Permanent
+01/31/2017,03/31/2017,02/01/2017,Freeport-McMoRan Oil & Gas LLC,Los Angeles,3,Layoff Permanent
+01/31/2017,04/03/2017,02/01/2017,Google,Mountain View,104,Layoff Permanent
+01/30/2017,03/31/2017,02/02/2017,"Bay City Television, Inc.",San Diego,127,Layoff Permanent
+01/30/2017,04/30/2017,02/02/2017,"Live Nation Worldwide, Inc.",Irvine,905,Closure Permanent
+02/01/2017,04/03/2017,02/02/2017,Western Health Resources,San Diego,52,Closure Unknown at this time
+01/30/2017,03/31/2017,02/03/2017,Atmel Corporation,San Jose,14,Layoff Permanent
+02/01/2017,11/15/2016,02/03/2017,"Veritas Technologies, LLC",Mountain View,64,Layoff Permanent
+02/03/2017,04/03/2017,02/03/2017,"Shutterfly, Inc.",Santa Clara,87,Closure Permanent
+01/30/2017,04/03/2017,02/07/2017,"Fitbit, Inc.",San Francisco,90,Layoff Permanent
+01/30/2017,04/03/2017,02/07/2017,"Fitbit, Inc.",South San,2,Layoff Permanent
+02/03/2017,04/07/2017,02/07/2017,Boeing Company,El Segundo,16,Layoff Unknown at this time
+02/03/2017,04/07/2017,02/07/2017,Boeing Company,Huntington Beach,9,Layoff Unknown at this time
+02/06/2017,04/03/2017,02/07/2017,Bank of the West,San Ramon,47,Layoff Permanent
+02/09/2017,02/09/2017,02/09/2017,"YourPeople, Inc. d/b/a Zenefits FTW",San Francisco,254,Layoff Permanent
+02/08/2017,02/09/2017,02/10/2017,"SunEdison, Inc.",Redwood City,3,Layoff Permanent
+02/09/2017,06/30/2017,02/10/2017,Dignity Health,Monterey Park,290,Closure Permanent
+02/10/2017,04/17/2017,02/10/2017,"The Ritz-Carlton, Lake Tahoe",Truckee,225,Closure Temporary
+02/10/2017,07/31/2017,02/10/2017,"Oakley, Inc.",Ontario,78,Closure Unknown at this time
+02/07/2017,04/10/2017,02/13/2017,"VF Contemporary Brands, Inc.",Los Angeles,22,Layoff Permanent
+02/07/2017,04/10/2017,02/13/2017,"VF Contemporary Brands, Inc.",Vernon,66,Layoff Permanent
+02/10/2017,02/10/2017,02/13/2017,Nasty Gal Inc.,Los Angeles,75,Closure Unknown at this time
+02/10/2017,02/20/2017,02/13/2017,Nasty Gal Inc.,Santa Monica,23,Closure Unknown at this time
+02/15/2017,04/17/2017,02/15/2017,Wing Inflatables,Arcata,100,Layoff Temporary
+02/15/2017,04/30/2017,02/15/2017,"Elite Line Services, Inc.",Los Angeles,65,Closure Permanent
+02/15/2017,04/17/2017,02/16/2017,"Storm8, Inc.",Redwood City,131,Layoff Permanent
+02/10/2017,02/28/2017,02/17/2017,SP Plus Corporation,Glendale,84,Closure Unknown at this time
+02/13/2017,04/14/2017,02/17/2017,Valley CAPS,Stockton,32,Closure Permanent
+02/16/2017,02/26/2017,02/17/2017,"Puglia Engineering, Inc.",San Francisco,184,Closure Unknown at this time
+02/10/2017,02/28/2017,02/21/2017,SP Plus Corporation,Los Angeles,101,Closure Unknown at this time
+02/16/2017,04/21/2017,02/21/2017,LPL Financial LLC,San Diego,133,Layoff Permanent
+02/09/2017,02/09/2017,02/22/2017,"Space Systems/Loral, LLC",Palo Alto,161,Layoff Permanent
+02/16/2017,04/21/2017,02/22/2017,"VF Outdoor, LLC",Alameda,52,Closure Permanent
+02/17/2017,04/21/2017,02/23/2017,Boeing Company,El Segundo,78,Layoff Unknown at this time
+02/17/2017,04/21/2017,02/23/2017,Boeing Company,Huntington Beach,16,Layoff Unknown at this time
+02/21/2017,04/28/2017,02/23/2017,"Rockwell Collins, Inc.",Irvine,44,Layoff Permanent
+02/22/2017,05/01/2017,02/23/2017,"Teva Pharmaceuticals USA, Inc.",Corona,1,Layoff Permanent
+02/23/2017,02/01/2017,02/23/2017,Symantec Corporation,Mountain View,3,Layoff Permanent
+02/22/2017,02/22/2017,02/27/2017,"Quixey, Inc.",Mountain View,48,Closure Permanent
+02/23/2017,02/23/2017,02/27/2017,"Maker Studios, Inc.",Culver City,75,Layoff Unknown at this time
+03/01/2017,04/30/2017,03/01/2017,"Quantum Health, Inc. d/b/a Promise",San Diego,257,Closure Permanent
+03/01/2017,05/01/2017,03/01/2017,"Marvell Semiconductor, Inc.",Aliso Viejo,1,Layoff Permanent
+03/01/2017,05/01/2017,03/01/2017,"Marvell Semiconductor, Inc.",Santa Clara,29,Layoff Permanent
+03/01/2017,05/01/2017,03/02/2017,"Juniper Networks, Inc.",Sunnyvale,99,Layoff Permanent
+03/01/2017,05/02/2017,03/02/2017,"Mastec North America, Inc.",Anaheim,61,Layoff Permanent
+03/01/2017,05/02/2017,03/02/2017,"Mastec North America, Inc.",Santa Clarita,13,Layoff Permanent
+03/02/2017,04/30/2017,03/02/2017,"Global Sulfur Systems, Inc.",Cerritos,15,Closure Permanent
+03/02/2017,05/01/2017,03/02/2017,"Banc of California, N.A.",Irvine,45,Layoff Permanent
+03/02/2017,05/01/2017,03/02/2017,"Banc of California, N.A.",Santa Ana,94,Layoff Permanent
+03/02/2017,05/01/2017,03/02/2017,"The Nature's Bounty Co., Inc.",Garden Grove,213,Closure Permanent
+03/02/2017,05/01/2017,03/02/2017,"The Nature's Bounty Co., Inc.",Santa Fe Springs,10,Closure Permanent
+02/14/2017,04/28/2017,03/03/2017,Pfizer,Palo Alto,38,Closure Unknown at this time
+02/27/2017,04/28/2017,03/03/2017,Hitachi Data Systems,Santa Clara,118,Layoff Permanent
+02/28/2017,04/30/2017,03/03/2017,"Paramedics Plus, LLC",San Leandro,465,Closure Permanent
+02/22/2017,04/23/2017,03/06/2017,"Beachbody, LLC",El Segundo,55,Layoff Permanent
+02/22/2017,04/23/2017,03/06/2017,"Beachbody, LLC",Santa Monica,142,Layoff Permanent
+03/02/2017,05/05/2017,03/06/2017,PL Developments,Lynwood,53,Closure Permanent
+03/06/2017,04/01/2017,03/06/2017,"SiftMill, Inc.",Riverside,3,Closure Permanent
+03/06/2017,05/08/2017,03/06/2017,Byer California,San Francisco,99,Layoff Permanent
+02/24/2017,05/01/2017,03/07/2017,Chemring Energetic Devices,Torrance,93,Closure Permanent
+03/01/2017,02/24/2017,03/07/2017,City National Bank,San Diego,4,Closure Permanent
+03/02/2017,05/01/2017,03/07/2017,DSSD,Menlo Park,68,Layoff Permanent
+03/06/2017,06/30/2017,03/07/2017,Medtronic,Sunnyvale,17,Closure Permanent
+03/07/2017,03/09/2017,03/08/2017,"Cisco Systems, Inc.",San Jose,115,Layoff Permanent
+03/08/2017,03/09/2017,03/10/2017,"SunEdison, Inc.",Redwood City,3,Layoff Permanent
+03/09/2017,12/16/2016,03/10/2017,"PayPal, Inc.",San Jose,5,Layoff Permanent
+03/13/2017,05/11/2017,03/13/2017,"BCBG Max Azria Group, LLC",Vernon,116,Layoff Permanent
+03/14/2017,03/14/2017,03/14/2017,"GoPro, Inc.",San Mateo,94,Layoff Permanent
+03/10/2017,05/12/2017,03/15/2017,"McLane/Suneast, Inc. d/b/a McLane",San Bernardino,86,Layoff Permanent
+03/14/2017,05/31/2017,03/15/2017,"North Coast Rehab, Inc.",Fountain Valley,465,Closure Permanent
+03/07/2017,04/14/2017,03/16/2017,"Diamond Foods, LLC",Stockton,240,Layoff Permanent
+03/15/2017,05/17/2017,03/16/2017,Northrop Grumman Technology,Fort Irwin,462,Layoff Permanent
+03/15/2017,03/08/2017,03/17/2017,"GREE International Entertainment, Inc.",San Francisco,85,Layoff Unknown at this time
+03/16/2017,05/19/2017,03/17/2017,"Conagra Brands, Inc.",Fresno,73,Closure Permanent
+03/16/2017,05/19/2017,03/17/2017,"Meadowbrook Meat Company, Inc.",Ontario,171,Closure Permanent
+03/17/2017,05/17/2017,03/17/2017,Coca-Cola Refreshments,San Diego,102,Layoff Permanent
+03/17/2017,05/31/2017,03/20/2017,Nasco Education LLC,Modesto,46,Layoff Permanent
+03/20/2017,05/19/2017,03/20/2017,"Technicolor, Inc.",Ontario,71,Closure Permanent
+03/15/2017,05/15/2017,03/21/2017,Gateway One Lending & Finance,Anaheim,54,Layoff Permanent
+03/15/2017,05/15/2017,03/21/2017,Gateway One Lending & Finance,Rocklin,4,Layoff Permanent
+03/17/2017,06/01/2017,03/22/2017,"Mi Pueblo, LLC",San Jose,39,Layoff Permanent
+03/23/2017,05/22/2017,03/24/2017,Stagecoach Vineyards,Napa,100,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Brea,10,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Brisbane,136,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Cabazon,13,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Camarillo,14,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",El Segundo,12,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Folsom,10,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Los Angeles,160,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",San Diego,14,Closure Permanent
+03/24/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Torrance,10,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Arcadia,10,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Canoga Park,11,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Concord,11,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Livermore,12,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Modesto,10,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Pleasanton,10,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Rancho,13,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",San Diego,7,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",San Diego,10,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Santa Clara,15,Closure Permanent
+03/25/2017,05/27/2017,03/27/2017,"bebe stores, Inc.",Sherman Oaks,15,Closure Permanent
+03/24/2017,05/27/2017,03/29/2017,"bebe stores, Inc",Los Angeles,18,Closure Permanent
+03/24/2017,05/27/2017,03/29/2017,"bebe stores, Inc.",Emeryville,8,Closure Permanent
+03/24/2017,05/27/2017,03/29/2017,"bebe stores, Inc.",Fresno,11,Closure Permanent
+03/24/2017,05/27/2017,03/29/2017,"bebe stores, Inc.",Glendale,15,Closure Permanent
+03/24/2017,05/27/2017,03/29/2017,"bebe stores, Inc.",Irvine,8,Closure Permanent
+03/24/2017,05/27/2017,03/29/2017,"bebe stores, Inc.",Sacramento,18,Closure Permanent
+03/22/2017,06/01/2017,03/30/2017,"ProPortion Foods, LLC",Los Angeles,70,Closure Permanent
+03/25/2017,05/27/2017,03/30/2017,"bebe stores, Inc.",San Ysidro,27,Closure Permanent
+03/23/2017,07/31/2017,04/02/2017,"Meadowbrook Meat Company, Inc.,",Pleasanton,92,Closure Permanent
+03/29/2017,06/01/2017,04/02/2017,"United Launch Alliance, LLC",Vandenberg AFB,48,Layoff Permanent
+03/29/2017,06/02/2017,04/02/2017,"Western Digital Technology, Inc.",San Jose,131,Layoff Permanent
+03/24/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",Cerritos,10,Closure Permanent
+03/24/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",San Mateo,8,Closure Permanent
+03/25/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",Chula Vista,10,Closure Permanent
+03/25/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",Mission Viejo,7,Closure Permanent
+03/25/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",Newport Beach,14,Closure Permanent
+03/25/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",Ontario,20,Closure Permanent
+03/25/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",Roseville,12,Closure Permanent
+03/25/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",San Francisco,8,Closure Permanent
+03/25/2017,05/27/2017,04/03/2017,"bebe stores, Inc.",Santa Ana,9,Closure Permanent
+03/29/2017,06/02/2017,04/04/2017,"Western Digital Technology, Inc.",Irvine,51,Layoff Permanent
+03/17/2017,05/19/2017,04/05/2017,Boeing Company,El Segundo,27,Layoff Unknown at this time
+03/17/2017,05/19/2017,04/05/2017,Boeing Company,Huntington Beach,47,Layoff Unknown at this time
+03/17/2017,06/01/2017,04/05/2017,"Vose Technical Systems, Inc.",Fort Irwin,60,Layoff Permanent
+03/28/2017,03/28/2017,04/05/2017,"Vanguard Space Technologies, Inc.",San Diego,53,Closure Permanent
+03/29/2017,12/29/2016,04/05/2017,"PayPal, Inc.",San Francisco,4,Layoff Permanent
+03/29/2017,12/29/2016,04/05/2017,"PayPal, Inc.",San Jose,32,Layoff Permanent
+03/22/2017,05/22/2017,04/06/2017,Western Tube and Conduit,Carson,236,Closure Temporary
+03/27/2017,06/08/2017,04/06/2017,Roman Catholic Welfare Corporation,Union City,22,Closure Permanent
+03/27/2017,06/15/2017,04/06/2017,Roman Catholic Welfare Corporation,El Cerrito,15,Closure Permanent
+03/27/2017,06/15/2017,04/06/2017,Roman Catholic Welfare Corporation,Oakland,89,Closure Permanent
+03/29/2017,05/31/2017,04/06/2017,Nortek Distribution Services,Eastvale,49,Closure Permanent
+03/22/2017,05/15/2017,04/07/2017,Rideout Health Group,Marysville,17,Layoff Permanent
+03/22/2017,05/15/2017,04/07/2017,Rideout Health Group,Yuba City,54,Closure Permanent
+03/22/2017,06/30/2017,04/07/2017,Rideout Health Group,Grass Valley,18,Closure Permanent
+03/28/2017,05/26/2017,04/07/2017,JBS USA Food Company,Commerce,34,Closure Unknown at this time
+03/30/2017,03/31/2017,04/07/2017,"SunEdison, Inc. (""SunEdison"")",Redwood City,5,Layoff Permanent
+03/30/2017,05/30/2017,04/07/2017,"Advanced Call Center Technologies,",North Highlands,135,Layoff Permanent
+03/31/2017,05/31/2017,04/07/2017,"Long Beach Golden Sails, Inc. and",Long Beach,80,Closure Permanent
+03/31/2017,05/31/2017,04/07/2017,"Toshiba America, Inc. and Toshiba",Irvine,49,Layoff Permanent
+03/31/2017,06/02/2017,04/07/2017,Symantec Corporation,Mountain View,36,Layoff Permanent
+04/04/2017,06/09/2017,04/07/2017,"Marvell Semicondutor, Inc.",Santa Clara,12,Layoff Permanent
+04/05/2017,06/05/2017,04/07/2017,"Mastec North America, Inc.",Hayward,109,Closure Permanent
+03/28/2017,06/01/2017,04/10/2017,"HL Weilding, Inc",National City,5,Layoff Permanent
+03/30/2017,06/30/2017,04/10/2017,Dollar Express,Farmersville,8,Closure Permanent
+03/30/2017,06/30/2017,04/10/2017,Dollar Express,Fresno,11,Closure Permanent
+03/30/2017,06/30/2017,04/10/2017,Dollar Express,Inglewood,16,Closure Permanent
+03/30/2017,06/30/2017,04/10/2017,Dollar Express,Lemoore,13,Closure Permanent
+03/30/2017,06/30/2017,04/10/2017,Dollar Express,San Bernardino,14,Closure Permanent
+04/07/2017,06/07/2017,04/10/2017,Zazzle Inc.,San Jose,117,Closure Permanent
+04/11/2017,04/18/2017,04/11/2017,Abbott Laboratories,Carlsbad,60,Closure Permanent
+11/17/2016,05/12/2017,04/12/2017,Lockheed Martin Corporation Rotary &,San Diego,117,Closure Permanent
+04/11/2017,06/16/2017,04/12/2017,Amgen,Thousand Oaks,494,Layoff Permanent
+04/11/2017,06/30/2017,04/12/2017,CEVA Logistics,Mira Loma,99,Layoff Unknown at this time
+04/06/2017,06/07/2017,04/13/2017,Randstad General Partner (US) LLC,San Jose,60,Closure Permanent
+04/13/2017,06/29/2017,04/13/2017,Vishay Siliconix,Santa Clara,71,Layoff Permanent
+03/24/2017,05/27/2017,04/14/2017,"bebe stores, Inc.",Milpitas,7,Closure Permanent
+04/14/2017,06/30/2017,04/14/2017,"Railex, LLC",Delano,79,Closure Unknown at this time
+04/12/2017,04/13/2017,04/17/2017,"SunEdison, Inc.",Redwood City,1,Layoff Permanent
+04/14/2017,07/05/2017,04/17/2017,"NDC Technologies, Inc.",Irwindale,42,Closure Permanent
+04/06/2017,07/02/2017,04/18/2017,"Sears, Roebuck and Co.",Carson,105,Closure Permanent
+04/17/2017,10/01/2017,04/18/2017,"Meadowbrook Meat Company, Inc.",Tracy,55,Closure Permanent
+04/13/2017,06/15/2017,04/19/2017,"United Launch Alliance, LLC",Vandenberg AFB,7,Layoff Permanent
+04/10/2017,06/30/2017,04/20/2017,First Transit,Oceanside,538,Closure Permanent
+04/10/2017,06/30/2017,04/20/2017,First Transit,Pomona,372,Closure Permanent
+04/14/2017,06/15/2017,04/20/2017,"MUFG Union Bank, N.A.",Monterey Park,61,Layoff Unknown at this time
+04/17/2017,06/19/2017,04/20/2017,"Marvell Semiconductor, Inc.",Santa Clara,1,Layoff Permanent
+04/18/2017,07/31/2017,04/20/2017,"Dr. Fresh, LLC",Buena Park,15,Layoff Permanent
+04/19/2017,06/23/2017,04/20/2017,"Rockwell Collins, Inc.",Irvine,1,Layoff Permanent
+04/10/2017,09/01/2017,04/21/2017,Arcturus Manufacturing,Oxnard,32,Closure Permanent
+04/19/2017,06/19/2017,04/21/2017,DaVita Rx,Corona,5,Layoff Permanent
+04/19/2017,06/19/2017,04/21/2017,DaVita Rx,Mission Viejo,5,Layoff Permanent
+04/19/2017,06/19/2017,04/21/2017,DaVita Rx,San Bruno,5,Layoff Permanent
+04/19/2017,06/20/2017,04/21/2017,Texas Instruments Incorporated,Santa Clara,78,Layoff Permanent
+04/20/2017,06/22/2017,04/21/2017,"An Beverly Hills, LLC",Beverly Hills,64,Closure Temporary
+04/24/2017,04/25/2017,04/24/2017,"OncoMed Pharmaceuticals, Inc.",Redwood City,62,Layoff Permanent
+04/24/2017,06/30/2017,04/24/2017,"Transdev Services, Inc.",Modesto,138,Closure Unknown at this time
+04/24/2017,07/13/2017,04/24/2017,"United Launch Alliance, LLC",Vandenberg AFB,16,Layoff Permanent
+04/21/2017,02/02/2018,04/25/2017,"Burleigh Point, Ltd. dba Billabong",Irvine,60,Closure Permanent
+04/24/2017,06/23/2017,04/26/2017,"Nelco Products, Inc.",Fullerton,62,Layoff Permanent
+04/21/2017,06/23/2017,04/27/2017,Boeing Company,El Segundo,43,Layoff Unknown at this time
+04/21/2017,06/23/2017,04/27/2017,Boeing Company,Huntington Beach,21,Layoff Unknown at this time
+04/20/2017,06/24/2017,04/28/2017,Raley's,Vallejo,65,Closure Permanent
+04/28/2017,06/30/2017,04/28/2017,"Sodexo, Inc.",Davis,136,Closure Permanent
+04/21/2017,06/23/2017,05/01/2017,Boeing Company,Long Beach,2,Layoff Unknown at this time
+04/28/2017,04/28/2017,05/01/2017,Branan Medical Corporation,Irvine,63,Closure Permanent
+04/24/2017,06/23/2017,05/02/2017,New-Indy TriPAQ LLC,Cerritos,12,Layoff Unknown at this time
+04/24/2017,06/23/2017,05/02/2017,New-Indy TriPAQ LLC,Santa Ana,56,Closure Permanent
+04/27/2017,06/30/2017,05/02/2017,NCR Corporation,Westlake Village,76,Layoff Permanent
+04/30/2017,06/30/2017,05/02/2017,Marine Harvest USA LLC,Los Angeles,2,Closure Permanent
+05/01/2017,06/30/2017,05/02/2017,"3D Instruments, LP",Anaheim,59,Closure Permanent
+04/24/2017,06/23/2017,05/03/2017,Galleher-HWP,La Mirada,32,Closure Permanent
+04/24/2017,07/31/2017,05/03/2017,Arundel Cuisine Inc.,Anaheim,62,Layoff Permanent
+04/24/2017,07/31/2017,05/03/2017,FJS Inc.,Anaheim,121,Layoff Permanent
+04/27/2017,06/26/2017,05/04/2017,"St. John Knits, Inc.",Irvine,130,Layoff Permanent
+04/28/2017,06/28/2017,05/04/2017,Brake Parts Inc.,Chowchilla,1,Closure Permanent
+05/03/2017,07/02/2017,05/04/2017,"Apple Mirage, Inc.",Rancho Mirage,45,Closure Permanent
+04/28/2017,02/01/2017,05/05/2017,"Nimble Storage, Inc.",San Jose,67,Layoff Permanent
+05/03/2017,07/10/2017,05/05/2017,Gannett Publishing Services/Ventura,Camarillo,38,Closure Unknown at this time
+05/04/2017,07/03/2017,05/05/2017,"Keurig Green Mountain, Inc.",Castroville,183,Closure Permanent
+05/02/2017,07/01/2017,05/09/2017,"Banc of California, N.A.",Irvine,4,Layoff Permanent
+05/02/2017,07/01/2017,05/09/2017,"Banc of California, N.A.",Santa Ana,36,Layoff Permanent
+05/04/2017,07/07/2017,05/09/2017,"NRJ TV LA OPCO, LLC dba KSCI-TV",Los Angeles,58,Layoff Permanent
+11/28/2016,01/31/2017,05/11/2017,Novartis Pharmaceuticals Corporation,San Carlos,7,Layoff Permanent
+05/11/2017,06/30/2017,05/11/2017,Ambry Genetics Corporation,Aliso Viejo,99,Layoff Permanent
+05/11/2017,07/14/2017,05/11/2017,Biosense Webster,Irwindale,49,Layoff Permanent
+05/20/2016,08/01/2016,05/12/2017,"Benz Sanitation Inc,Benz Propane Co.",Tehachapi,101,Layoff Permanent
+05/09/2017,07/10/2017,05/12/2017,USS-POSCO Industries,Pittsburg,635,Layoff Temporary
+05/10/2017,07/10/2017,05/12/2017,"Marvell Semiconductor, Inc.",Aliso Viejo,1,Layoff Permanent
+05/10/2017,07/10/2017,05/12/2017,"Marvell Semiconductor, Inc.",Santa Clara,8,Layoff Permanent
+05/12/2017,07/07/2017,05/15/2017,"Braden Partners L.P., dba Pacific",Bakersfield,170,Layoff Permanent
+05/15/2017,06/28/2017,05/15/2017,Symantec Corporation,Mountain View,24,Layoff Permanent
+05/12/2017,10/01/2017,05/16/2017,"Hines Growers, Inc.",San Juan,115,Closure Permanent
+05/04/2017,07/04/2017,05/17/2017,Esalen Institute,Big Sur,45,Layoff Unknown at this time
+05/16/2017,07/17/2017,05/17/2017,Kondaur Capital Corporation,Orange,55,Layoff Permanent
+05/17/2017,07/18/2017,05/17/2017,"Lumina Media, LLC",Irvine,58,Closure Permanent
+05/10/2017,07/09/2017,05/18/2017,"Angelica Textile Services, Inc.",Gilroy,160,Closure Permanent
+05/15/2017,07/14/2017,05/18/2017,Hitachi Data Systems,Santa Clara,48,Layoff Permanent
+05/17/2017,05/22/2017,05/18/2017,"Riverbed Technology, Inc.",San Francisco,39,Layoff Permanent
+05/17/2017,05/22/2017,05/18/2017,"Riverbed Technology, Inc.",Sunnyvale,22,Layoff Permanent
+05/19/2017,08/31/2017,05/19/2017,"Badger Meter, Inc. dba National Meter &",Santa Rosa,3,Closure Permanent
+05/17/2017,05/18/2017,05/22/2017,"Cisco Systems, Inc.",San Jose,250,Layoff Permanent
+05/18/2017,07/17/2017,05/22/2017,"Marvell Semiconductor, Inc.",Aliso Viejo,1,Layoff Permanent
+05/18/2017,07/17/2017,05/22/2017,"Marvell Semiconductor, Inc.",Santa Clara,2,Layoff Permanent
+05/18/2017,12/31/2018,05/23/2017,Ferro Corporation,Vista,58,Closure Permanent
+05/24/2017,07/29/2017,05/24/2017,Salvation Army,Los Angeles,45,Closure Permanent
+05/23/2017,07/28/2017,05/25/2017,Warner Music Inc.,Burbank,19,Layoff Permanent
+05/24/2017,07/31/2017,05/25/2017,"J.C. Penney Corporation, Inc.",Richmond,108,Closure Permanent
+05/25/2017,07/23/2017,05/25/2017,"Le Technology, Inc. d.b.a Le Eco",San Diego,95,Closure Permanent
+05/25/2017,07/23/2017,05/25/2017,"Le Technology, Inc. d.b.a Le Eco",San Jose,180,Layoff Permanent
+05/19/2017,07/21/2017,05/26/2017,Boeing Company,El Segundo,24,Layoff Unknown at this time
+05/19/2017,07/21/2017,05/26/2017,Boeing Company,Huntington Beach,14,Layoff Unknown at this time
+05/24/2017,07/31/2017,05/26/2017,"J.C. Penney Corporation, Inc.",Orange,69,Closure Permanent
+05/24/2017,07/31/2017,05/26/2017,"Nestle USA, Inc.",Modesto,93,Layoff Temporary
+05/23/2017,07/28/2017,05/30/2017,Grimmway Farms,Edison,53,Closure Permanent
+05/26/2017,07/29/2017,05/30/2017,Kellogg Company,La Palma,280,Closure Permanent
+05/26/2017,08/04/2017,05/30/2017,Kellogg Company,Roseville,230,Closure Permanent
+05/23/2017,07/16/2017,05/31/2017,Charter Communications,Palm Desert,206,Closure Permanent
+05/23/2017,07/28/2017,05/31/2017,Grimmway Farms,Arvin,114,Layoff Permanent
+05/23/2017,07/28/2017,05/31/2017,Grimmway Farms,Bakersfield,217,Layoff Permanent
+05/24/2017,07/24/2017,05/31/2017,"Renovate America, Inc.",San Diego,108,Layoff Permanent
+05/31/2017,07/31/2017,06/01/2017,"Long Beach Memorial Medical Center,",Long Beach,103,Layoff Permanent
+06/01/2017,08/04/2017,06/01/2017,"A&R Wholesale Distributors, Inc. dba",Anaheim,106,Closure Permanent
+06/02/2017,07/31/2017,06/02/2017,"Milestone Technologies, Inc.",Chico,125,Closure Permanent
+06/02/2017,08/02/2017,06/02/2017,"Avnet, Inc.",San Jose,94,Closure Permanent
+06/02/2017,08/31/2017,06/02/2017,Mars Food North America,Rancho,63,Closure Permanent
+06/02/2017,08/04/2017,06/05/2017,Dearden's,Huntington Park,79,Closure Unknown at this time
+06/02/2017,08/04/2017,06/05/2017,Dearden's,Los Angeles,239,Closure Unknown at this time
+06/02/2017,08/04/2017,06/06/2017,Dearden's,Anaheim,15,Closure Unknown at this time
+06/02/2017,08/04/2017,06/06/2017,Dearden's,Chino,62,Closure Unknown at this time
+06/02/2017,08/04/2017,06/06/2017,Dearden's,Santa Ana,24,Closure Unknown at this time
+05/31/2017,08/06/2017,06/07/2017,Verdugo Restaurant Corporation,Burbank,155,Closure Temporary
+06/05/2017,08/05/2017,06/07/2017,"El Paso Communication Systems, Inc.",San Diego,4,Closure Permanent
+06/06/2017,10/31/2017,06/07/2017,California Pacific Medical Center,San Francisco,113,Closure Permanent
+06/07/2017,08/07/2017,06/09/2017,"Marvell Semiconductor, Inc.",Santa Clara,4,Layoff Permanent
+04/25/2017,06/01/2017,06/13/2017,"BlackTalon Enterprises, Inc.",Napa,90,Closure Permanent
+06/06/2017,08/27/2017,06/14/2017,Sears Holdings Corporation,Chico,42,Closure Permanent
+06/06/2017,09/03/2017,06/14/2017,Kmart Corporation,Blythe,87,Closure Permanent
+06/06/2017,09/03/2017,06/14/2017,Kmart Corporation,Manteca,47,Closure Permanent
+06/06/2017,09/03/2017,06/14/2017,Kmart Corporation,Sacramento,84,Closure Permanent
+06/08/2017,08/15/2017,06/15/2017,"Hotel Managers Group, LLC",San Diego,90,Closure Permanent
+06/14/2017,08/14/2017,06/15/2017,"Yahoo Holdings, Inc.",Los Angeles,84,Layoff Permanent
+06/14/2017,08/14/2017,06/15/2017,"Yahoo Holdings, Inc.",San Francisco,83,Layoff Permanent
+06/14/2017,08/14/2017,06/15/2017,"Yahoo Holdings, Inc.",Sunnyvale,263,Layoff Permanent
+06/15/2017,08/15/2017,06/16/2017,"Gilead Sciences, Inc.",Fremont,19,Closure Permanent
+06/09/2017,08/11/2017,06/20/2017,Nestle,Glendale,565,Closure Permanent
+06/13/2017,08/13/2017,06/21/2017,"Royalty Carpet Mills, Inc., Moda LLC,",Irvine,175,Closure Permanent
+06/13/2017,08/13/2017,06/21/2017,"Royalty Carpet Mills, Inc., Moda LLC,",Porterville,134,Closure Permanent
+06/13/2017,08/13/2017,06/21/2017,"Royalty Carpet Mills, Inc., Moda LLC,",Santa Ana,103,Closure Permanent
+06/19/2017,08/14/2017,06/21/2017,Absinthe Brasserie & Bar,San Francisco,83,Closure Temporary
+06/19/2017,08/18/2017,06/21/2017,Playtika Santa Monica,Santa Monica,10,Layoff Permanent
+06/21/2017,08/15/2017,06/21/2017,Intel Corporation,Santa Clara,93,Layoff Permanent
+06/21/2017,09/30/2017,06/22/2017,Benchmark Electronics Company,Anaheim,75,Closure Permanent
+06/22/2017,06/30/2017,06/22/2017,"Beckman Coulter, Inc.",Brea,90,Layoff Unknown at this time
+06/22/2017,08/22/2017,06/22/2017,HMSHost,Los Angeles,82,Closure Permanent
+06/16/2017,08/15/2017,06/26/2017,"JHH Motorcars, Inc. DBA Sierra Toyota",Lancaster,123,Layoff Permanent
+06/20/2017,06/29/2018,06/27/2017,Corning Incorporated,Union City,8,Closure Permanent
+06/21/2017,08/31/2017,06/27/2017,"Forterus Health Care Services, Inc.",Murrieta,106,Closure Permanent
+06/22/2017,08/21/2017,06/27/2017,Parker Hannifin Corporation,Modesto,362,Closure Unknown at this time
+06/22/2017,08/27/2017,06/27/2017,"Wyndham Vacation Ownership, Inc.",Indio,62,Layoff Permanent
+06/26/2017,08/25/2017,06/27/2017,Father Flanagan's Boys Home,Santa Ana,62,Layoff Permanent
+06/26/2017,08/25/2017,06/27/2017,Father Flanagan's Boys Home,Trabuco Canyon,31,Closure Permanent
+06/28/2017,09/05/2017,06/28/2017,Louis Vuitton USA Inc.,San Francisco,6,Closure Permanent
+06/29/2017,08/28/2017,06/29/2017,Lucky Lady Casino and Cardroom,San Diego,77,Closure Permanent
+06/26/2017,08/26/2017,06/30/2017,J&T Motors LLC dba Valencia Nissan,Valencia,61,Closure Permanent
+06/30/2017,08/30/2017,06/30/2017,Kammel Enterprises DBA Executive,Long Beach,35,Layoff Permanent
+06/30/2017,08/31/2017,06/30/2017,"First Responder EMS - Sacramento, Inc.",Sacramento,66,Closure Permanent
