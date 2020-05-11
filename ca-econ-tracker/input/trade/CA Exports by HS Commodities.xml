@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?><?mso-application progid='Excel.Sheet'?>
+<ss:Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Styles>
+  <Style ss:ID="sTitle">
+   <Font ss:Bold="1" />
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+  </Style>
+  <Style ss:ID="sHeader">
+   <Alignment ss:Horizontal="Center" />
+   <Font ss:Bold="1" />
+   <Interior ss:Color="#d7ebff" ss:Pattern="Solid" />
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+  </Style>
+  <Style ss:ID="sData">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+  </Style>
+  <Style ss:ID="sDimCol">
+   <Alignment ss:Horizontal="Center" />
+   <Font ss:Bold="1" />
+   <Interior ss:Color="#d7ebff" ss:Pattern="Solid" />
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+  </Style>
+  <Style ss:ID="sDimRow">
+   <Alignment ss:Vertical="Center" />
+   <Font ss:Bold="1" />
+   <Interior ss:Color="#ffdd95" ss:Pattern="Solid" />
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+  </Style>
+  <Style ss:ID="sDimOther">
+   <Alignment ss:Vertical="Center" />
+   <Font ss:Bold="1" />
+   <Interior ss:Color="#A9CCE3" ss:Pattern="Solid" />
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+  </Style>
+  <Style ss:ID="sMemCol">
+   <Alignment ss:Horizontal="Center" />
+   <Interior ss:Color="#d7ebff" ss:Pattern="Solid" />
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+  </Style>
+  <Style ss:ID="sMemRow">
+   <Alignment ss:Vertical="Center" />
+   <Interior ss:Color="#ffdd95" ss:Pattern="Solid" />
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+  </Style>
+  <Style ss:ID="sData00">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+   </Borders>
+   <NumberFormat ss:Format="#,#" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="CONTENTS">
+  <Table>
+   <Row>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Sheet name</Data>
+    </Cell>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Sheet description</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">DLD_INFO</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">Download Information</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">REPORT</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">The report</Data>
+    </Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+ <Worksheet ss:Name="DLD_INFO">
+  <Table>
+   <Row>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Date and time</Data>
+    </Cell>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Report title</Data>
+    </Cell>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">URL</Data>
+    </Cell>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Language</Data>
+    </Cell>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Data source notes</Data>
+    </Cell>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Report notes</Data>
+    </Cell>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Required footnotes</Data>
+    </Cell>
+    <Cell ss:StyleID="sHeader">
+     <Data ss:Type="String">Symbolic footnotes</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">5/11/2020 1:21:05 AM</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">CA Exports by HS Commodities</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">http://usatrade.census.gov/Perspective60</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">en English</Data>
+    </Cell>
+    <Cell>
+     <Data ss:Type="String">These data are compiled and published by the U.S. Census Bureau, Economic Indicators Division. For more information on how the data are collected and compiled please visit the  Guide To Foreign Trade Statistics  at  http://www.census.gov/foreign-trade/guide/index.html .</Data>
+    </Cell>
+    <Cell />
+    <Cell />
+    <Cell />
+   </Row>
+  </Table>
+ </Worksheet>
+ <Worksheet ss:Name="REPORT">
+  <Table>
+   <Row>
+    <Cell ss:StyleID="sTitle">
+     <Data ss:Type="String">CA Exports by HS Commodities</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Current date: 05/11/2020 1:21 AM (Eastern Daylight Time)</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Country: World Total</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell>
+     <Data ss:Type="String">Measures: Total Value ($US)</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell />
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="0" ss:StyleID="sDimCol">
+     <Data ss:Type="String">State</Data>
+    </Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="sMemCol">
+     <Data ss:Type="String">California</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="sDimRow">
+     <Data ss:Type="String">Time</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2011</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">11728768343</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2011</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">11755473968</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2011</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">14022599774</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2012</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">12423824932</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2012</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">12846110612</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2012</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">14618630845</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2013</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">12580628578</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2013</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">12721150808</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2013</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">14104684167</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2014</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">12901822435</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2014</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">13779561293</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2014</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">15424468867</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2015</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">12591885686</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2015</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">12438369189</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2015</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">15223128361</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2016</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">11933514208</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2016</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">12104503175</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2016</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">13732119331</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2017</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">13208087477</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2017</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">13458899862</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2017</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">14883691606</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2018</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">13730756364</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2018</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">14550284801</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2018</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">15862779818</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2019</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">13781791724</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2019</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">14295064200</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2019</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">15550976771</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">January 2020</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">13452235830</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">February 2020</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">14178444588</Data>
+    </Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="1" ss:StyleID="sMemRow">
+     <Data ss:Type="String">March 2020</Data>
+    </Cell>
+    <Cell ss:Index="2" ss:StyleID="sData00">
+     <Data ss:Type="Number">13565789445</Data>
+    </Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</ss:Workbook>
