@@ -1,0 +1,946 @@
+geoid,name,universe,universe_annotation,universe_moe,universe_moe_annotation,metropolitan statistical area/micropolitan statistical area
+10100,"Aberdeen, SD Micro Area",42780.0,,-555555555.0,*****,10100
+10140,"Aberdeen, WA Micro Area",71967.0,,-555555555.0,*****,10140
+10180,"Abilene, TX Metro Area",170009.0,,-555555555.0,*****,10180
+10220,"Ada, OK Micro Area",38358.0,,-555555555.0,*****,10220
+10260,"Adjuntas, PR Micro Area",18181.0,,-555555555.0,*****,10260
+10300,"Adrian, MI Micro Area",98474.0,,-555555555.0,*****,10300
+10380,"Aguadilla-Isabela, PR Metro Area",307555.0,,-555555555.0,*****,10380
+10420,"Akron, OH Metro Area",704454.0,,-555555555.0,*****,10420
+10460,"Alamogordo, NM Micro Area",65745.0,,-555555555.0,*****,10460
+10500,"Albany, GA Metro Area",153101.0,,-555555555.0,*****,10500
+10540,"Albany, OR Metro Area",122870.0,,-555555555.0,*****,10540
+10580,"Albany-Schenectady-Troy, NY Metro Area",880481.0,,-555555555.0,*****,10580
+10620,"Albemarle, NC Micro Area",61114.0,,-555555555.0,*****,10620
+10660,"Albert Lea, MN Micro Area",30526.0,,-555555555.0,*****,10660
+10700,"Albertville, AL Micro Area",95145.0,,-555555555.0,*****,10700
+10740,"Albuquerque, NM Metro Area",910012.0,,-555555555.0,*****,10740
+10760,"Alexander City, AL Micro Area",40636.0,,-555555555.0,*****,10760
+10780,"Alexandria, LA Metro Area",153894.0,,-555555555.0,*****,10780
+10820,"Alexandria, MN Micro Area",37203.0,,-555555555.0,*****,10820
+10860,"Alice, TX Micro Area",41192.0,,-555555555.0,*****,10860
+10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",834615.0,,-555555555.0,*****,10900
+10940,"Alma, MI Micro Area",41067.0,,-555555555.0,*****,10940
+10980,"Alpena, MI Micro Area",28612.0,,-555555555.0,*****,10980
+11020,"Altoona, PA Metro Area",123842.0,,-555555555.0,*****,11020
+11060,"Altus, OK Micro Area",25384.0,,-555555555.0,*****,11060
+11140,"Americus, GA Micro Area",35563.0,,-555555555.0,*****,11140
+11180,"Ames, IA Metro Area",96922.0,,-555555555.0,*****,11180
+11220,"Amsterdam, NY Micro Area",49426.0,,-555555555.0,*****,11220
+11260,"Anchorage, AK Metro Area",399576.0,,-555555555.0,*****,11260
+11380,"Andrews, TX Micro Area",17818.0,,-555555555.0,*****,11380
+11420,"Angola, IN Micro Area",34474.0,,-555555555.0,*****,11420
+11460,"Ann Arbor, MI Metro Area",365961.0,,-555555555.0,*****,11460
+11500,"Anniston-Oxford-Jacksonville, AL Metro Area",115098.0,,-555555555.0,*****,11500
+11540,"Appleton, WI Metro Area",234561.0,,-555555555.0,*****,11540
+11580,"Arcadia, FL Micro Area",36399.0,,-555555555.0,*****,11580
+11620,"Ardmore, OK Micro Area",48406.0,,-555555555.0,*****,11620
+11640,"Arecibo, PR Metro Area",183890.0,,-555555555.0,*****,11640
+11660,"Arkadelphia, AR Micro Area",22385.0,,-555555555.0,*****,11660
+11680,"Arkansas City-Winfield, KS Micro Area",35591.0,,-555555555.0,*****,11680
+11700,"Asheville, NC Metro Area",449937.0,,-555555555.0,*****,11700
+11740,"Ashland, OH Micro Area",53477.0,,-555555555.0,*****,11740
+11780,"Ashtabula, OH Micro Area",98136.0,,-555555555.0,*****,11780
+11820,"Astoria, OR Micro Area",38562.0,,-555555555.0,*****,11820
+11860,"Atchison, KS Micro Area",16363.0,,-555555555.0,*****,11860
+11900,"Athens, OH Micro Area",65936.0,,-555555555.0,*****,11900
+11940,"Athens, TN Micro Area",52773.0,,-555555555.0,*****,11940
+11980,"Athens, TX Micro Area",80460.0,,-555555555.0,*****,11980
+12020,"Athens-Clarke County, GA Metro Area",205303.0,,-555555555.0,*****,12020
+12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",5779463.0,,-555555555.0,*****,12060
+12100,"Atlantic City-Hammonton, NJ Metro Area",268539.0,,-555555555.0,*****,12100
+12120,"Atmore, AL Micro Area",37328.0,,-555555555.0,*****,12120
+12140,"Auburn, IN Micro Area",42704.0,,-555555555.0,*****,12140
+12180,"Auburn, NY Micro Area",77868.0,,-555555555.0,*****,12180
+12220,"Auburn-Opelika, AL Metro Area",159287.0,,-555555555.0,*****,12220
+12260,"Augusta-Richmond County, GA-SC Metro Area",594300.0,,-555555555.0,*****,12260
+12300,"Augusta-Waterville, ME Micro Area",121545.0,,-555555555.0,*****,12300
+12380,"Austin, MN Micro Area",39602.0,,-555555555.0,*****,12380
+12420,"Austin-Round Rock, TX Metro Area",2058351.0,,-555555555.0,*****,12420
+12460,"Bainbridge, GA Micro Area",26833.0,,-555555555.0,*****,12460
+12540,"Bakersfield, CA Metro Area",883053.0,,-555555555.0,*****,12540
+12580,"Baltimore-Columbia-Towson, MD Metro Area",2793250.0,,-555555555.0,*****,12580
+12620,"Bangor, ME Metro Area",151748.0,,-555555555.0,*****,12620
+12660,"Baraboo, WI Micro Area",63596.0,,-555555555.0,*****,12660
+12680,"Bardstown, KY Micro Area",45388.0,,-555555555.0,*****,12680
+12700,"Barnstable Town, MA Metro Area",213690.0,,-555555555.0,*****,12700
+12740,"Barre, VT Micro Area",58477.0,,-555555555.0,*****,12740
+12780,"Bartlesville, OK Micro Area",52001.0,,-555555555.0,*****,12780
+12820,"Bastrop, LA Micro Area",25992.0,,-555555555.0,*****,12820
+12860,"Batavia, NY Micro Area",58112.0,,-555555555.0,*****,12860
+12900,"Batesville, AR Micro Area",37264.0,,-555555555.0,*****,12900
+12940,"Baton Rouge, LA Metro Area",829642.0,,-555555555.0,*****,12940
+12980,"Battle Creek, MI Metro Area",134473.0,,-555555555.0,*****,12980
+13020,"Bay City, MI Metro Area",104786.0,,-555555555.0,*****,13020
+13060,"Bay City, TX Micro Area",36743.0,,-555555555.0,*****,13060
+13100,"Beatrice, NE Micro Area",21595.0,,-555555555.0,*****,13100
+13140,"Beaumont-Port Arthur, TX Metro Area",409693.0,,-555555555.0,*****,13140
+13180,"Beaver Dam, WI Micro Area",87776.0,,-555555555.0,*****,13180
+13220,"Beckley, WV Metro Area",120358.0,,-555555555.0,*****,13220
+13260,"Bedford, IN Micro Area",45619.0,,-555555555.0,*****,13260
+13300,"Beeville, TX Micro Area",32691.0,,-555555555.0,*****,13300
+13340,"Bellefontaine, OH Micro Area",45307.0,,-555555555.0,*****,13340
+13380,"Bellingham, WA Metro Area",216812.0,,-555555555.0,*****,13380
+13420,"Bemidji, MN Micro Area",46117.0,,-555555555.0,*****,13420
+13460,"Bend-Redmond, OR Metro Area",180640.0,,-555555555.0,*****,13460
+13500,"Bennettsville, SC Micro Area",27131.0,,-555555555.0,*****,13500
+13540,"Bennington, VT Micro Area",35920.0,,-555555555.0,*****,13540
+13620,"Berlin, NH-VT Micro Area",38246.0,,-555555555.0,*****,13620
+13660,"Big Rapids, MI Micro Area",43264.0,,-555555555.0,*****,13660
+13720,"Big Stone Gap, VA Micro Area",57975.0,,-555555555.0,*****,13720
+13780,"Binghamton, NY Metro Area",243447.0,,-555555555.0,*****,13780
+13820,"Birmingham-Hoover, AL Metro Area",1147054.0,,-555555555.0,*****,13820
+13940,"Blackfoot, ID Micro Area",45551.0,,-555555555.0,*****,13940
+13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",182341.0,,-555555555.0,*****,13980
+14010,"Bloomington, IL Metro Area",189261.0,,-555555555.0,*****,14010
+14020,"Bloomington, IN Metro Area",166281.0,,-555555555.0,*****,14020
+14100,"Bloomsburg-Berwick, PA Metro Area",84514.0,,-555555555.0,*****,14100
+14140,"Bluefield, WV-VA Micro Area",102566.0,,-555555555.0,*****,14140
+14180,"Blytheville, AR Micro Area",42831.0,,-555555555.0,*****,14180
+14220,"Bogalusa, LA Micro Area",46457.0,,-555555555.0,*****,14220
+14260,"Boise City, ID Metro Area",693952.0,,-555555555.0,*****,14260
+14300,"Bonham, TX Micro Area",34175.0,,-555555555.0,*****,14300
+14340,"Boone, IA Micro Area",26399.0,,-555555555.0,*****,14340
+14380,"Boone, NC Micro Area",54117.0,,-555555555.0,*****,14380
+14420,"Borger, TX Micro Area",21571.0,,-555555555.0,*****,14420
+14460,"Boston-Cambridge-Newton, MA-NH Metro Area",4811732.0,,-555555555.0,*****,14460
+14500,"Boulder, CO Metro Area",321030.0,,-555555555.0,*****,14500
+14540,"Bowling Green, KY Metro Area",172088.0,,-555555555.0,*****,14540
+14580,"Bozeman, MT Micro Area",104729.0,,-555555555.0,*****,14580
+14620,"Bradford, PA Micro Area",41806.0,,-555555555.0,*****,14620
+14660,"Brainerd, MN Micro Area",92877.0,,-555555555.0,*****,14660
+14700,"Branson, MO Micro Area",86247.0,,-555555555.0,*****,14700
+14720,"Breckenridge, CO Micro Area",30429.0,,-555555555.0,*****,14720
+14740,"Bremerton-Silverdale, WA Metro Area",262475.0,,-555555555.0,*****,14740
+14780,"Brenham, TX Micro Area",34796.0,,-555555555.0,*****,14780
+14820,"Brevard, NC Micro Area",33513.0,,-555555555.0,*****,14820
+14860,"Bridgeport-Stamford-Norwalk, CT Metro Area",944348.0,,-555555555.0,*****,14860
+15020,"Brookhaven, MS Micro Area",34432.0,,-555555555.0,*****,15020
+15060,"Brookings, OR Micro Area",22507.0,,-555555555.0,*****,15060
+15100,"Brookings, SD Micro Area",34239.0,,-555555555.0,*****,15100
+15140,"Brownsville, TN Micro Area",17779.0,,-555555555.0,*****,15140
+15180,"Brownsville-Harlingen, TX Metro Area",421750.0,,-555555555.0,*****,15180
+15220,"Brownwood, TX Micro Area",37834.0,,-555555555.0,*****,15220
+15260,"Brunswick, GA Metro Area",116655.0,,-555555555.0,*****,15260
+15340,"Bucyrus, OH Micro Area",42021.0,,-555555555.0,*****,15340
+15380,"Buffalo-Cheektowaga-Niagara Falls, NY Metro Area",1131570.0,,-555555555.0,*****,15380
+15420,"Burley, ID Micro Area",44230.0,,-555555555.0,*****,15420
+15460,"Burlington, IA-IL Micro Area",46484.0,,-555555555.0,*****,15460
+15500,"Burlington, NC Metro Area",160576.0,,-555555555.0,*****,15500
+15540,"Burlington-South Burlington, VT Metro Area",218042.0,,-555555555.0,*****,15540
+15580,"Butte-Silver Bow, MT Micro Area",34814.0,,-555555555.0,*****,15580
+15620,"Cadillac, MI Micro Area",48117.0,,-555555555.0,*****,15620
+15660,"Calhoun, GA Micro Area",56790.0,,-555555555.0,*****,15660
+15680,"California-Lexington Park, MD Metro Area",111531.0,,-555555555.0,*****,15680
+15700,"Cambridge, MD Micro Area",32261.0,,-555555555.0,*****,15700
+15740,"Cambridge, OH Micro Area",39274.0,,-555555555.0,*****,15740
+15780,"Camden, AR Micro Area",29308.0,,-555555555.0,*****,15780
+15820,"Campbellsville, KY Micro Area",25500.0,,-555555555.0,*****,15820
+15860,"Ca�on City, CO Micro Area",47002.0,,-555555555.0,*****,15860
+15900,"Canton, IL Micro Area",35418.0,,-555555555.0,*****,15900
+15940,"Canton-Massillon, OH Metro Area",401053.0,,-555555555.0,*****,15940
+15980,"Cape Coral-Fort Myers, FL Metro Area",718679.0,,-555555555.0,*****,15980
+16020,"Cape Girardeau, MO-IL Metro Area",97137.0,,-555555555.0,*****,16020
+16060,"Carbondale-Marion, IL Metro Area",125850.0,,-555555555.0,*****,16060
+16100,"Carlsbad-Artesia, NM Micro Area",57437.0,,-555555555.0,*****,16100
+16140,"Carroll, IA Micro Area",20344.0,,-555555555.0,*****,16140
+16180,"Carson City, NV Metro Area",54467.0,,-555555555.0,*****,16180
+16220,"Casper, WY Metro Area",80610.0,,-555555555.0,*****,16220
+16260,"Cedar City, UT Micro Area",49691.0,,-555555555.0,*****,16260
+16300,"Cedar Rapids, IA Metro Area",268315.0,,-555555555.0,*****,16300
+16340,"Cedartown, GA Micro Area",41621.0,,-555555555.0,*****,16340
+16380,"Celina, OH Micro Area",40806.0,,-555555555.0,*****,16380
+16420,"Central City, KY Micro Area",31081.0,,-555555555.0,*****,16420
+16460,"Centralia, IL Micro Area",38084.0,,-555555555.0,*****,16460
+16500,"Centralia, WA Micro Area",76947.0,,-555555555.0,*****,16500
+16540,"Chambersburg-Waynesboro, PA Metro Area",153751.0,,-555555555.0,*****,16540
+16580,"Champaign-Urbana, IL Metro Area",239273.0,,-555555555.0,*****,16580
+16620,"Charleston, WV Metro Area",217312.0,,-555555555.0,*****,16620
+16660,"Charleston-Mattoon, IL Micro Area",62601.0,,-555555555.0,*****,16660
+16700,"Charleston-North Charleston, SC Metro Area",759247.0,,-555555555.0,*****,16700
+16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",2473125.0,,-555555555.0,*****,16740
+16820,"Charlottesville, VA Metro Area",230905.0,,-555555555.0,*****,16820
+16860,"Chattanooga, TN-GA Metro Area",552043.0,,-555555555.0,*****,16860
+16940,"Cheyenne, WY Metro Area",97692.0,,-555555555.0,*****,16940
+16980,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",9536428.0,,-555555555.0,*****,16980
+17020,"Chico, CA Metro Area",227075.0,,-555555555.0,*****,17020
+17060,"Chillicothe, OH Micro Area",77051.0,,-555555555.0,*****,17060
+17140,"Cincinnati, OH-KY-IN Metro Area",2168825.0,,-555555555.0,*****,17140
+17200,"Claremont-Lebanon, NH-VT Micro Area",217300.0,,-555555555.0,*****,17200
+17220,"Clarksburg, WV Micro Area",93696.0,,-555555555.0,*****,17220
+17260,"Clarksdale, MS Micro Area",23802.0,,-555555555.0,*****,17260
+17300,"Clarksville, TN-KY Metro Area",282994.0,,-555555555.0,*****,17300
+17340,"Clearlake, CA Micro Area",64148.0,,-555555555.0,*****,17340
+17380,"Cleveland, MS Micro Area",32592.0,,-555555555.0,*****,17380
+17420,"Cleveland, TN Metro Area",121339.0,,-555555555.0,*****,17420
+17460,"Cleveland-Elyria, OH Metro Area",2061766.0,,-555555555.0,*****,17460
+17500,"Clewiston, FL Micro Area",40127.0,,-555555555.0,*****,17500
+17540,"Clinton, IA Micro Area",47218.0,,-555555555.0,*****,17540
+17580,"Clovis, NM Micro Area",50199.0,,-555555555.0,*****,17580
+17620,"Coamo, PR Micro Area",39265.0,,-555555555.0,*****,17620
+17640,"Coco, PR Micro Area",28633.0,,-555555555.0,*****,17640
+17660,"Coeur d'Alene, ID Metro Area",153605.0,,-555555555.0,*****,17660
+17700,"Coffeyville, KS Micro Area",32970.0,,-555555555.0,*****,17700
+17740,"Coldwater, MI Micro Area",43584.0,,-555555555.0,*****,17740
+17780,"College Station-Bryan, TX Metro Area",253946.0,,-555555555.0,*****,17780
+17820,"Colorado Springs, CO Metro Area",712266.0,,-555555555.0,*****,17820
+17860,"Columbia, MO Metro Area",176515.0,,-555555555.0,*****,17860
+17900,"Columbia, SC Metro Area",816664.0,,-555555555.0,*****,17900
+17980,"Columbus, GA-AL Metro Area",307724.0,,-555555555.0,*****,17980
+18020,"Columbus, IN Metro Area",81893.0,,-555555555.0,*****,18020
+18060,"Columbus, MS Micro Area",59437.0,,-555555555.0,*****,18060
+18100,"Columbus, NE Micro Area",33063.0,,-555555555.0,*****,18100
+18140,"Columbus, OH Metro Area",2054062.0,,-555555555.0,*****,18140
+18180,"Concord, NH Micro Area",149452.0,,-555555555.0,*****,18180
+18220,"Connersville, IN Micro Area",23259.0,,-555555555.0,*****,18220
+18260,"Cookeville, TN Micro Area",110059.0,,-555555555.0,*****,18260
+18300,"Coos Bay, OR Micro Area",63308.0,,-555555555.0,*****,18300
+18380,"Cordele, GA Micro Area",22846.0,,-555555555.0,*****,18380
+18420,"Corinth, MS Micro Area",37180.0,,-555555555.0,*****,18420
+18460,"Cornelia, GA Micro Area",44289.0,,-555555555.0,*****,18460
+18500,"Corning, NY Micro Area",96927.0,,-555555555.0,*****,18500
+18580,"Corpus Christi, TX Metro Area",452295.0,,-555555555.0,*****,18580
+18620,"Corsicana, TX Micro Area",48583.0,,-555555555.0,*****,18620
+18660,"Cortland, NY Micro Area",48123.0,,-555555555.0,*****,18660
+18700,"Corvallis, OR Metro Area",89780.0,,-555555555.0,*****,18700
+18740,"Coshocton, OH Micro Area",36574.0,,-555555555.0,*****,18740
+18780,"Craig, CO Micro Area",13060.0,,-555555555.0,*****,18780
+18820,"Crawfordsville, IN Micro Area",38276.0,,-555555555.0,*****,18820
+18860,"Crescent City, CA Micro Area",27424.0,,-555555555.0,*****,18860
+18880,"Crestview-Fort Walton Beach-Destin, FL Metro Area",266595.0,,-555555555.0,*****,18880
+18900,"Crossville, TN Micro Area",58634.0,,-555555555.0,*****,18900
+18980,"Cullman, AL Micro Area",82313.0,,-555555555.0,*****,18980
+19000,"Cullowhee, NC Micro Area",42256.0,,-555555555.0,*****,19000
+19060,"Cumberland, MD-WV Metro Area",99255.0,,-555555555.0,*****,19060
+19100,"Dallas-Fort Worth-Arlington, TX Metro Area",7255028.0,,-555555555.0,*****,19100
+19140,"Dalton, GA Metro Area",143406.0,,-555555555.0,*****,19140
+19180,"Danville, IL Metro Area",78407.0,,-555555555.0,*****,19180
+19220,"Danville, KY Micro Area",54371.0,,-555555555.0,*****,19220
+19260,"Danville, VA Micro Area",103188.0,,-555555555.0,*****,19260
+19300,"Daphne-Fairhope-Foley, AL Metro Area",208107.0,,-555555555.0,*****,19300
+19340,"Davenport-Moline-Rock Island, IA-IL Metro Area",382720.0,,-555555555.0,*****,19340
+19380,"Dayton, OH Metro Area",802645.0,,-555555555.0,*****,19380
+19420,"Dayton, TN Micro Area",32628.0,,-555555555.0,*****,19420
+19460,"Decatur, AL Metro Area",152293.0,,-555555555.0,*****,19460
+19500,"Decatur, IL Metro Area",106512.0,,-555555555.0,*****,19500
+19540,"Decatur, IN Micro Area",35195.0,,-555555555.0,*****,19540
+19580,"Defiance, OH Micro Area",38279.0,,-555555555.0,*****,19580
+19620,"Del Rio, TX Micro Area",49027.0,,-555555555.0,*****,19620
+19660,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",634773.0,,-555555555.0,*****,19660
+19700,"Deming, NM Micro Area",24264.0,,-555555555.0,*****,19700
+19740,"Denver-Aurora-Lakewood, CO Metro Area",2850221.0,,-555555555.0,*****,19740
+19760,"DeRidder, LA Micro Area",36769.0,,-555555555.0,*****,19760
+19780,"Des Moines-West Des Moines, IA Metro Area",634201.0,,-555555555.0,*****,19780
+19820,"Detroit-Warren-Dearborn, MI Metro Area",4317179.0,,-555555555.0,*****,19820
+19860,"Dickinson, ND Micro Area",30876.0,,-555555555.0,*****,19860
+19940,"Dixon, IL Micro Area",34527.0,,-555555555.0,*****,19940
+19980,"Dodge City, KS Micro Area",34484.0,,-555555555.0,*****,19980
+20020,"Dothan, AL Metro Area",147967.0,,-555555555.0,*****,20020
+20060,"Douglas, GA Micro Area",42961.0,,-555555555.0,*****,20060
+20100,"Dover, DE Metro Area",174822.0,,-555555555.0,*****,20100
+20140,"Dublin, GA Micro Area",57148.0,,-555555555.0,*****,20140
+20180,"DuBois, PA Micro Area",80216.0,,-555555555.0,*****,20180
+20220,"Dubuque, IA Metro Area",96802.0,,-555555555.0,*****,20220
+20260,"Duluth, MN-WI Metro Area",279022.0,,-555555555.0,*****,20260
+20300,"Dumas, TX Micro Area",21801.0,,-555555555.0,*****,20300
+20340,"Duncan, OK Micro Area",43983.0,,-555555555.0,*****,20340
+20380,"Dunn, NC Micro Area",130361.0,,-555555555.0,*****,20380
+20420,"Durango, CO Micro Area",55101.0,,-555555555.0,*****,20420
+20460,"Durant, OK Micro Area",45759.0,,-555555555.0,*****,20460
+20500,"Durham-Chapel Hill, NC Metro Area",558491.0,,-555555555.0,*****,20500
+20540,"Dyersburg, TN Micro Area",37576.0,,-555555555.0,*****,20540
+20580,"Eagle Pass, TX Micro Area",57970.0,,-555555555.0,*****,20580
+20660,"Easton, MD Micro Area",37211.0,,-555555555.0,*****,20660
+20700,"East Stroudsburg, PA Metro Area",167586.0,,-555555555.0,*****,20700
+20740,"Eau Claire, WI Metro Area",166626.0,,-555555555.0,*****,20740
+20780,"Edwards, CO Micro Area",54357.0,,-555555555.0,*****,20780
+20820,"Effingham, IL Micro Area",34174.0,,-555555555.0,*****,20820
+20900,"El Campo, TX Micro Area",41551.0,,-555555555.0,*****,20900
+20940,"El Centro, CA Metro Area",180216.0,,-555555555.0,*****,20940
+20980,"El Dorado, AR Micro Area",39732.0,,-555555555.0,*****,20980
+21020,"Elizabeth City, NC Micro Area",63385.0,,-555555555.0,*****,21020
+21060,"Elizabethtown-Fort Knox, KY Metro Area",150577.0,,-555555555.0,*****,21060
+21120,"Elk City, OK Micro Area",22621.0,,-555555555.0,*****,21120
+21140,"Elkhart-Goshen, IN Metro Area",203604.0,,-555555555.0,*****,21140
+21180,"Elkins, WV Micro Area",29065.0,,-555555555.0,*****,21180
+21260,"Ellensburg, WA Micro Area",44825.0,,-555555555.0,*****,21260
+21300,"Elmira, NY Metro Area",85740.0,,-555555555.0,*****,21300
+21340,"El Paso, TX Metro Area",841752.0,,-555555555.0,*****,21340
+21380,"Emporia, KS Micro Area",33299.0,,-555555555.0,*****,21380
+21420,"Enid, OK Metro Area",62190.0,,-555555555.0,*****,21420
+21460,"Enterprise, AL Micro Area",51288.0,,-555555555.0,*****,21460
+21500,"Erie, PA Metro Area",275972.0,,-555555555.0,*****,21500
+21540,"Escanaba, MI Micro Area",36190.0,,-555555555.0,*****,21540
+21580,"Espa�ola, NM Micro Area",39307.0,,-555555555.0,*****,21580
+21660,"Eugene, OR Metro Area",368882.0,,-555555555.0,*****,21660
+21700,"Eureka-Arcata-Fortuna, CA Micro Area",135768.0,,-555555555.0,*****,21700
+21740,"Evanston, WY Micro Area",20609.0,,-555555555.0,*****,21740
+21780,"Evansville, IN-KY Metro Area",314967.0,,-555555555.0,*****,21780
+21820,"Fairbanks, AK Metro Area",99653.0,,-555555555.0,*****,21820
+21840,"Fairfield, IA Micro Area",18077.0,,-555555555.0,*****,21840
+21860,"Fairmont, MN Micro Area",19964.0,,-555555555.0,*****,21860
+21900,"Fairmont, WV Micro Area",56497.0,,-555555555.0,*****,21900
+21980,"Fallon, NV Micro Area",24010.0,,-555555555.0,*****,21980
+22020,"Fargo, ND-MN Metro Area",237003.0,,-555555555.0,*****,22020
+22060,"Faribault-Northfield, MN Micro Area",65765.0,,-555555555.0,*****,22060
+22100,"Farmington, MO Micro Area",66342.0,,-555555555.0,*****,22100
+22140,"Farmington, NM Metro Area",127455.0,,-555555555.0,*****,22140
+22180,"Fayetteville, NC Metro Area",385345.0,,-555555555.0,*****,22180
+22220,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",526412.0,,-555555555.0,*****,22220
+22260,"Fergus Falls, MN Micro Area",57992.0,,-555555555.0,*****,22260
+22280,"Fernley, NV Micro Area",53155.0,,-555555555.0,*****,22280
+22300,"Findlay, OH Micro Area",75690.0,,-555555555.0,*****,22300
+22340,"Fitzgerald, GA Micro Area",17154.0,,-555555555.0,*****,22340
+22380,"Flagstaff, AZ Metro Area",140217.0,,-555555555.0,*****,22380
+22420,"Flint, MI Metro Area",409361.0,,-555555555.0,*****,22420
+22500,"Florence, SC Metro Area",205814.0,,-555555555.0,*****,22500
+22520,"Florence-Muscle Shoals, AL Metro Area",147080.0,,-555555555.0,*****,22520
+22540,"Fond du Lac, WI Metro Area",102315.0,,-555555555.0,*****,22540
+22580,"Forest City, NC Micro Area",66532.0,,-555555555.0,*****,22580
+22620,"Forrest City, AR Micro Area",26294.0,,-555555555.0,*****,22620
+22660,"Fort Collins, CO Metro Area",338161.0,,-555555555.0,*****,22660
+22700,"Fort Dodge, IA Micro Area",36757.0,,-555555555.0,*****,22700
+22780,"Fort Leonard Wood, MO Micro Area",52591.0,,-555555555.0,*****,22780
+22800,"Fort Madison-Keokuk, IA-IL-MO Micro Area",59453.0,,-555555555.0,*****,22800
+22820,"Fort Morgan, CO Micro Area",28257.0,,-555555555.0,*****,22820
+22840,"Fort Payne, AL Micro Area",71200.0,,-555555555.0,*****,22840
+22860,"Fort Polk South, LA Micro Area",51007.0,,-555555555.0,*****,22860
+22900,"Fort Smith, AR-OK Metro Area",281201.0,,-555555555.0,*****,22900
+23060,"Fort Wayne, IN Metro Area",431612.0,,-555555555.0,*****,23060
+23140,"Frankfort, IN Micro Area",32301.0,,-555555555.0,*****,23140
+23180,"Frankfort, KY Micro Area",72510.0,,-555555555.0,*****,23180
+23240,"Fredericksburg, TX Micro Area",26208.0,,-555555555.0,*****,23240
+23300,"Freeport, IL Micro Area",45433.0,,-555555555.0,*****,23300
+23340,"Fremont, NE Micro Area",36683.0,,-555555555.0,*****,23340
+23380,"Fremont, OH Micro Area",59299.0,,-555555555.0,*****,23380
+23420,"Fresno, CA Metro Area",978130.0,,-555555555.0,*****,23420
+23460,"Gadsden, AL Metro Area",102939.0,,-555555555.0,*****,23460
+23500,"Gaffney, SC Micro Area",56711.0,,-555555555.0,*****,23500
+23540,"Gainesville, FL Metro Area",280763.0,,-555555555.0,*****,23540
+23580,"Gainesville, GA Metro Area",195961.0,,-555555555.0,*****,23580
+23620,"Gainesville, TX Micro Area",39571.0,,-555555555.0,*****,23620
+23660,"Galesburg, IL Micro Area",50999.0,,-555555555.0,*****,23660
+23700,"Gallup, NM Micro Area",72849.0,,-555555555.0,*****,23700
+23780,"Garden City, KS Micro Area",40889.0,,-555555555.0,*****,23780
+23820,"Gardnerville Ranchos, NV Micro Area",47828.0,,-555555555.0,*****,23820
+23860,"Georgetown, SC Micro Area",61605.0,,-555555555.0,*****,23860
+23900,"Gettysburg, PA Metro Area",102023.0,,-555555555.0,*****,23900
+23940,"Gillette, WY Micro Area",47708.0,,-555555555.0,*****,23940
+23980,"Glasgow, KY Micro Area",53684.0,,-555555555.0,*****,23980
+24020,"Glens Falls, NY Metro Area",126308.0,,-555555555.0,*****,24020
+24060,"Glenwood Springs, CO Micro Area",76447.0,,-555555555.0,*****,24060
+24100,"Gloversville, NY Micro Area",53743.0,,-555555555.0,*****,24100
+24140,"Goldsboro, NC Metro Area",124002.0,,-555555555.0,*****,24140
+24220,"Grand Forks, ND-MN Metro Area",101991.0,,-555555555.0,*****,24220
+24260,"Grand Island, NE Metro Area",84729.0,,-555555555.0,*****,24260
+24300,"Grand Junction, CO Metro Area",149998.0,,-555555555.0,*****,24300
+24330,"Grand Rapids, MN Micro Area",45203.0,,-555555555.0,*****,24330
+24340,"Grand Rapids-Wyoming, MI Metro Area",1050440.0,,-555555555.0,*****,24340
+24380,"Grants, NM Micro Area",26978.0,,-555555555.0,*****,24380
+24420,"Grants Pass, OR Metro Area",85481.0,,-555555555.0,*****,24420
+24460,"Great Bend, KS Micro Area",26791.0,,-555555555.0,*****,24460
+24500,"Great Falls, MT Metro Area",81746.0,,-555555555.0,*****,24500
+24540,"Greeley, CO Metro Area",295123.0,,-555555555.0,*****,24540
+24580,"Green Bay, WI Metro Area",317702.0,,-555555555.0,*****,24580
+24620,"Greeneville, TN Micro Area",68669.0,,-555555555.0,*****,24620
+24640,"Greenfield Town, MA Micro Area",70935.0,,-555555555.0,*****,24640
+24660,"Greensboro-High Point, NC Metro Area",757810.0,,-555555555.0,*****,24660
+24700,"Greensburg, IN Micro Area",26552.0,,-555555555.0,*****,24700
+24740,"Greenville, MS Micro Area",47086.0,,-555555555.0,*****,24740
+24780,"Greenville, NC Metro Area",177372.0,,-555555555.0,*****,24780
+24820,"Greenville, OH Micro Area",51734.0,,-555555555.0,*****,24820
+24860,"Greenville-Anderson-Mauldin, SC Metro Area",883853.0,,-555555555.0,*****,24860
+24900,"Greenwood, MS Micro Area",39933.0,,-555555555.0,*****,24900
+24940,"Greenwood, SC Micro Area",94921.0,,-555555555.0,*****,24940
+24980,"Grenada, MS Micro Area",21278.0,,-555555555.0,*****,24980
+25020,"Guayama, PR Metro Area",77151.0,,-555555555.0,*****,25020
+25060,"Gulfport-Biloxi-Pascagoula, MS Metro Area",391293.0,,-555555555.0,*****,25060
+25100,"Guymon, OK Micro Area",21121.0,,-555555555.0,*****,25100
+25180,"Hagerstown-Martinsburg, MD-WV Metro Area",263306.0,,-555555555.0,*****,25180
+25220,"Hammond, LA Metro Area",130504.0,,-555555555.0,*****,25220
+25260,"Hanford-Corcoran, CA Metro Area",150075.0,,-555555555.0,*****,25260
+25300,"Hannibal, MO Micro Area",38889.0,,-555555555.0,*****,25300
+25420,"Harrisburg-Carlisle, PA Metro Area",567872.0,,-555555555.0,*****,25420
+25460,"Harrison, AR Micro Area",45136.0,,-555555555.0,*****,25460
+25500,"Harrisonburg, VA Metro Area",132835.0,,-555555555.0,*****,25500
+25540,"Hartford-West Hartford-East Hartford, CT Metro Area",1209367.0,,-555555555.0,*****,25540
+25580,"Hastings, NE Micro Area",31583.0,,-555555555.0,*****,25580
+25620,"Hattiesburg, MS Metro Area",148768.0,,-555555555.0,*****,25620
+25700,"Hays, KS Micro Area",28878.0,,-555555555.0,*****,25700
+25720,"Heber, UT Micro Area",30523.0,,-555555555.0,*****,25720
+25740,"Helena, MT Micro Area",78855.0,,-555555555.0,*****,25740
+25760,"Helena-West Helena, AR Micro Area",19034.0,,-555555555.0,*****,25760
+25780,"Henderson, NC Micro Area",44482.0,,-555555555.0,*****,25780
+25820,"Hereford, TX Micro Area",18899.0,,-555555555.0,*****,25820
+25840,"Hermiston-Pendleton, OR Micro Area",88113.0,,-555555555.0,*****,25840
+25860,"Hickory-Lenoir-Morganton, NC Metro Area",365339.0,,-555555555.0,*****,25860
+25880,"Hillsdale, MI Micro Area",45830.0,,-555555555.0,*****,25880
+25900,"Hilo, HI Micro Area",197658.0,,-555555555.0,*****,25900
+25940,"Hilton Head Island-Bluffton-Beaufort, SC Metro Area",210558.0,,-555555555.0,*****,25940
+25980,"Hinesville, GA Metro Area",80264.0,,-555555555.0,*****,25980
+26020,"Hobbs, NM Micro Area",70126.0,,-555555555.0,*****,26020
+26090,"Holland, MI Micro Area",115250.0,,-555555555.0,*****,26090
+26140,"Homosassa Springs, FL Metro Area",143087.0,,-555555555.0,*****,26140
+26220,"Hood River, OR Micro Area",23131.0,,-555555555.0,*****,26220
+26260,"Hope, AR Micro Area",30458.0,,-555555555.0,*****,26260
+26300,"Hot Springs, AR Metro Area",98296.0,,-555555555.0,*****,26300
+26340,"Houghton, MI Micro Area",38490.0,,-555555555.0,*****,26340
+26380,"Houma-Thibodaux, LA Metro Area",210801.0,,-555555555.0,*****,26380
+26420,"Houston-The Woodlands-Sugar Land, TX Metro Area",6779104.0,,-555555555.0,*****,26420
+26460,"Hudson, NY Micro Area",60919.0,,-555555555.0,*****,26460
+26500,"Huntingdon, PA Micro Area",45421.0,,-555555555.0,*****,26500
+26540,"Huntington, IN Micro Area",36378.0,,-555555555.0,*****,26540
+26580,"Huntington-Ashland, WV-KY-OH Metro Area",358234.0,,-555555555.0,*****,26580
+26620,"Huntsville, AL Metro Area",450612.0,,-555555555.0,*****,26620
+26660,"Huntsville, TX Micro Area",86108.0,,-555555555.0,*****,26660
+26700,"Huron, SD Micro Area",18374.0,,-555555555.0,*****,26700
+26740,"Hutchinson, KS Micro Area",63101.0,,-555555555.0,*****,26740
+26780,"Hutchinson, MN Micro Area",35825.0,,-555555555.0,*****,26780
+26820,"Idaho Falls, ID Metro Area",142968.0,,-555555555.0,*****,26820
+26860,"Indiana, PA Micro Area",85755.0,,-555555555.0,*****,26860
+26900,"Indianapolis-Carmel-Anderson, IN Metro Area",2007497.0,,-555555555.0,*****,26900
+26940,"Indianola, MS Micro Area",26532.0,,-555555555.0,*****,26940
+26960,"Ionia, MI Micro Area",64176.0,,-555555555.0,*****,26960
+26980,"Iowa City, IA Metro Area",169144.0,,-555555555.0,*****,26980
+27020,"Iron Mountain, MI-WI Micro Area",29907.0,,-555555555.0,*****,27020
+27060,"Ithaca, NY Metro Area",102962.0,,-555555555.0,*****,27060
+27100,"Jackson, MI Metro Area",158913.0,,-555555555.0,*****,27100
+27140,"Jackson, MS Metro Area",580280.0,,-555555555.0,*****,27140
+27160,"Jackson, OH Micro Area",32524.0,,-555555555.0,*****,27160
+27180,"Jackson, TN Metro Area",129331.0,,-555555555.0,*****,27180
+27220,"Jackson, WY-ID Micro Area",34139.0,,-555555555.0,*****,27220
+27260,"Jacksonville, FL Metro Area",1475386.0,,-555555555.0,*****,27260
+27300,"Jacksonville, IL Micro Area",39473.0,,-555555555.0,*****,27300
+27340,"Jacksonville, NC Metro Area",193912.0,,-555555555.0,*****,27340
+27380,"Jacksonville, TX Micro Area",51903.0,,-555555555.0,*****,27380
+27420,"Jamestown, ND Micro Area",21064.0,,-555555555.0,*****,27420
+27460,"Jamestown-Dunkirk-Fredonia, NY Micro Area",129656.0,,-555555555.0,*****,27460
+27500,"Janesville-Beloit, WI Metro Area",161769.0,,-555555555.0,*****,27500
+27540,"Jasper, IN Micro Area",54829.0,,-555555555.0,*****,27540
+27580,"Jayuya, PR Micro Area",14906.0,,-555555555.0,*****,27580
+27600,"Jefferson, GA Micro Area",65755.0,,-555555555.0,*****,27600
+27620,"Jefferson City, MO Metro Area",151157.0,,-555555555.0,*****,27620
+27660,"Jennings, LA Micro Area",31467.0,,-555555555.0,*****,27660
+27700,"Jesup, GA Micro Area",29767.0,,-555555555.0,*****,27700
+27740,"Johnson City, TN Metro Area",201226.0,,-555555555.0,*****,27740
+27780,"Johnstown, PA Metro Area",134550.0,,-555555555.0,*****,27780
+27860,"Jonesboro, AR Metro Area",129755.0,,-555555555.0,*****,27860
+27900,"Joplin, MO Metro Area",177440.0,,-555555555.0,*****,27900
+27920,"Junction City, KS Micro Area",34895.0,,-555555555.0,*****,27920
+27940,"Juneau, AK Micro Area",32330.0,,-555555555.0,*****,27940
+27980,"Kahului-Wailuku-Lahaina, HI Metro Area",165356.0,,-555555555.0,*****,27980
+28020,"Kalamazoo-Portage, MI Metro Area",336845.0,,-555555555.0,*****,28020
+28060,"Kalispell, MT Micro Area",98082.0,,-555555555.0,*****,28060
+28100,"Kankakee, IL Metro Area",111061.0,,-555555555.0,*****,28100
+28140,"Kansas City, MO-KS Metro Area",2106632.0,,-555555555.0,*****,28140
+28180,"Kapaa, HI Micro Area",71377.0,,-555555555.0,*****,28180
+28260,"Kearney, NE Micro Area",55582.0,,-555555555.0,*****,28260
+28300,"Keene, NH Micro Area",76263.0,,-555555555.0,*****,28300
+28340,"Kendallville, IN Micro Area",47451.0,,-555555555.0,*****,28340
+28380,"Kennett, MO Micro Area",30428.0,,-555555555.0,*****,28380
+28420,"Kennewick-Richland, WA Metro Area",284828.0,,-555555555.0,*****,28420
+28500,"Kerrville, TX Micro Area",51365.0,,-555555555.0,*****,28500
+28540,"Ketchikan, AK Micro Area",13804.0,,-555555555.0,*****,28540
+28580,"Key West, FL Micro Area",76325.0,,-555555555.0,*****,28580
+28620,"Kill Devil Hills, NC Micro Area",39860.0,,-555555555.0,*****,28620
+28660,"Killeen-Temple, TX Metro Area",438265.0,,-555555555.0,*****,28660
+28700,"Kingsport-Bristol-Bristol, TN-VA Metro Area",306394.0,,-555555555.0,*****,28700
+28740,"Kingston, NY Metro Area",179303.0,,-555555555.0,*****,28740
+28820,"Kinston, NC Micro Area",57227.0,,-555555555.0,*****,28820
+28860,"Kirksville, MO Micro Area",29827.0,,-555555555.0,*****,28860
+28900,"Klamath Falls, OR Micro Area",66310.0,,-555555555.0,*****,28900
+28940,"Knoxville, TN Metro Area",868499.0,,-555555555.0,*****,28940
+29020,"Kokomo, IN Metro Area",82387.0,,-555555555.0,*****,29020
+29060,"Laconia, NH Micro Area",60640.0,,-555555555.0,*****,29060
+29100,"La Crosse-Onalaska, WI-MN Metro Area",136513.0,,-555555555.0,*****,29100
+29180,"Lafayette, LA Metro Area",488969.0,,-555555555.0,*****,29180
+29200,"Lafayette-West Lafayette, IN Metro Area",217955.0,,-555555555.0,*****,29200
+29260,"La Grande, OR Micro Area",26028.0,,-555555555.0,*****,29260
+29300,"LaGrange, GA Micro Area",69774.0,,-555555555.0,*****,29300
+29340,"Lake Charles, LA Metro Area",207050.0,,-555555555.0,*****,29340
+29380,"Lake City, FL Micro Area",69105.0,,-555555555.0,*****,29380
+29420,"Lake Havasu City-Kingman, AZ Metro Area",206064.0,,-555555555.0,*****,29420
+29460,"Lakeland-Winter Haven, FL Metro Area",668671.0,,-555555555.0,*****,29460
+29500,"Lamesa, TX Micro Area",12964.0,,-555555555.0,*****,29500
+29540,"Lancaster, PA Metro Area",538347.0,,-555555555.0,*****,29540
+29620,"Lansing-East Lansing, MI Metro Area",476615.0,,-555555555.0,*****,29620
+29660,"Laramie, WY Micro Area",38102.0,,-555555555.0,*****,29660
+29700,"Laredo, TX Metro Area",272053.0,,-555555555.0,*****,29700
+29740,"Las Cruces, NM Metro Area",215338.0,,-555555555.0,*****,29740
+29780,"Las Vegas, NM Micro Area",28034.0,,-555555555.0,*****,29780
+29820,"Las Vegas-Henderson-Paradise, NV Metro Area",2141574.0,,-555555555.0,*****,29820
+29860,"Laurel, MS Micro Area",84983.0,,-555555555.0,*****,29860
+29900,"Laurinburg, NC Micro Area",35262.0,,-555555555.0,*****,29900
+29940,"Lawrence, KS Metro Area",119319.0,,-555555555.0,*****,29940
+29980,"Lawrenceburg, TN Micro Area",42937.0,,-555555555.0,*****,29980
+30020,"Lawton, OK Metro Area",128490.0,,-555555555.0,*****,30020
+30060,"Lebanon, MO Micro Area",35507.0,,-555555555.0,*****,30060
+30140,"Lebanon, PA Metro Area",138674.0,,-555555555.0,*****,30140
+30220,"Levelland, TX Micro Area",23162.0,,-555555555.0,*****,30220
+30260,"Lewisburg, PA Micro Area",45114.0,,-555555555.0,*****,30260
+30280,"Lewisburg, TN Micro Area",32269.0,,-555555555.0,*****,30280
+30300,"Lewiston, ID-WA Metro Area",62492.0,,-555555555.0,*****,30300
+30340,"Lewiston-Auburn, ME Metro Area",107444.0,,-555555555.0,*****,30340
+30380,"Lewistown, PA Micro Area",46362.0,,-555555555.0,*****,30380
+30420,"Lexington, NE Micro Area",25819.0,,-555555555.0,*****,30420
+30460,"Lexington-Fayette, KY Metro Area",506786.0,,-555555555.0,*****,30460
+30580,"Liberal, KS Micro Area",22692.0,,-555555555.0,*****,30580
+30620,"Lima, OH Metro Area",103642.0,,-555555555.0,*****,30620
+30660,"Lincoln, IL Micro Area",29207.0,,-555555555.0,*****,30660
+30700,"Lincoln, NE Metro Area",327221.0,,-555555555.0,*****,30700
+30780,"Little Rock-North Little Rock-Conway, AR Metro Area",734502.0,,-555555555.0,*****,30780
+30820,"Lock Haven, PA Micro Area",39074.0,,-555555555.0,*****,30820
+30860,"Logan, UT-ID Metro Area",135615.0,,-555555555.0,*****,30860
+30880,"Logan, WV Micro Area",33801.0,,-555555555.0,*****,30880
+30900,"Logansport, IN Micro Area",38084.0,,-555555555.0,*****,30900
+30940,"London, KY Micro Area",127736.0,,-555555555.0,*****,30940
+30980,"Longview, TX Metro Area",217858.0,,-555555555.0,*****,30980
+31020,"Longview, WA Metro Area",105112.0,,-555555555.0,*****,31020
+31060,"Los Alamos, NM Micro Area",18356.0,,-555555555.0,*****,31060
+31080,"Los Angeles-Long Beach-Anaheim, CA Metro Area",13262234.0,,-555555555.0,*****,31080
+31140,"Louisville/Jefferson County, KY-IN Metro Area",1285270.0,,-555555555.0,*****,31140
+31180,"Lubbock, TX Metro Area",313123.0,,-555555555.0,*****,31180
+31220,"Ludington, MI Micro Area",28884.0,,-555555555.0,*****,31220
+31260,"Lufkin, TX Micro Area",87607.0,,-555555555.0,*****,31260
+31300,"Lumberton, NC Micro Area",133442.0,,-555555555.0,*****,31300
+31340,"Lynchburg, VA Metro Area",260668.0,,-555555555.0,*****,31340
+31380,"Macomb, IL Micro Area",30875.0,,-555555555.0,*****,31380
+31420,"Macon-Bibb County, GA Metro Area",229676.0,,-555555555.0,*****,31420
+31460,"Madera, CA Metro Area",155013.0,,-555555555.0,*****,31460
+31500,"Madison, IN Micro Area",32237.0,,-555555555.0,*****,31500
+31540,"Madison, WI Metro Area",647281.0,,-555555555.0,*****,31540
+31580,"Madisonville, KY Micro Area",45664.0,,-555555555.0,*****,31580
+31620,"Magnolia, AR Micro Area",23892.0,,-555555555.0,*****,31620
+31660,"Malone, NY Micro Area",50692.0,,-555555555.0,*****,31660
+31680,"Malvern, AR Micro Area",33520.0,,-555555555.0,*****,31680
+31700,"Manchester-Nashua, NH Metro Area",411087.0,,-555555555.0,*****,31700
+31740,"Manhattan, KS Metro Area",98841.0,,-555555555.0,*****,31740
+31820,"Manitowoc, WI Micro Area",79407.0,,-555555555.0,*****,31820
+31860,"Mankato-North Mankato, MN Metro Area",100105.0,,-555555555.0,*****,31860
+31900,"Mansfield, OH Metro Area",121324.0,,-555555555.0,*****,31900
+31930,"Marietta, OH Micro Area",60671.0,,-555555555.0,*****,31930
+31940,"Marinette, WI-MI Micro Area",63771.0,,-555555555.0,*****,31940
+31980,"Marion, IN Micro Area",66944.0,,-555555555.0,*****,31980
+32000,"Marion, NC Micro Area",45109.0,,-555555555.0,*****,32000
+32020,"Marion, OH Micro Area",65344.0,,-555555555.0,*****,32020
+32100,"Marquette, MI Micro Area",66939.0,,-555555555.0,*****,32100
+32140,"Marshall, MN Micro Area",25839.0,,-555555555.0,*****,32140
+32180,"Marshall, MO Micro Area",23102.0,,-555555555.0,*****,32180
+32220,"Marshall, TX Micro Area",66645.0,,-555555555.0,*****,32220
+32260,"Marshalltown, IA Micro Area",40271.0,,-555555555.0,*****,32260
+32280,"Martin, TN Micro Area",33626.0,,-555555555.0,*****,32280
+32300,"Martinsville, VA Micro Area",64689.0,,-555555555.0,*****,32300
+32340,"Maryville, MO Micro Area",22547.0,,-555555555.0,*****,32340
+32380,"Mason City, IA Micro Area",50473.0,,-555555555.0,*****,32380
+32420,"Mayag�ez, PR Metro Area",93435.0,,-555555555.0,*****,32420
+32460,"Mayfield, KY Micro Area",37294.0,,-555555555.0,*****,32460
+32500,"Maysville, KY Micro Area",17153.0,,-555555555.0,*****,32500
+32540,"McAlester, OK Micro Area",44382.0,,-555555555.0,*****,32540
+32580,"McAllen-Edinburg-Mission, TX Metro Area",849389.0,,-555555555.0,*****,32580
+32620,"McComb, MS Micro Area",52205.0,,-555555555.0,*****,32620
+32660,"McMinnville, TN Micro Area",40454.0,,-555555555.0,*****,32660
+32700,"McPherson, KS Micro Area",28630.0,,-555555555.0,*****,32700
+32740,"Meadville, PA Micro Area",86164.0,,-555555555.0,*****,32740
+32780,"Medford, OR Metro Area",214267.0,,-555555555.0,*****,32780
+32820,"Memphis, TN-MS-AR Metro Area",1345991.0,,-555555555.0,*****,32820
+32860,"Menomonie, WI Micro Area",44498.0,,-555555555.0,*****,32860
+32900,"Merced, CA Metro Area",269075.0,,-555555555.0,*****,32900
+32940,"Meridian, MS Micro Area",103358.0,,-555555555.0,*****,32940
+32980,"Merrill, WI Micro Area",27848.0,,-555555555.0,*****,32980
+33020,"Mexico, MO Micro Area",25735.0,,-555555555.0,*****,33020
+33060,"Miami, OK Micro Area",31566.0,,-555555555.0,*****,33060
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",6070944.0,,-555555555.0,*****,33100
+33140,"Michigan City-La Porte, IN Metro Area",110552.0,,-555555555.0,*****,33140
+33180,"Middlesborough, KY Micro Area",27188.0,,-555555555.0,*****,33180
+33220,"Midland, MI Metro Area",83389.0,,-555555555.0,*****,33220
+33260,"Midland, TX Metro Area",169808.0,,-555555555.0,*****,33260
+33300,"Milledgeville, GA Micro Area",53821.0,,-555555555.0,*****,33300
+33340,"Milwaukee-Waukesha-West Allis, WI Metro Area",1575907.0,,-555555555.0,*****,33340
+33420,"Mineral Wells, TX Micro Area",28317.0,,-555555555.0,*****,33420
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",3557528.0,,-555555555.0,*****,33460
+33500,"Minot, ND Micro Area",77456.0,,-555555555.0,*****,33500
+33540,"Missoula, MT Metro Area",115983.0,,-555555555.0,*****,33540
+33580,"Mitchell, SD Micro Area",23298.0,,-555555555.0,*****,33580
+33620,"Moberly, MO Micro Area",24945.0,,-555555555.0,*****,33620
+33660,"Mobile, AL Metro Area",414659.0,,-555555555.0,*****,33660
+33700,"Modesto, CA Metro Area",539301.0,,-555555555.0,*****,33700
+33740,"Monroe, LA Metro Area",178550.0,,-555555555.0,*****,33740
+33780,"Monroe, MI Metro Area",149699.0,,-555555555.0,*****,33780
+33860,"Montgomery, AL Metro Area",373589.0,,-555555555.0,*****,33860
+33940,"Montrose, CO Micro Area",41268.0,,-555555555.0,*****,33940
+33980,"Morehead City, NC Micro Area",68920.0,,-555555555.0,*****,33980
+34020,"Morgan City, LA Micro Area",51734.0,,-555555555.0,*****,34020
+34060,"Morgantown, WV Metro Area",139089.0,,-555555555.0,*****,34060
+34100,"Morristown, TN Metro Area",116987.0,,-555555555.0,*****,34100
+34140,"Moscow, ID Micro Area",39239.0,,-555555555.0,*****,34140
+34180,"Moses Lake, WA Micro Area",94860.0,,-555555555.0,*****,34180
+34220,"Moultrie, GA Micro Area",45606.0,,-555555555.0,*****,34220
+34260,"Mountain Home, AR Micro Area",41219.0,,-555555555.0,*****,34260
+34300,"Mountain Home, ID Micro Area",26433.0,,-555555555.0,*****,34300
+34340,"Mount Airy, NC Micro Area",72099.0,,-555555555.0,*****,34340
+34380,"Mount Pleasant, MI Micro Area",70775.0,,-555555555.0,*****,34380
+34420,"Mount Pleasant, TX Micro Area",32730.0,,-555555555.0,*****,34420
+34460,"Mount Sterling, KY Micro Area",46432.0,,-555555555.0,*****,34460
+34500,"Mount Vernon, IL Micro Area",38169.0,,-555555555.0,*****,34500
+34540,"Mount Vernon, OH Micro Area",61215.0,,-555555555.0,*****,34540
+34580,"Mount Vernon-Anacortes, WA Metro Area",123907.0,,-555555555.0,*****,34580
+34620,"Muncie, IN Metro Area",115616.0,,-555555555.0,*****,34620
+34660,"Murray, KY Micro Area",38776.0,,-555555555.0,*****,34660
+34700,"Muscatine, IA Micro Area",42950.0,,-555555555.0,*****,34700
+34740,"Muskegon, MI Metro Area",173043.0,,-555555555.0,*****,34740
+34780,"Muskogee, OK Micro Area",69084.0,,-555555555.0,*****,34780
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",447775.0,,-555555555.0,*****,34820
+34860,"Nacogdoches, TX Micro Area",65558.0,,-555555555.0,*****,34860
+34900,"Napa, CA Metro Area",140530.0,,-555555555.0,*****,34900
+34940,"Naples-Immokalee-Marco Island, FL Metro Area",363922.0,,-555555555.0,*****,34940
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1864138.0,,-555555555.0,*****,34980
+35020,"Natchez, MS-LA Micro Area",51568.0,,-555555555.0,*****,35020
+35060,"Natchitoches, LA Micro Area",38963.0,,-555555555.0,*****,35060
+35100,"New Bern, NC Metro Area",125519.0,,-555555555.0,*****,35100
+35140,"Newberry, SC Micro Area",38068.0,,-555555555.0,*****,35140
+35220,"New Castle, IN Micro Area",48483.0,,-555555555.0,*****,35220
+35260,"New Castle, PA Micro Area",87382.0,,-555555555.0,*****,35260
+35300,"New Haven-Milford, CT Metro Area",859339.0,,-555555555.0,*****,35300
+35380,"New Orleans-Metairie, LA Metro Area",1263635.0,,-555555555.0,*****,35380
+35420,"New Philadelphia-Dover, OH Micro Area",92526.0,,-555555555.0,*****,35420
+35440,"Newport, OR Micro Area",47881.0,,-555555555.0,*****,35440
+35460,"Newport, TN Micro Area",35336.0,,-555555555.0,*****,35460
+35500,"Newton, IA Micro Area",36891.0,,-555555555.0,*****,35500
+35580,"New Ulm, MN Micro Area",25211.0,,-555555555.0,*****,35580
+35620,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",19990592.0,,-555555555.0,*****,35620
+35660,"Niles-Benton Harbor, MI Metro Area",154807.0,,-555555555.0,*****,35660
+35700,"Nogales, AZ Micro Area",46584.0,,-555555555.0,*****,35700
+35740,"Norfolk, NE Micro Area",48313.0,,-555555555.0,*****,35740
+35840,"North Port-Sarasota-Bradenton, FL Metro Area",785997.0,,-555555555.0,*****,35840
+35860,"North Vernon, IN Micro Area",27727.0,,-555555555.0,*****,35860
+35900,"North Wilkesboro, NC Micro Area",68460.0,,-555555555.0,*****,35900
+35940,"Norwalk, OH Micro Area",58457.0,,-555555555.0,*****,35940
+35980,"Norwich-New London, CT Metro Area",268881.0,,-555555555.0,*****,35980
+36020,"Oak Harbor, WA Micro Area",81636.0,,-555555555.0,*****,36020
+36100,"Ocala, FL Metro Area",348371.0,,-555555555.0,*****,36100
+36140,"Ocean City, NJ Metro Area",93705.0,,-555555555.0,*****,36140
+36220,"Odessa, TX Metro Area",158342.0,,-555555555.0,*****,36220
+36260,"Ogden-Clearfield, UT Metro Area",652744.0,,-555555555.0,*****,36260
+36300,"Ogdensburg-Massena, NY Micro Area",109558.0,,-555555555.0,*****,36300
+36340,"Oil City, PA Micro Area",52376.0,,-555555555.0,*****,36340
+36380,"Okeechobee, FL Micro Area",40572.0,,-555555555.0,*****,36380
+36420,"Oklahoma City, OK Metro Area",1369759.0,,-555555555.0,*****,36420
+36460,"Olean, NY Micro Area",77686.0,,-555555555.0,*****,36460
+36500,"Olympia-Tumwater, WA Metro Area",274684.0,,-555555555.0,*****,36500
+36540,"Omaha-Council Bluffs, NE-IA Metro Area",922891.0,,-555555555.0,*****,36540
+36580,"Oneonta, NY Micro Area",60244.0,,-555555555.0,*****,36580
+36620,"Ontario, OR-ID Micro Area",53472.0,,-555555555.0,*****,36620
+36660,"Opelousas, LA Micro Area",83449.0,,-555555555.0,*****,36660
+36700,"Orangeburg, SC Micro Area",88454.0,,-555555555.0,*****,36700
+36740,"Orlando-Kissimmee-Sanford, FL Metro Area",2450261.0,,-555555555.0,*****,36740
+36780,"Oshkosh-Neenah, WI Metro Area",169926.0,,-555555555.0,*****,36780
+36820,"Oskaloosa, IA Micro Area",22208.0,,-555555555.0,*****,36820
+36830,"Othello, WA Micro Area",19452.0,,-555555555.0,*****,36830
+36840,"Ottawa, KS Micro Area",25563.0,,-555555555.0,*****,36840
+36860,"Ottawa-Peru, IL Micro Area",149528.0,,-555555555.0,*****,36860
+36900,"Ottumwa, IA Micro Area",44200.0,,-555555555.0,*****,36900
+36940,"Owatonna, MN Micro Area",36676.0,,-555555555.0,*****,36940
+36980,"Owensboro, KY Metro Area",117987.0,,-555555555.0,*****,36980
+37020,"Owosso, MI Micro Area",68493.0,,-555555555.0,*****,37020
+37060,"Oxford, MS Micro Area",53459.0,,-555555555.0,*****,37060
+37080,"Oxford, NC Micro Area",58874.0,,-555555555.0,*****,37080
+37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",848112.0,,-555555555.0,*****,37100
+37120,"Ozark, AL Micro Area",49255.0,,-555555555.0,*****,37120
+37140,"Paducah, KY-IL Micro Area",97067.0,,-555555555.0,*****,37140
+37220,"Pahrump, NV Micro Area",43705.0,,-555555555.0,*****,37220
+37260,"Palatka, FL Micro Area",72766.0,,-555555555.0,*****,37260
+37300,"Palestine, TX Micro Area",57863.0,,-555555555.0,*****,37300
+37340,"Palm Bay-Melbourne-Titusville, FL Metro Area",576808.0,,-555555555.0,*****,37340
+37420,"Pampa, TX Micro Area",22685.0,,-555555555.0,*****,37420
+37460,"Panama City, FL Metro Area",198537.0,,-555555555.0,*****,37460
+37500,"Paragould, AR Micro Area",44623.0,,-555555555.0,*****,37500
+37540,"Paris, TN Micro Area",32279.0,,-555555555.0,*****,37540
+37580,"Paris, TX Micro Area",49532.0,,-555555555.0,*****,37580
+37620,"Parkersburg-Vienna, WV Metro Area",91353.0,,-555555555.0,*****,37620
+37660,"Parsons, KS Micro Area",20367.0,,-555555555.0,*****,37660
+37740,"Payson, AZ Micro Area",53400.0,,-555555555.0,*****,37740
+37780,"Pecos, TX Micro Area",15125.0,,-555555555.0,*****,37780
+37800,"Pella, IA Micro Area",33207.0,,-555555555.0,*****,37800
+37860,"Pensacola-Ferry Pass-Brent, FL Metro Area",481964.0,,-555555555.0,*****,37860
+37900,"Peoria, IL Metro Area",374426.0,,-555555555.0,*****,37900
+37940,"Peru, IN Micro Area",35901.0,,-555555555.0,*****,37940
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",6069448.0,,-555555555.0,*****,37980
+38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",4673634.0,,-555555555.0,*****,38060
+38100,"Picayune, MS Micro Area",55149.0,,-555555555.0,*****,38100
+38220,"Pine Bluff, AR Metro Area",92345.0,,-555555555.0,*****,38220
+38240,"Pinehurst-Southern Pines, NC Micro Area",95629.0,,-555555555.0,*****,38240
+38260,"Pittsburg, KS Micro Area",39108.0,,-555555555.0,*****,38260
+38300,"Pittsburgh, PA Metro Area",2339941.0,,-555555555.0,*****,38300
+38340,"Pittsfield, MA Metro Area",127328.0,,-555555555.0,*****,38340
+38380,"Plainview, TX Micro Area",34113.0,,-555555555.0,*****,38380
+38420,"Platteville, WI Micro Area",51828.0,,-555555555.0,*****,38420
+38460,"Plattsburgh, NY Micro Area",80794.0,,-555555555.0,*****,38460
+38500,"Plymouth, IN Micro Area",46595.0,,-555555555.0,*****,38500
+38540,"Pocatello, ID Metro Area",85065.0,,-555555555.0,*****,38540
+38580,"Point Pleasant, WV-OH Micro Area",57134.0,,-555555555.0,*****,38580
+38620,"Ponca City, OK Micro Area",44880.0,,-555555555.0,*****,38620
+38660,"Ponce, PR Metro Area",307093.0,,-555555555.0,*****,38660
+38700,"Pontiac, IL Micro Area",36324.0,,-555555555.0,*****,38700
+38740,"Poplar Bluff, MO Micro Area",42733.0,,-555555555.0,*****,38740
+38780,"Portales, NM Micro Area",19117.0,,-555555555.0,*****,38780
+38820,"Port Angeles, WA Micro Area",74487.0,,-555555555.0,*****,38820
+38840,"Port Clinton, OH Micro Area",40709.0,,-555555555.0,*****,38840
+38860,"Portland-South Portland, ME Metro Area",529323.0,,-555555555.0,*****,38860
+38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2417931.0,,-555555555.0,*****,38900
+38920,"Port Lavaca, TX Micro Area",21807.0,,-555555555.0,*****,38920
+38940,"Port St. Lucie, FL Metro Area",463172.0,,-555555555.0,*****,38940
+39020,"Portsmouth, OH Micro Area",76377.0,,-555555555.0,*****,39020
+39060,"Pottsville, PA Micro Area",143555.0,,-555555555.0,*****,39060
+39140,"Prescott, AZ Metro Area",224645.0,,-555555555.0,*****,39140
+39220,"Price, UT Micro Area",20356.0,,-555555555.0,*****,39220
+39260,"Prineville, OR Micro Area",22337.0,,-555555555.0,*****,39260
+39300,"Providence-Warwick, RI-MA Metro Area",1615516.0,,-555555555.0,*****,39300
+39340,"Provo-Orem, UT Metro Area",601388.0,,-555555555.0,*****,39340
+39380,"Pueblo, CO Metro Area",164685.0,,-555555555.0,*****,39380
+39420,"Pullman, WA Micro Area",48593.0,,-555555555.0,*****,39420
+39460,"Punta Gorda, FL Metro Area",176954.0,,-555555555.0,*****,39460
+39500,"Quincy, IL-MO Micro Area",76454.0,,-555555555.0,*****,39500
+39540,"Racine, WI Metro Area",195398.0,,-555555555.0,*****,39540
+39580,"Raleigh, NC Metro Area",1302632.0,,-555555555.0,*****,39580
+39660,"Rapid City, SD Metro Area",145291.0,,-555555555.0,*****,39660
+39700,"Raymondville, TX Micro Area",21754.0,,-555555555.0,*****,39700
+39740,"Reading, PA Metro Area",416642.0,,-555555555.0,*****,39740
+39780,"Red Bluff, CA Micro Area",63373.0,,-555555555.0,*****,39780
+39820,"Redding, CA Metro Area",179085.0,,-555555555.0,*****,39820
+39860,"Red Wing, MN Micro Area",46217.0,,-555555555.0,*****,39860
+39900,"Reno, NV Metro Area",454427.0,,-555555555.0,*****,39900
+39940,"Rexburg, ID Micro Area",51670.0,,-555555555.0,*****,39940
+39980,"Richmond, IN Micro Area",66613.0,,-555555555.0,*****,39980
+40060,"Richmond, VA Metro Area",1281530.0,,-555555555.0,*****,40060
+40080,"Richmond-Berea, KY Micro Area",106527.0,,-555555555.0,*****,40080
+40100,"Rio Grande City, TX Micro Area",63894.0,,-555555555.0,*****,40100
+40140,"Riverside-San Bernardino-Ontario, CA Metro Area",4518699.0,,-555555555.0,*****,40140
+40180,"Riverton, WY Micro Area",40076.0,,-555555555.0,*****,40180
+40220,"Roanoke, VA Metro Area",313291.0,,-555555555.0,*****,40220
+40260,"Roanoke Rapids, NC Micro Area",71923.0,,-555555555.0,*****,40260
+40300,"Rochelle, IL Micro Area",51328.0,,-555555555.0,*****,40300
+40340,"Rochester, MN Metro Area",216035.0,,-555555555.0,*****,40340
+40380,"Rochester, NY Metro Area",1074667.0,,-555555555.0,*****,40380
+40420,"Rockford, IL Metro Area",339780.0,,-555555555.0,*****,40420
+40460,"Rockingham, NC Micro Area",45189.0,,-555555555.0,*****,40460
+40540,"Rock Springs, WY Micro Area",44117.0,,-555555555.0,*****,40540
+40580,"Rocky Mount, NC Metro Area",147335.0,,-555555555.0,*****,40580
+40620,"Rolla, MO Micro Area",44789.0,,-555555555.0,*****,40620
+40660,"Rome, GA Metro Area",96824.0,,-555555555.0,*****,40660
+40700,"Roseburg, OR Micro Area",108323.0,,-555555555.0,*****,40700
+40740,"Roswell, NM Micro Area",65459.0,,-555555555.0,*****,40740
+40760,"Ruidoso, NM Micro Area",19482.0,,-555555555.0,*****,40760
+40780,"Russellville, AR Micro Area",85217.0,,-555555555.0,*****,40780
+40820,"Ruston, LA Micro Area",47356.0,,-555555555.0,*****,40820
+40860,"Rutland, VT Micro Area",59273.0,,-555555555.0,*****,40860
+40900,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",2291738.0,,-555555555.0,*****,40900
+40940,"Safford, AZ Micro Area",37879.0,,-555555555.0,*****,40940
+40980,"Saginaw, MI Metro Area",192778.0,,-555555555.0,*****,40980
+41060,"St. Cloud, MN Metro Area",196598.0,,-555555555.0,*****,41060
+41100,"St. George, UT Metro Area",160537.0,,-555555555.0,*****,41100
+41140,"St. Joseph, MO-KS Metro Area",126779.0,,-555555555.0,*****,41140
+41180,"St. Louis, MO-IL Metro Area",2805551.0,,-555555555.0,*****,41180
+41220,"St. Marys, GA Micro Area",52714.0,,-555555555.0,*****,41220
+41260,"St. Marys, PA Micro Area",30608.0,,-555555555.0,*****,41260
+41400,"Salem, OH Micro Area",104003.0,,-555555555.0,*****,41400
+41420,"Salem, OR Metro Area",416980.0,,-555555555.0,*****,41420
+41460,"Salina, KS Micro Area",60879.0,,-555555555.0,*****,41460
+41500,"Salinas, CA Metro Area",433212.0,,-555555555.0,*****,41500
+41540,"Salisbury, MD-DE Metro Area",399013.0,,-555555555.0,*****,41540
+41620,"Salt Lake City, UT Metro Area",1185990.0,,-555555555.0,*****,41620
+41700,"San Antonio-New Braunfels, TX Metro Area",2426204.0,,-555555555.0,*****,41700
+41740,"San Diego-Carlsbad, CA Metro Area",3302833.0,,-555555555.0,*****,41740
+41760,"Sandpoint, ID Micro Area",42711.0,,-555555555.0,*****,41760
+41780,"Sandusky, OH Micro Area",75136.0,,-555555555.0,*****,41780
+41820,"Sanford, NC Micro Area",60125.0,,-555555555.0,*****,41820
+41860,"San Francisco-Oakland-Hayward, CA Metro Area",4673221.0,,-555555555.0,*****,41860
+41900,"San Germ�n, PR Metro Area",127488.0,,-555555555.0,*****,41900
+41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",1981616.0,,-555555555.0,*****,41940
+41980,"San Juan-Carolina-Caguas, PR Metro Area",2142392.0,,-555555555.0,*****,41980
+42020,"San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area",281455.0,,-555555555.0,*****,42020
+42100,"Santa Cruz-Watsonville, CA Metro Area",273765.0,,-555555555.0,*****,42100
+42140,"Santa Fe, NM Metro Area",148917.0,,-555555555.0,*****,42140
+42180,"Santa Isabel, PR Micro Area",22066.0,,-555555555.0,*****,42180
+42200,"Santa Maria-Santa Barbara, CA Metro Area",443738.0,,-555555555.0,*****,42200
+42220,"Santa Rosa, CA Metro Area",501317.0,,-555555555.0,*****,42220
+42300,"Sault Ste. Marie, MI Micro Area",37834.0,,-555555555.0,*****,42300
+42340,"Savannah, GA Metro Area",381623.0,,-555555555.0,*****,42340
+42380,"Sayre, PA Micro Area",61304.0,,-555555555.0,*****,42380
+42420,"Scottsbluff, NE Micro Area",38217.0,,-555555555.0,*****,42420
+42460,"Scottsboro, AL Micro Area",52094.0,,-555555555.0,*****,42460
+42540,"Scranton--Wilkes-Barre--Hazleton, PA Metro Area",556926.0,,-555555555.0,*****,42540
+42620,"Searcy, AR Micro Area",78804.0,,-555555555.0,*****,42620
+42660,"Seattle-Tacoma-Bellevue, WA Metro Area",3809717.0,,-555555555.0,*****,42660
+42680,"Sebastian-Vero Beach, FL Metro Area",150984.0,,-555555555.0,*****,42680
+42700,"Sebring, FL Metro Area",102101.0,,-555555555.0,*****,42700
+42740,"Sedalia, MO Micro Area",42371.0,,-555555555.0,*****,42740
+42780,"Selinsgrove, PA Micro Area",40466.0,,-555555555.0,*****,42780
+42820,"Selma, AL Micro Area",40029.0,,-555555555.0,*****,42820
+42860,"Seneca, SC Micro Area",76696.0,,-555555555.0,*****,42860
+42900,"Seneca Falls, NY Micro Area",34612.0,,-555555555.0,*****,42900
+42940,"Sevierville, TN Micro Area",96287.0,,-555555555.0,*****,42940
+42980,"Seymour, IN Micro Area",43938.0,,-555555555.0,*****,42980
+43020,"Shawano, WI Micro Area",45588.0,,-555555555.0,*****,43020
+43060,"Shawnee, OK Micro Area",72000.0,,-555555555.0,*****,43060
+43100,"Sheboygan, WI Metro Area",115205.0,,-555555555.0,*****,43100
+43140,"Shelby, NC Micro Area",97159.0,,-555555555.0,*****,43140
+43180,"Shelbyville, TN Micro Area",47558.0,,-555555555.0,*****,43180
+43220,"Shelton, WA Micro Area",62627.0,,-555555555.0,*****,43220
+43260,"Sheridan, WY Micro Area",30012.0,,-555555555.0,*****,43260
+43300,"Sherman-Denison, TX Metro Area",128560.0,,-555555555.0,*****,43300
+43320,"Show Low, AZ Micro Area",108705.0,,-555555555.0,*****,43320
+43340,"Shreveport-Bossier City, LA Metro Area",441339.0,,-555555555.0,*****,43340
+43380,"Sidney, OH Micro Area",48797.0,,-555555555.0,*****,43380
+43420,"Sierra Vista-Douglas, AZ Metro Area",126279.0,,-555555555.0,*****,43420
+43460,"Sikeston, MO Micro Area",38729.0,,-555555555.0,*****,43460
+43500,"Silver City, NM Micro Area",28061.0,,-555555555.0,*****,43500
+43580,"Sioux City, IA-NE-SD Metro Area",168677.0,,-555555555.0,*****,43580
+43620,"Sioux Falls, SD Metro Area",255438.0,,-555555555.0,*****,43620
+43660,"Snyder, TX Micro Area",17239.0,,-555555555.0,*****,43660
+43700,"Somerset, KY Micro Area",64145.0,,-555555555.0,*****,43700
+43740,"Somerset, PA Micro Area",74949.0,,-555555555.0,*****,43740
+43760,"Sonora, CA Micro Area",53932.0,,-555555555.0,*****,43760
+43780,"South Bend-Mishawaka, IN-MI Metro Area",320700.0,,-555555555.0,*****,43780
+43900,"Spartanburg, SC Metro Area",329839.0,,-555555555.0,*****,43900
+43940,"Spearfish, SD Micro Area",25234.0,,-555555555.0,*****,43940
+43980,"Spencer, IA Micro Area",16313.0,,-555555555.0,*****,43980
+44020,"Spirit Lake, IA Micro Area",17056.0,,-555555555.0,*****,44020
+44060,"Spokane-Spokane Valley, WA Metro Area",555308.0,,-555555555.0,*****,44060
+44100,"Springfield, IL Metro Area",210028.0,,-555555555.0,*****,44100
+44140,"Springfield, MA Metro Area",630275.0,,-555555555.0,*****,44140
+44180,"Springfield, MO Metro Area",458834.0,,-555555555.0,*****,44180
+44220,"Springfield, OH Metro Area",135198.0,,-555555555.0,*****,44220
+44260,"Starkville, MS Micro Area",49481.0,,-555555555.0,*****,44260
+44300,"State College, PA Metro Area",161443.0,,-555555555.0,*****,44300
+44340,"Statesboro, GA Micro Area",74782.0,,-555555555.0,*****,44340
+44420,"Staunton-Waynesboro, VA Metro Area",121079.0,,-555555555.0,*****,44420
+44460,"Steamboat Springs, CO Micro Area",24874.0,,-555555555.0,*****,44460
+44500,"Stephenville, TX Micro Area",41482.0,,-555555555.0,*****,44500
+44540,"Sterling, CO Micro Area",21689.0,,-555555555.0,*****,44540
+44580,"Sterling, IL Micro Area",56396.0,,-555555555.0,*****,44580
+44620,"Stevens Point, WI Micro Area",70599.0,,-555555555.0,*****,44620
+44660,"Stillwater, OK Micro Area",81512.0,,-555555555.0,*****,44660
+44700,"Stockton-Lodi, CA Metro Area",732212.0,,-555555555.0,*****,44700
+44740,"Storm Lake, IA Micro Area",20260.0,,-555555555.0,*****,44740
+44780,"Sturgis, MI Micro Area",60897.0,,-555555555.0,*****,44780
+44860,"Sulphur Springs, TX Micro Area",36240.0,,-555555555.0,*****,44860
+44900,"Summerville, GA Micro Area",24817.0,,-555555555.0,*****,44900
+44920,"Summit Park, UT Micro Area",40511.0,,-555555555.0,*****,44920
+44940,"Sumter, SC Metro Area",106995.0,,-555555555.0,*****,44940
+44980,"Sunbury, PA Micro Area",92325.0,,-555555555.0,*****,44980
+45000,"Susanville, CA Micro Area",31185.0,,-555555555.0,*****,45000
+45020,"Sweetwater, TX Micro Area",14966.0,,-555555555.0,*****,45020
+45060,"Syracuse, NY Metro Area",654705.0,,-555555555.0,*****,45060
+45140,"Tahlequah, OK Micro Area",48599.0,,-555555555.0,*****,45140
+45180,"Talladega-Sylacauga, AL Micro Area",91420.0,,-555555555.0,*****,45180
+45220,"Tallahassee, FL Metro Area",380101.0,,-555555555.0,*****,45220
+45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",3030047.0,,-555555555.0,*****,45300
+45340,"Taos, NM Micro Area",32888.0,,-555555555.0,*****,45340
+45380,"Taylorville, IL Micro Area",33231.0,,-555555555.0,*****,45380
+45460,"Terre Haute, IN Metro Area",170313.0,,-555555555.0,*****,45460
+45500,"Texarkana, TX-AR Metro Area",150034.0,,-555555555.0,*****,45500
+45520,"The Dalles, OR Micro Area",25866.0,,-555555555.0,*****,45520
+45540,"The Villages, FL Metro Area",120999.0,,-555555555.0,*****,45540
+45580,"Thomaston, GA Micro Area",26216.0,,-555555555.0,*****,45580
+45620,"Thomasville, GA Micro Area",44730.0,,-555555555.0,*****,45620
+45660,"Tiffin, OH Micro Area",55475.0,,-555555555.0,*****,45660
+45700,"Tifton, GA Micro Area",40510.0,,-555555555.0,*****,45700
+45740,"Toccoa, GA Micro Area",25676.0,,-555555555.0,*****,45740
+45780,"Toledo, OH Metro Area",604620.0,,-555555555.0,*****,45780
+45820,"Topeka, KS Metro Area",233260.0,,-555555555.0,*****,45820
+45860,"Torrington, CT Micro Area",183031.0,,-555555555.0,*****,45860
+45900,"Traverse City, MI Micro Area",148400.0,,-555555555.0,*****,45900
+45940,"Trenton, NJ Metro Area",368762.0,,-555555555.0,*****,45940
+45980,"Troy, AL Micro Area",33403.0,,-555555555.0,*****,45980
+46020,"Truckee-Grass Valley, CA Micro Area",99092.0,,-555555555.0,*****,46020
+46060,"Tucson, AZ Metro Area",1019722.0,,-555555555.0,*****,46060
+46100,"Tullahoma-Manchester, TN Micro Area",102365.0,,-555555555.0,*****,46100
+46140,"Tulsa, OK Metro Area",985233.0,,-555555555.0,*****,46140
+46180,"Tupelo, MS Micro Area",139710.0,,-555555555.0,*****,46180
+46220,"Tuscaloosa, AL Metro Area",241398.0,,-555555555.0,*****,46220
+46300,"Twin Falls, ID Metro Area",107097.0,,-555555555.0,*****,46300
+46340,"Tyler, TX Metro Area",225015.0,,-555555555.0,*****,46340
+46380,"Ukiah, CA Micro Area",87422.0,,-555555555.0,*****,46380
+46460,"Union City, TN-KY Micro Area",36730.0,,-555555555.0,*****,46460
+46500,"Urbana, OH Micro Area",38864.0,,-555555555.0,*****,46500
+46520,"Urban Honolulu, HI Metro Area",987638.0,,-555555555.0,*****,46520
+46540,"Utica-Rome, NY Metro Area",293287.0,,-555555555.0,*****,46540
+46620,"Uvalde, TX Micro Area",27009.0,,-555555555.0,*****,46620
+46660,"Valdosta, GA Metro Area",144564.0,,-555555555.0,*****,46660
+46700,"Vallejo-Fairfield, CA Metro Area",438530.0,,-555555555.0,*****,46700
+46740,"Valley, AL Micro Area",33826.0,,-555555555.0,*****,46740
+46780,"Van Wert, OH Micro Area",28281.0,,-555555555.0,*****,46780
+46820,"Vermillion, SD Micro Area",13925.0,,-555555555.0,*****,46820
+46860,"Vernal, UT Micro Area",36323.0,,-555555555.0,*****,46860
+46900,"Vernon, TX Micro Area",12906.0,,-555555555.0,*****,46900
+46980,"Vicksburg, MS Micro Area",56195.0,,-555555555.0,*****,46980
+47020,"Victoria, TX Metro Area",99501.0,,-555555555.0,*****,47020
+47080,"Vidalia, GA Micro Area",36084.0,,-555555555.0,*****,47080
+47180,"Vincennes, IN Micro Area",37409.0,,-555555555.0,*****,47180
+47220,"Vineland-Bridgeton, NJ Metro Area",153400.0,,-555555555.0,*****,47220
+47240,"Vineyard Haven, MA Micro Area",17313.0,,-555555555.0,*****,47240
+47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",1722001.0,,-555555555.0,*****,47260
+47300,"Visalia-Porterville, CA Metro Area",460477.0,,-555555555.0,*****,47300
+47340,"Wabash, IN Micro Area",31631.0,,-555555555.0,*****,47340
+47380,"Waco, TX Metro Area",265728.0,,-555555555.0,*****,47380
+47420,"Wahpeton, ND-MN Micro Area",22631.0,,-555555555.0,*****,47420
+47460,"Walla Walla, WA Metro Area",64237.0,,-555555555.0,*****,47460
+47540,"Wapakoneta, OH Micro Area",45784.0,,-555555555.0,*****,47540
+47580,"Warner Robins, GA Metro Area",189943.0,,-555555555.0,*****,47580
+47620,"Warren, PA Micro Area",40035.0,,-555555555.0,*****,47620
+47660,"Warrensburg, MO Micro Area",53689.0,,-555555555.0,*****,47660
+47700,"Warsaw, IN Micro Area",78806.0,,-555555555.0,*****,47700
+47780,"Washington, IN Micro Area",32937.0,,-555555555.0,*****,47780
+47820,"Washington, NC Micro Area",47243.0,,-555555555.0,*****,47820
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",6138382.0,,-555555555.0,*****,47900
+47920,"Washington Court House, OH Micro Area",28645.0,,-555555555.0,*****,47920
+47940,"Waterloo-Cedar Falls, IA Metro Area",170132.0,,-555555555.0,*****,47940
+47980,"Watertown, SD Micro Area",27993.0,,-555555555.0,*****,47980
+48020,"Watertown-Fort Atkinson, WI Micro Area",84652.0,,-555555555.0,*****,48020
+48060,"Watertown-Fort Drum, NY Metro Area",114448.0,,-555555555.0,*****,48060
+48100,"Wauchula, FL Micro Area",27228.0,,-555555555.0,*****,48100
+48140,"Wausau, WI Metro Area",135264.0,,-555555555.0,*****,48140
+48180,"Waycross, GA Micro Area",54763.0,,-555555555.0,*****,48180
+48220,"Weatherford, OK Micro Area",29209.0,,-555555555.0,*****,48220
+48260,"Weirton-Steubenville, WV-OH Metro Area",119338.0,,-555555555.0,*****,48260
+48300,"Wenatchee, WA Metro Area",117128.0,,-555555555.0,*****,48300
+48460,"West Plains, MO Micro Area",40102.0,,-555555555.0,*****,48460
+48500,"West Point, MS Micro Area",19808.0,,-555555555.0,*****,48500
+48540,"Wheeling, WV-OH Metro Area",142664.0,,-555555555.0,*****,48540
+48580,"Whitewater-Elkhorn, WI Micro Area",103013.0,,-555555555.0,*****,48580
+48620,"Wichita, KS Metro Area",643765.0,,-555555555.0,*****,48620
+48660,"Wichita Falls, TX Metro Area",150994.0,,-555555555.0,*****,48660
+48700,"Williamsport, PA Metro Area",114859.0,,-555555555.0,*****,48700
+48780,"Williston, ND Micro Area",34061.0,,-555555555.0,*****,48780
+48820,"Willmar, MN Micro Area",42658.0,,-555555555.0,*****,48820
+48900,"Wilmington, NC Metro Area",283251.0,,-555555555.0,*****,48900
+48940,"Wilmington, OH Micro Area",41896.0,,-555555555.0,*****,48940
+48980,"Wilson, NC Micro Area",81336.0,,-555555555.0,*****,48980
+49020,"Winchester, VA-WV Metro Area",136305.0,,-555555555.0,*****,49020
+49080,"Winnemucca, NV Micro Area",16904.0,,-555555555.0,*****,49080
+49100,"Winona, MN Micro Area",50847.0,,-555555555.0,*****,49100
+49180,"Winston-Salem, NC Metro Area",661798.0,,-555555555.0,*****,49180
+49220,"Wisconsin Rapids-Marshfield, WI Micro Area",73274.0,,-555555555.0,*****,49220
+49260,"Woodward, OK Micro Area",20967.0,,-555555555.0,*****,49260
+49300,"Wooster, OH Micro Area",116208.0,,-555555555.0,*****,49300
+49340,"Worcester, MA-CT Metro Area",938818.0,,-555555555.0,*****,49340
+49380,"Worthington, MN Micro Area",21839.0,,-555555555.0,*****,49380
+49420,"Yakima, WA Metro Area",249325.0,,-555555555.0,*****,49420
+49460,"Yankton, SD Micro Area",22717.0,,-555555555.0,*****,49460
+49620,"York-Hanover, PA Metro Area",444014.0,,-555555555.0,*****,49620
+49660,"Youngstown-Warren-Boardman, OH-PA Metro Area",545488.0,,-555555555.0,*****,49660
+49700,"Yuba City, CA Metro Area",171365.0,,-555555555.0,*****,49700
+49740,"Yuma, AZ Metro Area",207829.0,,-555555555.0,*****,49740
+49780,"Zanesville, OH Micro Area",86076.0,,-555555555.0,*****,49780
+49820,"Zapata, TX Micro Area",14369.0,,-555555555.0,*****,49820
+28780,"Kingsville, TX Micro Area",32020.0,,181.0,,28780
+21640,"Eufaula, AL-GA Micro Area",28058.0,,152.0,,21640
+13900,"Bismarck, ND Metro Area",130531.0,,92.0,,13900
+25200,"Hailey, ID Micro Area",28201.0,,105.0,,25200
+35820,"North Platte, NE Micro Area",36773.0,,91.0,,35820
+41660,"San Angelo, TX Metro Area",118990.0,,153.0,,41660
+11100,"Amarillo, TX Metro Area",263412.0,,125.0,,11100
+13700,"Big Spring, TX Micro Area",38097.0,,146.0,,13700
+38180,"Pierre, SD Micro Area",21945.0,,104.0,,38180
+13740,"Billings, MT Metro Area",169086.0,,100.0,,13740
+21220,"Elko, NV Micro Area",54082.0,,167.0,,21220

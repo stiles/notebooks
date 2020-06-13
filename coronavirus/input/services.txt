@@ -1,1 +1,2 @@
-https://services1.arcgis.com/0MSEUqKaxRlEPj5g/ArcGIS/rest/services/COVID19_Counties_View/FeatureServer/0|esri_covid_counties|100
+https://services.arcgis.com/8ZpVMShClf8U8dae/arcgis/rest/services/TestingLocations_public2/FeatureServer/0|TestingLocations_public2|100
+https://services.arcgis.com/BLN4oKB0N1YSgvY8/arcgis/rest/services/State_Test_Sites/FeatureServer/0|State_Test_Sites|100

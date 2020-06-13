@@ -1,0 +1,159 @@
+Bibliography
+Law Enforcement Agency Identifiers Crosswalk Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 366. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2019-05-21.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Bennett, Laura, "Race and Gender in Policing: Are More Representative
+Departments More Effective?." Duke University, 2015..
+Full text: http://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/9734/Bennett_MP.pdf?sequence=1
+
+2. Bruce, Donald J.; Carruthers, Celeste K.; Harris, Matthew C.; Murray,
+Matthew N.; Park, Jinseong, "Do In-Kind Grants Stick? The Department of
+Defense 1033 Program and Local Government Spending." Knoxville, TN:
+University of Tennessee, Jul 31, 2017.
+Full text PDF: http://cber.haslam.utk.edu/staff/harris/LESOPF_BCHMP.pdf
+
+3. Bruce, Donald J.; Carruthers, Celeste K.; Harris, Matthew C.; Murray,
+Matthew N.; Park, Jinseong, "Flypaper or Attractive Recycling? ." The
+Department of Defense 1033 Program and Local Government Spending.
+Knoxville, TN: University of Tennessee, Feb 17, 2017.
+Abstract: https://www.semanticscholar.org/paper/Flypaper-or-Attractive-Recycling%3F-Bruce-Carruthers/7d28437780e2bb13e594f53908c8ebd688eef8a4
+Full text PDF: https://pdfs.semanticscholar.org/7d28/437780e2bb13e594f53908c8ebd688eef8a4.pdf?_ga=2.50753834.229215556.1519312778-1143680344.1519312778
+
+4. Bulman, George, "Law Enforcement Leaders and the Racial Composition of
+Arrests: Evidence from Overlapping Jurisdictions." Santa Cruz, CA:
+University of California, Santa Cruz, Aug 2017.
+Full text PDF: https://people.ucsc.edu/~gbulman/lawenforcement_2017.pdf
+
+5. D'Este, Rocco, "Drugs and Crime in the US: Evidence from OTC Regulations
+Targeting Crystal-Meth Precursors Chemicals." Mar 2015..
+Full text PDF: http://www.iza.org/conference_files/SUMS_2015/10326.pdf
+
+6. Feldmeyer, Ben; Harris, Casey T.; Lai, Daniel, "Language use and
+violence: Assessing the relationship between linguistic context and
+macrolevel violence." Sociological Forum. Jun 2016, 31, (2), 267 - 290.
+DOI: 10.1111/socf.12246
+Full text PDF: http://www.iza.org/conference_files/SUMS_2015/10326.pdf
+
+7. Harris, Casey T.; Feldmeyer, Ben, "A shot of morality? Hispanic
+immigration, religious contextual characteristics, and violence."
+Sociological Spectrum. 2015, 35, (3), 229 - 253. DOI:
+10.1080/02732173.2015.1021062
+Full text PDF: http://www.iza.org/conference_files/SUMS_2015/10326.pdf
+
+8. Harris, Casey T.; Ulmer, Jeffery T., "'Mighty like a river': The Black
+Protestant church and violence in Black communities." Sociological
+Quarterly. 2017, 58, (2), 295 - 314. DOI: 10.1080/00380253.2017.1296336
+2015-R2-CX-0038
+Full text PDF: http://www.iza.org/conference_files/SUMS_2015/10326.pdf
+
+9. Hayes, Timothy C., "Re-Examining the Subculture of Violence in the
+South." Dissertation, Louisiana State University and Agricultural and
+Mechanical College, 2006.
+Full text PDF: http://www.iza.org/conference_files/SUMS_2015/10326.pdf
+
+10. Kennedy, William G., "The Impact of Police Agency Size on Crime
+Clearance Rates." Dissertation, University of North Carolina at Charlotte,
+2009.
+Full text PDF: http://www.iza.org/conference_files/SUMS_2015/10326.pdf
+
+11. Klein, Brent R.; Allison, Kayla; Harris, Casey T., "Immigration and
+violence in rural versus urban counties, 1990–2010." Sociological
+Quarterly. Mar 2017, 58, (2), 229 - 253. DOI: 10.1080/00380253.2017.1296339
+Full text PDF: http://www.iza.org/conference_files/SUMS_2015/10326.pdf
+
+12. Legewie, Joscha; Fagan, Jeffrey, "Group Threat, Police Officer
+Diversity and the Deadly Use of Police Force." Columbia Law School Public
+Law and Legal Theory Working Paper Group. New York, NY: Columbia Law
+School, Dec 2016.
+Abstract: https://ssrn.com/abstract=2778692
+
+13. Liao, Dan; Berzofsky, Marcus; Heller, David; Barrick, Kelle; DeMichele,
+Matthew, "Treatment of Missing Data in the FBI's National Incident Based
+Reporting System: A Case Study in the Bakken Region." Research Triangle
+Park, North Carolina: RTI International, 2015?.
+Full text PDF: https://ww2.amstat.org/sections/srms/Proceedings/y2015/files/234045.pdf
+
+14. Martin, Kimberly; Barrick, Kelle; Richardson, Nicholas J.; Liao, Dan;
+Heller, David, "Violent Victimization Known to Law Enforcement in the
+Bakken Oil-Producing Region of Montana and North Dakota, 2006-2012." NCJ
+252619, RTI International, Feb 14, 2019.
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=274844
+Full text PDF: https://www.ncjrs.gov/pdffiles1/bjs/grants/252619.pdf
+The authors of this report compared patterns of violent victimization in
+the Bakken oil-producing region to those in surrounding counties outside of
+the Bakken region. This report focuses on trends in violent crime from 2006
+to 2012, a period during which regions of Montana and North Dakota that
+contain parts of the Bakken shale formation experienced relatively rapid
+growth in oil and gas production, an influx of new residents to work in oil
+sector–related jobs, and according to reports from the area, a
+corresponding increase in calls for service to local law enforcement. The
+information in this report comes from Bureau of Justice Statistics (BJS)-
+sponsored analysis of data from the Federal Bureau of Investigation’s
+(FBI’s) National Incident-Based Reporting System (NIBRS). From 2006 to
+2012, the rate of violent victimization known to law enforcement in the
+Bakken oil-producing region of Montana and North Dakota increased,
+particularly the rate of aggravated assault, which increased 70%. There was
+no similar increase in rates of violent crime in the counties surrounding
+the Bakken oil region. Rates of male and female violent victimization in
+the Bakken region increased during this period, with the increase being
+higher for males (up 31%) than females (up 18%).
+
+15. Oliver, Pamela E.; Bruce, Marino A., "Tracking the Causes and
+Consequences of Racial Disparities in Imprisonment." A Proposal to the
+National Science Foundation. Social Science Computing Cooperative, Aug
+2001.
+Full text PDF: https://ssc.wisc.edu/~oliver/RACIAL/Reports/nsfAug01narrative.pdf
+
+16. Owens, Emily Greene, "Government Regulation of Illicit Behavior."
+Dissertation, University of Maryland, 2007.
+Abstract: http://hdl.handle.net/1903/7159
+Full text PDF: https://drum.lib.umd.edu/bitstream/handle/1903/7159/umi-umd-4531.pdf?sequence=1&isAllowed=y
+
+17. Raphael, Steven, "Criminal Justice Data Analysis." PowerPoint
+presentation. Berkeley, CA: Goldman School of Public Policy, University of
+California, Berkeley, 2015?..
+Full text PDF: https://www.law.berkeley.edu/wp-content/uploads/2015/04/csls-workshop-raphael.pdf
+
+18. Raphael, Steven; Sills, Melissa, "Urban Crime in the United States."
+Berkeley, CA: University of California, Berkeley, Jun 2003.
+Full text PDF: https://www.law.berkeley.edu/wp-content/uploads/2015/04/csls-workshop-raphael.pdf
+
+19. Schwartz, Jennifer, "The Effect of Father Absence and Father
+Alternatives on Female and Male Rates of Violence." Dissertation,
+Pennsylvania State University, 2003.
+Full text PDF: https://www.law.berkeley.edu/wp-content/uploads/2015/04/csls-workshop-raphael.pdf
+
+20. United States Government Accountability Office (GAO), "Community
+Policing Grants: COPS Grants Were a Modest Contributor to Declines in Crime
+in the 1990's." Washington, DC: GAO, Oct 2005.
+Full text PDF: http://www.gao.gov/new.items/d06104.pdf
+
+21. Wilson, Steve; Zhao, Jihong, "Determining the correlates of police
+victimization: An analysis of organizational level factors on injurious
+assaults." Journal of Criminal Justice. Sep/Oct 2008, 36, (5), 461 - 468.
+DOI: 10.1016/j.jcrimjus.2008.07.009 NCJ 224790
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=246765
+
+22. Worrall, John L., "The effects of local law enforcement block grants on
+serious crime." Criminology and Public Policy. Aug 2008, 7, (3), 325 - 350.
+DOI: 10.1111/j.1745-9133.2008.00512.x
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=246765
+
+23. Xu, Hua, "Municipal Police Expenditure and Organizational Performance
+in the United States." dissertation, State University of New Jersey, 2008.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=246765
+
+24. d'Este, Rocco, "Breaking the Crystal Meth Economy: The Effects of Over
+the Counter Medicine Restrictions on Drug-Related Crime in the United
+States." Job Market Paper. Coventry, England: University of Warwick, 2016.
+Full text PDF: http://www.eief.it/files/2016/01/02-jmp_deste.pdf

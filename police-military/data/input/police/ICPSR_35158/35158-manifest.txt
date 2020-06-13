@@ -1,0 +1,54 @@
+File Manifest for ICPSR 35158
+
+United States. Bureau of Justice Statistics. Law Enforcement Agency
+Identifiers Crosswalk, United States,  2012. ICPSR35158-v2. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2018-09-18. http://doi.org/10.3886/ICPSR35158.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35158-descriptioncitation.pdf       -       -         -       2018-09-18  -
+
+    35158-related_literature.txt        -       -         -       daily       -
+
+    35158-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Law Enforcement Agency Identifiers Crosswalk, United States,  2012
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35158-0001-Codebook.pdf             -       -         -       2018-09-18  26014cffc2777e23a031d7b2d666240f
+
+    35158-0001-Data.dta                 -       36,490    46      2018-09-18  3260b478bd9dae4d4a80e09213741d56
+
+    35158-0001-Data.rda                 -       36,490    46      2018-09-18  c7d01c6afd5dbc4a34152a701642ab00
+
+    35158-0001-Data.sav                 -       36,490    46      2018-09-18  5ddb5c96547e9489e53316493ad94bbc
+
+    35158-0001-Data.stc                 -       36,490    46      2018-09-18  27b6451267fc06d6b6ec187272468c57
+
+    35158-0001-Data.tsv                 -       36,490    46      2018-09-18  db4cdd1171b61b715eeaf0ba2f72b5fb
+
+    35158-0001-Data.txt                 824     36,490    46      2018-09-18  f095306043903d27a44475c6a9361725
+
+    35158-0001-Setup.dct                -       -         -       2018-09-18  aeedaa6dcbd5dfa9d0978a9a8dcfd6d5
+
+    35158-0001-Setup.do                 -       -         -       2018-09-18  557dfd9b5e4d2dc5fa96f5b092f59b1c
+
+    35158-0001-Setup.sas                -       -         -       2018-09-18  04d10180af5da110ddde0a64593453f8
+
+    35158-0001-Setup.sps                -       -         -       2018-09-18  af733bc2547ac8c86924b22fc918dfdc
+
+
+Version History
+
+2018-09-18 Data and documentation were updated to correct a typo in the
+study's title.
