@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "prog_date": "2020\/09\/10 00:00:00", "Shape_Leng": 13.661758727900001, "Shape_Area": 3.6622593157900001, "growth_ac": 0.0, "total_ac": 19718, "legend_tex": "2020-09-10", "day": 5, "display_date": "Sep. 10 " }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -117.988127528405158, 34.222780494547521, 0.0 ], [ -117.988074399739247, 34.222819225193334, 0.0 ], [ -117.988111820208999, 34.222778449562249, 0.0 ], [ -117.988127528405158, 34.222780494547521, 0.0 ] ] ] ] } }
+]
+}
