@@ -12,6 +12,7 @@ cpi = "*"
 tweepy = "*"
 lxml = "*"
 html5lib = "*"
+tabula-py = "*"
 
 [requires]
 python_version = "3.7"
