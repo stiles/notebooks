@@ -1,0 +1,770 @@
+,locationID,name,address,city,waitTime
+12,14253,Alcott Elementary School,1600 S Towne Ave,Pomona,23
+102,6404,Castelar Elementary School,840 Yale St,Los Angeles,23
+679,14489,Thomas Jefferson Middle School,750 Euclid Ave,Long Beach,19
+202,1732,Elizabeth Learning Center,4811 Elizabeth St,Cudahy,17
+753,2587,Williams Elementary School,7530 Arnett St,Downey,17
+692,7223,Trinity Street Elementary,3736 Trinity St,Los Angeles,16
+359,10580,Ken Miller Recreation Center,3330 Civic Center Dr N,Torrance,14
+541,13594,Promenade at Downey,8980 Apollo Way,Downey,11
+732,1538,Watts Labor Community Action Committee,10950 S Central Ave,Los Angeles,11
+645,14468,St Paul's United Methodist Church,5619 Lindley Ave,Tarzana,10
+719,4305,Vineyard Recreation Center,2942 Vineyard Ave,Los Angeles,10
+504,7262,Our Lady of the Holy Rosary,7800 Vineland Ave,Sun Valley,10
+429,3193,MacArthur Park,1321 E Anaheim St,Long Beach,9
+627,13872,South Gate Park Sports Center,9520 Hildreth Ave,South Gate,9
+397,11754,Liberty II Facility,19033 Studebaker Rd,Cerritos,9
+149,11729,Crenshaw High School,5010 11th Ave,Los Angeles,9
+291,519,Henning Youth Center,11409 Birch St,Lynwood,9
+425,14004,Lucy Avalos Community Center,11832 Atlantic Ave,Lynwood,9
+313,14615,Houghton Park Community Center,6301 Myrtle Ave,Long Beach,9
+413,9495,Los Angeles Elementary School,1211 S Hobart Blvd,Los Angeles,8
+414,14097,Los Angeles Harbor College,1111 Figueroa Pl,Wilmington,8
+415,14534,Los Angeles High School,4650 W Olympic Blvd,Los Angeles,8
+677,14233,Thee Chateau Banquet Hall,1700 Holt Ave,Pomona,8
+395,2044,Levy Adult Center,3420 W 229th Pl,Torrance,8
+390,14386,Latin Paradise Banquet Hall,6357 Van Nuys Blvd,Van Nuys,8
+418,13824,Los Angeles Southwest College,1600 W Imperial Hwy,Los Angeles,8
+411,12808,Los Angeles Academy Middle School,644 E 56th St,Los Angeles,8
+419,7658,Los Angeles Trade Technical College,400 W Washington Blvd,Los Angeles,8
+421,14395,Los Feliz Charter School for the Arts,2709 Media Center Dr,Los Angleles,8
+422,14206,Los Molinos Elementary School,3112 Las Marias Ave,Hacienda Heights,8
+678,4425,Thomas Jefferson Elementary School,1900 N 6th St,Burbank,8
+410,5092,Los Altos Elementary School,15565 Los Altos Dr,Hacienda Heights,8
+682,14121,Toberman Neighborhood Center,131 N Grand Ave,San Pedro,8
+396,9473,Liberty Community Plaza,14181 Telegraph Rd,Whittier,8
+392,13898,Leland R Weaver Library,4035 Tweedy Blvd,South Gate,8
+409,5947,Loreto Street Elementary School,3408 Arroyo Seco Ave,Los Angeles,8
+408,14391,Longfellow Elementary School,6005 Magnolia Ave,Whittier,8
+393,14205,Lennox Middle School,11033 Buford Ave,Lennox,8
+394,1757,Lennox Park,10828 Condon Ave,Lennox,8
+404,10854,Lomita Park,24428 Eshelman Ave,Lomita,8
+402,11727,Living Stone Cathedral of Worship,37721 100th Street East,Littlerock,8
+401,13585,LiUNA Local 1309,3971 Pixie Ave,Lakewood,8
+400,8293,Little White Chapel,1711 N Avon St,Burbank,8
+399,9427,Lindero Canyon Middle School,5844 Larboard Ln,Agoura Hills,8
+398,2736,Lincoln Heights Senior Citizen Center,2323 Workman St,Los Angeles,8
+405,10547,Long Beach City College,4901 E Carson St,Long Beach,8
+384,13793,Lakewood Youth Center,4658 Woodruff Ave,Lakewood,8
+423,5819,Los Nietos Middle School,11425 Rivera Rd,Los Nietos,8
+675,14519,The Westin Long Beach,333 E Ocean Blvd,Long Beach,8
+670,13166,The Music Center,135 N Grand,Los Angeles,8
+447,12821,Maywood Hall,4319 E Slauson Ave,Maywood,8
+448,14566,McCarty Memorial Christian Church,4103 W Adams Blvd,Los Angeles,8
+449,2662,McKinley Elementary School,14431 S Stanford Ave,Compton,8
+450,11041,Meadowlark Elementary School,3015 Sacramento Ave,Acton,8
+451,3743,Memorial Park,320 N Orange Ave,Azusa,8
+452,14407,Mesa Robles School,16060 Mesa Robles Dr,Hacienda Heights,8
+453,14210,Mildred B Janson Elementary School,8628 Marshall St,Rosemead,8
+454,5969,Mill Elementary School,4030 Workman Mill Rd,Whittier,8
+455,14517,Millennium Biltmore Hotel Los Angeles,506 S Grand Ave,Los Angeles,8
+456,14570,Millikan High School,2800 Snowden Ave,Long Beach,8
+457,2402,Millikan Middle School,5041 Sunnyslope Ave,Sherman Oaks,8
+459,14408,Mission City Church,777 N Maclay Ave,San Fernando,8
+460,8301,Mission Ebenezer Family Church,425 W Torrance Blvd,Carson,8
+461,14211,Moffett Elementary School,11060 Larch Ave,Lennox,8
+671,14488,The Portofino Hotel and Marina,260 Portofino Way,Redondo Beach,8
+672,14643,The Rose Room,6 Rose Ave,Venice,8
+443,14622,Mass Liberation,21519 Menlo Ave,Torrance,8
+434,6725,Malibu Lake Mountain,29033 Lake Vista Dr,Agoura Hills,8
+426,6343,Lutheran Church of the Master,725 East Avenue J,Lancaster,8
+389,13831,Las Palmas Park,505 S Huntington St,San Fernando,8
+430,14579,Maclay Middle School,12540 Pierce St,Pacoima,8
+431,4611,Magee Academy of Arts and Sciences,8200 Serapis Ave,Pico Rivera,8
+673,14232,The Valley Vineyard Christian Church,6642 Reseda Blvd,Reseda,8
+433,12330,Malabar Street Elementary School,3200 Malabar St,Los Angeles,8
+435,14207,Manhattan Heights Community Center,1600 Manhattan Beach Blvd,Manhattan Beach,8
+442,6853,Masonic Lodge,135 N Valley Center Ave,Glendora,8
+436,14402,Manual Arts Senior High School,4131 S Vermont Ave,Los Angeles,8
+437,2523,Marina Del Rey Middle School,12500 Braddock Dr,Los Angeles,8
+438,2036,Mary E Bragg Elementary School,11501 Bos St,Cerritos,8
+439,14405,Masjid Al-Fatiha,210 N Citrus Ave,Azusa,8
+440,13191,Masjid Umar Ibn Al-Khattab,1025 Exposition Blvd,Los Angeles,8
+441,2777,Mason Recreation Center,10500 Mason Ave,Chatsworth,8
+427,5189,Lynwood Middle School,12124 Bullis Rd,Lynwood,8
+385,118,Lancaster Library,601 W Lancaster Blvd,Lancaster,8
+388,13168,Langley Senior Center,400 W Emerson Ave,Monterey Park,8
+348,9789,John Muir Elementary School,2526 6th St,Santa Monica,8
+330,13664,International City Masonic Center,5155 Pacific Coast Hwy,Long Beach,8
+331,6627,IOOF Bellflower Lodge #463,15720 Clark Ave,Bellflower,8
+332,12744,Iranian American Jewish Federation,1317 N Crescent Heights Blvd,West Hollywood,8
+690,1568,TreePeople,12601 Mullholland Dr,Beverly Hills,8
+334,13973,Jackie Robinson Park,8773 East Avenue R,Sun Village,8
+688,4629,Town Center Hall,11740 Telegraph Rd,Santa Fe Springs,8
+338,5400,Jeff Seymour Family Center,10900 Mulhall St,El Monte,8
+339,14654,Jefferson Middle School,1372 E Las Tunas Dr,San Gabriel,8
+340,2204,Jellick Elementary School,1400 S Jellick Ave,Rowland Heights,8
+341,4461,Jesse Owens Park,9651 S Western Ave,Los Angeles,8
+342,14136,Jethawk Stadium,45116 Valley Central Way,Lancaster,8
+343,14585,JF Chen,830 N Highland Ave,Hollywood,8
+344,9915,JH Hull Middle School,2080 W 231st St,Torrance,8
+345,14373,Joe Walker Middle School,West Avenue L 8,Quartz Hill,8
+346,14533,John F Kennedy High School,11254 Gothic Ave,Granada Hills,8
+329,14194,Inglewood High School,231 S Grevillea Ave,Inglewood,8
+328,7052,Independence Elementary School,8435 Victoria Ave,South Gate,8
+327,5481,Incarnation Community Center,214 W Fairview Ave,Glendale,8
+317,14593,Hyatt Regency LAX,6225 W Century Blvd,Los Angeles,8
+694,14595,Uber - Redondo Beach,2400 Marine Ave,Redondo Beach,8
+693,14596,Uber - Burbank,4201 Vanowen Pl,Burbank,8
+311,14569,Hot and Cool Cafe,4331 Degnan Blvd,Los Angeles,8
+312,14189,Hotel Figueroa,939 S Figueroa St,Los Angeles,8
+314,14367,Huerta Elementary School,15415 Pioneer Blvd,Norwalk,8
+630,5237,Southeast Rio Vista Ymca,4801 E 58th St,Maywood,8
+318,11794,IAC Shepher Community Center,6530 Winnetka Ave,Woodland Hills,8
+691,3547,Trinity Lutheran Church,997 E Walnut,Pasadena,8
+319,14538,ICEF View Park K8,5311 Crenshaw Blvd,Los Angeles,8
+320,13163,Iglesia Adventista Hispana,901 E Broadway,Glendale,8
+321,14082,Iglesia de Cristo Centro de Alabanza,11105 S Western Ave,Los Angeles,8
+323,13823,Immanuel Presbyterian Church,3300 Wilshire Blvd,Los Angeles,8
+324,541,Imperial Courts Recreation Center,2250 E 114th St,Los Angeles,8
+325,10890,Impressions Banquet Hall,212 N Orange St,Glendale,8
+347,14376,John Marshall Middle School,1921 Arroyo Ave,Pomona,8
+349,14377,John Muir Middle School,1111 N Kenneth Rd,Burbank,8
+387,14094,Lancaster National Soccer Center,43000 30th Street East,Lancaster,8
+350,13132,Joohyang Presbyterian Church,3412 W 4th St,Los Angeles,8
+372,13784,LA Family Housing,7843 Lankershim Blvd,North Hollywood,8
+373,14091,La Fetra Center,333 E Foothill Blvd,Glendora,8
+374,5100,LA Harbor Masonic Lodge,1640 W 9th St,San Pedro,8
+375,2584,La Mesa Junior High School,26623 May Way,Santa Clarita,8
+685,14122,Topanga Community Center,1440 N Topanga Canyon Blvd,Topanga,8
+377,14418,La Mirada Adult School,15920 Barbata Rd,La Mirada,8
+378,14511,La Mirada Library,13800 La Mirada Blvd,La Mirada,8
+379,8503,La Mirada Theater,14900 La Mirada Blvd,La Mirada,8
+380,10639,La Puente Community Center,501 Glendora Ave,La Puente,8
+684,14549,ToolBox LA,9410 Owensmouth Ave,Chatsworth,8
+382,5357,La Tijera K-8 Academy of Excellence,1415 N La Tijera Blvd,Inglewood,8
+683,13788,Tom Bradley International Hall,Charles E Young Dr,Los Angeles,8
+1,14247,15th Street Elementary School,1527 S Mesa St,San Pedro,8
+463,14212,Monroe Middle School,10711 S 10th Ave,Inglewood,8
+386,13813,Lancaster Market Place,44920 Valley Central Way,Lancaster,8
+686,13902,Topanga Library,122 N Topanga Canyon Blvd,Topanga,8
+370,13565,LA County Registrar-Recorder/County Clerk,12400 Imperial Hwy,Norwalk,8
+369,13946,LA County Department of Public Works,900 S Fremont Ave,Alhambra,8
+357,260,Katy Geissert Civic Center Library,3301 Torrance Blvd,Torrance,8
+351,13348,Jordan Downs Recreation Center,9900 Grape St,Los Angeles,8
+352,2428,Joslyn Community Center,1601 N Valley Dr,Manhattan Beach,8
+353,13197,Juan Cabrillo Elementary School,30237 Morning View Dr,Malibu,8
+687,10861,Torch Middle School,751 Vineland Ave,City of Industry,8
+355,7895,Juarez Academy of Engineering and Tech,11939 Aclare St,Cerritos,8
+356,14199,Junior Achievement of So Cal (JASoCal),6250 Forest Lawn Dr,Los Angeles,8
+358,14200,Kelso Elementary School,809 E Kelso St,Inglewood,8
+368,2175,LA County Arboretum Botanic Garden,301 N Baldwin Ave,Arcadia,8
+360,14201,Kenneth Hahn Hall of Administration,500 W Temple St,Los Angeles,8
+361,14379,Killian Elementary School,19100 Killian Ave,Rowland Heights,8
+362,14588,Kimpton La Peer Hotel,627 N La Peer Dr,West Hollywood,8
+365,14617,L Aronoff and Sons,21210 Erwin St,Woodland Hills,8
+366,14618,La Brea Tar Pits,5801 Wilshire Blvd,Los Angeles,8
+367,11814,La Canada Unified School Ditrict,4490 Cornishon Ave,La Canada Flintridge,8
+462,5864,Mona Park,2291 E 121st St,Compton,8
+467,14101,Montebello High School,2100 W Cleveland Ave,Montebello,8
+464,417,Monrovia Community Center,119 W Palm Ave,Monrovia,8
+641,13106,St Mary & St Athanasius Church,17431 Roscoe Blvd,Northridge,8
+570,1990,Rosecrans Recreation Center,840 W 149th St,Gardena,8
+572,13329,Rosemont Pavilion,700 Seco St,Pasadena,8
+573,1707,Ross Middle School,17707 Elaine Ave,Artesia,8
+574,14451,Rowland Elementary School,2036 Fullerton Rd,Rowland Heights,8
+575,14453,Rowland High School,2000 S Otterbein Ave,Rowland Heights,8
+576,10717,Rowley Park,13220 Van Ness Ave,Gardena,8
+578,9339,Roy Romer Middle School,6501 Laurel Canyon Blvd,North Hollywood,8
+579,4651,S G Oswalt Academy,19501 Shadow Oak Dr,Walnut,8
+580,14018,Saban Beverly Hills,8440 Wilshire Blvd,Beverly Hills,8
+637,6209,St Ignatius Church,6025 Monte Vista St,Los Angeles,8
+583,4596,Salt Lake Park,3401 E Florence Ave,Huntington Park,8
+584,326,San Dimas City Hall,245 E Bonita Ave,San Dimas,8
+585,14512,San Fernando Library,217 N Maclay Ave,San Fernando,8
+586,13832,San Fernando Recreation Park,208 Park Ave,San Fernando,8
+587,13152,San Fernando Spanish SDA Church,14646 Chatsworth Dr,Mission Hills,8
+640,14635,St Mark Baptist Church,1703 Lemon Ave,Long Beach,8
+642,13559,St Mary's Catholic Church,1600 East Avenue R4,Palmdale,8
+465,14664,Monrovia High School,845 W Colorado Blvd,Monrovia,8
+643,12533,St Patrick's Catholic Church,10626 Erwin St,North Hollywood,8
+650,13894,Stevenson Ranch Library,25950 The Old Rd,Stevenson Ranch,8
+550,13819,RCCG Victory House Hollywood,16730 Schoenborn St,North Hills,8
+551,14439,Recreation Park,4900 E 7th St,Long Beach,8
+552,14108,Redeemer Christian Academy,10792 National Blvd,West Los Angeles,8
+649,11555,Stephen Sorensen County Park,16801 East Avenue P,Palmdale,8
+554,14586,Reigning Champ,115 South La Brea Ave,Los Angeles,8
+556,13882,Rio Hondo College,3600 Workman Mill Rd,Whittier,8
+557,5063,Rio Hondo Elementary School,11425 Wildflower Rd,Arcadia,8
+647,13927,Stanley Social,1510 N Stanley Ave,Los Angeles,8
+646,6021,St Stephen Baptist Church,1718 Walnut Ave,La Puente,8
+560,14446,Rios,3101 W Exposition Pl,Los Angeles,8
+561,414,Rivera Park Community Recreation Center,9530 Shade Ln,Pico Rivera,8
+562,12653,Riviera United Methodist Church,375 Palos Verdes Blvd,Redondo Beach,8
+563,8660,Robert Gross Park,2800 Empire Ave,Burbank,8
+564,479,Robinson Park Recreation Center,1081 N Fair Oaks Ave,Pasadena,8
+588,6671,San Gabriel High School,801 S Ramona St,San Gabriel,8
+589,7473,San Jose Edison Academy,2021 W Alwood St,West Covina,8
+590,13929,San Pedro Elks Lodge,1748 Cumbre Dr,San Pedro,8
+591,10367,San Pedro High School,1001 W 15th St,San Pedro,8
+612,14633,Sheraton Gateway Los Angeles Hotel,6101 W Century Blvd,Los Angeles,8
+613,14536,Sherman Oaks Elementary Charter,14755 Greenleaf St,Sherman Oaks,8
+614,14223,Shiekh Compton Community Center,1900 N Long Beach Blvd,Compton,8
+615,14224,Shirpser Elementary School,4020 Gibson Rd,El Monte,8
+616,14043,Shrine Auditorium & Expo Hall,700 W. 32nd Street,Los Angeles,8
+617,2494,Sierra Park Elementary School,3170 Budau Ave,Los Angeles,8
+618,10654,Sierra Vista Jr High School,19425 Stillmore St,Canyon Country,8
+619,12727,Signal Hill Park,1780 E Hill St,Signal Hill,8
+620,4965,Simms Park Community Center,16614 Clark Ave,Bellflower,8
+631,14567,St Bernadette Catholic Church,3825 Don Felipe Dr,Los Angeles,8
+623,5208,Sonia Sotomayor Arts & Sciences Magnet,2050 N San Fernando Rd,Los Angeles,8
+624,14114,South Bay Adult School,3401 Inglewood Ave,Redondo Beach,8
+625,6389,South Coast Botanic Gardens,26300 Crenshaw Blvd,Palos Verdes Estates,8
+626,13815,South El Monte Community Center,1530 Central Ave,South El Monte,8
+628,257,South Pasadena Public Library,1115 El Centro St,South Pasadena,8
+611,14632,Shelyn Elementary School,19500 Nacora St,Rowland Heights,8
+609,10678,Shadow Oak Park Recreation Center,2121 Shadow Oak Dr,West Covina,8
+608,14631,Serenity Event Center,695 E Foothill Blvd,Pomona,8
+633,4118,St Cecilia Catholic Church,4230 S Normandie Ave,Los Angeles,8
+592,2895,Sanatana Dharma Temple,15311 Pioneer Blvd,Norwalk,8
+593,12948,Sanctuary for Spiritual Living,5446 N Citrus Ave,Covina,8
+634,14023,St Cross Episcopal Church,1818 Monterey Blvd,Hermosa Beach,8
+595,14110,Santa Anita Park,285 W Huntington Dr,Arcadia,8
+596,14220,Santa Clarita Athletic Club,24640 Wiley Canyon Rd,Newhall,8
+597,13881,Santa Monica Community College,1900 Pico Blvd,Santa Monica,8
+632,6114,St Casimir Church,3855 Evans St,Los Angeles,8
+607,8936,Sepulveda Middle School,15330 Plummer St,North Hills,8
+601,14459,Scholarship Prep - South Bay,24910 S Avalon Blvd,Wilmington,8
+602,14630,Schurr High School,820 N Wilcox Ave,Montebello,8
+603,13924,Scottish Rite Cathedral,855 Elm Ave,Long Beach,8
+604,12817,Scottsdale Townhouse,23400 S Avalon Blvd,Carson,8
+605,14545,Second Home Hollywood,1370 N St Andrews Pl,Los Angeles,8
+606,6548,Selma Avenue Elementary School,6611 Selma Ave,Los Angeles,8
+547,5036,Ranch Hills Elementary School,2 Trabuco Pl,Pomona,8
+651,361,Stonehurst Recreation Center,9901 Dronfield St,Sun Valley,8
+545,3733,Ramon Garcia Recreation Center,1016 S Fresno St,Los Angeles,8
+661,14229,Temple Intermediate School,8510 Fern Ave,Rosemead,8
+485,13866,Nickerson Gardens Boys & Girls Club,11251 Compton Ave,Los Angeles,8
+662,14117,Terasaki Budokan,249 S Los Angeles St,Los Angeles,8
+487,8137,Nogales High School,401 Nogales St,La Puente,8
+488,2552,Normandale Recreation Center,22400 Halldale Ave,Torrance,8
+489,2655,North High School,3620 W 182nd St,Torrance,8
+490,1949,North Hollywood Recreation Center,11430 Chandler Blvd,North Hollywood,8
+491,4544,North Weddington Recreation Center,10844 Acama St,North Hollywood,8
+492,13562,Northeast Mental Health Center,3303 N Broadway,Los Angeles,8
+493,9342,Northridge Academy High School,9601 Zelzah Ave,Northridge,8
+494,4810,Norwalk Arts and Sports Complex,13200 Clarkdale Ave,Norwalk,8
+495,14417,Norwalk High School,11356 Leffingwell Rd,Norwalk,8
+497,14419,Oak Tree Community Day School,38136 35th Street E,Palmdale,8
+498,1907,Oakwood Recreation Center,767 California Ave,Venice,8
+499,11756,Occidental College,1600 Campus Rd,Los Angeles,8
+500,8035,Olive Vista Middle School,14600 Tyler St,Sylmar,8
+484,6488,Newcomb Academy,3351 Val Verde Ave,Long Beach,8
+483,14214,New Vista Middle School,753 East Avenue K2,Lancaster,8
+482,1776,New River Elementary School,13432 Halcourt Ave,Norwalk,8
+666,14640,The Catalina Room,128 Catalina Ave,Redondo Beach,8
+668,13791,The LA Forum,3900 W Manchester Blvd,Inglewood,8
+307,2719,Hollywood Recreation Center,1122 Cole Ave,Los Angeles,8
+468,13895,Montebello Library,1550 W Beverly Blvd,Montebello,8
+469,9418,Montebello Senior Citizen Center,115 S Taylor Ave,Montebello,8
+470,14102,Moose Lodge,13212 S Inglewood Ave,Hawthorne,8
+472,13829,Mt San Antonio College,1100 N Grand Ave,Walnut,8
+665,13987,The Canyon - Santa Clarita,24201 Valencia Blvd,Santa Clarita,8
+481,14571,New Power of Love,1430 W Manchester,Los Angeles,8
+475,10628,Nakaoka Community Center,1670 W 162nd St,Gardena,8
+476,13916,National Typewriter Company,1666 Euclid St,Santa Monica,8
+664,14484,The Brewery Artist Lofts,600 Moulton Ave #101B,Los Angeles,8
+478,11311,Nelson Elementary School,330 N California Ave,La Puente,8
+479,14213,New Hope Youth Group,10438 Oro Vista Ave,Sunland-Tujunga,8
+480,5788,New Lexington Elementary School,10410 Bodger St,El Monte,8
+501,14568,One Santa Fe,300 S Santa Fe Ave,Los Angeles,8
+503,7049,Orangewood Elementary School,1440 S Orange Ave,West Covina,8
+543,14629,PUC Lakeview Charter Academy,11465 Kagel Canyon St,Lakeview Terrace,8
+505,6819,Our Savior Lutheran Church,512 W Duarte Rd,Arcadia,8
+526,4743,Pico Park Community Center,9528 Beverly Blvd,Pico Rivera,8
+527,14425,Pio Pico Middle School,1512 S Arlington Ave,Los Angeles,8
+653,11536,Sun Valley Senior High,9171 Telfair Ave,Sun Valley,8
+529,5244,Piute Middle School,425 East Avenue H 11,Lancaster,8
+530,14013,Playa Las Tunas Banquet Hall,1911 4th Ave,Los Angeles,8
+531,14572,Playa Las Tunas Banquet Hall,1457 W Washington Blvd,Los Angeles,8
+532,13798,Plaza West Covina,312 California Ave,West Covina,8
+534,14427,Pomona High School,475 Bangor St,Pomona,8
+535,11566,Port of Long Beach Maintenance Division,725 Harbor Plaza,Long Beach,8
+536,5993,Potrero Elementary School,2611 Potrero Ave,El Monte,8
+537,3361,Powell Academy for Success,150 W Victoria St,Long Beach,8
+538,14215,Prairie Vista Middle School,13600 Prairie Ave,Hawthorne,8
+539,14015,Prince of Peace Episcopal Church,5700 Rudnick Ave,Woodland Hills,8
+540,3797,Progress Park,15500 Downey Ave,Paramount,8
+542,14628,PUC Excel Charter Academy,1855 N Main St,Los Angeles,8
+655,11813,Sunland Senior Citizen Center,8640 Fenwick St,Sunland,8
+656,14480,Tamarisk Elementary School,1834 East Avenue Q 5,Palmdale,8
+658,2329,Ted Watkins Park,1335 E 103rd St,Los Angeles,8
+513,10005,Palos Verdes High School,600 Cloyden Rd,Palos Verdes Estates,8
+506,500,Pacific Park Community Center,501 S Pacific Ave,Glendale,8
+507,1993,Pacific Unitarian Church,5621 Montemalaga Dr,Rancho Palos Verdes,8
+509,2539,Palm Park and Community Center,12305 207th St,Lakewood,8
+510,6017,Palmdale Elks Lodge,2705 East Avenue Q,Palmdale,8
+659,2165,Telfair Elementary School,10975 Telfair Ave,Pacoima,8
+512,4378,Palomares Park,499 E Arrow Hwy,Pomona,8
+514,9635,Palos Verdes Peninsula High School,27118 Silver Spur Rd,Rolling Hills Estates,8
+521,13885,Pasadena City College,1570 E Colorado Blvd,Pasadena,8
+515,8251,Pan American Park,5157 E Centralia St,Long Beach,8
+516,13818,Panorama Presbyterian Church,14201 Roscoe Blvd,Panorama City,8
+517,4769,Pantera Elementary School,801 Pantera Dr,Diamond Bar,8
+518,6826,Paradise Baptist Church,5100 S Broadway,Los Angeles,8
+519,14011,Paramount High School - West Campus,14708 Paramount Blvd,Paramount,8
+520,11792,Park View Educational Complex,44327 Fig Ave,Lancaster,8
+308,14188,Holy Angels Church of the Deaf,4433 S Santa Fe Ave,Vernon,8
+315,14193,Huntington Middle School,1700 Huntington Dr,San Marino,8
+306,14555,Hollywood Production Center,121 W Lexington Dr,Los Angeles,8
+728,14496,Ward Villas for Seniors,1177 W Adams Blvd,Los Angeles,8
+107,10606,Centinela Elementary School,1123 N Marlborough Ave,Inglewood,8
+745,14559,Westminster Senior Center,1234 Pacific Ave,Venice,8
+109,14054,Central Lutheran Church,6425 Tyrone Ave,Van Nuys,8
+744,4084,Westminster Presbyterian Church,1757 N Lake Ave,Pasadena,8
+111,9373,Century Villages at Cabrillo,2001 River Ave,Long Beach,8
+743,2229,Westminster Avenue Elementary School,1010 Abbot Kinney Blvd,Venice,8
+113,14285,Cesar Chavez Elementary School,12110 Walnut St,Norwalk,8
+114,3347,Cesar E Chavez Park,401 Golden Ave,Long Beach,8
+115,11750,Chaparral Middle School,1405 Spruce Tree Dr,Diamond Bar,8
+116,4147,Charles Kim Elementary School,225 S Oxford Ave,Los Angeles,8
+117,6,Chevy Chase Branch Library,3301 E Chevy Chase Dr,Glendale,8
+742,14130,Westfield Fashion Square,14006 Riverside Dr,Sherman Oaks,8
+119,14009,Chimbole Cultural Center,38350 Sierra Hwy,Palmdale,8
+120,5140,Christ Temple Church,3125 W 54th St,Los Angeles,8
+121,4763,Christ The Good Shepherd Chr,3303 W Vernon Ave,Los Angeles,8
+106,12561,Center of Hope,9550 Crenshaw Blvd,Inglewood,8
+105,471,Cathy Hensel Youth Center,236 George Hensel Dr,Montebello,8
+104,13988,Catalina Casino,1 Casino Way,Avalon,8
+747,14502,WGA Theater,135 South Doheny Dr,Beverly Hills,8
+85,14051,CalArts,24700 McBean Pkwy,Valencia,8
+87,2901,Calvary Grace Church,2520 Peck Rd,Monrovia,8
+88,8226,Cameron Park Community Center,1305 E Cameron Ave,West Covina,8
+89,14527,Canoga Park High School,6850 Topanga Canyon Blvd,Canoga Park,8
+90,14279,Canyon Center,19361 Soledad Canyon Rd,Santa Clarita,8
+91,6448,Canyon Club Dinner Theater,28912 Roadside Dr,Agoura Hills,8
+93,14152,Caravan 4 Justice,646 W Pacific Coast Hwy,Long Beach,8
+101,13913,Castaic Sports Complex,31230 Castaic Rd,Castaic,8
+95,6131,Carmenita Middle School,13435 166th St,Cerritos,8
+96,10949,Carpenters Local Union 562,341 E Wardlow Rd,Long Beach,8
+97,14151,Carson Civic Center,801 E Carson St,Carson,8
+98,4240,Carson High School,22328 S Main St,Carson,8
+99,14282,Carver Elementary School,1425 E 120th St,Los Angeles,8
+746,448,Westmont Park Recreation Center,1808 W 9th St,Pomona,8
+122,14292,Christ the King School,617 N Arden Blvd,Los Angeles,8
+123,8268,Christian Life Church,3400 Pacific Ave,Long Beach,8
+124,14522,Christian Science Church-Malibu,28635 Pacific Coast Hwy,Malibu,8
+157,3747,Dae Hueng Korean Presbyterian Church,15411 S Figueroa St,Gardena,8
+146,14235,Courtyard Thousand Oaks - Agoura Hills,29505 Agoura Rd,Agoura Hills,8
+305,13796,Hollywood Park,1000 S Prairie Ave,Inglewood,8
+153,14198,Culver City Julian Dixon Library,4975 Overland Ave,Culver City,8
+733,11487,Webster Elementary School,3602 Winter Canyon Rd,Malibu,8
+155,11742,Cyrus J Morris Elementary School,19875 E Calle Baja Dr,Walnut,8
+156,7153,D D Johnston Elementary School,13421 Fairford Ave,Norwalk,8
+159,4484,Dana Middle School,5504 W 135th St,Hawthorne,8
+144,14301,Corvallis Middle School,11032 Leffingwell Rd,Norwalk,8
+160,1855,Daniel Webster Middle School,11330 Graham Pl,Los Angeles,8
+730,13912,Warner Grand Theatre,478 W 6th St,San Pedro,8
+163,2328,Del Aire Park,12601 Isis Ave,Hawthorne,8
+164,14309,DEL Records and Sony Music Latin,6400 Garfield Ave,Bell Gardens,8
+165,14064,Destiny Christian Center International,44628 10th Street West,Lancaster,8
+729,14587,Warner Center Marriott Woodland Hills,21850 W Oxnard St,Woodland Hills,8
+145,14592,Courtyard by Marriott LA West Side,6333 Bristol Pkwy,Culver City,8
+143,5340,Cortez Park Community and Senior Center,2501 E Cortez St,West Covina,8
+125,13842,Citizens of Zion Missionary Church,12930 S Lime Ave,Los Angeles,8
+738,879,West Los Angeles College,10100 Jefferson Blvd,Culver City,8
+126,9145,City of Refuge,14527 San Pedro St,Gardena,8
+127,6805,Claremont Center for Spiritual Living,509 S College Ave,Claremont,8
+741,14035,Westfield Century City,10250 Santa Monica Blvd,Los Angeles,8
+129,11527,Clark Building,861 Valley Dr,Hermosa Beach,8
+740,14581,Westchester Enriched Sciences Magnets,7400 W Manchester Ave,Los Angeles,8
+739,6447,West Whittier Elementary School,6411 Norwalk Blvd,Whittier,8
+737,14241,West Covina Library,1601 W West Covina Pkwy,West Covina,8
+142,3577,Cortada Elementary School,3111 Potrero Ave,El Monte,8
+134,13843,College of the Canyons,26455 Rockwell Canyon Rd,Santa Clarita,8
+135,14059,Columbia College Hollywood,18618 W Oxnard St,Tarzana,8
+138,14660,Community Christian Church,10193 Tujunga Canyon Blvd,Tujunga,8
+735,11728,West Angeles Church of God In Christ,3600 Crenshaw Blvd,Los Angeles,8
+140,14060,Compton College,1111 E Artesia Blvd,Compton,8
+141,14653,Coolidge Elementary School,421 N Mission Dr,San Gabriel,8
+749,14542,Wiley Canyon Elementary School,24240 W La Glorita Cir,Newhall,8
+82,14150,"Cal State University, Long Beach",6200 Atherton St,Long Beach,8
+81,14052,"Cal State University, Dominguez Hills",1000 E Victoria St,Carson,8
+31,14525,Augustus Hawkins High School,825 W 60th St,Los Angeles,8
+761,8517,Wilson Senior High,4500 Multnomah St,Los Angeles,8
+26,12803,Armenian Cilicia Evangelical Church,339 S Santa Anita Ave,Pasadena,8
+27,4656,Armstrong Elementary School,22750 Beaverhead Dr,Diamond Bar,8
+28,14584,Artesia DES Portuguese Hall,11903 Ashworth St,Artesia,8
+29,14260,Athens Park,12603 S Broadway,Los Angeles,8
+30,2569,Atwater Avenue Elementary School,3271 Silver Lake Blvd,Los Angeles,8
+32,14553,Avenue of the Stars,10050 Constellation Blvd,Los Angeles,8
+23,14047,Antelope Valley Church of God in Christ,37827 97th Street East,Littlerock,8
+33,13821,Aviation Gymnasium,1935 Manhattan Beach Blvd,Redondo Beach,8
+760,14655,Wilson Elementary School,8317 Sheffield Rd,San Gabriel,8
+759,3908,Wilshire Park Elementary School,4063 Ingraham St,Los Angeles,8
+36,14550,Baldwin Park Library,4181 Baldwin Park Blvd,Baldwin Park,8
+37,13803,Banc of California Stadium,3939 S Figueroa St,Los Angeles,8
+38,6867,Banning Recreation Center,1331 Eubank Ave,Wilmington,8
+24,14601,Applied Technology Center High School,1200 W Mines Ave,Montebello,8
+22,14256,Animo Pat Brown Charter High School,8205 Beach St,Los Angeles,8
+758,7976,Wilshire Crest Elementary School,5241 W Olympic Blvd,Los Angeles,8
+9,14157,Adat Ari El,12020 Burbank Blvd,Valley Village,8
+3,5194,A C Stelle Middle School,22450 Mulholland Hwy,Calabasas,8
+4,14139,A V Fair and Event Center,2551 West Avenue H,Lancaster,8
+5,14597,Abraham Lincoln High School,3501 N Broadway,Los Angeles,8
+6,13156,ACF Beshir Mardirossian Youth Center,75 E Santa Anita Ave,Burbank,8
+7,13199,Acton Elementary School,32248 Crown Valley Rd,Acton,8
+8,13923,Acton Rehabilitation Center,30500 Arrastre Canyon Rd,Acton,8
+10,14140,Agoura Hills/Calabasas Community Center,27040 Malibu Hills Rd,Calabasas,8
+20,14046,Anderson W Clark Magnet High School,4747 New York Ave,Glendale,8
+11,14589,Agua Dulce Airpark,33638 Agua Dulce Canyon Rd,Santa Clarita,8
+13,1883,Alfred B Nobel Charter Middle School,9950 Tampa Ave,Northridge,8
+14,13181,Alondra Community Regional Park,3535 Redondo Beach  Blvd,Torrance,8
+765,3600,Wittmann Elementary School,16801 Yvette Ave,Cerritos,8
+17,14255,Alvarado Intermediate School,1901 Desire Ave,Rowland Heights,8
+764,1975,Winnetka Recreation Center,8401 Winnetka Ave,Winnetka,8
+39,10308,Barker Hangar,3021 Airport Ave Suite 203,Santa Monica,8
+41,8746,Barrio Action Youth and Family Center,4927 Huntington Dr N Unit 200,Los Angeles,8
+80,14520,"Cal State Poly University, Pomona",3801 W Temple Ave,Pomona,8
+71,7358,Brockton Avenue Elementary School,1309 Armacost Ave,Los Angeles,8
+63,13304,Bouquet Canyon Elementary,28110 Wellston Dr,Saugus,8
+65,13193,Bradley Multi Purpose Room,10957 S Central Ave,Los Angeles,8
+752,3200,Will Rogers Middle School,365 Monrovia Ave,Long Beach,8
+68,2530,Bret Harte Middle School,9301 S Hoover St,Los Angeles,8
+750,5792,Wilkerson Middle School,2700 Doreen Ave,El Monte,8
+70,2262,Brightwood Elementary School,1701 Brightwood St,Monterey Park,8
+72,14149,Bud Carson Middle School,13838 Yukon Ave,Hawthorne,8
+61,8754,Bnai David Judea,8906 W Pico Blvd,Los Angeles,8
+73,9859,Buena Vista Branch Library,300 N Buena Vista St,Burbank,8
+74,14274,Burbank High School,902 N 3rd St,Burbank,8
+76,11774,C Robert Lee Activity Center,21815 Pioneer Blvd,Hawaiian Gardens,8
+77,5943,Cabrillo Avenue Elementary School,732 S Cabrillo Ave,San Pedro,8
+78,8627,Cabrillo High School,2001 Santa Fe Ave,Long Beach,8
+79,3820,Cahuenga Elementary School,220 S Hobart Blvd,Los Angeles,8
+62,13837,Bob Hope Patriotic Hall,1816 S Figueroa St,Los Angeles,8
+60,1803,Blandford Elementary School,2601 Blandford Dr,Rowland Heights,8
+42,14526,Barton Hill Elementary School,423 N Pacific Ave,San Pedro,8
+50,416,Bell Gardens Veterans Park,6662 Loveland St,Bell Gardens,8
+43,12366,Bassett Adult School,943 N Sunkist Ave,La Puente,8
+45,310,Bateman Hall,11331 Ernestine Ave,Lynwood,8
+46,12532,Bay Shore Comm Congregational Church,5100 E The Toledo,Long Beach,8
+47,14543,Beardslee Elementary School,1212 Kellwill Way,Duarte,8
+48,450,Bell Community Center,6250 Pine Ave,Bell,8
+49,14604,Bell Gardens High School,6119 Agra St,Bell Gardens,8
+51,14665,Belvedere Park,4914 E. Cesar Chavez,Los Angeles,8
+59,13159,Blair High School,1201 S Marengo Ave,Pasadena,8
+52,11752,Bethel AME Church LA,7900 S Western Ave,Los Angeles,8
+53,14666,Bethesda Presbyterian Church ,14420 Crenshaw Blvd,Gardena,8
+55,13844,Beverly Hills City Hall,450 N Crescent Dr,Beverly Hills,8
+56,14148,Beverly Hills Women's Club,1700 Chevy Chase Dr,Beverly Hills,8
+57,4506,Birdielee V Bright Elementary School,1771 W 36th St,Los Angeles,8
+754,1751,Willow Adult Education Center,14101 Nelson Ave,La Puente,8
+167,3968,Diamond Bar City Hall,21810 Copley Dr,Diamond Bar,8
+734,13878,Wellnest Emotional Health & Wellness,3787 S Vermont Ave,Los Angeles,8
+169,1926,Disabled American Veterans #73,6543 Corbin Ave,Woodland Hills,8
+266,2225,Glendora United Methodist Church,201 E Bennett Ave,Glendora,8
+248,14530,Fries Avenue Elementary School,1301 N Fries Ave,Wilmington,8
+703,14237,Valinda School of Academics,1030 Indian Summer Ave,La Puente,8
+251,14338,Garey High School,321 W Lexington Ave,Pomona,8
+252,14175,Garvey Center,9108 Garvey Ave,Rosemead,8
+253,14531,George K Porter Middle School,15960 Kingsbury St,Granada Hills,8
+254,3126,George Lane Park,5520 West Avenue L8,Lancaster,8
+702,2544,Valencia Valley Elementary School,23601 Carrizo Dr,Valencia,8
+256,10323,George Washington Prep High School,10860 South Denker Ave,Los Angeles,8
+257,14176,Gidley Elementary School,10226 Lower Azusa Rd,El Monte,8
+258,554,Glassell Park Recreation Center,3650 Verdugo Rd,Los Angeles,8
+259,14341,Glen A Wilson High School,16455 Wedgeworth Dr,Hacienda Heights,8
+260,14342,Glen Oak Elementary School,1000 N Sunflower Ave,Covina,8
+701,14645,USC Health Science Campus,2001 N Soto St,Los Angeles,8
+700,14126,University of Southern California,3400 South Figueroa St,Los Angeles,8
+264,14598,Glendale Police Department,131 N Isabel St,Glendale,8
+247,10309,Friendship Auditorium,3201 Riverside Dr,Los Angeles,8
+705,6976,Valley Korean United Methodist Church,10408 Balboa Blvd,Granada Hills,8
+706,14590,Van Nuys Elks Lodge,14440 Friar St,Van Nuys,8
+236,5033,Foster Elementary School,13900 Foster Ave,Baldwin Park,8
+229,10093,Felicitas & Gonzalo Mendez High School,1200 Plaza Del Sol E,Los Angeles,8
+230,7203,First Baptist Church,28 Moccasin Ln,Rolling Hills Estates,8
+231,7927,First UMC San Fernando,1525 Glenoaks Blvd,San Fernando,8
+707,14537,Van Nuys Middle School,5435 Vesper Ave,Van Nuys,8
+234,14329,Foisia Park,23410 Catskill Ave,Carson,8
+235,14070,Former Fire Station 1,1444 7th St,Santa Monica,8
+237,212,Founders Hall,200 Civic Center Way,Calabasas,8
+244,5753,Franklin Elementary School,527 Ventura St,Altadena,8
+170,11055,Dockweiler Youth Center,12505 Vista del Mar,Playa Del Rey,8
+239,7236,Four Points by Sheraton LAX,9750 Airport Blvd,Los Angeles,8
+240,14611,Four Seasons Westlake Village,2 Dole Dr,Westlake Village,8
+241,14332,Frank D Parent Elementary School,5354 W 64th St,Inglewood,8
+242,8884,Frank Del Olmo Elementary School,100 N New Hampshire Ave,Los Angeles,8
+243,2332,Franklin D Roosevelt Park,7600 Graham Ave,Los Angeles,8
+265,14179,Glendale Youth Center,211 W Chestnut St,Glendale,8
+268,4774,Good Shepherd MBC of LA,510 W 53rd St,Los Angeles,8
+227,14327,FAME Renaissance Center,1968 W Adams Blvd,Los Angeles,8
+269,14544,Goodwill Community Enrichment Center,3150 N San Fernando Rd,Los Angeles,8
+289,14077,Hawthorne High School,4859 W El Segundo Blvd,Hawthorne,8
+290,14182,Hawthorne Library,12700 Grevillea Ave,Hawthorne,8
+292,2666,Hermosa Beach Community Center,710 Pier Ave,Hermosa Beach,8
+293,14183,Hermosa Valley School,1645 Valley Dr,Hermosa Beach,8
+696,6166,Union Avenue Elementary School,150 S Burlington Ave,Los Angeles,8
+295,14358,Higher Vision Church,28776 The Old Rd,Valencia,8
+296,14185,Hillcrest Elementary School,795 Pepper St,Monterey Park,8
+297,14363,Hillview Middle School,40525 Peonza Ln,Palmdale,8
+695,9725,UCLA Ackerman Union,340 Royce Dr,Los Angeles,8
+299,5384,Hollingworth Elementary School,3003 E Hollingworth St,Los Angeles,8
+300,12309,Hollydale Community Center,12221 Industrial Ave,South Gate,8
+301,13826,Hollywood Bowl,2301 N Highland Ave,Los Angeles,8
+302,9023,Hollywood Hotel,1160 N Vermont Ave,Los Angeles,8
+303,14079,Hollywood Palladium,6215 Sunset Blvd,Los Angeles,8
+304,13853,Hollywood Pantages Theatre,6233 Hollywood Blvd,Los Angeles,8
+288,5777,Haskell STEM Academy,11525 Del Amo Blvd,Cerritos,8
+287,6932,Harrison Elementary School,3529 City Terrace Dr,Los Angeles,8
+286,463,Hammer Museum,10899 Wilshire Blvd,Los Angeles,8
+698,14552,Union Station,811 N Vignes St,Los Angeles,8
+270,10821,Goodwill Southern California,14565 Lanark St,Panorama City,8
+272,3275,Grace United Methodist Church,4112 W Slauson Ave,Los Angeles,8
+273,13785,Granada Park,2000 W Hellman Ave,Alhambra,8
+274,1443,Grand Central Market,317 S Broadway,Los Angeles,8
+699,14644,Universal CityWalk Hollywood,100 Universal City Plaza,Universal City,8
+276,11483,Grant Elementary School,2368 Pearl St,Santa Monica,8
+278,6908,Gratts Elementary School,309 Lucas Ave,Los Angeles,8
+285,14354,Hamilton Adult School,2606 W 182nd St,Torrance,8
+697,7566,Union Church LA,201 S New Ave,Monterey Park,8
+280,14245,Great Commission Worship Center,8644 East Avenue T,Littlerock,8
+281,11801,H&H Jivalagian Youth Center,2242 E Foothill Blvd,Pasadena,8
+282,782,Hacienda - La Puente USD Office,15959 E Gale Ave,City of Industry,8
+283,4122,Hacienda Heights Comm and Rec Center,1234 Valencia Ave,Hacienda Heights,8
+284,13031,Hacienda Park,1885 Hacienda Rd,La Habra Heights,8
+228,5115,Felicia Mahood Multipurpose Center,11338 Santa Monica Blvd,Los Angeles,8
+238,14516,Four Points by Sheraton LA Westside,5990 Green Valley Cir,Culver City,8
+629,12286,Southeast Academy High School,12940 Foster Rd,Norwalk,8
+211,14171,Endeavour Middle School,43755 45th Street West,Lancaster,8
+210,14170,Encinita Elementary School,4515 Encinita Ave,Rosemead,8
+715,10465,Victoria Community Regional Park,419 E 192nd St,Carson,8
+208,14591,Embassy Suites by Hilton LAX South,1440 East Imperial Highway,El Segundo,8
+179,13811,Duarte High School,1565 E Central Ave,Duarte,8
+721,14240,Vista Del Mar Child & Family Services,3200 Motor Ave,Los Angeles,8
+206,4401,Elysian Valley Recreation Center,1811 Ripple St,Los Angeles,8
+205,2755,Elysian Park Therapeutic Rec Center,929 Academy Rd,Los Angeles,8
+716,1836,Victory Boulevard Elementary School,6315 Radford Ave,North Hollywood,8
+203,14318,Elks Lodge 2190,20925 Osborne St,Canoga Park,8
+724,9391,Walnut High School,400 Pierre Rd,Walnut,8
+181,3155,E Whittier United Methodist Church,10005 Cole Rd,Whittier,8
+718,240,Villa Parke Community Center,363 E Villa St,Pasadena,8
+200,12476,El Roble Intermediate School,665 N Mountain Ave,Claremont,8
+199,13395,El Monte Station (LA Metro),3501 Santa Anita Ave,El Monte,8
+709,14238,Vasquez High School,33630 Red Rover Mine Rd,Acton,8
+720,6487,Virginia Road Elementary School,2925 Virginia Rd,Los Angeles,8
+195,2636,El Camino High School,14625 Keese Dr,Whittier,8
+182,14578,Eagle Rock Elementary School,2057 Fair Park Ave,Los Angeles,8
+194,1377,El Camino Community College,16007 Crenshaw Blvd,Torrance,8
+193,10862,Edgewood Academy Elementary School,14135 Fairgrove Ave,La Puente,8
+192,13957,Echo Community Center,313 Patton St,Los Angeles,8
+191,13991,Eastside High School,3200 East Avenue J 8,Lancaster,8
+190,14770,Eastmont Community Center,701 Hoefner Ave,Los Angeles,8
+188,9389,East Rancho Dominguez Park,15116 S Atlantic Ave,Compton,8
+186,11770,East Los Angeles College,1301 Avenida Cesar Chavez,Monterey Park,8
+178,6503,Drake Park,951 Maine Ave,Long Beach,8
+207,14167,Embassy Suites by Hilton LAX North,9801 Airport Blvd,El Segundo,8
+184,379,Eagle Rock Recreation Center,1100 Eagle Vista Dr,Los Angeles,8
+212,1823,Enterprise Park,13055 Clovis Ave,Los Angeles,8
+220,13148,Estrella Elementary School,120 E 57th St,Los Angeles,8
+219,7674,Estelle Van Meter Multi-Purpose Center,7600 S Avalon Blvd,Los Angeles,8
+173,14529,Dominguez Elementary School,21250 S Santa Fe Ave,Carson,8
+710,14239,Vector 90,6111 S Gramercy Pl,Los Angeles,8
+172,14061,Dollarhide Health Center,1108 N Oleander Ave,Compton,8
+218,2802,Esperanza Elementary School,680 Little St,Los Angeles,8
+222,1928,Fairfax Senior Citizen Center,7929 Melrose Ave,Los Angeles,8
+216,14313,Ernest McBride Park & Cal Rec Comm Ctr,1550 Martin Luther King Jr Ave,Long Beach,8
+175,14163,DoubleTree by Hilton LAX - El Segundo,1985 East Grand Ave,El Segundo,8
+713,8561,Veterans Park,22400 Moneta Ave,Carson,8
+727,3323,Ward Elementary School,8851 Adoree St,Downey,8
+214,13038,Epoca Hall,6624 Atlantic Ave,Bell,8
+726,5847,War Memorial Building,435 Fair Oaks Ave,South Pasadena,8
+714,12822,VFW Post 8620,2328 Merced Ave,West Covina,8
+223,14173,Fairgrove Academy,15540 Fairgrove Ave,La Puente,8
+224,13599,Fairplex,1101 W McKinley Ave Gate 1,Pomona,8
+177,14165,Dr Ronald E McNair Elementary School,1450 W El Segundo Blvd,Compton,8
+174,14164,DoubleTree by Hilton LA Downtown,120 S Los Angeles St,Los Angeles,8
+189,12986,East Whittier Middle School,14421 Whittier Blvd,Whittier,7
+94,10948,Carmelitos Community Center,851 Via Carmelitos,Long Beach,7
+158,14160,Dan Diaz Recreation Center,16053 Calle De Paseo,Irwindale,7
+364,4420,Kranz Intermediate School,12460 Fineview St,El Monte,7
+420,14663,Los Angeles Valley College,5800 Fulton Ave,Valley Glen,6
+763,1909,Winnetka Avenue Elementary School,8240 Winnetka Ave,Winnetka,6
+316,14662,Huntington Park Library,6518 Miles Ave,Huntington Park,6
+147,10995,Covina Senior and Community Center,815 N Barranca Ave,Covina,6
+148,10993,Covina Woman's Club,128 S San Jose Ave,Covina,6
+150,14556,Crescenta Valley High School,2900 Community Ave,La Crescenta,6
+751,11488,Will Rogers Learning Community,2401 14th St,Santa Monica,6
+75,13359,Burton Chace Park,13650 Mindanao Way,Marina Del Rey,6
+151,395,Crowther Teen and Family Center,241 W Dawson Ave,Glendora,6
+183,1478,Eagle Rock Plaza,2700 Colorado Blvd,Los Angeles,6
+271,4592,Grace Baptist Church,22833 Copper Hill Dr,Santa Clarita,6
+533,9057,Plummer Park Community Center,7377 Santa Monica Blvd,West Hollywood,6
+44,6051,Bassett Street Elementary School,15756 Bassett St,Van Nuys,6
+19,1760,American Gold Star Manor,3021 N Gold Star Dr,Long Beach,6
+757,13353,Wilmington Senior Citizen Center,1371 Eubank Ave,Wilmington,6
+267,14345,Golden Poppy Elementary School,37802 Rockie Ln,Palmdale,6
+577,14454,Roxbury Park,471 S Roxbury Dr,Beverly Hills,6
+610,385,Shatto Recreation Center,3191 W 4th St,Los Angeles,5
+621,14518,Skirball Cultural Center,2701 N Sepulveda Blvd,Los Angeles,5
+458,4867,Miraleste Intermediate School,29323 Palos Verdes Dr E,Rancho Palos Verdes,5
+2,14045,A C Bilbrew Library,150 E El Segundo Blvd,Los Angeles,5
+226,13849,Faithful Central Bible Church,333 W Florence Ave,Inglewood,5
+599,7998,Sato Academy,1100 Iroquois Ave,Long Beach,5
+496,2821,Norwalk Masonic Center,12345 Rosecrans Ave,Norwalk,5
+103,9851,Castlebay Lane Charter Elementary,19010 Castlebay Ln,Porter Ranch,5
+748,14649,Whitney High School,16800 Shoemaker Ave,Cerritos,5
+84,11778,"Cal State University, Northridge",18111 Nordhoff St,Northridge,5
+548,14583,Rancho Los Amigos National Rehab Center,7601 E Imperial Hwy,Downey,5
+660,14228,Temple City High School,9501 Lemon Ave,Temple City,5
+680,14234,Thompson Park Building,14001 Bellflower Blvd,Bellflower,5
+249,7572,Gahr High School,11111 Artesia Blvd,Cerritos,5
+187,14315,East Los Angeles Library,4837 E 3rd St,Los Angeles,5
+363,3676,Kingsley Elementary School,5200 W Virginia Ave,Los Angeles,5
+198,423,El Monte Community Center,3130 Tyler Ave,El Monte,5
+676,14120,The Wiltern,3790 Wilshire Blvd,Los Angeles,5
+261,12401,Glendale Church of Christ,2021 W Glenoaks Blvd,Glendale,5
+137,7831,Columbus Middle School,22250 Elkwood St,Canoga Park,5
+428,14397,Lyons Station Shopping Center,23414 Lyons Ave Unit A,Santa Clarita,5
+336,2399,James Monroe High School,9229 Haskell Ave,North Hills,5
+712,441,Veterans Memorial Complex,4117 Overland Ave,Culver City,4
+657,10197,Taylor Reception Hall,1775 N Indian Hill Blvd,Claremont,4
+708,2865,Van Nuys Recreation Center,14301 Vanowen St,Van Nuys,4
+689,11790,Tree of Life Baptist Church,9702 Holmes Ave,Los Angeles,4
+667,14659,The Grand Long Beach,4101 E Willow St,Long Beach,4
+681,5225,Tibby Elementary School,1400 W Poplar St,Compton,4
+652,3617,Stoner Recreation Center,1835 Stoner Ave,Los Angeles,4
+638,2062,St Johns Episcopal Church,4745 Wheeler Ave,La Verne,4
+736,9153,West Athens Elementary School,1110 W 119th St,Los Angeles,4
+648,13804,STAPLES Center,1111 S Figueroa,Los Angeles,4
+636,14594,St Gerard Majella Church,4471 Inglewood Blvd,Los Angeles,4
+767,349,YMCA of Greater Whittier,12510 Hadley St,Whittier,4
+0,14246,100 Thieves,6050 Jefferson Blvd,Los Angeles,4
+768,14133,YWCA- Harbor Area,437 W 9th St,San Pedro,4
+168,14546,Diamond Bar High School,21400 Pathfinder Rd,Diamond Bar,4
+176,14515,DoubleTree San Pedro Port of LA,2800 Via Cabrillo-Marina,San Pedro,4
+502,14625,ONEgeneration,17400 Victory Blvd,Van Nuys,4
+196,14316,El Camino Real Charter High School,5440 Valley Circle Blvd,Woodland Hills,4
+474,14554,Museum of Latin American Art,628 Alamitos Ave,Long Beach,4
+204,9291,Elysian Masonic Lodge,1900 N Vermont Ave,Los Angeles,4
+215,14066,ERETZ Synagogue & Cultural Center,6170 Wilbur Ave,Tarzana,4
+446,3084,Mayfair Park,5720 Clark Ave,Lakewood,4
+445,2959,Maxine Waters Employment Center,10925 S Central Ave,Los Angeles,4
+225,14325,Faith In Christ Ministries,4501 S Western Ave,Los Angeles,4
+232,3897,First United Methodist Church,500 E Colorado Blvd,Pasadena,4
+424,14099,Loyola Marymount University,1 Loyola Marymount University Dr,Los Angeles,4
+233,13672,Florence Avenue Foursquare Church,11457 Florence Ave,Santa Fe Springs,4
+412,13862,Los Angeles City College,855 N Vermont Ave,Los Angeles,4
+407,13939,Long Beach Convention Center,300 E Ocean Blvd,Long Beach,4
+255,10747,George Nakano Theater,3301 Torrance Blvd,Torrance,4
+383,6619,Laborers Local 300,14800 Devonshire St,Mission Hills,4
+381,14383,La Serna High School,15301 Youngwood Dr,Whittier,4
+376,11713,La Mirada Activity Center,13810 La Mirada Blvd,La Mirada,4
+371,14619,La Crescenta Womans Club,4004 La Crescenta Ave,Glendale,4
+354,8548,Juan De Anza Elementary School,12110 Hindry Ave,Hawthorne,4
+337,11826,Jane Addams Middle School,4535 W 153rd Pl,Lawndale,4
+275,14180,Grandview College Preparatory Academy,795 Grandview Ln S,La Puente,4
+322,10024,Iman Cultural Center,3376 Motor Ave,Los Angeles,4
+511,14010,Palmdale High School,2137 East Avenue R,Palmdale,4
+298,14187,Hilton LA North/Glendale & Exec Ctr,100 West Glenoaks Blvd,Glendale,4
+567,11486,Roosevelt Elementary School,801 Montana Ave,Santa Monica,4
+133,14156,Cloverly Elementary School,5476 Cloverly Ave,Temple City,4
+58,13951,Birmingham Comm Charter High School,17000 Haynes St,Van Nuys,4
+558,11494,Rio Norte Junior High School,28771 Rio Norte Dr,Santa Clarita,4
+569,14131,Rose Goldwater Community Center,21710 Vanowen St,Canoga Park,4
+25,4403,Arlington Heights Elementary School,1717 7th Ave,Los Angeles,4
+67,13838,Brenda Villa Aquatic Center,5600 Harbor St,Commerce,4
+568,5300,Roosevelt Middle School,1200 E Alondra Blvd,Compton,4
+581,3636,Salazar Park,3864 Whittier Blvd,Los Angeles,4
+100,7524,Castaic Middle School,28900 Hillcrest Pkwy,Castaic,4
+582,14137,Salesian High School,960 S Soto St,Los Angeles,4
+544,14431,PUC Triumph Charter High School,13361 Glenoaks Blvd,Sylmar,4
+35,11533,Azusa Women's Club,1003 N Azusa Ave,Azusa,4
+528,1769,Pioneer High School,10800 Benavon St,Whittier,4
+16,13203,Altadena Senior Center,560 E Mariposa St,Altadena,4
+118,14291,Chevy Chase Country Club,3067 E Chevy Chase Dr,Glendale,4
+15,14141,Alondra Middle School,16200 Downey Ave,Paramount,4
+403,3694,Lockwood Avenue Elementary School,4345 Lockwood Ave,Los Angeles,3
+166,13903,Diamond Bar Center,1600 Grand Ave,Diamond Bar,3
+262,14177,Glendale Express Hotel,450 W Pioneer Dr,Glendale,3
+18,14142,Amargosa Creek Middle School,44333 27th Street West,Lancaster,3
+571,14218,Rosemead Community Recreation Center,3936 Muscatel Ave,Rosemead,3
+723,4612,Walnut Elementary School,4701 Walnut St,Baldwin Park,3
+309,2217,Hope Community Church,1429 Clark Ave,Long Beach,3
+525,14424,Philadelphia Elementary School,600 Philadelphia St,Pomona,3
+250,14071,Ganesha High School,1151 Fairplex Dr,Pomona,2
+54,13357,Betty Hill Senior Citizen Center,3570 S Denker Ave,Los Angeles,2
+217,12833,Eshelman Avenue Elementary School,25902 Eshelman Ave,Lomita,2
+64,10834,Boyle Heights Senior Center,2839 E 3rd St,Los Angeles,2
+83,13799,"Cal State University, Los Angeles",5151 State University Dr,Los Angeles,2
+213,14172,Episcopal Church - The Ascension,25 E Laurel Ave,Sierra Madre,2
+201,14481,El Segundo Teen Center,405 East Grand Ave,El Segundo,2
+197,11791,El Hussein Community Center,4313 Gage Ave,Bell,2
+600,13971,Saugus Union School District,24930 Avenue Stanford,Santa Clarita,2
+294,14184,High Desert School,3620 Antelope Woods Rd,Acton,2
+40,9733,Barrington Recreation Center,333 S Barrington Ave,Los Angeles,2
+622,11809,Smith Park,6016 Rosemead Blvd,Pico Rivera,2
+263,14073,Glendale High School,1440 E Broadway,Glendale,2
+417,13187,Los Angeles Pierce College,6201 Winnetka Ave,Woodland Hills,2
+546,603,Ramona Hall Community Center,4580 N Figueroa St,Los Angeles,2
+644,14024,St Paul The Apostle Catholic Community,1526 Selby Ave,Los Angeles,2
+553,14016,Regis House Community Center,2212 Beverly Blvd,Los Angeles,2
+524,9990,Perry Park,2301 Grant Ave,Redondo Beach,2
+34,14145,Awaken LA Church,5853 Laurel Canyon Blvd,Valley Village,1
+246,14336,Fremont High School,7676 S San Pedro St,Los Angeles,1
+132,14203,CLOSED - La Quinta Inn and Suites by Wyndham LAX,5249 West Century Blvd,Los Angeles,0
+131,13848,CLOSED - Debbie Allen Dance Academy,3791 Santa Rosalia Dr,Los Angeles,0
+130,14254,CLOSED - Alliance Alice M Baxter College Ready,461 W 9th St,San Pedro,0
+128,13899,Claremont Helen Renwick Library,208 N Harvard Ave,Claremont,0
+549,400911,Raul R Perez Memorial Park,6208 Alameda St,Huntington Park,0
+654,14637,Sunkist Library,840 N Puente Ave,La Puente,0
+136,6945,Columbia Elementary School,3400 California Ave,El Monte,0
+112,14155,Cesar Chavez Alternative School,12501 Wilmington Ave,Compton,0
+110,14671,Centro de Vida Victoriosa AG,715 Brady Ave,Los Angeles,0
+108,14153,Central City Neighborhood Partners,501 S Bixel St,Los Angeles,0
+139,12880,Community Church of Los Angeles,10611 S Hoover St,Los Angeles,0
+92,11732,Caravalho Santa Clarita Sports Complex,20870 Centre Pointe Pkwy,Santa Clarita,0
+86,11749,Calvary Chapel Golden Springs,22324 Golden Springs Dr,Diamond Bar,0
+66,13956,Branford Recreation Center,13306 Branford St,Arleta,0
+69,3776,Bridges Academy,3921 Laurel Canyon Blvd,Studio City,0
+154,14528,Curtiss Middle School,1254 E Helmick St,Carson,0
+555,14445,Ridgecrest Intermediate School,28915 Northbay Rd,Rancho Palos Verdes,0
+559,7765,Rio Vista Elementary School,4300 Esto Ave,El Monte,0
+755,5807,Willow Elementary School,11733 205th St,Lakewood,0
+756,2359,Wilmington Park Elementary School,1140 Mahar Ave,Wilmington,0
+565,2452,Rockdale Elementary School,1303 Yosemite Dr,Los Angeles,0
+566,13880,Rogers Park,400 W Beach Ave,Inglewood,0
+639,13874,St Luke's Episcopal Church,525 E 7th St,Long Beach,0
+762,11629,Wilsona Elementary School,41625 170th Street East,Lake Los Angeles,0
+21,14143,Animo Florence-Firestone Charter School,8255 Beach St,Los Angeles,0
+635,14467,St Euphrasia Church,11766 Shoshone Ave,Granada Hills,0
+594,6465,Santa Anita Church,226 Colorado Blvd,Arcadia,0
+766,13825,WODOC & Sooky Goldman Nature Center,2600 Franklin Canyon Dr,Beverly Hills,0
+598,11491,Santa Monica High School,601 Pico Blvd,Santa Monica,0
+152,14159,Crozier Middle School,120 W Regent St,Inglewood,0
+310,14577,Horace Mann Elementary School,8701 Charleville Blvd,Beverly Hills,0
+326,3240,In Christ Community Church,19514 Rinaldi St,Northridge,0
+704,14580,Valley Academy of Arts and Sciences,10445 Balboa Blvd,Granada Hills,0
+444,14670,Maurice Sendak Elementary School,11414 W Tiara St,North Hollywood,0
+711,12883,Vermont Avenue Elementary School,1435 W 27th St,Los Angeles,0
+221,14564,EXPO Center,3980 Bill Robertson Ln,Los Angeles,0
+432,13817,Magic Castle,7001 Franklin Ave,Los Angeles,0
+674,13527,The Village at Indian Hill,1460 E Holt Ave Unit 4,Pomona,0
+245,10554,Franklin Elementary School,2400 Montana Ave,Santa Monica,0
+416,9532,Los Angeles Mission College,13356 Eldridge Ave,Sylmar,0
+466,2470,Montara Avenue Elementary School,10018 Montara Ave,South Gate,0
+406,14621,Long Beach City College - Pacific Coast,1305 E Pacific Coast Hwy,Long Beach,0
+391,5974,Laurel Elementary School,925 N Hayworth Ave,Los Angeles,0
+335,14532,James Madison Middle School,13000 Hart St,North Hollywood,0
+333,14196,ISANA Achernar Academy - Willard School,310 E El Segundo Blvd,Compton,0
+277,8150,Grant Elementary School,1530 N Wilton Pl,Los Angeles,0
+279,14349,Grazide Elementary School,2850 Leopold Ave,Hacienda Heights,0
+669,14119,The Mountain Mermaid,20421 Callon Dr,Topanga,0
+209,14582,Emerson Middle School,1650 Selby Ave,Los Angeles,0
+731,14523,Washington Middle School,1505 N Marengo Ave,Pasadena,0
+180,4374,Durfee Elementary School,4220 Durfee Ave,Pico Rivera,0
+162,13845,Darby Park,3400 W Arbor Vitae St,Inglewood,0
+523,2549,Patrick Henry Middle School,17340 San Jose St,Granada Hills,0
+522,14423,Pasadena Convention Center,300 E Green St,Pasadena,0
+171,14161,Dodger Stadium,1000 Vin Scully Ave,Los Angeles,0
+508,10359,Palisades Recreation Center,851 Alma Real Dr,Pacific Palisades,0
+725,6803,Walnut Park Elementary School,2642 Olive St,Walnut Park,0
+486,400908,Nimitz Middle School,6021 Carmelita Ave,Huntington Park,0
+471,14412,Mountainview Family Center,2740 Mountainview Rd,El Monte,0
+722,376,Wabash Recreation Center,2765 Wabash Ave,Los Angeles,0
+185,8782,East LA Rising Youth Club,324 N McDonnell Ave,Los Angeles,0
+663,14638,The Beverly Hilton,9876 Wilshire Blvd,Beverly Hills,0
+477,6093,Neff Park Barn,14300 San Cristobal Dr,La Mirada,0
+473,6408,Murphy Ranch Elementary School,16021 Janine Dr,Whittier,0
+717,3829,Victory Park,2575 Paloma St,Pasadena,0
+161,14305,Dapple Gray Elementary School,3011 Palos Verdes Dr N,Rolling Hills Estates,0
