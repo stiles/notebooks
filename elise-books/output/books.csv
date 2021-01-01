@@ -1,53 +1,40 @@
 ,order,title,author,pages,url,gender,type,subgenre,avg_goodreads_rating,started,date,faves,year,days_to_read,gender_description
-0,1,Brotopia,Emily Chang,317,https://www.goodreads.com/book/show/36288143-brotopia,F,Non-Fiction,Business,4.04,2018-12-26,2019-01-06,,2019,11,Female
-1,2,The Human Stain,Philip Roth,384,https://www.goodreads.com/book/show/11734.The_Human_Stain?from_search=true,M,Fiction,Literature,3.87,2019-01-06,2019-01-16,Y,2019,10,Male
-2,3,You Know You Want This,Kristen Roupenian,225,https://www.goodreads.com/book/show/40539045-you-know-you-want-this,F,Fiction,Short Stories,3.86,2019-01-16,2019-01-19,,2019,3,Female
-3,4,Why Buddhism is True,Robert Wright,336,https://www.goodreads.com/book/show/32895535-why-buddhism-is-true?from_search=true,M,Non-Fiction,Religion,4.05,2019-01-18,2019-04-02,,2019,74,Male
-4,5,If Beale Street Could Talk,James Baldwin,197,https://www.goodreads.com/book/show/38463.If_Beale_Street_Could_Talk,M,Fiction,Classics,4.29,2019-01-22,2019-01-28,,2019,6,Male
-5,6,Nobody Cares,Anne Donahue,240,https://www.goodreads.com/book/show/36360167-nobody-cares,F,Non-Fiction,Essays,3.67,2019-02-03,2019-02-25,,2019,22,Female
-6,7,Acts of Infidelity,Lena Andersson,366,https://www.goodreads.com/book/show/22601256-utan-personligt-ansvar,F,Fiction,Swedish Lit,3.66,2019-02-01,2019-02-08,,2019,7,Female
-7,8,There Will Be No Miracles Here,Casey Gerald,394,https://www.goodreads.com/book/show/38650651-there-will-be-no-miracles-here?from_search=true,M,Non-Fiction,Memoir,3.72,2019-01-27,2019-02-11,,2019,15,Male
-8,9,The Unbearable Lightness of Being,Milan Kundera,320,https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being?from_search=true,M,Fiction,Classics,4.09,2019-02-16,2019-02-23,,2019,7,Male
-9,10,The Beauty Myth,Naomi Wolf,368,https://www.goodreads.com/book/show/39926.The_Beauty_Myth,F,Non-Fiction,Feminism,3.9,2019-02-12,2019-11-04,,2019,265,Female
-10,11,LOT,Bryan Washington,240,https://www.goodreads.com/book/show/40749395-lot,M,Fiction,Short Stories,3.74,2019-02-28,2019-03-15,Y,2019,15,Male
-11,12,Oculus,Sally Wen Mao,119,https://www.goodreads.com/book/show/40121999-oculus,F,Poetry,Contemporary,4.22,2019-03-03,2019-03-11,,2019,8,Female
-12,13,Homo Deus: A Brief History of Tomorrow,Yuval Harari,450,https://www.goodreads.com/book/show/31138556-homo-deus?from_search=true,M,Non-Fiction,History,4.29,2019-03-22,2019-04-19,,2019,28,Male
-13,14,Heart Berries,Terese Marie Mailhot,143,https://www.goodreads.com/book/show/35840657-heart-berries,F,Non-Fiction,Memoir,3.89,2019-04-03,2019-04-06,,2019,3,Female
-14,15,Lake Success,Gary Schneyngart,339,https://www.goodreads.com/book/show/36739942-lake-success,M,Fiction,Contemporary,3.64,2019-04-21,2019-12-07,,2019,230,Male
-15,16,Normal People,Sally Rooney,266,https://www.goodreads.com/book/show/37539457-normal-people,F,Fiction,Contemporary,3.89,2019-04-20,2019-04-21,Y,2019,1,Female
-16,17,Less,Andrew Sean Greer,273,https://www.goodreads.com/book/show/39927096-less,M,Fiction,Contemporary,3.76,2019-04-25,2019-05-08,,2019,13,Male
-17,18,Nobody is Ever Missing,Catherine Lacey,244,https://www.goodreads.com/book/show/18490560-nobody-is-ever-missing?from_search=true,F,Fiction,Contemporary,3.27,2019-05-08,2019-05-13,,2019,5,Female
-18,19,The New Me,Halle Butler,208,https://www.goodreads.com/book/show/36342706-the-new-me,F,Fiction,Contemporary,3.6,2019-05-13,2019-05-18,Nope,2019,5,Female
-19,20,The Empathy Exams,Leslie Jamison,226,https://www.goodreads.com/en/book/show/17934655,F,Non-Fiction,Essays,3.64,2019-05-18,2019-05-27,,2019,9,Female
-20,21,Bad Blood,John Carreyou,339,https://www.goodreads.com/book/show/37976541-bad-blood?from_search=true,M,Non-Fiction,True Crime,4.48,2019-06-01,2019-06-12,,2019,11,Male
-21,22,The Recovering: Intoxication and its Aftermath,Leslie Jamison,545,https://www.goodreads.com/book/show/35959632-the-recovering,F,Non-Fiction,Memoir,3.96,2019-05-27,2019-06-01,Y,2019,5,Female
-22,23,Evvie Drake Starts Over,Linda Holmes,304,https://www.goodreads.com/book/show/40514431-evvie-drake-starts-over?ac=1&from_search=true,F,Fiction,Young Adult,4.22,2019-06-30,2019-06-30,,2019,0,Female
-23,24,How to Change Your Mind,Michael Pollan,480,https://www.goodreads.com/book/show/36613747-how-to-change-your-mind?from_search=true,M,Non-Fiction,Science,4.31,2019-06-12,2019-10-18,,2019,128,Male
-24,25,Trust Exercise,Susan Choi,257,https://www.goodreads.com/en/book/show/40046059,F,Fiction,Contemporary,3.23,2019-06-12,2019-06-14,Y,2019,2,Female
-25,26,Trick Mirror,Jia Tolentino,256,https://www.goodreads.com/book/show/43126457-trick-mirror?from_search=true,F,Non-Fiction,Essays,4.33,2019-06-15,2019-06-30,Y,2019,15,Female
-26,27,Territory of Light,Yuko Tsushima,122,https://www.goodreads.com/book/show/33871745-territory-of-light,F,Fiction,Japanese Lit,3.66,2019-07-01,2019-07-06,,2019,5,Female
-27,28,Unclaimed Baggage,Jen Doll,384,https://www.goodreads.com/book/show/36949992-unclaimed-baggage?ac=1&from_search=true,F,Fiction,Young Adult,3.73,2019-01-08,2019-07-11,,2019,184,Female
-28,29,Fleishman Is In Trouble,Taffy Brodesser-Akner,384,https://www.goodreads.com/book/show/41880602-fleishman-is-in-trouble?ac=1&from_search=true,F,Fiction,Contemporary,4.1,2019-06-17,2019-06-28,Y,2019,11,Female
-29,30,Lifespan,David Sinclair,432,https://www.goodreads.com/book/show/43723901-lifespan?ac=1&from_search=true,M,Non-Fiction,Science,4.27,2019-07-01,2019-07-18,,2019,17,Male
-30,31,Uncanny Valley,Anna Wiener,304,https://www.goodreads.com/book/show/45186565-uncanny-valley?ac=1&from_search=true,F,Non-Fiction,Memoir,4.2,2019-07-19,2019-07-21,y,2019,2,Female
-31,32,Hit Makers,Derek Thompson,352,https://www.goodreads.com/book/show/30901608-hit-makers,M,Non-Fiction,Pop Culture,3.95,2019-07-20,2019-08-06,,2019,17,Male
-32,33,Genghis Khan and the Making of the Modern World,Jack Weatherford,352,https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world?ac=1&from_search=true,M,Non-Fiction,History,4.02,2019-07-25,2019-09-07,,2019,44,Male
-33,34,For the Love of Men: A New Vision for Mindful Masculinity,Liz Plank,300,https://www.goodreads.com/book/show/43263540-for-the-love-of-men,F,Non-Fiction,Feminism,4.38,2019-07-23,2019-08-02,,2019,10,Female
-34,35,Three Women,Lisa Taddeo,304,https://www.goodreads.com/book/show/42201100-three-women,F,Non-Fiction,Feminism,3.87,2019-08-15,2019-08-22,y,2019,7,Female
-35,36,Brave New World,Aldous Huxley,288,https://www.goodreads.com/book/show/5129.Brave_New_World?ac=1&from_search=true,M,Fiction,Science ,3.98,2019-09-15,2019-09-16,,2019,1,Male
-36,37,Permanent Record,Mary HK Choi,400,https://www.goodreads.com/book/show/43562239-permanent-record?from_search=true,F,Fiction,Young Adult,3.84,2019-09-07,2019-09-11,,2019,4,Female
-37,38,I Was Their American Dream,Malaka Gharib,160,https://www.goodreads.com/book/show/40909448-i-was-their-american-dream?from_search=true,F,Non-Fiction,Graphic Novel,4.3,2019-09-05,2019-09-12,,2019,7,Female
-38,39,Men Without Women,Haruki Murakami,242,https://www.goodreads.com/book/show/31950871-men-without-women,M,Fiction,Short Stories,3.77,2019-09-18,2019-09-25,,2019,7,Male
-39,40,Make it Scream Make it Burn,Leslie Jamison,272,https://www.goodreads.com/book/show/43521617-make-it-scream-make-it-burn?from_search=true,F,Non-Fiction,Essays,4.13,2019-10-02,2019-10-06,,2019,4,Female
-40,41,How to Talk So Your Kids Will Listen,Adele Faber and Elaine Mazlish,368,https://www.goodreads.com/book/show/12371502-how-to-talk-so-kids-will-listen-listen-so-kids-will-talk,F,Non-Fiction,Parenting,4.26,2019-09-28,2019-10-02,Y,2019,4,Female
-41,43,Maybe You Should Talk to Somebody,Lori Gottlieb,432,https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone?from_search=true,F,Non-Fiction,Memoir,4.4,2019-10-18,2019-11-25,Y,2019,38,Female
-42,44,Think Like Your Editor,Susan Rabiner,288,https://www.goodreads.com/book/show/18988615-thinking-like-your-editor?utm_content=review_cta_book_image&utm_medium=email&utm_source=bookend,F,Non-Fiction,Writing,4.04,2019-10-24,2019-10-28,,2019,4,Female
-43,45,Kim Ji Young Born 1982,Cho Nam-joo,144,https://www.goodreads.com/book/show/47320138-kim-ji-young-born-1982?ac=1&from_search=true,F,Fiction,Feminism,4.17,2019-10-28,2019-10-31,,2019,3,Female
-44,46,Superman vs the KKK,Rick Bowers,160,https://www.goodreads.com/book/show/11407829-superman-versus-the-ku-klux-klan?from_search=true,M,Non-Fiction,History,3.66,2019-10-28,2019-10-29,,2019,1,Male
-45,47,The Likeability Trap,Alicia Menendez,240,https://www.goodreads.com/book/show/46408581-the-likeability-trap?from_search=true&qid=oURYa3fiGo&rank=1,F,Non-Fiction,Feminism,3.7,2019-11-08,2019-11-13,,2019,5,Female
-46,48,A Short HIstory of Progress,Ronald Wright,224,https://www.goodreads.com/book/show/331227.A_Short_History_of_Progress?from_search=true&qid=supt2TGSOt&rank=1,M,Non-Fiction,History,4.1,2019-11-13,2019-11-29,,2019,16,Male
-47,49,The Last Romantics,Tara Conklin,368,https://www.goodreads.com/book/show/35068465-the-last-romantics?ac=1&from_search=true&qid=dert731j6D&rank=1,F,Fiction,Contemporary,3.78,2019-11-29,2019-12-02,Y,2019,3,Female
-48,50,Four Soldiers,Hubert Mingarelli,160,https://www.goodreads.com/book/show/41557466-four-soldiers?from_search=true&qid=tFOQALgbWg&rank=1,F,Fiction,Historical,3.78,2019-11-29,2019-12-03,,2019,4,Female
-49,51,Working,Robert Caro,231,https://www.goodreads.com/book/show/43205240-working?from_search=true&qid=51xloY5uTL&rank=1,M,Non-Fiction,Writing,4.43,2019-12-15,2019-12-18,,2019,3,Male
-50,52,The Incendiaries,R.O. Kwon,214,https://www.goodreads.com/book/show/36679056-the-incendiaries,F,Fiction,Contemporary,3.28,2019-12-19,2019-12-19,,2019,0,Female
-51,53,Wedding Toasts I'll Never Give,Ada Calhoun,192,https://www.goodreads.com/book/show/36236126-wedding-toasts-i-ll-never-give,F,Non-Fiction,Essays,3.86,2019-12-26,2019-12-27,,2019,1,Female
+0,1,How to Do Nothing,Jenny Odell,240.0,https://www.goodreads.com/author/show/18614151.Jenny_Odell,F,Non-Fiction,Self Help,3.97,2019-12-25,2020-01-06,,2020,12,Female
+1,2,Becoming Wise,Krista Tippett,288.0,https://www.goodreads.com/book/show/25894085-becoming-wise,F,Non-Fiction,Spirituality,4.15,2020-01-01,2020-01-12,Y,2020,11,Female
+2,3,Rework ,"Jason Fried, David Hansson",279.0,https://www.goodreads.com/book/show/6732019-rework?from_search=true&qid=TeHru4l6OG&rank=1,M,Non-Fiction,Business,3.94,2020-01-12,2020-01-17,,2020,5,Male
+3,4,Minor Feelings,Cathy Park Hong,224.0,https://www.goodreads.com/book/show/47544177-minor-feelings?from_search=true&qid=YwgnVM0MaX&rank=1,F,Non-Fiction,Essays,4.53,2020-01-14,2020-01-26,,2020,12,Female
+4,5,The Idiot,Elif Batuman,423.0,https://www.goodreads.com/book/show/30962053-the-idiot,F,Fiction,historical,3.63,2020-01-25,2020-02-02,,2020,8,Female
+5,6,If I Had Your Face,Frances Cha,288.0,https://www.goodreads.com/book/show/47548925-if-i-had-your-face?from_search=true&qid=c3Iw9aiNTi&rank=1,F,Fiction,Contemporary,3.97,2020-02-02,2020-02-06,,2020,4,Female
+6,7,Topics of Conversation,Miranda Popkey,224.0,https://www.goodreads.com/book/show/45754997-topics-of-conversation?from_search=true&qid=F1d5R6meaf&rank=1,F,Fiction,Contemporary,2.83,2020-02-06,2020-02-12,,2020,6,Female
+7,8,Bluets,Maggie Nelson,98.0,https://www.goodreads.com/book/show/6798263-bluets,F,Non-Fiction,Poetry,4.26,2020-02-12,2020-02-16,,2020,4,Female
+8,9,I Believe in a Thing Called Love,Maurene Goo,336.0,https://www.goodreads.com/book/show/31145133-i-believe-in-a-thing-called-love,F,Fiction,Young Adult,3.66,2020-02-23,2020-03-11,,2020,17,Female
+9,10,Untamed,Glennon Doyle,352.0,https://www.goodreads.com/book/show/52129515-untamed,F,Non-Fiction,Memoir,4.46,2020-03-07,2020-03-12,,2020,5,Female
+10,11,"Red, White and Royal Blue",Casey McQuiston,421.0,https://www.goodreads.com/book/show/41150487-red-white-royal-blue,F,Fiction,Romance,4.31,2020-03-12,2020-03-20,,2020,8,Female
+11,12,Bird by Bird: Some Instructions on Writing and Life,Anne Lamott,237.0,https://www.goodreads.com/book/show/12543.Bird_by_Bird,F,Non-Fiction,Writing,4.23,2020-03-21,2020-03-31,Y,2020,10,Female
+12,13,Cleanness,Garth Greenwell,240.0,https://www.goodreads.com/book/show/45892271-cleanness?ac=1&from_search=true&qid=ornMVFsX93&rank=2,M,Fiction,Contemporary,4.05,2020-03-31,2020-04-06,,2020,6,Male
+13,14,The Bridges of Madison County,Robert James Waller,221.0,https://www.goodreads.com/book/show/83674.The_Bridges_of_Madison_County,M,Fiction,Contemporary,3.61,2020-04-08,2020-04-11,,2020,3,Male
+14,15,Super Attractor,Gabrielle Bernstein,248.0,https://www.goodreads.com/book/show/43496426-super-attractor?from_search=true&from_srp=true&qid=sRtfi9Txub&rank=1,F,Non-Fiction,Self Help,4.18,2020-04-11,2020-04-22,,2020,11,Female
+15,16,Felix Ever After,Kacen Callender,354.0,https://www.goodreads.com/book/show/51931067-felix-ever-after?from_search=true&from_srp=true&qid=ssQYTzSgHg&rank=1,M,Fiction,Young Adult,4.46,2020-05-12,2020-05-14,,2020,2,Male
+16,17,Days of Distraction,Alexandra Chang,312.0,https://www.goodreads.com/book/show/52973514-days-of-distraction?from_search=true&from_srp=true&qid=zLGt916iHW&rank=1,F,Fiction,Contemporary,3.66,2020-04-12,2020-05-17,,2020,35,Female
+17,18,"wow, no thank you.",Samantha Irby,288.0,https://www.goodreads.com/book/show/52844646-wow-no-thank-you,F,Non-Fiction,Essays,4.13,2020-04-05,2020-06-15,Y,2020,71,Female
+18,19,How Much of These Hills Is Gold,C. Pam Zhang,288.0,https://www.goodreads.com/book/show/45895362-how-much-of-these-hills-is-gold?from_search=true&from_srp=true&qid=rMvIru31RB&rank=1,F,Fiction,historical,3.86,2020-05-22,2020-06-01,,2020,10,Female
+19,20,Between the World and Me,Tanehisi Coates,152.0,https://www.goodreads.com/book/show/25489625-between-the-world-and-me?from_search=true&from_srp=true&qid=xvQajzPDjC&rank=1,M,Non-Fiction,Current Events,4.52,2020-06-15,2020-06-24,Y,2020,9,Male
+20,21,Where the Crawdads Sing,Delia Owens,384.0,https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing?ac=1&from_search=true&qid=TifR2MzIpW&rank=1,F,Fiction,Contemporary,4.47,2020-06-22,2020-06-29,,2020,7,Female
+21,22,Boys and Sex,Peggy Ornstein,304.0,https://www.goodreads.com/book/show/43452877-boys-sex?from_search=true&from_srp=true&qid=TwPIaowNSU&rank=1,F,Non-Fiction,Current Events,4.24,2020-04-12,2020-07-03,,2020,82,Female
+22,23,Someone Who Will Love You In All Your Damaged Glory,Rafael Bob Waksberg,256.0,https://www.goodreads.com/book/show/41949311-someone-who-will-love-you-in-all-your-damaged-glory?ac=1&from_search=true&qid=Kr9sKqWCXh&rank=1,M,Fiction,Short Stories,4.16,2020-07-08,2020-07-10,Y,2020,2,Male
+23,24,The Masters Tools Will Never DIsmantle The Master's House,Audre Lorde,64.0,https://www.goodreads.com/en/book/show/38598541-the-master-s-tools-will-never-dismantle-the-master-s-house,F,Non-Fiction,Essays,4.46,2020-07-15,2020-07-17,Y,2020,2,Female
+24,25,Attached,"Amir Levine, Rachel SF Heller",304.0,https://www.goodreads.com/book/show/9547888-attached?from_search=true&from_srp=true&qid=kdP4IdRQnC&rank=1,F,Non-Fiction,Psychology,4.14,2020-07-31,2020-08-03,,2020,3,Female
+25,26,Listen to the Marriage,John Jay Osborn,256.0,https://www.goodreads.com/book/show/37941728-listen-to-the-marriage?ac=1&from_search=true&qid=iy2rwd6WTj&rank=1,M,Fiction,Contemporary,3.51,2020-08-06,2020-08-15,,2020,9,Male
+26,27,Jung: A Very Short Introduction,Andrew Stevens,192.0,https://www.goodreads.com/book/show/297554.Jung?from_search=true&from_srp=true&qid=Jim8gejEr2&rank=1,M,Non-Fiction,History,4.07,2020-09-07,2020-09-16,,2020,9,Male
+27,28,The First Bad Man,Miranda July,288.0,https://www.goodreads.com/book/show/21412400-the-first-bad-man?from_search=true&from_srp=true&qid=8h7sxqtWHM&rank=1,F,Fiction,Contemporary,3.62,2020-09-16,2020-09-20,Y,2020,4,Female
+28,29,The Drama of the Gifted Child,Alice Miller,144.0,https://www.goodreads.com/book/show/24204222-the-drama-of-the-gifted-child?utm_content=review_cta_book_image&utm_medium=email&utm_source=bookend&ref_=pe_7171740_474197500,F,Non-Fiction,Psychology,4.1,2020-09-27,2020-10-01,,2020,4,Female
+29,30,Don't Call us Dead: Poems,Danez Smith,101.0,https://www.goodreads.com/book/show/35422441-don-t-call-us-dead?from_search=true&from_srp=true&qid=8qdAhd4Vlp&rank=1,M,Poetry,LGBT,4.52,2020-10-01,2020-10-06,Y,2020,5,Male
+30,31,Tender is the Night,F. Scott Fitzgerald,315.0,https://www.goodreads.com/book/show/46164.Tender_Is_the_Night?from_search=true&from_srp=true&qid=B8eLWQQKSX&rank=1,M,Fiction,Classic,3.81,2020-10-10,2020-11-07,Y,2020,28,Male
+31,32,"Heather, The Totality",Matthew Weiner,144.0,https://www.goodreads.com/book/show/31933063-heather-the-totality?ac=1&from_search=true&qid=MvG8rzSUME&rank=1,M,Fiction,Contemporary,2.93,2020-11-07,2020-11-09,,2020,2,Male
+32,33,What We Talk About When We Talk About Love,Raymond Carver,159.0,https://www.goodreads.com/book/show/11438.What_We_Talk_About_When_We_Talk_About_Love?from_search=true&from_srp=true&qid=5G4xkS3EQg&rank=1,M,Fiction,Short Stories,4.15,2020-10-06,2020-10-31,,2020,25,Male
+33,34,Never Split the Difference,Chris Voss,274.0,https://www.goodreads.com/book/show/26156469-never-split-the-difference?from_search=true&from_srp=true&qid=umiLanQLHO&rank=1,M,Non-Fiction,Business,4.4,2020-11-11,2020-11-26,,2020,15,Male
+34,35,Rapture,Susan Minot,,https://www.goodreads.com/book/show/40056.Rapture,F,Fiction,Romance,2.96,2020-12-02,2020-12-03,,2020,1,Female
+35,36,The Middle Passage,James Hollis,127.0,https://www.goodreads.com/book/show/47849.The_Middle_Passage?from_search=true&from_srp=true&qid=ot6aI40sSB&rank=1,M,Non-Fiction,Psychology,4.44,2020-12-15,2020-12-18,Y,2020,3,Male
+36,37,Intimacy,Hanif Kureishi,155.0,https://www.goodreads.com/book/show/153418.Intimacy,M,Fiction,Contemporary,3.6,2020-12-21,2020-12-22,,2020,1,Male
+37,38,No One Asked for This: Essays,Cazzie David,352.0,https://www.goodreads.com/book/show/48930274-no-one-asked-for-this?from_search=true&from_srp=true&qid=oVY5dHZfxR&rank=1,F,Non-Fiction,Essays,3.53,2020-11-27,2020-12-25,,2020,28,Female
+38,39,Self-Help,Lorrie Moore,163.0,https://www.goodreads.com/book/show/90872.Self_Help,F,Fiction,Short Stories,4.19,2020-12-26,2020-12-27,Y,2020,1,Female
