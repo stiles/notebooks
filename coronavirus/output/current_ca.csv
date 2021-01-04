@@ -1,0 +1,348 @@
+hospital,hospital_subtype,ccn,week,county,fips,total_covid_icu_patients,total_available_adult_icu_beds,pct_occupied_adult_icu_beds,total_covid_patients,all_patients,covid_patients_share,region
+Barstow Community Hospital,Short Term,050298,2020-12-25,San Bernardino,071,9.0,-1.0,1.11,46.0,44.0,1.05,Southern California
+Community Hospital of Huntington Park,Short Term,050091,2020-12-25,Los Angeles,037,9.0,0.0,1.0,45.0,49.0,0.92,Southern California
+Kaiser Foundation Hospital - Downey,Short Term,050139,2020-12-25,Los Angeles,037,43.0,1.0,0.98,230.0,262.0,0.88,Southern California
+Kaiser Foundation Hospital - Baldwin Park,Short Term,050723,2020-12-25,Los Angeles,037,26.0,0.0,1.0,161.0,188.0,0.86,Southern California
+Desert Valley Hospital,Short Term,050709,2020-12-25,San Bernardino,071,22.0,0.0,1.0,101.0,120.0,0.84,Southern California
+Santa Paula Hospital,Short Term,,2020-12-25,Ventura,111,1.0,2.0,0.67,15.0,18.0,0.83,Southern California
+Kaiser Foundation Hospital-Moreno Valley,Short Term,050765,2020-12-25,Riverside,065,15.0,0.0,1.0,74.0,93.0,0.8,Southern California
+George L Mee Memorial Hospital,Critical Access Hospitals,051336,2020-12-25,Monterey,053,0.0,0.0,,8.0,10.0,0.8,Bay Area
+Mountains Community Hospital,Critical Access Hospitals,051312,2020-12-25,San Bernardino,071,0.0,0.0,,4.0,5.0,0.8,Southern California
+"Kaiser Foundation Hospital, Riverside",Short Term,050686,2020-12-25,Riverside,065,48.0,0.0,1.0,160.0,203.0,0.79,Southern California
+Chino Valley Medical Center,Short Term,050586,2020-12-25,San Bernardino,071,13.0,1.0,0.93,60.0,77.0,0.78,Southern California
+Kaiser Foundation Hospital Fontana,Short Term,050140,2020-12-25,San Bernardino,071,78.0,11.0,0.91,379.0,485.0,0.78,Southern California
+"Martin Luther King, Jr. Community Hospital",Short Term,050779,2020-12-25,Los Angeles,037,14.0,1.0,0.97,164.0,215.0,0.76,Southern California
+Bear Valley Community Hospital,Critical Access Hospitals,051335,2020-12-25,San Bernardino,071,0.0,0.0,,6.0,8.0,0.75,Southern California
+Garden Grove Hospital & Medical Center,Short Term,050230,2020-12-25,Orange,059,10.0,0.0,1.0,47.0,63.0,0.75,Southern California
+Watsonville Community Hospital,Short Term,050194,2020-12-25,Santa Cruz,087,4.0,1.0,0.83,26.0,35.0,0.74,Bay Area
+Emanate Health Foothill Presbyterian Hospital,Short Term,050597,2020-12-25,Los Angeles,037,16.0,0.0,1.0,55.0,75.0,0.73,Southern California
+Northern Inyo Hospital,Critical Access Hospitals,051324,2020-12-25,Inyo,027,1.0,3.0,0.25,8.0,11.0,0.73,Southern California
+Adventist Health Delano,Short Term,050608,2020-12-25,Kern,029,9.0,0.0,1.0,26.0,36.0,0.72,San Joaquin Valley
+Huntington Beach Hospital,Short Term,050526,2020-12-25,Orange,059,11.0,0.0,1.0,52.0,72.0,0.72,Southern California
+Providence Little Co of Mary Med Ctr San Pedro,Short Term,050078,2020-12-25,Los Angeles,037,11.0,0.0,1.0,62.0,87.0,0.71,Southern California
+Pioneers Memorial Healthcare District,Short Term,050342,2020-12-25,Imperial,025,15.0,0.0,1.0,63.0,89.0,0.71,Southern California
+Madera Community Hospital,Short Term,050568,2020-12-25,Madera,039,6.0,3.0,0.7,47.0,66.0,0.71,San Joaquin Valley
+San Dimas Community Hospital,Short Term,050588,2020-12-25,Los Angeles,037,17.0,0.0,1.0,45.0,64.0,0.7,Southern California
+Kaiser Foundation Hospital - Panorama City,Short Term,050137,2020-12-25,Los Angeles,037,32.0,3.0,0.92,131.0,188.0,0.7,Southern California
+Loma Linda University Medical Center-Murrieta,Short Term,050770,2020-12-25,Riverside,065,9.0,1.0,0.92,69.0,99.0,0.7,Southern California
+East Los Angeles Doctors Hospital,Short Term,050641,2020-12-25,Los Angeles,037,7.0,2.0,0.8,29.0,42.0,0.69,Southern California
+Ahmc Anaheim Regional Medical Center,Short Term,050226,2020-12-25,Orange,059,16.0,0.0,1.0,96.0,140.0,0.69,Southern California
+Kaiser Foundation Hospital - West LA,Short Term,050561,2020-12-25,Los Angeles,037,31.0,29.0,0.53,115.0,170.0,0.68,Southern California
+San Gabriel Valley Medical Center,Short Term,050132,2020-12-25,Los Angeles,037,9.0,2.0,0.88,59.0,87.0,0.68,Southern California
+Kaiser Foundation Hospital - Orange County - Anahe,Short Term,050609,2020-12-25,Orange,059,60.0,0.0,1.0,225.0,337.0,0.67,Southern California
+Antelope Valley Hospital,Short Term,050056,2020-12-25,Los Angeles,037,24.0,1.0,0.97,155.0,230.0,0.67,Southern California
+Hemet Global Medical Center,Short Term,050390,2020-12-25,Riverside,065,15.0,5.0,0.85,82.0,123.0,0.67,Southern California
+Healdsburg District Hospital,Critical Access Hospitals,051321,2020-12-25,Sonoma,097,0.0,5.0,0.0,6.0,9.0,0.67,Bay Area
+Greater El Monte Community Hospital,Short Term,050738,2020-12-25,Los Angeles,037,12.0,0.0,1.0,39.0,58.0,0.67,Southern California
+El Centro Regional Medical Center,Short Term,050045,2020-12-25,Imperial,025,32.0,3.0,0.91,117.0,175.0,0.67,Southern California
+Monterey Park Hospital,Short Term,050736,2020-12-25,Los Angeles,037,5.0,0.0,1.0,42.0,63.0,0.67,Southern California
+Palmdale Regional Medical Center,Short Term,050204,2020-12-25,Los Angeles,037,15.0,11.0,0.54,92.0,139.0,0.66,Southern California
+Alhambra Hospital Medical Center,Short Term,050281,2020-12-25,Los Angeles,037,7.0,0.0,1.0,43.0,65.0,0.66,Southern California
+"L A Downtown Medical Center, Llc",Short Term,050763,2020-12-25,Los Angeles,037,3.0,2.0,0.83,70.0,107.0,0.65,Southern California
+Menifee Global Medical Center,Short Term,050684,2020-12-25,Riverside,065,12.0,4.0,0.81,39.0,60.0,0.65,Southern California
+Providence St. Joseph Hospital,Short Term,050069,2020-12-25,Orange,059,27.0,0.0,1.0,225.0,344.0,0.65,Southern California
+Kaiser Foundation Hospital - Los Angeles,Short Term,050138,2020-12-25,Los Angeles,037,34.0,17.0,0.81,187.0,288.0,0.65,Southern California
+Montclair Hospital Medical Center,Short Term,050758,2020-12-25,San Bernardino,071,13.0,0.0,1.0,34.0,53.0,0.64,Southern California
+Olympia Medical Center,Short Term,050742,2020-12-25,Los Angeles,037,7.0,3.0,0.75,50.0,78.0,0.64,Southern California
+Sharp Chula Vista Medical Center,Short Term,050222,2020-12-25,San Diego,073,39.0,1.0,0.98,183.0,285.0,0.64,Southern California
+Providence St. Jude Medical Center,Short Term,050168,2020-12-25,Orange,059,26.0,2.0,0.96,192.0,298.0,0.64,Southern California
+Corona Regional Medical Center,Short Term,050329,2020-12-25,Riverside,065,29.0,1.0,0.97,117.0,182.0,0.64,Southern California
+Los Angeles Community Hospital,Short Term,050663,2020-12-25,Los Angeles,037,10.0,6.0,0.67,81.0,128.0,0.63,Southern California
+Cedar-Sinai Marina Del Rey Hospital,Short Term,050740,2020-12-25,Los Angeles,037,10.0,3.0,0.81,55.0,87.0,0.63,Southern California
+Pih Hospital - Downey,Short Term,050393,2020-12-25,Los Angeles,037,37.0,0.0,1.0,127.0,202.0,0.63,Southern California
+Emanate Health Inter-Community Hospital,Short Term,050382,2020-12-25,Los Angeles,037,27.0,2.0,0.95,166.0,262.0,0.63,Southern California
+Fountain Valley Regional Hospital & Medical Center,Short Term,050570,2020-12-25,Orange,059,27.0,0.0,1.0,175.0,280.0,0.62,Southern California
+White Memorial Medical Center,Short Term,050103,2020-12-25,Los Angeles,037,18.0,0.0,1.0,179.0,289.0,0.62,Southern California
+Loma Linda University Medical Center,Short Term,050327,2020-12-25,San Bernardino,071,50.0,8.0,0.91,182.0,299.0,0.61,Southern California
+St Bernardine Medical Center,Short Term,050129,2020-12-25,San Bernardino,071,30.0,0.0,1.0,172.0,284.0,0.61,Southern California
+Kaiser Foundation Hospital - South Bay,Short Term,050411,2020-12-25,Los Angeles,037,23.0,19.0,0.59,129.0,210.0,0.61,Southern California
+Glendale Mem Hospital & Health Center,Short Term,050058,2020-12-25,Los Angeles,037,23.0,0.0,1.0,109.0,178.0,0.61,Southern California
+Palomar Medical Center Poway,Short Term,050636,2020-12-25,San Diego,073,9.0,1.0,0.92,27.0,44.0,0.61,Southern California
+Glendale Adventist Medical Center,Short Term,050239,2020-12-25,Los Angeles,037,29.0,1.0,0.97,178.0,292.0,0.61,Southern California
+Beverly Hospital,Short Term,050350,2020-12-25,Los Angeles,037,19.0,1.0,0.96,88.0,144.0,0.61,Southern California
+Pih Health Hospital-Whittier,Short Term,050169,2020-12-25,Los Angeles,037,31.0,9.0,0.81,222.0,361.0,0.61,Southern California
+Banner LAssen Medical Center,Critical Access Hospitals,051320,2020-12-25,Lassen,035,0.0,0.0,,6.0,10.0,0.6,Northern California
+Pomona Valley Hospital Medical Center,Short Term,050231,2020-12-25,Los Angeles,037,44.0,3.0,0.96,204.0,342.0,0.6,Southern California
+Oak Valley Hospital District,Short Term,050067,2020-12-25,Stanislaus,099,1.0,3.0,0.4,9.0,15.0,0.6,San Joaquin Valley
+San Gorgonio Memorial Hospital,Short Term,050054,2020-12-25,Riverside,065,17.0,0.0,1.0,39.0,65.0,0.6,Southern California
+Providence Little Company of Mary Med Ctr Torrance,Short Term,050353,2020-12-25,Los Angeles,037,23.0,0.0,1.0,159.0,267.0,0.6,Southern California
+Lakewood Regional Medical Center,Short Term,050581,2020-12-25,Los Angeles,037,22.0,3.0,0.92,101.0,171.0,0.59,Southern California
+Kaiser Foundation Hospital - Woodland Hills,Short Term,050677,2020-12-25,Los Angeles,037,16.0,2.0,0.91,89.0,150.0,0.59,Southern California
+Adventist Health Hanford,Short Term,050121,2020-12-25,Kings,031,9.0,2.0,0.91,91.0,155.0,0.59,San Joaquin Valley
+Placentia Linda Hospital,Short Term,050589,2020-12-25,Orange,059,4.0,5.0,0.58,41.0,70.0,0.59,Southern California
+Adventist Health Bakersfield,Short Term,050455,2020-12-25,Kern,029,17.0,0.0,1.0,128.0,222.0,0.58,San Joaquin Valley
+Victor Valley Global Medical Center,Short Term,050517,2020-12-25,San Bernardino,071,8.0,3.0,0.75,57.0,98.0,0.58,Southern California
+Coast Plaza Hospital,Short Term,050771,2020-12-25,Los Angeles,037,5.0,0.0,1.0,28.0,48.0,0.58,Southern California
+California Hospital Medical Center LA,Short Term,050149,2020-12-25,Los Angeles,037,39.0,1.0,0.98,152.0,264.0,0.58,Southern California
+St Mary Medical Center,Short Term,050300,2020-12-25,San Bernardino,071,19.0,0.0,1.0,124.0,212.0,0.58,Southern California
+Sharp Coronado Hospital And Healthcr Ctr,Short Term,050234,2020-12-25,San Diego,073,8.0,0.0,1.0,37.0,64.0,0.58,Southern California
+Usc Verdugo Hills Hospital,Short Term,050124,2020-12-25,Los Angeles,037,10.0,0.0,1.0,71.0,123.0,0.58,Southern California
+Adventist Health Tehachapi Valley,Critical Access Hospitals,051301,2020-12-25,Kern,029,6.0,3.0,0.73,16.0,28.0,0.57,San Joaquin Valley
+Valley Presbyterian Hospital,Short Term,050126,2020-12-25,Los Angeles,037,21.0,5.0,0.81,105.0,188.0,0.56,Southern California
+Hollywood Presbyterian Medical Center,Short Term,050063,2020-12-25,Los Angeles,037,24.0,16.0,0.53,102.0,182.0,0.56,Southern California
+Hazel Hawkins Memorial Hospital,Critical Access Hospitals,051337,2020-12-25,San Benito,069,4.0,0.0,1.0,15.0,27.0,0.56,San Joaquin Valley
+Good Samaritan Hospital,Short Term,050471,2020-12-25,Los Angeles,037,26.0,20.0,0.67,132.0,237.0,0.56,Southern California
+Pacifica Hospital of The Valley,Short Term,050378,2020-12-25,Los Angeles,037,5.0,1.0,0.88,30.0,54.0,0.56,Southern California
+Sierra View Medical Center,Short Term,050261,2020-12-25,Tulare,107,7.0,1.0,0.9,50.0,90.0,0.56,San Joaquin Valley
+Los Alamitos Medical Center,Short Term,050551,2020-12-25,Orange,059,15.0,0.0,1.0,95.0,169.0,0.56,Southern California
+Providence-Cedars Sinai Tarzana Medical Center,Short Term,050761,2020-12-25,Los Angeles,037,11.0,1.0,0.96,93.0,166.0,0.56,Southern California
+"Doctors Hospital of Riverside, Llc",Short Term,050102,2020-12-25,Riverside,065,3.0,5.0,0.8,88.0,156.0,0.56,Southern California
+Kaiser Foundation Hospital-San Jose,Short Term,050604,2020-12-25,Santa Clara,085,15.0,2.0,0.9,88.0,158.0,0.56,Bay Area
+Saint Agnes Medical Center,Short Term,050093,2020-12-25,Fresno,019,35.0,0.0,1.0,178.0,320.0,0.56,San Joaquin Valley
+Riverside University Health System-Medical Center,Short Term,050292,2020-12-25,Riverside,065,26.0,2.0,0.96,187.0,342.0,0.55,Southern California
+St Johns Regional Medical Center,Short Term,050082,2020-12-25,Ventura,111,19.0,1.0,0.96,88.0,160.0,0.55,Southern California
+Providence Holy Cross Medical Center,Short Term,050278,2020-12-25,Los Angeles,037,26.0,1.0,0.98,171.0,310.0,0.55,Southern California
+Redlands Community Hospital,Short Term,050272,2020-12-25,San Bernardino,071,19.0,1.0,0.96,93.0,170.0,0.55,Southern California
+Centinela Hospital Medical Center,Short Term,050739,2020-12-25,Los Angeles,037,52.0,0.0,1.0,134.0,247.0,0.54,Southern California
+Kaiser Foundation Hospital - Fresno,Short Term,050710,2020-12-25,Fresno,019,14.0,0.0,1.0,84.0,155.0,0.54,San Joaquin Valley
+Whittier Hospital Medical Center,Short Term,050735,2020-12-25,Los Angeles,037,16.0,0.0,1.0,70.0,129.0,0.54,Southern California
+Memorialcare Orange Coast Medical Center,Short Term,050678,2020-12-25,Orange,059,28.0,2.0,0.94,91.0,168.0,0.54,Southern California
+Garfield Medical Center,Short Term,050737,2020-12-25,Los Angeles,037,17.0,3.0,0.86,73.0,136.0,0.54,Southern California
+Memorial Hospital Los Banos,Short Term,050528,2020-12-25,Merced,047,5.0,0.0,1.0,14.0,26.0,0.54,San Joaquin Valley
+Southwest Healthcare System,Short Term,050701,2020-12-25,Riverside,065,21.0,1.0,0.97,124.0,228.0,0.54,Southern California
+Clovis Community Medical Center,Short Term,050492,2020-12-25,Fresno,019,33.0,4.0,0.89,126.0,232.0,0.54,San Joaquin Valley
+San Antonio Regional Hospital,Short Term,050099,2020-12-25,San Bernardino,071,23.0,1.0,0.99,212.0,391.0,0.54,Southern California
+Doctors Hospital of Manteca,Short Term,050118,2020-12-25,San Joaquin,077,6.0,0.0,1.0,30.0,56.0,0.54,San Joaquin Valley
+Long Beach Memorial Medical Center,Short Term,050485,2020-12-25,Los Angeles,037,61.0,21.0,0.79,155.0,295.0,0.53,Southern California
+John F Kennedy Memorial Hospital,Short Term,050534,2020-12-25,Riverside,065,10.0,8.0,0.67,52.0,99.0,0.53,Southern California
+La Palma Intercommunity Hospital,Short Term,050580,2020-12-25,Orange,059,8.0,0.0,1.0,24.0,46.0,0.52,Southern California
+Salinas Valley Memorial Hospital,Short Term,050334,2020-12-25,Monterey,053,16.0,9.0,0.67,73.0,140.0,0.52,Bay Area
+Palomar Health Downtown Campus,Short Term,050115,2020-12-25,San Diego,073,24.0,1.0,0.97,147.0,282.0,0.52,Southern California
+St Johns Pleasant Valley Hospital,Short Term,050616,2020-12-25,Ventura,111,4.0,0.0,1.0,29.0,57.0,0.51,Southern California
+Providence Saint Joseph Medical Ctr,Short Term,050235,2020-12-25,Los Angeles,037,32.0,5.0,0.9,138.0,268.0,0.51,Southern California
+Kaiser Foundation Hospital - South San Francisco,Short Term,050070,2020-12-25,San Mateo,081,5.0,1.0,0.9,43.0,85.0,0.51,Bay Area
+Torrance Memorial Medical Center,Short Term,050351,2020-12-25,Los Angeles,037,20.0,6.0,0.88,166.0,323.0,0.51,Southern California
+Mayers Memorial Hospital,Critical Access Hospitals,051305,2020-12-25,Shasta,089,0.0,0.0,,3.0,6.0,0.5,Northern California
+Arrowhead Regional Medical Center,Short Term,050245,2020-12-25,San Bernardino,071,38.0,0.0,1.0,146.0,290.0,0.5,Southern California
+Glenn Medical Center,Critical Access Hospitals,051306,2020-12-25,Glenn,021,0.0,0.0,,15.0,30.0,0.5,Northern California
+West Hills Hospital & Medical Center,Short Term,050481,2020-12-25,Los Angeles,037,12.0,12.0,0.64,65.0,133.0,0.49,Southern California
+Sherman Oaks Hospital,Short Term,050755,2020-12-25,Los Angeles,037,11.0,0.0,1.0,48.0,98.0,0.49,Southern California
+Methodist Hospital of Southern Ca,Short Term,050238,2020-12-25,Los Angeles,037,17.0,1.0,0.95,104.0,211.0,0.49,Southern California
+Foothill Regional Medical Center,Short Term,050780,2020-12-25,Orange,059,6.0,20.0,0.31,37.0,76.0,0.49,Southern California
+Northridge Hospital Medical Center,Short Term,050116,2020-12-25,Los Angeles,037,27.0,7.0,0.82,104.0,211.0,0.49,Southern California
+Eisenhower Medical Center,Short Term,050573,2020-12-25,Riverside,065,16.0,3.0,0.9,119.0,244.0,0.49,Southern California
+Saint Francis Medical Center,Short Term,050104,2020-12-25,Los Angeles,037,23.0,2.0,0.94,118.0,247.0,0.48,Southern California
+Kaiser Foundation Hospital Manteca,Short Term,050748,2020-12-25,San Joaquin,077,15.0,2.0,0.9,83.0,172.0,0.48,San Joaquin Valley
+Huntington Memorial Hospital,Short Term,050438,2020-12-25,Los Angeles,037,32.0,26.0,0.62,183.0,381.0,0.48,Southern California
+Alameda Hospital,Short Term,050211,2020-12-25,Alameda,001,4.0,2.0,0.75,19.0,40.0,0.48,Bay Area
+Riverside Community Hospital,Short Term,050022,2020-12-25,Riverside,065,45.0,4.0,0.95,198.0,416.0,0.48,Southern California
+Mercy Hospital,Short Term,050295,2020-12-25,Kern,029,19.0,2.0,0.93,73.0,152.0,0.48,San Joaquin Valley
+Temecula Valley Hospital,Short Term,050775,2020-12-25,Riverside,065,15.0,2.0,0.93,68.0,144.0,0.47,Southern California
+Sutter Auburn Faith Hospital,Short Term,050498,2020-12-25,Placer,061,3.0,3.0,0.62,17.0,36.0,0.47,Greater Sacramento
+West Anaheim Medical Center,Short Term,050426,2020-12-25,Orange,059,18.0,0.0,1.0,57.0,121.0,0.47,Southern California
+Kaweah Delta Medical Center,Short Term,050057,2020-12-25,Tulare,107,16.0,11.0,0.73,160.0,337.0,0.47,San Joaquin Valley
+Memorial Medical Center,Short Term,050557,2020-12-25,Stanislaus,099,28.0,6.0,0.85,112.0,237.0,0.47,San Joaquin Valley
+St Elizabeth Community Hospital,Short Term,050042,2020-12-25,Tehama,103,2.0,0.0,1.0,21.0,45.0,0.47,Northern California
+Lac/Olive View-Ucla Medical Center,Short Term,050040,2020-12-25,Los Angeles,037,22.0,5.0,0.83,95.0,205.0,0.46,Southern California
+Ridgecrest Regional Hospital,Critical Access Hospitals,051333,2020-12-25,Kern,029,2.0,0.0,1.0,12.0,26.0,0.46,San Joaquin Valley
+Memorialcare Saddleback Medical Center,Short Term,050603,2020-12-25,Orange,059,16.0,4.0,0.84,63.0,136.0,0.46,Southern California
+Providence Saint John'S Health Center,Short Term,050290,2020-12-25,Los Angeles,037,14.0,1.0,0.96,73.0,160.0,0.46,Southern California
+Adventist Health Simi Valley,Short Term,050236,2020-12-25,Ventura,111,14.0,8.0,0.67,59.0,130.0,0.45,Southern California
+Woodland Memorial Hospital,Short Term,050127,2020-12-25,Yolo,113,5.0,20.0,0.23,25.0,56.0,0.45,Greater Sacramento
+Scripps Memorial Hospital - Encinitas,Short Term,050503,2020-12-25,San Diego,073,10.0,1.0,0.92,79.0,176.0,0.45,Southern California
+Adventist Health Lodi Memorial,Short Term,050336,2020-12-25,San Joaquin,077,8.0,2.0,0.87,49.0,108.0,0.45,San Joaquin Valley
+Regional Medical Center of San Jose,Short Term,050125,2020-12-25,Santa Clara,085,24.0,0.0,1.0,105.0,236.0,0.44,Bay Area
+Community Memorial Hospital San Buenaventura,Short Term,050394,2020-12-25,Ventura,111,12.0,1.0,0.96,66.0,151.0,0.44,Southern California
+Kindred Hospital South Bay,Long Term,052050,2020-12-25,Los Angeles,037,3.0,0.0,1.0,24.0,55.0,0.44,Southern California
+Kaiser Foundation Hosp So Sacramento,Short Term,050674,2020-12-25,Sacramento,067,27.0,0.0,1.0,105.0,238.0,0.44,Greater Sacramento
+Kaiser Foundation Hospital - Fremont,Short Term,050512,2020-12-25,Alameda,001,10.0,0.0,1.0,38.0,86.0,0.44,Bay Area
+Kaiser Foundation Hospital - Zion,Short Term,050515,2020-12-25,San Diego,073,42.0,6.0,0.92,149.0,337.0,0.44,Southern California
+St Rose Hospital,Short Term,050002,2020-12-25,Alameda,001,5.0,6.0,0.6,26.0,59.0,0.44,Bay Area
+Emanuel Medical Center,Short Term,050179,2020-12-25,Stanislaus,099,8.0,1.0,0.92,51.0,118.0,0.43,San Joaquin Valley
+Community Regional Medical Center,Short Term,050060,2020-12-25,Fresno,019,51.0,2.0,0.98,255.0,587.0,0.43,San Joaquin Valley
+University of California Irvine Medical Center,Short Term,050348,2020-12-25,Orange,059,40.0,4.0,0.94,161.0,375.0,0.43,Southern California
+Community Hospital of San Bernardino,Short Term,050089,2020-12-25,San Bernardino,071,17.0,1.0,0.95,73.0,174.0,0.42,Southern California
+Lac/Harbor-Ucla Med Center,Short Term,050376,2020-12-25,Los Angeles,037,25.0,4.0,0.9,115.0,274.0,0.42,Southern California
+Adventist Health Tulare,Short Term,050784,2020-12-25,Tulare,107,0.0,1.0,0.75,11.0,26.0,0.42,San Joaquin Valley
+Sutter Tracy Community Hospital,Short Term,050313,2020-12-25,San Joaquin,077,4.0,0.0,1.0,19.0,46.0,0.41,San Joaquin Valley
+Henry Mayo Newhall  Hospital,Short Term,050624,2020-12-25,Los Angeles,037,15.0,15.0,0.67,95.0,232.0,0.41,Southern California
+Scripps Mercy Hospital,Short Term,050077,2020-12-25,San Diego,073,41.0,14.0,0.79,167.0,406.0,0.41,Southern California
+Kaiser Foundation Hospital - Sacramento,Short Term,050425,2020-12-25,Sacramento,067,15.0,2.0,0.93,73.0,179.0,0.41,Greater Sacramento
+Tri-City Medical Center,Short Term,050128,2020-12-25,San Diego,073,15.0,4.0,0.84,72.0,175.0,0.41,Southern California
+Hoag Memorial Hospital Presbyterian,Short Term,050224,2020-12-25,Orange,059,63.0,9.0,0.9,168.0,419.0,0.4,Southern California
+Marian Regional Medical Center,Short Term,050107,2020-12-25,Santa Barbara,083,16.0,1.0,0.96,61.0,153.0,0.4,Southern California
+Natividad Medical Center,Short Term,050248,2020-12-25,Monterey,053,9.0,3.0,0.84,59.0,148.0,0.4,Bay Area
+Kaiser Foundation Hospital - San Leandro,Short Term,050777,2020-12-25,Alameda,001,17.0,0.0,1.0,68.0,169.0,0.4,Bay Area
+Southern California Hospital At Hollywood,Short Term,050135,2020-12-25,Los Angeles,037,15.0,27.0,0.46,102.0,252.0,0.4,Southern California
+Lac+Usc Medical Center,Short Term,050373,2020-12-25,Los Angeles,037,57.0,10.0,0.91,221.0,557.0,0.4,Southern California
+Memorial Hospital of Gardena,Short Term,050468,2020-12-25,Los Angeles,037,20.0,0.0,1.0,67.0,169.0,0.4,Southern California
+Mission Community Hospital,Short Term,050704,2020-12-25,Los Angeles,037,12.0,1.0,0.94,68.0,168.0,0.4,Southern California
+Sutter Delta Medical Center,Short Term,050523,2020-12-25,Contra Costa,013,3.0,1.0,0.92,35.0,90.0,0.39,Bay Area
+Santa Monica - Ucla Med Ctr & Orthopaedic Hospital,Short Term,050112,2020-12-25,Los Angeles,037,15.0,2.0,0.92,88.0,226.0,0.39,Southern California
+Providence Mission Hospital,Short Term,050567,2020-12-25,Orange,059,33.0,2.0,0.96,98.0,252.0,0.39,Southern California
+San Mateo Medical Center,Short Term,050113,2020-12-25,San Mateo,081,6.0,1.0,0.86,15.0,38.0,0.39,Bay Area
+Scripps Green Hospital,Short Term,050424,2020-12-25,San Diego,073,11.0,5.0,0.79,37.0,96.0,0.39,Southern California
+Desert Regional Medical Center,Short Term,050243,2020-12-25,Riverside,065,16.0,1.0,0.97,104.0,264.0,0.39,Southern California
+Kern Valley Healthcare District,Critical Access Hospitals,051314,2020-12-25,Kern,029,0.0,0.0,,3.0,8.0,0.38,San Joaquin Valley
+Cedars-Sinai Medical Center,Short Term,050625,2020-12-25,Los Angeles,037,75.0,-26.0,1.24,315.0,830.0,0.38,Southern California
+Mercy Hospital of Folsom,Short Term,050414,2020-12-25,Sacramento,067,4.0,2.0,0.75,30.0,80.0,0.38,Greater Sacramento
+South Coast Global Medical Center,Short Term,050747,2020-12-25,Orange,059,10.0,0.0,1.0,40.0,106.0,0.38,Southern California
+Ventura County Medical Center,Short Term,050159,2020-12-25,Ventura,111,3.0,9.0,0.44,35.0,95.0,0.37,Southern California
+St Joseph'S Medical Center of Stockton,Short Term,050084,2020-12-25,San Joaquin,077,40.0,5.0,0.93,127.0,341.0,0.37,San Joaquin Valley
+Kaiser Foundation Hospital - Vacaville,Short Term,050767,2020-12-25,Solano,095,7.0,1.0,0.93,37.0,104.0,0.36,Bay Area
+Scripps Memorial Hospital LA Jolla,Short Term,050324,2020-12-25,San Diego,073,38.0,6.0,0.92,114.0,317.0,0.36,Southern California
+Chapman Global Medical Center,Short Term,050745,2020-12-25,Orange,059,6.0,4.0,0.67,22.0,61.0,0.36,Southern California
+San Ramon Regional Medical Center,Short Term,050689,2020-12-25,Contra Costa,013,4.0,5.0,0.58,19.0,53.0,0.36,Bay Area
+St Mary Medical Center,Short Term,050191,2020-12-25,Los Angeles,037,24.0,19.0,0.67,74.0,205.0,0.36,Southern California
+Seton Medical Center,Short Term,050289,2020-12-25,San Mateo,081,6.0,0.0,1.0,28.0,79.0,0.35,Bay Area
+San Joaquin General Hospital,Short Term,050167,2020-12-25,San Joaquin,077,13.0,0.0,1.0,66.0,190.0,0.35,San Joaquin Valley
+Adventist Health And Rideout,Short Term,050133,2020-12-25,Yuba,115,15.0,2.0,0.92,75.0,213.0,0.35,Greater Sacramento
+Marshall Medical Center,Short Term,050254,2020-12-25,El Dorado,017,6.0,1.0,0.92,20.0,57.0,0.35,Greater Sacramento
+Stanford Health Care - Valleycare,Short Term,050283,2020-12-25,Alameda,001,8.0,6.0,0.73,35.0,101.0,0.35,Bay Area
+Eden Medical Center,Short Term,050488,2020-12-25,Alameda,001,13.0,1.0,0.96,44.0,131.0,0.34,Bay Area
+Sharp Memorial Hospital,Short Term,050100,2020-12-25,San Diego,073,40.0,6.0,0.9,162.0,483.0,0.34,Southern California
+Bakersfield Heart Hospital,Short Term,050724,2020-12-25,Kern,029,2.0,3.0,0.7,14.0,41.0,0.34,San Joaquin Valley
+Santa Barbara Cottage Hospital,Short Term,050396,2020-12-25,Santa Barbara,083,15.0,12.0,0.73,66.0,194.0,0.34,Southern California
+Kaiser Foundation Hospital And Rehab Center,Short Term,050073,2020-12-25,Solano,095,9.0,2.0,0.88,53.0,154.0,0.34,Bay Area
+Twin Cities Community Hospital,Short Term,050633,2020-12-25,San Luis Obispo,079,3.0,5.0,0.5,18.0,53.0,0.34,Southern California
+Kaiser Foundation Hospital - Roseville,Short Term,050772,2020-12-25,Placer,061,15.0,0.0,1.0,112.0,333.0,0.34,Greater Sacramento
+Bakersfield Memorial Hospital,Short Term,050036,2020-12-25,Kern,029,11.0,3.0,0.91,72.0,217.0,0.33,San Joaquin Valley
+Colorado River Medical Center,Critical Access Hospitals,051323,2020-12-25,San Bernardino,071,0.0,0.0,,1.0,3.0,0.33,Southern California
+Kaiser Foundation Hospital-Santa Clara,Short Term,050071,2020-12-25,Santa Clara,085,14.0,2.0,0.92,80.0,239.0,0.33,Bay Area
+Sutter LAkeside Hospital,Critical Access Hospitals,051329,2020-12-25,Lake,033,2.0,1.0,0.8,6.0,18.0,0.33,Northern California
+Paradise Valley Hospital,Short Term,050024,2020-12-25,San Diego,073,15.0,0.0,1.0,44.0,135.0,0.33,Southern California
+Plumas District Hospital,Critical Access Hospitals,051326,2020-12-25,Plumas,063,0.0,0.0,,2.0,6.0,0.33,Greater Sacramento
+Grossmont Hospital,Short Term,050026,2020-12-25,San Diego,073,41.0,8.0,0.89,133.0,405.0,0.33,Southern California
+French Hospital Medical Center,Short Term,050232,2020-12-25,San Luis Obispo,079,5.0,3.0,0.73,18.0,55.0,0.33,Southern California
+Kaiser Foundation Hospital - Oakland/Richmond,Short Term,050075,2020-12-25,Alameda,001,26.0,1.0,0.97,77.0,231.0,0.33,Bay Area
+Washington Hospital,Short Term,050195,2020-12-25,Alameda,001,13.0,1.0,0.97,65.0,198.0,0.33,Bay Area
+Lompoc Valley Medical Center,Short Term,050110,2020-12-25,Santa Barbara,083,2.0,2.0,0.67,9.0,27.0,0.33,Southern California
+Barton Memorial Hospital,Short Term,050352,2020-12-25,El Dorado,017,4.0,2.0,0.75,8.0,24.0,0.33,Greater Sacramento
+Mercy Medical Center,Short Term,050444,2020-12-25,Merced,047,10.0,3.0,0.85,40.0,124.0,0.32,San Joaquin Valley
+Santa Clara Valley Medical Center,Short Term,050038,2020-12-25,Santa Clara,085,25.0,24.0,0.68,105.0,330.0,0.32,Bay Area
+Doctors Medical Center,Short Term,050464,2020-12-25,Stanislaus,099,14.0,6.0,0.86,105.0,327.0,0.32,San Joaquin Valley
+Kaiser Foundation Hospital - Antioch,Short Term,050760,2020-12-25,Contra Costa,013,4.0,1.0,0.89,37.0,116.0,0.32,Bay Area
+Sequoia Hospital,Short Term,050197,2020-12-25,San Mateo,081,6.0,2.0,0.8,14.0,44.0,0.32,Bay Area
+Kaiser Foundation Hospital - Redwood City,Short Term,050541,2020-12-25,San Mateo,081,7.0,2.0,0.88,26.0,82.0,0.32,Bay Area
+California Pacific Medical Center - Mission Bernal,Short Term,050055,2020-12-25,San Francisco,075,7.0,1.0,0.9,22.0,71.0,0.31,Bay Area
+Ronald Reagan U C L A Medical Center,Short Term,050262,2020-12-25,Los Angeles,037,39.0,7.0,0.94,115.0,377.0,0.31,Southern California
+Methodist Hospital of Sacramento,Short Term,050590,2020-12-25,Sacramento,067,5.0,9.0,0.55,31.0,104.0,0.3,Greater Sacramento
+Dameron Hospital,Short Term,050122,2020-12-25,San Joaquin,077,10.0,1.0,0.96,27.0,89.0,0.3,San Joaquin Valley
+Sierra Vista Regional Medical Center,Short Term,050506,2020-12-25,San Luis Obispo,079,4.0,9.0,0.47,22.0,74.0,0.3,Southern California
+El Camino Hospital,Short Term,050308,2020-12-25,Santa Clara,085,12.0,9.0,0.72,71.0,235.0,0.3,Bay Area
+College Medical Center,Short Term,050776,2020-12-25,Los Angeles,037,7.0,0.0,1.0,38.0,126.0,0.3,Southern California
+Anaheim Global Medical Center,Short Term,050744,2020-12-25,Orange,059,14.0,6.0,0.73,37.0,124.0,0.3,Southern California
+Orchard Hospital,Critical Access Hospitals,051311,2020-12-25,Butte,007,1.0,2.0,0.5,3.0,10.0,0.3,Greater Sacramento
+Sutter Solano Medical Center,Short Term,050101,2020-12-25,Solano,095,6.0,2.0,0.83,14.0,49.0,0.29,Bay Area
+Barlow Respiratory Hospital,Long Term,052031,2020-12-25,Los Angeles,037,0.0,3.0,0.5,21.0,73.0,0.29,Southern California
+Saint Francis Memorial Hospital,Short Term,050152,2020-12-25,San Francisco,075,3.0,5.0,0.5,15.0,52.0,0.29,Bay Area
+Mercy Medical Center Mt Shasta,Critical Access Hospitals,051319,2020-12-25,Siskiyou,093,0.0,4.0,0.0,2.0,7.0,0.29,Northern California
+Alvarado Hospital Medical Center,Short Term,050757,2020-12-25,San Diego,073,9.0,1.0,0.94,28.0,98.0,0.29,Southern California
+Los Robles Hospital & Medical Center,Short Term,050549,2020-12-25,Ventura,111,19.0,1.0,0.97,72.0,255.0,0.28,Southern California
+Good Samaritan Hospital,Short Term,050257,2020-12-25,Kern,029,0.0,2.0,0.5,5.0,18.0,0.28,San Joaquin Valley
+Dominican Hospital,Short Term,050242,2020-12-25,Santa Cruz,087,13.0,2.0,0.9,46.0,162.0,0.28,Bay Area
+Encino Hospital Medical Center,Short Term,050158,2020-12-25,Los Angeles,037,2.0,0.0,1.0,20.0,71.0,0.28,Southern California
+Highland Hospital,Short Term,050320,2020-12-25,Alameda,001,12.0,8.0,0.76,45.0,161.0,0.28,Bay Area
+Oroville Hospital,Short Term,050030,2020-12-25,Butte,007,6.0,1.0,0.9,32.0,113.0,0.28,Greater Sacramento
+Adventist Health Ukiah Valley,Short Term,050301,2020-12-25,Mendocino,045,2.0,3.0,0.62,11.0,41.0,0.27,Northern California
+Sutter Roseville Medical Center,Short Term,050309,2020-12-25,Placer,061,8.0,17.0,0.7,83.0,303.0,0.27,Greater Sacramento
+Queen of The Valley Medical Center,Short Term,050009,2020-12-25,Napa,055,9.0,0.0,1.0,20.0,73.0,0.27,Bay Area
+Mercy San Juan Medical Center,Short Term,050516,2020-12-25,Sacramento,067,7.0,7.0,0.87,70.0,267.0,0.26,Greater Sacramento
+Community Hospital of The Monterey Peninsula,Short Term,050145,2020-12-25,Monterey,053,11.0,2.0,0.91,47.0,181.0,0.26,Bay Area
+Orange County Global Medical Center,Short Term,050746,2020-12-25,Orange,059,27.0,15.0,0.81,75.0,286.0,0.26,Southern California
+Colusa Medical Center,Short Term,050783,2020-12-25,Colusa,011,0.0,5.0,0.0,10.0,39.0,0.26,Greater Sacramento
+Mills-Peninsula Medical Center,Short Term,050007,2020-12-25,San Mateo,081,7.0,7.0,0.71,36.0,145.0,0.25,Bay Area
+Kaiser Foundation Hospital - Walnut Creek,Short Term,050072,2020-12-25,Contra Costa,013,9.0,2.0,0.9,44.0,178.0,0.25,Bay Area
+Sutter Amador Hospital,Short Term,050014,2020-12-25,Amador,005,3.0,0.0,1.0,9.0,36.0,0.25,Greater Sacramento
+Tahoe Forest Hospital,Critical Access Hospitals,051328,2020-12-25,Nevada,057,2.0,1.0,0.83,5.0,20.0,0.25,Greater Sacramento
+Northbay Medical Center,Short Term,050367,2020-12-25,Solano,095,14.0,6.0,0.82,46.0,190.0,0.24,Bay Area
+Sutter Davis Hospital,Short Term,050537,2020-12-25,Yolo,113,3.0,0.0,1.0,7.0,29.0,0.24,Greater Sacramento
+Keck Hospital of Usc,Short Term,050696,2020-12-25,Los Angeles,037,25.0,2.0,0.97,46.0,191.0,0.24,Southern California
+Uc San Diego Health Hillcrest - Hillcrest Med Ctr,Short Term,050025,2020-12-25,San Diego,073,46.0,11.0,0.89,123.0,524.0,0.23,Southern California
+Mark Twain Medical Center,Critical Access Hospitals,051332,2020-12-25,Calaveras,009,1.0,7.0,0.36,3.0,13.0,0.23,San Joaquin Valley
+Good Samaritan Hospital,Short Term,050380,2020-12-25,Santa Clara,085,18.0,3.0,0.92,59.0,253.0,0.23,Bay Area
+Kaiser Foundation Hospital-Santa Rosa,Short Term,050690,2020-12-25,Sonoma,097,4.0,1.0,0.89,27.0,117.0,0.23,Bay Area
+Stanford Health Care,Short Term,050441,2020-12-25,Santa Clara,085,33.0,4.0,0.96,111.0,539.0,0.21,Bay Area
+"Sutter Medical Center, Sacramento",Short Term,050108,2020-12-25,Sacramento,067,20.0,9.0,0.85,67.0,322.0,0.21,Greater Sacramento
+John Muir Medical Center - Walnut Creek Campus,Short Term,050180,2020-12-25,Contra Costa,013,21.0,10.0,0.83,65.0,310.0,0.21,Bay Area
+John Muir Medical Center - Concord Campus,Short Term,050496,2020-12-25,Contra Costa,013,11.0,6.0,0.83,33.0,163.0,0.2,Bay Area
+Mad River Community Hospital,Short Term,050028,2020-12-25,Humboldt,023,0.0,5.0,0.17,4.0,20.0,0.2,Northern California
+Kaiser Foundation Hospital,Short Term,050510,2020-12-25,Marin,041,3.0,1.0,0.86,12.0,60.0,0.2,Bay Area
+Alta Bates Summit Medical Center - Alta Bates Camp,Short Term,050305,2020-12-25,Alameda,001,5.0,17.0,0.43,26.0,129.0,0.2,Bay Area
+Enloe Medical Center,Short Term,050039,2020-12-25,Butte,007,6.0,2.0,0.92,48.0,248.0,0.19,Greater Sacramento
+Kaiser Foundation Hospital - San Francisco,Short Term,050076,2020-12-25,San Francisco,075,5.0,2.0,0.89,30.0,159.0,0.19,Bay Area
+Mercy General Hospital,Short Term,050017,2020-12-25,Sacramento,067,3.0,25.0,0.46,36.0,185.0,0.19,Greater Sacramento
+Sierra Nevada Memorial Hospital,Short Term,050150,2020-12-25,Nevada,057,2.0,0.0,1.0,12.0,64.0,0.19,Greater Sacramento
+Novato Community Hospital,Short Term,050131,2020-12-25,Marin,041,1.0,3.0,0.57,4.0,22.0,0.18,Bay Area
+Adventist Health Sonora,Short Term,050335,2020-12-25,Tuolumne,109,1.0,3.0,0.5,8.0,45.0,0.18,San Joaquin Valley
+Kern Medical Center,Short Term,050315,2020-12-25,Kern,029,11.0,0.0,1.0,26.0,145.0,0.18,San Joaquin Valley
+Contra Costa Regional Medical Center,Short Term,050276,2020-12-25,Contra Costa,013,10.0,3.0,0.83,20.0,114.0,0.18,Bay Area
+Sutter Santa Rosa Regional Hospital,Short Term,050291,2020-12-25,Sonoma,097,6.0,0.0,1.0,14.0,77.0,0.18,Bay Area
+Lac/Rancho Los Amigos National Rehabilitation  Ctr,Short Term,050717,2020-12-25,Los Angeles,037,3.0,3.0,0.62,23.0,137.0,0.17,Southern California
+University of California Davis Medical Center,Short Term,050599,2020-12-25,Sacramento,067,17.0,5.0,0.94,83.0,525.0,0.16,Greater Sacramento
+Mercy Medical Center Redding,Short Term,050280,2020-12-25,Shasta,089,4.0,8.0,0.76,31.0,196.0,0.16,Northern California
+Fairchild Medical Center,Critical Access Hospitals,051316,2020-12-25,Siskiyou,093,1.0,1.0,0.75,3.0,19.0,0.16,Northern California
+Petaluma Valley Hospital,Short Term,050136,2020-12-25,Sonoma,097,2.0,0.0,1.0,4.0,25.0,0.16,Bay Area
+Memorial Care Miller Children'S &  Women'S Hosp Lb,Childrens Hospitals,053309,2020-12-25,Los Angeles,037,0.0,0.0,,17.0,112.0,0.15,Southern California
+Zuckerberg San Francisco General Hosp & Trauma Ctr,Short Term,050228,2020-12-25,San Francisco,075,10.0,0.0,1.0,32.0,210.0,0.15,Bay Area
+Santa Rosa Memorial Hospital,Short Term,050174,2020-12-25,Sonoma,097,8.0,16.0,0.58,32.0,235.0,0.14,Bay Area
+Alta Bates Summit Medical Center,Short Term,050043,2020-12-25,Alameda,001,7.0,14.0,0.61,24.0,171.0,0.14,Bay Area
+Children'S Hospital of Orange County,Childrens Hospitals,053304,2020-12-25,Orange,059,0.0,0.0,,21.0,150.0,0.14,Southern California
+Modoc Medical Center,Critical Access Hospitals,051330,2020-12-25,Modoc,049,0.0,0.0,,1.0,7.0,0.14,Northern California
+Chinese Hospital,Short Term,050407,2020-12-25,San Francisco,075,2.0,2.0,0.67,6.0,42.0,0.14,Bay Area
+Marinhealth Medical Center,Short Term,050360,2020-12-25,Marin,041,4.0,7.0,0.63,18.0,125.0,0.14,Bay Area
+Adventist Health St Helena,Short Term,050013,2020-12-25,Napa,055,2.0,7.0,0.56,6.0,42.0,0.14,Bay Area
+Kindred Hospital Riverside,Long Term,052052,2020-12-25,Riverside,065,1.0,0.0,1.0,5.0,39.0,0.13,Southern California
+Sutter Coast Hospital,Short Term,050417,2020-12-25,Del Norte,015,1.0,3.0,0.5,3.0,23.0,0.13,Northern California
+California Pacific Medical Center- Van Ness Campus,Short Term,050047,2020-12-25,San Francisco,075,5.0,8.0,0.78,23.0,172.0,0.13,Bay Area
+Ucsf Medical Center,Short Term,050454,2020-12-25,San Francisco,075,19.0,29.0,0.72,61.0,528.0,0.12,Bay Area
+Loma Linda University Children'S Hospital,Short Term,050778,2020-12-25,San Bernardino,071,0.0,0.0,,24.0,202.0,0.12,Southern California
+Kindred Hospital -- LA Mirada,Long Term,052038,2020-12-25,Los Angeles,037,2.0,2.0,0.89,17.0,148.0,0.11,Southern California
+Adventist Health Clearlake,Critical Access Hospitals,051317,2020-12-25,Lake,033,1.0,0.0,1.0,2.0,18.0,0.11,Northern California
+Shasta Regional Medical Center,Short Term,050764,2020-12-25,Shasta,089,2.0,2.0,0.86,9.0,90.0,0.1,Northern California
+John C Fremont Healthcare District,Critical Access Hospitals,051304,2020-12-25,Mariposa,043,0.0,0.0,,1.0,10.0,0.1,San Joaquin Valley
+Children'S Hosp of Los Angeles,Childrens Hospitals,053302,2020-12-25,Los Angeles,037,0.0,0.0,,24.0,263.0,0.09,Southern California
+St Mary'S Medical Center,Short Term,050457,2020-12-25,San Francisco,075,1.0,10.0,0.33,6.0,66.0,0.09,Bay Area
+Central Valley Specialty Hospital,Long Term,052055,2020-12-25,Stanislaus,099,0.0,0.0,,6.0,90.0,0.07,San Joaquin Valley
+Kindred Hospital Rancho,Long Term,052049,2020-12-25,San Bernardino,071,1.0,0.0,1.0,4.0,54.0,0.07,Southern California
+Kindred Hospital Paramount,Long Term,052046,2020-12-25,Los Angeles,037,3.0,0.0,1.0,6.0,89.0,0.07,Southern California
+Rady Children'S Hospital - San Diego,Childrens Hospitals,053303,2020-12-25,San Diego,073,0.0,0.0,,13.0,222.0,0.06,Southern California
+Monrovia Memorial Hospital,Long Term,052054,2020-12-25,Los Angeles,037,0.0,0.0,1.0,1.0,18.0,0.06,Southern California
+Sonoma Valley Hospital,Short Term,050090,2020-12-25,Sonoma,097,2.0,4.0,0.56,3.0,47.0,0.06,Bay Area
+Hi-Desert Medical Center,Short Term,050279,2020-12-25,San Bernardino,071,2.0,0.0,1.0,7.0,120.0,0.06,Southern California
+City of Hope Helford Clinical Research Hospital,Short Term,050146,2020-12-25,Los Angeles,037,1.0,4.0,0.78,11.0,178.0,0.06,Southern California
+Sonoma Specialty Hospital,Long Term,052057,2020-12-25,Sonoma,097,1.0,1.0,0.8,2.0,37.0,0.05,Bay Area
+Valley Children'S Hospital,Childrens Hospitals,053300,2020-12-25,Fresno,019,0.0,0.0,,8.0,170.0,0.05,San Joaquin Valley
+Adventist Health Howard Memorial,Critical Access Hospitals,051310,2020-12-25,Mendocino,045,1.0,0.0,1.0,1.0,19.0,0.05,Northern California
+St Joseph Hospital,Short Term,050006,2020-12-25,Humboldt,023,2.0,9.0,0.5,5.0,118.0,0.04,Northern California
+College Hospital Costa Mesa,Short Term,050543,2020-12-25,Orange,059,0.0,0.0,,4.0,108.0,0.04,Southern California
+Kindred Hospital Baldwin Park,Long Term,052045,2020-12-25,Los Angeles,037,0.0,0.0,1.0,3.0,86.0,0.03,Southern California
+Lucile Salter Packard Children'S Hsp At Stanford,Childrens Hospitals,053305,2020-12-25,Santa Clara,085,0.0,0.0,,7.0,251.0,0.03,Bay Area
+Fresno Heart And Surgical Hospital,Short Term,050732,2020-12-25,Fresno,019,0.0,3.0,0.67,1.0,35.0,0.03,San Joaquin Valley
+Casa Colina Hospital,Short Term,050782,2020-12-25,Los Angeles,037,0.0,3.0,0.5,2.0,81.0,0.02,Southern California
+Ucsf Benioff Children'S Hospital Oakland,Childrens Hospitals,053301,2020-12-25,Alameda,001,0.0,0.0,,1.0,60.0,0.02,Bay Area
+Kindred Hospital Westminster,Long Term,052035,2020-12-25,Orange,059,1.0,3.0,0.81,2.0,92.0,0.02,Southern California
+Vibra Hospital of San Diego,Long Term,052044,2020-12-25,San Diego,073,0.0,0.0,1.0,1.0,86.0,0.01,Southern California
+Kindred Hospital - San Francisco Bay Area,Long Term,052034,2020-12-25,Alameda,001,0.0,1.0,0.9,0.0,73.0,0.0,Bay Area
+Trinity Hospital,Critical Access Hospitals,051315,2020-12-25,Trinity,105,0.0,0.0,,0.0,9.0,0.0,Northern California
+Mendocino Coast District Hospital,Critical Access Hospitals,051325,2020-12-25,Mendocino,045,0.0,2.0,0.5,0.0,12.0,0.0,Northern California
+Mammoth Hospital,Critical Access Hospitals,051303,2020-12-25,Mono,051,0.0,1.0,0.5,0.0,7.0,0.0,Southern California
+Palo Verde Hospital,Short Term,050423,2020-12-25,Riverside,065,0.0,0.0,,0.0,3.0,0.0,Southern California
+Ojai Valley Community Hospital,Critical Access Hospitals,051334,2020-12-25,Ventura,111,0.0,1.0,0.75,0.0,11.0,0.0,Southern California
+Eastern Plumas Hospital - Portola Campus,Critical Access Hospitals,051300,2020-12-25,Plumas,063,0.0,0.0,,0.0,1.0,0.0,Greater Sacramento
+Healthbridge Children'S Hospital - Orange,Childrens Hospitals,053308,2020-12-25,Orange,059,0.0,0.0,,0.0,25.0,0.0,Southern California
+Vibra Hospital of Sacramento,Long Term,052033,2020-12-25,Sacramento,067,0.0,1.0,0.83,0.0,50.0,0.0,Greater Sacramento
+Kindred Hospital Brea,Long Term,052039,2020-12-25,Orange,059,0.0,0.0,1.0,0.0,40.0,0.0,Southern California
+Children'S Hospital At Mission,Childrens Hospitals,053306,2020-12-25,Orange,059,0.0,0.0,,0.0,13.0,0.0,Southern California
+Fresno Surgical Hospital,Short Term,050708,2020-12-25,Fresno,019,0.0,0.0,,0.0,8.0,0.0,San Joaquin Valley
+Shriners Hospitals For Children Northern Calif,Childrens Hospitals,053311,2020-12-25,Sacramento,067,0.0,0.0,,0.0,21.0,0.0,Greater Sacramento
+Goleta Valley Cottage Hospital,Short Term,050357,2020-12-25,Santa Barbara,083,0.0,0.0,1.0,0.0,9.0,0.0,Southern California
+"Marian Regional Medical Center, Arroyo Grande",Short Term,050016,2020-12-25,San Luis Obispo,079,0.0,5.0,0.29,0.0,17.0,0.0,Southern California
+Redwood Memorial Hospital,Critical Access Hospitals,051318,2020-12-25,Humboldt,023,0.0,1.0,0.75,0.0,16.0,0.0,Northern California
+Jerold Phelps Community Hospital,Critical Access Hospitals,051309,2020-12-25,Humboldt,023,0.0,0.0,,0.0,5.0,0.0,Northern California
+Adventist Health Reedley,Short Term,050192,2020-12-25,Fresno,019,0.0,0.0,,0.0,21.0,0.0,San Joaquin Valley
+Laguna Honda Hospital & Rehabilitation Center,Short Term,050668,2020-12-25,San Francisco,075,0.0,0.0,,0.0,4.0,0.0,Bay Area
+California Pacific Medical Ctr-Davies Campus Hosp,Short Term,050008,2020-12-25,San Francisco,075,0.0,2.0,0.75,0.0,58.0,0.0,Bay Area
+Santa Ynez Valley Cottage Hospital,Critical Access Hospitals,051331,2020-12-25,Santa Barbara,083,0.0,0.0,,0.0,3.0,0.0,Southern California
+Hoag Orthopedic Institute,Short Term,050769,2020-12-25,Orange,059,0.0,0.0,,0.0,16.0,0.0,Southern California
+Kindred Hospital - San Diego,Long Term,052036,2020-12-25,San Diego,073,0.0,1.0,0.88,0.0,57.0,0.0,Southern California
+Kentfield Hospital,Long Term,052043,2020-12-25,Marin,041,0.0,0.0,,0.0,50.0,0.0,Bay Area
+Catalina Island Medical Center,Critical Access Hospitals,051307,2020-12-25,Los Angeles,037,0.0,0.0,,0.0,5.0,0.0,Southern California
+Sutter Maternity & Surgery Center of Santa Cruz,Short Term,050714,2020-12-25,Santa Cruz,087,0.0,0.0,,0.0,8.0,0.0,Bay Area
+Patients' Hospital of Redding,Short Term,050697,2020-12-25,Shasta,089,0.0,0.0,,0.0,1.0,0.0,Northern California
+Kindred Hospital - Los Angeles,Long Term,052032,2020-12-25,Los Angeles,037,0.0,0.0,1.0,0.0,76.0,0.0,Southern California
+Vibra Hospital of Northern California,Long Term,052047,2020-12-25,Shasta,089,0.0,0.0,,0.0,37.0,0.0,Northern California
+"West Covina Medical Center, Inc",Short Term,050096,2020-12-25,Los Angeles,037,0.0,0.0,,0.0,2.0,0.0,Southern California
+Usc Kenneth Norris Jr Cancer Hospital,Short Term,050660,2020-12-25,Los Angeles,037,0.0,1.0,0.75,0.0,28.0,0.0,Southern California
+Memoriacare Long Beach Medical Center,Short Term,05T485,2020-12-25,Los Angeles,037,0.0,0.0,,0.0,18.0,0.0,Southern California
+Kindred Hospital Ontario,Long Term,052037,2020-12-25,San Bernardino,071,0.0,5.0,0.55,0.0,71.0,0.0,Southern California

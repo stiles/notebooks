@@ -1,0 +1,23 @@
+county,week,region,total_covid_patients,covid_patients_share
+Los Angeles,2020-07-31,Southern California,2319.0,0.19
+Los Angeles,2020-08-07,Southern California,2025.0,0.16
+Los Angeles,2020-08-14,Southern California,1950.0,0.16
+Los Angeles,2020-08-21,Southern California,1724.0,0.14
+Los Angeles,2020-08-28,Southern California,1456.0,0.12
+Los Angeles,2020-09-04,Southern California,1307.0,0.11
+Los Angeles,2020-09-11,Southern California,1120.0,0.09
+Los Angeles,2020-09-18,Southern California,1105.0,0.09
+Los Angeles,2020-09-25,Southern California,1065.0,0.09
+Los Angeles,2020-10-02,Southern California,1048.0,0.08
+Los Angeles,2020-10-09,Southern California,1066.0,0.09
+Los Angeles,2020-10-16,Southern California,1072.0,0.09
+Los Angeles,2020-10-23,Southern California,1032.0,0.08
+Los Angeles,2020-10-30,Southern California,1112.0,0.09
+Los Angeles,2020-11-06,Southern California,1215.0,0.09
+Los Angeles,2020-11-13,Southern California,1511.0,0.12
+Los Angeles,2020-11-20,Southern California,2023.0,0.15
+Los Angeles,2020-11-27,Southern California,2743.0,0.21
+Los Angeles,2020-12-04,Southern California,3666.0,0.26
+Los Angeles,2020-12-11,Southern California,5038.0,0.34
+Los Angeles,2020-12-18,Southern California,6497.0,0.43
+Los Angeles,2020-12-25,Southern California,7584.0,0.5
