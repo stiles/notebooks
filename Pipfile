@@ -13,6 +13,12 @@ tweepy = "*"
 lxml = "*"
 html5lib = "*"
 tabula-py = "*"
+xlrd = "*"
+esridumpgdf = "*"
+fuzzywuzzy = "*"
+nb-black = "*"
+pandas = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"

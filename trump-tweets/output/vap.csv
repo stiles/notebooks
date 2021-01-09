@@ -1,0 +1,55 @@
+State,,,,,,,Denominators,,VEP Components (Modifications to VAP to Calculate VEP),,,,,,
+,Source,,Total Ballots Counted (Estimate),Vote for Highest Office (President),VEP Turnout Rate (Total Ballots Counted),VEP Turnout Rate (Highest Office),Voting-Eligible Population (VEP),Voting-Age Population (VAP),% Non-citizen,Prison,Probation,Parole,Total Ineligible Felon,Overseas Eligible,State Abv
+United States,,,"159,690,457","158,254,139",66.7%,66.1%,"239,247,182","257,605,088",7.8%,"1,461,074","1,962,811","616,440","3,294,457","4,971,025",
+Alabama,https://www.sos.alabama.gov/sites/default/files/election-2020/Final%20Canvass%20of%20Results-Merged.pdf,OFFICIAL,"2,325,000","2,323,282",63.1%,63.1%,"3,683,055","3,837,540",2.3%,"25,898","50,997","10,266","67,782",,AL
+Alaska,https://www.elections.alaska.gov/results/20GENR/index.php,OFFICIAL,"361,400","359,530",68.8%,68.4%,"525,568","551,117",3.4%,"4,293","2,074","1,348","6,927",,AK
+Arizona,https://results.arizona.vote/#/featured/18/0,OFFICIAL,"3,420,565","3,385,294",65.9%,65.2%,"5,189,000","5,798,473",8.9%,"38,520","76,844","7,536","93,699",,AZ
+Arkansas,https://results.enr.clarityelections.com/AR/106124/web.264614/#/summary,OFFICIAL,"1,223,675","1,219,069",56.1%,55.9%,"2,182,375","2,331,171",3.6%,"17,510","36,719","24,698","64,974",,AR
+California,https://electionresults.sos.ca.gov/,OFFICIAL,"17,783,784","17,495,826",68.5%,67.4%,"25,962,648","30,783,255",15.0%,"104,730",0,"102,586","207,316",,CA
+Colorado,https://results.enr.clarityelections.com/CO/105975/web.264614/#/summary,OFFICIAL,"3,295,666","3,256,952",76.4%,75.5%,"4,313,054","4,595,504",5.7%,"18,905",0,0,"18,905",,CO
+Connecticut,https://ctemspublic.pcctg.net/#/selectTown,OFFICIAL,"1,861,086","1,824,280",71.5%,70.1%,"2,603,327","2,839,560",7.7%,"13,268",0,"4,452","17,720",,CT
+Delaware,https://elections.delaware.gov/results/html/index.shtml?electionId=GE2020,OFFICIAL,"509,241","504,010",70.7%,69.9%,"720,531","780,822",5.8%,"5,874","14,176",350,"15,013",,DE
+District of Columbia,https://electionresults.dcboe.org/election_results/2020-General-Election,OFFICIAL,"346,491","344,356",64.1%,63.7%,"540,685","582,065",7.1%,0,0,0,0,,DC
+Florida,https://floridaelectionwatch.gov/CountyReportingStatus,OFFICIAL,"11,144,855","11,067,456",71.7%,71.2%,"15,551,739","17,543,341",10.1%,"91,674","205,033","4,345","223,139",,FL
+Georgia,https://results.enr.clarityelections.com/GA/107231/web.264614/#/summary,OFFICIAL,"5,000,511","4,997,716",67.7%,67.7%,"7,383,562","8,255,108",6.6%,"50,930","416,771","20,426","329,754",,GA
+Hawaii,https://elections.hawaii.gov/election-results/,OFFICIAL,"579,784","574,469",57.5%,57.0%,"1,007,920","1,114,466",9.1%,"5,007",0,0,"5,007",,HI
+Idaho,https://sos.idaho.gov/elections-division/election-results/,OFFICIAL,"878,527","868,014",68.0%,67.1%,"1,292,701","1,384,683",4.1%,"8,378","34,392","5,267","34,968",,ID
+Illinois,https://www.elections.il.gov/ElectionOperations/ElectionVoteTotals.aspx?T=637426684043454616,OFFICIAL,"6,050,000","6,033,744",67.0%,66.8%,"9,027,082","9,832,749",7.8%,"38,464",0,0,"38,464",,IL
+Indiana,https://enr.indianavoters.in.gov/site/index.html,OFFICIAL,"3,068,542","3,033,112",61.4%,60.7%,"5,000,007","5,214,546",3.6%,"26,302",0,0,"26,302",,IN
+Iowa,https://electionresults.iowa.gov/IA/106279/web.264614/#/summary,OFFICIAL,"1,700,130","1,690,871",73.2%,72.8%,"2,321,131","2,439,743",3.5%,"9,216","29,137","6,652","33,933",,IA
+Kansas,https://sos.ks.gov/elections/20elec/2020_General_Official_Vote_Totals.pdf,OFFICIAL,"1,375,125","1,333,513",65.9%,63.9%,"2,087,946","2,223,238",4.9%,"9,882","16,455","5,438","25,522",,KS
+Kentucky,https://elect.ky.gov/results/2020-2029/Documents/2020%20General%20Election%20Results.pdf,OFFICIAL,"2,150,954","2,136,768",64.9%,64.5%,"3,312,250","3,479,257",2.8%,"23,280","46,967","15,881","68,281",,KY
+Louisiana*,https://voterportal.sos.la.gov/graphical,OFFICIAL,"2,180,000","2,071,543",64.6%,61.4%,"3,373,932","3,557,594",2.8%,"32,267","35,025","29,321","83,304",,LA
+Maine,https://www.maine.gov/sos/cec/elec/results/results20.html#novtab,OFFICIAL,"828,305","819,461",76.3%,75.5%,"1,085,285","1,104,489",1.7%,0,0,0,0,,ME
+Maryland,https://elections.maryland.gov/county_status_page_root.html,OFFICIAL,"3,066,945","3,037,030",71.1%,70.4%,"4,313,416","4,729,400",8.4%,"18,165",0,0,"18,165",,MD
+Massachusetts,https://electionstats.state.ma.us/elections/search/date:2020-11-03,OFFICIAL,"3,658,005","3,631,402",72.1%,71.6%,"5,072,901","5,566,452",8.7%,"7,772",0,0,"7,772",,MA
+Michigan,https://mielections.us/election/results/2020GEN_CENR.html,OFFICIAL,"5,579,317","5,539,302",73.9%,73.4%,"7,550,147","7,870,864",3.6%,"38,183",0,0,"38,183",,MI
+Minnesota,https://www.sos.state.mn.us/elections-voting/election-results/2020/2020-general-election-results/,OFFICIAL,"3,292,997","3,277,171",80.0%,79.6%,"4,118,462","4,378,737",4.1%,"9,712","100,076","7,381","79,140",,MN
+Mississippi,https://www.sos.ms.gov/Elections-Voting/Pages/2020-General-Election.aspx,OFFICIAL,"1,325,000","1,313,894",60.2%,59.7%,"2,201,950","2,279,412",1.4%,"19,244","27,294","9,866","46,032",,MS
+Missouri,https://enr.sos.mo.gov/,OFFICIAL,"3,026,028","3,025,962",65.7%,65.7%,"4,603,060","4,794,796",2.4%,"30,148","43,871","19,251","76,599",,MO
+Montana*,https://electionresults.mt.gov/,OFFICIAL,"612,075","603,640",73.1%,72.1%,"837,298","851,663",1.2%,"3,754",0,0,"3,754",,MT
+Nebraska,https://sos.nebraska.gov/sites/sos.nebraska.gov/files/doc/elections/2020/2020-General-Canvass-Book.pdf,OFFICIAL,"966,920","951,712",69.9%,68.8%,"1,383,551","1,469,878",4.8%,"5,263","14,894",958,"15,455",,NE
+Nevada,https://silverstateelection.nv.gov/,OFFICIAL,"1,407,754","1,405,376",65.4%,65.2%,"2,153,915","2,450,946",11.6%,"12,399",0,0,"12,399",,NV
+New Hampshire,https://sos.nh.gov/elections/elections/election-results/2020/general-election/,OFFICIAL,"814,499","806,182",75.5%,74.7%,"1,079,434","1,115,916",3.0%,"2,635",0,0,"2,635",,NH
+New Jersey,https://www.state.nj.us/state/elections/election-information-2020.shtml,OFFICIAL,"4,635,585","4,549,353",75.3%,73.9%,"6,158,999","6,952,008",11.1%,"18,099",0,0,"18,099",,NJ
+New Mexico,https://nmresults.azurewebsites.net/Default.aspx,OFFICIAL,"928,230","923,965",61.3%,61.0%,"1,515,355","1,634,037",6.2%,"6,887","12,090","2,805","17,188",,NM
+New York,https://www.elections.ny.gov/2020ElectionResults.html,OFFICIAL,"8,661,735","8,594,826",63.4%,62.9%,"13,670,596","15,372,655",10.5%,"42,408",0,"45,192","87,600",,NY
+North Carolina,https://www.ncsbe.gov/results-data/election-results,OFFICIAL,"5,545,847","5,524,802",71.5%,71.2%,"7,759,051","8,328,642",5.7%,"33,640","80,068","14,215","97,497",,NC
+North Dakota,https://results.sos.nd.gov/Default.aspx?map=Cty,OFFICIAL,"364,251","361,819",64.5%,64.0%,"565,143","584,610",3.0%,"1,679",0,0,"1,679",,ND
+Ohio,https://www.ohiosos.gov/elections/election-results-and-data/2020/,OFFICIAL,"5,974,121","5,922,202",67.4%,66.8%,"8,859,167","9,144,626",2.6%,"49,892",0,0,"49,892",,OH
+Oklahoma,https://www.ok.gov/elections/Election_Info/2020_November_General_Election.html,OFFICIAL,"1,565,000","1,560,699",55.0%,54.8%,"2,845,835","3,031,792",4.3%,"27,558","41,562","1,780","55,106",,OK
+Oregon,https://sos.oregon.gov/voting/Pages/current-election.aspx,OFFICIAL,"2,413,890","2,374,321",75.5%,74.3%,"3,196,425","3,405,863",5.7%,"13,795",0,0,"13,795",,OR
+Pennsylvania*,https://www.electionreturns.pa.gov/,OFFICIAL,"6,950,000","6,915,283",71.0%,70.7%,"9,781,976","10,186,170",3.5%,"44,148",0,0,"44,148",,PA
+Rhode Island,https://www.ri.gov/election/results/2020/general_election/,OFFICIAL,"525,000","517,757",65.7%,64.7%,"799,642","857,507",6.4%,"2,766",0,0,"2,766",,RI
+South Carolina,https://www.enr-scvotes.org/SC/106502/Web02-state.264691/#/?undefined,OFFICIAL,"2,533,010","2,513,329",64.5%,64.0%,"3,926,305","4,116,633",3.6%,"18,587","31,975","4,980","43,392",,SC
+South Dakota,https://sdsos.gov/elections-voting/assets/2020GeneralStateCanvassFinal&Certificate.pdf,OFFICIAL,"427,529","422,609",66.0%,65.2%,"648,104","675,016",2.4%,"3,867","5,989","3,201","10,781",,SD
+Tennessee,https://elections.tn.gov/results.php,OFFICIAL,"3,065,000","3,053,851",59.8%,59.6%,"5,124,867","5,391,220",3.6%,"26,107","61,253","10,842","74,926",,TN
+Texas,https://results.texas-election.com/races,OFFICIAL,"11,350,000","11,315,056",60.4%,60.2%,"18,784,280","22,058,260",12.6%,"154,913","368,167","109,213","492,390",,TX
+Utah,https://voteinfo.utah.gov/wp-content/uploads/sites/42/2020/11/2020-General-Election-Canvass.pdf,OFFICIAL,"1,515,845","1,488,289",69.2%,67.9%,"2,191,487","2,343,384",6.2%,"6,287",0,0,"6,287",,UT
+Vermont,https://electionresults.vermont.gov/Index.html#/federal,OFFICIAL,"370,968","367,428",74.2%,73.5%,"499,884","511,637",2.3%,0,0,0,0,,VT
+Virginia,https://results.elections.virginia.gov/vaelections/2020%20November%20General/Site/Presidential.html,OFFICIAL,"4,523,142","4,460,524",73.0%,72.0%,"6,196,071","6,727,440",6.8%,"35,743","63,111","1,860","76,732",,VA
+Washington,https://results.vote.wa.gov/results/20201103/turnout.html,OFFICIAL,"4,116,894","4,087,631",75.7%,75.2%,"5,437,844","6,070,046",9.1%,"18,777","76,672","12,222","78,536",,WA
+West Virginia,https://sos.wv.gov/elections/Pages/HistElecResults.aspx,OFFICIAL,"802,726","794,652",57.6%,57.0%,"1,394,028","1,422,098",0.9%,"6,757","6,593","4,287","15,132",,WV
+Wisconsin,https://elections.wi.gov/,OFFICIAL,"3,310,000","3,298,041",75.8%,75.5%,"4,368,530","4,586,746",3.2%,"23,574","42,909","21,015","71,193",,WI
+Wyoming,https://sos.wyo.gov/Elections/Docs/2020/2020GeneralResults.aspx,OFFICIAL,"278,503","276,765",64.6%,64.2%,"431,364","447,915",2.2%,"2,488","5,383",934,"6,759",,WY
+"* Notes: For Louisiana, and Montana, I am using the US Senate election as the highest office since these races had the highest turnout. Pennsylvania does not yet include write-in votes",,,,,,,,,,,,,,,
