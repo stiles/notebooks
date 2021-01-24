@@ -6,28 +6,16 @@
 	<SimpleField name="date_reported" type="string"></SimpleField>
 	<SimpleField name="date_occurred" type="string"></SimpleField>
 	<SimpleField name="time_occurred" type="string"></SimpleField>
-	<SimpleField name="division" type="string"></SimpleField>
 	<SimpleField name="division_name" type="string"></SimpleField>
 	<SimpleField name="reporting_district" type="string"></SimpleField>
-	<SimpleField name="part_type" type="string"></SimpleField>
-	<SimpleField name="crime_code" type="float"></SimpleField>
 	<SimpleField name="crime_code_description" type="string"></SimpleField>
 	<SimpleField name="modus_operandi_code" type="string"></SimpleField>
 	<SimpleField name="victim_age" type="float"></SimpleField>
 	<SimpleField name="victim_sex" type="string"></SimpleField>
-	<SimpleField name="victim_descent" type="string"></SimpleField>
-	<SimpleField name="premises_code" type="string"></SimpleField>
 	<SimpleField name="premises_description" type="string"></SimpleField>
-	<SimpleField name="weapon_code" type="float"></SimpleField>
 	<SimpleField name="weapon_description" type="string"></SimpleField>
-	<SimpleField name="status_code" type="string"></SimpleField>
 	<SimpleField name="status_code_description" type="string"></SimpleField>
-	<SimpleField name="crm_cd_1" type="float"></SimpleField>
-	<SimpleField name="crm_cd_2" type="float"></SimpleField>
-	<SimpleField name="crm_cd_3" type="float"></SimpleField>
-	<SimpleField name="crm_cd_4" type="float"></SimpleField>
 	<SimpleField name="address" type="string"></SimpleField>
-	<SimpleField name="cross_street" type="string"></SimpleField>
 	<SimpleField name="latitude" type="float"></SimpleField>
 	<SimpleField name="longitude" type="float"></SimpleField>
 	<SimpleField name="division.1" type="float"></SimpleField>
@@ -40,7 +28,6 @@
 	<SimpleField name="descent_description" type="string"></SimpleField>
 	<SimpleField name="hour" type="string"></SimpleField>
 	<SimpleField name="minute" type="string"></SimpleField>
-	<SimpleField name="part_category" type="string"></SimpleField>
 	<SimpleField name="index_right" type="string"></SimpleField>
 </Schema>
 <Folder><name>bh_homicides</name>
@@ -51,23 +38,15 @@
 		<SimpleData name="date_reported">2020-02-10</SimpleData>
 		<SimpleData name="date_occurred">2020-02-10</SimpleData>
 		<SimpleData name="time_occurred">200</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">449</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0913 1100 1402 0430 1820 0302 1309 0906</SimpleData>
 		<SimpleData name="victim_age">29</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">501</SimpleData>
 		<SimpleData name="premises_description">Single family dwelling</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2600    MARENGO                      ST</SimpleData>
 		<SimpleData name="latitude">34.0545</SimpleData>
 		<SimpleData name="longitude">-118.1992</SimpleData>
@@ -80,7 +59,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">2</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1992,34.0545</coordinates></Point>
@@ -92,24 +70,15 @@
 		<SimpleData name="date_reported">2020-03-17</SimpleData>
 		<SimpleData name="date_occurred">2020-03-17</SimpleData>
 		<SimpleData name="time_occurred">905</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">478</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0334 0430 0202 0906 1100 2004 1407 1822 0341</SimpleData>
 		<SimpleData name="victim_age">26</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">900    GRANDE VISTA                 AV</SimpleData>
 		<SimpleData name="latitude">34.028</SimpleData>
 		<SimpleData name="longitude">-118.2048</SimpleData>
@@ -122,7 +91,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">9</SimpleData>
 		<SimpleData name="minute">5</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2048,34.028</coordinates></Point>
@@ -134,23 +102,15 @@
 		<SimpleData name="date_reported">2020-09-26</SimpleData>
 		<SimpleData name="date_occurred">2020-09-26</SimpleData>
 		<SimpleData name="time_occurred">900</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">453</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1822 0400 0416 0429 1202</SimpleData>
 		<SimpleData name="victim_age">62</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">400</SimpleData>
 		<SimpleData name="weapon_description">Strong-arm (hands, fist, feet or bodily force)</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">1800    PENNSYLVANIA                 AV</SimpleData>
 		<SimpleData name="latitude">34.0475</SimpleData>
 		<SimpleData name="longitude">-118.2169</SimpleData>
@@ -163,7 +123,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">9</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2169,34.0475</coordinates></Point>
@@ -175,24 +134,15 @@
 		<SimpleData name="date_reported">2020-04-16</SimpleData>
 		<SimpleData name="date_occurred">2020-04-15</SimpleData>
 		<SimpleData name="time_occurred">2259</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">466</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 1407 0946 1270 1809 1822 1100 0906 0430</SimpleData>
 		<SimpleData name="victim_age">45</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2800 E  CESAR E CHAVEZ               AV</SimpleData>
 		<SimpleData name="latitude">34.0445</SimpleData>
 		<SimpleData name="longitude">-118.2025</SimpleData>
@@ -205,7 +155,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">59</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2025,34.0445</coordinates></Point>
@@ -217,24 +166,15 @@
 		<SimpleData name="date_reported">2020-05-15</SimpleData>
 		<SimpleData name="date_occurred">2020-05-15</SimpleData>
 		<SimpleData name="time_occurred">710</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">453</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0906 1822 1100 0430 0334 1407 0302</SimpleData>
 		<SimpleData name="victim_age">40</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">109</SimpleData>
 		<SimpleData name="premises_description">Park/playground</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">700    ECHANDIA                     ST</SimpleData>
 		<SimpleData name="latitude">34.0542</SimpleData>
 		<SimpleData name="longitude">-118.2172</SimpleData>
@@ -247,7 +187,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">7</SimpleData>
 		<SimpleData name="minute">10</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2172,34.0542</coordinates></Point>
@@ -259,23 +198,15 @@
 		<SimpleData name="date_reported">2020-07-18</SimpleData>
 		<SimpleData name="date_occurred">2020-07-18</SimpleData>
 		<SimpleData name="time_occurred">1212</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">479</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1816 0430 1402 1407 0906 1218 2004 1100 0913 1817</SimpleData>
 		<SimpleData name="victim_age">55</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">502</SimpleData>
 		<SimpleData name="premises_description">Multi-unit dwelling (apartment, duplex, etc)</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">3700    WHITTIER                     BL</SimpleData>
 		<SimpleData name="latitude">34.0244</SimpleData>
 		<SimpleData name="longitude">-118.1934</SimpleData>
@@ -288,7 +219,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">12</SimpleData>
 		<SimpleData name="minute">12</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1934,34.0244</coordinates></Point>
@@ -300,24 +230,15 @@
 		<SimpleData name="date_reported">2020-04-09</SimpleData>
 		<SimpleData name="date_occurred">2020-04-09</SimpleData>
 		<SimpleData name="time_occurred">1955</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">459</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1407 1822 1100 0430 0305</SimpleData>
 		<SimpleData name="victim_age">44</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">400 N  EVERGREEN                    AV</SimpleData>
 		<SimpleData name="latitude">34.0436</SimpleData>
 		<SimpleData name="longitude">-118.2004</SimpleData>
@@ -330,7 +251,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">19</SimpleData>
 		<SimpleData name="minute">55</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2004,34.0436</coordinates></Point>
@@ -342,24 +262,15 @@
 		<SimpleData name="date_reported">2020-06-10</SimpleData>
 		<SimpleData name="date_occurred">2020-06-10</SimpleData>
 		<SimpleData name="time_occurred">1935</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">499</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 1100 0906 1402 0913 1817</SimpleData>
 		<SimpleData name="victim_age">36</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1200    LOS PALOS                    ST</SimpleData>
 		<SimpleData name="latitude">34.0189</SimpleData>
 		<SimpleData name="longitude">-118.1954</SimpleData>
@@ -372,7 +283,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">19</SimpleData>
 		<SimpleData name="minute">35</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1954,34.0189</coordinates></Point>
@@ -384,23 +294,15 @@
 		<SimpleData name="date_reported">2020-05-26</SimpleData>
 		<SimpleData name="date_occurred">2020-05-25</SimpleData>
 		<SimpleData name="time_occurred">1300</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">491</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1501 0400 1218 1822 0430 1100</SimpleData>
 		<SimpleData name="victim_age">27</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">710</SimpleData>
 		<SimpleData name="premises_description">Other premise</SimpleData>
-		<SimpleData name="weapon_code">500</SimpleData>
 		<SimpleData name="weapon_description">Unknown weapon/other weapon</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">1500    RIO VISTA                    AV</SimpleData>
 		<SimpleData name="latitude">34.0234</SimpleData>
 		<SimpleData name="longitude">-118.2229</SimpleData>
@@ -413,7 +315,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">13</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2229,34.0234</coordinates></Point>
@@ -425,24 +326,15 @@
 		<SimpleData name="date_reported">2020-06-04</SimpleData>
 		<SimpleData name="date_occurred">2020-06-04</SimpleData>
 		<SimpleData name="time_occurred">2210</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">466</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 1402 0906 1100 1822</SimpleData>
 		<SimpleData name="victim_age">24</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">200 N  SOTO                         ST</SimpleData>
 		<SimpleData name="latitude">34.0453</SimpleData>
 		<SimpleData name="longitude">-118.2088</SimpleData>
@@ -455,7 +347,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">10</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2088,34.0453</coordinates></Point>
@@ -467,26 +358,16 @@
 		<SimpleData name="date_reported">2020-09-13</SimpleData>
 		<SimpleData name="date_occurred">2020-09-13</SimpleData>
 		<SimpleData name="time_occurred">2020</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">449</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0906 1822 1100 0430 1407</SimpleData>
 		<SimpleData name="victim_age">36</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">MARENGO</SimpleData>
-		<SimpleData name="cross_street">FICKETT</SimpleData>
 		<SimpleData name="latitude">34.0544</SimpleData>
 		<SimpleData name="longitude">-118.2007</SimpleData>
 		<SimpleData name="year">2020</SimpleData>
@@ -498,7 +379,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">20</SimpleData>
 		<SimpleData name="minute">20</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2007,34.0544</coordinates></Point>
@@ -510,24 +390,15 @@
 		<SimpleData name="date_reported">2020-09-27</SimpleData>
 		<SimpleData name="date_occurred">2020-09-27</SimpleData>
 		<SimpleData name="time_occurred">930</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">491</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0430 1218 1822 1402</SimpleData>
 		<SimpleData name="victim_age">50</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">116</SimpleData>
 		<SimpleData name="premises_description">Other/outside</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2500 E  OLYMPIC                      BL</SimpleData>
 		<SimpleData name="latitude">34.0254</SimpleData>
 		<SimpleData name="longitude">-118.2227</SimpleData>
@@ -540,7 +411,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">9</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2227,34.0254</coordinates></Point>
@@ -552,24 +422,15 @@
 		<SimpleData name="date_reported">2020-10-05</SimpleData>
 		<SimpleData name="date_occurred">2020-10-05</SimpleData>
 		<SimpleData name="time_occurred">150</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">478</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 0906 1100 1822 0430</SimpleData>
 		<SimpleData name="victim_age">29</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">600    SPENCE                       ST</SimpleData>
 		<SimpleData name="latitude">34.0285</SimpleData>
 		<SimpleData name="longitude">-118.2031</SimpleData>
@@ -582,7 +443,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">1</SimpleData>
 		<SimpleData name="minute">50</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2031,34.0285</coordinates></Point>
@@ -594,26 +454,16 @@
 		<SimpleData name="date_reported">2020-07-20</SimpleData>
 		<SimpleData name="date_occurred">2020-07-20</SimpleData>
 		<SimpleData name="time_occurred">2230</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">499</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0430 0906 1270 1822 1402 1419</SimpleData>
 		<SimpleData name="victim_age">34</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">W</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">BESWICK</SimpleData>
-		<SimpleData name="cross_street">CALZONA                      ST</SimpleData>
 		<SimpleData name="latitude">34.0205</SimpleData>
 		<SimpleData name="longitude">-118.1957</SimpleData>
 		<SimpleData name="year">2020</SimpleData>
@@ -625,7 +475,6 @@
 		<SimpleData name="descent_description">white</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1957,34.0205</coordinates></Point>
@@ -637,23 +486,15 @@
 		<SimpleData name="date_reported">2020-10-31</SimpleData>
 		<SimpleData name="date_occurred">2020-10-31</SimpleData>
 		<SimpleData name="time_occurred">1021</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">499</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0416 1218 0906 1270 0430 0913</SimpleData>
 		<SimpleData name="victim_age">44</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">3600    NOAKES                       ST</SimpleData>
 		<SimpleData name="latitude">34.0145</SimpleData>
 		<SimpleData name="longitude">-118.2002</SimpleData>
@@ -666,7 +507,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">10</SimpleData>
 		<SimpleData name="minute">21</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2002,34.0145</coordinates></Point>
@@ -678,24 +518,15 @@
 		<SimpleData name="date_reported">2020-08-13</SimpleData>
 		<SimpleData name="date_occurred">2020-08-13</SimpleData>
 		<SimpleData name="time_occurred">1655</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">464</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0910 1100 0430 1402 1407 1822 2047</SimpleData>
 		<SimpleData name="victim_age">25</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">962</SimpleData>
 		<SimpleData name="premises_description">Mta - gold line - soto</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2300 E  1ST                          ST</SimpleData>
 		<SimpleData name="latitude">34.0441</SimpleData>
 		<SimpleData name="longitude">-118.2105</SimpleData>
@@ -708,7 +539,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">16</SimpleData>
 		<SimpleData name="minute">55</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2105,34.0441</coordinates></Point>
@@ -720,23 +550,15 @@
 		<SimpleData name="date_reported">2020-12-31</SimpleData>
 		<SimpleData name="date_occurred">2020-12-31</SimpleData>
 		<SimpleData name="time_occurred">855</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">497</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 1822 1218 0430</SimpleData>
 		<SimpleData name="victim_age">45</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">116</SimpleData>
 		<SimpleData name="premises_description">Other/outside</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2800 E  LUGO                         ST</SimpleData>
 		<SimpleData name="latitude">34.0166</SimpleData>
 		<SimpleData name="longitude">-118.22</SimpleData>
@@ -749,7 +571,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">8</SimpleData>
 		<SimpleData name="minute">55</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.22,34.0166</coordinates></Point>
@@ -761,23 +582,15 @@
 		<SimpleData name="date_reported">2020-12-19</SimpleData>
 		<SimpleData name="date_occurred">2020-12-19</SimpleData>
 		<SimpleData name="time_occurred">1719</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">464</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1822 0430 0906</SimpleData>
 		<SimpleData name="victim_age">22</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">200 S  SOTO                         ST</SimpleData>
 		<SimpleData name="latitude">34.0445</SimpleData>
 		<SimpleData name="longitude">-118.2116</SimpleData>
@@ -790,7 +603,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">17</SimpleData>
 		<SimpleData name="minute">19</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2116,34.0445</coordinates></Point>
@@ -802,23 +614,15 @@
 		<SimpleData name="date_reported">2020-12-19</SimpleData>
 		<SimpleData name="date_occurred">2020-12-19</SimpleData>
 		<SimpleData name="time_occurred">1719</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">464</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1822 0430 1100 0906</SimpleData>
 		<SimpleData name="victim_age">23</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">200 S  SOTO                         ST</SimpleData>
 		<SimpleData name="latitude">34.0445</SimpleData>
 		<SimpleData name="longitude">-118.2116</SimpleData>
@@ -831,7 +635,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">17</SimpleData>
 		<SimpleData name="minute">19</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2116,34.0445</coordinates></Point>
@@ -843,23 +646,15 @@
 		<SimpleData name="date_reported">2020-11-23</SimpleData>
 		<SimpleData name="date_occurred">2020-11-23</SimpleData>
 		<SimpleData name="time_occurred">1445</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">465</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 1822 0430 0906</SimpleData>
 		<SimpleData name="victim_age">30</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">3200 E  4TH                          ST</SimpleData>
 		<SimpleData name="latitude">34.0357</SimpleData>
 		<SimpleData name="longitude">-118.2007</SimpleData>
@@ -872,7 +667,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">14</SimpleData>
 		<SimpleData name="minute">45</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2007,34.0357</coordinates></Point>
@@ -884,24 +678,15 @@
 		<SimpleData name="date_reported">2021-01-02</SimpleData>
 		<SimpleData name="date_occurred">2021-01-02</SimpleData>
 		<SimpleData name="time_occurred">1530</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">453</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0906 1822 0430 1402 1100</SimpleData>
 		<SimpleData name="victim_age">15</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">107</SimpleData>
 		<SimpleData name="premises_description">Vacant lot</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">600    ECHANDIA                     ST</SimpleData>
 		<SimpleData name="latitude">34.0527</SimpleData>
 		<SimpleData name="longitude">-118.2183</SimpleData>
@@ -914,7 +699,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">15</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2183,34.0527</coordinates></Point>
@@ -926,23 +710,15 @@
 		<SimpleData name="date_reported">2021-01-09</SimpleData>
 		<SimpleData name="date_occurred">2021-01-09</SimpleData>
 		<SimpleData name="time_occurred">2048</SimpleData>
-		<SimpleData name="division">4.0</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">456</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 1822 0430</SimpleData>
 		<SimpleData name="victim_age">59</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">700 N  FICKETT                      ST</SimpleData>
 		<SimpleData name="latitude">34.0495</SimpleData>
 		<SimpleData name="longitude">-118.2036</SimpleData>
@@ -955,7 +731,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">20</SimpleData>
 		<SimpleData name="minute">48</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2036,34.0495</coordinates></Point>
@@ -969,20 +744,13 @@
 		<SimpleData name="time_occurred">1807</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">466</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0342 0430 0906 1100 1309</SimpleData>
 		<SimpleData name="victim_age">19</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">104</SimpleData>
 		<SimpleData name="premises_description">Driveway</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2400    MICHIGAN                     AV</SimpleData>
 		<SimpleData name="latitude">34.0453</SimpleData>
 		<SimpleData name="longitude">-118.2088</SimpleData>
@@ -996,7 +764,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">18</SimpleData>
 		<SimpleData name="minute">7</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2088,34.0453</coordinates></Point>
@@ -1010,21 +777,13 @@
 		<SimpleData name="time_occurred">2330</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">489</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0411 0913 1243 1401 1402 1416 1813 2000</SimpleData>
 		<SimpleData name="victim_age">34</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">502</SimpleData>
 		<SimpleData name="premises_description">Multi-unit dwelling (apartment, duplex, etc)</SimpleData>
-		<SimpleData name="weapon_code">207</SimpleData>
 		<SimpleData name="weapon_description">Other knife</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">3000    ROSALIND                     PL</SimpleData>
 		<SimpleData name="latitude">34.024</SimpleData>
 		<SimpleData name="longitude">-118.2126</SimpleData>
@@ -1038,7 +797,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">23</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2126,34.024</coordinates></Point>
@@ -1052,21 +810,13 @@
 		<SimpleData name="time_occurred">2343</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">457</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0602 1243 1309 1402</SimpleData>
 		<SimpleData name="victim_age">19</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">501</SimpleData>
 		<SimpleData name="premises_description">Single family dwelling</SimpleData>
-		<SimpleData name="weapon_code">307</SimpleData>
 		<SimpleData name="weapon_description">Vehicle</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2700    CINCINNATI                   ST</SimpleData>
 		<SimpleData name="latitude">34.046</SimpleData>
 		<SimpleData name="longitude">-118.2035</SimpleData>
@@ -1080,7 +830,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">23</SimpleData>
 		<SimpleData name="minute">43</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2035,34.046</coordinates></Point>
@@ -1094,20 +843,13 @@
 		<SimpleData name="time_occurred">2342</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">457</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0602 1257 1309</SimpleData>
 		<SimpleData name="victim_age">0</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">501</SimpleData>
 		<SimpleData name="premises_description">Single family dwelling</SimpleData>
-		<SimpleData name="weapon_code">307</SimpleData>
 		<SimpleData name="weapon_description">Vehicle</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2700    CINCINNATI                   ST</SimpleData>
 		<SimpleData name="latitude">34.046</SimpleData>
 		<SimpleData name="longitude">-118.2035</SimpleData>
@@ -1121,7 +863,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">23</SimpleData>
 		<SimpleData name="minute">42</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2035,34.046</coordinates></Point>
@@ -1135,20 +876,13 @@
 		<SimpleData name="time_occurred">1900</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">448</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0430 0906 0913 1100</SimpleData>
 		<SimpleData name="victim_age">41</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">1500    MURCHISON                    ST</SimpleData>
 		<SimpleData name="latitude">34.0594</SimpleData>
 		<SimpleData name="longitude">-118.1958</SimpleData>
@@ -1162,7 +896,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">19</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1958,34.0594</coordinates></Point>
@@ -1176,21 +909,13 @@
 		<SimpleData name="time_occurred">1210</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">467</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0326 0334 0342 0430 1100 1309 1402 1409 1407</SimpleData>
 		<SimpleData name="victim_age">27</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2600 E  3RD                          ST</SimpleData>
 		<SimpleData name="latitude">34.0403</SimpleData>
 		<SimpleData name="longitude">-118.2088</SimpleData>
@@ -1204,7 +929,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">12</SimpleData>
 		<SimpleData name="minute">10</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2088,34.0403</coordinates></Point>
@@ -1218,23 +942,14 @@
 		<SimpleData name="time_occurred">2344</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">497</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 0906 1100 1240 1310 1407</SimpleData>
 		<SimpleData name="victim_age">21</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">107</SimpleData>
 		<SimpleData name="weapon_description">Other firearm</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">LORENA</SimpleData>
-		<SimpleData name="cross_street">OLYMPIC</SimpleData>
 		<SimpleData name="latitude">34.0188</SimpleData>
 		<SimpleData name="longitude">-118.2066</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -1247,7 +962,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">23</SimpleData>
 		<SimpleData name="minute">44</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2066,34.0188</coordinates></Point>
@@ -1261,20 +975,13 @@
 		<SimpleData name="time_occurred">1305</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">466</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 0906 1100</SimpleData>
 		<SimpleData name="victim_age">25</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">103</SimpleData>
 		<SimpleData name="premises_description">Alley</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2500    MICHIGAN                     AV</SimpleData>
 		<SimpleData name="latitude">34.0447</SimpleData>
 		<SimpleData name="longitude">-118.2075</SimpleData>
@@ -1288,7 +995,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">13</SimpleData>
 		<SimpleData name="minute">5</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2075,34.0447</coordinates></Point>
@@ -1302,21 +1008,13 @@
 		<SimpleData name="time_occurred">1955</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">471</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0906 1100 1309 1402</SimpleData>
 		<SimpleData name="victim_age">19</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">502</SimpleData>
 		<SimpleData name="premises_description">Multi-unit dwelling (apartment, duplex, etc)</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">500 S  CLARENCE                     ST</SimpleData>
 		<SimpleData name="latitude">34.0409</SimpleData>
 		<SimpleData name="longitude">-118.2234</SimpleData>
@@ -1330,7 +1028,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">19</SimpleData>
 		<SimpleData name="minute">55</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2234,34.0409</coordinates></Point>
@@ -1344,20 +1041,13 @@
 		<SimpleData name="time_occurred">220</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">468</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0430 1100 1251</SimpleData>
 		<SimpleData name="victim_age">16</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">3200 E  1ST                          ST</SimpleData>
 		<SimpleData name="latitude">34.0388</SimpleData>
 		<SimpleData name="longitude">-118.1988</SimpleData>
@@ -1371,7 +1061,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">2</SimpleData>
 		<SimpleData name="minute">20</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1988,34.0388</coordinates></Point>
@@ -1385,21 +1074,13 @@
 		<SimpleData name="time_occurred">205</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">442</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 0906 1100 1407 1409 1402</SimpleData>
 		<SimpleData name="victim_age">27</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">500    GALLARDO                     ST</SimpleData>
 		<SimpleData name="latitude">34.0535</SimpleData>
 		<SimpleData name="longitude">-118.2238</SimpleData>
@@ -1413,7 +1094,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">2</SimpleData>
 		<SimpleData name="minute">5</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2238,34.0535</coordinates></Point>
@@ -1427,21 +1107,13 @@
 		<SimpleData name="time_occurred">1125</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">456</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0430 0906 1100 1251 1259 1309 1402 1407</SimpleData>
 		<SimpleData name="victim_age">17</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">800 N  FICKETT                      ST</SimpleData>
 		<SimpleData name="latitude">34.0503</SimpleData>
 		<SimpleData name="longitude">-118.203</SimpleData>
@@ -1455,7 +1127,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">11</SimpleData>
 		<SimpleData name="minute">25</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.203,34.0503</coordinates></Point>
@@ -1469,23 +1140,14 @@
 		<SimpleData name="time_occurred">2238</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">499</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 1100 1251 1402</SimpleData>
 		<SimpleData name="victim_age">20</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">ESPERANZA                    ST</SimpleData>
-		<SimpleData name="cross_street">EMERY                        ST</SimpleData>
 		<SimpleData name="latitude">34.014</SimpleData>
 		<SimpleData name="longitude">-118.201</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -1498,7 +1160,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">38</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.201,34.014</coordinates></Point>
@@ -1512,21 +1173,13 @@
 		<SimpleData name="time_occurred">205</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">499</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0312 0430 1100 1402 1407</SimpleData>
 		<SimpleData name="victim_age">22</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1200    LOS PALOS                    ST</SimpleData>
 		<SimpleData name="latitude">34.0189</SimpleData>
 		<SimpleData name="longitude">-118.1954</SimpleData>
@@ -1540,7 +1193,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">2</SimpleData>
 		<SimpleData name="minute">5</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1954,34.0189</coordinates></Point>
@@ -1554,21 +1206,13 @@
 		<SimpleData name="time_occurred">1950</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">464</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 0906 1100 1409 1402</SimpleData>
 		<SimpleData name="victim_age">30</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">200 N  CHICAGO                      ST</SimpleData>
 		<SimpleData name="latitude">34.0462</SimpleData>
 		<SimpleData name="longitude">-118.2114</SimpleData>
@@ -1582,7 +1226,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">19</SimpleData>
 		<SimpleData name="minute">50</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2114,34.0462</coordinates></Point>
@@ -1596,21 +1239,13 @@
 		<SimpleData name="time_occurred">1105</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">453</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0342 0430 0906 1100 1309 1313 1402</SimpleData>
 		<SimpleData name="victim_age">25</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1400    PENNSYLVANIA                 AV</SimpleData>
 		<SimpleData name="latitude">34.0512</SimpleData>
 		<SimpleData name="longitude">-118.221</SimpleData>
@@ -1624,7 +1259,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">11</SimpleData>
 		<SimpleData name="minute">5</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.221,34.0512</coordinates></Point>
@@ -1638,21 +1272,13 @@
 		<SimpleData name="time_occurred">1403</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">453</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0326 0342 0430 0906 1100 1309 1313 1402 1416 1816</SimpleData>
 		<SimpleData name="victim_age">18</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1400 E  CESAR E CHAVEZ               AV</SimpleData>
 		<SimpleData name="latitude">34.0528</SimpleData>
 		<SimpleData name="longitude">-118.2212</SimpleData>
@@ -1666,7 +1292,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">14</SimpleData>
 		<SimpleData name="minute">3</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2212,34.0528</coordinates></Point>
@@ -1680,21 +1305,13 @@
 		<SimpleData name="time_occurred">14</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">455</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 0342 1309 1100 0430 0906</SimpleData>
 		<SimpleData name="victim_age">31</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AO</SimpleData>
 		<SimpleData name="status_code_description">adult_other</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2100    CITY VIEW                    AV</SimpleData>
 		<SimpleData name="latitude">34.0523</SimpleData>
 		<SimpleData name="longitude">-118.2091</SimpleData>
@@ -1708,7 +1325,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">0</SimpleData>
 		<SimpleData name="minute">14</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2091,34.0523</coordinates></Point>
@@ -1722,21 +1338,13 @@
 		<SimpleData name="time_occurred">800</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">443</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402</SimpleData>
 		<SimpleData name="victim_age">-4</SimpleData>
 		<SimpleData name="victim_sex">unknown</SimpleData>
-		<SimpleData name="victim_descent">X</SimpleData>
-		<SimpleData name="premises_code">725</SimpleData>
 		<SimpleData name="premises_description">Government facility (federal,state, county &amp; city)</SimpleData>
-		<SimpleData name="weapon_code">400</SimpleData>
 		<SimpleData name="weapon_description">Strong-arm (hands, fist, feet or bodily force)</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1100 N  MISSION                      RD</SimpleData>
 		<SimpleData name="latitude">34.0606</SimpleData>
 		<SimpleData name="longitude">-118.2144</SimpleData>
@@ -1750,7 +1358,6 @@
 		<SimpleData name="descent_description">other</SimpleData>
 		<SimpleData name="hour">8</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2144,34.0606</coordinates></Point>
@@ -1764,20 +1371,13 @@
 		<SimpleData name="time_occurred">5</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">456</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0334 0913</SimpleData>
 		<SimpleData name="victim_age">48</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">501</SimpleData>
 		<SimpleData name="premises_description">Single family dwelling</SimpleData>
-		<SimpleData name="weapon_code">207</SimpleData>
 		<SimpleData name="weapon_description">Other knife</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2800    FAIRMOUNT                    ST</SimpleData>
 		<SimpleData name="latitude">34.0497</SimpleData>
 		<SimpleData name="longitude">-118.1985</SimpleData>
@@ -1791,7 +1391,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">0</SimpleData>
 		<SimpleData name="minute">5</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1985,34.0497</coordinates></Point>
@@ -1805,23 +1404,14 @@
 		<SimpleData name="time_occurred">1030</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">453</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1259 1414 1219 1411</SimpleData>
 		<SimpleData name="victim_age">17</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">110</SimpleData>
 		<SimpleData name="premises_description">Freeway</SimpleData>
-		<SimpleData name="weapon_code">500</SimpleData>
 		<SimpleData name="weapon_description">Unknown weapon/other weapon</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">CESAR E CHAVEZ</SimpleData>
-		<SimpleData name="cross_street">GOLDEN STATE                 FY</SimpleData>
 		<SimpleData name="latitude">34.0496</SimpleData>
 		<SimpleData name="longitude">-118.2141</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -1834,7 +1424,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">10</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2141,34.0496</coordinates></Point>
@@ -1848,20 +1437,13 @@
 		<SimpleData name="time_occurred">1335</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">449</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0430 1100</SimpleData>
 		<SimpleData name="victim_age">22</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">121</SimpleData>
 		<SimpleData name="premises_description">Yard (residential/business)</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">1100 N  EVERGREEN                    AV</SimpleData>
 		<SimpleData name="latitude">34.052</SimpleData>
 		<SimpleData name="longitude">-118.1958</SimpleData>
@@ -1875,7 +1457,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">13</SimpleData>
 		<SimpleData name="minute">35</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1958,34.052</coordinates></Point>
@@ -1889,21 +1470,13 @@
 		<SimpleData name="time_occurred">2229</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">455</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0342 0430 0906 1100 1309 1402 1407</SimpleData>
 		<SimpleData name="victim_age">36</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">104</SimpleData>
 		<SimpleData name="weapon_description">Shotgun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">700 N  SAINT LOUIS                  ST</SimpleData>
 		<SimpleData name="latitude">34.0518</SimpleData>
 		<SimpleData name="longitude">-118.2094</SimpleData>
@@ -1917,7 +1490,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">29</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2094,34.0518</coordinates></Point>
@@ -1931,21 +1503,13 @@
 		<SimpleData name="time_occurred">145</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">464</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0334 0374 0371 0430 0906 1100 1402 1407 1816</SimpleData>
 		<SimpleData name="victim_age">18</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">200 N  CHICAGO                      ST</SimpleData>
 		<SimpleData name="latitude">34.0462</SimpleData>
 		<SimpleData name="longitude">-118.2114</SimpleData>
@@ -1959,7 +1523,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">1</SimpleData>
 		<SimpleData name="minute">45</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2114,34.0462</coordinates></Point>
@@ -1973,21 +1536,13 @@
 		<SimpleData name="time_occurred">1633</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">478</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 1407 0430 1100 1240 1310 1419</SimpleData>
 		<SimpleData name="victim_age">41</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">600    EUCLID                       AV</SimpleData>
 		<SimpleData name="latitude">34.0338</SimpleData>
 		<SimpleData name="longitude">-118.2054</SimpleData>
@@ -2001,7 +1556,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">16</SimpleData>
 		<SimpleData name="minute">33</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2054,34.0338</coordinates></Point>
@@ -2015,21 +1569,13 @@
 		<SimpleData name="time_occurred">1205</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">455</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 0371 0430 0906 0605 1100 1240 1402 1310 1407</SimpleData>
 		<SimpleData name="victim_age">22</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">800 N  STATE                        ST</SimpleData>
 		<SimpleData name="latitude">34.0535</SimpleData>
 		<SimpleData name="longitude">-118.2129</SimpleData>
@@ -2043,7 +1589,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">12</SimpleData>
 		<SimpleData name="minute">5</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2129,34.0535</coordinates></Point>
@@ -2057,20 +1602,13 @@
 		<SimpleData name="time_occurred">14</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">455</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0342 1309 1100 0430 0906</SimpleData>
 		<SimpleData name="victim_age">36</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AO</SimpleData>
 		<SimpleData name="status_code_description">adult_other</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2100    CITY VIEW                    AV</SimpleData>
 		<SimpleData name="latitude">34.0523</SimpleData>
 		<SimpleData name="longitude">-118.2091</SimpleData>
@@ -2084,7 +1622,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">0</SimpleData>
 		<SimpleData name="minute">14</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2091,34.0523</coordinates></Point>
@@ -2098,23 +1635,14 @@
 		<SimpleData name="time_occurred">100</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">473</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0411 1218 1416 1402</SimpleData>
 		<SimpleData name="victim_age">40</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">110</SimpleData>
 		<SimpleData name="premises_description">Freeway</SimpleData>
-		<SimpleData name="weapon_code">207</SimpleData>
 		<SimpleData name="weapon_description">Other knife</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">GOLDEN STATE                 FY</SimpleData>
-		<SimpleData name="cross_street">4TH                          ST</SimpleData>
 		<SimpleData name="latitude">34.043</SimpleData>
 		<SimpleData name="longitude">-118.2171</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -2127,7 +1655,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">1</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2171,34.043</coordinates></Point>
@@ -2141,21 +1668,13 @@
 		<SimpleData name="time_occurred">2130</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">497</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 1501</SimpleData>
 		<SimpleData name="victim_age">20</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">W</SimpleData>
-		<SimpleData name="premises_code">103</SimpleData>
 		<SimpleData name="premises_description">Alley</SimpleData>
-		<SimpleData name="weapon_code">500</SimpleData>
 		<SimpleData name="weapon_description">Unknown weapon/other weapon</SimpleData>
-		<SimpleData name="status_code">AO</SimpleData>
 		<SimpleData name="status_code_description">adult_other</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">3000 E  OLYMPIC                      BL</SimpleData>
 		<SimpleData name="latitude">34.0218</SimpleData>
 		<SimpleData name="longitude">-118.214</SimpleData>
@@ -2169,7 +1688,6 @@
 		<SimpleData name="descent_description">white</SimpleData>
 		<SimpleData name="hour">21</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.214,34.0218</coordinates></Point>
@@ -2183,21 +1701,13 @@
 		<SimpleData name="time_occurred">2344</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">453</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 1100 0430 1402 1407 0906 1419</SimpleData>
 		<SimpleData name="victim_age">42</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1800 E  1ST                          ST</SimpleData>
 		<SimpleData name="latitude">34.0469</SimpleData>
 		<SimpleData name="longitude">-118.218</SimpleData>
@@ -2211,7 +1721,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">23</SimpleData>
 		<SimpleData name="minute">44</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.218,34.0469</coordinates></Point>
@@ -2225,23 +1734,14 @@
 		<SimpleData name="time_occurred">51</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">497</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1309 1402 1100 1409 1407 1240 0430</SimpleData>
 		<SimpleData name="victim_age">24</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">OLYMPIC                      BL</SimpleData>
-		<SimpleData name="cross_street">DACOTAH</SimpleData>
 		<SimpleData name="latitude">34.0201</SimpleData>
 		<SimpleData name="longitude">-118.2104</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -2254,7 +1754,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">0</SimpleData>
 		<SimpleData name="minute">51</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2104,34.0201</coordinates></Point>
@@ -2268,20 +1767,13 @@
 		<SimpleData name="time_occurred">1600</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">497</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0361 0430 1100</SimpleData>
 		<SimpleData name="victim_age">22</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">501</SimpleData>
 		<SimpleData name="premises_description">Single family dwelling</SimpleData>
-		<SimpleData name="weapon_code">104</SimpleData>
 		<SimpleData name="weapon_description">Shotgun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">3300    HUNTER                       ST</SimpleData>
 		<SimpleData name="latitude">34.021</SimpleData>
 		<SimpleData name="longitude">-118.208</SimpleData>
@@ -2295,7 +1787,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">16</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.208,34.021</coordinates></Point>
@@ -2309,21 +1800,13 @@
 		<SimpleData name="time_occurred">915</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">471</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1414 1402 1409 1218</SimpleData>
 		<SimpleData name="victim_age">41</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">500</SimpleData>
 		<SimpleData name="weapon_description">Unknown weapon/other weapon</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">600 S  CLARENCE                     ST</SimpleData>
 		<SimpleData name="latitude">34.0391</SimpleData>
 		<SimpleData name="longitude">-118.2231</SimpleData>
@@ -2337,7 +1820,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">9</SimpleData>
 		<SimpleData name="minute">15</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2231,34.0391</coordinates></Point>
@@ -2351,21 +1833,13 @@
 		<SimpleData name="time_occurred">1600</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">497</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0554 1402 1100 0430</SimpleData>
 		<SimpleData name="victim_age">29</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">501</SimpleData>
 		<SimpleData name="premises_description">Single family dwelling</SimpleData>
-		<SimpleData name="weapon_code">104</SimpleData>
 		<SimpleData name="weapon_description">Shotgun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">3300    HUNTER                       ST</SimpleData>
 		<SimpleData name="latitude">34.021</SimpleData>
 		<SimpleData name="longitude">-118.208</SimpleData>
@@ -2379,7 +1853,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">16</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.208,34.021</coordinates></Point>
@@ -2393,21 +1866,13 @@
 		<SimpleData name="time_occurred">2340</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">489</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0411 1409 1402 0416</SimpleData>
 		<SimpleData name="victim_age">39</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">502</SimpleData>
 		<SimpleData name="premises_description">Multi-unit dwelling (apartment, duplex, etc)</SimpleData>
-		<SimpleData name="weapon_code">207</SimpleData>
 		<SimpleData name="weapon_description">Other knife</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2900    THE MALL</SimpleData>
 		<SimpleData name="latitude">34.0239</SimpleData>
 		<SimpleData name="longitude">-118.2144</SimpleData>
@@ -2421,7 +1886,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">23</SimpleData>
 		<SimpleData name="minute">40</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2144,34.0239</coordinates></Point>
@@ -2435,23 +1899,14 @@
 		<SimpleData name="time_occurred">115</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">471</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0411 1218 1402</SimpleData>
 		<SimpleData name="victim_age">57</SimpleData>
 		<SimpleData name="victim_sex">female</SimpleData>
-		<SimpleData name="victim_descent">W</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">500</SimpleData>
 		<SimpleData name="weapon_description">Unknown weapon/other weapon</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">RIO                          ST</SimpleData>
-		<SimpleData name="cross_street">7TH                          ST</SimpleData>
 		<SimpleData name="latitude">34.0345</SimpleData>
 		<SimpleData name="longitude">-118.2243</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -2464,7 +1919,6 @@
 		<SimpleData name="descent_description">white</SimpleData>
 		<SimpleData name="hour">1</SimpleData>
 		<SimpleData name="minute">15</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2243,34.0345</coordinates></Point>
@@ -2478,23 +1932,14 @@
 		<SimpleData name="time_occurred">2202</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">461</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1409 1407 1402 0430 0302 1411 1100 0342 0906</SimpleData>
 		<SimpleData name="victim_age">27</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">GLESS                        ST</SimpleData>
-		<SimpleData name="cross_street">4TH                          ST</SimpleData>
 		<SimpleData name="latitude">34.0429</SimpleData>
 		<SimpleData name="longitude">-118.2227</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -2507,7 +1952,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">2</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2227,34.0429</coordinates></Point>
@@ -2521,23 +1965,14 @@
 		<SimpleData name="time_occurred">2149</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">461</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 1100 0430 0906 1407 0302</SimpleData>
 		<SimpleData name="victim_age">20</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1ST                          ST</SimpleData>
-		<SimpleData name="cross_street">GLESS</SimpleData>
 		<SimpleData name="latitude">34.0474</SimpleData>
 		<SimpleData name="longitude">-118.2229</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -2550,7 +1985,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">21</SimpleData>
 		<SimpleData name="minute">49</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2229,34.0474</coordinates></Point>
@@ -2564,21 +1998,13 @@
 		<SimpleData name="time_occurred">1520</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">462</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 1100 0430 1407 1402 0906</SimpleData>
 		<SimpleData name="victim_age">29</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">400 S  BOYLE                        AV</SimpleData>
 		<SimpleData name="latitude">34.0431</SimpleData>
 		<SimpleData name="longitude">-118.2196</SimpleData>
@@ -2592,7 +2018,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">15</SimpleData>
 		<SimpleData name="minute">20</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2196,34.0431</coordinates></Point>
@@ -2606,21 +2031,13 @@
 		<SimpleData name="time_occurred">815</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">441</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 0342 0326 0309 1100 1309 1402 1407</SimpleData>
 		<SimpleData name="victim_age">23</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">500 N  MISSION                      RD</SimpleData>
 		<SimpleData name="latitude">34.0543</SimpleData>
 		<SimpleData name="longitude">-118.2258</SimpleData>
@@ -2634,7 +2051,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">8</SimpleData>
 		<SimpleData name="minute">15</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2258,34.0543</coordinates></Point>
@@ -2648,21 +2064,13 @@
 		<SimpleData name="time_occurred">2231</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">455</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0430 0371 0906 1402 1409 1407</SimpleData>
 		<SimpleData name="victim_age">42</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2000    SHERIDAN                     ST</SimpleData>
 		<SimpleData name="latitude">34.0526</SimpleData>
 		<SimpleData name="longitude">-118.2111</SimpleData>
@@ -2676,7 +2084,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">31</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2111,34.0526</coordinates></Point>
@@ -2690,21 +2097,13 @@
 		<SimpleData name="time_occurred">1540</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">463</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 1407 0430 1100 0906</SimpleData>
 		<SimpleData name="victim_age">18</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">103</SimpleData>
 		<SimpleData name="premises_description">Alley</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2000    PENNSYLVANIA                 AV</SimpleData>
 		<SimpleData name="latitude">34.0464</SimpleData>
 		<SimpleData name="longitude">-118.2144</SimpleData>
@@ -2718,7 +2117,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">15</SimpleData>
 		<SimpleData name="minute">40</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2144,34.0464</coordinates></Point>
@@ -2732,20 +2130,13 @@
 		<SimpleData name="time_occurred">1831</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">489</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0202 0302 0342 0430 1100 1313 1309 0906</SimpleData>
 		<SimpleData name="victim_age">36</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">119</SimpleData>
 		<SimpleData name="premises_description">Porch, residential</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">3100    AINTREE                      LN</SimpleData>
 		<SimpleData name="latitude">34.0234</SimpleData>
 		<SimpleData name="longitude">-118.2101</SimpleData>
@@ -2759,7 +2150,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">18</SimpleData>
 		<SimpleData name="minute">31</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2101,34.0234</coordinates></Point>
@@ -2773,21 +2163,13 @@
 		<SimpleData name="time_occurred">2255</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">443</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1409 1100 1402 0430</SimpleData>
 		<SimpleData name="victim_age">21</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">121</SimpleData>
 		<SimpleData name="premises_description">Yard (residential/business)</SimpleData>
-		<SimpleData name="weapon_code">101</SimpleData>
 		<SimpleData name="weapon_description">Revolver</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1100 N  CHICAGO                      ST</SimpleData>
 		<SimpleData name="latitude">34.056</SimpleData>
 		<SimpleData name="longitude">-118.206</SimpleData>
@@ -2801,7 +2183,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">55</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.206,34.056</coordinates></Point>
@@ -2815,21 +2196,13 @@
 		<SimpleData name="time_occurred">1005</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">469</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1816 1100 0430 1409 1410 1407 0345 0906 1402</SimpleData>
 		<SimpleData name="victim_age">20</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">3500    LANFRANCO                    ST</SimpleData>
 		<SimpleData name="latitude">34.0301</SimpleData>
 		<SimpleData name="longitude">-118.195</SimpleData>
@@ -2843,7 +2216,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">10</SimpleData>
 		<SimpleData name="minute">5</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.195,34.0301</coordinates></Point>
@@ -2857,21 +2229,13 @@
 		<SimpleData name="time_occurred">200</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">466</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0411 1402</SimpleData>
 		<SimpleData name="victim_age">26</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">119</SimpleData>
 		<SimpleData name="premises_description">Porch, residential</SimpleData>
-		<SimpleData name="weapon_code">207</SimpleData>
 		<SimpleData name="weapon_description">Other knife</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2400    MICHIGAN                     AV</SimpleData>
 		<SimpleData name="latitude">34.0453</SimpleData>
 		<SimpleData name="longitude">-118.2088</SimpleData>
@@ -2885,7 +2249,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">2</SimpleData>
 		<SimpleData name="minute">0</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2088,34.0453</coordinates></Point>
@@ -2899,23 +2262,14 @@
 		<SimpleData name="time_occurred">1650</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">471</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1822 1100 1300 0430 1402 0906</SimpleData>
 		<SimpleData name="victim_age">36</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">7TH                          ST</SimpleData>
-		<SimpleData name="cross_street">MISSION                      BL</SimpleData>
 		<SimpleData name="latitude">34.0344</SimpleData>
 		<SimpleData name="longitude">-118.2257</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -2928,7 +2282,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">16</SimpleData>
 		<SimpleData name="minute">50</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2257,34.0344</coordinates></Point>
@@ -2942,21 +2295,13 @@
 		<SimpleData name="time_occurred">10</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">459</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 1100 1820 0430 1419 1407 1416</SimpleData>
 		<SimpleData name="victim_age">37</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">501</SimpleData>
 		<SimpleData name="premises_description">Single family dwelling</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">3200    FOLSOM                       ST</SimpleData>
 		<SimpleData name="latitude">34.0434</SimpleData>
 		<SimpleData name="longitude">-118.1954</SimpleData>
@@ -2970,7 +2315,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">0</SimpleData>
 		<SimpleData name="minute">10</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1954,34.0434</coordinates></Point>
@@ -2984,20 +2328,13 @@
 		<SimpleData name="time_occurred">1030</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">478</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1309 1100 0430 0906</SimpleData>
 		<SimpleData name="victim_age">27</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">3000    ATLANTIC                     ST</SimpleData>
 		<SimpleData name="latitude">34.0276</SimpleData>
 		<SimpleData name="longitude">-118.2093</SimpleData>
@@ -3011,7 +2348,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">10</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2093,34.0276</coordinates></Point>
@@ -3025,23 +2361,14 @@
 		<SimpleData name="time_occurred">1550</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">499</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1409 1402 1300 1309 1316 1317 0330</SimpleData>
 		<SimpleData name="victim_age">19</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">307</SimpleData>
 		<SimpleData name="weapon_description">Vehicle</SimpleData>
-		<SimpleData name="status_code">JA</SimpleData>
 		<SimpleData name="status_code_description">juv_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">PICO</SimpleData>
-		<SimpleData name="cross_street">ESPERANZA</SimpleData>
 		<SimpleData name="latitude">34.018</SimpleData>
 		<SimpleData name="longitude">-118.201</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -3054,7 +2381,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">15</SimpleData>
 		<SimpleData name="minute">50</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.201,34.018</coordinates></Point>
@@ -3068,21 +2394,13 @@
 		<SimpleData name="time_occurred">2357</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">448</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 1310 1240 0430 1402 0906 1409</SimpleData>
 		<SimpleData name="victim_age">31</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">103</SimpleData>
 		<SimpleData name="weapon_description">Rifle</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1500 N  EVERGREEN                    AV</SimpleData>
 		<SimpleData name="latitude">34.0596</SimpleData>
 		<SimpleData name="longitude">-118.1934</SimpleData>
@@ -3096,7 +2414,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">23</SimpleData>
 		<SimpleData name="minute">57</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1934,34.0596</coordinates></Point>
@@ -3110,21 +2427,13 @@
 		<SimpleData name="time_occurred">1725</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">457</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 1407 1100 0430 0906 1416</SimpleData>
 		<SimpleData name="victim_age">25</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">119</SimpleData>
 		<SimpleData name="premises_description">Porch, residential</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">600 N  FICKETT                      ST</SimpleData>
 		<SimpleData name="latitude">34.0486</SimpleData>
 		<SimpleData name="longitude">-118.2041</SimpleData>
@@ -3138,7 +2447,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">17</SimpleData>
 		<SimpleData name="minute">25</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2041,34.0486</coordinates></Point>
@@ -3152,21 +2460,13 @@
 		<SimpleData name="time_occurred">1510</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">489</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0430 1100 0906 0216 1407 1402 0342 0371 0302</SimpleData>
 		<SimpleData name="victim_age">26</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2800    WYNWOOD                      LN</SimpleData>
 		<SimpleData name="latitude">34.026</SimpleData>
 		<SimpleData name="longitude">-118.2162</SimpleData>
@@ -3180,7 +2480,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">15</SimpleData>
 		<SimpleData name="minute">10</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2162,34.026</coordinates></Point>
@@ -3194,21 +2493,13 @@
 		<SimpleData name="time_occurred">2230</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">465</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 1100 0430 1266 0913 1407 1402</SimpleData>
 		<SimpleData name="victim_age">43</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">104</SimpleData>
 		<SimpleData name="premises_description">Driveway</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">500 S  BERNAL                       AV</SimpleData>
 		<SimpleData name="latitude">34.0328</SimpleData>
 		<SimpleData name="longitude">-118.1993</SimpleData>
@@ -3222,7 +2513,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.1993,34.0328</coordinates></Point>
@@ -3236,20 +2526,13 @@
 		<SimpleData name="time_occurred">23</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">497</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0430 0906</SimpleData>
 		<SimpleData name="victim_age">25</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">104</SimpleData>
 		<SimpleData name="weapon_description">Shotgun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2900    GLENN                        AV</SimpleData>
 		<SimpleData name="latitude">34.0235</SimpleData>
 		<SimpleData name="longitude">-118.2152</SimpleData>
@@ -3263,7 +2546,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">0</SimpleData>
 		<SimpleData name="minute">23</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2152,34.0235</coordinates></Point>
@@ -3277,21 +2559,13 @@
 		<SimpleData name="time_occurred">55</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">455</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0302 0430 1419 1402</SimpleData>
 		<SimpleData name="victim_age">20</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">JA</SimpleData>
 		<SimpleData name="status_code_description">juv_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2100 E  CESAR E CHAVEZ               AV</SimpleData>
 		<SimpleData name="latitude">34.0485</SimpleData>
 		<SimpleData name="longitude">-118.2115</SimpleData>
@@ -3305,7 +2579,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">0</SimpleData>
 		<SimpleData name="minute">55</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2115,34.0485</coordinates></Point>
@@ -3319,21 +2592,13 @@
 		<SimpleData name="time_occurred">2340</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">448</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">0302 1100 0430 0906 1816 1805 1407 1402</SimpleData>
 		<SimpleData name="victim_age">25</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">1600 N  SOTO                         ST</SimpleData>
 		<SimpleData name="latitude">34.0623</SimpleData>
 		<SimpleData name="longitude">-118.198</SimpleData>
@@ -3347,7 +2612,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">23</SimpleData>
 		<SimpleData name="minute">40</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.198,34.0623</coordinates></Point>
@@ -3361,20 +2625,13 @@
 		<SimpleData name="time_occurred">536</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">455</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0430 1251 0906</SimpleData>
 		<SimpleData name="victim_age">20</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">104</SimpleData>
 		<SimpleData name="premises_description">Driveway</SimpleData>
-		<SimpleData name="weapon_code">109</SimpleData>
 		<SimpleData name="weapon_description">Semi-automatic pistol</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">2100    SHERIDAN                     ST</SimpleData>
 		<SimpleData name="latitude">34.0516</SimpleData>
 		<SimpleData name="longitude">-118.2095</SimpleData>
@@ -3388,7 +2645,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">5</SimpleData>
 		<SimpleData name="minute">36</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2095,34.0516</coordinates></Point>
@@ -3402,22 +2658,14 @@
 		<SimpleData name="time_occurred">2220</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">467</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0353 0605 0430 0906</SimpleData>
 		<SimpleData name="victim_age">29</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">108</SimpleData>
 		<SimpleData name="premises_description">Parking lot</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AO</SimpleData>
 		<SimpleData name="status_code_description">adult_other</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
 		<SimpleData name="address">SOTO                         ST</SimpleData>
-		<SimpleData name="cross_street">4TH                          ST</SimpleData>
 		<SimpleData name="latitude">34.0406</SimpleData>
 		<SimpleData name="longitude">-118.2117</SimpleData>
 		<SimpleData name="division.1">4</SimpleData>
@@ -3430,7 +2678,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">22</SimpleData>
 		<SimpleData name="minute">20</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2117,34.0406</coordinates></Point>
@@ -3444,21 +2691,13 @@
 		<SimpleData name="time_occurred">2023</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">455</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 0430 0906 1402 1407 1409 1410</SimpleData>
 		<SimpleData name="victim_age">20</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">700    CORNWELL                     ST</SimpleData>
 		<SimpleData name="latitude">34.0523</SimpleData>
 		<SimpleData name="longitude">-118.2068</SimpleData>
@@ -3472,7 +2711,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">20</SimpleData>
 		<SimpleData name="minute">23</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2068,34.0523</coordinates></Point>
@@ -3486,21 +2724,13 @@
 		<SimpleData name="time_occurred">2130</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">477</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">2004 0906 1407 1402 1100 0430 1218</SimpleData>
 		<SimpleData name="victim_age">25</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">109</SimpleData>
 		<SimpleData name="premises_description">Park/playground</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">900 S  MOTT                         ST</SimpleData>
 		<SimpleData name="latitude">34.0332</SimpleData>
 		<SimpleData name="longitude">-118.213</SimpleData>
@@ -3514,7 +2744,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">21</SimpleData>
 		<SimpleData name="minute">30</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.213,34.0332</coordinates></Point>
@@ -3528,21 +2757,13 @@
 		<SimpleData name="time_occurred">425</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">461</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1100 1407 0302 0430 0906</SimpleData>
 		<SimpleData name="victim_age">53</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">102</SimpleData>
 		<SimpleData name="premises_description">Sidewalk</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">100 S  PECAN                        ST</SimpleData>
 		<SimpleData name="latitude">34.0474</SimpleData>
 		<SimpleData name="longitude">-118.2217</SimpleData>
@@ -3556,7 +2777,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">4</SimpleData>
 		<SimpleData name="minute">25</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2217,34.0474</coordinates></Point>
@@ -3570,21 +2790,13 @@
 		<SimpleData name="time_occurred">112</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">489</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1402 1407 1409 1100 0430 0906</SimpleData>
 		<SimpleData name="victim_age">34</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">511</SimpleData>
 		<SimpleData name="premises_description">Project/tenement/public housing</SimpleData>
-		<SimpleData name="weapon_code">106</SimpleData>
 		<SimpleData name="weapon_description">Unknown firearm</SimpleData>
-		<SimpleData name="status_code">IC</SimpleData>
 		<SimpleData name="status_code_description">invest_cont</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2800    THE MALL</SimpleData>
 		<SimpleData name="latitude">34.0248</SimpleData>
 		<SimpleData name="longitude">-118.2158</SimpleData>
@@ -3598,7 +2810,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">1</SimpleData>
 		<SimpleData name="minute">12</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2158,34.0248</coordinates></Point>
@@ -3612,21 +2823,13 @@
 		<SimpleData name="time_occurred">1534</SimpleData>
 		<SimpleData name="division_name">Hollenbeck</SimpleData>
 		<SimpleData name="reporting_district">463</SimpleData>
-		<SimpleData name="part_type">1</SimpleData>
-		<SimpleData name="crime_code">110</SimpleData>
 		<SimpleData name="crime_code_description">Criminal homicide</SimpleData>
 		<SimpleData name="modus_operandi_code">1407 1402 1409 1100 0430 0906</SimpleData>
 		<SimpleData name="victim_age">37</SimpleData>
 		<SimpleData name="victim_sex">male</SimpleData>
-		<SimpleData name="victim_descent">H</SimpleData>
-		<SimpleData name="premises_code">101</SimpleData>
 		<SimpleData name="premises_description">Street</SimpleData>
-		<SimpleData name="weapon_code">102</SimpleData>
 		<SimpleData name="weapon_description">Hand gun</SimpleData>
-		<SimpleData name="status_code">AA</SimpleData>
 		<SimpleData name="status_code_description">adult_arrest</SimpleData>
-		<SimpleData name="crm_cd_1">110</SimpleData>
-		<SimpleData name="crm_cd_2">998</SimpleData>
 		<SimpleData name="address">2000 E  2ND                          ST</SimpleData>
 		<SimpleData name="latitude">34.0446</SimpleData>
 		<SimpleData name="longitude">-118.2155</SimpleData>
@@ -3640,7 +2843,6 @@
 		<SimpleData name="descent_description">hispanic</SimpleData>
 		<SimpleData name="hour">15</SimpleData>
 		<SimpleData name="minute">34</SimpleData>
-		<SimpleData name="part_category">other</SimpleData>
 		<SimpleData name="index_right">9</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-118.2155,34.0446</coordinates></Point>
