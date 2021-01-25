@@ -19,6 +19,9 @@ fuzzywuzzy = "*"
 nb-black = "*"
 pandas = "*"
 jupyter = "*"
+openpyxl = "*"
+earthpy = "*"
+contextily = "*"
 
 [requires]
 python_version = "3.7"
