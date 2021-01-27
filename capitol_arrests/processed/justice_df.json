@@ -1,38 +1,40 @@
 [
   {
-    "case_number":null,
+    "case_number":"1:21-mj-100",
     "fullname":"ABUAL-RAGHEB, Rasha N.",
-    "residency":null,
+    "location_of_arrest":"New Jersey",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Abual-Ragheb - Complaint  Abual-Ragheb - Affidavit",
     "case_status":"Arrested 1\/19\/21 in the District of New Jersey",
-    "entry_last_updated":"1\/19\/21",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1357081\/download",
       "\/opa\/page\/file\/1357076\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-81",
     "fullname":"ADAMS, Daniel Page",
-    "residency":null,
+    "location_of_arrest":"Eastern District of Texas",
     "charge(s)":"Assaulting a federal officer; obstructing law enforcement engaged in official duties incident to civil disorder; knowingly entering or remaining in any restricted building or grounds without lawful authority; violent entry and disorderly conduct on Capitol grounds",
-    "links_to_press_releases__charging_documents":"Adams Connell - Complaint  Adams Connell - Statement of Facts",
+    "links_to_press_releases__charging_documents":"Adams Connell - Complaint  Adams Connell - Statement of Facts  Adams, Connell - Amended Statement of Facts  Adams, Connell - Amended Complaint",
     "case_status":"Arrested 1\/16\/21 in the Eastern District of Texas",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1355881\/download",
-      "\/opa\/page\/file\/1355876\/download"
+      "\/opa\/page\/file\/1355876\/download",
+      "\/opa\/page\/file\/1358936\/download",
+      "\/opa\/page\/file\/1358931\/download"
     ]
   },
   {
     "case_number":"1:21-mj-10",
     "fullname":"ALBERTS, Christopher Michael",
-    "residency":"MD",
+    "location_of_arrest":"Maryland",
     "charge(s)":"Carrying or having readily accessible, on the grounds of the United States Capitol Building, a firearm and ammunition.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Alberts - Complaint  Alberts - Statement of Facts",
     "case_status":"Arrested on 1\/7\/21. Initial appearance \/ detention hearing on 1\/7\/21. Defendant released. Preliminary Hearing set for 1\/28\/21 at 2:00 p.m.",
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351681\/download",
@@ -40,13 +42,25 @@
     ]
   },
   {
+    "case_number":"1:21-mj-3008",
+    "fullname":"AYRES, Stephen Michael",
+    "location_of_arrest":"Northern District of Ohio",
+    "charge(s)":"Willfully and knowingly utter loud, threatening, or abusive language, or engage in disorderly or disruptive conduct, at any place in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in that building of a hearing before, or any deliberations of, a committee of Congress or either House of Congress",
+    "links_to_press_releases__charging_documents":"Ayres - Affidavit",
+    "case_status":"Arrested 1\/25\/21 in the Northern District of Ohio",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360721\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-24",
     "fullname":"BARANYI, Thomas",
-    "residency":null,
+    "location_of_arrest":"New Jersey",
     "charge(s)":"Restricted building or grounds; violent entry or disorderly conduct",
     "links_to_press_releases__charging_documents":"Baranyi - Affidavit  Baranyi - Complaint",
     "case_status":"Arrested on 1\/12\/21. Initial appearance in the District of New Jersey on 1\/12\/21",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355731\/download",
       "\/opa\/page\/file\/1356466\/download"
@@ -55,11 +69,11 @@
   {
     "case_number":"1:21-mj-13",
     "fullname":"BARNETT, Richard",
-    "residency":"AR",
+    "location_of_arrest":"Western Distict of Arkansas",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful entry; violent entry and disorderly conduct on Capitol grounds; and theft of public money, property, or records. Barnett allegedly entered a restricted are of the Speaker of the House Nancy Pelosi.",
     "links_to_press_releases__charging_documents":"Man Arrested for Illegally Entering Office of Speaker of the House  Thirteen Charged in Federal Court Following Riot at the United States Capitol  Barnett - Statement of Facts  Barnett - Amended Complaint  Barnett - Amended Statement of Facts",
     "case_status":"Initial Appearance 1\/12\/21 at 3pm CST (virtual \u2013 WDAR District Court)",
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/man-arrested-illegally-entering-office-speaker-house",
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
@@ -71,11 +85,11 @@
   {
     "case_number":"1:21-mj-59",
     "fullname":"BAUER, Robert L.",
-    "residency":null,
+    "location_of_arrest":"Western District of Kentucky",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Bauer and Hemenway - Complaint  Bauer and Hemenway - Statement of Facts",
     "case_status":"Arrested on 1\/15\/21 in the Western District of Kentucky.",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355726\/download",
       "\/opa\/page\/file\/1355721\/download"
@@ -84,24 +98,36 @@
   {
     "case_number":"1:21-mj-60",
     "fullname":"BECKLEY, Damon Michael",
-    "residency":null,
+    "location_of_arrest":"Western District of Kentucky",
     "charge(s)":"Unlawful entry of a restricted building; disorderly conduct on Capitol grounds",
-    "links_to_press_releases__charging_documents":"Beckley - Affidavit in Support  Beckley - Complaint",
+    "links_to_press_releases__charging_documents":"Beckley - Complaint  Beckley - Affidavit",
     "case_status":"Arested 1\/16\/21 in the Western District of Kentucky",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
-      "\/opa\/file\/1355861\/download",
-      "\/opa\/file\/1355856\/download"
+      "\/opa\/page\/file\/1355856\/download",
+      "\/opa\/page\/file\/1355861\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-141",
+    "fullname":"BENNETT, Andrew",
+    "location_of_arrest":"District of Columbia",
+    "charge(s)":"Knowingly Entering or Remaining in a physical violence against any person or property in any restricted building or grounds without lawful authority; Disorderly conduct on Capitol grounds",
+    "links_to_press_releases__charging_documents":"Bennett, Andrew - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/26\/2021 in the District of Columbia",
+    "entry_last_updated":"1\/27\/2021",
+    "links":[
+      "\/file\/1360786\/download"
     ]
   },
   {
     "case_number":"1:21-mj-72",
     "fullname":"BETANCUR, Bryan",
-    "residency":null,
+    "location_of_arrest":"Maryland",
     "charge(s)":"Restricted buildings or grounds; unlawful activities on Capitol grounds; disorderly conduct; unlawful activities on Capitol grounds, parades, assemblages and display of flags",
     "links_to_press_releases__charging_documents":"Betancur - Affidavit  Betancur - Complaint",
     "case_status":"Arrested 1\/17\/21 in the District of Maryland.",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355921\/download",
       "\/opa\/page\/file\/1355926\/download"
@@ -110,36 +136,36 @@
   {
     "case_number":null,
     "fullname":"BIGGS, Joseph Randall",
-    "residency":null,
+    "location_of_arrest":"Middle District of Florida",
     "charge(s)":"(i) corruptly did obstruct, influence, or impede an official proceeding before\u00a0Congress, (ii) did knowingly enter or remain in a restricted building or grounds, i.e., the U.S.\u00a0Capitol, without lawful authority, or did knowingly, and with intent to impede or disrupt the  orderly conduct of Government business or official functions, engage in disorderly or disruptive\u00a0conduct; (iii) did willfully and knowingly engage in disorderly or disruptive conduct, at any place\u00a0in the Grounds or in any of the Capitol Buildings with the intent to impede, disrupt, or disturb the\u00a0orderly conduct of a session of Congress or either House of Congress, or the orderly conduct in\u00a0that building of any deliberations of either House of Congress.",
     "links_to_press_releases__charging_documents":"Biggs - Affidavit",
     "case_status":"Arrested 1\/20\/21 in the Middle District of Florida. Initial appearance 1\/20\/21 in the Middle District of Florida",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357251\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-104",
     "fullname":"BINGERT, Craig Michael",
-    "residency":null,
+    "location_of_arrest":"Eastern District of Pennsylvania",
     "charge(s)":"Certain Acts During Civil Disorder",
     "links_to_press_releases__charging_documents":"Bingert - Complaint  Bingert - Statement of Facts",
     "case_status":"Arrested 1\/18\/21 in the Eastern District of Pennsylvania",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356996\/download",
       "\/opa\/page\/file\/1356991\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-90",
     "fullname":"BISIGNANO, Gina Michelle",
-    "residency":null,
+    "location_of_arrest":"Central District of California",
     "charge(s)":"Civil Disorder; Destruction of Government Property; Aiding and Abetting; Obstruction of an Official Proceeding; Restricted Building or Grounds; Violent Entry or Disorderly Conduct",
     "links_to_press_releases__charging_documents":"Bisignano - Statement of Facts  Bisignano - Complaint",
     "case_status":"Arrested 1\/19\/21 in the Central District of California  Ordered detained.",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356556\/download",
       "\/opa\/page\/file\/1356561\/download"
@@ -148,11 +174,11 @@
   {
     "case_number":"1:21-mj-49",
     "fullname":"BLACK, Joshua Matthew",
-    "residency":"AL",
+    "location_of_arrest":"Northern District of Alabama",
     "charge(s)":"Restricted building or grounds; violent entry and disorderly conduct",
     "links_to_press_releases__charging_documents":"Black - Complaint  Black - Affidavit in Support",
     "case_status":"Arrested in Northern Alabama on 1\/14\/2021.  Detention, preliminary, and identity hearings set for 1\/20\/21 at 2:30pm.",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1354811\/download",
       "\/opa\/page\/file\/1354806\/download"
@@ -161,11 +187,11 @@
   {
     "case_number":"1:21-mj-48",
     "fullname":"BLEDSOE, Matthew",
-    "residency":null,
+    "location_of_arrest":"Tennessee",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Bledsoe - Complaint  Bledsoe - Statement of Facts",
     "case_status":"Arrested in TN on 1\/15\/21. Video initial appearance\u00a0in federal court in Memphis 1\/15\/21 at 11:00am CST",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355121\/download",
       "\/opa\/page\/file\/1355126\/download"
@@ -174,11 +200,11 @@
   {
     "case_number":null,
     "fullname":"BROCK, Larry Rendall",
-    "residency":"TX",
+    "location_of_arrest":"Northern District of Texas",
     "charge(s)":"One count of knowingly entering or remaining in any restricted building or grounds without lawful authority and one count of violent entry and disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Two Men Charged in Connection with Events at U.S. Capitol  Brock - Complaint  Brock - Affidavit",
     "case_status":"Initial appearance 1\/12\/21. (NDTX District Court)",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/two-men-charged-connection-events-us-capitol",
       "\/usao-dc\/press-release\/file\/1352016\/download",
@@ -188,11 +214,11 @@
   {
     "case_number":"1:21-mj-12",
     "fullname":"BROWN, Terry",
-    "residency":"PA",
+    "location_of_arrest":"Pennsylvania",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Fitchett et al - Complaint  Fitchett et al - Statement of Facts",
     "case_status":"Arrested on 1\/11\/21. Released on conditions.  The preliminary hearing is scheduled for Tuesday January 19, 2021 at 10:00 a.m.",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351716\/download",
@@ -200,13 +226,13 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-119",
     "fullname":"CALDWELL, Thomas Edward",
-    "residency":null,
-    "charge(s)":"Conspiracy to commit an Offence; Obstruction of an Official Proceeding; Knowingly Entering or Remaining in any Restricted Building or Groudns Without Lawful Authority; Violent Entry or Disorderly Conduct",
+    "location_of_arrest":"Western District of Virginia",
+    "charge(s)":"Conspiracy to commit an Offence; Obstruction of an Official Proceeding; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry or Disorderly Conduct",
     "links_to_press_releases__charging_documents":"Caldwell - Complaint  Caldwell - Complaint Affidavit",
     "case_status":"Arrested 1\/19\/21 in the Western District of Virginia",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356331\/download",
       "\/opa\/page\/file\/1356326\/download"
@@ -215,37 +241,49 @@
   {
     "case_number":null,
     "fullname":"CALHOUN Jr., William Mccall",
-    "residency":null,
+    "location_of_arrest":"Middle District of Georgia",
     "charge(s)":"Restricted Building or Grounds; Violent Entry or Disorderly Conduct; Tampering With a Witness, Victim, or an Informant",
     "links_to_press_releases__charging_documents":"Calhoun - Complaint  Calhoun - Affidavit",
-    "case_status":"Arrested 1\/15\/21 in the Middle District of Georgia  Detention hearing on 1\/21\/21 at 10:30am in the Middle District of Georgia",
-    "entry_last_updated":"1\/19\/2021",
+    "case_status":"Arrested 1\/15\/21 in the Middle District of Georgia  Detention hearing on 1\/21\/21 at 10:30am in the Middle District of Georgia.\u00a0Ordered detained.",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356041\/download",
       "\/opa\/page\/file\/1356036\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-68",
     "fullname":"CAMARGO, Samuel",
-    "residency":null,
+    "location_of_arrest":"Eastern District of Virginia",
     "charge(s)":"Civil Disorder; Knowingly Entering or Remaining in any Restricted Building or Grounds without Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Camargo - Complaint  Camargo - Statement of Facts",
-    "case_status":"Arrested 1\/20\/21 in teh Eastern District of Virginia",
-    "entry_last_updated":"1\/20\/2021",
+    "case_status":"Arrested 1\/20\/21 in the Eastern District of Virginia",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357286\/download",
       "\/opa\/page\/file\/1357291\/download"
     ]
   },
   {
+    "case_number":null,
+    "fullname":"CAPSEL, Matthew",
+    "location_of_arrest":"Southern District of Illinois",
+    "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; and knowingly engages in any physical violence against any person or property in any restricted building or grounds; or attempts or conspires to do so; Forcibly assaulted, resisted, opposed, impeded, intimidated, or interfered with any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformed services) while engaged in or on account of the performance of official duties; Committed or attempted to commit any act to obstruct, impede, or interfere with law enforcement officer lawfully engaged in the lawful performance of his official duties incident to and during the commission of a civil disorder which in any way or degree obstructs, delays, or adversely affects commerce or the movement of any article or commodity in commerce or the conduct or performance of any federally protected function.",
+    "links_to_press_releases__charging_documents":"Capsel - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/26\/21 in the Southern District of Illinois",
+    "entry_last_updated":"1\/27\/2021",
+    "links":[
+      "\/file\/1360776\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-18",
     "fullname":"CHANSLEY, Jacob Anthony",
-    "residency":"AZ",
+    "location_of_arrest":"Arizona",
     "charge(s)":"charged with knowingly entering or remaining in any restricted building or grounds without lawful authority, and with violent entry and disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Three Men Charged in Connection with Events at U.S. Capitol  Chansley - Statement of Facts  Chansley - Indictment",
     "case_status":"Complaint filed 1\/8\/21. Indicted 1\/11\/21.",
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/three-men-charged-connection-events-us-capitol",
       "\/usao-dc\/press-release\/file\/1351941\/download",
@@ -255,11 +293,11 @@
   {
     "case_number":"1:21-mj-38",
     "fullname":"CIARPELLI, Albert A.",
-    "residency":"NY",
+    "location_of_arrest":"New York",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Ciarpelli - Complaint  Ciarpelli - Statement of Facts",
     "case_status":null,
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1353441\/download",
       "\/opa\/page\/file\/1353446\/download"
@@ -268,11 +306,11 @@
   {
     "case_number":"1:21-cr-4",
     "fullname":"COFFMAN, Lonnie",
-    "residency":"AL",
+    "location_of_arrest":"Alabama",
     "charge(s)":"Possession of an unregistered firearm (destructive device) and carrying a pistol without a license.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Coffman - Affidavit in Support  Coffman - Criminal Complaint  Coffman - Indictment",
     "case_status":"Arrested on 1\/7\/21. Initial appearance on 1\/7\/21. Detained. Detention\/Preliminary Hearing set for 1\/12\/21. 3:00 p.m. Indicted on 1\/11\/21.",
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351661\/download",
@@ -283,11 +321,11 @@
   {
     "case_number":"1:21-mj-21",
     "fullname":"COLT, Josiah",
-    "residency":"ID",
+    "location_of_arrest":"Idaho",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority and violent entry and disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Seven Charged in Federal Court Following Events At the United Capitol  Colt - Complaint  Colt - Statement of Facts",
     "case_status":"Arrested in ID",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/seven-charged-federal-court-following-events-united-capitol",
       "\/opa\/page\/file\/1355476\/download",
@@ -295,26 +333,41 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-81",
     "fullname":"CONNELL, Cody Page Carter",
-    "residency":null,
+    "location_of_arrest":"Western District of Louisiana",
     "charge(s)":"Assaulting a federal officer; obstructing law enforcement engaged in official duties incident to civil disorder; knowingly entering or remaining in any restricted building or grounds without lawful authority; violent entry and disorderly conduct on Capitol grounds",
-    "links_to_press_releases__charging_documents":"Adams Connell - Complaint  Adams Connell - Statement of Facts",
+    "links_to_press_releases__charging_documents":"Adams Connell - Complaint  Adams Connell - Statement of Facts  Adams, Connell - Amended Statement of Facts  Adams, Connell - Amended Complaint",
     "case_status":"Arrested 1\/16\/21 in the Western District of Louisiana",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1355881\/download",
-      "\/opa\/page\/file\/1355876\/download"
+      "\/opa\/page\/file\/1355876\/download",
+      "\/opa\/page\/file\/1358936\/download",
+      "\/opa\/page\/file\/1358931\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-143",
+    "fullname":"COOKE, Nolan B.",
+    "location_of_arrest":"Eastern District of Texas",
+    "charge(s)":"Acts during civil disorder; entering\/remaining on restricted buildings or grounds & disorderly\/disruptive conduct in or near restricted building or grounds; unlawful activities on Capitol grounds",
+    "links_to_press_releases__charging_documents":"Cooke - Complaint  Cooke - Affidavit",
+    "case_status":"Arrested 1\/21\/2021 in the Eastern District of Texas",
+    "entry_last_updated":"1\/22\/2021",
+    "links":[
+      "\/opa\/page\/file\/1358231\/download",
+      "\/opa\/page\/file\/1358226\/download"
     ]
   },
   {
     "case_number":"1:21-mj-8",
     "fullname":"COUNCIL, Matthew",
-    "residency":"FL",
+    "location_of_arrest":"Middle District of Florida",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority and violent entry and disorderly conduct on Capitol grounds. Council allegedly unlawfully entered the Capitol building, and when stopped by law enforcement, he pushed the officer.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Council - Criminal Complaint  Council - Statement of Facts",
-    "case_status":"Arrested 1\/14\/21 in the Middle District of Florida. Initial Appearance 1\/14\/21 in teh Middle District of Florida.",
-    "entry_last_updated":"1\/19\/2021",
+    "case_status":"Arrested 1\/14\/21 in the Middle District of Florida. Initial Appearance 1\/14\/21 in the Middle District of Florida.",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351706\/download",
@@ -322,13 +375,25 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-82",
+    "fullname":"COURTRIGHT, Gracyn Dawn",
+    "location_of_arrest":"Southern District of West Virginia",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds; Theft of Government Property (under $1,000)",
+    "links_to_press_releases__charging_documents":"Courtright - Complaint & Affidavit",
+    "case_status":"Arrested 1\/19\/2021 in Southern District of West Virginia",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360196\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-119",
     "fullname":"CROWL, Donovan Ray",
-    "residency":null,
+    "location_of_arrest":"Southern District of Ohio",
     "charge(s)":"Restricted building or grounds; violent entry or disorderly conduct; obstruction of an official proceeding",
     "links_to_press_releases__charging_documents":"Crowl - Complaint  Crowl - Affidavit",
     "case_status":"Arrested 1\/18\/21 in the Southern District of Ohio",
-    "entry_last_updated":"1\/18\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356121\/download",
       "\/opa\/page\/file\/1356106\/download"
@@ -337,11 +402,11 @@
   {
     "case_number":"1:21-mj-35",
     "fullname":"CUDD, Jenny Louise",
-    "residency":"TX",
+    "location_of_arrest":"Texas",
     "charge(s)":"Restricted Building or Grounds; Violent Entry or Disorderly Conduct",
     "links_to_press_releases__charging_documents":"Cudd Rosa - Complaint  Cudd Rosa - Statement of Facts",
     "case_status":"Released on personal recognizance bond.",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1353431\/download",
       "\/opa\/page\/file\/1353436\/download"
@@ -350,11 +415,11 @@
   {
     "case_number":"1:21-mj-12",
     "fullname":"CURZIO, Michael",
-    "residency":"FL",
+    "location_of_arrest":"Middle District of Florida",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Fitchett et al - Complaint  Fitchett et al - Statement of Facts",
     "case_status":"Initial appearance in the Middle District of Florida on 1\/14\/2021",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351716\/download",
@@ -364,11 +429,11 @@
   {
     "case_number":null,
     "fullname":"DAUGHTRY, Michael Shane",
-    "residency":null,
+    "location_of_arrest":"Middle District of Georgia",
     "charge(s)":"Restricted Building or Grounds",
     "links_to_press_releases__charging_documents":"Daughtry - Complaint  Daughtry - Affidavit",
     "case_status":"Arrested 1\/15\/21 in the Middle District of Georgia",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356031\/download",
       "\/opa\/page\/file\/1356026\/download"
@@ -376,12 +441,24 @@
   },
   {
     "case_number":null,
+    "fullname":"DECARLO, Nicholas",
+    "location_of_arrest":"Northern District of Texas",
+    "charge(s)":"Obstructing or Impeding any Official Proceeding; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Parading or Demonstrating on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"DeCarlo - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/26\/21 in the Northern District of Texas",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360496\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-69",
     "fullname":"DRESCH, Karl",
-    "residency":null,
+    "location_of_arrest":"Western District of Michigan",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority and Impeding or Disrupting Official Functions; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstructing an Official Proceeding",
     "links_to_press_releases__charging_documents":"Dresch - Complaint  Dresch - Statement of Facts",
     "case_status":"Arrested 1\/20\/21 in the Western District of Michigan",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1357306\/download",
       "\/opa\/page\/file\/1357311\/download"
@@ -390,11 +467,11 @@
   {
     "case_number":"1:21-mj-27",
     "fullname":"EHMKE, Hunter Allen",
-    "residency":null,
+    "location_of_arrest":"Central District of California",
     "charge(s)":"One count of damaging or destroying government property; one count of obstruction of an official proceeding; and one count of violent entry and disorderly conduct on capitol grounds.",
     "links_to_press_releases__charging_documents":"California Man Arrested and Charged on Federal Charges Following Events at The United States Capitol  Ehmke - Complaint  Ehmke - Statement of Facts",
     "case_status":"Arrested 1\/13\/21 in California. Initial Appearance in federal court in the Central District of California 1\/14\/21 at 1pm PST. Defendant was released on bond with home detention and electronic home monitoring. Initial appearance in federal court in the District of Columbia scheduled for 1\/21\/21 at 1pm EST.",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/california-man-arrested-and-charged-federal-charges-following-events-united-states",
       "\/opa\/page\/file\/1353886\/download",
@@ -402,13 +479,13 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-83",
     "fullname":"EHRKE, Valerie Elaine",
-    "residency":null,
+    "location_of_arrest":"Eastern District of California",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly, With Intent to Impede Government Business or Official Functions, Engaging in Disorderly Conduct on Capitol Grounds; Engaging in Disorderly or Disruptive Conduct on Capitol Grounds; Parading, Demonstrating, or Picketing in the Capitol Buildings",
     "links_to_press_releases__charging_documents":"Ehrke - Complaint  Ehrke - Statement of Facts",
     "case_status":"Arrested 1\/19\/21 in the Eastern District of California",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356641\/download",
       "\/opa\/page\/file\/1356646\/download"
@@ -417,24 +494,36 @@
   {
     "case_number":"1:21-mj-71",
     "fullname":"EISENHART, Lisa",
-    "residency":null,
+    "location_of_arrest":"Tennessee",
     "charge(s)":"Conspiracy civil disorders; restricted buildings or grounds; violent entry or disorderly conduct",
     "links_to_press_releases__charging_documents":"Munchel Eisenhart - Complaint  Munchel Eisenhart - Affidavit in Support",
-    "case_status":"Arrested 1\/16\/21 in Tennessee.  Initial appearance 1\/19\/21 in the Middle District of Tennessee.  Detention hearing set for July 25, 2021 at 1pm.",
-    "entry_last_updated":"1\/19\/2021",
+    "case_status":"Arrested 1\/16\/21 in Tennessee.  Initial appearance 1\/19\/21 in the Middle District of Tennessee.  Detention hearing set for January 25, 2021 at 1pm.  Ordered detained and transported to DC.",
+    "entry_last_updated":"1\/26\/2021",
     "links":[
       "\/file\/1355806\/download",
       "\/file\/1355811\/download"
     ]
   },
   {
+    "case_number":null,
+    "fullname":"ERICSON, Andrew C.",
+    "location_of_arrest":"Eastern District of Oklahoma",
+    "charge(s)":"Unlawful Entry on Restricted Buildings or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Ericson - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/22\/21 in the\u00a0Eastern District of Oklahoma",
+    "entry_last_updated":"1\/23\/2021",
+    "links":[
+      "\/opa\/page\/file\/1359591\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-16",
     "fullname":"EVANS, Derrick",
-    "residency":"WV",
-    "charge(s)":"One count of knowingly entering or remaining in any restricted building or grounds without lawful authority; and one count of violent entry and disorderly conduct on Capitol Grounds. Evans was taken into custody Friday",
+    "location_of_arrest":"West Virginia",
+    "charge(s)":"One count of knowingly entering or remaining in any restricted building or grounds without lawful authority; and one count of violent entry and disorderly conduct on Capitol Grounds.",
     "links_to_press_releases__charging_documents":"Three Men Charged in Connection with Events at U.S. Capitol  Evans Complaint Affidavit  Evans - Complaint",
     "case_status":null,
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/three-men-charged-connection-events-us-capitol",
       "\/usao-dc\/press-release\/file\/1351946\/download",
@@ -443,25 +532,50 @@
   },
   {
     "case_number":null,
+    "fullname":"FAIRLAMB, Scott Kevin",
+    "location_of_arrest":"District of New Jersey",
+    "charge(s)":"Certain Acts During Civil Disorder; Assaulting a Federal Officer; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Carrying a Dangerous Weapon; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Fairlamb, Scott - Complaint & Affidavit",
+    "case_status":"Arrested 1\/22\/21 in the District of New Jersey",
+    "entry_last_updated":"1\/22\/2021",
+    "links":[
+      "\/opa\/page\/file\/1359221\/download"
+    ]
+  },
+  {
+    "case_number":null,
     "fullname":"FELLOWS, Brandon",
-    "residency":null,
+    "location_of_arrest":"Northern District of New York",
     "charge(s)":"Restricted Building or Grounds;\u00a0Violent Entry or Disorderly Conduct",
     "links_to_press_releases__charging_documents":"Fellows - Complaint  Fellows - Complaint Affidavit",
     "case_status":"Arrested 1\/17\/21. Hearing set for 1\/19\/21 at 1:30pm in the Northern District of New York.",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355901\/download",
       "\/opa\/page\/file\/1355906\/download"
     ]
   },
   {
+    "case_number":"1:21-mj-146",
+    "fullname":"FISHER, Samuel J. (aka Brad Holiday)",
+    "location_of_arrest":"Eastern District of New York",
+    "charge(s)":"Unlawful Entry on Restricted Grounds; Disorderly Conduct on Restricted Grounds",
+    "links_to_press_releases__charging_documents":"Fisher - Affidavit  Fisher - Complaint",
+    "case_status":"Arrested 1\/20\/21 in the Eastern District of New York",
+    "entry_last_updated":"1\/22\/2021",
+    "links":[
+      "\/opa\/page\/file\/1357481\/download",
+      "\/opa\/page\/file\/1358941\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-12",
     "fullname":"FITCHETT, Cindy",
-    "residency":"VA",
+    "location_of_arrest":"Virginia",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Fitchett et al - Complaint  Fitchett et al - Statement of Facts",
     "case_status":null,
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351716\/download",
@@ -469,9 +583,22 @@
     ]
   },
   {
+    "case_number":"1:21-mj-136",
+    "fullname":"FOY, Michael Joseph",
+    "location_of_arrest":"Eastern District of Michigan",
+    "charge(s)":"Knowingly enter or remain in any restricted building or grounds without lawful authority; obstruction of law enforcement; forcibly assault, resist, oppose, impede, intimidate, or interfere with any officer of the United States; aiding and abetting; obstruct, influence, or impede any official proceeding of Congress",
+    "links_to_press_releases__charging_documents":"Foy - Complaint  Foy - Statement of Facts",
+    "case_status":"Arrested 1\/21\/21 in the Eastern District of Michigan",
+    "entry_last_updated":"1\/21\/2021",
+    "links":[
+      "\/opa\/page\/file\/1357471\/download",
+      "\/opa\/page\/file\/1357476\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-36",
     "fullname":"FRACKER, Jacob",
-    "residency":null,
+    "location_of_arrest":null,
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Two Off-Duty Virginia Police Officers Charged in Federal Court Following Events at the U.S. Capitol  Robertson and Fracker Complaint  Robertson and Fracker Statement of Facts",
     "case_status":null,
@@ -485,11 +612,11 @@
   {
     "case_number":"1:21-mj-12",
     "fullname":"GALLAGHER, Thomas",
-    "residency":"NH",
+    "location_of_arrest":"New Hampshire",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Fitchett et al - Complaint  Fitchett et al - Statement of Facts",
     "case_status":null,
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351716\/download",
@@ -497,13 +624,13 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-95",
     "fullname":"GARCIA, Gabriel Augustin",
-    "residency":null,
+    "location_of_arrest":"Southern District of Florida",
     "charge(s)":"Certain Acts During Civil Disorder, Aiding and Abetting; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Garcia - Complaint  Garcia - Statement of Facts",
     "case_status":"Arrested 1\/19\/21 in the Southern District of Florida",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356771\/download",
       "\/opa\/page\/file\/1356776\/download"
@@ -512,24 +639,24 @@
   {
     "case_number":"1:21-mj-14",
     "fullname":"GIONET, Anthime Joseph",
-    "residency":null,
+    "location_of_arrest":"Houston, Texas",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Gionet - Statement of Facts  Gionet - Complaint",
     "case_status":"Arrested 1\/15\/21 in Houston, Texas.",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355771\/download",
       "\/file\/1355776\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-70",
     "fullname":"GOLD, Simone Melissa",
-    "residency":null,
+    "location_of_arrest":"Central District of California",
     "charge(s)":"Restricted Building or Grounds; Violent Entry and Disorderly Conduct",
     "links_to_press_releases__charging_documents":"Strand Gold - Affidavit  Strand Gold - Complaint",
     "case_status":"Arrested 1\/18\/21 in the Central District of California  Released on conditions. Virtual hearing in federal court in the District of Columbia on 1\/21\/21 at 1:00pm.",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356546\/download",
       "\/opa\/page\/file\/1356551\/download"
@@ -538,37 +665,64 @@
   {
     "case_number":"1:21-mj-56",
     "fullname":"GORDON, Vaughn",
-    "residency":"LA",
+    "location_of_arrest":"Western District of Louisiana",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority;\u00a0Parading, Demonstrating, or Picketing in the Capitol Buildings",
     "links_to_press_releases__charging_documents":"Gordon - Complaint  Gordon - Statement of Facts",
     "case_status":"Arrested 1\/14\/21 in Louisiana. Initial appearance (virtual) in federal court in the Western District of Louisiana 1\/15\/21.  Released on conditions.",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1354986\/download",
       "\/opa\/page\/file\/1354991\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-115",
     "fullname":"GOSSJANKOWSKI, Vitali",
-    "residency":null,
+    "location_of_arrest":"Washington, DC",
     "charge(s)":"Knowingly enter or remain in any restricted building or grounds without lawful authority to do so; knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engage in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions; and did so while using or carrying a dangerous weapon.",
-    "links_to_press_releases__charging_documents":"GossJankowski - Statement of Facts",
+    "links_to_press_releases__charging_documents":"GossJankowski - Statement of Facts  Gossjankowski - complaint",
     "case_status":"Arrested 1\/18\/21 in Washington, DC",
-    "entry_last_updated":"1\/18\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
-      "\/opa\/page\/file\/1356136\/download"
+      "\/opa\/page\/file\/1356136\/download",
+      "\/opa\/page\/file\/1357716\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-163",
+    "fullname":"GRAYSON, Kenneth",
+    "location_of_arrest":"Western District of Pennsylvania",
+    "charge(s)":"Knowingly entering or remaining in any restricted building or grounds; Disorderly conduct which impedes the conduct of government business; Disruptive Conduct in the Capitol Buildings; Parading, Demonstrating, or Picketing in the Capitol Buildings; Obstructing or Impeding Any Official Proceeding",
+    "links_to_press_releases__charging_documents":"Grayson, Kenneth - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/26\/21 in the Western District of Pennsylvania",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360506\/download"
+    ]
+  },
+  {
+    "case_number":null,
+    "fullname":"GRIDER, Christoper Ray",
+    "location_of_arrest":"Austin, Texas",
+    "charge(s)":"Government Property or Contracts; Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Grider - Complaint  Grider - Affidavit",
+    "case_status":"Arrested 1\/21\/2021 in Austin, Texas  Currently detained pending Detention Hearing on 1\/27\/21 at 1:30pm in the Western District of Texas.",
+    "entry_last_updated":"1\/22\/2021",
+    "links":[
+      "\/file\/1358251\/download",
+      "\/opa\/page\/file\/1358246\/download"
     ]
   },
   {
     "case_number":"1:21-mj-92",
     "fullname":"GRIFFIN, Couy",
-    "residency":null,
+    "location_of_arrest":"Washington, DC",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority",
-    "links_to_press_releases__charging_documents":"Griffin - Complaint  Griffin - Affidavit",
+    "links_to_press_releases__charging_documents":"New Mexico County Commissioner Charged for Breaching U.S. Capitol  Griffin - Complaint  Griffin - Affidavit",
     "case_status":"Arrested 1\/17\/21 in Washington, DC",
-    "entry_last_updated":"1\/19\/21",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
+      "\/usao-dc\/pr\/connecticut-man-charged-assaulting-officer-during-us-capitol-breach",
       "\/opa\/page\/file\/1355986\/download",
       "\/opa\/page\/file\/1355981\/download"
     ]
@@ -576,11 +730,11 @@
   {
     "case_number":"1:21-mj-79",
     "fullname":"GRIFFITH, Jack Jesse (aka Juan Bibiano)",
-    "residency":null,
+    "location_of_arrest":"Nashville, Tennessee",
     "charge(s)":"Knowingly enter or remain in any restricted building or grounds without lawful authority to do; knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engage in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions; or attempts or conspires to do so.",
     "links_to_press_releases__charging_documents":"Griffith - Statement of Facts  Griffith - Complaint",
     "case_status":"Arrested 1\/16\/21 in Nashville, TN.  Initial appearance on 1\/19\/2021  Released with conditions.",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/file\/1355781\/download",
       "\/opa\/page\/file\/1356476\/download"
@@ -589,11 +743,11 @@
   {
     "case_number":"1:21-mj-75",
     "fullname":"HALE-CUSANELLI, Timothy Louis",
-    "residency":null,
-    "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; disrupting the orderly conduct of government business; violent entry and disorderly conduct in a Capitol building; parading, demostrating, or picketing in a Capitol building; obstructing a law enforcement officer during a civil disorder",
+    "location_of_arrest":"New Jersey",
+    "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; disrupting the orderly conduct of government business; violent entry and disorderly conduct in a Capitol building; parading, demonstrating, or picketing in a Capitol building; obstructing a law enforcement officer during a civil disorder",
     "links_to_press_releases__charging_documents":"Hale-Cusanelli - Complaint  Hale-Cusanelli - Statement of Facts",
     "case_status":"Arrested 1\/17\/21 in the District of New Jersey",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356061\/download",
       "\/opa\/page\/file\/1356066\/download"
@@ -602,76 +756,88 @@
   {
     "case_number":null,
     "fullname":"HARDING, Peter J.",
-    "residency":null,
+    "location_of_arrest":"Western District of New York",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; Violent entry and disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Harding - Complaint  Harding - Statement of Facts",
     "case_status":"Initial appearance on 1\/14\/21 at 2pm ET in the Western District of New York (virtual)  Initial appearance in federal court in the District of Columbia on 1\/19\/21",
-    "entry_last_updated":"1\/16\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1354106\/download",
       "\/opa\/page\/file\/1354111\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-103",
     "fullname":"HARKRIDER, Alex Kirk",
-    "residency":null,
+    "location_of_arrest":"Eastern District of Texas",
     "charge(s)":"Conspiracy and unlawful entry with dangerous weapon; violent entry and disorderly conduct on Capitol grounds; aiding and abetting",
     "links_to_press_releases__charging_documents":"Nichols Harkrider - Affidavit  Harkrider - Complaint",
     "case_status":"Arrested 1\/18\/21 in the Eastern District of Texas.",
-    "entry_last_updated":"1\/18\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356236\/download",
       "\/opa\/page\/file\/1356246\/download"
     ]
   },
   {
+    "case_number":null,
+    "fullname":"HATLEY, Andrew",
+    "location_of_arrest":"District of Arizona",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly, With Intent to Impede Government Business or Official Functions, Engaging in Disorderly Conduct on Capitol Grounds; Engaging in disorderly or Disruptive Conduct on Capitol Buildings or Grounds; Parading Demostrating, or Picketing in the Capitol Buildings",
+    "links_to_press_releases__charging_documents":"Hatley - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/19\/21 in the District of Arizona",
+    "entry_last_updated":"1\/27\/2021",
+    "links":[
+      "\/file\/1360781\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-59",
     "fullname":"HEMENWAY, Edward",
-    "residency":null,
+    "location_of_arrest":"Charlottesville, Virginia",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Bauer and Hemenway - Complaint  Bauer and Hemenway - Statement of Facts",
     "case_status":"Arrested on 1\/15\/21 in Charlottesville, VA.",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355726\/download",
       "\/opa\/page\/file\/1355721\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-73",
     "fullname":"HERNANDEZ, Emily",
-    "residency":null,
+    "location_of_arrest":"St. Louis, Missouri (Eastern District of Missouri)",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds; Disorderly Conduct which Impedes the Conduct of Government Business; Steal, sell, convey or dispose of anything of value of the United States; Disruptive Conduct in the Capitol Buildings; Parading, Demonstrating, or Picketing in the Capitol Buildings",
     "links_to_press_releases__charging_documents":"Hernandez - Complaint  Hernandez - Statement of Facts",
     "case_status":"Arrested 1\/19\/21 in St. Louis (Eastern District of Missouri)",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1357296\/download",
       "\/opa\/page\/file\/1357301\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-70",
     "fullname":"HILES, Jacob",
-    "residency":null,
+    "location_of_arrest":"Norfolk, Virginia (Eastern District of Virginia)",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly, With Intent to Impede Government Business or Official Functions, Engaging in Disorderly Conduct on Capitol Grounds; Parading, Demonstrating, or Picketing in the Capitol Buildings",
     "links_to_press_releases__charging_documents":"Hiles - Complaint  Hiles - Statement of Facts",
     "case_status":"Arrested 1\/19\/21 in Norfolk, VA (EDVA).  Released on a personal recognizance bond; presentment date in federal court in the District of Columbia on 1\/22\/21 at 2:00pm.",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356976\/download",
       "\/opa\/page\/file\/1356971\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-109",
     "fullname":"IANNI, Suzanne (aka, Sue Ianni)",
-    "residency":null,
+    "location_of_arrest":"Boston, Massachussetts",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Two Massachusetts Residents Charged in Connection with Capitol Breach  Ianni - Complaint  Ianni - Statement of Facts",
     "case_status":"Arrested 1\/19\/21 in Boston",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/usao-dc\/pr\/two-massachusetts-residents-charged-connection-capitol-breach",
       "\/opa\/page\/file\/1357016\/download",
@@ -681,24 +847,24 @@
   {
     "case_number":null,
     "fullname":"JACKSON, Emanuel",
-    "residency":null,
+    "location_of_arrest":"Washington, D.C.",
     "charge(s)":"Assaulting an Officer of the United States;\u00a0Assaulting an Officer of the United States with a deadly or dangerous weapon; obstruction of an official proceeding; unlawful entry and physical violence on restricted building or grounds; violent entry and disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Jackson, Emanuel - Complaint  Jackson, Emanuel - Statement of Facts",
     "case_status":"Arrested 1\/18\/21 in the District of Columbia",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357091\/download",
       "\/opa\/page\/file\/1357096\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-cr-06",
     "fullname":"JENSEN, Douglas Austin",
-    "residency":"IA",
+    "location_of_arrest":"Iowa",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; disrupting the orderly conduct of government business; violent entry and disorderly conduct in a Capitol building; parading, demonstrating, or picketing in a Capitol building; and obstructing a law enforcement officer during a civil disorder",
     "links_to_press_releases__charging_documents":"Jensen - Indictment  Jensen - Complaint  Jensen - Statement of Facts",
     "case_status":null,
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1353381\/download",
       "\/opa\/page\/file\/1353386\/download",
@@ -708,11 +874,11 @@
   {
     "case_number":"1:21-mj-20",
     "fullname":"JOHNSON, Adam",
-    "residency":"FL",
+    "location_of_arrest":"Middle District of Florida",
     "charge(s)":"One count of knowingly entering or remaining in any restricted building or grounds without lawful authority; one count of theft of government property; and one count of violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Three Men Charged in Connection with Events at U.S. Capitol  Johnson - Statement of Facts  Johnson - Complaint",
     "case_status":"Arrested in Middle District of Florida 1\/08\/21  Initial Appearance in Middle District of Florida 1\/11\/21",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/three-men-charged-connection-events-us-capitol",
       "\/usao-dc\/press-release\/file\/1351951\/download",
@@ -722,24 +888,24 @@
   {
     "case_number":"1-21:mj-76",
     "fullname":"JONES, Chad Barrett",
-    "residency":null,
+    "location_of_arrest":"Western District of Kentucky",
     "charge(s)":"Assault on a federal officer; certain acts during a civil disorder; destruction of government property over $1,000; obstruction of justice; unlawful entry on restricted building or grounds; violent entry and disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Jones - Complaint  Jones - Statement of Facts",
     "case_status":"Arrested 1\/16\/21 in the Western District of Kentucky",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355951\/download",
       "\/opa\/page\/file\/1355956\/download"
     ]
   },
   {
-    "case_number":"1:21-mj-42\/2",
+    "case_number":"1:21-mj-42",
     "fullname":"KELLER, Klete Derik",
-    "residency":"CO",
+    "location_of_arrest":"Colorado",
     "charge(s)":"Obstructing Law Enforcement Engaged In Official Duties Incident to Civil Disorder;\u00a0Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority;\u00a0Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Keller - Complaint and Statement of Facts",
     "case_status":null,
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1354311\/download"
     ]
@@ -747,11 +913,11 @@
   {
     "case_number":"1:21-mj-93",
     "fullname":"KELLY, Leo",
-    "residency":null,
+    "location_of_arrest":"Northern District of Iowa",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority;\u00a0Violent Entry with Intent to Disrupt the Orderly Conduct of Official Business and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Kelly - Complaint  Kelly - Statement of Fact",
     "case_status":"Arrested 1\/18\/21 in the Northern District of Iowa",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356071\/download",
       "\/opa\/page\/file\/1356076\/download"
@@ -760,11 +926,11 @@
   {
     "case_number":"1:21-MJ-61",
     "fullname":"LANG, Edward Jacob",
-    "residency":null,
+    "location_of_arrest":"New York",
     "charge(s)":"Assaulting, Resisting, or Impeding Certain Officers or Employees; Civil Disorder;\u00a0Restricted Building or Grounds;\u00a0Violent Entry or Disorderly Conduct",
     "links_to_press_releases__charging_documents":"Lang - Affidavit in Support  Lang - Complaint",
     "case_status":"Arrested on 1\/16\/21 in New York.",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355866\/download",
       "\/opa\/page\/file\/1355871\/download"
@@ -773,11 +939,11 @@
   {
     "case_number":"1:21-cr-5",
     "fullname":"LEFFINGWELL, Mark",
-    "residency":"WA",
+    "location_of_arrest":"Washington",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; assault on a federal law enforcement officer; and violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Leffingwell - Complaint  Leffingwell - Statement of Facts  Leffingwell - Indictment",
     "case_status":"Arrested on 1\/7\/21. Initial appearance on 1\/7\/21. Detention Hearing set for 1\/8\/21 at 3:30 p.m. Defendant released on pre-trial conditions. Preliminary Hearing set for 1\/29\/21 10:00 a.m. Indicted on 1\/11\/21.",
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351671\/download",
@@ -788,11 +954,11 @@
   {
     "case_number":null,
     "fullname":"LOFTUS, Kevin",
-    "residency":"WI",
+    "location_of_arrest":"Wisconsin",
     "charge(s)":"One count of knowingly entering or remaining in any restricted building or grounds without law authority and one count of violent entry and disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Seven Charged in Federal Court Following Events At the United Capitol",
     "case_status":"Arrested in WI",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/seven-charged-federal-court-following-events-united-capitol"
     ]
@@ -800,7 +966,7 @@
   {
     "case_number":"1:21-mj-45",
     "fullname":"LOLLAR, Joshua R.",
-    "residency":null,
+    "location_of_arrest":null,
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds\u00a0Without Lawful Authority and Impeding or Disrupting Official Functions;\u00a0Obstructing or Impeding Law Enforcement Officer During Civil Disorder and Obstructing Federally Protected Functions; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Lollar - Complaint  Lollar - Complaint Statement of Facts",
     "case_status":"Arrested 1\/15\/21",
@@ -813,24 +979,49 @@
   {
     "case_number":"1:21-mj-37",
     "fullname":"LYONS, Kevin James",
-    "residency":null,
+    "location_of_arrest":"Northern District of Illinois",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds  Without Lawful Authority;\u00a0Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Lyons - Complaint  Lyons - Statement of Facts",
     "case_status":"Arrested 1\/13\/21 in Illinois. Made initial appearance in federal court in the Northern District of Illinois. Initial apearance in DC District Court scheduled for 1\/19\/21 at 1pm via video appearance.",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1353401\/download",
       "\/opa\/page\/file\/1353451\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-139",
+    "fullname":"MADDEN, Dominic",
+    "location_of_arrest":"Eastern District of New York",
+    "charge(s)":"knowingly enter or remain in any restricted building or grounds without lawful authority to do; knowingly, and with intent to impede or disrupt the orderly conduct of Government business or official functions, engage in disorderly or disruptive conduct in, or within such proximity to, any restricted building or grounds when, or so that, such conduct, in fact, impedes or disrupts the orderly conduct of Government business or official functions; utter loud, threatening, or abusive language, or engage in disorderly or disruptive conduct, at any place in the grounds or in any of the Capitol buildings with the intent to impede, disrupt, or disturb the orderly conduct of a session of Congress or either House of Congress; parade, demonstrate, or picket in any of the Capitol buildings",
+    "links_to_press_releases__charging_documents":"Madden, Dominic - Statement of Facts  Madden - Complaint",
+    "case_status":"Arrested 1\/21\/21 in the Eastern District of New York",
+    "entry_last_updated":"1\/22\/2021",
+    "links":[
+      "\/opa\/page\/file\/1358876\/download",
+      "\/opa\/page\/file\/1359536\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-144",
+    "fullname":"MARIOTTO, Anthony R. (aka, Tony Mariotto)",
+    "location_of_arrest":"Southern District of Florida",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Mariotto - Complaint & Affidavit",
+    "case_status":"Arrested 1\/22\/21 in the Southern District of Florida.",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1359631\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-96",
     "fullname":"MAZZOCCO, Matthew Carl",
-    "residency":null,
+    "location_of_arrest":"San Antonio, Texas",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Mazzocco - Complaint  Mazzocco - Statement of Facts",
     "case_status":"Arrested 1\/17\/21 in San Antonio, Texas",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356781\/download",
       "\/opa\/page\/file\/1356786\/download"
@@ -839,11 +1030,11 @@
   {
     "case_number":null,
     "fullname":"MCCAUGHEY III, Patrick Edward",
-    "residency":null,
+    "location_of_arrest":"Southern District of New York",
     "charge(s)":"Assaulting, resisting, or impeding certain officers or employees; civil disorder; restricted building or grounds; violent entry or disorderly conduct",
     "links_to_press_releases__charging_documents":"McCaughey - Complaint  McCaughey - Affidavit",
     "case_status":"Arrested 1\/19\/21 in the Southern District of New York",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357241\/download",
       "\/opa\/page\/file\/1357246\/download"
@@ -852,7 +1043,7 @@
   {
     "case_number":"1:21-mj-17",
     "fullname":"MEREDITH, Cleveland",
-    "residency":null,
+    "location_of_arrest":null,
     "charge(s)":"Making interstate threats to Speaker Nancy Pelosi",
     "links_to_press_releases__charging_documents":"Meredith - Complaint  Meredith - Statement of Facts",
     "case_status":"Arrested 1\/8\/21. Initial Appearance 1\/8\/21. Detained pending detention hearing scheduled for 1\/13\/21 at 1:30 p.m.",
@@ -863,13 +1054,38 @@
     ]
   },
   {
+    "case_number":"1:21-mj-117",
+    "fullname":"MILLER, Garret",
+    "location_of_arrest":"Northern District of Texas",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Buildings or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstructing or Impeding Any Official Proceeding; Certain Acts During Civil Disorder; Threats in Interstate Commerce",
+    "links_to_press_releases__charging_documents":"Miller, Garret - Complaint & Statement of Facts  Miller, Garret - Amended Complaint",
+    "case_status":"Arrested 1\/20\/21 in the Northern District of Texas. Initial appearance 1\/22\/21. Detention hearing 1\/25\/21.  Ordered detained.",
+    "entry_last_updated":"1\/25\/2021",
+    "links":[
+      "\/opa\/page\/file\/1359541\/download",
+      "\/opa\/page\/file\/1359601\/download"
+    ]
+  },
+  {
+    "case_number":null,
+    "fullname":"MILLER, Matthew Ryan",
+    "location_of_arrest":"District of Maryland",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Buildings or Grounds Without Lawful Authority, with a Dangerous Weapon; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds, with a Dangerous Weapon; Injuring Erection or Architectural Feature in the Capitol Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Miller, Matthew - Complaint & Affidavit",
+    "case_status":"Arrested 1\/25\/2021 in the District of Maryland.  Ordered detained.",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360201\/download"
+    ]
+  },
+  {
     "case_number":null,
     "fullname":"MINK, Jordan Robert",
-    "residency":null,
+    "location_of_arrest":"Western District of Pennsylvania",
     "charge(s)":"Unlawful Entry on Restricted Building or Grounds While Using or Carrying a Deadly or Dangerous Weapon; Unlawful Injury to Property on Capitol Grounds; Violent Entry, Disorderly Conduct, Physical Violence on Capitol Grounds; Destruction of government property valued at over $1,000; Theft of Government Property; Aiding and Abetting",
     "links_to_press_releases__charging_documents":"Mink - Complaint and Affidavit",
     "case_status":"Arrested 1\/19\/21 in the Western District of Pennsylvania",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357221\/download"
     ]
@@ -877,24 +1093,37 @@
   {
     "case_number":"1:21-mj-64",
     "fullname":"MISH Jr., David Charles",
-    "residency":null,
+    "location_of_arrest":"Eastern District of Wisconsin",
     "charge(s)":"Unlawful entry on restricted buildings or grounds; violent entry and disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Mish - Complaint  Mish - Statement of Facts",
     "case_status":"Arrested in the Eastern District of Wisconsin. Initial appearance in the Eastern District of Wisconsin 1\/15\/21. Released on conditions.  Initial appearance in federal court in the District of Columbia set for 1\/22\/21 (virtual)",
-    "entry_last_updated":"1\/15\/21",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355491\/download",
       "\/opa\/page\/file\/1355496\/download"
     ]
   },
   {
+    "case_number":"1:21-mj-44",
+    "fullname":"MONTGOMERY, Patrick",
+    "location_of_arrest":"Colorado",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol\u00a0Grounds",
+    "links_to_press_releases__charging_documents":"Montgomery - Complaint  Montgomery - Statement of Facts",
+    "case_status":"Arrested 1\/17\/21 in Colorado.",
+    "entry_last_updated":"1\/22\/2021",
+    "links":[
+      "\/opa\/page\/file\/1357711\/download",
+      "\/opa\/page\/file\/1357706\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-34",
     "fullname":"MOSTOFSKY, Aaron",
-    "residency":"NY",
+    "location_of_arrest":"New York",
     "charge(s)":"One felony count of theft of government property.",
     "links_to_press_releases__charging_documents":"Seven Charged in Federal Court Following Events At the United Capitol  Mostofsky - Statement of Facts  Mostofsky - Complaint",
     "case_status":null,
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/seven-charged-federal-court-following-events-united-capitol",
       "\/usao-dc\/press-release\/file\/1353206\/download",
@@ -904,11 +1133,11 @@
   {
     "case_number":"1:21-mj-71",
     "fullname":"MUNCHEL, Eric Gavelek",
-    "residency":"TN",
+    "location_of_arrest":"Middle District of Tennessee",
     "charge(s)":"One count of knowingly entering or remaining in any restricted building or grounds without lawful authority and one count of violent entry and disorderly conduct on Capitol grounds  Conspiracy civil disorders; restricted buildings or grounds; violent entry or disorderly conduct",
     "links_to_press_releases__charging_documents":"Two Men Charged in Connection with Events at U.S. Capitol  Munchel - Affidavit  Munchel - Complaint  Munchel Eisenhart - Complaint  Munchel Eisenhart - Affidavit in Support",
-    "case_status":"Initial appearance in the Middle District of Tennessee 1\/12\/21. Preliminary\/Detention hearing rescheduled to 1\/22\/21 at 1:00pm CST.",
-    "entry_last_updated":"1\/19\/2021",
+    "case_status":"Initial appearance in the Middle District of Tennessee 1\/12\/21. Preliminary\/Detention hearing rescheduled to 1\/22\/21 at 1:00pm CST.\u00a0Ordered detained pending appeal.  Ordered detained and transported to DC",
+    "entry_last_updated":"1\/25\/2021",
     "links":[
       "\/usao-dc\/pr\/two-men-charged-connection-events-us-capitol",
       "\/usao-dc\/press-release\/file\/1352221\/download",
@@ -918,13 +1147,26 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-43",
+    "fullname":"MUNTZER, Henry Phillip",
+    "location_of_arrest":"Montana",
+    "charge(s)":"Restricted Building or Grounds; Unlawful Entry or Disorderly Conduct",
+    "links_to_press_releases__charging_documents":"Muntzer - Complaint  Muntzer - Affidavit in Support",
+    "case_status":"Arrested 1\/18\/21 in the District of Montana",
+    "entry_last_updated":"1\/21\/2021",
+    "links":[
+      "\/opa\/page\/file\/1357776\/download",
+      "\/opa\/page\/file\/1357771\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-102",
     "fullname":"NICHOLS, Ryan",
-    "residency":null,
+    "location_of_arrest":"Eastern District of Virginia",
     "charge(s)":"Conspiracy and Unlawful Entry with Dangerous Weapon; Violent Entry and Disorderly Conduct on Capitol Grounds; Civil Disorder; Assault on a Federal Officer Using a Deadly or Dangerous Weapon; Aiding and Abetting",
     "links_to_press_releases__charging_documents":"Nichols - Complaint  Nichols Harkrider - Affidavit",
     "case_status":"Arrested 1\/18\/21 in the Eastern District of Texas",
-    "entry_last_updated":"1\/18\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356241\/download",
       "\/opa\/page\/file\/1356236\/download"
@@ -933,11 +1175,11 @@
   {
     "case_number":"1:21-mj-15",
     "fullname":"OCHS, Nicholas",
-    "residency":"HI",
+    "location_of_arrest":"Hawaii",
     "charge(s)":"One count of Unlawful Entry into Restricted Buildings or Grounds",
     "links_to_press_releases__charging_documents":"Nicholas R. Ochs Arrested for Unlawful Entry into the United States Capitol Building  Ochs - Complaint  Ochs - Complaint Affidavit",
     "case_status":"Complaint filed 1\/7\/21. Initial Appearance set for 1\/27\/21 at 1:00 p.m.",
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-hi\/pr\/nicholas-r-ochs-arrested-unlawful-entry-united-states-capitol-building",
       "\/opa\/page\/file\/1353336\/download",
@@ -947,11 +1189,11 @@
   {
     "case_number":"1:21-mj-39",
     "fullname":"PACKER, Robert Keith",
-    "residency":"VA",
+    "location_of_arrest":"Eastern District of Virginia",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority and violent entry or disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Seven Charged in Federal Court Following Events At the United Capitol  Packer - Complaint  Packer - Statement of Facts",
     "case_status":"Initial Appearance scheduled 1\/13\/21 12:30pm (EDVA District Court)  Released on a personal recognizance bond with two special conditions (stay away order from DC and appear at virtual hearing next week).",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/seven-charged-federal-court-following-events-united-capitol",
       "\/usao-dc\/press-release\/file\/1353196\/download",
@@ -959,13 +1201,13 @@
     ]
   },
   {
-    "case_number":null,
-    "fullname":"PEPE, Williams",
-    "residency":"NY",
+    "case_number":"1:21-mj-32",
+    "fullname":"PEPE, William",
+    "location_of_arrest":"New York",
     "charge(s)":"One count of knowingly entering or remaining in any restricted building or grounds without law authority.",
     "links_to_press_releases__charging_documents":"Seven Charged in Federal Court Following Events At the United Capitol  Pepe - Complaint  Pepe - Statement of Facts",
     "case_status":"Arrested on 1\/12\u00a0in New York.",
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/25\/2021",
     "links":[
       "\/usao-dc\/pr\/seven-charged-federal-court-following-events-united-capitol",
       "\/usao-dc\/press-release\/file\/1353211\/download",
@@ -973,13 +1215,13 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-107",
     "fullname":"PERNA, Matthew",
-    "residency":null,
+    "location_of_arrest":"Western District of Pennsylvania",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Perna - Complaint  Perna - Statement of Facts",
     "case_status":"Arrested 1\/19\/21 in the Western District of Pennsylvania.  Initial appearance 1\/19\/21 at 2:30pm.",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356826\/download",
       "\/opa\/page\/file\/1356831\/download"
@@ -988,12 +1230,13 @@
   {
     "case_number":"1:21-mj-47",
     "fullname":"PEZZOLA, Dominic",
-    "residency":null,
+    "location_of_arrest":"Western District of New York",
     "charge(s)":"Obstruction of an official proceeding; destruction of government property; restricted buildings or grounds",
-    "links_to_press_releases__charging_documents":"Pezzola - Complaint  Pezzola - Affidavit",
+    "links_to_press_releases__charging_documents":"Rochester, New York Man Arrested and Charged with Destroying Property and Obstruction of Congressional Proceedings  Pezzola - Complaint  Pezzola - Affidavit",
     "case_status":"Arrested 1\/15\/21. Initial appearance in the Western District of New York on 1\/15\/21 at 2pm.",
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
+      "\/usao-dc\/pr\/rochester-new-york-man-arrested-and-charged-destroying-property-and-obstruction",
       "\/opa\/page\/file\/1355181\/download",
       "\/opa\/page\/file\/1355186\/download"
     ]
@@ -1001,24 +1244,36 @@
   {
     "case_number":"1:21-mj-116",
     "fullname":"PHAM, Tam Dinh",
-    "residency":null,
+    "location_of_arrest":"Southern District of Texas",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Pham - Complaint  Pham - Statement of Facts",
     "case_status":"Arrested 1\/20\/21 in the Southern District of Texas",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357331\/download",
       "\/opa\/page\/file\/1357336\/download"
     ]
   },
   {
+    "case_number":null,
+    "fullname":"PHIPPS, Daniel D.",
+    "location_of_arrest":"Northern District of Texas",
+    "charge(s)":"Knowingly Entering or Remaining in any restricted Building or Grounds Without Lawful Authority and Impeding or Disrupting Official Functions; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Phipps - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/26\/21 in the Northern District of Texas",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360726\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-53",
     "fullname":"PRIOLA, Christine",
-    "residency":"OH",
+    "location_of_arrest":"Northern District of Ohio",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Unlawful Activities on Capitol Grounds, Parades, Assemblages and Display of Flags",
     "links_to_press_releases__charging_documents":"Priola - Complaint  Priola - Affidavit",
     "case_status":"Initial appearance 1\/14\/21 in the Northern District of Ohio.  Defendant was released on bond with home detention and electronic home monitoring.",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1354421\/download",
       "\/opa\/page\/file\/1355526\/download"
@@ -1027,7 +1282,7 @@
   {
     "case_number":"1:21-mj-9",
     "fullname":"PRUITT, Joshua",
-    "residency":null,
+    "location_of_arrest":null,
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Pruitt - Complaint  Pruitt - Statement of Facts",
     "case_status":"Arrested on 1\/7\/21. Initial appearance \/ detention hearing on 1\/7\/21. Defendant released. Preliminary Hearing set for 1\/28\/21 at 12:00 p.m.",
@@ -1041,11 +1296,11 @@
   {
     "case_number":"1:21-mj-81",
     "fullname":"REED, Blake A.",
-    "residency":null,
+    "location_of_arrest":"Nashville, Tennessee",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Reed - Statement of Facts  Reed - Complaint",
     "case_status":"Arrested 1\/17\/21 in Nashville. Initial apparance on 1\/19\/21. Released with conditions.",
-    "entry_last_updated":"1\/19\/21",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355931\/download",
       "\/opa\/page\/file\/1355936\/download"
@@ -1054,24 +1309,24 @@
   {
     "case_number":"1:21-mj-91",
     "fullname":"REFFITT, Guy Wesley",
-    "residency":null,
+    "location_of_arrest":"Eastern District of Texas",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Obstruction of Justice",
     "links_to_press_releases__charging_documents":"Reffitt - Complaint  Reffitt - Affidavit",
     "case_status":"Arrested 1\/18\/21 in the Eastern District of Texas",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356126\/download",
       "\/opa\/page\/file\/1356111\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-110",
     "fullname":"RILEY, Jorge A.",
-    "residency":null,
+    "location_of_arrest":"Eastern District of California",
     "charge(s)":"Obstructing or Impeding Any Official Proceeding; Knowingly Entering or Remaining in any Restricted Building or Grounds Withough Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Riley - Statement of Facts  Riley - Complaint",
     "case_status":"Arrested 1\/19\/21 in the Eastern District of California",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1357041\/download",
       "\/opa\/page\/file\/1357046\/download"
@@ -1080,11 +1335,11 @@
   {
     "case_number":null,
     "fullname":"RIVERA, Jesus (aka, JD Rivera, Jesus Delmora Rivera)",
-    "residency":null,
+    "location_of_arrest":"Northern District of Florida",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly, With Intent to Impede Government Business or Official Functions, Engaging in Disorderly Conduct on Capitol Grounds; Engaging in Disorderly or Disruptive Conduct on Capitol Buildings or Grounds; Parading, Demonstrating, or Picketing in the Capitol Buildings",
     "links_to_press_releases__charging_documents":"Rivera - Complaint  Rivera - Statement of Facts",
     "case_status":"Arrested 1\/20\/21 in the Northern District of Florida. Initial Appearance 1\/20\/21 at 3:00pm CST.",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357276\/download",
       "\/opa\/page\/file\/1357281\/download"
@@ -1093,7 +1348,7 @@
   {
     "case_number":"1:21-mj-36",
     "fullname":"ROBERTSON, Thomas",
-    "residency":null,
+    "location_of_arrest":null,
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Two Off-Duty Virginia Police Officers Charged in Federal Court Following Events at the U.S. Capitol  Robertson and Fracker Complaint  Robertson and Fracker Statement of Facts",
     "case_status":null,
@@ -1107,11 +1362,11 @@
   {
     "case_number":null,
     "fullname":"RODEAN, Nicolas",
-    "residency":"MD",
+    "location_of_arrest":"Washington, D.C.",
     "charge(s)":"One count of knowingly entering or remaining in any restricted building or grounds without law authority; one count of knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on capitol grounds; and one count of and parading, demonstrating, or picketing in the capitol buildings",
     "links_to_press_releases__charging_documents":"Seven Charged in Federal Court Following Events At the United Capitol  Rodean - Complaint  Rodean - Statement of Facts",
     "case_status":"Arrested in DC 1\/13\/21",
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/seven-charged-federal-court-following-events-united-capitol",
       "\/usao-dc\/press-release\/file\/1353221\/download",
@@ -1121,11 +1376,11 @@
   {
     "case_number":"1:21-mj-35",
     "fullname":"ROSA, Eliel",
-    "residency":"TX",
+    "location_of_arrest":"Texas",
     "charge(s)":"Restricted Building or Grounds; Violent Entry or Disorderly Conduct",
     "links_to_press_releases__charging_documents":"Cudd Rosa - Complaint  Cudd Rosa - Statement of Facts",
     "case_status":"Released on personal recognizance bond.",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1353431\/download",
       "\/opa\/page\/file\/1353436\/download"
@@ -1133,12 +1388,12 @@
   },
   {
     "case_number":"1:21-mj-12",
-    "fullname":"RUSKELAS, Bradley",
-    "residency":"IL",
+    "fullname":"RUKSTALES, Bradley",
+    "location_of_arrest":"Illinois",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Fitchett et al - Complaint  Fitchett et al - Statement of Facts",
     "case_status":null,
-    "entry_last_updated":null,
+    "entry_last_updated":"1\/25\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351716\/download",
@@ -1148,7 +1403,7 @@
   {
     "case_number":"1:21-mj-62",
     "fullname":"RYAN, Jennifer Leigh",
-    "residency":null,
+    "location_of_arrest":null,
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without\u00a0Lawful Authority;\u00a0Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Ryan - Complaint  Ryan - Statement of Facts",
     "case_status":"Arrested on 1\/15\/21",
@@ -1159,13 +1414,13 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-108",
     "fullname":"SAHADY, Mark",
-    "residency":null,
+    "location_of_arrest":"Boston, Massachussets",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without\u00a0Lawful Authority; Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Two Massachusetts Residents Charged in Connection with Capitol Breach  Sahady - Complaint  Sahady - Complaint Affidavit",
     "case_status":"Arrested on 1\/19\/21 in Boston",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/usao-dc\/pr\/two-massachusetts-residents-charged-connection-capitol-breach",
       "\/opa\/page\/file\/1357031\/download",
@@ -1175,11 +1430,11 @@
   {
     "case_number":null,
     "fullname":"SANFORD, Robert",
-    "residency":"PA",
+    "location_of_arrest":"Pennsylvania",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without\u00a0Lawful Authority;\u00a0Disorderly or Disruptive Conduct on Capitol Grounds; Civil Disorder;\u00a0Assaulting, resisting, or impeding certain officers while engaged in the performance of official duties",
     "links_to_press_releases__charging_documents":"Retired Pennsylvania Fire Fighter is Arrested and Criminally Charged for Actions at the U.S. Capitol  Sanford - Complaint  Sanford - Statement of Facts",
     "case_status":"Arrested in Pennsylvania on 1\/14\/21",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/retired-pennsylvania-fire-fighter-arrested-and-criminally-charged-actions-us-capitol",
       "\/opa\/page\/file\/1353921\/download",
@@ -1189,11 +1444,11 @@
   {
     "case_number":"1:21-mj-94",
     "fullname":"SCHAFFER, Jon Ryan",
-    "residency":null,
+    "location_of_arrest":"Southern District of Indiana",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without\u00a0Lawful Authority; Disrupting the Orderly Conduct of Government Business; Knowingly Engages in an Act of Physical Violence Against Any Person or Property in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct in a Capitol Building; Engage in an Act of Physical Violence in a Capitol Building; Parade, Demonstrate, or Picket in a Capitol Building",
     "links_to_press_releases__charging_documents":"Schaffer - Complaint  Schaffer - Statement of Facts",
     "case_status":"Arrested 1\/17\/21 in the Southern District of Indiana.",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356011\/download",
       "\/opa\/page\/file\/1356006\/download"
@@ -1202,7 +1457,7 @@
   {
     "case_number":"1:21-mj-46",
     "fullname":"SEEFRIED, Hunter",
-    "residency":null,
+    "location_of_arrest":null,
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Two Delaware Men Charged in Federal Court Following Events at the United States Capitol  Seefried - Complaint  Seefried - Statement of Facts",
     "case_status":null,
@@ -1216,7 +1471,7 @@
   {
     "case_number":"1:21-mj-46",
     "fullname":"SEEFRIED, Kevin",
-    "residency":null,
+    "location_of_arrest":null,
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Two Delaware Men Charged in Federal Court Following Events at the United States Capitol  Seefried - Complaint  Seefried - Statement of Facts",
     "case_status":null,
@@ -1230,11 +1485,11 @@
   {
     "case_number":null,
     "fullname":"SHIVLEY, Barton Wade",
-    "residency":null,
+    "location_of_arrest":"Middle District of Pennsylvania",
     "charge(s)":"Aiding and Abetting; Civil Disorder; Forcibly assault, resist, oppose, impede, intimidate, or interfere with any officer or employee of the United States or of any agency in any branch of the United States Government while engaged in or on account of the performance of official duties; Restricted Building or Grounds; Violent Entry, Obstruct or Impede Passage, Engage in Physical Violence on Grounds or any of the Capitol Buildings",
     "links_to_press_releases__charging_documents":"Shively - Complaint  Shively - Statement of Facts",
-    "case_status":"Arrested 1\/19\/21 in the Eastern District of Pennsylvania",
-    "entry_last_updated":"1\/19\/2021",
+    "case_status":"Arrested 1\/19\/21 in the Middle District of Pennsylvania",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357011\/download",
       "\/opa\/page\/file\/1357006\/download"
@@ -1243,11 +1498,11 @@
   {
     "case_number":"1:21-mj-58",
     "fullname":"SMOCKS, Troy Anthony",
-    "residency":null,
+    "location_of_arrest":"Eastern District of Texas",
     "charge(s)":"Threats in Interstate Commerce",
     "links_to_press_releases__charging_documents":"Smocks - Complaint  Smocks - Affidavit in Support",
     "case_status":"Arrested 1\/15\/21 in the Eastern District of Texas",
-    "entry_last_updated":"1\/17\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355891\/download",
       "\/opa\/page\/file\/1355896\/download"
@@ -1256,24 +1511,24 @@
   {
     "case_number":"1:21-mj-98",
     "fullname":"SPARKS, Michael",
-    "residency":null,
-    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on capitol Grounds; Obstructing Law Enforcement",
+    "location_of_arrest":"Western District of Kentucky",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstructing Law Enforcement",
     "links_to_press_releases__charging_documents":"Sparks - Complaint  Sparks - Statement of Facts",
     "case_status":"Arrested 1\/19\/21 in the Western District of Kentucky",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1357386\/download",
       "\/opa\/page\/file\/1357391\/download"
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-113",
     "fullname":"SPENCER, Christopher Raphael (aka, Chris Spencer)",
-    "residency":null,
+    "location_of_arrest":"Northern District of North Carolina",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds; Obstruction of Justice",
     "links_to_press_releases__charging_documents":"Spencer - Complaint  Spencer - Statement of Facts",
     "case_status":"Arrested 1\/19\/21 in the Northern District of North Carolina",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/25\/2021",
     "links":[
       "\/opa\/page\/file\/1356981\/download",
       "\/opa\/page\/file\/1356986\/download"
@@ -1282,11 +1537,11 @@
   {
     "case_number":"1:21-mj-57",
     "fullname":"STAGER, Peter",
-    "residency":"AR",
+    "location_of_arrest":"Eastern District of Arkansas",
     "charge(s)":"Civil Disorder",
     "links_to_press_releases__charging_documents":"Stager - Complaint and Affidavit  Stager - Statement of Facts",
     "case_status":"Arrested 1\/14\/21 in Arkansas. Initial appearance 1\/19\/21 at 3:00pm in the Eastern District of Arkansas.",
-    "entry_last_updated":"1\/16\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1354981\/download",
       "\/opa\/page\/file\/1355506\/download"
@@ -1294,25 +1549,86 @@
   },
   {
     "case_number":null,
+    "fullname":"STEDMAN, Patrick Alonzo",
+    "location_of_arrest":"New Jersey",
+    "charge(s)":"Restricted Building or Grounds; Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Stedman - Complaint  Stedman - Affidavit",
+    "case_status":"Arrested 1\/21\/21 in the District of New Jersey.  Initial appearance in the District of New Jersey 1\/21\/21 at 2:00pm.",
+    "entry_last_updated":"1\/21\/2021",
+    "links":[
+      "\/opa\/page\/file\/1357726\/download",
+      "\/opa\/page\/file\/1357721\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-124",
+    "fullname":"STEELE-SMITH, Melody",
+    "location_of_arrest":"Glouchester, Virginia (Eastern District of Virginia)",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Steele-Smith, Melody - Complaint &\u00a0Affidavit",
+    "case_status":"Arrested in the Eastern District of Virginia on 1\/20\/2021",
+    "entry_last_updated":"1\/25\/2021",
+    "links":[
+      "\/file\/1360206\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-134",
+    "fullname":"STRAKA, Brandon",
+    "location_of_arrest":"Nebraska",
+    "charge(s)":"Impeding law enforcement officer during civil disorder; knowingly entering and remaining on restricted grounds without lawful authority and\/or engaging in disorderly conduct within proximity to a restricted building to impede official functions; engage in disorderly conduct with intent to disturb a hearing before Congress",
+    "links_to_press_releases__charging_documents":"Straka - Complaint & Affidavit",
+    "case_status":"Arrested 1\/25\/21 in the District of Nebraska  Initial appearance 1\/26\/21. Released on conditions.",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360091\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-51",
     "fullname":"STRAND, John Herbert",
-    "residency":null,
+    "location_of_arrest":"Central District of California",
     "charge(s)":"Restricted Building or Grounds; Violent Entry and Disorderly Conduct",
     "links_to_press_releases__charging_documents":"Strand Gold - Affidavit  Strand Gold - Complaint",
     "case_status":"Arrested 1\/18\/21 in the Central District of California  Released on conditions.",
-    "entry_last_updated":"1\/20\/2021",
+    "entry_last_updated":"1\/22\/2021",
     "links":[
       "\/opa\/page\/file\/1356546\/download",
       "\/opa\/page\/file\/1356551\/download"
     ]
   },
   {
+    "case_number":"1:21-mj-151",
+    "fullname":"STRONG, Kevin",
+    "location_of_arrest":"Central District of California",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engaging in Disorderly or Disruptive Conduct in any Restricted Building or Gorunds; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Strong, Kevin - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/22\/21 in the Central District of California",
+    "entry_last_updated":"1\/23\/2021",
+    "links":[
+      "\/opa\/page\/file\/1359586\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-123",
+    "fullname":"SUAREZ, Marissa A.",
+    "location_of_arrest":"New Jersey",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Suarez & Todisco - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/22\/21 in the District of New Jersey.  Initial appearance 1\/25\/21. Released on conditions.  Appearance on 1\/27\/21 in federal court in the District of Columbia",
+    "entry_last_updated":"1\/23\/2021",
+    "links":[
+      "\/opa\/page\/file\/1359596\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-50",
     "fullname":"SULLIVAN, John Earl",
-    "residency":"UT",
+    "location_of_arrest":"Utah",
     "charge(s)":"Restricted building or grounds; civil disorders, violent entry or disorderly conduct",
     "links_to_press_releases__charging_documents":"Utah Man Charged in Federal Court Following Events at the United States Capitol  Sullivan - Criminal Complaint  Sullivan - Complaint Affidavit",
     "case_status":"Initial appearance in the District of Utah at 4pm on 1\/15\/2021.",
-    "entry_last_updated":"1\/14\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/utah-man-charged-federal-court-following-events-united-states-capitol",
       "\/opa\/page\/file\/1354776\/download",
@@ -1322,11 +1638,11 @@
   {
     "case_number":"1:21-mj-12",
     "fullname":"SWEET, Douglas",
-    "residency":"VA",
+    "location_of_arrest":"Virginia",
     "charge(s)":"Knowingly entering or remaining in any restricted building or grounds without lawful authority; or knowingly, with intent to impede government business or official functions, engaging in disorderly conduct on Capitol grounds; and violent entry and disorderly conduct on Capitol grounds.",
     "links_to_press_releases__charging_documents":"Thirteen Charged in Federal Court Following Riot at the United States Capitol  Fitchett et al - Complaint  Fitchett et al - Statement of Facts",
     "case_status":null,
-    "entry_last_updated":"1\/15\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/pr\/thirteen-charged-federal-court-following-riot-united-states-capitol",
       "\/opa\/press-release\/file\/1351716\/download",
@@ -1334,26 +1650,87 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-mj-123",
+    "fullname":"TODISCO, Patricia",
+    "location_of_arrest":"New Jersey",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Suarez & Todisco - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/22\/21 in the District of New Jersey  Initial appearance 1\/25\/21. Released on conditions.  Appearance on 1\/27\/21 in federal court in the District of Columbia",
+    "entry_last_updated":"1\/25\/2021",
+    "links":[
+      "\/opa\/page\/file\/1359596\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-156",
+    "fullname":"UPTMORE, Chance Anthony",
+    "location_of_arrest":"Western District of Texas",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Uptmore & Uptmore - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/26\/21 in the Western District of Texas",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360731\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-156",
+    "fullname":"UPTMORE, James Herman (aka \"Sonny\")",
+    "location_of_arrest":"Western District of Texas",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Uptmore & Uptmore - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/26\/21 in the Western District of Texas",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360731\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-159",
+    "fullname":"VOGEL, William",
+    "location_of_arrest":"Southern District of New York",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Knowingly Engages in Disorderly or Disruptive Conduct in any Restricted Building or Grounds; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Vogel - Complaint & Statement of Facts",
+    "case_status":"Arrested 1\/26\/21 in the Southern District of New York",
+    "entry_last_updated":"1\/26\/2021",
+    "links":[
+      "\/opa\/page\/file\/1360591\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-119",
     "fullname":"WATKINS, Jessica",
-    "residency":null,
+    "location_of_arrest":"Southern District of Ohio",
     "charge(s)":"Restricted building or grounds; violent entry or disorderly conduct; obstruction of an official proceeding",
     "links_to_press_releases__charging_documents":"Watkins - Affidavit  Watkins - Complaint",
     "case_status":"Arrested 1\/18\/21 in the Southern District of Ohio",
-    "entry_last_updated":"1\/18\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356116\/download",
       "\/opa\/page\/file\/1356101\/download"
     ]
   },
   {
+    "case_number":null,
+    "fullname":"WEEKS, Bradley",
+    "location_of_arrest":"Middle District of Florida",
+    "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
+    "links_to_press_releases__charging_documents":"Weeks - Complaint  Weeks - Statement of Facts",
+    "case_status":"Arrested 1\/21\/21 in the Middle District of Florida. Initial appearance 1\/21\/21 at 3:00pm.  Released on conditions. Virtual hearing set for 1\/26\/21 at 1:00pm in federal court in the District of Columbia.",
+    "entry_last_updated":"1\/22\/2021",
+    "links":[
+      "\/opa\/page\/file\/1357826\/download",
+      "\/opa\/page\/file\/1357831\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-30",
     "fullname":"WILLIAMS, Andrew",
-    "residency":"FL",
+    "location_of_arrest":"Middle District of Florida",
     "charge(s)":"One count of unlawful entry of a restricted building and one count of disorderly conduct on Capitol grounds",
     "links_to_press_releases__charging_documents":"Seven Charged in Federal Court Following Events At the United Capitol  Williams - Complaint  Williams - Affidavit for Complaint",
     "case_status":"Arrested in the Middle District of Florida 1\/13\/21",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/usao-dc\/pr\/seven-charged-federal-court-following-events-united-capitol",
       "\/opa\/page\/file\/1354856\/download",
@@ -1363,11 +1740,11 @@
   {
     "case_number":null,
     "fullname":"WILLIAMS, Riley June",
-    "residency":null,
+    "location_of_arrest":"Middle District of Pennsylvania",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority; Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Williams - Complaint  Williams - Statement of Facts  Williams, Riley - Amended Complaint  Williams, Riley - Amended Statement of Facts",
-    "case_status":"Arrested 1\/18\/21 in the Middle District of Pennsylvania",
-    "entry_last_updated":"1\/19\/2021",
+    "case_status":"Arrested 1\/18\/21 in the Middle District of Pennsylvania  Released to home confinement on conditions. Hearing (virtual) set for 1\/25\/21 in federal court in the District of Columbia.",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1356231\/download",
       "\/opa\/page\/file\/1356226\/download",
@@ -1378,11 +1755,11 @@
   {
     "case_number":"1:21-mj-26",
     "fullname":"WRIGLEY, Andrew",
-    "residency":null,
+    "location_of_arrest":"Middle District of Pennsylvania",
     "charge(s)":"Knowingly Entering or Remaining in any Restricted Building or Grounds Without Lawful Authority;\u00a0Violent Entry and Disorderly Conduct on Capitol Grounds",
     "links_to_press_releases__charging_documents":"Wrigley - Complaint  Wrigley - Statement of Facts",
     "case_status":"Arrested on 1\/15\/21 in the Middle District of Pennsylvania.  Initial appearance via video on 1\/25\/21 in federal court in the District of Columbia.",
-    "entry_last_updated":"1\/19\/2021",
+    "entry_last_updated":"1\/21\/2021",
     "links":[
       "\/opa\/page\/file\/1355911\/download",
       "\/opa\/page\/file\/1355916\/download"
