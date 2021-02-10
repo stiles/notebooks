@@ -1,12 +1,4 @@
-name,mid_november,mid_january,change
-La Habra Heights,0.0,18.33,inf
-Avalon,0.0,51.69,inf
-Rolling Hills,0.0,309.28,inf
-Unincorporated - Angeles National Forest,0.0,160.64,inf
-West Antelope Valley,0.0,661.81,inf
-Twin Lakes/Oat Mountain,0.0,482.51,inf
-Irwindale,0.0,1370.8,inf
-Lake Manor,0.0,730.37,inf
+name,mid_november,mid_january,pct_change
 Unincorporated - Monrovia,25.77,747.23,2799.61
 West Rancho Dominguez,73.58,1986.75,2600.12
 San Marino,15.06,316.34,2000.53
@@ -186,8 +178,8 @@ East La Mirada,151.17,774.75,412.5
 West Adams,242.49,1234.17,408.96
 Valley Glen,186.57,946.16,407.13
 Manchester Square,175.73,890.35,406.66
-Culver City,90.3,451.52,400.02
 Beverly Hills,98.49,492.47,400.02
+Culver City,90.3,451.52,400.02
 Unincorporated - South El Monte,334.26,1671.31,400.0
 North Hollywood,214.63,1069.86,398.47
 Pacoima,361.14,1792.7,396.4
@@ -271,8 +263,8 @@ Del Rey,136.96,454.3,231.7
 Tarzana,242.91,796.74,228.0
 Sierra Madre,81.9,254.8,211.11
 Santa Monica,128.72,390.5,203.37
-Brentwood,125.99,377.97,200.0
 Venice,103.29,309.87,200.0
+Brentwood,125.99,377.97,200.0
 Anaverde,198.94,596.82,200.0
 Rancho Park,106.71,304.88,185.71
 Hollywood Hills,139.29,397.5,185.38
