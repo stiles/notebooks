@@ -1,0 +1,50 @@
+id,title,count,slug
+1,Alabama,5638,alabama
+2,Hawaii,379,hawaii
+3,Massachusetts,1458,massachusetts
+4,"New Mexico",765,new_mexico
+5,"South Dakota",813,south_dakota
+6,Alaska,386,alaska
+7,Idaho,558,idaho
+8,Michigan,6242,michigan
+9,"New York",5860,new_york
+10,Tennessee,6980,tennessee
+11,Arizona,1863,arizona
+12,Illinois,6272,illinois
+13,Minnesota,2774,minnesota
+14,"North Carolina",7607,north_carolina
+15,Texas,12243,texas
+16,Arkansas,2800,arkansas
+17,Indiana,5136,indiana
+18,Mississippi,2620,mississippi
+19,"North Dakota",967,north_dakota
+20,Utah,295,utah
+21,California,10049,california
+22,Iowa,1211,iowa
+23,Missouri,4633,missouri
+24,Ohio,7543,ohio
+25,Vermont,240,vermont
+26,Colorado,2084,colorado
+27,Kansas,1909,kansas
+28,Montana,472,montana
+29,Oklahoma,3037,oklahoma
+30,Virginia,1677,virginia
+31,Connecticut,1022,connecticut
+32,Kentucky,2130,kentucky
+33,Nebraska,1836,nebraska
+34,Oregon,2087,oregon
+35,Washington,2630,washington
+36,Delaware,368,delaware
+37,Louisiana,4677,louisiana
+38,Nevada,511,nevada
+39,Pennsylvania,8149,pennsylvania
+41,Florida,8670,florida
+42,Maine,457,maine
+43,"New Hampshire",409,new_hampshire
+44,"Rhode Island",646,rhode_island
+45,Wisconsin,3772,wisconsin
+46,Georgia,5111,georgia
+47,Maryland,2496,maryland
+48,"New Jersey",1811,new_jersey
+49,"South Carolina",4010,south_carolina
+50,Wyoming,337,wyoming

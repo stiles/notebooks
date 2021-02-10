@@ -22,6 +22,8 @@ jupyter = "*"
 openpyxl = "*"
 earthpy = "*"
 contextily = "*"
+slugify = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.7"

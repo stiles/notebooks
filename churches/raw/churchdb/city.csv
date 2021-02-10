@@ -1,0 +1,327 @@
+id,state_id,title,count,slug
+1,1,"Anniston, AL",312,alabama-anniston
+2,1,"Auburn, AL",270,alabama-auburn
+3,1,"Birmingham, AL",1106,alabama-birmingham
+4,1,"Decatur, AL",288,alabama-decatur
+5,1,"Dothan, AL",234,alabama-dothan
+6,1,"Florence, AL",257,alabama-florence
+7,1,"Gadsden, AL",398,alabama-gadsden
+8,1,"Huntsville, AL",346,alabama-huntsville
+9,1,"Mobile, AL",524,alabama-mobile
+10,1,"Montgomery, AL",526,alabama-montgomery
+11,1,"Tuscaloosa, AL",235,alabama-tuscaloosa
+12,1,"Rural, AL",1142,alabama-rural
+13,2,"Honolulu, HI",264,hawaii-honolulu
+14,2,"Rural, HI",115,hawaii-rural
+15,3,"Barnstable, MA",89,massachusetts-barnstable
+16,3,"Boston, MA",775,massachusetts-boston
+17,3,"Pittsfield, MA",56,massachusetts-pittsfield
+18,3,"Springfield, MA",263,massachusetts-springfield
+19,3,"Rural, MA",275,massachusetts-rural
+20,4,"Albuquerque, NM",198,new_mexico-albuquerque
+21,4,"Las Cruces, NM",58,new_mexico-las_cruces
+22,4,"Santa Fe, NM",53,new_mexico-santa_fe
+23,4,"Rural, NM",456,new_mexico-rural
+24,5,"Rapid City, SD",77,south_dakota-rapid_city
+25,5,"Sioux Falls, SD",151,south_dakota-sioux_falls
+26,5,"Rural, SD",585,south_dakota-rural
+27,6,"Anchorage, AK",159,alaska-anchorage
+28,6,"Rural, AK",227,alaska-rural
+29,7,"Boise, ID",202,idaho-boise
+30,7,"Pocatello, ID",31,idaho-pocatello
+31,7,"Rural, ID",325,idaho-rural
+32,8,"Benton Harbor, MI",203,michigan-benton_harbor
+33,8,"Detroit, MI",1720,michigan-detroit
+34,8,"Grand Rapids, MI",726,michigan-grand_rapids
+35,8,"Jackson, MI",313,michigan-jackson
+36,8,"Kalamazoo, MI",391,michigan-kalamazoo
+37,8,"Lansing, MI",292,michigan-lansing
+38,8,"Saginaw, MI",480,michigan-saginaw
+39,8,"Rural, MI",2117,michigan-rural
+40,9,"Albany, NY",302,new_york-albany
+41,9,"Binghamton, NY",175,new_york-binghamton
+42,9,"Buffalo, NY",577,new_york-buffalo
+43,9,"Elmira, NY",154,new_york-elmira
+44,9,"Glens Falls, NY",78,new_york-glens_falls
+45,9,"Jamestown, NY",148,new_york-jamestown
+46,9,"Long Island, NY",1060,new_york-long_island
+47,9,"New York, NY",1041,new_york-new_york
+48,9,"Rochester, NY",444,new_york-rochester
+49,9,"Syracuse, NY",370,new_york-syracuse
+50,9,"Utica, NY",172,new_york-utica
+51,9,"Rural, NY",1339,new_york-rural
+52,10,"Johnson City, TN",632,tennessee-johnson_city
+53,10,"Chattanooga, TN",784,tennessee-chattanooga
+54,10,"Clarksville, TN",239,tennessee-clarksville
+55,10,"Jackson, TN",360,tennessee-jackson
+56,10,"Knoxville, TN",914,tennessee-knoxville
+57,10,"Memphis, TN",1179,tennessee-memphis
+58,10,"Nashville, TN",1017,tennessee-nashville
+59,10,"Rural, TN",1855,tennessee-rural
+60,11,"Phoenix, AZ",1015,arizona-phoenix
+61,11,"Flagstaff, AZ",58,arizona-flagstaff
+62,11,"Tucson, AZ",296,arizona-tucson
+63,11,"Yuma, AZ",60,arizona-yuma
+64,11,"Rural, AZ",434,arizona-rural
+65,12,"Bloomington, IL",159,illinois-bloomington
+66,12,"Champaign, IL",189,illinois-champaign
+67,12,"Chicago, IL",2368,illinois-chicago
+68,12,"Decatur, IL",174,illinois-decatur
+69,12,"Peoria, IL",364,illinois-peoria
+70,12,"Rockford, IL",330,illinois-rockford
+71,12,"Springfield, IL",205,illinois-springfield
+72,12,"Rural, IL",2483,illinois-rural
+73,13,"Duluth, MN",159,minnesota-duluth
+74,13,"Minneapolis, MN",884,minnesota-minneapolis
+75,13,"Rochester, MN",190,minnesota-rochester
+76,13,"St. Cloud, MN",100,minnesota-st_cloud
+77,13,"Rural, MN",1441,minnesota-rural
+78,14,"Jacksonville, NC",275,north_carolina-jacksonville
+79,14,"Asheville, NC",497,north_carolina-asheville
+80,14,"Charlotte, NC",1292,north_carolina-charlotte
+81,14,"Fayetteville, NC",689,north_carolina-fayetteville
+82,14,"Goldsboro, NC",396,north_carolina-goldsboro
+84,14,"Greenville, NC",308,north_carolina-greenville
+85,14,"Hickory, NC",896,north_carolina-hickory
+86,14,"Raleigh, NC",1047,north_carolina-raleigh
+87,14,"Rocky Mount, NC",273,north_carolina-rocky_mount
+88,14,"Wilmington, NC",317,north_carolina-wilmington
+89,14,"Rural, NC",1617,north_carolina-rural
+90,15,"Corpus Christi, TX",217,texas-corpus_christi
+91,15,"El Paso, TX",187,texas-el_paso
+92,15,"Fort Worth, TX",1028,texas-fort_worth
+93,15,"San Angelo, TX",82,texas-san_angelo
+94,15,"San Antonio, TX",539,texas-san_antonio
+95,15,"Wichita Falls, TX",166,texas-wichita_falls
+96,15,"Dallas, TX",1458,texas-dallas
+97,15,"Abilene, TX",258,texas-abilene
+98,15,"Amarillo, TX",210,texas-amarillo
+99,15,"Austin, TX",550,texas-austin
+100,15,"Beaumont, TX",459,texas-beaumont
+101,15,"Brownsville, TX",79,texas-brownsville
+102,15,"Bryan, TX",166,texas-bryan
+103,15,"Houston, TX",1719,texas-houston
+104,15,"Killeen, TX",260,texas-killeen
+105,15,"Laredo, TX",38,texas-laredo
+106,15,"Longview, TX",299,texas-longview
+107,15,"Lubbock, TX",215,texas-lubbock
+108,15,"McAllen, TX",88,texas-mcallen
+109,15,"Odessa, TX",173,texas-odessa
+110,15,"Sherman, TX",252,texas-sherman
+111,15,"Texarkana, TX",271,texas-texarkana
+112,15,"Tyler, TX",374,texas-tyler
+113,15,"Victoria, TX",139,texas-victoria
+114,15,"Waco, TX",222,texas-waco
+115,15,"Rural, TX",2794,texas-rural
+116,16,"Fayetteville, AR",260,arkansas-fayetteville
+117,16,"Fort Smith, AR",217,arkansas-fort_smith
+118,16,"Jonesboro, AR",210,arkansas-jonesboro
+119,16,"Little Rock, AR",590,arkansas-little_rock
+120,16,"Pine Bluff, AR",222,arkansas-pine_bluff
+121,16,"Rural, AR",1301,arkansas-rural
+122,17,"Bloomington, IN",328,indiana-bloomington
+123,17,"Elkhart, IN",283,indiana-elkhart
+124,17,"Evansville, IN",310,indiana-evansville
+125,17,"Fort Wayne, IN",488,indiana-fort_wayne
+126,17,"Indianapolis, IN",1058,indiana-indianapolis
+127,17,"Kokomo, IN",307,indiana-kokomo
+128,17,"Lafayette, IN",195,indiana-lafayette
+129,17,"Muncie, IN",573,indiana-muncie
+130,17,"South Bend, IN",323,indiana-south_bend
+131,17,"Terre Haute, IN",241,indiana-terre_haute
+132,17,"Rural, IN",1030,indiana-rural
+133,18,"Biloxi, MS",285,mississippi-biloxi
+134,18,"Hattiesburg, MS",275,mississippi-hattiesburg
+135,18,"Jackson, MS",539,mississippi-jackson
+136,18,"Rural, MS",1521,mississippi-rural
+137,19,"Bismarck, ND",80,north_dakota-bismarck
+138,19,"Fargo, ND",161,north_dakota-fargo
+139,19,"Grand Forks, ND",94,north_dakota-grand_forks
+140,19,"Rural, ND",632,north_dakota-rural
+141,20,"Salt Lake City, UT",165,utah-salt_lake_city
+142,20,"Provo, UT",25,utah-provo
+143,20,"Rural, UT",105,utah-rural
+144,21,"Orange County, CA",1047,california-orange_county
+145,21,"San Diego, CA",695,california-san_diego
+146,21,"Sacramento, CA",526,california-sacramento
+147,21,"Los Angeles, CA",1875,california-los_angeles
+148,21,"Bay Area, CA",1377,california-bay_area
+149,21,"Bakersfield, CA",216,california-bakersfield
+150,21,"Chico, CA",97,california-chico
+151,21,"Fresno, CA",321,california-fresno
+152,21,"Merced, CA",139,california-merced
+153,21,"Modesto, CA",197,california-modesto
+154,21,"Redding, CA",98,california-redding
+155,21,"Riverside, CA",204,california-riverside
+156,21,"Salinas, CA",148,california-salinas
+157,21,"San Luis Obispo, CA",131,california-san_luis_obispo
+158,21,"Santa Barbara, CA",72,california-santa_barbara
+159,21,"Stockton, CA",259,california-stockton
+160,21,"Visalia, CA",290,california-visalia
+161,21,"Yuba City, CA",100,california-yuba_city
+162,21,"Rural, CA",2257,california-rural
+163,22,"Cedar Rapids, IA",109,iowa-cedar_rapids
+164,22,"Davenport, IA",267,iowa-davenport
+165,22,"Des Moines, IA",209,iowa-des_moines
+166,22,"Dubuque, IA",115,iowa-dubuque
+167,22,"Iowa City, IA",39,iowa-iowa_city
+168,22,"Sioux City, IA",108,iowa-sioux_city
+169,22,"Waterloo, IA",99,iowa-waterloo
+170,22,"Rural, IA",265,iowa-rural
+171,23,"Columbia, MO",293,missouri-columbia
+172,23,"Joplin, MO",211,missouri-joplin
+173,23,"Kansas City, MO",1088,missouri-kansas_city
+174,23,"Springfield, MO",388,missouri-springfield
+175,23,"St. Joseph, MO",66,missouri-st_joseph
+176,23,"St. Louis, MO",735,missouri-st_louis
+177,23,"Rural, MO",1852,missouri-rural
+178,24,"Canton, OH",722,ohio-canton
+179,24,"Cincinnati, OH",815,ohio-cincinnati
+180,24,"Cleveland, OH",1058,ohio-cleveland
+181,24,"Columbus, OH",813,ohio-columbus
+182,24,"Dayton, OH",789,ohio-dayton
+183,24,"Lima, OH",296,ohio-lima
+184,24,"Mansfield, OH",495,ohio-mansfield
+185,24,"Steubenville, OH",192,ohio-steubenville
+186,24,"Toledo, OH",537,ohio-toledo
+187,24,"Youngstown, OH",466,ohio-youngstown
+188,24,"Rural, OH",1360,ohio-rural
+189,25,"Burlington, VT",95,vermont-burlington
+190,25,"Rural, VT",145,vermont-rural
+191,26,"Colorado Springs, CO",309,colorado-colorado_springs
+192,26,"Denver, CO",918,colorado-denver
+193,26,"Fort Collins, CO",215,colorado-fort_collins
+194,26,"Grand Junction, CO",77,colorado-grand_junction
+195,26,"Pueblo, CO",87,colorado-pueblo
+196,26,"Rural, CO",478,colorado-rural
+197,27,"Lawrence, KS",100,kansas-lawrence
+198,27,"Topeka, KS",178,kansas-topeka
+199,27,"Wichita, KS",434,kansas-wichita
+200,27,"Rural, KS",1197,kansas-rural
+201,28,"Billings, MT",74,montana-billings
+202,28,"Great Falls, MT",43,montana-great_falls
+203,28,"Missoula, MT",50,montana-missoula
+204,28,"Rural, MT",305,montana-rural
+205,29,"Oklahoma City, OK",833,oklahoma-oklahoma_city
+206,29,"Enid, OK",91,oklahoma-enid
+207,29,"Lawton, OK",146,oklahoma-lawton
+208,29,"Tulsa, OK",554,oklahoma-tulsa
+209,29,"Rural, OK",1413,oklahoma-rural
+210,30,"Charlottesville, VA",97,virginia-charlottesville
+211,30,"Danville, VA",241,virginia-danville
+212,30,"Lynchburg, VA",167,virginia-lynchburg
+213,30,"Norfolk, VA",173,virginia-norfolk
+214,30,"Richmond, VA",372,virginia-richmond
+215,30,"Roanoke, VA",178,virginia-roanoke
+216,30,"Rural, VA",449,virginia-rural
+217,31,"Hartford, CT",393,connecticut-hartford
+218,31,"New London, CT",206,connecticut-new_london
+219,31,"Rural, CT",423,connecticut-rural
+220,32,"Lexington, KY",376,kentucky-lexington
+221,32,"Louisville, KY",785,kentucky-louisville
+222,32,"Owensboro, KY",159,kentucky-owensboro
+223,32,"Rural, KY",810,kentucky-rural
+224,33,"Lincoln, NE",224,nebraska-lincoln
+225,33,"Omaha, NE",431,nebraska-omaha
+226,33,"Rural, NE",1181,nebraska-rural
+227,34,"Corvallis, OR",274,oregon-corvallis
+228,34,"Eugene, OR",143,oregon-eugene
+229,34,"Medford, OR",130,oregon-medford
+230,34,"Portland, OR",882,oregon-portland
+231,34,"Rural, OR",658,oregon-rural
+232,35,"Bellingham, WA",229,washington-bellingham
+233,35,"Richland, WA",89,washington-richland
+234,35,"Seattle, WA",1240,washington-seattle
+235,35,"Spokane, WA",233,washington-spokane
+236,35,"Yakima, WA",100,washington-yakima
+237,35,"Rural, WA",739,washington-rural
+238,36,"Dover, DE",224,delaware-dover
+239,36,"Rural, DE",144,delaware-rural
+240,37,"Alexandria, LA",296,louisiana-alexandria
+241,37,"Baton Rouge, LA",652,louisiana-baton_rouge
+242,37,"Houma, LA",190,louisiana-houma
+243,37,"Lafayette, LA",276,louisiana-lafayette
+244,37,"Lake Charles, LA",228,louisiana-lake_charles
+245,37,"Monroe, LA",458,louisiana-monroe
+246,37,"New Orleans, LA",860,louisiana-new_orleans
+247,37,"Shreveport, LA",546,louisiana-shreveport
+248,37,"Rural, LA",1171,louisiana-rural
+249,38,"Las Vegas, NV",273,nevada-las_vegas
+250,38,"Reno, NV",139,nevada-reno
+251,38,"Rural, NV",99,nevada-rural
+252,39,"State College, PA",159,pennsylvania-state_college
+253,39,"Allentown, PA",584,pennsylvania-allentown
+254,39,"Altoona, PA",163,pennsylvania-altoona
+255,39,"Erie, PA",202,pennsylvania-erie
+256,39,"Harrisburg, PA",496,pennsylvania-harrisburg
+257,39,"Johnstown, PA",260,pennsylvania-johnstown
+258,39,"Lancaster, PA",433,pennsylvania-lancaster
+259,39,"Philadelphia, PA",2102,pennsylvania-philadelphia
+260,39,"Pittsburgh, PA",1169,pennsylvania-pittsburgh
+261,39,"Reading, PA",386,pennsylvania-reading
+262,39,"Scranton, PA",284,pennsylvania-scranton
+263,39,"Sharon, PA",250,pennsylvania-sharon
+264,39,"Williamsport, PA",150,pennsylvania-williamsport
+265,39,"York, PA",429,pennsylvania-york
+266,39,"Rural, PA",1082,pennsylvania-rural
+267,41,"Daytona Beach, FL",237,florida-daytona_beach
+268,41,"Fort Lauderdale, FL",621,florida-fort_lauderdale
+269,41,"Fort Meyers, FL",83,florida-fort_meyers
+270,41,"Fort Pierce, FL",242,florida-fort_pierce
+271,41,"Fort Walton Beach, FL",192,florida-fort_walton_beach
+272,41,"Gainesville, FL",274,florida-gainesville
+273,41,"Jacksonville, FL",856,florida-jacksonville
+274,41,"Lakeland, FL",544,florida-lakeland
+275,41,"Melbourne, FL",201,florida-melbourne
+276,41,"Miami, FL",658,florida-miami
+277,41,"Naples, FL",89,florida-naples
+278,41,"Ocala, FL",357,florida-ocala
+279,41,"Orlando, FL",772,florida-orlando
+280,41,"Palm Beach, FL",276,florida-palm_beach
+281,41,"Panama City, FL",215,florida-panama_city
+282,41,"Pensacola, FL",419,florida-pensacola
+283,41,"Punta Gorda, FL",94,florida-punta_gorda
+284,41,"Sarasota, FL",264,florida-sarasota
+285,41,"Tallahassee, FL",319,florida-tallahassee
+286,41,"Tampa, FL",826,florida-tampa
+287,41,"Rural, FL",1131,florida-rural
+288,42,"Bangor, ME",67,maine-bangor
+289,42,"Lewiston, ME",90,maine-lewiston
+290,42,"Portland, ME",114,maine-portland
+291,42,"Rural, ME",186,maine-rural
+292,43,"Rural, NH",409,new_hampshire-rural
+293,44,"Providence, RI",644,rhode_island-providence
+294,44,"Rural, RI",2,rhode_island-rural
+295,45,"Eau Claire, WI",128,wisconsin-eau_claire
+296,45,"Green Bay, WI",107,wisconsin-green_bay
+297,45,"La Crosse, WI",191,wisconsin-la_crosse
+298,45,"Appleton, WI",211,wisconsin-appleton
+299,45,"Janesville, WI",216,wisconsin-janesville
+300,45,"Madison, WI",260,wisconsin-madison
+301,45,"Milwaukee, WI",1044,wisconsin-milwaukee
+302,45,"Sheboygan, WI",191,wisconsin-sheboygan
+303,45,"Wausau, WI",173,wisconsin-wausau
+304,45,"Rural, WI",1251,wisconsin-rural
+305,46,"Albany, GA",189,georgia-albany
+306,46,"Athens, GA",342,georgia-athens
+307,46,"Atlanta, GA",1162,georgia-atlanta
+308,46,"Augusta, GA",516,georgia-augusta
+309,46,"Columbus, GA",272,georgia-columbus
+310,46,"Macon, GA",334,georgia-macon
+311,46,"Savannah, GA",341,georgia-savannah
+312,46,"Rural, GA",1955,georgia-rural
+313,47,"Baltimore, MD",1407,maryland-baltimore
+314,47,"Cumberland, MD",176,maryland-cumberland
+315,47,"Rural, MD",913,maryland-rural
+316,48,"Newark, NJ",1247,new_jersey-newark
+317,48,"Rural, NJ",564,new_jersey-rural
+318,49,"Charleston, SC",349,south_carolina-charleston
+319,49,"Columbia, SC",639,south_carolina-columbia
+320,49,"Florence, SC",426,south_carolina-florence
+321,49,"Greenville, SC",924,south_carolina-greenville
+322,49,"Myrtle Beach, SC",215,south_carolina-myrtle_beach
+323,49,"Sumter, SC",206,south_carolina-sumter
+324,49,"Rural, SC",1251,south_carolina-rural
+325,50,"Casper, WY",45,wyoming-casper
+326,50,"Cheyenne, WY",59,wyoming-cheyenne
+327,50,"Rural, WY",233,wyoming-rural
