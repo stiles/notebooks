@@ -1,0 +1,21 @@
+name,rsa,case_rate_per_100k_mid-november,case_rate_per_100k_mid-january,pct_change,rank_lower_is_better
+Playa Del Rey,Westside,250.31,187.73,-25.0,1.0
+Palisades Highlands,Westside,104.0,130.01,25.01,2.0
+West Hollywood,Central L.A.,211.09,308.52,46.16,3.0
+Agua Dulce,Northwest County,240.5,408.85,70.0,4.0
+Malibu,Santa Monica Mountains,100.3,208.32,107.7,5.0
+Del Aire,South Bay,91.05,227.63,150.01,6.0
+East Pasadena,San Gabriel Valley,46.85,124.94,166.68,7.0
+Encino,San Fernando Valley,172.67,464.89,169.24,8.0
+Hollywood Hills,Central L.A.,139.29,397.5,185.38,9.0
+Rancho Park,Westside,106.71,304.88,185.71,10.0
+Brentwood,Westside,125.99,377.97,200.0,12.0
+Venice,Westside,103.29,309.87,200.0,12.0
+Santa Monica,Westside,128.72,390.5,203.37,13.0
+Sierra Madre,San Gabriel Valley,81.9,254.8,211.11,14.0
+Tarzana,San Fernando Valley,242.91,796.74,228.0,15.0
+Del Rey,Westside,136.96,454.3,231.7,16.0
+Los Feliz,Central L.A.,106.44,360.98,239.14,17.0
+Rolling Hills Estates,South Bay,61.63,209.54,240.0,18.0
+Downtown,Central L.A.,269.02,941.58,250.0,19.0
+San Gabriel,San Gabriel Valley,217.32,764.27,251.68,20.0
