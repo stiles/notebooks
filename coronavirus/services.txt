@@ -1,1 +1,0 @@
-https://services9.arcgis.com/6Hv9AANartyT7fJW/ArcGIS/rest/services/USCounties_cases_V1/FeatureServer/2|Esri_USsummary_time|100
