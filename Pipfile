@@ -24,6 +24,7 @@ earthpy = "*"
 contextily = "*"
 slugify = "*"
 nltk = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
