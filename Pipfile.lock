@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2c60e5cf1991d2d5c49ba4b5655a0d1ae40b0ff4949a8732b1b800c4ec6aa645"
+            "sha256": "671fd28e793d805118ab4047725f9770b1706fbbe30fe561b0514f666afaa5a6"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -188,6 +188,13 @@
             "index": "pypi",
             "version": "==0.1.16"
         },
+        "cssselect": {
+            "hashes": [
+                "sha256:f612ee47b749c877ebae5bb77035d8f4202c6ad0f0fc1271b3c18ad6c4468ecf",
+                "sha256:f95f8dedd925fd8f54edb3d2dfb44c190d9d18512377d3c1e2388d16126879bc"
+            ],
+            "version": "==1.1.0"
+        },
         "cycler": {
             "hashes": [
                 "sha256:1d8a5ae1ff6c5cf9b93e8811e581232ad8920aeec647c37316ceac982b08cb2d",
@@ -333,18 +340,18 @@
         },
         "importlib-metadata": {
             "hashes": [
-                "sha256:1cedf994a9b6885dcbb7ed40b24c332b1de3956319f4b1a0f07c0621d453accc",
-                "sha256:c9c1b6c7dbc62084f3e6a614a194eb16ded7947736c18e3300125d5c0a7a8b3c"
+                "sha256:c9db46394197244adf2f0b08ec5bc3cf16757e9590b02af1fca085c16c0d600a",
+                "sha256:d2d46ef77ffc85cbf7dac7e81dd663fde71c45326131bea8033b9bad42268ebe"
             ],
             "markers": "python_version < '3.8'",
-            "version": "==3.9.1"
+            "version": "==3.10.0"
         },
         "ipykernel": {
             "hashes": [
-                "sha256:319f6aea97bae081630a26672045a5ae12f4d48c54e4414994c685705846fc43",
-                "sha256:c234c8d23d8bacce76d00380a4730986975fd10a0bd45777bac9f843453b665d"
+                "sha256:98321abefdf0505fb3dc7601f60fc4087364d394bd8fad53107eb1adee9ff475",
+                "sha256:efd07253b54d84d26e0878d268c8c3a41582a18750da633c2febfd2ece0d467d"
             ],
-            "version": "==5.5.2"
+            "version": "==5.5.0"
         },
         "ipython": {
             "hashes": [
@@ -932,6 +939,13 @@
             ],
             "version": "==3.0.1"
         },
+        "pyquery": {
+            "hashes": [
+                "sha256:1fc33b7699455ed25c75282bc8f80ace1ac078b0dda5a933dacbd8b1c1f83963",
+                "sha256:a388eefb6bc4a55350de0316fbd97cda999ae669b6743ae5b99102ba54f5aa72"
+            ],
+            "version": "==1.4.3"
+        },
         "pyrsistent": {
             "hashes": [
                 "sha256:2e636185d9eb976a18a8a8e96efce62f2905fea90041958d8cc2a189756ebf3e"
@@ -1223,6 +1237,13 @@
                 "sha256:988dde5d4db88e9d71c99457404773dabcc7a1c45971bfbe81900999942d9f07"
             ],
             "version": "==1.4.7"
+        },
+        "sportsipy": {
+            "hashes": [
+                "sha256:6c6ab7c7340cbe3221ef995f9bf9ad760b84c3ae0af14939d5b6f36c96dc59e9"
+            ],
+            "index": "pypi",
+            "version": "==0.6.0"
         },
         "tabula-py": {
             "hashes": [

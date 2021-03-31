@@ -25,6 +25,7 @@ contextily = "*"
 slugify = "*"
 nltk = "*"
 pillow = "*"
+sportsipy = "*"
 
 [requires]
 python_version = "3.7"
