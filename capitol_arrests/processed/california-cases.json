@@ -6,12 +6,14 @@
     "associated_documents":"Allan, Tommy - Complaint & Statement of Facts  Allan - Indictment",
     "case_status":"Arrested 1\/22\/21 in the Eastern District of California",
     "entry_last_updated":"February 10, 2021",
-    "links":[
-      "\/opa\/case-multi-defendant\/file\/1360801\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1366031\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/case-multi-defendant\/file\/1360801\/download",
+    "link_1":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1366031\/download",
+    "link_2":"",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-36",
@@ -20,13 +22,14 @@
     "associated_documents":"Bisignano - Statement of Facts  Bisignano - Complaint  Bisignano, Gina - Indictment",
     "case_status":"Arrested 1\/19\/21 in the Central District of California Ordered detained. Indicted 1\/29\/21.",
     "entry_last_updated":"February 4, 2021",
-    "links":[
-      "\/opa\/page\/file\/1356556\/download",
-      "\/opa\/page\/file\/1356561\/download",
-      "\/opa\/page\/file\/1362886\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1356556\/download",
+    "link_1":"https:\/\/www.justice.gov\/opa\/page\/file\/1356561\/download",
+    "link_2":"https:\/\/www.justice.gov\/opa\/page\/file\/1362886\/download",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-mj-277",
@@ -35,12 +38,14 @@
     "associated_documents":"Cordon & Cordon - Statement of Facts  Cordon & Cordon - Complaint",
     "case_status":"Arrested on 03\/09\/2021 in Alhambra, California",
     "entry_last_updated":"March 22, 2021",
-    "links":[
-      "\/usao-dc\/case-multi-defendant\/file\/1378576\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1378581\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":"Alhambra"
+    "location_of_arrest_other":"Alhambra",
+    "link_0":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1378576\/download",
+    "link_1":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1378581\/download",
+    "link_2":"",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-29",
@@ -49,13 +54,14 @@
     "associated_documents":"Ehmke - Complaint  Ehmke - Statement of Facts  Ehmke - Indictment",
     "case_status":"Arrested 1\/13\/21 in California. Initial Appearance in federal court in the Central District of California 1\/14\/21 at 1pm PST. Defendant was released on bond with home detention and electronic home monitoring. Initial appearance in federal court in the District of Columbia scheduled for 1\/21\/21 at 1pm EST.",
     "entry_last_updated":"February 4, 2021",
-    "links":[
-      "\/opa\/page\/file\/1353886\/download",
-      "\/opa\/page\/file\/1353881\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1364761\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1353886\/download",
+    "link_1":"https:\/\/www.justice.gov\/opa\/page\/file\/1353881\/download",
+    "link_2":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1364761\/download",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-97",
@@ -64,13 +70,14 @@
     "associated_documents":"Ehrke - Complaint  Ehrke - Statement of Facts  Ehrke - Indictment",
     "case_status":"Arrested 1\/19\/21 in the Eastern District of California",
     "entry_last_updated":"February 10, 2021",
-    "links":[
-      "\/opa\/page\/file\/1356641\/download",
-      "\/opa\/page\/file\/1356646\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1366076\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1356641\/download",
+    "link_1":"https:\/\/www.justice.gov\/opa\/page\/file\/1356646\/download",
+    "link_2":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1366076\/download",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-85",
@@ -79,13 +86,14 @@
     "associated_documents":"Strand Gold - Affidavit  Strand Gold - Complaint  Strand Gold - Indictment",
     "case_status":"Arrested 1\/18\/21 in the Central District of California Released on conditions. Virtual hearing in federal court in the District of Columbia on 1\/21\/21 at 1:00pm.",
     "entry_last_updated":"February 8, 2021",
-    "links":[
-      "\/opa\/page\/file\/1356546\/download",
-      "\/opa\/page\/file\/1356551\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1365386\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1356546\/download",
+    "link_1":"https:\/\/www.justice.gov\/opa\/page\/file\/1356551\/download",
+    "link_2":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365386\/download",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-100",
@@ -94,12 +102,14 @@
     "associated_documents":"Lewis, Jacob - Complaint & Statement of Facts  Lewis - Indictment",
     "case_status":"Arrested 1\/27\/2021 in the Central District of California. Initial appearance 1\/27\/21 at 2:00pm PST. Released on conditions. Virtual initial appearance in federal court in the District of Columbia on 2\/10\/21 at 1:00pm",
     "entry_last_updated":"February 10, 2021",
-    "links":[
-      "\/opa\/page\/file\/1361031\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1366096\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1361031\/download",
+    "link_1":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1366096\/download",
+    "link_2":"",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-69",
@@ -108,13 +118,14 @@
     "associated_documents":"Riley - Statement of Facts  Riley - Complaint  Riley - Indictment",
     "case_status":"Arrested 1\/19\/21 in the Eastern District of California",
     "entry_last_updated":"February 10, 2021",
-    "links":[
-      "\/opa\/page\/file\/1357041\/download",
-      "\/opa\/page\/file\/1357046\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1366116\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1357041\/download",
+    "link_1":"https:\/\/www.justice.gov\/opa\/page\/file\/1357046\/download",
+    "link_2":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1366116\/download",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-157",
@@ -123,12 +134,14 @@
     "associated_documents":"Secor Christian Complaint  Secor - Indictment",
     "case_status":"Arrested 2\/16\/21 in the Central District of California",
     "entry_last_updated":"March 24, 2021",
-    "links":[
-      "\/usao-dc\/case-multi-defendant\/file\/1367791\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1371371\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1367791\/download",
+    "link_1":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371371\/download",
+    "link_2":"",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-67",
@@ -137,12 +150,14 @@
     "associated_documents":"Simon, Mark - Complaint & Affidavit  Simon - Information",
     "case_status":"Arrested 1\/28\/21 in the Central District of California. Initial appearance 1\/28\/21 at 2:00pm PST in the Central District of California. Released on bond. Next hearing (virtual) on 2\/3\/21 in federal court in the District of Columbia.",
     "entry_last_updated":"March 19, 2021",
-    "links":[
-      "\/opa\/page\/file\/1361286\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1377806\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1361286\/download",
+    "link_1":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1377806\/download",
+    "link_2":"",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-mj-157",
@@ -151,11 +166,14 @@
     "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts",
     "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
     "entry_last_updated":"February 4, 2021",
-    "links":[
-      "\/opa\/page\/file\/1361426\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+    "link_1":"",
+    "link_2":"",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-85",
@@ -164,13 +182,14 @@
     "associated_documents":"Strand Gold - Affidavit  Strand Gold - Complaint  Strand Gold - Indictment",
     "case_status":"Arrested 1\/18\/21 in the Central District of California Released on conditions.",
     "entry_last_updated":"February 8, 2021",
-    "links":[
-      "\/opa\/page\/file\/1356546\/download",
-      "\/opa\/page\/file\/1356551\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1365386\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1356546\/download",
+    "link_1":"https:\/\/www.justice.gov\/opa\/page\/file\/1356551\/download",
+    "link_2":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365386\/download",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   },
   {
     "case_number":"1:21-cr-114",
@@ -179,11 +198,13 @@
     "associated_documents":"Strong, Kevin - Complaint & Statement of Facts  Strong - Information",
     "case_status":"Arrested 1\/22\/21 in the Central District of California",
     "entry_last_updated":"March 25, 2021",
-    "links":[
-      "\/opa\/page\/file\/1359586\/download",
-      "\/usao-dc\/case-multi-defendant\/file\/1371671\/download"
-    ],
     "location_of_arrest_state":"California",
-    "location_of_arrest_other":null
+    "location_of_arrest_other":null,
+    "link_0":"https:\/\/www.justice.gov\/opa\/page\/file\/1359586\/download",
+    "link_1":"https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371671\/download",
+    "link_2":"",
+    "link_3":"",
+    "link_4":"",
+    "link_5":""
   }
 ]
