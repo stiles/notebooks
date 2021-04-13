@@ -983,37 +983,75 @@
     ]
   },
   {
-    "case_number":"1:21-mj-157",
+    "case_number":"1:21-cr-290",
     "arrest_date":"1\/27\/21",
     "fullname":"SMITH, Jeffrey Alexander, (aka, Alex Smith)",
     "first_name":"Jeffrey",
     "middle_name":"Alexander",
     "last_name":"Smith",
-    "charge":"VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "charge":"VIOLENT ENTRY AND DISORDERLY CONDUCT IN A CAPITOL BUILDING",
     "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"California",
     "location_of_arrest_other":null,
-    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts",
+    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts  Smith - Information",
     "links":[
-      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download"
+      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386296\/download"
     ]
   },
   {
-    "case_number":"1:21-mj-157",
+    "case_number":"1:21-cr-290",
     "arrest_date":"1\/27\/21",
     "fullname":"SMITH, Jeffrey Alexander, (aka, Alex Smith)",
     "first_name":"Jeffrey",
     "middle_name":"Alexander",
     "last_name":"Smith",
-    "charge":" KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY",
+    "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
     "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"California",
     "location_of_arrest_other":null,
-    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts",
+    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts  Smith - Information",
     "links":[
-      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download"
+      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386296\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-290",
+    "arrest_date":"1\/27\/21",
+    "fullname":"SMITH, Jeffrey Alexander, (aka, Alex Smith)",
+    "first_name":"Jeffrey",
+    "middle_name":"Alexander",
+    "last_name":"Smith",
+    "charge":" ENTERING AND REMAINING IN A RESTRICTED BUILDING",
+    "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"California",
+    "location_of_arrest_other":null,
+    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts  Smith - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386296\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-290",
+    "arrest_date":"1\/27\/21",
+    "fullname":"SMITH, Jeffrey Alexander, (aka, Alex Smith)",
+    "first_name":"Jeffrey",
+    "middle_name":"Alexander",
+    "last_name":"Smith",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING",
+    "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"California",
+    "location_of_arrest_other":null,
+    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts  Smith - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386296\/download"
     ]
   },
   {

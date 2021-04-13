@@ -2543,6 +2543,78 @@
     ]
   },
   {
+    "case_number":"1:21-cr-282",
+    "arrest_date":"",
+    "fullname":"BISHAI, Elliot",
+    "first_name":"Elliot",
+    "middle_name":null,
+    "last_name":"Bishai",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING OR GROUNDS",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386286\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386291\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-282",
+    "arrest_date":"",
+    "fullname":"BISHAI, Elliot",
+    "first_name":"Elliot",
+    "middle_name":null,
+    "last_name":"Bishai",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386286\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386291\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-282",
+    "arrest_date":"",
+    "fullname":"BISHAI, Elliot",
+    "first_name":"Elliot",
+    "middle_name":null,
+    "last_name":"Bishai",
+    "charge":" DISORDERLY CONDUCT IN A CAPITOL BUILDING",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386286\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386291\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-282",
+    "arrest_date":"",
+    "fullname":"BISHAI, Elliot",
+    "first_name":"Elliot",
+    "middle_name":null,
+    "last_name":"Bishai",
+    "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386286\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386291\/download"
+    ]
+  },
+  {
     "case_number":"1:21-cr-36",
     "arrest_date":"1\/19\/21",
     "fullname":"BISIGNANO, Gina Michelle",
@@ -6451,31 +6523,15 @@
     "first_name":"Bruno",
     "middle_name":"Joseph",
     "last_name":"Cua",
-    "charge":"ASSAULT ON A FEDERAL OFFICER",
+    "charge":"CIVIL DISORDER",
     "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
-    "entry_last_updated":"March 19, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"Georgia",
     "location_of_arrest_other":null,
-    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts",
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
     "links":[
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download"
-    ]
-  },
-  {
-    "case_number":"1:21-cr-107",
-    "arrest_date":"2\/6\/21",
-    "fullname":"CUA, Bruno Joseph",
-    "first_name":"Bruno",
-    "middle_name":"Joseph",
-    "last_name":"Cua",
-    "charge":"\u00a0CIVIL DISORDER",
-    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
-    "entry_last_updated":"March 19, 2021",
-    "location_of_arrest_state":"Georgia",
-    "location_of_arrest_other":null,
-    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts",
-    "links":[
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
     ]
   },
   {
@@ -6487,12 +6543,13 @@
     "last_name":"Cua",
     "charge":" OBSTRUCTION OF AN OFFICIAL PROCEEDING",
     "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
-    "entry_last_updated":"March 19, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"Georgia",
     "location_of_arrest_other":null,
-    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts",
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
     "links":[
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
     ]
   },
   {
@@ -6502,14 +6559,15 @@
     "first_name":"Bruno",
     "middle_name":"Joseph",
     "last_name":"Cua",
-    "charge":" RESTRICTED BUILDING OR GROUNDS",
+    "charge":" ASSAULTING, RESISTING, OR IMPEDING CERTAIN OFFICERS",
     "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
-    "entry_last_updated":"March 19, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"Georgia",
     "location_of_arrest_other":null,
-    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts",
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
     "links":[
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
     ]
   },
   {
@@ -6519,14 +6577,159 @@
     "first_name":"Bruno",
     "middle_name":"Joseph",
     "last_name":"Cua",
-    "charge":" ENTER OR REMAIN ON THE FLOOR OR GALLERY OF EITHER HOUSE OF CONGRESS, VIOLENT ENTRY OR DISORDERLY CONDUCT, ENGAGE IN PHYSICAL VIOLENCE, OBSTRUCT, OR IMPEDE PASSAGE, AND PARADE, DEMONSTRATE, OR PICKET ON CAPITOL GROUNDS",
+    "charge":" ENTERING AND REMAINING IN A RESTRICTED BUILDING OR GROUNDS WITH A DEADLY OR DANGEROUS WEAPON",
     "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
-    "entry_last_updated":"March 19, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"Georgia",
     "location_of_arrest_other":null,
-    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts",
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
     "links":[
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-107",
+    "arrest_date":"2\/6\/21",
+    "fullname":"CUA, Bruno Joseph",
+    "first_name":"Bruno",
+    "middle_name":"Joseph",
+    "last_name":"Cua",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS WITH A DEADLY OR DANGEROUS WEAPON",
+    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Georgia",
+    "location_of_arrest_other":null,
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-107",
+    "arrest_date":"2\/6\/21",
+    "fullname":"CUA, Bruno Joseph",
+    "first_name":"Bruno",
+    "middle_name":"Joseph",
+    "last_name":"Cua",
+    "charge":" ENGAGING IN PHYSICAL VIOLENCE IN A RESTRICTED BUILDING OR GROUNDS WITH A DEADLY OR DANGEROUS WEAPON",
+    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Georgia",
+    "location_of_arrest_other":null,
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-107",
+    "arrest_date":"2\/6\/21",
+    "fullname":"CUA, Bruno Joseph",
+    "first_name":"Bruno",
+    "middle_name":"Joseph",
+    "last_name":"Cua",
+    "charge":" ENTERING AND REMAINING ON THE FLOOR OF CONGRESS",
+    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Georgia",
+    "location_of_arrest_other":null,
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-107",
+    "arrest_date":"2\/6\/21",
+    "fullname":"CUA, Bruno Joseph",
+    "first_name":"Bruno",
+    "middle_name":"Joseph",
+    "last_name":"Cua",
+    "charge":" ENTERING AND REMAINING IN THE GALLERY OF CONGRESS",
+    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Georgia",
+    "location_of_arrest_other":null,
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-107",
+    "arrest_date":"2\/6\/21",
+    "fullname":"CUA, Bruno Joseph",
+    "first_name":"Bruno",
+    "middle_name":"Joseph",
+    "last_name":"Cua",
+    "charge":" ENTERING AND REMAINING IN CERTAIN ROOMS IN THE CAPITOL BUILDING",
+    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Georgia",
+    "location_of_arrest_other":null,
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-107",
+    "arrest_date":"2\/6\/21",
+    "fullname":"CUA, Bruno Joseph",
+    "first_name":"Bruno",
+    "middle_name":"Joseph",
+    "last_name":"Cua",
+    "charge":" DISORDERLY CONDUCT IN A CAPITOL BUILDING",
+    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Georgia",
+    "location_of_arrest_other":null,
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-107",
+    "arrest_date":"2\/6\/21",
+    "fullname":"CUA, Bruno Joseph",
+    "first_name":"Bruno",
+    "middle_name":"Joseph",
+    "last_name":"Cua",
+    "charge":" ACT OF PHYSICAL VIOLENCE IN THE CAPITOL GROUNDS OR BUILDINGS",
+    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Georgia",
+    "location_of_arrest_other":null,
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-107",
+    "arrest_date":"2\/6\/21",
+    "fullname":"CUA, Bruno Joseph",
+    "first_name":"Bruno",
+    "middle_name":"Joseph",
+    "last_name":"Cua",
+    "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
+    "case_status":"Arrested 2\/6\/21 in the Northern District of Georgia",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Georgia",
+    "location_of_arrest_other":null,
+    "associated_documents":"Cua, Bruno - Complaint & Statement of Facts  Cua - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1365571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386276\/download"
     ]
   },
   {
@@ -11735,6 +11938,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-342",
+    "arrest_date":"04\/9",
+    "fullname":"HORN, Stephen Ethan",
+    "first_name":"Stephen",
+    "middle_name":"Ethan",
+    "last_name":"Horn",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY DISORDERLY AND DISRUPTIVE CONDUCT ON CAPITOL GROUNDS VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS PARADING, DEMONSTRATING OR PICETING IN A CAPITOL BUILDING",
+    "case_status":"Horn self-surrendered and had his first appearance in Raleigh on April 9, 2021. He was released on conditions.",
+    "entry_last_updated":"April 9, 2021",
+    "location_of_arrest_state":"North Carolina",
+    "location_of_arrest_other":null,
+    "associated_documents":"Horn Complaint  Horn Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385726\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385731\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-263",
     "arrest_date":"",
     "fullname":"HORNING, James Matthew",
@@ -12368,6 +12589,78 @@
     "links":[
       "https:\/\/www.justice.gov\/opa\/page\/file\/1357016\/download",
       "https:\/\/www.justice.gov\/opa\/page\/file\/1357021\/download"
+    ]
+  },
+  {
+    "case_number":null,
+    "arrest_date":"",
+    "fullname":"IRIZARRY, Elias",
+    "first_name":"Elias",
+    "middle_name":null,
+    "last_name":"Irizarry",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING OR GROUNDS",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386301\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386306\/download"
+    ]
+  },
+  {
+    "case_number":null,
+    "arrest_date":"",
+    "fullname":"IRIZARRY, Elias",
+    "first_name":"Elias",
+    "middle_name":null,
+    "last_name":"Irizarry",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386301\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386306\/download"
+    ]
+  },
+  {
+    "case_number":null,
+    "arrest_date":"",
+    "fullname":"IRIZARRY, Elias",
+    "first_name":"Elias",
+    "middle_name":null,
+    "last_name":"Irizarry",
+    "charge":" DISORDERLY CONDUCT IN A CAPITOL BUILDING",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386301\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386306\/download"
+    ]
+  },
+  {
+    "case_number":null,
+    "arrest_date":"",
+    "fullname":"IRIZARRY, Elias",
+    "first_name":"Elias",
+    "middle_name":null,
+    "last_name":"Irizarry",
+    "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386301\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386306\/download"
     ]
   },
   {
@@ -14336,6 +14629,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-300",
+    "arrest_date":"03\/26",
+    "fullname":"LAROCCA, Benjamin",
+    "first_name":"Benjamin",
+    "middle_name":null,
+    "last_name":"Larocca",
+    "charge":"OBSTRUCTION OF AN OFFICIAL PROCEEDING UNLAWFULLY ENTERING RESTRICTED BUILDING TO DISRUPT GOVERNMENT DISORDERLY OR DISRUPTIVE CONDUCT ON RESTRICTED GROUNDS",
+    "case_status":"Larocca was arrested in the Southern District of Texas on March 26, 2021.",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Texas",
+    "location_of_arrest_other":null,
+    "associated_documents":"Larocca-Cortez Complaint  Larocca-Cortez Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386221\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386226\/download"
+    ]
+  },
+  {
     "case_number":"1:21-cr-5",
     "arrest_date":"1\/7\/21",
     "fullname":"LEFFINGWELL, Mark",
@@ -14393,6 +14704,23 @@
     ]
   },
   {
+    "case_number":"1:21-mj-206",
+    "arrest_date":"01\/19\/21",
+    "fullname":"LENTZ, Nicholes J.",
+    "first_name":"Nicholes",
+    "middle_name":"J.",
+    "last_name":"Lentz",
+    "charge":"RESTRICTED BUILDING OR GROUNDS DISRUPTIVE AND DISORDERLY CONDUCT ON RESTRICTED GROUNDS",
+    "case_status":"Lentz was arrested in Miami on February 19, 2021 and had his initial appearance the same afternoon. He has a status conference scheduled for April 29, 2021.",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Florida",
+    "location_of_arrest_other":null,
+    "associated_documents":"Lentz - Complaint & Affidavit",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386241\/download"
+    ]
+  },
+  {
     "case_number":"1:21-cr-100",
     "arrest_date":"1\/27\/21",
     "fullname":"LEWIS, Jacob",
@@ -14534,6 +14862,24 @@
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371331\/download",
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1377836\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-309",
+    "arrest_date":"03\/24",
+    "fullname":"LITTLE, James",
+    "first_name":"James",
+    "middle_name":null,
+    "last_name":"Little",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRUCTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY DISORDERLY CONDUCT IN RESTRICTED BUILDING OR GROUNDS DISORDERLY CONDUCT ON CAPITOL GROUNDS PARADING OR DEMONSTRATING IN CAPITOL BUILDING",
+    "case_status":"Little was arrested on March 24, 2021",
+    "entry_last_updated":"April 9, 2021",
+    "location_of_arrest_state":"North Carolina",
+    "location_of_arrest_other":null,
+    "associated_documents":"Little Complaint  Little Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385921\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385926\/download"
     ]
   },
   {
@@ -17436,6 +17782,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-357",
+    "arrest_date":"04\/9\/21",
+    "fullname":"MOAT, Anthony Richard",
+    "first_name":"Anthony",
+    "middle_name":"Richard",
+    "last_name":"Moat",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "case_status":"Moat self-surrendered on April 9, 2021 and had his initial appearance the same morning.",
+    "entry_last_updated":"April 9, 2021",
+    "location_of_arrest_state":"Pennsylvania",
+    "location_of_arrest_other":null,
+    "associated_documents":"Moat Complaint  Moat Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385896\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385901\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-84",
     "arrest_date":"1\/18\/21",
     "fullname":"MONCADA, Nicolas Anthony",
@@ -17651,6 +18015,23 @@
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1378971\/download",
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1378976\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-00352",
+    "arrest_date":"04\/6\/21",
+    "fullname":"MORGAN Jr., Andrew Jackson",
+    "first_name":"Andrew",
+    "middle_name":"Jackson",
+    "last_name":"Morgan Jr.",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS OBSTRUCTION OF AN OFFICIAL PROCEEDING AIDED AND ABETTED",
+    "case_status":"Morgan self-surrendered to Austin agents on April 6, 2021 and had his initial appearance around 11 a.m. He has a preliminary hearing scheduled for 10 a.m. on April 9.",
+    "entry_last_updated":"April 8, 2021",
+    "location_of_arrest_state":"Texas",
+    "location_of_arrest_other":"Maxwell",
+    "associated_documents":"Morgan Complaint and Affidavit",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385531\/download"
     ]
   },
   {
@@ -22426,6 +22807,23 @@
     ]
   },
   {
+    "case_number":"1:21-mj-361",
+    "arrest_date":"04\/9\/21",
+    "fullname":"RUSYN, Michael Joseph",
+    "first_name":"Michael",
+    "middle_name":"Joseph",
+    "last_name":"Rusyn",
+    "charge":"ENTERING AND REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS DISORDERLY CONDUCT IN A CAPITOL BUILDING PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
+    "case_status":"Rusyn self-surrendered on April 9, 2021 and had his initial appearance the same afternoon.",
+    "entry_last_updated":"April 9, 2021",
+    "location_of_arrest_state":"Pennsylvania",
+    "location_of_arrest_other":null,
+    "associated_documents":"Rusyn Complaint",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385906\/download"
+    ]
+  },
+  {
     "case_number":"1:21-cr-244",
     "arrest_date":"03\/04\/21",
     "fullname":"RYALS, Jerry",
@@ -24609,9 +25007,9 @@
     "first_name":"Grayson",
     "middle_name":null,
     "last_name":"Sherrill",
-    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING OR GROUNDS",
     "case_status":null,
-    "entry_last_updated":"April 8, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
     "associated_documents":"Sherrill - Statement of Facts  Sherrill - Complaint",
@@ -24627,9 +25025,9 @@
     "first_name":"Grayson",
     "middle_name":null,
     "last_name":"Sherrill",
-    "charge":" KNOWINGLY ENGAGING IN DISORDERLY OR DISRUPTIVE CONDUCT IN ANY RESTRICTED BUILDINGS OR GROUNDS",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS",
     "case_status":null,
-    "entry_last_updated":"April 8, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
     "associated_documents":"Sherrill - Statement of Facts  Sherrill - Complaint",
@@ -24645,9 +25043,27 @@
     "first_name":"Grayson",
     "middle_name":null,
     "last_name":"Sherrill",
-    "charge":" VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "charge":" DISORDERLY CONDUCT IN A CAPITOL BUILDING",
     "case_status":null,
-    "entry_last_updated":"April 8, 2021",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Sherrill - Statement of Facts  Sherrill - Complaint",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379331\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379336\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-282",
+    "arrest_date":"",
+    "fullname":"SHERRILL, Grayson",
+    "first_name":"Grayson",
+    "middle_name":null,
+    "last_name":"Sherrill",
+    "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
+    "case_status":null,
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
     "associated_documents":"Sherrill - Statement of Facts  Sherrill - Complaint",
@@ -25025,37 +25441,75 @@
     ]
   },
   {
-    "case_number":"1:21-mj-157",
+    "case_number":"1:21-cr-290",
     "arrest_date":"1\/27\/21",
     "fullname":"SMITH, Jeffrey Alexander, (aka, Alex Smith)",
     "first_name":"Jeffrey",
     "middle_name":"Alexander",
     "last_name":"Smith",
-    "charge":"VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "charge":"VIOLENT ENTRY AND DISORDERLY CONDUCT IN A CAPITOL BUILDING",
     "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"California",
     "location_of_arrest_other":null,
-    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts",
+    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts  Smith - Information",
     "links":[
-      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download"
+      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386296\/download"
     ]
   },
   {
-    "case_number":"1:21-mj-157",
+    "case_number":"1:21-cr-290",
     "arrest_date":"1\/27\/21",
     "fullname":"SMITH, Jeffrey Alexander, (aka, Alex Smith)",
     "first_name":"Jeffrey",
     "middle_name":"Alexander",
     "last_name":"Smith",
-    "charge":" KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY",
+    "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
     "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 12, 2021",
     "location_of_arrest_state":"California",
     "location_of_arrest_other":null,
-    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts",
+    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts  Smith - Information",
     "links":[
-      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download"
+      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386296\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-290",
+    "arrest_date":"1\/27\/21",
+    "fullname":"SMITH, Jeffrey Alexander, (aka, Alex Smith)",
+    "first_name":"Jeffrey",
+    "middle_name":"Alexander",
+    "last_name":"Smith",
+    "charge":" ENTERING AND REMAINING IN A RESTRICTED BUILDING",
+    "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"California",
+    "location_of_arrest_other":null,
+    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts  Smith - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386296\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-290",
+    "arrest_date":"1\/27\/21",
+    "fullname":"SMITH, Jeffrey Alexander, (aka, Alex Smith)",
+    "first_name":"Jeffrey",
+    "middle_name":"Alexander",
+    "last_name":"Smith",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING",
+    "case_status":"Arrested 1\/27\/21 in the Southern District of California Released on bond. Next hearing (remote) 2\/3\/21 at 1:00pm EST in federal court in the District of Columbia.",
+    "entry_last_updated":"April 12, 2021",
+    "location_of_arrest_state":"California",
+    "location_of_arrest_other":null,
+    "associated_documents":"Smith, Jeffrey - Complaint & Statement of Facts  Smith - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/opa\/page\/file\/1361426\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386296\/download"
     ]
   },
   {
@@ -25075,6 +25529,24 @@
       "https:\/\/www.justice.gov\/opa\/page\/file\/1355891\/download",
       "https:\/\/www.justice.gov\/opa\/page\/file\/1355896\/download",
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1377816\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-00354",
+    "arrest_date":"04\/7",
+    "fullname":"SORVISTO, Jeremy Ryan",
+    "first_name":"Jeremy",
+    "middle_name":"Ryan",
+    "last_name":"Sorvisto",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING OR GROUNDS DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS DISORDERLY CONDUCT IN A CAPITOL BUILDING PARADING, DEMONSTRATING, OR PICKETING A CAPITOL BUILDING",
+    "case_status":"Sorvisto was arrested on April 7, 2021.",
+    "entry_last_updated":"April 8, 2021",
+    "location_of_arrest_state":"Michigan",
+    "location_of_arrest_other":null,
+    "associated_documents":"Sorvisto Complaint  Sorvisto Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385571\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385576\/download"
     ]
   },
   {
@@ -28131,6 +28603,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-341",
+    "arrest_date":"04\/9",
+    "fullname":"WESTBURY, Jonah Elijah",
+    "first_name":"Jonah",
+    "middle_name":"Elijah",
+    "last_name":"Westbury",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING AND GROUNDS DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING AND GROUNDS DISORDERLY AND DISRUPTIVE CONDUCT IN A CAPITOL BUILDING AND GROUNDS PARADING, DEMONSTRATING OR PICKETING IN A CAPITOL BUILDING",
+    "case_status":"Westbury was arrested on April 9, 2021.",
+    "entry_last_updated":"April 9, 2021",
+    "location_of_arrest_state":"Minnesota",
+    "location_of_arrest_other":null,
+    "associated_documents":"Westbury Complaint  Westbury Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385911\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385916\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-174",
     "arrest_date":"2\/4\/21",
     "fullname":"WESTOVER, Paul S.",
@@ -28199,6 +28689,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-356",
+    "arrest_date":"04\/8",
+    "fullname":"WHITE, Victoria Charity",
+    "first_name":"Victoria",
+    "middle_name":"Charity",
+    "last_name":"White",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING IMPEDING OR ATTEMPTING TO IMPEDE LAW ENFORCEMENT OFFICERS PERFORMING OFFICIAL DUTIES OBSTRUCTION OF JUSTICE\/CONGRESS",
+    "case_status":"White was arrested on April 8 and had her initial appearance the same afternoon.",
+    "entry_last_updated":"April 8, 2021",
+    "location_of_arrest_state":"Minnesota",
+    "location_of_arrest_other":"Rochester",
+    "associated_documents":"White Complaint  White Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385536\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385541\/download"
+    ]
+  },
+  {
     "case_number":"1:21-cr-00035",
     "arrest_date":"04\/1\/21",
     "fullname":"WHITTON, Jack Wade",
@@ -28213,6 +28721,24 @@
     "associated_documents":"Whitton Superseding Indictment",
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1382756\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-304",
+    "arrest_date":"04\/6\/21",
+    "fullname":"WILKERSON IV, John Clarence",
+    "first_name":"John",
+    "middle_name":"Clarence",
+    "last_name":"Wilkerson Iv",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "case_status":"Wilkerson was arrested on April 6, 2021 in Maryland and had his initial appearance on April 7.",
+    "entry_last_updated":"April 8, 2021",
+    "location_of_arrest_state":"Maryland",
+    "location_of_arrest_other":"Street",
+    "associated_documents":"Wilkerson Complaint  Wilkerson Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385561\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385566\/download"
     ]
   },
   {
