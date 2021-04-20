@@ -2220,6 +2220,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-326",
+    "arrest_date":"04\/12\/21",
+    "fullname":"BENNETT, Bradley Stuart",
+    "first_name":"Bradley",
+    "middle_name":"Stuart",
+    "last_name":"Bennett",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY AND WITH INTENT TO DISRUPT THE ORDERLY CONDUCT OF GOVERNMENT BUSINESS VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS ENTERING OR REMAINING IN THE GALLERY OF EITHER HOUSE OF CONGRESS OBSTRUCTION OF JUSTICE\/OFFICIAL PROCEEDING",
+    "case_status":"Bennett turned himself in on April 12, 2021 and had his initial appearance in the Western District of North Carolina the same afternoon. He has a detention hearing scheduled for April 15, 2021.",
+    "entry_last_updated":"April 13, 2021",
+    "location_of_arrest_state":"North Carolina",
+    "location_of_arrest_other":"Charlotte",
+    "associated_documents":"Bradley-Williams Complaint  Bradley-Williams Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386551\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386556\/download"
+    ]
+  },
+  {
     "case_number":"1:21-cr-51",
     "arrest_date":"1\/17\/21",
     "fullname":"BETANCUR, Bryan",
@@ -4757,37 +4775,75 @@
     ]
   },
   {
-    "case_number":"1:21-mj-142",
+    "case_number":"1:21-cr-299",
     "arrest_date":"",
     "fullname":"CASTRO, Mariposa",
     "first_name":"Mariposa",
     "middle_name":null,
     "last_name":"Castro",
-    "charge":"KNOWLINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING",
     "case_status":null,
-    "entry_last_updated":"February 28, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
-    "associated_documents":"Castro - Complaint & Statement of Facts",
+    "associated_documents":"Castro - Complaint & Statement of Facts  Castro - Information",
     "links":[
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371311\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371311\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387496\/download"
     ]
   },
   {
-    "case_number":"1:21-mj-142",
+    "case_number":"1:21-cr-299",
     "arrest_date":"",
     "fullname":"CASTRO, Mariposa",
     "first_name":"Mariposa",
     "middle_name":null,
     "last_name":"Castro",
-    "charge":" VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING",
     "case_status":null,
-    "entry_last_updated":"February 28, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
-    "associated_documents":"Castro - Complaint & Statement of Facts",
+    "associated_documents":"Castro - Complaint & Statement of Facts  Castro - Information",
     "links":[
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371311\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371311\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387496\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-299",
+    "arrest_date":"",
+    "fullname":"CASTRO, Mariposa",
+    "first_name":"Mariposa",
+    "middle_name":null,
+    "last_name":"Castro",
+    "charge":" VIOLENT ENTRY AND DISORDERLY CONDUCT IN A CAPITOL BUILDING",
+    "case_status":null,
+    "entry_last_updated":"April 16, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Castro - Complaint & Statement of Facts  Castro - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371311\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387496\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-299",
+    "arrest_date":"",
+    "fullname":"CASTRO, Mariposa",
+    "first_name":"Mariposa",
+    "middle_name":null,
+    "last_name":"Castro",
+    "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
+    "case_status":null,
+    "entry_last_updated":"April 16, 2021",
+    "location_of_arrest_state":"Not listed",
+    "location_of_arrest_other":null,
+    "associated_documents":"Castro - Complaint & Statement of Facts  Castro - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1371311\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387496\/download"
     ]
   },
   {
@@ -9828,7 +9884,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-178",
+    "case_number":"1:21-cr-296",
     "arrest_date":"2\/4\/21",
     "fullname":"GRACE, Jeffrey",
     "first_name":"Jeffrey",
@@ -9836,7 +9892,7 @@
     "last_name":"Grace",
     "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY",
     "case_status":"Arrested 2\/4\/21 in the Western District of Washington Initial appearance 2\/4\/21 in\u00a0Oregon.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Washington.",
     "location_of_arrest_other":null,
     "associated_documents":"Grace, Jeffrey - Complaint & Statement of Facts",
@@ -11938,7 +11994,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-342",
+    "case_number":"1:21-cr-301",
     "arrest_date":"04\/9",
     "fullname":"HORN, Stephen Ethan",
     "first_name":"Stephen",
@@ -11946,7 +12002,7 @@
     "last_name":"Horn",
     "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY DISORDERLY AND DISRUPTIVE CONDUCT ON CAPITOL GROUNDS VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS PARADING, DEMONSTRATING OR PICETING IN A CAPITOL BUILDING",
     "case_status":"Horn self-surrendered and had his first appearance in Raleigh on April 9, 2021. He was released on conditions.",
-    "entry_last_updated":"April 9, 2021",
+    "entry_last_updated":"April 20, 2021",
     "location_of_arrest_state":"North Carolina",
     "location_of_arrest_other":null,
     "associated_documents":"Horn Complaint  Horn Statement of Facts",
@@ -12592,7 +12648,7 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-cr-282",
     "arrest_date":"",
     "fullname":"IRIZARRY, Elias",
     "first_name":"Elias",
@@ -12600,7 +12656,7 @@
     "last_name":"Irizarry",
     "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING OR GROUNDS",
     "case_status":null,
-    "entry_last_updated":"April 12, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
     "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
@@ -12610,7 +12666,7 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-cr-282",
     "arrest_date":"",
     "fullname":"IRIZARRY, Elias",
     "first_name":"Elias",
@@ -12618,7 +12674,7 @@
     "last_name":"Irizarry",
     "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS",
     "case_status":null,
-    "entry_last_updated":"April 12, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
     "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
@@ -12628,7 +12684,7 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-cr-282",
     "arrest_date":"",
     "fullname":"IRIZARRY, Elias",
     "first_name":"Elias",
@@ -12636,7 +12692,7 @@
     "last_name":"Irizarry",
     "charge":" DISORDERLY CONDUCT IN A CAPITOL BUILDING",
     "case_status":null,
-    "entry_last_updated":"April 12, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
     "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
@@ -12646,7 +12702,7 @@
     ]
   },
   {
-    "case_number":null,
+    "case_number":"1:21-cr-282",
     "arrest_date":"",
     "fullname":"IRIZARRY, Elias",
     "first_name":"Elias",
@@ -12654,7 +12710,7 @@
     "last_name":"Irizarry",
     "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
     "case_status":null,
-    "entry_last_updated":"April 12, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Not listed",
     "location_of_arrest_other":null,
     "associated_documents":"Bishai & Irizarry - Statement of Facts Redacted  Sherrill, Bishai & Irizarry - Information",
@@ -13402,6 +13458,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-367",
+    "arrest_date":"04\/1304\/14",
+    "fullname":"JOHNSON, Paul Russell",
+    "first_name":"Paul",
+    "middle_name":"Russell",
+    "last_name":"Johnson",
+    "charge":"INFLICTING BODILY INJURY ON CERTAIN OFFICERS OBSTRUCTION OF LAW ENFORCEMENT DURING CIVIL DISORDER OBSTRUCTION OF JUSTICE\/CONGRESS ENGAGING IN PHYSICAL VIOLENCE IN THE CAPITOL GROUNDS OR BUILDINGS",
+    "case_status":"Johnson was arrested on April 13 and had his initial appearance in the Eastern District of Virginia on April 14, 2021. He has an in-person detention hearing set for April 19 at 3:30 p.m. in Richmond.",
+    "entry_last_updated":"April 15, 2021",
+    "location_of_arrest_state":"Virginia",
+    "location_of_arrest_other":"Lanexa",
+    "associated_documents":"Johnson Complaint  Johnson Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386856\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386861\/download"
+    ]
+  },
+  {
     "case_number":"21-mj-329",
     "arrest_date":"03\/27",
     "fullname":"JONES, Caleb",
@@ -13591,7 +13665,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-00334",
+    "case_number":"1:21-cr-40",
     "arrest_date":"03\/26\/21",
     "fullname":"JUDD, David Lee",
     "first_name":"David",
@@ -13599,7 +13673,7 @@
     "last_name":"Judd",
     "charge":"18 USC 111(B) ASSAULTING, RESISTING, OR IMPEDING CERTAIN OFFICERS OF EMPLOYEES 18 USC 231(A)(3) CIVIL DISORDER",
     "case_status":"David Lee Judd was arrested on March 26, 2021 and will make his initial appearance in the Eastern District of Texas.",
-    "entry_last_updated":"March 29, 2021",
+    "entry_last_updated":"April 20, 2021",
     "location_of_arrest_state":"Texas",
     "location_of_arrest_other":"Carrollton",
     "associated_documents":"Judd Complaint  Judd Statement of Facts",
@@ -18018,6 +18092,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-365",
+    "arrest_date":"04\/13\/21",
+    "fullname":"MONTOYA, Samuel Christopher",
+    "first_name":"Samuel",
+    "middle_name":"Christopher",
+    "last_name":"Montoya",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING DISORDERLY AND DISRUPTIVE CONDUCT IN A CAPITOL BUILDING IMPEDING PASSAGE THROUGH THE CAPITOL GROUNDS OR BUILDINGS PARADING, DEMONSTRATING, OR PICKETTING IN A CAPITOL BUILDING",
+    "case_status":"Montoya was arrested on April 13, 2021 and will have his initial appearance on April 14, 2021 in the Western District of Texas.",
+    "entry_last_updated":"April 13, 2021",
+    "location_of_arrest_state":"Texas",
+    "location_of_arrest_other":null,
+    "associated_documents":"Montoya Complaint  Montoya Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386666\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386671\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-00352",
     "arrest_date":"04\/6\/21",
     "fullname":"MORGAN Jr., Andrew Jackson",
@@ -19239,11 +19331,11 @@
     "middle_name":"Douglas",
     "last_name":"Owens",
     "charge":"ASSAULTING, RESISTING, OR IMPEDING CERTAIN OFFICERS OR EMPLOYEES KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY OBSTRUCTION OF LAW ENFORCEMENT DURING CIVIL DISORDER VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
-    "case_status":"Owens was arrested on April 1, 2021. He had his initial appearance the same afternoon at 3 p.m. before U.S. Magistrate Daniel Irick in Orlando. Owens was indicted by a federal jury in the District of Columbia on April 7.",
-    "entry_last_updated":"April 7, 2021",
+    "case_status":"Owens was arrested on April 1, 2021. He had his initial appearance the same afternoon in Orlando. Owens was indicted by a federal jury in the District of Columbia on April 7.",
+    "entry_last_updated":"April 15, 2021",
     "location_of_arrest_state":"Florida",
     "location_of_arrest_other":null,
-    "associated_documents":"Owens Complaint  Owens Statement of Facts  owens_filed_indictment_4.7.21.pdf",
+    "associated_documents":"Owens Complaint  Owens Statement of Facts  Owens Indictment",
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1382531\/download",
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1382536\/download",
@@ -19959,7 +20051,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-214",
+    "case_number":"1:21-cr-309",
     "arrest_date":"2\/12\/21",
     "fullname":"PETERSON, Russell James",
     "first_name":"Russell",
@@ -19967,7 +20059,7 @@
     "last_name":"Peterson",
     "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS",
     "case_status":"Arrested 2\/12\/21 in the Western District of Pennsylvania",
-    "entry_last_updated":"March 19, 2021",
+    "entry_last_updated":"April 20, 2021",
     "location_of_arrest_state":"Pennsylvania",
     "location_of_arrest_other":null,
     "associated_documents":"Peterson, Russell - Complaint & Statement of Facts",
@@ -19976,7 +20068,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-214",
+    "case_number":"1:21-cr-309",
     "arrest_date":"2\/12\/21",
     "fullname":"PETERSON, Russell James",
     "first_name":"Russell",
@@ -19984,7 +20076,7 @@
     "last_name":"Peterson",
     "charge":" DISORDERLY CONDUCT WHICH IMPEDES THE CONDUCT OF GOVERNMENT BUSINESS",
     "case_status":"Arrested 2\/12\/21 in the Western District of Pennsylvania",
-    "entry_last_updated":"March 19, 2021",
+    "entry_last_updated":"April 20, 2021",
     "location_of_arrest_state":"Pennsylvania",
     "location_of_arrest_other":null,
     "associated_documents":"Peterson, Russell - Complaint & Statement of Facts",
@@ -19993,7 +20085,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-214",
+    "case_number":"1:21-cr-309",
     "arrest_date":"2\/12\/21",
     "fullname":"PETERSON, Russell James",
     "first_name":"Russell",
@@ -20001,7 +20093,7 @@
     "last_name":"Peterson",
     "charge":" DISRUPTIVE CONDUCT IN THE CAPITOL BUILDINGS",
     "case_status":"Arrested 2\/12\/21 in the Western District of Pennsylvania",
-    "entry_last_updated":"March 19, 2021",
+    "entry_last_updated":"April 20, 2021",
     "location_of_arrest_state":"Pennsylvania",
     "location_of_arrest_other":null,
     "associated_documents":"Peterson, Russell - Complaint & Statement of Facts",
@@ -20010,7 +20102,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-214",
+    "case_number":"1:21-cr-309",
     "arrest_date":"2\/12\/21",
     "fullname":"PETERSON, Russell James",
     "first_name":"Russell",
@@ -20018,7 +20110,7 @@
     "last_name":"Peterson",
     "charge":" PARADING, DEMONSTRATING, OR PICKETING IN THE CAPITOL BUILDINGS",
     "case_status":"Arrested 2\/12\/21 in the Western District of Pennsylvania",
-    "entry_last_updated":"March 19, 2021",
+    "entry_last_updated":"April 20, 2021",
     "location_of_arrest_state":"Pennsylvania",
     "location_of_arrest_other":null,
     "associated_documents":"Peterson, Russell - Complaint & Statement of Facts",
@@ -22210,6 +22302,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-359",
+    "arrest_date":"04\/13\/21",
+    "fullname":"ROCHE, Michael Lee",
+    "first_name":"Michael",
+    "middle_name":"Lee",
+    "last_name":"Roche",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS ENTERING AND REMAINING ON THE FLOOR OF CONGRESS DISORDERLY CONDUCT IN A CAPITOL BUILDING PARADING, DEMONSTRATING, OR PICKETTING IN A CAPITOL BUILDING",
+    "case_status":"Roche was arrested on April 13, 2021 and had his initial appearance in the Middle District of Tennessee the same day. He was released on conditions.",
+    "entry_last_updated":"April 14, 2021",
+    "location_of_arrest_state":"Tennessee",
+    "location_of_arrest_other":null,
+    "associated_documents":"Roche Complaint  Roche Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386731\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386736\/download"
+    ]
+  },
+  {
     "case_number":"1:21-cr-57",
     "arrest_date":"1\/13\/21",
     "fullname":"RODEAN, Nicholas",
@@ -24033,7 +24143,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-94",
+    "case_number":"1:21-cr-306",
     "arrest_date":"1\/17\/21",
     "fullname":"SCHAFFER, Jon Ryan",
     "first_name":"Jon",
@@ -24041,7 +24151,7 @@
     "last_name":"Schaffer",
     "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT\u00a0LAWFUL AUTHORITY",
     "case_status":"Arrested 1\/17\/21 in the Southern District of Indiana.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Indiana",
     "location_of_arrest_other":null,
     "associated_documents":"Schaffer - Complaint  Schaffer - Statement of Facts",
@@ -24051,7 +24161,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-94",
+    "case_number":"1:21-cr-306",
     "arrest_date":"1\/17\/21",
     "fullname":"SCHAFFER, Jon Ryan",
     "first_name":"Jon",
@@ -24059,7 +24169,7 @@
     "last_name":"Schaffer",
     "charge":" DISRUPTING THE ORDERLY CONDUCT OF GOVERNMENT BUSINESS",
     "case_status":"Arrested 1\/17\/21 in the Southern District of Indiana.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Indiana",
     "location_of_arrest_other":null,
     "associated_documents":"Schaffer - Complaint  Schaffer - Statement of Facts",
@@ -24069,7 +24179,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-94",
+    "case_number":"1:21-cr-306",
     "arrest_date":"1\/17\/21",
     "fullname":"SCHAFFER, Jon Ryan",
     "first_name":"Jon",
@@ -24077,7 +24187,7 @@
     "last_name":"Schaffer",
     "charge":" KNOWINGLY ENGAGES IN AN ACT OF PHYSICAL VIOLENCE AGAINST ANY PERSON OR PROPERTY IN ANY RESTRICTED BUILDING OR GROUNDS",
     "case_status":"Arrested 1\/17\/21 in the Southern District of Indiana.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Indiana",
     "location_of_arrest_other":null,
     "associated_documents":"Schaffer - Complaint  Schaffer - Statement of Facts",
@@ -24087,7 +24197,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-94",
+    "case_number":"1:21-cr-306",
     "arrest_date":"1\/17\/21",
     "fullname":"SCHAFFER, Jon Ryan",
     "first_name":"Jon",
@@ -24095,7 +24205,7 @@
     "last_name":"Schaffer",
     "charge":" VIOLENT ENTRY AND DISORDERLY CONDUCT IN A CAPITOL BUILDING",
     "case_status":"Arrested 1\/17\/21 in the Southern District of Indiana.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Indiana",
     "location_of_arrest_other":null,
     "associated_documents":"Schaffer - Complaint  Schaffer - Statement of Facts",
@@ -24105,7 +24215,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-94",
+    "case_number":"1:21-cr-306",
     "arrest_date":"1\/17\/21",
     "fullname":"SCHAFFER, Jon Ryan",
     "first_name":"Jon",
@@ -24113,7 +24223,7 @@
     "last_name":"Schaffer",
     "charge":" ENGAGE IN AN ACT OF PHYSICAL VIOLENCE IN A CAPITOL BUILDING",
     "case_status":"Arrested 1\/17\/21 in the Southern District of Indiana.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Indiana",
     "location_of_arrest_other":null,
     "associated_documents":"Schaffer - Complaint  Schaffer - Statement of Facts",
@@ -24123,7 +24233,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-94",
+    "case_number":"1:21-cr-306",
     "arrest_date":"1\/17\/21",
     "fullname":"SCHAFFER, Jon Ryan",
     "first_name":"Jon",
@@ -24131,7 +24241,7 @@
     "last_name":"Schaffer",
     "charge":" PARADE, DEMONSTRATE, OR PICKET IN A CAPITOL BUILDING",
     "case_status":"Arrested 1\/17\/21 in the Southern District of Indiana.",
-    "entry_last_updated":"February 4, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Indiana",
     "location_of_arrest_other":null,
     "associated_documents":"Schaffer - Complaint  Schaffer - Statement of Facts",
@@ -25225,7 +25335,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-297",
+    "case_number":"1:21-cr-291",
     "arrest_date":"",
     "fullname":"SIBICK, Thomas",
     "first_name":"Thomas",
@@ -25233,7 +25343,7 @@
     "last_name":"Sibick",
     "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY",
     "case_status":null,
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 14, 2021",
     "location_of_arrest_state":"New York",
     "location_of_arrest_other":"Buffalo",
     "associated_documents":"Sibick - Complaint Sibick - Statement of Facts",
@@ -25243,7 +25353,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-297",
+    "case_number":"1:21-cr-291",
     "arrest_date":"",
     "fullname":"SIBICK, Thomas",
     "first_name":"Thomas",
@@ -25251,7 +25361,7 @@
     "last_name":"Sibick",
     "charge":" VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
     "case_status":null,
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 14, 2021",
     "location_of_arrest_state":"New York",
     "location_of_arrest_other":"Buffalo",
     "associated_documents":"Sibick - Complaint Sibick - Statement of Facts",
@@ -25261,7 +25371,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-297",
+    "case_number":"1:21-cr-291",
     "arrest_date":"",
     "fullname":"SIBICK, Thomas",
     "first_name":"Thomas",
@@ -25269,7 +25379,7 @@
     "last_name":"Sibick",
     "charge":" OBSTRUCTION OF LAW ENFORCEMENT DURING CIVIL DISORDER",
     "case_status":null,
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 14, 2021",
     "location_of_arrest_state":"New York",
     "location_of_arrest_other":"Buffalo",
     "associated_documents":"Sibick - Complaint Sibick - Statement of Facts",
@@ -25279,7 +25389,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-297",
+    "case_number":"1:21-cr-291",
     "arrest_date":"",
     "fullname":"SIBICK, Thomas",
     "first_name":"Thomas",
@@ -25287,7 +25397,7 @@
     "last_name":"Sibick",
     "charge":" ASSAULTING, RESISTING, OR IMPEDING CERTAIN OFFICERS",
     "case_status":null,
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 14, 2021",
     "location_of_arrest_state":"New York",
     "location_of_arrest_other":"Buffalo",
     "associated_documents":"Sibick - Complaint Sibick - Statement of Facts",
@@ -25297,7 +25407,7 @@
     ]
   },
   {
-    "case_number":"1:21-mj-297",
+    "case_number":"1:21-cr-291",
     "arrest_date":"",
     "fullname":"SIBICK, Thomas",
     "first_name":"Thomas",
@@ -25305,7 +25415,7 @@
     "last_name":"Sibick",
     "charge":" TAKING FROM A PERSON ANYTHING OF VALUE BY FORCE AND VIOLENCE OR BY INTIMIDATION WITHIN SPECIAL MARITIME AND TERRITORIAL JURISDICTION.",
     "case_status":null,
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 14, 2021",
     "location_of_arrest_state":"New York",
     "location_of_arrest_other":"Buffalo",
     "associated_documents":"Sibick - Complaint Sibick - Statement of Facts",
@@ -27376,6 +27486,23 @@
     ]
   },
   {
+    "case_number":"1:21-mj-383",
+    "arrest_date":"04\/20",
+    "fullname":"TIMBROOK, Michael",
+    "first_name":"Michael",
+    "middle_name":null,
+    "last_name":"Timbrook",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "case_status":"Timbrook was arrested in the Middle District of Tennessee on April 20, 2021.",
+    "entry_last_updated":"April 20, 2021",
+    "location_of_arrest_state":"Tennessee",
+    "location_of_arrest_other":null,
+    "associated_documents":null,
+    "links":[
+
+    ]
+  },
+  {
     "case_number":"1:21-cr-205",
     "arrest_date":"1\/22\/21",
     "fullname":"TODISCO, Patricia",
@@ -28724,21 +28851,79 @@
     ]
   },
   {
-    "case_number":"1:21-mj-304",
+    "case_number":"1:21-cr-302",
     "arrest_date":"04\/6\/21",
     "fullname":"WILKERSON IV, John Clarence",
     "first_name":"John",
     "middle_name":"Clarence",
     "last_name":"Wilkerson Iv",
-    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING",
     "case_status":"Wilkerson was arrested on April 6, 2021 in Maryland and had his initial appearance on April 7.",
-    "entry_last_updated":"April 8, 2021",
+    "entry_last_updated":"April 16, 2021",
     "location_of_arrest_state":"Maryland",
     "location_of_arrest_other":"Street",
-    "associated_documents":"Wilkerson Complaint  Wilkerson Statement of Facts",
+    "associated_documents":"Wilkerson Complaint  Wilkerson Statement of Facts  Wilkerson - Information",
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385561\/download",
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385566\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385566\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387501\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-302",
+    "arrest_date":"04\/6\/21",
+    "fullname":"WILKERSON IV, John Clarence",
+    "first_name":"John",
+    "middle_name":"Clarence",
+    "last_name":"Wilkerson Iv",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING",
+    "case_status":"Wilkerson was arrested on April 6, 2021 in Maryland and had his initial appearance on April 7.",
+    "entry_last_updated":"April 16, 2021",
+    "location_of_arrest_state":"Maryland",
+    "location_of_arrest_other":"Street",
+    "associated_documents":"Wilkerson Complaint  Wilkerson Statement of Facts  Wilkerson - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385561\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385566\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387501\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-302",
+    "arrest_date":"04\/6\/21",
+    "fullname":"WILKERSON IV, John Clarence",
+    "first_name":"John",
+    "middle_name":"Clarence",
+    "last_name":"Wilkerson Iv",
+    "charge":" VIOLENT ENTRY AND DISORDERLY CONDUCT IN A CAPITOL BUILDING",
+    "case_status":"Wilkerson was arrested on April 6, 2021 in Maryland and had his initial appearance on April 7.",
+    "entry_last_updated":"April 16, 2021",
+    "location_of_arrest_state":"Maryland",
+    "location_of_arrest_other":"Street",
+    "associated_documents":"Wilkerson Complaint  Wilkerson Statement of Facts  Wilkerson - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385561\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385566\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387501\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-302",
+    "arrest_date":"04\/6\/21",
+    "fullname":"WILKERSON IV, John Clarence",
+    "first_name":"John",
+    "middle_name":"Clarence",
+    "last_name":"Wilkerson Iv",
+    "charge":" PARADING, DEMONSTRATING, OR PICKETING IN A CAPITOL BUILDING",
+    "case_status":"Wilkerson was arrested on April 6, 2021 in Maryland and had his initial appearance on April 7.",
+    "entry_last_updated":"April 16, 2021",
+    "location_of_arrest_state":"Maryland",
+    "location_of_arrest_other":"Street",
+    "associated_documents":"Wilkerson Complaint  Wilkerson Statement of Facts  Wilkerson - Information",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385561\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1385566\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387501\/download"
     ]
   },
   {
@@ -28902,6 +29087,24 @@
     ]
   },
   {
+    "case_number":"1:21-mj-326",
+    "arrest_date":"03\/24\/21",
+    "fullname":"WILLIAMS, Elizabeth Rose",
+    "first_name":"Elizabeth",
+    "middle_name":"Rose",
+    "last_name":"Williams",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BULDING OR GROUNDS WITHOUT LAWFUL AUTHORITY AND WITH INTENT TO IMPEDE OR DISRUPT THE ORDERLY CONDUCT OF GOVERNMENT BUSINESS OR OFFICIAL FUNCTIONS VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "case_status":"Williams was arrested on March 24, 2021 and had her initial appearance in the Western District of Texas the same day. She was released on bond.",
+    "entry_last_updated":"April 13, 2021",
+    "location_of_arrest_state":"Texas",
+    "location_of_arrest_other":null,
+    "associated_documents":"Bradley-Williams Complaint  Bradley-Williams Statement of Facts",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386551\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1386556\/download"
+    ]
+  },
+  {
     "case_number":"1:21-mj-99",
     "arrest_date":"1\/18\/21",
     "fullname":"WILLIAMS, Riley June",
@@ -28939,6 +29142,23 @@
       "https:\/\/www.justice.gov\/opa\/page\/file\/1356226\/download",
       "https:\/\/www.justice.gov\/opa\/page\/file\/1357056\/download",
       "https:\/\/www.justice.gov\/opa\/page\/file\/1357051\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-mj-370",
+    "arrest_date":"04\/15\/21",
+    "fullname":"WILSON, Duke Edward",
+    "first_name":"Duke",
+    "middle_name":"Edward",
+    "last_name":"Wilson",
+    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY TO DO SO ASSAULTING, RESISTING OR IMPEDING CERTAIN OFFICERS DISORDERLY CONDUCT PARADING, DEMONSTRATING OR PICKETTING THE CAPITOL BUILDING OBSTRUCTION OF CONGRESS\/JUSTICE",
+    "case_status":"Wilson was arrested on April 15, 2021 and had his initial appearance the same afternoon.",
+    "entry_last_updated":"April 16, 2021",
+    "location_of_arrest_state":"Idaho",
+    "location_of_arrest_other":null,
+    "associated_documents":"Wilson Affidavit",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387456\/download"
     ]
   },
   {
@@ -29276,93 +29496,117 @@
     ]
   },
   {
-    "case_number":"1:21-mj-296",
+    "case_number":"1:21-cr-292",
     "arrest_date":"03\/12\/21",
     "fullname":"WORRELL, Christopher",
     "first_name":"Christopher",
     "middle_name":null,
     "last_name":"Worrell",
-    "charge":"KNOWINGLY ENTERING OR REMAINING IN ANY RESTRICTED BUILDING OR GROUNDS WITHOUT LAWFUL AUTHORITY",
+    "charge":"ENTERING AND REMAINING IN A RESTRICTED BUILDING OR GROUNDS WITH A DEADLY OR DANGEROUS WEAPON",
     "case_status":"Arrested on 03\/12\/2021 in Naples, Florida",
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 15, 2021",
     "location_of_arrest_state":"Florida",
     "location_of_arrest_other":"Naples",
-    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts",
+    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts  Worrell - Indictment",
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379551\/download",
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387156\/download"
     ]
   },
   {
-    "case_number":"1:21-mj-296",
+    "case_number":"1:21-cr-292",
     "arrest_date":"03\/12\/21",
     "fullname":"WORRELL, Christopher",
     "first_name":"Christopher",
     "middle_name":null,
     "last_name":"Worrell",
-    "charge":" KNOWINGLY ENGAGING IN DISORDERLY OR DISRUPTIVE CONDUCT IN ANY RESTRICTED BUILDING OR GROUNDS",
+    "charge":" DISORDERLY AND DISRUPTIVE CONDUCT IN A RESTRICTED BUILDING OR GROUNDS WITH A DEADLY OR DANGEROUS WEAPON",
     "case_status":"Arrested on 03\/12\/2021 in Naples, Florida",
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 15, 2021",
     "location_of_arrest_state":"Florida",
     "location_of_arrest_other":"Naples",
-    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts",
+    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts  Worrell - Indictment",
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379551\/download",
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387156\/download"
     ]
   },
   {
-    "case_number":"1:21-mj-296",
+    "case_number":"1:21-cr-292",
     "arrest_date":"03\/12\/21",
     "fullname":"WORRELL, Christopher",
     "first_name":"Christopher",
     "middle_name":null,
     "last_name":"Worrell",
-    "charge":" VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS",
+    "charge":" ENGAGING IN PHYSICAL VIOLENCE IN A RESTRICTED BUILDING OR GROUNDS USING A DEADLY OR DANGEROUS WEAPON",
     "case_status":"Arrested on 03\/12\/2021 in Naples, Florida",
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 15, 2021",
     "location_of_arrest_state":"Florida",
     "location_of_arrest_other":"Naples",
-    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts",
+    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts  Worrell - Indictment",
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379551\/download",
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387156\/download"
     ]
   },
   {
-    "case_number":"1:21-mj-296",
+    "case_number":"1:21-cr-292",
     "arrest_date":"03\/12\/21",
     "fullname":"WORRELL, Christopher",
     "first_name":"Christopher",
     "middle_name":null,
     "last_name":"Worrell",
-    "charge":" OBSTRUCTION OF JUSTICE\/CONGRESS",
+    "charge":" ACT OF PHYSICAL VIOLENCE IN THE CAPITOL GROUNDS OR BUILDINGS",
     "case_status":"Arrested on 03\/12\/2021 in Naples, Florida",
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 15, 2021",
     "location_of_arrest_state":"Florida",
     "location_of_arrest_other":"Naples",
-    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts",
+    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts  Worrell - Indictment",
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379551\/download",
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387156\/download"
     ]
   },
   {
-    "case_number":"1:21-mj-296",
+    "case_number":"1:21-cr-292",
     "arrest_date":"03\/12\/21",
     "fullname":"WORRELL, Christopher",
     "first_name":"Christopher",
     "middle_name":null,
     "last_name":"Worrell",
-    "charge":" KNOWINGLY ENGAGING IN ACT OF PHYSICAL VIOLENCE IN ANY RESTRICTED BUILDING OR GROUNDS",
+    "charge":" CIVIL DISORDER",
     "case_status":"Arrested on 03\/12\/2021 in Naples, Florida",
-    "entry_last_updated":"March 25, 2021",
+    "entry_last_updated":"April 15, 2021",
     "location_of_arrest_state":"Florida",
     "location_of_arrest_other":"Naples",
-    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts",
+    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts  Worrell - Indictment",
     "links":[
       "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379551\/download",
-      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download"
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387156\/download"
+    ]
+  },
+  {
+    "case_number":"1:21-cr-292",
+    "arrest_date":"03\/12\/21",
+    "fullname":"WORRELL, Christopher",
+    "first_name":"Christopher",
+    "middle_name":null,
+    "last_name":"Worrell",
+    "charge":" ASSAULTING, RESISTING, OR IMPEDING CERTAIN OFFICERS USING A DANGEROUS WEAPON",
+    "case_status":"Arrested on 03\/12\/2021 in Naples, Florida",
+    "entry_last_updated":"April 15, 2021",
+    "location_of_arrest_state":"Florida",
+    "location_of_arrest_other":"Naples",
+    "associated_documents":"Worrell - Complaint  Worrell - Statement of Facts  Worrell - Indictment",
+    "links":[
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379551\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1379556\/download",
+      "https:\/\/www.justice.gov\/usao-dc\/case-multi-defendant\/file\/1387156\/download"
     ]
   },
   {
