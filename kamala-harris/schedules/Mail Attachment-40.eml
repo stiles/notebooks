@@ -1,0 +1,904 @@
+Received: from MN2PR22MB1984.namprd22.prod.outlook.com (2603:10b6:208:1f5::22)
+ by BLAPR22MB2194.namprd22.prod.outlook.com with HTTPS; Thu, 25 Feb 2021
+ 18:44:31 +0000
+Received: from BN9PR03CA0602.namprd03.prod.outlook.com (2603:10b6:408:106::7)
+ by MN2PR22MB1984.namprd22.prod.outlook.com (2603:10b6:208:1f5::22) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3890.20; Thu, 25 Feb
+ 2021 18:44:31 +0000
+Received: from BN3NAM04FT042.eop-NAM04.prod.protection.outlook.com
+ (2603:10b6:408:106:cafe::77) by BN9PR03CA0602.outlook.office365.com
+ (2603:10b6:408:106::7) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3890.20 via Frontend
+ Transport; Thu, 25 Feb 2021 18:44:30 +0000
+Authentication-Results: spf=pass (sender IP is 198.2.143.117)
+ smtp.mailfrom=mail117.atl281.mcsv.net; latimes.com; dkim=pass (signature was
+ verified) header.d=mailchimpapp.net;latimes.com; dmarc=fail action=none
+ header.from=ovp.eop.gov;compauth=pass reason=117
+Received-SPF: Pass (protection.outlook.com: domain of mail117.atl281.mcsv.net
+ designates 198.2.143.117 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.2.143.117;
+ helo=mail117.atl281.mcsv.net;
+Received: from mail117.atl281.mcsv.net (198.2.143.117) by
+ BN3NAM04FT042.mail.protection.outlook.com (10.152.93.52) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.3868.27 via Frontend Transport; Thu, 25 Feb 2021 18:44:30 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailchimpapp.net;
+	s=k2; t=1614278670; i=noreply=3Dovp.eop.gov@mailchimpapp.net;
+	bh=BnvRwgxJnD8cCI4Iohr27TsQu38uuyktRsIfuHQVrIc=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
+	 Content-Type:MIME-Version;
+	b=hB6WSDTYl2N/p1uYhiqe0WKEu92aDdMarodVVOaHwIsgq3urrfqN/c57FFLPY7TUi
+	 nAgOsKMgPr2fEBeHkROydAZKol+e1x0vkfK9EwNUDkPzsCJqJ/Wn3YkvfR+Hbf4KM5
+	 tmUqBXhoaKUSkb0A2+in1QdstqqqCpkwfDvhOynEZwC2/fvCASPXg7u9I/JpcMwzNG
+	 54flnOrdcMGXyD5jIZVGDeJOT6DuN3QB+kWHWsQAej8wogelggUvx/rMCObxbiA00s
+	 Sh0rw7olRe/xTks4bLugYlZmMELywaIbksILbVuIJWJUOtb6aAzP2KmFHN+VOo7MNq
+	 OdpHpwpUuHO5Q==
+Received: from localhost (localhost [127.0.0.1])
+	by mail117.atl281.mcsv.net (Mailchimp) with ESMTP id 4DmhXZ35fmzLfHfZ8
+	for <noah.bierman@latimes.com>; Thu, 25 Feb 2021 18:44:30 +0000 (GMT)
+Subject: =?utf-8?Q?UPDATED=3A=20DAILY=20GUIDANCE=20FOR=20THE=20VICE=20PRESIDENT=20FOR=20THURSDAY=2C=20FEBRUARY=2025=2C=202021?=
+From: =?utf-8?Q?White=20House=3A=20Office=20of=20the=20Vice=20President?= <noreply@ovp.eop.gov>
+Reply-To: =?utf-8?Q?White=20House=3A=20Office=20of=20the=20Vice=20President?= <noreply@ovp.eop.gov>
+To: <noah.bierman@latimes.com>
+Date: Thu, 25 Feb 2021 18:44:25 +0000
+Message-ID: <0ae7f75ebacfaef55ba39fcdb.8c040e9eac.20210225184412.30122dc0a1.3ef285df@mail117.atl281.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID30122dc0a18c040e9eac**
+X-Campaign: mailchimp0ae7f75ebacfaef55ba39fcdb.30122dc0a1
+X-campaignid: mailchimp0ae7f75ebacfaef55ba39fcdb.30122dc0a1
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=0ae7f75ebacfaef55ba39fcdb&id=30122dc0a1&e=8c040e9eac
+X-MC-User: 0ae7f75ebacfaef55ba39fcdb
+Feedback-ID: 104123722:104123722.6119701:us19:mc
+List-ID: 0ae7f75ebacfaef55ba39fcdbmc list <0ae7f75ebacfaef55ba39fcdb.51751.list-id.mcsv.net>
+X-Accounttype: pr
+List-Unsubscribe: <https://whitehouse.us19.list-manage.com/unsubscribe?u=0ae7f75ebacfaef55ba39fcdb&id=f7bd3987f2&e=8c040e9eac&c=30122dc0a1>, <mailto:unsubscribe-mc.us19_0ae7f75ebacfaef55ba39fcdb.30122dc0a1-8c040e9eac@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_510750757"
+Return-Path:
+ bounce-mc.us19_104123722.6119701-8c040e9eac@mail117.atl281.mcsv.net
+X-MS-Exchange-Organization-ExpirationStartTime: 25 Feb 2021 18:44:30.7746
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 14f45ba4-c884-45c8-ed7c-08d8d9bd631b
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: a42080b3-4dd9-48b4-bf44-d70d3bbaf5d2:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource:
+ BN3NAM04FT042.eop-NAM04.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 14f45ba4-c884-45c8-ed7c-08d8d9bd631b
+X-MS-TrafficTypeDiagnostic: MN2PR22MB1984:
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Caltimes-External: NEW
+X-CalTimesAllow: Hygienic
+X-MS-Oob-TLC-OOBClassifiers: OLM:8882;
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:198.2.143.117;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail117.atl281.mcsv.net;PTR:mail117.atl281.mcsv.net;CAT:NONE;SFS:(4636009)(2160300002)(83170400001)(76236003)(166002)(15650500001)(6916009)(19810500001)(9686003)(16670700002)(83380400001)(26005)(42882007)(82870400002)(33964004)(7596003)(5660300002)(336012)(6666004)(1096003)(8676002)(19627405001)(7126003)(83080400002)(7636003)(16799955002)(3450700001)(356005);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Feb 2021 18:44:30.7076
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 14f45ba4-c884-45c8-ed7c-08d8d9bd631b
+X-MS-Exchange-CrossTenant-Id: a42080b3-4dd9-48b4-bf44-d70d3bbaf5d2
+X-MS-Exchange-CrossTenant-AuthSource:
+ BN3NAM04FT042.eop-NAM04.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MN2PR22MB1984
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.1333075
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.3846.041
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(20160514016)(750129)(520011016)(944506458)(944626604);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?Rm5leHluUVZIL0tjNk1kVUhmbFdTd1pVTlFYSTM5eUgxeWdHWTJrYXBxNWtn?=
+ =?utf-8?B?Q3RoRVhWcEZmSCtna01DRkR4R2V6TzJMNjhscitGVVQyMDFHMW1zNUM3cHlG?=
+ =?utf-8?B?ckdIQTdKZjhaVTdBR3BhTVJWeGV2VUVqZE1qb1pnS0lVMno5UmRTa1Z5bXZz?=
+ =?utf-8?B?RGptZnYyVTlRRG0vSU1BUnR2N1pZNzlDaWRJNlFURGlFVXJnekNxREJaTzJt?=
+ =?utf-8?B?WDFJOXhrek92WGp2dCtFcFNnT0pLVThaSTNaKzRlRlVnNWJqbERLakpMdHZ2?=
+ =?utf-8?B?RnNYR25YYzNSNkUxNnREY3MrU0VHQUxvZkYzQ1hLSklIODVYdmpjU1UyNXpM?=
+ =?utf-8?B?N2NCVzdMUW9HTHgvM1NHMWFLRmUvM09kR0hjOHBCSGJrV3FHTjcxNzRORnRo?=
+ =?utf-8?B?aExHdTNaa1MxNVRzN3MzQlRkRUN1akQrSFFPZHhHc3ZNdURwSUxmcDJiUG5U?=
+ =?utf-8?B?WHpUbTVzQUxESjg1emVnUElnU3ZJNkwyaWZhWjJpTkJ3Uys4OEl5YUxRaEJ5?=
+ =?utf-8?B?QlFBRTk3bnR3V2ZjOWRSSWgwNWtXVU9SbkZjRTVtN3B5L24zSnFNWTNONCtz?=
+ =?utf-8?B?WVJicDZ2dkFYeTVKczF3R1JlSDJwTkdRbTRxb21qdHFzRUZ1RllJcytJRS8v?=
+ =?utf-8?B?aDN6Z3d2NHEvNlRzbnB4MVVjZnI1U3g2d29IVnQ2ekZ2NDBNRStCS0oxTUVX?=
+ =?utf-8?B?T3JzOEZBaU9ibGdGQURwUGpxdXl3NzZDdld5akEzd2NDdEdDREpOMmpjQTl1?=
+ =?utf-8?B?UnJlZE1XUkRBcVN0YjI1R1ArOGZRU1Q2bVFBdnA3YjRDNnFCMEhjRVVkc01S?=
+ =?utf-8?B?K0dmNFBDckRDeXE3bmVwNUZLT1Z3RE81aWc5UXRSVnlHTHJlU3VxTW5sU1pV?=
+ =?utf-8?B?ekl5bjI4cHp4bjJEUDhGYnBUbWdhMjR4TDBiTDBuZS9JSjdHMmczS0hpcmNT?=
+ =?utf-8?B?Z2FmR1NoRmRaQXZyQko1UDJGNThLSjVCeDZRM1h0SmJMQmlLYXR3bmlwWFVq?=
+ =?utf-8?B?TjdCSktGMnVMeXlPTUlYb05kWDN0dExYV1ZlbVhTMHRleTREeThmV1FNTFpx?=
+ =?utf-8?B?V1JpemdldW9NY1ZNd3AxczY5TytzS3N0RFM1V2hsem5hM09BNStCVnRtSFA1?=
+ =?utf-8?B?K3l5VGo3V1ZRYVVVaUxJMWN2RmRQQTNZcldtclcwdFVTV0cxZ0pWQ3NzUGJF?=
+ =?utf-8?B?bmhyOVZTZTNnQ0NiZFZlWjhId0VtYWRTd3dNeVEwR0V3cm5iQjRZT1k3L0k1?=
+ =?utf-8?B?QW1HZDZnNHhWck5RaFUvSXYyQzNpeVRSUklPNE9BQ2JZM0wvWi9IZVU0b1Z3?=
+ =?utf-8?B?dmVXTjdhMkFRSEllMVl4YWNCU25idUdscm1zTmVabnFDeEl6cnRGcyticjFz?=
+ =?utf-8?B?N1hTTUVqZy85WmhnNm9FSGNZQjJXUHU5cytZM3Jja1N2UU1ob3RPMlVxSnND?=
+ =?utf-8?B?TzYwQmRBSWRaZmEvc3FMU2ROSUJBMUhrVk9jNm52bjBkRFY4RlhCeHhXWDJQ?=
+ =?utf-8?B?TndMNmVuUEE3RDRHNElwRDBsREJ6S2tBUEdOaGc1RGpmL2cwaTlyWDFOYnRn?=
+ =?utf-8?B?UnBEeUtPdDBlMXhaV2lkTXcranYvdHBuOVhHNCtSais2LzJlRmcwcndhZEFV?=
+ =?utf-8?B?Zmt5NzRJOHM5dUJtRHYyM2kzUEhISU5nbTd3ekJCSmY5VHlGSUNqcUFjOE9j?=
+ =?utf-8?B?Rys1b3RyaE52Vm5WTy96RDdRdHFMZGhFSXpQZjVvR0dmMStGYUpPYlFVTjZZ?=
+ =?utf-8?B?YytFOTFyaUJTZ2xSZnFMQzU2K1J6RmZqaWZvTmhEa2JYR2hBSUd6VVczYllo?=
+ =?utf-8?B?T3B4YVBoVFRhSnY0KzdvKzVxZDNiL1ZueHFhNENyVGg0NTgwMStUV2xLczNX?=
+ =?utf-8?B?RHZSNS8xZ1pMRXR1aVFIcDZmNEpRV3BQams5QTJiRS8yWlRwY3Q0QUIzeHlV?=
+ =?utf-8?B?TmcrMk5udkc1VEp2WHNwS0F5TVNWdjVEaGNBUDliNHVnZGRrYklEKzlXYUtG?=
+ =?utf-8?B?V3pjNEJra05zTGxPNFdpVEdudVM3Tm9MRUJXak5QNjIxd3BMaXgwV1dlUEJX?=
+ =?utf-8?B?UGJIQkpVeis0Vi9Wa0h5Ykszb0xBNnhjaTh3SEpoZFIxWkpXN1E5amZmVS9h?=
+ =?utf-8?B?MU9pYTVOS2xDeE14aTBTWVh3OWRSS29LZVZzUmFuaVJUQU9uQ3k3eGRKS1pT?=
+ =?utf-8?B?YjhaOXJxT08wNkJhQkRvVW9EVEFLNjErQStUR0hnTlJ3cmRCY0lQblVaOE0z?=
+ =?utf-8?Q?yLkAwcx7fTww+9XkHUspcD+d45Ip4qaZvn3AGGu1uk=3D?=
+MIME-Version: 1.0
+
+--_----------=_MCPart_510750757
+Content-Type: text/plain; charset="utf-8"; format=fixed
+Content-Transfer-Encoding: quoted-printable
+
+EXTERNAL SOURCE
+
+[https://mcusercontent.com/0ae7f75ebacfaef55ba39fcdb/images/8d381344-d67a-4=
+99e-bd19-3f9f3369e110.png]
+UPDATED:
+
+At 5:30PM EST, the Vice President will ceremonially swear in Jennifer Granh=
+olm as Secretary of Energy. This event will be pooled press.
+=EF=BB=BF
+FOR IMMEDIATE RELEASE
+February 24, 2021
+
+DAILY GUIDANCE FOR THE VICE PRESIDENT FOR
+THURSDAY, FEBRUARY 25, 2021
+
+At 9:00AM EST, the Vice President will visit a local pharmacy in Washington=
+, D.C., participating in the Administration=E2=80=99s Federal Retail Pharma=
+cy Program, which is increasing access to the COVID-19 vaccine across the c=
+ountry. There will be travel pool coverage of this visit.
+
+At 9:50AM EST, the Vice President will receive the President=E2=80=99s Dail=
+y Brief in the Oval Office. This meeting is closed press.
+
+At 12:30PM EST, the Vice President will have lunch with the President in th=
+e Private Dining Room. This lunch is closed press.
+
+At 2:30PM EST, the Vice President will join the President for an event comm=
+emorating the 50 millionth COVID-19 vaccine shot in the South Court Auditor=
+ium. This event will be pooled press.
+
+At 1:45PM EST, the President and the Vice President will receive a briefing=
+ from members of their COVID-19 team on the COVID-19 response and the state=
+ of vaccinations in the Oval Office. This meeting will be closed press.
+
+###
+
+
+Privacy Policy<https://whitehouse.us19.list-manage.com/track/click?u=3D0ae7=
+f75ebacfaef55ba39fcdb&id=3D5acef5a8c0&e=3D8c040e9eac> | Unsubscribe<https:/=
+/whitehouse.us19.list-manage.com/unsubscribe?u=3D0ae7f75ebacfaef55ba39fcdb&=
+id=3Df7bd3987f2&e=3D8c040e9eac&c=3D30122dc0a1>
+The White House =C2=B7 1600 Pennsylvania Ave NW =C2=B7 Washington, DC 20500=
+-0003 =C2=B7 USA =C2=B7 202-456-1111
+
+
+--_----------=_MCPart_510750757
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:=
+schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:offi=
+ce"><head><!-- NAME: 1 COLUMN --><!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><m=
+eta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<title>UPDATED: DAILY GUIDANCE FOR THE VICE PRESIDENT FOR THURSDAY, FEBRUAR=
+Y 25, 2021</title>
+<style type=3D"text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=3Dtel],a[href^=3Dsms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		#bodyCell{
+			padding:10px;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+		body,#bodyTable{
+			background-color:#FAFAFA;
+		}
+		#bodyCell{
+			border-top:0;
+		}
+		.templateContainer{
+			border:0;
+		}
+		h1{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:26px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h2{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:22px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h3{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:20px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h4{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		#templatePreheader{
+			background-color:#ffffff;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:20px;
+			padding-bottom:20px;
+		}
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			color:#656565;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent p=
+ a{
+			color:#656565;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#ffffff;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:contain;
+			border-top:0;
+			border-bottom:0;
+			padding-top:0px;
+			padding-bottom:0px;
+		}
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			color:#202020;
+			font-family:Georgia, Times, 'Times New Roman', serif;
+			font-size:14px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+			color:#0064bc;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateBody{
+			background-color:#ffffff;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:2px none #EAEAEA;
+			padding-top:20px;
+			padding-bottom:20px;
+		}
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			color:#202020;
+			font-family:Georgia, Times, 'Times New Roman', serif;
+			font-size:14px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{
+			color:#0064bc;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateFooter{
+			background-color:#fafafa;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:1px none ;
+			border-bottom:1px none ;
+			padding-top:20px;
+			padding-bottom:20px;
+		}
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			color:#656565;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:center;
+		}
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+			color:#656565;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCapti=
+onBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcn=
+ImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionR=
+ightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRi=
+ghtImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCar=
+dRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImage=
+CardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter =
+.mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCapt=
+ionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-chil=
+d .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h1{
+			font-size:22px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h2{
+			font-size:20px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h3{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h4{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContain=
+er .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}</style><!--[if !mso]><!--><link href=3D"https://fonts.googleapis.com/css?=
+family=3DOpen+Sans:400,400i,700,700i" rel=3D"stylesheet"><!--<![endif]-->
+</head>
+<body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FAFAFA;">
+<p style=3D"background-color: #fdebd0"><font size=3D"2">EXTERNAL SOURCE </f=
+ont></p>
+<div><!--
+-->
+<center>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" he=
+ight=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 1=
+00%;background-color: #FAFAFA;">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" id=3D"bodyCell" style=3D"mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;h=
+eight: 100%;margin: 0;padding: 10px;width: 100%;border-top: 0;">
+<!-- BEGIN TEMPLATE // --><!--[if (gte mso 9)|(IE)]>
+                        <table align=3D"center" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                        <tr>
+                        <td align=3D"center" valign=3D"top" width=3D"600" s=
+tyle=3D"width:600px;">
+                        <![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"templateContainer" style=3D"border-collapse: collapse;mso-table-lspace=
+: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;border: 0;max-width: 600px !important;">
+<tbody>
+<tr>
+<td valign=3D"top" id=3D"templatePreheader" style=3D"background:#ffffff non=
+e no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-=
+image: none;background-repeat: no-repeat;background-position: center;backgr=
+ound-size: cover;border-top: 0;border-bottom: 0;padding-top: 20px;padding-b=
+ottom: 20px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnImageBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;">
+<tbody class=3D"mcnImageBlockOuter">
+<tr>
+<td valign=3D"top" style=3D"padding: 0px;mso-line-height-rule: exactly;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnImageBl=
+ockInner">
+<table align=3D"left" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"mcnImageContentContainer" style=3D"min-width: 100%;bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td class=3D"mcnImageContent" valign=3D"top" style=3D"padding-right: 0px;pa=
+dding-left: 0px;padding-top: 0;padding-bottom: 0;text-align: center;mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;">
+<img align=3D"center" alt=3D"" src=3D"https://mcusercontent.com/0ae7f75ebac=
+faef55ba39fcdb/images/8d381344-d67a-499e-bd19-3f9f3369e110.png" width=3D"32=
+0" style=3D"max-width: 640px;padding-bottom: 0;display: inline !important;v=
+ertical-align: bottom;border: 0;height: auto;outline: none;text-decoration:=
+ none;-ms-interpolation-mode: bicubic;" class=3D"mcnRetinaImage">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" id=3D"templateHeader" style=3D"background:#ffffff none n=
+o-repeat center/contain;mso-line-height-rule: exactly;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-i=
+mage: none;background-repeat: no-repeat;background-position: center;backgro=
+und-size: contain;border-top: 0;border-bottom: 0;padding-top: 0px;padding-b=
+ottom: 0px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;ms=
+o-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-ls=
+pace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContainer">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding-top: 0;padding=
+-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break=
+: break-word;color: #202020;font-family: Georgia, Times, 'Times New Roman',=
+ serif;font-size: 14px;line-height: 150%;text-align: left;">
+<strong>UPDATED: </strong><br>
+&nbsp;<br>
+At <strong><u>5:30PM EST</u></strong>, the Vice President will ceremonially=
+ swear in Jennifer Granholm as Secretary of Energy. This event will be pool=
+ed press.<br>
+=EF=BB=BF<br>
+<strong>FOR IMMEDIATE RELEASE</strong><br>
+February 24, 2021
+<div style=3D"text-align: center;">&nbsp;<br>
+<strong>DAILY GUIDANCE FOR THE VICE PRESIDENT FOR</strong><br>
+<strong>THURSDAY, FEBRUARY 25, 2021</strong><br>
+&nbsp;</div>
+At <strong><u>9:00AM EST</u></strong>, the Vice President will visit a loca=
+l pharmacy in Washington, D.C., participating in the Administration=E2=80=
+=99s Federal Retail Pharmacy Program, which is increasing access to the COV=
+ID-19 vaccine across the country. There will
+ be travel pool coverage of this visit.<br>
+&nbsp;<br>
+At <strong><u>9:50AM</u></strong><strong> EST</strong>, the Vice President =
+will receive the President=E2=80=99s Daily Brief in the Oval Office. This m=
+eeting is closed press.<br>
+&nbsp;<br>
+At <strong><u>12:30PM EST</u></strong>, the Vice President will have lunch =
+with the President in the Private Dining Room. This lunch is closed press.<=
+br>
+&nbsp;<br>
+At <strong><u>2:30PM EST</u></strong>, the Vice President will join the Pre=
+sident for an event commemorating the 50 millionth COVID-19 vaccine shot in=
+ the South Court Auditorium. This event will be pooled press.<br>
+<br>
+At <strong><u>1:45PM EST</u></strong>, the President and the Vice President=
+ will receive a briefing from members of their COVID-19 team on the COVID-1=
+9 response and the state of vaccinations in the Oval Office. This meeting w=
+ill be closed press.<br>
+&nbsp;
+<div style=3D"text-align: center;">###</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+				</td>
+				<![endif]--><!--[if mso]>
+				</tr>
+				</table>
+				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" id=3D"templateBody" style=3D"background:#ffffff none no-=
+repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-image=
+: none;background-repeat: no-repeat;background-position: center;background-=
+size: cover;border-top: 0;border-bottom: 2px none #EAEAEA;padding-top: 20px=
+;padding-bottom: 20px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;ms=
+o-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-ls=
+pace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContainer">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding: 0px 18px 9px;=
+font-family: Georgia, Times, &quot;Times New Roman&quot;, serif;font-size: =
+14px;line-height: 125%;mso-line-height-rule: exactly;-ms-text-size-adjust: =
+100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #202020;t=
+ext-align: left;">
+<div style=3D"text-align: center; font-size:12px; font-weight: bold; font-f=
+amily:open sans,helvetica neue,helvetica,arial,sans-serif; color:#0064bc">
+<br>
+<br>
+<a href=3D"https://nam04.safelinks.protection.outlook.com/?url=3Dhttps%3A%2=
+F%2Fwhitehouse.us19.list-manage.com%2Ftrack%2Fclick%3Fu%3D0ae7f75ebacfaef55=
+ba39fcdb%26id%3D5acef5a8c0%26e%3D8c040e9eac&amp;data=3D04%7C01%7Cnoah.bierm=
+an%40latimes.com%7C14f45ba4c88445c8ed7c08d8d9bd631b%7Ca42080b34dd948b4bf44d=
+70d3bbaf5d2%7C0%7C0%7C637498754719250393%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
+4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=
+=3Dx%2BY0vCTRvBKTyTem4Dvo1PD8DTiWXyvFEqlYP5ZJCqQ%3D&amp;reserved=3D0" origi=
+nalsrc=3D"https://whitehouse.us19.list-manage.com/track/click?u=3D0ae7f75eb=
+acfaef55ba39fcdb&amp;id=3D5acef5a8c0&amp;e=3D8c040e9eac" shash=3D"B4a3sAMTz=
+J2ilvMQFUd9b3kxDK0j8IiZ3bBPSDeledTFf1o+6HLJfutIV5Z62klB/X5eyZ18wQ7ID8wx3Rl7=
+KUgX09HKaAMhY5XoDitFNdbveloOSynzlY71jnj0/1oH/feXEMhhyhh7ZJnCXaBAYMqk32Ebhor=
+OVDEM6vmA1RU=3D" style=3D"font-weight: bold;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #0064bc;tex=
+t-decoration: underline;" target=3D"_blank">Privacy
+ Policy</a> | <a href=3D"https://nam04.safelinks.protection.outlook.com/?ur=
+l=3Dhttps%3A%2F%2Fwhitehouse.us19.list-manage.com%2Funsubscribe%3Fu%3D0ae7f=
+75ebacfaef55ba39fcdb%26id%3Df7bd3987f2%26e%3D8c040e9eac%26c%3D30122dc0a1&am=
+p;data=3D04%7C01%7Cnoah.bierman%40latimes.com%7C14f45ba4c88445c8ed7c08d8d9b=
+d631b%7Ca42080b34dd948b4bf44d70d3bbaf5d2%7C0%7C0%7C637498754719255369%7CUnk=
+nown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJX=
+VCI6Mn0%3D%7C1000&amp;sdata=3D3VNEkgq0%2FNvUjBhEDjnVfyvPYMcN4KJt5R45EhTFN2U=
+%3D&amp;reserved=3D0" originalsrc=3D"https://whitehouse.us19.list-manage.co=
+m/unsubscribe?u=3D0ae7f75ebacfaef55ba39fcdb&amp;id=3Df7bd3987f2&amp;e=3D8c0=
+40e9eac&amp;c=3D30122dc0a1" shash=3D"zcvSJ+/86gx1pa7Imez8wm7Nk8SqN6UPNmq5iK=
+v1j3vVtxAUE6TTztkfxJyHJx3PV5wg4CoEFPTBzKcOC1TIaXPqwDX6v4DHNnjJm3ter5CsNoo0Z=
+JmDmwu1nP+Mb/4RfmzXP0jlpR2hXWGXok1TfPGIHFp0ZK5QLDmitdFNX8Y=3D" style=3D"fon=
+t-weight: bold;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;color: #0064bc;text-decoration: underline;" tar=
+get=3D"_blank">
+Unsubscribe</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+				</td>
+				<![endif]--><!--[if mso]>
+				</tr>
+				</table>
+				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" id=3D"templateFooter" style=3D"background:#fafafa none n=
+o-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;background-color: #fafafa;background-ima=
+ge: none;background-repeat: no-repeat;background-position: center;backgroun=
+d-size: cover;border-top: 1px none;border-bottom: 1px none;padding-top: 20p=
+x;padding-bottom: 20px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+<tbody class=3D"mcnTextBlockOuter">
+<tr>
+<td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;ms=
+o-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]--><!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-ls=
+pace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContainer">
+<tbody>
+<tr>
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding-top: 0;padding=
+-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break=
+: break-word;color: #656565;font-family: Helvetica;font-size: 12px;line-hei=
+ght: 150%;text-align: center;">
+<span style=3D"font-size:12px">The White House =C2=B7 1600 Pennsylvania Ave=
+ NW =C2=B7 Washington, DC 20500-0003 =C2=B7 USA =C2=B7 202-456-1111</span>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+				</td>
+				<![endif]--><!--[if mso]>
+				</tr>
+				</table>
+				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--><!-- // END TEMPLATE --></td>
+</tr>
+</tbody>
+</table>
+</center>
+<img src=3D"https://whitehouse.us19.list-manage.com/track/open.php?u=3D0ae7=
+f75ebacfaef55ba39fcdb&amp;id=3D30122dc0a1&amp;e=3D8c040e9eac" height=3D"1" =
+width=3D"1">
+</div>
+</body>
+</html>
+
+--_----------=_MCPart_510750757--
