@@ -1,6 +1,11 @@
 name: Execute notebook
 
-on: [push]
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '00 07,20 * * *'
+
 
 jobs:
   run:
