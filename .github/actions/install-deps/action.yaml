@@ -1,5 +1,5 @@
 name: 'Install dependencies'
-description: 'Install the Python and Node.JS dependencies'
+description: 'Install the Python dependencies'
 runs:
   using: "composite"
   steps: 
