@@ -17,7 +17,7 @@ jobs:
           python-version: 3.8
 
       - name: Install dependencies
-        uses: ./.github/actions/install-deps
+        uses: ././.github/actions/install-deps
 
       - name: Run
         run: make -f ././trump-desk/Makefile
