@@ -1,134 +1,130 @@
-Received: from DM5PR2201MB1066.namprd22.prod.outlook.com (2603:10b6:4:31::11)
- by BLAPR22MB2194.namprd22.prod.outlook.com with HTTPS; Fri, 5 Mar 2021
- 00:51:19 +0000
-Received: from MWHPR2201CA0055.namprd22.prod.outlook.com
- (2603:10b6:301:16::29) by DM5PR2201MB1066.namprd22.prod.outlook.com
- (2603:10b6:4:31::11) with Microsoft SMTP Server (version=TLS1_2,
- cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3890.28; Fri, 5 Mar
- 2021 00:48:10 +0000
-Received: from MW2NAM04FT051.eop-NAM04.prod.protection.outlook.com
- (2603:10b6:301:16:cafe::d2) by MWHPR2201CA0055.outlook.office365.com
- (2603:10b6:301:16::29) with Microsoft SMTP Server (version=TLS1_2,
- cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3912.17 via Frontend
- Transport; Fri, 5 Mar 2021 00:48:09 +0000
-Authentication-Results: spf=pass (sender IP is 148.105.12.248)
- smtp.mailfrom=mail248.sea22.mcdlv.net; latimes.com; dkim=pass (signature was
+Received: from DM5PR22MB0764.namprd22.prod.outlook.com (2603:10b6:3:130::17)
+ by BLAPR22MB2194.namprd22.prod.outlook.com with HTTPS; Thu, 1 Apr 2021
+ 00:24:21 +0000
+Received: from DM5PR13CA0068.namprd13.prod.outlook.com (2603:10b6:3:117::30)
+ by DM5PR22MB0764.namprd22.prod.outlook.com (2603:10b6:3:130::17) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3999.26; Thu, 1 Apr
+ 2021 00:24:20 +0000
+Received: from DM6NAM04FT051.eop-NAM04.prod.protection.outlook.com
+ (2603:10b6:3:117:cafe::f6) by DM5PR13CA0068.outlook.office365.com
+ (2603:10b6:3:117::30) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4020.8 via Frontend
+ Transport; Thu, 1 Apr 2021 00:24:20 +0000
+Authentication-Results: spf=pass (sender IP is 198.2.144.77)
+ smtp.mailfrom=mail77.atl301.rsgsv.net; latimes.com; dkim=pass (signature was
  verified) header.d=mail.whitehouse.gov;latimes.com; dmarc=pass action=none
  header.from=mail.whitehouse.gov;compauth=pass reason=100
-Received-SPF: Pass (protection.outlook.com: domain of mail248.sea22.mcdlv.net
- designates 148.105.12.248 as permitted sender)
- receiver=protection.outlook.com; client-ip=148.105.12.248;
- helo=mail248.sea22.mcdlv.net;
-Received: from mail248.sea22.mcdlv.net (148.105.12.248) by
- MW2NAM04FT051.mail.protection.outlook.com (10.13.31.77) with Microsoft SMTP
+Received-SPF: Pass (protection.outlook.com: domain of mail77.atl301.rsgsv.net
+ designates 198.2.144.77 as permitted sender) receiver=protection.outlook.com;
+ client-ip=198.2.144.77; helo=mail77.atl301.rsgsv.net;
+Received: from mail77.atl301.rsgsv.net (198.2.144.77) by
+ DM6NAM04FT051.mail.protection.outlook.com (10.13.158.109) with Microsoft SMTP
  Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
- 15.20.3890.20 via Frontend Transport; Fri, 5 Mar 2021 00:48:09 +0000
+ 15.20.3977.25 via Frontend Transport; Thu, 1 Apr 2021 00:24:19 +0000
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.whitehouse.gov;
-	s=k1; t=1614905289; i=ovp@mail.whitehouse.gov;
-	bh=OXZfZFlnXlbg2vvKoze/2gYSvUcLEGAxGnP4PgAMB+A=;
+	s=k1; t=1617236659; i=ovp@mail.whitehouse.gov;
+	bh=7qS0UZ6EOHJ5uTDkO86EEzM4uj+bpfrqF26wgOtb9fo=;
 	h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
 	 Content-Type:MIME-Version;
-	b=qboyEojTOML2QwWH/XTLSsjndABESh2YJRdtVmj2ViERV2KodhXO1CgDZEzANyJ9u
-	 JkFmbuystKpOnwUV9iw2h/Yw3sjtjwRxeXZehZfBCoyFxUd/C+L2IPAkFvOgFXmQ6S
-	 v1UxN9z4kfChzzgZVUatDGGjULTBnkmVj8RSkR+I=
+	b=VSikzDnOT1eM1xjfWLqLEjbT+I0uXdiyLzjq6ZqS038SYINbimv3wMLZ+EfyBu6Dk
+	 y4CW1nUBTQu5h4PcmIe5fUy51ckEMLFl76NIrie44xXBF+4l3/l8/Lo+PZ20JbPox1
+	 jhRhWhQqxj2Q1PGSSJz4O17/wXZoQSQaCXMCTu2s=
 Received: from localhost (localhost [127.0.0.1])
-	by mail248.sea22.mcdlv.net (Mailchimp) with ESMTP id 4Ds8Gx2pZPzQXgKnw
-	for <noah.bierman@latimes.com>; Fri,  5 Mar 2021 00:48:09 +0000 (GMT)
-Subject: =?utf-8?Q?DAILY=20GUIDANCE=20FOR=20THE=20VICE=20PRESIDENT=20FOR=20FRIDAY=2C=20MARCH=205=2C=202021?=
+	by mail77.atl301.rsgsv.net (Mailchimp) with ESMTP id 4F9kSz03mQzLfH1cg
+	for <noah.bierman@latimes.com>; Thu,  1 Apr 2021 00:24:19 +0000 (GMT)
+Subject: =?utf-8?Q?DAILY=20GUIDANCE=20FOR=20THE=20VICE=20PRESIDENT=20FOR=20THURSDAY=2C=20APRIL=201?=
 From: =?utf-8?Q?White=20House=3A=20Office=20of=20the=20Vice=20President?= <OVP@mail.whitehouse.gov>
 Reply-To: =?utf-8?Q?White=20House=3A=20Office=20of=20the=20Vice=20President?= <OVP@mail.whitehouse.gov>
 To: <noah.bierman@latimes.com>
-Date: Fri,  5 Mar 2021 00:47:59 +0000
-Message-ID: <0ae7f75ebacfaef55ba39fcdb.8c040e9eac.20210305004748.9852ffa667.01f0251b@mail248.sea22.mcdlv.net>
-X-Mailer: MailChimp Mailer - **CID9852ffa6678c040e9eac**
-X-Campaign: mailchimp0ae7f75ebacfaef55ba39fcdb.9852ffa667
-X-campaignid: mailchimp0ae7f75ebacfaef55ba39fcdb.9852ffa667
-X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=0ae7f75ebacfaef55ba39fcdb&id=9852ffa667&e=8c040e9eac
+Date: Thu,  1 Apr 2021 00:24:14 +0000
+Message-ID: <0ae7f75ebacfaef55ba39fcdb.8c040e9eac.20210401002405.0bd03f54d6.f51a2ac3@mail77.atl301.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID0bd03f54d68c040e9eac**
+X-Campaign: mailchimp0ae7f75ebacfaef55ba39fcdb.0bd03f54d6
+X-campaignid: mailchimp0ae7f75ebacfaef55ba39fcdb.0bd03f54d6
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=0ae7f75ebacfaef55ba39fcdb&id=0bd03f54d6&e=8c040e9eac
 X-MC-User: 0ae7f75ebacfaef55ba39fcdb
-Feedback-ID: 104123722:104123722.6123385:us19:mc
+Feedback-ID: 104123722:104123722.6133929:us19:mc
 List-ID: 0ae7f75ebacfaef55ba39fcdbmc list <0ae7f75ebacfaef55ba39fcdb.51751.list-id.mcsv.net>
 X-Accounttype: pr
-List-Unsubscribe: <https://whitehouse.us19.list-manage.com/unsubscribe?u=0ae7f75ebacfaef55ba39fcdb&id=f7bd3987f2&e=8c040e9eac&c=9852ffa667>, <mailto:unsubscribe-mc.us19_0ae7f75ebacfaef55ba39fcdb.9852ffa667-8c040e9eac@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe: <https://whitehouse.us19.list-manage.com/unsubscribe?u=0ae7f75ebacfaef55ba39fcdb&id=f7bd3987f2&e=8c040e9eac&c=0bd03f54d6>, <mailto:unsubscribe-mc.us19_0ae7f75ebacfaef55ba39fcdb.0bd03f54d6-8c040e9eac@mailin.mcsv.net?subject=unsubscribe>
 List-Unsubscribe-Post: List-Unsubscribe=One-Click
-Content-Type: multipart/alternative; boundary="_----------=_MCPart_1530713024"
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_301318256"
 Return-Path:
- bounce-mc.us19_104123722.6123385-8c040e9eac@mail248.sea22.mcdlv.net
-X-MS-Exchange-Organization-ExpirationStartTime: 05 Mar 2021 00:48:09.6019
+ bounce-mc.us19_104123722.6133929-8c040e9eac@mail77.atl301.rsgsv.net
+X-MS-Exchange-Organization-ExpirationStartTime: 01 Apr 2021 00:24:19.6323
  (UTC)
 X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
 X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
 X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
 X-MS-Exchange-Organization-Network-Message-Id:
- 1077d724-8cba-4c3b-03b9-08d8df705909
+ 46e9fa25-406f-4a1d-374a-08d8f4a47ddc
 X-EOPAttributedMessage: 0
 X-EOPTenantAttributedMessage: a42080b3-4dd9-48b4-bf44-d70d3bbaf5d2:0
 X-MS-Exchange-Organization-MessageDirectionality: Incoming
 X-MS-PublicTrafficType: Email
 X-MS-Exchange-Organization-AuthSource:
- MW2NAM04FT051.eop-NAM04.prod.protection.outlook.com
+ DM6NAM04FT051.eop-NAM04.prod.protection.outlook.com
 X-MS-Exchange-Organization-AuthAs: Anonymous
-X-MS-Office365-Filtering-Correlation-Id: 1077d724-8cba-4c3b-03b9-08d8df705909
-X-MS-TrafficTypeDiagnostic: DM5PR2201MB1066:
+X-MS-Office365-Filtering-Correlation-Id: 46e9fa25-406f-4a1d-374a-08d8f4a47ddc
+X-MS-TrafficTypeDiagnostic: DM5PR22MB0764:
 X-MS-Exchange-AtpMessageProperties: SA|SL
 X-Caltimes-External: NEW
 X-CalTimesAllow: Hygienic
-X-MS-Oob-TLC-OOBClassifiers: OLM:7691;
-X-MS-Exchange-Organization-ACSExecutionContext: 03/05/2021 00:48:10;03/05/2021
- 00:51:18;{"SubmissionInfo":{"SubmissionToken":"PFRva2VuIEVuZHBvaW50PSJodHRwczovL0RNNlNOQTAzVFAxMzMuZW9wLXNuYTAzLnByb2QucHJvdGVjdGlvbi5vdXRsb29rLmNvbS9zb25hcmFwaS8iIElkPSI5OTI0M2RkMS00YzdkLWViMTEtYjBkMS0wNDA5NzNjZGM5ZDIiIFJvbGU9IlN1Ym1pdHRlciIgVG9rZW5UeXBlPSJTdWJtaXNzaW9uVG9rZW4iIFNpZ25hdHVyZT0iSm82RlRvcUk2d2ExaTg5WDJqU2JHU2ttandPY29QZGNPenBSUklvQTFVZlk3RHQrVU8yTS9IYXZWQmlTaEkrWUpvOGhhK21QaDZIOVlUWkxBU05LbEE9PSIgU2lnbmF0dXJlVmVyc2lvbj0iVmVyc2lvbjIxIiAvPg","Identity":"8e72eec6-6aed-40b1-abb5-6708b8bedaba"}};SC;S;0;03/05/2021
- 00:50:53;0|0|0|1|;
+X-MS-Oob-TLC-OOBClassifiers: OLM:8882;
 X-MS-Exchange-Organization-SCL: 1
-X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam: BCL:5;
 X-Forefront-Antispam-Report:
- CIP:148.105.12.248;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail248.sea22.mcdlv.net;PTR:mail248.sea22.mcdlv.net;CAT:NONE;SFS:(4636009)(5660300002)(26005)(82870400002)(7596003)(356005)(33964004)(76236003)(19627405001)(8676002)(83170400001)(7636003)(16670700002)(16799955002)(336012)(6666004)(3450700001)(19810500001)(42882007)(6916009)(9686003)(1096003)(7126003)(83380400001)(166002);DIR:INB;
-X-MS-Exchange-CrossTenant-OriginalArrivalTime: 05 Mar 2021 00:48:09.5659
+ CIP:198.2.144.77;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail77.atl301.rsgsv.net;PTR:mail77.atl301.rsgsv.net;CAT:NONE;SFS:(4636009)(286005)(42882007)(336012)(16670700002)(7126003)(166002)(36906005)(6666004)(76236003)(6916009)(16799955002)(19810500001)(2160300002)(356005)(7596003)(7636003)(8676002)(1096003)(3450700001)(26005)(83170400001)(83380400001)(82870400002)(9686003)(33964004)(19627405001);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 01 Apr 2021 00:24:19.4893
  (UTC)
-X-MS-Exchange-CrossTenant-Network-Message-Id: 1077d724-8cba-4c3b-03b9-08d8df705909
+X-MS-Exchange-CrossTenant-Network-Message-Id: 46e9fa25-406f-4a1d-374a-08d8f4a47ddc
 X-MS-Exchange-CrossTenant-Id: a42080b3-4dd9-48b4-bf44-d70d3bbaf5d2
 X-MS-Exchange-CrossTenant-AuthSource:
- MW2NAM04FT051.eop-NAM04.prod.protection.outlook.com
+ DM6NAM04FT051.eop-NAM04.prod.protection.outlook.com
 X-MS-Exchange-CrossTenant-AuthAs: Anonymous
 X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
-X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR2201MB1066
-X-MS-Exchange-Transport-EndToEndLatency: 00:03:09.6592879
-X-MS-Exchange-Processed-By-BccFoldering: 15.20.3846.052
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR22MB0764
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.8008239
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.3977.033
 X-Microsoft-Antispam-Mailbox-Delivery:
 	ucf:0;jmr:0;auth:0;dest:I;ENG:(20160514016)(750129)(520011016)(944506458)(944626604);
 X-Microsoft-Antispam-Message-Info:
-	=?Windows-1252?Q?AmYnCN+u5oYfjWHRAN3CImcQ78MUbTsRAggI0XLLaCN77+wbl1Wyd/Ni?=
- =?Windows-1252?Q?l+chkkyxkHsm4ujz36FRd7iyoko4qMvIopB4xrLlDG8cY5gPakFI42UH?=
- =?Windows-1252?Q?cL9yv/x8hrj/zT4QZnOmTnKNe0r6hAmszuDP3oC8EELzlNuwUC0i4mNi?=
- =?Windows-1252?Q?LHqLE7VTiHfXhr2C5BsmaUuUdLg4HAshGhRY7rShS991CO3dFFgeikqg?=
- =?Windows-1252?Q?9UQpY7AVStPaBOFpsR9o7ozioQ52NZRGukbeCjGcg9lJQg9tAPcVRALO?=
- =?Windows-1252?Q?VE+grMSvZpFjo2fqMA38PUS2F2zsFKwJWdMkIXebFykjD4ArksgVyY4q?=
- =?Windows-1252?Q?kojSsIXCaWtikyK05DOMZS4N15eqQIHGCLwz/Jbqsi0K+Ug0JpvKEF22?=
- =?Windows-1252?Q?HofFKRqlJTXbmdFDTASLSZqSKC2TVFUxT/qh9MK5OW+GYPVvnlWgZ5Rf?=
- =?Windows-1252?Q?ZYRxebwmVc4B4pP69sf8K2J9ZhgnycJ85CyNKe0HV++il3sk53JxpKZg?=
- =?Windows-1252?Q?itWkxBYShHrmBSYeWLdN+5XAa0sU4TWir8onXSZW4phsh26GwRR1fSAq?=
- =?Windows-1252?Q?YaKkU6mhk6HsfR19kU6FmDttwifws7jmU1gftzh0VFAZD0bS+f0Y4Gwk?=
- =?Windows-1252?Q?TDRMmP6jRqJk0pik5mhmijkAGms48cWKVDHiElDRYNIDR9KqlHWGx7Bn?=
- =?Windows-1252?Q?ppWCF5LZCL0NzVSS2aFTxhqo84zWWyKWKuCppUL8ajpVeeTm82va8KiF?=
- =?Windows-1252?Q?PYh2/FglBZmz2jx/RiGpQI9/dMm1BpvjYABKvsOOVIASqY4JoNEVn5ge?=
- =?Windows-1252?Q?5wn7OZr2go4CgHzQ9cy8JfZg9Dmg1TAlOkiPS7AdoAzBgURmX/Ge2AN7?=
- =?Windows-1252?Q?GjvUEksRo4otdbcljpGM7st2G6VsSdYOYmj2rqC+mLAy1qm7IGBTprFT?=
- =?Windows-1252?Q?cc99+VQ2LAQOD3e/CrcTvKjOIKT2K+feM0DsRW3iSkTj8cS9In/y2Wmv?=
- =?Windows-1252?Q?bRomKMMMuuD66mL2YqpXOd1oZzQ0ylFoRnSVdRhI3Z+Ze69yPBQln80+?=
- =?Windows-1252?Q?SzbaxlVsPbUYhLjWcRABL4o0QK59oozXQaFc7HZL1Y9zMUe0E7TmK17+?=
- =?Windows-1252?Q?xkJI+IrnYV1o903N7AalCPna6ixMy5K5UrvohADGsZnrzFv5ADAtmQcp?=
- =?Windows-1252?Q?bU7Huq+YJehm98BXyLftP2kOL32qVJFYAwiFInwsFq6rWARXQDxhL1+Z?=
- =?Windows-1252?Q?aRqe5incmGvVIdbR8Vl6U6bErqPtYB1LT/7hmeXDxkdN/l/RN5P1KAnG?=
- =?Windows-1252?Q?cpieu2qqfxqtMYTz42rI5eWLVvd5xWD5m1vp5fQ1AIWViaNixozQwq+Z?=
- =?Windows-1252?Q?ZQySxkprpVWzFwPXdgwANATri/3ETqrs0VskzpWFCb7u8a8zK0nWbg+I?=
- =?Windows-1252?Q?DjaLS24eULUNxTtFLSWg9c/r9zrmhy8sPqP95s6pCVs6kBh6zQJo0zF0?=
- =?Windows-1252?Q?LjOkR2E2ear5DclG6jUwwY5AdtHmLGVbavD3t3aT7IHdxyUFjxoS0AyZ?=
- =?Windows-1252?Q?o45JtuujlpfxJLbgy3aoWVtFqVI67qnjezrahx5wpCB3masLzjbic4Ux?=
- =?Windows-1252?Q?3G76MOa4HpKOWvEBK1hbejU3Xuk2oPc/ZDjDuLJCBq7JmMJucgiek6Or?=
- =?Windows-1252?Q?X45wrTaNWy8vbtfgcV8xgjH9c8gYNttyaUiFy9zcDnEfYHoftib3OGXN?=
- =?Windows-1252?Q?1kIs0MDDcfjtisd8eZeaQrAtqepsw7TXvtf5EuySs3wHFcsD983bYwo8?=
- =?Windows-1252?Q?N+a3aEziNdvgrtbZyK0TvPckQ0rBatjLoNoZBtI7vI3Jmd+4yfQnEdYi?=
- =?Windows-1252?Q?yw5pCE7F8wp0Lg=3D=3D?=
+	=?Windows-1252?Q?afYKKp2/jzxJb7MaEVDNqPiVanAtwj44rRRe8XUzYTMLyyNBwUifzkk5?=
+ =?Windows-1252?Q?lN93UE3vWbLJ1eDgzf//F0d+KWhonfp/BUpxkw6xfVrrAqZM/glvvYAv?=
+ =?Windows-1252?Q?dcnq8YNZSLHXV4pRc9kbgDl5aXN/MdaVTw90EVRWgMSexe2+z4EuI41o?=
+ =?Windows-1252?Q?+hXMeVVFaa4wjHs2ROIb8f+AGvia95rBuo0IF+Yy5I4GKfChgmsg9bSP?=
+ =?Windows-1252?Q?72d5+Kyz0dYhrc00+makjo+7jq1HOHZr2GnVRpHzLfBbR0qsnLCgb8E5?=
+ =?Windows-1252?Q?xOKwYILI5+NCK8zAMWlEku3/qDO1XADw792nmaEX0K+HHJyWiom2cQgO?=
+ =?Windows-1252?Q?XkqYSCD2G++BJIWcA1y36+Gn7UbCxPvsPRpPrWekqfS2vObZY7aOxqzR?=
+ =?Windows-1252?Q?zxg4qzVJDD0gB79AIpnb5X8kCD6fnc42ocGbTM5/I5po7reVM25kbrOS?=
+ =?Windows-1252?Q?kZwxKDIqYbkgoYfzkoqe/58m1Fow67Xb4JGbYHSzJtkqE6eyi/5OoV93?=
+ =?Windows-1252?Q?o69LfJG9gQlahCx//b+xIEqKcLJFTMAbxD0SUq2YvwN8IEml70QVmwzU?=
+ =?Windows-1252?Q?cvlscVJOPGbLomnIKBofkyVu07Asay2S5sqNMVOK5swHNCsCkzctoRu2?=
+ =?Windows-1252?Q?etBZ4+gSh9Y+FGojq8wtHehub/nAHVlVjqg95Sh9GvUMXfHwUpjoUxnU?=
+ =?Windows-1252?Q?XvbSSLKZRXeCNv43hPGx5RQS0p+u2CWsvpomDhnVwMjI/FtBDTA5JXXl?=
+ =?Windows-1252?Q?B1ndT+6lGGQhng640ejp3SeMKYrfFFw+DpHsAwEIf5sIsCLuVQwBDxTO?=
+ =?Windows-1252?Q?Sc9fbl3gcvp60wR8qnWDeiBCbqPi4zYfqwOdnoz04I/ouVS6ewdmhKUC?=
+ =?Windows-1252?Q?9UzAbIre6JlI+83tZXwf7kyOXitwK0fxCEVquCyBVP1QxIG4oAjYvDlm?=
+ =?Windows-1252?Q?2V+vfoV6CyvO2lEvYSjJb9aXoaufV7Vpvrm7FAT3yGQ4ztQSTyASOB3b?=
+ =?Windows-1252?Q?3ZePM/hW395ImMScjqWrfn6aXSmVZemN+Yxx4+CCFofzEmx9o84Ozjxc?=
+ =?Windows-1252?Q?oyaRiaUi+TPCUM8zfmAmjSJ3aCLCd0mc/cHkHG9cMJw6vcAZk9p+HSV1?=
+ =?Windows-1252?Q?2yfycbX6GCZ9EV8J36lorkwndJ4obKTHVTE6cHq5hxgHYp+/xACBzZuh?=
+ =?Windows-1252?Q?V9c1g+ucJC2X71KoVx1ruHZ1Hh7ySUPZcJ49iCGDaVP+yNvrG/8uqFVJ?=
+ =?Windows-1252?Q?T/jC43OEGPYIMGiG/3Y1gxwI2B/UewKD1oZ0C6Bj9gaRWat0W6TPrHFW?=
+ =?Windows-1252?Q?JfV6UgTln+RSeI9afjuZb6TJqEo2x9cJX/Je39taeYCSeeFxKiKF9kfu?=
+ =?Windows-1252?Q?30DAzU5+T7XvKnGAshi+yCJ76AoCS2Ib65JlypingAYu5A5cwyCP+edG?=
+ =?Windows-1252?Q?JGS0RBj4c6livMnWzox0zy5fbmh/P1cWxmla8mri27kHPYKJ/gBjFzBJ?=
+ =?Windows-1252?Q?P4Y4aY0+1RNbdK08jnFcyAhz85MzJGwx/L9UD+c3RrAUSdCIE+EAeVJ3?=
+ =?Windows-1252?Q?X4uogAn/H6VIAFLfwCVjfmbe8J6VUGH3FvgmgACUVsgm29J8GO5PVbOD?=
+ =?Windows-1252?Q?BqZMR4B2D+zwdoYeP9eFBzrboY5/vWNu20bKCk/DnyDTOznR4/JfX6A6?=
+ =?Windows-1252?Q?I7YwFgP/3R/JdW9ll5K2mIz8GQTSQCqJVFRrEafiGjuU+vyQ3rWTCIHY?=
+ =?Windows-1252?Q?Q3INZ1UbUsTG7OzaYnNT4bsIGGDfSeaybgQYv5gOfKfnH10SA1TgPPBW?=
+ =?Windows-1252?Q?5HcPkrUy+o1hEHvCDvlzquOtaQgxe2pRZSOQKJCZ2QC6SGinRdEYgI0A?=
+ =?Windows-1252?Q?mmRg8y6GFuDC8hGCP5sB0hXb8A22kXeGIRxw+vkIUkz45Ldu7m9AULsE?=
 MIME-Version: 1.0
 
---_----------=_MCPart_1530713024
+--_----------=_MCPart_301318256
 Content-Type: text/plain; charset="utf-8"; format=fixed
 Content-Transfer-Encoding: quoted-printable
 
@@ -137,40 +133,45 @@ EXTERNAL SOURCE
 [https://mcusercontent.com/0ae7f75ebacfaef55ba39fcdb/images/8d381344-d67a-4=
 99e-bd19-3f9f3369e110.png]
 FOR IMMEDIATE RELEASE
-March 4, 2021
+March 31, 2021
 
-DAILY GUIDANCE FOR THE VICE PRESIDENT FOR
-FRIDAY, MARCH 5, 2021
+DAILY GUIDANCE FOR THE VICE PRESIDENT
+FOR THURSDAY, APRIL 1
 
-At 9:50AM EST, the Vice President will receive the President=E2=80=99s Dail=
-y Brief in the Oval Office. This meeting is closed press.
+At 9:15AM EDT, the Vice President will meet virtually with stakeholders to =
+discuss COVID-19 public education efforts. This event in South Court Audito=
+rium will be pooled press and livestreamed on WhiteHouse.gov/Live<https://w=
+hitehouse.us19.list-manage.com/track/click?u=3D0ae7f75ebacfaef55ba39fcdb&id=
+=3D9c9436bc0a&e=3D8c040e9eac>.
 
-At 12:15PM EST, the Vice President will have lunch with the President in th=
+At 10:15AM EDT, the Vice President will receive the President=E2=80=99s Dai=
+ly Brief in the Oval Office. This meeting is closed press.
+
+At 12:15PM EDT, the Vice President will have lunch with the President in th=
 e Private Dining Room. This lunch is closed press.
 
-At 2:15PM EST, the President and the Vice President will receive an economi=
-c briefing with the Secretary of the Treasury in the Roosevelt Room. This m=
-eeting will have a pool spray at the top.
+At 1:15PM EDT, the Vice President will join the President when he holds a C=
+abinet Meeting in the East Room. This meeting will have a pool spray at the=
+ top.
 
-At 5:30PM EST, the President and the Vice President will receive a briefing=
- from members of their COVID-19 Response Team on the COVID-19 pandemic and =
-the state of vaccinations in the Oval Office. This meeting will be closed p=
-ress.
+At 5PM EDT, the Vice President and Second Gentleman Douglas Emhoff will tra=
+vel to Los Angeles, California, where they will remain overnight through Ea=
+ster Sunday. The departure from Joint Base Andrews and arrival at Los Angel=
+es International Airport will be closed press. The Vice President and Mr. E=
+mhoff have no public events scheduled.
 
 ###
 
 
-
-
 Privacy Policy<https://whitehouse.us19.list-manage.com/track/click?u=3D0ae7=
-f75ebacfaef55ba39fcdb&id=3D20704b98f7&e=3D8c040e9eac> | Unsubscribe<https:/=
+f75ebacfaef55ba39fcdb&id=3D206213639a&e=3D8c040e9eac> | Unsubscribe<https:/=
 /whitehouse.us19.list-manage.com/unsubscribe?u=3D0ae7f75ebacfaef55ba39fcdb&=
-id=3Df7bd3987f2&e=3D8c040e9eac&c=3D9852ffa667>
+id=3Df7bd3987f2&e=3D8c040e9eac&c=3D0bd03f54d6>
 The White House =C2=B7 1600 Pennsylvania Ave NW =C2=B7 Washington, DC 20500=
 -0003 =C2=B7 USA =C2=B7 202-456-1111
 
 
---_----------=_MCPart_1530713024
+--_----------=_MCPart_301318256
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -188,8 +189,7 @@ ce"><head><!-- NAME: 1 COLUMN --><!--[if gte mso 15]>
 eta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
 <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
 >
-<title>DAILY GUIDANCE FOR THE VICE PRESIDENT FOR FRIDAY, MARCH 5, 2021</tit=
-le>
+<title>DAILY GUIDANCE FOR THE VICE PRESIDENT FOR THURSDAY, APRIL 1</title>
 <style type=3D"text/css">
 		p{
 			margin:10px 0;
@@ -685,34 +685,53 @@ e-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContainer">
 xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break=
 : break-word;color: #202020;font-family: Georgia, Times, 'Times New Roman',=
  serif;font-size: 14px;line-height: 150%;text-align: left;">
-<strong>FOR IMMEDIATE RELEASE</strong><br>
-March 4, 2021<br>
-&nbsp;
+<div style=3D"text-align: left;"><strong>FOR IMMEDIATE RELEASE</strong><br>
+March 31, 2021</div>
+<div style=3D"text-align: center;">&nbsp;</div>
 <div style=3D"text-align: center;"><strong>DAILY GUIDANCE FOR THE VICE PRES=
-IDENT FOR</strong><br>
-<strong>FRIDAY, MARCH 5, 2021</strong></div>
+IDENT</strong><br>
+<strong>FOR THURSDAY, APRIL 1</strong></div>
+<div style=3D"text-align: left;">&nbsp;<br>
+At <strong><u>9:15AM EDT</u></strong>, the Vice President will meet virtual=
+ly with stakeholders to discuss COVID-19 public education efforts. This eve=
+nt in South Court Auditorium will be pooled press and livestreamed on
+<a href=3D"https://nam04.safelinks.protection.outlook.com/?url=3Dhttps%3A%2=
+F%2Fwhitehouse.us19.list-manage.com%2Ftrack%2Fclick%3Fu%3D0ae7f75ebacfaef55=
+ba39fcdb%26id%3D9c9436bc0a%26e%3D8c040e9eac&amp;data=3D04%7C01%7Cnoah.bierm=
+an%40latimes.com%7C46e9fa25406f4a1d374a08d8f4a47ddc%7Ca42080b34dd948b4bf44d=
+70d3bbaf5d2%7C0%7C0%7C637528334614275216%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
+4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=
+=3DxAjmpxt2tCiqJb9%2BYwqz9g3j6dJk3fR0Mj8YkiTzlJQ%3D&amp;reserved=3D0" origi=
+nalsrc=3D"https://whitehouse.us19.list-manage.com/track/click?u=3D0ae7f75eb=
+acfaef55ba39fcdb&amp;id=3D9c9436bc0a&amp;e=3D8c040e9eac" shash=3D"uH+XmT7wy=
+higEM7JB0sqJXUd4PdjmThDwuCiEN9u2d77qfjgi3jwABXK6i4VnJB9xmcYeHIwH/t/Lz+55DoX=
+6+lf7189CkB8ieI2McIHhvEeaFKYw2vcBonPc19yPKL5D8zVULGLzBd2ioaVD/pBh4GjvbK5vcL=
+CLPKjCXprzVg=3D" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;color: #0064bc;font-weight: normal;t=
+ext-decoration: underline;">
+WhiteHouse.gov/Live</a>.<br>
 <br>
-At <strong><u>9:50AM EST</u></strong>, the Vice President will receive the =
-President=E2=80=99s Daily Brief in the Oval Office. This meeting is closed =
-press.<br>
+At <strong><u>10:15AM EDT</u></strong>, the Vice President will receive the=
+ President=E2=80=99s Daily Brief in the Oval Office. This meeting is closed=
+ press.<br>
 &nbsp;<br>
-At <strong><u>12:15PM EST</u></strong>, the Vice President will have lunch =
+At <strong><u>12:15PM EDT</u></strong>, the Vice President will have lunch =
 with the President in the Private Dining Room. This lunch is closed press.<=
 br>
 &nbsp;<br>
-At <strong><u>2:15PM EST</u></strong>, the President and the Vice President=
- will receive an economic briefing with the Secretary of the Treasury in th=
-e Roosevelt Room. This meeting will have a pool spray at the top.&nbsp;<br>
+At <strong><u>1:15PM EDT</u></strong>, the Vice President will join the Pre=
+sident when he holds a Cabinet Meeting in the East Room. This meeting will =
+have a pool spray at the top.<br>
 &nbsp;<br>
-At<strong> </strong><strong><u>5:30PM EST</u></strong>, the President and t=
-he Vice President will receive a briefing from members of their COVID-19 Re=
-sponse Team on the COVID-19 pandemic and the state of vaccinations in the O=
-val Office. This meeting will be
- closed press.<br>
-&nbsp;
+At <strong><u>5PM EDT</u></strong>, the Vice President and Second Gentleman=
+ Douglas Emhoff will travel to Los Angeles, California, where they will rem=
+ain overnight through Easter Sunday. The departure from Joint Base Andrews =
+and arrival at Los Angeles International
+ Airport will be closed press. The Vice President and Mr. Emhoff have no pu=
+blic events scheduled.&nbsp;<br>
+&nbsp;</div>
 <div style=3D"text-align: center;">###</div>
-&nbsp;<br>
-&nbsp; </td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -756,44 +775,44 @@ pace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-siz=
 e-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContainer">
 <tbody>
 <tr>
-<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding: 0px 18px 9px;=
-font-family: Georgia, Times, &quot;Times New Roman&quot;, serif;font-size: =
-14px;line-height: 125%;mso-line-height-rule: exactly;-ms-text-size-adjust: =
-100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #202020;t=
-ext-align: left;">
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding-top: 0;padding=
+-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break=
+: break-word;color: #202020;font-family: Georgia, Times, 'Times New Roman',=
+ serif;font-size: 14px;line-height: 150%;text-align: left;">
 <div style=3D"text-align: center; font-size:12px; font-weight: bold; font-f=
 amily:open sans,helvetica neue,helvetica,arial,sans-serif; color:#0064bc">
 <br>
 <br>
 <a href=3D"https://nam04.safelinks.protection.outlook.com/?url=3Dhttps%3A%2=
 F%2Fwhitehouse.us19.list-manage.com%2Ftrack%2Fclick%3Fu%3D0ae7f75ebacfaef55=
-ba39fcdb%26id%3D20704b98f7%26e%3D8c040e9eac&amp;data=3D04%7C01%7Cnoah.bierm=
-an%40latimes.com%7C1077d7248cba4c3b03b908d8df705909%7Ca42080b34dd948b4bf44d=
-70d3bbaf5d2%7C0%7C0%7C637505022793491437%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
-4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=
-=3DqUiZDqFKi7zferkx41cMaLGDQiKJB%2B5rg25n%2BMua5%2Fo%3D&amp;reserved=3D0" o=
-riginalsrc=3D"https://whitehouse.us19.list-manage.com/track/click?u=3D0ae7f=
-75ebacfaef55ba39fcdb&amp;id=3D20704b98f7&amp;e=3D8c040e9eac" shash=3D"r49cY=
-0t3BbLwi0YzFT4GYA1XdOEP5D36vNYo6aynhgwQPtJbgi309iM+t6kjaQBxLccv50M4D8HL9tmU=
-kcS8pH4o7Hz1lkCB5tMjM4qDP2cqatdBoklb/qzboAu+MarmOPzmF3OPjM10UxyBgCeSMSH5MFO=
-SreVf8WYIQmVrvk0=3D" style=3D"font-weight: bold;mso-line-height-rule: exact=
-ly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #0064bc=
-;text-decoration: underline;" target=3D"_blank">Privacy
+ba39fcdb%26id%3D206213639a%26e%3D8c040e9eac&amp;data=3D04%7C01%7Cnoah.bierm=
+an%40latimes.com%7C46e9fa25406f4a1d374a08d8f4a47ddc%7Ca42080b34dd948b4bf44d=
+70d3bbaf5d2%7C0%7C0%7C637528334614275216%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
+4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=
+=3DlLE%2B6%2BzzFKMcKgw9b2NU85gdt%2FRZf2XXUf8o1e%2Bn9pY%3D&amp;reserved=3D0"=
+ originalsrc=3D"https://whitehouse.us19.list-manage.com/track/click?u=3D0ae=
+7f75ebacfaef55ba39fcdb&amp;id=3D206213639a&amp;e=3D8c040e9eac" shash=3D"E1S=
+7DeWXd/zT17aiE2K851YKCYWvxs6O/gRSCmkjZSoJU4Bz4faHXrpMR5rxfD7NpvbhDO7MPiqRSV=
+OhIA2lQR3hEu5AzVHUiz8+HTQlgiHwaHOIimkjm+LvvHh7HCemlVujsR4t3TAbUmu5252skzG/M=
+uv6QSZZOqbcmSu0dt8=3D" style=3D"font-weight: bold;mso-line-height-rule: exa=
+ctly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #0064=
+bc;text-decoration: underline;" target=3D"_blank">Privacy
  Policy</a> | <a href=3D"https://nam04.safelinks.protection.outlook.com/?ur=
 l=3Dhttps%3A%2F%2Fwhitehouse.us19.list-manage.com%2Funsubscribe%3Fu%3D0ae7f=
-75ebacfaef55ba39fcdb%26id%3Df7bd3987f2%26e%3D8c040e9eac%26c%3D9852ffa667&am=
-p;data=3D04%7C01%7Cnoah.bierman%40latimes.com%7C1077d7248cba4c3b03b908d8df7=
-05909%7Ca42080b34dd948b4bf44d70d3bbaf5d2%7C0%7C0%7C637505022793496422%7CUnk=
+75ebacfaef55ba39fcdb%26id%3Df7bd3987f2%26e%3D8c040e9eac%26c%3D0bd03f54d6&am=
+p;data=3D04%7C01%7Cnoah.bierman%40latimes.com%7C46e9fa25406f4a1d374a08d8f4a=
+47ddc%7Ca42080b34dd948b4bf44d70d3bbaf5d2%7C0%7C0%7C637528334614285171%7CUnk=
 nown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJX=
-VCI6Mn0%3D%7C3000&amp;sdata=3DQqnKSS7muCTeHAOfRzOBkJb%2Bi30lt8MieP25oBcyroM=
-%3D&amp;reserved=3D0" originalsrc=3D"https://whitehouse.us19.list-manage.co=
-m/unsubscribe?u=3D0ae7f75ebacfaef55ba39fcdb&amp;id=3Df7bd3987f2&amp;e=3D8c0=
-40e9eac&amp;c=3D9852ffa667" shash=3D"ec6hb8B6mw0ZkrLpRY1pF1xN823PYyJEr/V6Ng=
-s+ETqbOj2VI/cVoFpz5c8cdO8SujpP4hbz7xb4JPKUl8RlStO3FA/sXV8C57bB6Y42TG4rbXm8y=
-qmebRAKFB87j/khHi3GHq/ULEFlXvge8whDigv++b5dUGQSZ9BE4GooA2M=3D" style=3D"fon=
-t-weight: bold;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-we=
-bkit-text-size-adjust: 100%;color: #0064bc;text-decoration: underline;" tar=
-get=3D"_blank">
+VCI6Mn0%3D%7C1000&amp;sdata=3DJIhGnqrnh0zFAk9y5SKKFxrQ7pRgfxj5qa9Sz1NLf8c%3=
+D&amp;reserved=3D0" originalsrc=3D"https://whitehouse.us19.list-manage.com/=
+unsubscribe?u=3D0ae7f75ebacfaef55ba39fcdb&amp;id=3Df7bd3987f2&amp;e=3D8c040=
+e9eac&amp;c=3D0bd03f54d6" shash=3D"e/uurVJD1l9JtUD77yCenxJcbaJXIbaR0VIm0bFb=
+HyqtCq3fmY0+Nh0pvztO+I0SR/BGJ2DiP2eYiixBvPsim9zmOuwhnW8pti4TACv9J6RU9L6FDvP=
+TXT05GsaT5B3uu3U4n57iFBRDJdFg0F6+Xa1dpNF79oHQt1l3xQRkaHQ=3D" style=3D"font-=
+weight: bold;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;color: #0064bc;text-decoration: underline;" targe=
+t=3D"_blank">
 Unsubscribe</a></div>
 </td>
 </tr>
@@ -873,10 +892,10 @@ ght: 150%;text-align: center;">
 </table>
 </center>
 <img src=3D"https://whitehouse.us19.list-manage.com/track/open.php?u=3D0ae7=
-f75ebacfaef55ba39fcdb&amp;id=3D9852ffa667&amp;e=3D8c040e9eac" height=3D"1" =
+f75ebacfaef55ba39fcdb&amp;id=3D0bd03f54d6&amp;e=3D8c040e9eac" height=3D"1" =
 width=3D"1">
 </div>
 </body>
 </html>
 
---_----------=_MCPart_1530713024--
+--_----------=_MCPart_301318256--

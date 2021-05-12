@@ -1,0 +1,31 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pyarrow = "*"
+geofeather = "*"
+cpi = "*"
+tweepy = "*"
+lxml = "*"
+html5lib = "*"
+tabula-py = "*"
+xlrd = "*"
+esridumpgdf = "*"
+fuzzywuzzy = "*"
+nb-black = "*"
+pandas = "*"
+jupyter = "*"
+openpyxl = "*"
+earthpy = "*"
+contextily = "*"
+slugify = "*"
+nltk = "*"
+pillow = "*"
+sportsipy = "*"
+
+[requires]
+python_version = "3.7"

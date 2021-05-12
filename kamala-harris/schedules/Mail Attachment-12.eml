@@ -1,133 +1,134 @@
-Received: from CY4PR2201MB1432.namprd22.prod.outlook.com
- (2603:10b6:910:41::21) by BLAPR22MB2194.namprd22.prod.outlook.com with HTTPS;
- Wed, 17 Mar 2021 01:21:21 +0000
-Received: from BN9PR03CA0977.namprd03.prod.outlook.com (2603:10b6:408:109::22)
- by CY4PR2201MB1432.namprd22.prod.outlook.com (2603:10b6:910:41::21) with
+Received: from MWHPR22MB0527.namprd22.prod.outlook.com (2603:10b6:300:ff::12)
+ by MW3PR22MB2204.namprd22.prod.outlook.com with HTTPS; Wed, 14 Apr 2021
+ 01:31:06 +0000
+Received: from MWHPR20CA0040.namprd20.prod.outlook.com (2603:10b6:300:ed::26)
+ by MWHPR22MB0527.namprd22.prod.outlook.com (2603:10b6:300:ff::12) with
  Microsoft SMTP Server (version=TLS1_2,
- cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3933.32; Wed, 17 Mar
- 2021 01:18:22 +0000
-Received: from BN3NAM04FT059.eop-NAM04.prod.protection.outlook.com
- (2603:10b6:408:109:cafe::9e) by BN9PR03CA0977.outlook.office365.com
- (2603:10b6:408:109::22) with Microsoft SMTP Server (version=TLS1_2,
- cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3933.32 via Frontend
- Transport; Wed, 17 Mar 2021 01:18:21 +0000
-Authentication-Results: spf=pass (sender IP is 148.105.12.248)
- smtp.mailfrom=mail248.sea22.mcdlv.net; latimes.com; dkim=pass (signature was
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4020.16; Wed, 14 Apr
+ 2021 01:28:07 +0000
+Received: from MW2NAM04FT004.eop-NAM04.prod.protection.outlook.com
+ (2603:10b6:300:ed:cafe::48) by MWHPR20CA0040.outlook.office365.com
+ (2603:10b6:300:ed::26) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4042.16 via Frontend
+ Transport; Wed, 14 Apr 2021 01:28:07 +0000
+Authentication-Results: spf=pass (sender IP is 198.2.185.185)
+ smtp.mailfrom=mail185.suw121.mcdlv.net; latimes.com; dkim=pass (signature was
  verified) header.d=mail.whitehouse.gov;latimes.com; dmarc=pass action=none
  header.from=mail.whitehouse.gov;compauth=pass reason=100
-Received-SPF: Pass (protection.outlook.com: domain of mail248.sea22.mcdlv.net
- designates 148.105.12.248 as permitted sender)
- receiver=protection.outlook.com; client-ip=148.105.12.248;
- helo=mail248.sea22.mcdlv.net;
-Received: from mail248.sea22.mcdlv.net (148.105.12.248) by
- BN3NAM04FT059.mail.protection.outlook.com (10.152.93.121) with Microsoft SMTP
+Received-SPF: Pass (protection.outlook.com: domain of mail185.suw121.mcdlv.net
+ designates 198.2.185.185 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.2.185.185;
+ helo=mail185.suw121.mcdlv.net;
+Received: from mail185.suw121.mcdlv.net (198.2.185.185) by
+ MW2NAM04FT004.mail.protection.outlook.com (10.13.30.182) with Microsoft SMTP
  Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
- 15.20.3933.32 via Frontend Transport; Wed, 17 Mar 2021 01:18:21 +0000
+ 15.20.4020.21 via Frontend Transport; Wed, 14 Apr 2021 01:28:06 +0000
 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.whitehouse.gov;
-	s=k1; t=1615943900; i=ovp@mail.whitehouse.gov;
-	bh=pBEyXi4rpsDeqsgpjqZduZ4P/dhbQkxhjPKLpwXsNiM=;
+	s=k1; t=1618363685; i=ovp@mail.whitehouse.gov;
+	bh=IiXjkdUBD46MgZWfy1qWVXNw8rtWw+MKHwG1bYEsXR4=;
 	h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
 	 Content-Type:MIME-Version;
-	b=EIe9VjLNVUYphYOmEMS5BM1DdaqTKunFIp2nzOvBX5upD3jm0hemk1mgpZdmOFUJ0
-	 xt4jfid9wG/WPh5cUP45aiMbjGspJXAcZSu58kZOy7u92oABXYyUzNU9vVXKNxuoOE
-	 94BR0bFYGhuwgSBvKa74OsSjudsl1lNqk/t2QMbA=
+	b=Dx0hDWQoJ1yw4CSSwNn7yPY5slp+8zuC6SuIlJ8/Lizgxk+OEz2FZvCdnQn4UNyF4
+	 85mDrKllFPY1dlcOyHg+mFhrFvNlhTsSONtzwbv2aaZ6YovIQrsNkpHqLVg4QdyY3p
+	 gPuN54cc5zQ6GGeFmF0aUE4Zx8heqH/xNEVHZP6A=
 Received: from localhost (localhost [127.0.0.1])
-	by mail248.sea22.mcdlv.net (Mailchimp) with ESMTP id 4F0XND564tzQXjBfj
-	for <noah.bierman@latimes.com>; Wed, 17 Mar 2021 01:18:20 +0000 (GMT)
-Subject: =?utf-8?Q?DAILY=20GUIDANCE=20FOR=20THE=20VICE=20PRESIDENT=20FOR=20WEDNESDAY=2C=20MARCH=2017?=
+	by mail185.suw121.mcdlv.net (Mailchimp) with ESMTP id 4FKlGY4PCQzlmPmN
+	for <noah.bierman@latimes.com>; Wed, 14 Apr 2021 01:28:05 +0000 (GMT)
+Subject: =?utf-8?Q?DAILY=20GUIDANCE=20FOR=20THE=20VICE=20PRESIDENT=20FOR=20WEDNESDAY=2C=20APRIL=2014?=
 From: =?utf-8?Q?White=20House=3A=20Office=20of=20the=20Vice=20President?= <OVP@mail.whitehouse.gov>
 Reply-To: =?utf-8?Q?White=20House=3A=20Office=20of=20the=20Vice=20President?= <OVP@mail.whitehouse.gov>
 To: <noah.bierman@latimes.com>
-Date: Wed, 17 Mar 2021 01:18:11 +0000
-Message-ID: <0ae7f75ebacfaef55ba39fcdb.8c040e9eac.20210317011801.8737836c99.e67ac782@mail248.sea22.mcdlv.net>
-X-Mailer: MailChimp Mailer - **CID8737836c998c040e9eac**
-X-Campaign: mailchimp0ae7f75ebacfaef55ba39fcdb.8737836c99
-X-campaignid: mailchimp0ae7f75ebacfaef55ba39fcdb.8737836c99
-X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=0ae7f75ebacfaef55ba39fcdb&id=8737836c99&e=8c040e9eac
+Date: Wed, 14 Apr 2021 01:28:03 +0000
+Message-ID: <0ae7f75ebacfaef55ba39fcdb.8c040e9eac.20210414012753.badbd8b50b.852233b6@mail185.suw121.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDbadbd8b50b8c040e9eac**
+X-Campaign: mailchimp0ae7f75ebacfaef55ba39fcdb.badbd8b50b
+X-campaignid: mailchimp0ae7f75ebacfaef55ba39fcdb.badbd8b50b
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=0ae7f75ebacfaef55ba39fcdb&id=badbd8b50b&e=8c040e9eac
 X-MC-User: 0ae7f75ebacfaef55ba39fcdb
-Feedback-ID: 104123722:104123722.6128025:us19:mc
+Feedback-ID: 104123722:104123722.6135252:us19:mc
 List-ID: 0ae7f75ebacfaef55ba39fcdbmc list <0ae7f75ebacfaef55ba39fcdb.51751.list-id.mcsv.net>
 X-Accounttype: pr
-List-Unsubscribe: <https://whitehouse.us19.list-manage.com/unsubscribe?u=0ae7f75ebacfaef55ba39fcdb&id=f7bd3987f2&e=8c040e9eac&c=8737836c99>, <mailto:unsubscribe-mc.us19_0ae7f75ebacfaef55ba39fcdb.8737836c99-8c040e9eac@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe: <https://whitehouse.us19.list-manage.com/unsubscribe?u=0ae7f75ebacfaef55ba39fcdb&id=f7bd3987f2&e=8c040e9eac&c=badbd8b50b>, <mailto:unsubscribe-mc.us19_0ae7f75ebacfaef55ba39fcdb.badbd8b50b-8c040e9eac@mailin.mcsv.net?subject=unsubscribe>
 List-Unsubscribe-Post: List-Unsubscribe=One-Click
-Content-Type: multipart/alternative; boundary="_----------=_MCPart_178424493"
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_657399610"
 Return-Path:
- bounce-mc.us19_104123722.6128025-8c040e9eac@mail248.sea22.mcdlv.net
-X-MS-Exchange-Organization-ExpirationStartTime: 17 Mar 2021 01:18:21.5075
+ bounce-mc.us19_104123722.6135252-8c040e9eac@mail185.suw121.mcdlv.net
+X-MS-Exchange-Organization-ExpirationStartTime: 14 Apr 2021 01:28:06.5966
  (UTC)
 X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
 X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
 X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
 X-MS-Exchange-Organization-Network-Message-Id:
- d058c0c0-b9bc-439d-dd0b-08d8e8e28df8
+ 9f36d123-7d11-460d-62e6-08d8fee48e47
 X-EOPAttributedMessage: 0
 X-EOPTenantAttributedMessage: a42080b3-4dd9-48b4-bf44-d70d3bbaf5d2:0
 X-MS-Exchange-Organization-MessageDirectionality: Incoming
 X-MS-PublicTrafficType: Email
 X-MS-Exchange-Organization-AuthSource:
- BN3NAM04FT059.eop-NAM04.prod.protection.outlook.com
+ MW2NAM04FT004.eop-NAM04.prod.protection.outlook.com
 X-MS-Exchange-Organization-AuthAs: Anonymous
-X-MS-Office365-Filtering-Correlation-Id: d058c0c0-b9bc-439d-dd0b-08d8e8e28df8
-X-MS-TrafficTypeDiagnostic: CY4PR2201MB1432:
+X-MS-Office365-Filtering-Correlation-Id: 9f36d123-7d11-460d-62e6-08d8fee48e47
+X-MS-TrafficTypeDiagnostic: MWHPR22MB0527:
 X-MS-Exchange-AtpMessageProperties: SA|SL
 X-Caltimes-External: NEW
 X-CalTimesAllow: Hygienic
-X-MS-Oob-TLC-OOBClassifiers: OLM:8273;
-X-MS-Exchange-Organization-ACSExecutionContext: 03/17/2021 01:18:23;03/17/2021
- 01:21:21;{"SubmissionInfo":{"SubmissionToken":"PFRva2VuIEVuZHBvaW50PSJodHRwczovL0NZNFNOQTAzVFAyMzYuZW9wLXNuYTAzLnByb2QucHJvdGVjdGlvbi5vdXRsb29rLmNvbS9zb25hcmFwaS8iIElkPSJhZDE3MDcwYS1iZjg2LWViMTEtYjBjYi05Y2RjNzE0NzcyMTIiIFJvbGU9IlN1Ym1pdHRlciIgVG9rZW5UeXBlPSJTdWJtaXNzaW9uVG9rZW4iIFNpZ25hdHVyZT0iUWpvb3EvZFRmeVl3L2l2b1pvaEJTakU4OTlkRGNmcVhydTVxMDlVWkp3UjQvdmkyN2xiQlJSTEJpcGRpM1J5NEkyYW90c1pTR01OOHRWRk5pbVNTMHc9PSIgU2lnbmF0dXJlVmVyc2lvbj0iVmVyc2lvbjIxIiAvPg","Identity":"cc7954c9-dc90-47f9-ac1b-d4b3c230e74c"}};SC;S;0;03/17/2021
- 01:21:06;0|0|0|1|;
+X-MS-Oob-TLC-OOBClassifiers: OLM:7219;
+X-MS-Exchange-Organization-ACSExecutionContext: 04/14/2021 01:28:08;04/14/2021
+ 01:31:06;{"SubmissionInfo":{"SubmissionToken":"PFRva2VuIEVuZHBvaW50PSJodHRwczovL0NPMVNOQTAyVFAxOTIuZW9wLXNuYTAyLnByb2QucHJvdGVjdGlvbi5vdXRsb29rLmNvbS9zb25hcmFwaS8iIElkPSIzZjZjMDIwYS1jMTljLWViMTEtYjA4Ny1lMDA3MWI4Mjg3OTIiIFJvbGU9IlN1Ym1pdHRlciIgVG9rZW5UeXBlPSJTdWJtaXNzaW9uVG9rZW4iIFNpZ25hdHVyZT0iZkdlNksybUdYWmVGRGNVTGs0b21EbnlTRmFmckhrZnlVZys0cGtjNDFUNE91SEdYeFNOVS85YTlSVUtrOUYzUmhiT0ZaaXRvc1UzRTBaNEhkWlpQWmc9PSIgU2lnbmF0dXJlVmVyc2lvbj0iVmVyc2lvbjIxIiAvPg","Identity":"82521493-cd4f-429c-bd01-63d312ad5445"}};SC;S;0;04/14/2021
+ 01:30:52;0|0|0|1|;
 X-MS-Exchange-Organization-SCL: 1
-X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam: BCL:3;
 X-Forefront-Antispam-Report:
- CIP:148.105.12.248;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail248.sea22.mcdlv.net;PTR:mail248.sea22.mcdlv.net;CAT:NONE;SFS:(4636009)(9686003)(166002)(1096003)(8676002)(7126003)(5660300002)(83170400001)(19627405001)(356005)(76236003)(7636003)(83380400001)(7596003)(16670700002)(16799955002)(3450700001)(336012)(26005)(6916009)(42882007)(6666004)(19810500001)(33964004);DIR:INB;
-X-MS-Exchange-CrossTenant-OriginalArrivalTime: 17 Mar 2021 01:18:21.3208
+ CIP:198.2.185.185;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail185.suw121.mcdlv.net;PTR:mail185.suw121.mcdlv.net;CAT:NONE;SFS:(4636009)(286005)(26005)(1096003)(83170400001)(19627405001)(7126003)(8676002)(166002)(16799955002)(9686003)(6916009)(19810500001)(33964004)(42882007)(336012)(356005)(7636003)(7596003)(3450700001)(16670700002)(76236003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 14 Apr 2021 01:28:06.3977
  (UTC)
-X-MS-Exchange-CrossTenant-Network-Message-Id: d058c0c0-b9bc-439d-dd0b-08d8e8e28df8
+X-MS-Exchange-CrossTenant-Network-Message-Id: 9f36d123-7d11-460d-62e6-08d8fee48e47
 X-MS-Exchange-CrossTenant-Id: a42080b3-4dd9-48b4-bf44-d70d3bbaf5d2
 X-MS-Exchange-CrossTenant-AuthSource:
- BN3NAM04FT059.eop-NAM04.prod.protection.outlook.com
+ MW2NAM04FT004.eop-NAM04.prod.protection.outlook.com
 X-MS-Exchange-CrossTenant-AuthAs: Anonymous
 X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
-X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY4PR2201MB1432
-X-MS-Exchange-Transport-EndToEndLatency: 00:03:00.5434390
-X-MS-Exchange-Processed-By-BccFoldering: 15.20.3933.032
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MWHPR22MB0527
+X-MS-Exchange-Transport-EndToEndLatency: 00:02:59.9958716
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.4020.022
 X-Microsoft-Antispam-Mailbox-Delivery:
 	ucf:0;jmr:0;auth:0;dest:I;ENG:(20160514016)(750129)(520011016)(944506458)(944626604);
 X-Microsoft-Antispam-Message-Info:
-	=?Windows-1252?Q?4qh5r6rTlgk2nt+TOYvdWveBXCDYbV/NxOaA4qK5D49SvjQjST/Us+Bs?=
- =?Windows-1252?Q?TOXxBdvUvTBsER0cxyW4q8GCIG/0VBCOIm0Qybn/+zWsiH1FxxM/yA5u?=
- =?Windows-1252?Q?vwUoPQbxvhs4ri+WFVjMFmChM57t/kWyJ/yY6zqAeAMgOWj3/PwJH1LS?=
- =?Windows-1252?Q?Qfb6ZUHJ81T+ZEykz/lV5QGYrneE9Q/1+PQCCqnPFeHhvDxkro9mJJp7?=
- =?Windows-1252?Q?FTFW1CfSVTkwjnNCRrjZYjdtTrXrMw89EzJejqcjOxqtAHyHyn3c8fnx?=
- =?Windows-1252?Q?x/Aq3O0LTC/WVXi9aF2pzeLiF2yZ7PHWmqY82dKYKw4LArfyaVdrNTuP?=
- =?Windows-1252?Q?CoLUhObbRGlQ6BRr2Uy09sx6UOEMuuS5vUn50l7LmGOk28uc1Eto53nj?=
- =?Windows-1252?Q?cNtI5hl74Trcp0id3WKiwEADUOZ2pH6PRQz5XbRgRKJLASgxK6YWu5C4?=
- =?Windows-1252?Q?f39SyB9b9jfHZXa0Y4fjtrVqJOUE8z8bDboMufJuJ8fBhsMLdAOBcwD5?=
- =?Windows-1252?Q?nIhUHxiiv9vA64MbcW+eCJSyAnzXH877hCJd1I5/i/RP7VUncAZ8OqjU?=
- =?Windows-1252?Q?EgiRKtXsbreEWRdN1mn128sq8+Fo3XRiXDZ55NjqfzSJJxIbKB00P16o?=
- =?Windows-1252?Q?CW2WA3RD46lUjirU/yetm1jPPzGzapck3iJgJPRA/+HSqXdXBTvME5vg?=
- =?Windows-1252?Q?sCcyy1WTSHHn5SnImmv0QHxRg9EDZKfX12U7a1hLfJ9zdtgAdIK+dlpL?=
- =?Windows-1252?Q?aVdp7C2ByqB2N4LTTC/hWoUelEVrlDJmaV1BA/ldczxzRAuP2JO8PKDx?=
- =?Windows-1252?Q?du+FWYMbUvipYcSixDmIyZqrEwBhVQw9VDZPrGQwkdbsGwBECa06e45D?=
- =?Windows-1252?Q?Enuj0Ud+SifytFfPJolYB7JQTtQx1M1DNe3Dl+tOhK7hGYPt6vG499et?=
- =?Windows-1252?Q?CYjjOnKT2+AlE4fqNCp7FEwAzIkE1iSpEn4TD34gVk+panaafyfsPxOR?=
- =?Windows-1252?Q?0jl8MN+xAIeSIpFuM5KmHCvumuZv6iwAtyKQdRojNVuDRvhlzvGwszjP?=
- =?Windows-1252?Q?udpSVuJr9K+MgTh77FK8nsMxFikbC8hvjNInS7DYPVJNXW0uEwrkVv7m?=
- =?Windows-1252?Q?qfnv1AYrfFNT4Lz4YFHTTQSVW7Fc0iVFcrobigsDQeGlvBklMRN1k8cX?=
- =?Windows-1252?Q?oNMXOmrs1cL5D+7UFnygYRgy3a1naBwL6BzzK1CGaBRNtB5gS64gnN21?=
- =?Windows-1252?Q?PM3I17tB7TxoLHzmZTV1n+5d+v3x2Hh41fKOfmoIbDpJ1AO/ta5LxaRK?=
- =?Windows-1252?Q?lBKXdLqJHk2RFe5R/wRvWsKY4hcw4CZctRrTCKRXIO6AYUfrEsaUDfjo?=
- =?Windows-1252?Q?WwzVk5SD508sK9Mmtl7nH7eSixLbFN22qfWz0v9MGdgVCZdjt45Urqep?=
- =?Windows-1252?Q?VPwFxWuVfz99FugOsLwutFwMaW2P9HG7YTR9turi0niPdcOgXNPK7dlG?=
- =?Windows-1252?Q?xJT+SkEWLMOGfNVXtxy6KzDi5im9nlwhGSLzJiRTKMgLwd+5bFKYz/r8?=
- =?Windows-1252?Q?lNYSNKGGN1aAMtDfAlbc5YcjjZ+N3UWMVH/zDeNbN29Sb3YGt2UtO11d?=
- =?Windows-1252?Q?sb9wp8iDG6xnkocqmUBjqqhDcY77Ou+Aidiqb/SjRjNr5AmmVCU0OmYO?=
- =?Windows-1252?Q?HbBJXVNq/n42tN8m3JzNNcSrM6Vd5xRapqyLdwy2Mp7XPKhOT/XI+8mw?=
- =?Windows-1252?Q?tYsUJGjm/hVD+xK0/gw0OwhV0XXDRVT0p7T89LTJvbJ4dVs/qNK/fveo?=
- =?Windows-1252?Q?l4UufmpkwRrKm/gKYQNDtl2t3NsHaN5cicwmspaK1BYsq+ii?=
+	=?Windows-1252?Q?HGYTne8fPxszv9IgUzy0K1oLiz4S5bidMI1xFc4jJa1OqoFP1diUalYX?=
+ =?Windows-1252?Q?Vr36j+2RDHPkN6JAa3R2u7svFItxdrj4gIRwQYyrb+jC+HprdgGXzqy8?=
+ =?Windows-1252?Q?HST/3sxuHIP+Ze2+wYir0DtQiArpdgQqvXl/fQ0ZHU6UBQcHEu2XSctB?=
+ =?Windows-1252?Q?PbEhTYS619Fg6a32E4HRIulxjJJqaDcBiNgb68ky7uKDy8+DED4NzzSr?=
+ =?Windows-1252?Q?VEjA0qpaI+fdfO6rbMVLjs8Mn/wQv2O7gtDFgppQe9u35CCZZR685r7Y?=
+ =?Windows-1252?Q?N2FkFbMnecP4wsNTKQLPjQSHg0vHbatWpFxGvOKd7fzDDda7RnMlkDGo?=
+ =?Windows-1252?Q?s+A8kD9bYWJjYwqFEWVkVkMVcoKAKhIRNkLQScKEHSD6IJuOTPguqpbB?=
+ =?Windows-1252?Q?vjiAkbZKPzG03MEtYPpmLIdyPJN0+6ZJcnP6JpOpO6mKgRt2fjGfEpJZ?=
+ =?Windows-1252?Q?nrIWWlHJnIzgQ6NPP9qa1QERAMcLXrLDyoSKZkZGDtan6JoMeC+gARcL?=
+ =?Windows-1252?Q?umPFypqW7YP9HHXa7L+mWpQ2syvM4IdKia4LgaSkmMVRB9xXoNFEI2Sn?=
+ =?Windows-1252?Q?X9O02XGg6fnWI7HCRDipOdxU0mn1fCjxUvawlWfYloatpeV+R2ZQHvwc?=
+ =?Windows-1252?Q?j+vTDViwf6k/hjg/tokn+qgKgdkB4ti19jyqg+h7f5BKa08ZbQnsBC7f?=
+ =?Windows-1252?Q?rwP1K9cplxunJIKDhlwErSOFI+DC56L4+B7F9eWlY77J47aeL+5h1ihH?=
+ =?Windows-1252?Q?LW+8uVOelK5FQwODvsdXcoGlaj2qe7MOCuiv6ygiWBIKv0A/ci5rjLsU?=
+ =?Windows-1252?Q?86JmrRnf5lldWA+URDy6GnzDTlUlKmC2v7cT+FC8qGr32EdC8GmUpkwc?=
+ =?Windows-1252?Q?oqBKGAHOrJL6Gj/BmVcvTzP2sqiG+E8nMk+nlZ4+Z84NXPDatsuM1RtR?=
+ =?Windows-1252?Q?2c6ib6EYNdUyiKSjToFQC5+OwBmJ3tx3VGadlM7LwWFGpSONvpI4zvmS?=
+ =?Windows-1252?Q?zgIyIJcyyDeLkHVeqKi280Hdies+l1UA2tb1ajhMRd3yiH5oq0VURJvr?=
+ =?Windows-1252?Q?NYRxPeoftByS4rvUyXHZ7dBpsE0UpzXkceOhxz+5AF7hnWlplDBTzxte?=
+ =?Windows-1252?Q?+XP2Q+O4P1C2uCSojad3h7+RPIOsLjHcUKSaQ9NIY4RnDq6Tbs/7X+Tj?=
+ =?Windows-1252?Q?j+eAkfv0MUqf6ez6h1YlQa+Q3e56mXVy58Xq7iv7lIW2LqnnUaNYWbrB?=
+ =?Windows-1252?Q?vnRrFwHwdmoD8GU62KUhPVveH58aIahtGo/p/FVSBbFxLv1e9BeJS34U?=
+ =?Windows-1252?Q?Q/wUbVDzABRDliwBOvBmg93G6BeVP6woow6T5te1c+qyo7qzikIV5N7l?=
+ =?Windows-1252?Q?K1G6jbaWGXAJO+QN92zRdhU89FVSAQbXj/uQeB7/FKmaVnpYMbEE1l1j?=
+ =?Windows-1252?Q?XeUZHnJ9QB+UEzAZoqsAggqF6QxgngE+jcUh8C4kBB7t0LPMnBLBdLkq?=
+ =?Windows-1252?Q?eTVgbVy2pcBqqvQ97MTAj/jAiRfvdGgwUmJ/EFN9NAJ2qPVosTBzRIXv?=
+ =?Windows-1252?Q?V4+ZJswjRb3bldxhVkQuuSpquOYKzcl1uTKRHuUeMUSHSWvvpFAaEdKM?=
+ =?Windows-1252?Q?gE4RqV4YL+4GWQdOYc0jxF+YCXINxn6c57K1Ri0R23nTi4YwHjii4/nJ?=
+ =?Windows-1252?Q?jGzQr3bvDuu5X7Io6tiIveyULyJjU5Bj8XGRRQMZ+7TB1JrxmlQxRBZ3?=
+ =?Windows-1252?Q?gNtTVd8ms46NyoXpcRKq9d8BVJN2IXV8urI0W8pHFAKwvkJvVRUL/Gx5?=
+ =?Windows-1252?Q?FdQCupErKJREyMAlW3qdgNdmjyyp2AiEKALVEFu8pcVmDJnU9oqxB5E3?=
+ =?Windows-1252?Q?GdT2kFfxkTxY/A=3D=3D?=
 MIME-Version: 1.0
 
---_----------=_MCPart_178424493
+--_----------=_MCPart_657399610
 Content-Type: text/plain; charset="utf-8"; format=fixed
 Content-Transfer-Encoding: quoted-printable
 
@@ -136,40 +137,27 @@ EXTERNAL SOURCE
 [https://mcusercontent.com/0ae7f75ebacfaef55ba39fcdb/images/8d381344-d67a-4=
 99e-bd19-3f9f3369e110.png]
 FOR IMMEDIATE RELEASE
-March 16, 2021
+April 13, 2021
 
-DAILY GUIDANCE FOR THE VICE PRESIDENT
-FOR WEDNESDAY, MARCH 17
+DAILY GUIDANCE FOR THE VICE PRESIDENT FOR WEDNESDAY, APRIL 14
 
-At 11:00AM EDT, the Vice President will host H.E. Miche=C3=A1l Martin, Taoi=
-seach of Ireland, for a virtual bilateral meeting in the Vice President=E2=
-=80=99s Ceremonial Office. This event will have a pool spray at the top.
-
-At 12:10PM EDT, the Vice President will attend a virtual event alongside H.=
-E. Miche=C3=A1l Martin, Taoiseach of Ireland, celebrating the Frederick Dou=
-glass Global Fellows in the South Court Auditorium. There will be pooled pr=
-ess coverage for remarks.
-
-At 2:30PM EDT, the Vice President will host a virtual meeting with First Mi=
-nister Arlene Foster and deputy First Minister Michelle O=E2=80=99Neill of =
-the Northern Ireland Executive. This event will be closed to the press.
-
-At 4:00PM EDT, the Vice President will ceremonially swear in Michael Regan =
-as EPA Administrator in the Eisenhower Executive Office Building. This even=
-t will be pooled press.
+At 10:00AM EDT, the Vice President will convene a virtual roundtable of exp=
+erts on the Northern Triangle who will offer their assessment and perspecti=
+ves on the region. There will be a pool spray at the top of this meeting in=
+ the Vice President=E2=80=99s Ceremonial Office.
 
 ###
 
 
 Privacy Policy<https://whitehouse.us19.list-manage.com/track/click?u=3D0ae7=
-f75ebacfaef55ba39fcdb&id=3Dafa5d2ef49&e=3D8c040e9eac> | Unsubscribe<https:/=
+f75ebacfaef55ba39fcdb&id=3D3bec7d3cf6&e=3D8c040e9eac> | Unsubscribe<https:/=
 /whitehouse.us19.list-manage.com/unsubscribe?u=3D0ae7f75ebacfaef55ba39fcdb&=
-id=3Df7bd3987f2&e=3D8c040e9eac&c=3D8737836c99>
+id=3Df7bd3987f2&e=3D8c040e9eac&c=3Dbadbd8b50b>
 The White House =C2=B7 1600 Pennsylvania Ave NW =C2=B7 Washington, DC 20500=
 -0003 =C2=B7 USA =C2=B7 202-456-1111
 
 
---_----------=_MCPart_178424493
+--_----------=_MCPart_657399610
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -187,7 +175,7 @@ ce"><head><!-- NAME: 1 COLUMN --><!--[if gte mso 15]>
 eta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
 <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
 >
-<title>DAILY GUIDANCE FOR THE VICE PRESIDENT FOR WEDNESDAY, MARCH 17</title=
+<title>DAILY GUIDANCE FOR THE VICE PRESIDENT FOR WEDNESDAY, APRIL 14</title=
 >
 <style type=3D"text/css">
 		p{
@@ -685,30 +673,17 @@ xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break=
 : break-word;color: #202020;font-family: Georgia, Times, 'Times New Roman',=
  serif;font-size: 14px;line-height: 150%;text-align: left;">
 <strong>FOR IMMEDIATE RELEASE</strong><br>
-<strong>March 16, 2021</strong><br>
-&nbsp;
-<div style=3D"text-align: center;"><strong>DAILY GUIDANCE FOR THE VICE PRES=
-IDENT<br>
-FOR WEDNESDAY, MARCH 17</strong></div>
+April 13, 2021
+<div style=3D"text-align: center;"><br>
+<strong>DAILY GUIDANCE FOR THE VICE PRESIDENT&nbsp;</strong><strong style=
+=3D"-webkit-tap-highlight-color:transparent; -webkit-text-size-adjust:100%;=
+ font-style:inherit">FOR WEDNESDAY, APRIL 14</strong></div>
 &nbsp;<br>
-At <strong>11:00AM EDT</strong>, the Vice President will host H.E. Miche=C3=
-=A1l Martin, Taoiseach of Ireland, for a virtual bilateral meeting in the V=
-ice President=E2=80=99s Ceremonial Office. This event will have a pool spra=
-y at the top.<br>
-&nbsp;<br>
-At <strong>12:10PM EDT</strong>, the Vice President will attend a virtual e=
-vent alongside H.E. Miche=C3=A1l Martin, Taoiseach of Ireland, celebrating =
-the Frederick Douglass Global Fellows in the South Court Auditorium. There =
-will be pooled press coverage for remarks.<br>
-&nbsp;<br>
-At <strong>2:30PM EDT</strong>, the Vice President will host a virtual meet=
-ing with First Minister Arlene Foster and deputy First Minister Michelle O=
-=E2=80=99Neill of the Northern Ireland Executive. This event will be closed=
- to the press.<br>
-&nbsp;<br>
-At <strong>4:00PM EDT</strong>, the Vice President will ceremonially swear =
-in Michael Regan as EPA Administrator in the Eisenhower Executive Office Bu=
-ilding. This event will be pooled press.<br>
+At 10:00AM EDT, the Vice President will convene a virtual roundtable of exp=
+erts on the Northern Triangle who will offer their assessment and perspecti=
+ves on the region. There will be a pool spray at the top of this meeting in=
+ the Vice President=E2=80=99s Ceremonial
+ Office.<br>
 &nbsp;
 <div style=3D"text-align: center;">###</div>
 </td>
@@ -755,44 +730,44 @@ pace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-siz=
 e-adjust: 100%;" width=3D"100%" class=3D"mcnTextContentContainer">
 <tbody>
 <tr>
-<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding: 0px 18px 9px;=
-font-family: Georgia, Times, &quot;Times New Roman&quot;, serif;font-size: =
-14px;line-height: 125%;mso-line-height-rule: exactly;-ms-text-size-adjust: =
-100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #202020;t=
-ext-align: left;">
+<td valign=3D"top" class=3D"mcnTextContent" style=3D"padding-top: 0;padding=
+-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break=
+: break-word;color: #202020;font-family: Georgia, Times, 'Times New Roman',=
+ serif;font-size: 14px;line-height: 150%;text-align: left;">
 <div style=3D"text-align: center; font-size:12px; font-weight: bold; font-f=
 amily:open sans,helvetica neue,helvetica,arial,sans-serif; color:#0064bc">
 <br>
 <br>
 <a href=3D"https://nam04.safelinks.protection.outlook.com/?url=3Dhttps%3A%2=
 F%2Fwhitehouse.us19.list-manage.com%2Ftrack%2Fclick%3Fu%3D0ae7f75ebacfaef55=
-ba39fcdb%26id%3Dafa5d2ef49%26e%3D8c040e9eac&amp;data=3D04%7C01%7Cnoah.bierm=
-an%40latimes.com%7Cd058c0c0b9bc439ddd0b08d8e8e28df8%7Ca42080b34dd948b4bf44d=
-70d3bbaf5d2%7C0%7C0%7C637515408819528506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
+ba39fcdb%26id%3D3bec7d3cf6%26e%3D8c040e9eac&amp;data=3D04%7C01%7Cnoah.bierm=
+an%40latimes.com%7C9f36d1237d11460d62e608d8fee48e47%7Ca42080b34dd948b4bf44d=
+70d3bbaf5d2%7C0%7C0%7C637539606666474589%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC=
 4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=
-=3DUDQtMnEKGhfhCrXNqVKBGuEzNaeMLQNn%2F1mU90yLZp8%3D&amp;reserved=3D0" origi=
+=3Dfx0IdXK9aGTuJmqNStvQ%2B5tUUHncSAnQf9L0ItkmO1I%3D&amp;reserved=3D0" origi=
 nalsrc=3D"https://whitehouse.us19.list-manage.com/track/click?u=3D0ae7f75eb=
-acfaef55ba39fcdb&amp;id=3Dafa5d2ef49&amp;e=3D8c040e9eac" shash=3D"T6iTXsIK8=
-uog/LpmoOVTwpfoC9n5cr2hKzjB4+oVJrfUg0fIO9zOpzc/1ycvoUMctxoJ6C+5tCGqqc+5dArN=
-QlusJeox/N3FMzBW4KelEtnas+LF7jxfhsda291DT5EksqSLe1yMuRz7dWo2q36GGZh3H7KT83X=
-n8f/YLYmAWQo=3D" style=3D"font-weight: bold;mso-line-height-rule: exactly;-=
+acfaef55ba39fcdb&amp;id=3D3bec7d3cf6&amp;e=3D8c040e9eac" shash=3D"t7t5dVlOF=
+36CN30/nS+MUo93IZU0hrBabjBiifULn7KhS1CbLBXCCuBVKsmlEpbqVgsbs6OiTmRxTRz1vDiX=
+16C5f0IGNbcSsxRTvsMfLLDa2CWwsv5PdG2IXznt9bLsS6AETIOvRyDZ70LQP5KGjPgjPR5TM6H=
+jJh+kkP1ljGo=3D" style=3D"font-weight: bold;mso-line-height-rule: exactly;-=
 ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #0064bc;tex=
 t-decoration: underline;" target=3D"_blank">Privacy
  Policy</a> | <a href=3D"https://nam04.safelinks.protection.outlook.com/?ur=
 l=3Dhttps%3A%2F%2Fwhitehouse.us19.list-manage.com%2Funsubscribe%3Fu%3D0ae7f=
-75ebacfaef55ba39fcdb%26id%3Df7bd3987f2%26e%3D8c040e9eac%26c%3D8737836c99&am=
-p;data=3D04%7C01%7Cnoah.bierman%40latimes.com%7Cd058c0c0b9bc439ddd0b08d8e8e=
-28df8%7Ca42080b34dd948b4bf44d70d3bbaf5d2%7C0%7C0%7C637515408819528506%7CUnk=
+75ebacfaef55ba39fcdb%26id%3Df7bd3987f2%26e%3D8c040e9eac%26c%3Dbadbd8b50b&am=
+p;data=3D04%7C01%7Cnoah.bierman%40latimes.com%7C9f36d1237d11460d62e608d8fee=
+48e47%7Ca42080b34dd948b4bf44d70d3bbaf5d2%7C0%7C0%7C637539606666484546%7CUnk=
 nown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJX=
-VCI6Mn0%3D%7C3000&amp;sdata=3D008bm5V64dydPuPq422ZlbyN3tvy6sSrXxDi%2BS29gBY=
-%3D&amp;reserved=3D0" originalsrc=3D"https://whitehouse.us19.list-manage.co=
-m/unsubscribe?u=3D0ae7f75ebacfaef55ba39fcdb&amp;id=3Df7bd3987f2&amp;e=3D8c0=
-40e9eac&amp;c=3D8737836c99" shash=3D"FWxgh2UsxBs2r/NlYwOrPtJ4Z1iIQjdY/w1vaf=
-4X4vA9X4i9yc3YqcKo0lyys+lQtRj79MLhcjHkvtR7AnvzfZ6f7Yww0LVDpj+tFhMAFTjwdyUgM=
-giWVn2k1IwvJnqIyPy6QZ09QqXVyVEC5TDJoeFvK/C+YgjWwd0MWl8WA8Q=3D" style=3D"fon=
-t-weight: bold;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-we=
-bkit-text-size-adjust: 100%;color: #0064bc;text-decoration: underline;" tar=
-get=3D"_blank">
+VCI6Mn0%3D%7C3000&amp;sdata=3DyjQVdT5aMI%2FI43mL%2BOewZiODMpHGnC%2B%2BQRGDB=
+3BpW60%3D&amp;reserved=3D0" originalsrc=3D"https://whitehouse.us19.list-man=
+age.com/unsubscribe?u=3D0ae7f75ebacfaef55ba39fcdb&amp;id=3Df7bd3987f2&amp;e=
+=3D8c040e9eac&amp;c=3Dbadbd8b50b" shash=3D"ryv1a11aDanb1e7e0hwNOpGgboFbKF9w=
+CuTDjZU6PCQDyz88wMajSga6eWiiXGmcYo0+BnGN4VecVpH8TTeJ/UDwh6790wbrdf/Fdgxilu+=
+ZkeX7QenCtfeFkMywp5nzegK+6ZabQF3eY5GDUwMYx4D2l2am5ZUpcBKTprhcrUY=3D" style=
+=3D"font-weight: bold;mso-line-height-rule: exactly;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #0064bc;text-decoration: underlin=
+e;" target=3D"_blank">
 Unsubscribe</a></div>
 </td>
 </tr>
@@ -872,10 +847,10 @@ ght: 150%;text-align: center;">
 </table>
 </center>
 <img src=3D"https://whitehouse.us19.list-manage.com/track/open.php?u=3D0ae7=
-f75ebacfaef55ba39fcdb&amp;id=3D8737836c99&amp;e=3D8c040e9eac" height=3D"1" =
+f75ebacfaef55ba39fcdb&amp;id=3Dbadbd8b50b&amp;e=3D8c040e9eac" height=3D"1" =
 width=3D"1">
 </div>
 </body>
 </html>
 
---_----------=_MCPart_178424493--
+--_----------=_MCPart_657399610--
