@@ -1,0 +1,48 @@
+CHRISTOPHER A     AARON               NPO5 POLICE OFFICER         13421 PATROL                     M        06/17/2013   25
+DANIEL J          AARON               NPO5 POLICE OFFICER         13421 PATROL                     M        11/26/2007   20
+JOE A             ABILEZ              N01#*PT POOLED STR & BRDG   14400 STREET/BRIDGE              M        06/04/2019   52
+SELENE Z          ACEVEDO             E02 FIN ASST HOUS ADMIN     00062 HOUSING ASSIST-VOUCHERS    F        08/22/2016 514
+ALEJANDRA         ACOSTA              N01#PT POOLED AQUATICS      15220 AQUATICS                   F        06/10/2020 183
+CATHERINE         ACOSTA              N01#PT POOLED AQUATICS      15220 AQUATICS                   F        01/27/2020   41
+JESUS             ACOSTA              N07 SANITATION TRK DRV      14300 SANITATION                 M        07/19/1999   60
+ROBERT L          ACOSTA              N09 LEAD ANIM CTRL OFFIC    16200 ANIMAL RESCUE & ASST DIV   M        11/06/2002   56
+ROBERT            ADAME               N09 BILLING COORDINATOR     30700 WATER BILLING              M        07/16/2003   53
+RAUL              ADAME JR            N10 PSO SHIFT SUPERVISOR    13520 OPERATIONS                 M        10/30/2002   54
+KIREN L           ADAMS               NPO5 POLICE OFFICER         13421 PATROL                     M        10/14/2013   45
+MARK A            ADAMS               NPO5 POLICE OFFICER         13443 SERVICES                   M        01/10/2005   61
+VALERIE           AGUILAR             N10 ENGINEERING TECH        14100 ENGINEERING                F        09/17/2012   66
+MARTIN E          AGUIRRE             NPO5 POLICE OFFICER         13421 PATROL                     M        07/17/2017 101
+MARIA D           ALANIS              N01#*PT POOLED ATHLETICS    15240 ATHLETICS                  F        03/29/2021 106
+ANDRICK           ALARCON             N01#PT POOLED AQUATICS      15220 AQUATICS                   M        06/08/2020 105
+ANDREW M          ALEMAN              E04 SR DEPUTY COORDINATO    13100 EMERGENCY PREPAREDNESS     M        09/30/2009   75
+ARTURO            ALEMAN              E00*PT ASST FIRE CHIEF      13200 FIRE FIGHTING              M        01/01/2018   99
+LARRY             ALEMAN              N06 WAREHOUSE ASST I        20200 WAREHOUSE                  M        06/12/2004   85
+KEITH W           ALLEN               E03 GOLF COURSE SUPER       15400 GOLF COURSE                M        09/14/2015   84
+JORGE ANTONIO     ALONSO              N11 MAINT SUPERVISOR        20410 BLDG & EQUIPMENT           M        10/23/1991 115
+JULISSA A         ALONSO              N05*PT REC ATTENDANT        15230 RECREATION CENTERS         F        05/21/2018 112
+LILIANA           ALONSO              N06 LIBRARY ASSISTANT I     17110 LIBRARY-ADMIN SERVICES     F        12/23/2013 119
+ALFONSO           ALVAREZ             NPO5 POLICE OFFICER         13414 NARCOTICS                  M        11/26/2007 126
+JUAN P            ALVAREZ             N07 SANITATION TRK DRV      14300 SANITATION                 M        06/12/1995 122
+SORANGEL A        ALVAREZ             NPO5 POLICE OFFICER         13421 PATROL                     F        07/08/2019 104
+ANALEE            ANDA                N01#PT POOLED AQUATICS      15220 AQUATICS                   F        05/10/2021 139
+CHRISTI D         ANDERSON            N07 DEPUTY CLERK II         10400 MUNICIPAL COURT            F        12/08/2004 135
+JAMAILL REICO     ANDERSON            N05 SANITATION WORKER I     14300 SANITATION                 M        02/24/2020 137
+JAMES A           ANDERSON            NPO5 SERGEANT               13421 PATROL                     M        07/08/1974 150
+JUSTIN D          ANDERSON            NPO5 POLICE OFFICER         13421 PATROL                     M        04/02/2007 1267
+MARK L            ANDERSON            E03 LIBRARY SERVICES MANA   17110 LIBRARY-ADMIN SERVICES     M        02/11/2013 153
+ROBERT J          ANDERSON            NPO5 POLICE OFFICER         13433 AUTO THEFT                 M        03/04/1996 155
+NICOLE R          ANDRENO             N08 SR OFFICE ASSISTANT     11510 NEIGHBORHOOD NETWORK       F        07/03/2017 163
+MORGANNE A        ANTOS               N07 POLICE SERV OFCR I      13520 OPERATIONS                 F        05/11/2020 173
+JED L             APLACA              E09 DIR OF PARKS & REC      15210 RECREATION ADMIN           M        01/08/2018 180
+JUAN P            ARANDA              N08 EQUIP OPERATOR II       15300 CLEAN STREETS              M        03/17/1998 200
+XAVIER C          ARANDA              N08 UTILITY WORKER IV       30200 WW COLLECTION              M        05/08/1995 204
+FELIX             ARELLANO JR         N01#PT POOLED AQUATICS      15220 AQUATICS                   M        05/06/2021 202
+LIDIANA L         ARGUETA             NPO5 POLICE OFFICER         13421 PATROL                     F        02/19/2018 1673
+GLORIA A          ARIZMENDEZ          N09 MUNICIPAL COURT COOR    10400 MUNICIPAL COURT            F        02/19/2003 237
+JEREMY S          ARMSTRONG           N09 CODE ENFORCEMENT SUPV   13350 CODE ENFORCEMENT           M        04/06/2011 221
+LANNY W           ARMSTRONG           E11 FIRE CHIEF              13200 FIRE FIGHTING              M        09/01/2006 234
+MAYA S            ARREDONDO           N01#PT POOLED AQUATICS      15220 AQUATICS                   F        02/03/2020 274
+CYAN A            ARREDONDO           N01#PT POOLED AQUATICS      15220 AQUATICS                   F        05/13/2021 226
+RENE              ARREDONDO JR        N07 UTILITY MAINT TECH II   30500 WATER DISTRIBUTION         M        03/18/2017 228
+OSCAR             ARREGUIN            N08 PARTS ROOM COORD        20300 FLEET                      M        09/29/2014 230
+MICHELE D         ASHER               N09 ASST CALL CENTER SUPR   11410 MAYOR'S ACTION LINE        F        10/27/2003 240
