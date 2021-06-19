@@ -1,0 +1,5341 @@
+date,club,views
+2020-09-12,Arsenal,33516
+2020-09-13,Arsenal,17922
+2020-09-14,Arsenal,14769
+2020-09-15,Arsenal,15256
+2020-09-16,Arsenal,16964
+2020-09-17,Arsenal,12689
+2020-09-18,Arsenal,12173
+2020-09-19,Arsenal,19007
+2020-09-02,Arsenal,15007
+2020-09-21,Arsenal,16303
+2020-09-22,Arsenal,13445
+2020-09-23,Arsenal,13820
+2020-09-24,Arsenal,12606
+2020-09-25,Arsenal,10154
+2020-09-26,Arsenal,10436
+2020-09-27,Arsenal,9982
+2020-09-28,Arsenal,17169
+2020-09-29,Arsenal,11046
+2020-09-03,Arsenal,9311
+2020-10-01,Arsenal,12934
+2020-10-02,Arsenal,11549
+2020-10-03,Arsenal,10179
+2020-10-04,Arsenal,15188
+2020-10-05,Arsenal,28173
+2020-10-06,Arsenal,35792
+2020-10-07,Arsenal,15383
+2020-10-08,Arsenal,12666
+2020-10-09,Arsenal,10021
+2020-10-01,Arsenal,8811
+2020-10-11,Arsenal,8851
+2020-10-12,Arsenal,8495
+2020-10-13,Arsenal,9318
+2020-10-14,Arsenal,8324
+2020-10-15,Arsenal,8141
+2020-10-16,Arsenal,8771
+2020-10-17,Arsenal,14061
+2020-10-18,Arsenal,9274
+2020-10-19,Arsenal,7932
+2020-10-02,Arsenal,8802
+2020-10-21,Arsenal,10494
+2020-10-22,Arsenal,12141
+2020-10-23,Arsenal,9694
+2020-10-24,Arsenal,8454
+2020-10-25,Arsenal,12309
+2020-10-26,Arsenal,9151
+2020-10-27,Arsenal,7461
+2020-10-28,Arsenal,6838
+2020-10-29,Arsenal,10825
+2020-10-03,Arsenal,9267
+2020-10-31,Arsenal,6996
+2020-11-01,Arsenal,15876
+2020-11-02,Arsenal,10558
+2020-11-03,Arsenal,7873
+2020-11-04,Arsenal,6261
+2020-11-05,Arsenal,9390
+2020-11-06,Arsenal,7802
+2020-11-07,Arsenal,7219
+2020-11-08,Arsenal,11670
+2020-11-09,Arsenal,8105
+2020-11-01,Arsenal,6294
+2020-11-11,Arsenal,5739
+2020-11-12,Arsenal,5830
+2020-11-13,Arsenal,5480
+2020-11-14,Arsenal,5072
+2020-11-15,Arsenal,5761
+2020-11-16,Arsenal,5175
+2020-11-17,Arsenal,5297
+2020-11-18,Arsenal,5722
+2020-11-19,Arsenal,5271
+2020-11-02,Arsenal,5461
+2020-11-21,Arsenal,6551
+2020-11-22,Arsenal,11848
+2020-11-23,Arsenal,7881
+2020-11-24,Arsenal,6491
+2020-11-25,Arsenal,6009
+2020-11-26,Arsenal,8477
+2020-11-27,Arsenal,6873
+2020-11-28,Arsenal,6542
+2020-11-29,Arsenal,12605
+2020-11-03,Arsenal,9879
+2020-12-01,Arsenal,7180
+2020-12-02,Arsenal,6516
+2020-12-03,Arsenal,9657
+2020-12-04,Arsenal,7683
+2020-12-05,Arsenal,7546
+2020-12-06,Arsenal,17531
+2020-12-07,Arsenal,12313
+2020-12-08,Arsenal,8361
+2020-12-09,Arsenal,7062
+2020-12-01,Arsenal,8979
+2020-12-11,Arsenal,9559
+2020-12-12,Arsenal,7130
+2020-12-13,Arsenal,14799
+2020-12-14,Arsenal,17540
+2020-12-15,Arsenal,10718
+2020-12-16,Arsenal,13899
+2020-12-17,Arsenal,9864
+2020-12-18,Arsenal,7581
+2020-12-19,Arsenal,16922
+2020-12-02,Arsenal,16526
+2020-12-21,Arsenal,11012
+2020-12-22,Arsenal,17913
+2020-12-23,Arsenal,17562
+2020-12-24,Arsenal,9716
+2020-12-25,Arsenal,7772
+2020-12-26,Arsenal,23006
+2020-12-27,Arsenal,12717
+2020-12-28,Arsenal,9495
+2020-12-29,Arsenal,12406
+2020-12-03,Arsenal,9308
+2020-12-31,Arsenal,8976
+2021-01-01,Arsenal,8481
+2021-01-02,Arsenal,14734
+2021-01-03,Arsenal,14338
+2021-01-04,Arsenal,10640
+2021-01-05,Arsenal,9809
+2021-01-06,Arsenal,9844
+2021-01-07,Arsenal,8901
+2021-01-08,Arsenal,9890
+2021-01-09,Arsenal,15006
+2021-01-01,Arsenal,9921
+2021-01-11,Arsenal,8386
+2021-01-12,Arsenal,8305
+2021-01-13,Arsenal,7939
+2021-01-14,Arsenal,10932
+2021-01-15,Arsenal,7431
+2021-01-16,Arsenal,8893
+2021-01-17,Arsenal,10250
+2021-01-18,Arsenal,14889
+2021-01-19,Arsenal,13038
+2021-01-02,Arsenal,12201
+2021-01-21,Arsenal,9824
+2021-01-22,Arsenal,18162
+2021-01-23,Arsenal,16284
+2021-01-24,Arsenal,11916
+2021-01-25,Arsenal,12900
+2021-01-26,Arsenal,14683
+2021-01-27,Arsenal,23569
+2021-01-28,Arsenal,12467
+2021-01-29,Arsenal,10447
+2021-01-03,Arsenal,18210
+2021-01-31,Arsenal,10531
+2021-02-01,Arsenal,15648
+2021-02-02,Arsenal,21190
+2021-02-03,Arsenal,10995
+2021-02-04,Arsenal,9323
+2021-02-05,Arsenal,7874
+2021-02-06,Arsenal,14611
+2021-02-07,Arsenal,9800
+2021-02-08,Arsenal,8177
+2021-02-09,Arsenal,8252
+2021-02-01,Arsenal,7636
+2021-02-11,Arsenal,7366
+2021-02-12,Arsenal,6908
+2021-02-13,Arsenal,8205
+2021-02-14,Arsenal,13716
+2021-02-15,Arsenal,9362
+2021-02-16,Arsenal,8189
+2021-02-17,Arsenal,7752
+2021-02-18,Arsenal,10559
+2021-02-19,Arsenal,7883
+2021-02-02,Arsenal,8321
+2021-02-21,Arsenal,12938
+2021-02-22,Arsenal,7730
+2021-02-23,Arsenal,8007
+2021-02-24,Arsenal,8391
+2021-02-25,Arsenal,12256
+2021-02-26,Arsenal,11709
+2021-02-27,Arsenal,9110
+2021-02-28,Arsenal,14291
+2021-03-01,Arsenal,10896
+2021-03-02,Arsenal,9770
+2021-03-03,Arsenal,8618
+2021-03-04,Arsenal,8367
+2021-03-05,Arsenal,7737
+2021-03-06,Arsenal,11522
+2021-03-07,Arsenal,9249
+2021-03-08,Arsenal,8578
+2021-03-09,Arsenal,8239
+2021-03-01,Arsenal,8188
+2021-03-11,Arsenal,12117
+2021-03-12,Arsenal,10337
+2021-03-13,Arsenal,8609
+2021-03-14,Arsenal,19299
+2021-03-15,Arsenal,12163
+2021-03-16,Arsenal,9200
+2021-03-17,Arsenal,8999
+2021-03-18,Arsenal,12394
+2021-03-19,Arsenal,11326
+2021-03-02,Arsenal,8746
+2021-03-21,Arsenal,13720
+2021-03-22,Arsenal,8892
+2021-03-23,Arsenal,7770
+2021-03-24,Arsenal,7207
+2021-03-25,Arsenal,7254
+2021-03-26,Arsenal,6851
+2021-03-27,Arsenal,6628
+2021-03-28,Arsenal,6218
+2021-03-29,Arsenal,6834
+2021-03-03,Arsenal,6279
+2021-03-31,Arsenal,7385
+2021-04-01,Arsenal,7041
+2021-04-02,Arsenal,6758
+2021-04-03,Arsenal,12926
+2021-04-04,Arsenal,9726
+2021-04-05,Arsenal,7815
+2021-04-06,Arsenal,7795
+2021-04-07,Arsenal,7697
+2021-04-08,Arsenal,11656
+2021-04-09,Arsenal,9027
+2021-04-01,Arsenal,8208
+2021-04-11,Arsenal,12102
+2021-04-12,Arsenal,9703
+2021-04-13,Arsenal,7756
+2021-04-14,Arsenal,8185
+2021-04-15,Arsenal,15209
+2021-04-16,Arsenal,12727
+2021-04-17,Arsenal,9820
+2021-04-18,Arsenal,17085
+2021-04-19,Arsenal,36861
+2021-04-02,Arsenal,31267
+2021-04-21,Arsenal,21301
+2021-04-22,Arsenal,14163
+2021-04-23,Arsenal,20575
+2021-04-24,Arsenal,17087
+2021-04-25,Arsenal,13774
+2021-04-26,Arsenal,17948
+2021-04-27,Arsenal,13230
+2021-04-28,Arsenal,13453
+2021-04-29,Arsenal,15891
+2021-04-03,Arsenal,11009
+2021-05-01,Arsenal,9017
+2021-05-02,Arsenal,13378
+2021-05-03,Arsenal,10076
+2021-05-04,Arsenal,10384
+2021-05-05,Arsenal,11534
+2021-05-06,Arsenal,23671
+2021-05-07,Arsenal,19820
+2021-05-08,Arsenal,12031
+2021-05-09,Arsenal,15054
+2021-05-01,Arsenal,12222
+2021-05-11,Arsenal,11621
+2021-05-12,Arsenal,15438
+2021-05-13,Arsenal,11267
+2021-05-14,Arsenal,9469
+2021-05-15,Arsenal,13275
+2021-05-16,Arsenal,12324
+2021-05-17,Arsenal,9642
+2021-05-18,Arsenal,10209
+2021-05-19,Arsenal,12431
+2021-05-02,Arsenal,11187
+2021-05-21,Arsenal,8660
+2021-05-22,Arsenal,8257
+2021-05-23,Arsenal,16261
+2021-05-24,Arsenal,13809
+2021-05-25,Arsenal,11541
+2021-05-26,Arsenal,16415
+2021-05-27,Arsenal,14603
+2021-05-28,Arsenal,13116
+2021-05-29,Arsenal,16577
+2021-05-03,Arsenal,17326
+2021-05-31,Arsenal,13287
+2021-06-01,Arsenal,12506
+2021-06-02,Arsenal,11532
+2021-06-03,Arsenal,10610
+2021-06-04,Arsenal,9518
+2021-06-05,Arsenal,8251
+2020-09-12,Aston Villa,8641
+2020-09-13,Aston Villa,7995
+2020-09-14,Aston Villa,6326
+2020-09-15,Aston Villa,10697
+2020-09-16,Aston Villa,14602
+2020-09-17,Aston Villa,6538
+2020-09-18,Aston Villa,5158
+2020-09-19,Aston Villa,9309
+2020-09-02,Aston Villa,6521
+2020-09-21,Aston Villa,12426
+2020-09-22,Aston Villa,6436
+2020-09-23,Aston Villa,4574
+2020-09-24,Aston Villa,5914
+2020-09-25,Aston Villa,5770
+2020-09-26,Aston Villa,4734
+2020-09-27,Aston Villa,3975
+2020-09-28,Aston Villa,9467
+2020-09-29,Aston Villa,5604
+2020-09-03,Aston Villa,12638
+2020-10-01,Aston Villa,6310
+2020-10-02,Aston Villa,4305
+2020-10-03,Aston Villa,5504
+2020-10-04,Aston Villa,38416
+2020-10-05,Aston Villa,28187
+2020-10-06,Aston Villa,11165
+2020-10-07,Aston Villa,6925
+2020-10-08,Aston Villa,5884
+2020-10-09,Aston Villa,5125
+2020-10-01,Aston Villa,4814
+2020-10-11,Aston Villa,4332
+2020-10-12,Aston Villa,3858
+2020-10-13,Aston Villa,3544
+2020-10-14,Aston Villa,3765
+2020-10-15,Aston Villa,3430
+2020-10-16,Aston Villa,3621
+2020-10-17,Aston Villa,5161
+2020-10-18,Aston Villa,13447
+2020-10-19,Aston Villa,12388
+2020-10-02,Aston Villa,6099
+2020-10-21,Aston Villa,4820
+2020-10-22,Aston Villa,4281
+2020-10-23,Aston Villa,9497
+2020-10-24,Aston Villa,5402
+2020-10-25,Aston Villa,4036
+2020-10-26,Aston Villa,3603
+2020-10-27,Aston Villa,3123
+2020-10-28,Aston Villa,2729
+2020-10-29,Aston Villa,2701
+2020-10-03,Aston Villa,2611
+2020-10-31,Aston Villa,2991
+2020-11-01,Aston Villa,5401
+2020-11-02,Aston Villa,2956
+2020-11-03,Aston Villa,2561
+2020-11-04,Aston Villa,1979
+2020-11-05,Aston Villa,2449
+2020-11-06,Aston Villa,2469
+2020-11-07,Aston Villa,2767
+2020-11-08,Aston Villa,10425
+2020-11-09,Aston Villa,9256
+2020-11-01,Aston Villa,4292
+2020-11-11,Aston Villa,3439
+2020-11-12,Aston Villa,3358
+2020-11-13,Aston Villa,2839
+2020-11-14,Aston Villa,2617
+2020-11-15,Aston Villa,3119
+2020-11-16,Aston Villa,3061
+2020-11-17,Aston Villa,2578
+2020-11-18,Aston Villa,2788
+2020-11-19,Aston Villa,2479
+2020-11-02,Aston Villa,2723
+2020-11-21,Aston Villa,7280
+2020-11-22,Aston Villa,3485
+2020-11-23,Aston Villa,2689
+2020-11-24,Aston Villa,2651
+2020-11-25,Aston Villa,2272
+2020-11-26,Aston Villa,2105
+2020-11-27,Aston Villa,2130
+2020-11-28,Aston Villa,2798
+2020-11-29,Aston Villa,2880
+2020-11-03,Aston Villa,6676
+2020-12-01,Aston Villa,3577
+2020-12-02,Aston Villa,2230
+2020-12-03,Aston Villa,2327
+2020-12-04,Aston Villa,2190
+2020-12-05,Aston Villa,2790
+2020-12-06,Aston Villa,2851
+2020-12-07,Aston Villa,2361
+2020-12-08,Aston Villa,2084
+2020-12-09,Aston Villa,2041
+2020-12-01,Aston Villa,2161
+2020-12-11,Aston Villa,2250
+2020-12-12,Aston Villa,6847
+2020-12-13,Aston Villa,3788
+2020-12-14,Aston Villa,4194
+2020-12-15,Aston Villa,3450
+2020-12-16,Aston Villa,3128
+2020-12-17,Aston Villa,6662
+2020-12-18,Aston Villa,2582
+2020-12-19,Aston Villa,2844
+2020-12-02,Aston Villa,6899
+2020-12-21,Aston Villa,4664
+2020-12-22,Aston Villa,3389
+2020-12-23,Aston Villa,3066
+2020-12-24,Aston Villa,2565
+2020-12-25,Aston Villa,2417
+2020-12-26,Aston Villa,14811
+2020-12-27,Aston Villa,7330
+2020-12-28,Aston Villa,16293
+2020-12-29,Aston Villa,7717
+2020-12-03,Aston Villa,4943
+2020-12-31,Aston Villa,4560
+2021-01-01,Aston Villa,15412
+2021-01-02,Aston Villa,7437
+2021-01-03,Aston Villa,4712
+2021-01-04,Aston Villa,3881
+2021-01-05,Aston Villa,3775
+2021-01-06,Aston Villa,3417
+2021-01-07,Aston Villa,3416
+2021-01-08,Aston Villa,15072
+2021-01-09,Aston Villa,8389
+2021-01-01,Aston Villa,3988
+2021-01-11,Aston Villa,3098
+2021-01-12,Aston Villa,3092
+2021-01-13,Aston Villa,2991
+2021-01-14,Aston Villa,2947
+2021-01-15,Aston Villa,2885
+2021-01-16,Aston Villa,3831
+2021-01-17,Aston Villa,4062
+2021-01-18,Aston Villa,3182
+2021-01-19,Aston Villa,3680
+2021-01-02,Aston Villa,6427
+2021-01-21,Aston Villa,3754
+2021-01-22,Aston Villa,3277
+2021-01-23,Aston Villa,7950
+2021-01-24,Aston Villa,5075
+2021-01-25,Aston Villa,3924
+2021-01-26,Aston Villa,5287
+2021-01-27,Aston Villa,6241
+2021-01-28,Aston Villa,3744
+2021-01-29,Aston Villa,3304
+2021-01-03,Aston Villa,6461
+2021-01-31,Aston Villa,5018
+2021-02-01,Aston Villa,3747
+2021-02-02,Aston Villa,4257
+2021-02-03,Aston Villa,5370
+2021-02-04,Aston Villa,4363
+2021-02-05,Aston Villa,3157
+2021-02-06,Aston Villa,12783
+2021-02-07,Aston Villa,5517
+2021-02-08,Aston Villa,3338
+2021-02-09,Aston Villa,3437
+2021-02-01,Aston Villa,3166
+2021-02-11,Aston Villa,2802
+2021-02-12,Aston Villa,2869
+2021-02-13,Aston Villa,5151
+2021-02-14,Aston Villa,3666
+2021-02-15,Aston Villa,3147
+2021-02-16,Aston Villa,2919
+2021-02-17,Aston Villa,2723
+2021-02-18,Aston Villa,2625
+2021-02-19,Aston Villa,2593
+2021-02-02,Aston Villa,3392
+2021-02-21,Aston Villa,6564
+2021-02-22,Aston Villa,2914
+2021-02-23,Aston Villa,2841
+2021-02-24,Aston Villa,3264
+2021-02-25,Aston Villa,2676
+2021-02-26,Aston Villa,2588
+2021-02-27,Aston Villa,6637
+2021-02-28,Aston Villa,4194
+2021-03-01,Aston Villa,3343
+2021-03-02,Aston Villa,3241
+2021-03-03,Aston Villa,4177
+2021-03-04,Aston Villa,3105
+2021-03-05,Aston Villa,2891
+2021-03-06,Aston Villa,6710
+2021-03-07,Aston Villa,3883
+2021-03-08,Aston Villa,2958
+2021-03-09,Aston Villa,2644
+2021-03-01,Aston Villa,2759
+2021-03-11,Aston Villa,2621
+2021-03-12,Aston Villa,4711
+2021-03-13,Aston Villa,3363
+2021-03-14,Aston Villa,3030
+2021-03-15,Aston Villa,2420
+2021-03-16,Aston Villa,2517
+2021-03-17,Aston Villa,2355
+2021-03-18,Aston Villa,2776
+2021-03-19,Aston Villa,2716
+2021-03-02,Aston Villa,3003
+2021-03-21,Aston Villa,6457
+2021-03-22,Aston Villa,3027
+2021-03-23,Aston Villa,2763
+2021-03-24,Aston Villa,2426
+2021-03-25,Aston Villa,3243
+2021-03-26,Aston Villa,3148
+2021-03-27,Aston Villa,3063
+2021-03-28,Aston Villa,2191
+2021-03-29,Aston Villa,2041
+2021-03-03,Aston Villa,2121
+2021-03-31,Aston Villa,2688
+2021-04-01,Aston Villa,2109
+2021-04-02,Aston Villa,2180
+2021-04-03,Aston Villa,2630
+2021-04-04,Aston Villa,7208
+2021-04-05,Aston Villa,3870
+2021-04-06,Aston Villa,2729
+2021-04-07,Aston Villa,2562
+2021-04-08,Aston Villa,2308
+2021-04-09,Aston Villa,2357
+2021-04-01,Aston Villa,7167
+2021-04-11,Aston Villa,3463
+2021-04-12,Aston Villa,2888
+2021-04-13,Aston Villa,2523
+2021-04-14,Aston Villa,2538
+2021-04-15,Aston Villa,2566
+2021-04-16,Aston Villa,2495
+2021-04-17,Aston Villa,3246
+2021-04-18,Aston Villa,3648
+2021-04-19,Aston Villa,8410
+2021-04-02,Aston Villa,7476
+2021-04-21,Aston Villa,9105
+2021-04-22,Aston Villa,4810
+2021-04-23,Aston Villa,3870
+2021-04-24,Aston Villa,4009
+2021-04-25,Aston Villa,7678
+2021-04-26,Aston Villa,4438
+2021-04-27,Aston Villa,3579
+2021-04-28,Aston Villa,3185
+2021-04-29,Aston Villa,2930
+2021-04-03,Aston Villa,2690
+2021-05-01,Aston Villa,5176
+2021-05-02,Aston Villa,4318
+2021-05-03,Aston Villa,3461
+2021-05-04,Aston Villa,4096
+2021-05-05,Aston Villa,3993
+2021-05-06,Aston Villa,4737
+2021-05-07,Aston Villa,3767
+2021-05-08,Aston Villa,4059
+2021-05-09,Aston Villa,9074
+2021-05-01,Aston Villa,3995
+2021-05-11,Aston Villa,3901
+2021-05-12,Aston Villa,3452
+2021-05-13,Aston Villa,5628
+2021-05-14,Aston Villa,3571
+2021-05-15,Aston Villa,4907
+2021-05-16,Aston Villa,6200
+2021-05-17,Aston Villa,3924
+2021-05-18,Aston Villa,5815
+2021-05-19,Aston Villa,6339
+2021-05-02,Aston Villa,4688
+2021-05-21,Aston Villa,3596
+2021-05-22,Aston Villa,3753
+2021-05-23,Aston Villa,8748
+2021-05-24,Aston Villa,5658
+2021-05-25,Aston Villa,4926
+2021-05-26,Aston Villa,4378
+2021-05-27,Aston Villa,3745
+2021-05-28,Aston Villa,4067
+2021-05-29,Aston Villa,6772
+2021-05-03,Aston Villa,6807
+2021-05-31,Aston Villa,4489
+2021-06-01,Aston Villa,3919
+2021-06-02,Aston Villa,3963
+2021-06-03,Aston Villa,3854
+2021-06-04,Aston Villa,3760
+2021-06-05,Aston Villa,4619
+2020-09-12,Brighton & Hove Albion,5235
+2020-09-13,Brighton & Hove Albion,4066
+2020-09-14,Brighton & Hove Albion,15460
+2020-09-15,Brighton & Hove Albion,6288
+2020-09-16,Brighton & Hove Albion,3122
+2020-09-17,Brighton & Hove Albion,5082
+2020-09-18,Brighton & Hove Albion,3264
+2020-09-19,Brighton & Hove Albion,3165
+2020-09-02,Brighton & Hove Albion,10872
+2020-09-21,Brighton & Hove Albion,4394
+2020-09-22,Brighton & Hove Albion,3015
+2020-09-23,Brighton & Hove Albion,3463
+2020-09-24,Brighton & Hove Albion,3009
+2020-09-25,Brighton & Hove Albion,3079
+2020-09-26,Brighton & Hove Albion,15715
+2020-09-27,Brighton & Hove Albion,4357
+2020-09-28,Brighton & Hove Albion,2772
+2020-09-29,Brighton & Hove Albion,2656
+2020-09-03,Brighton & Hove Albion,6512
+2020-10-01,Brighton & Hove Albion,3157
+2020-10-02,Brighton & Hove Albion,2421
+2020-10-03,Brighton & Hove Albion,5978
+2020-10-04,Brighton & Hove Albion,2831
+2020-10-05,Brighton & Hove Albion,3102
+2020-10-06,Brighton & Hove Albion,4527
+2020-10-07,Brighton & Hove Albion,2991
+2020-10-08,Brighton & Hove Albion,2386
+2020-10-09,Brighton & Hove Albion,1951
+2020-10-01,Brighton & Hove Albion,2008
+2020-10-11,Brighton & Hove Albion,2152
+2020-10-12,Brighton & Hove Albion,1766
+2020-10-13,Brighton & Hove Albion,1661
+2020-10-14,Brighton & Hove Albion,1941
+2020-10-15,Brighton & Hove Albion,1583
+2020-10-16,Brighton & Hove Albion,1739
+2020-10-17,Brighton & Hove Albion,2305
+2020-10-18,Brighton & Hove Albion,8373
+2020-10-19,Brighton & Hove Albion,3651
+2020-10-02,Brighton & Hove Albion,2519
+2020-10-21,Brighton & Hove Albion,2087
+2020-10-22,Brighton & Hove Albion,1989
+2020-10-23,Brighton & Hove Albion,1636
+2020-10-24,Brighton & Hove Albion,1897
+2020-10-25,Brighton & Hove Albion,1992
+2020-10-26,Brighton & Hove Albion,4456
+2020-10-27,Brighton & Hove Albion,1946
+2020-10-28,Brighton & Hove Albion,1562
+2020-10-29,Brighton & Hove Albion,1459
+2020-10-03,Brighton & Hove Albion,1475
+2020-10-31,Brighton & Hove Albion,1479
+2020-11-01,Brighton & Hove Albion,6462
+2020-11-02,Brighton & Hove Albion,3503
+2020-11-03,Brighton & Hove Albion,2040
+2020-11-04,Brighton & Hove Albion,1442
+2020-11-05,Brighton & Hove Albion,1956
+2020-11-06,Brighton & Hove Albion,3550
+2020-11-07,Brighton & Hove Albion,1811
+2020-11-08,Brighton & Hove Albion,1904
+2020-11-09,Brighton & Hove Albion,1691
+2020-11-01,Brighton & Hove Albion,1277
+2020-11-11,Brighton & Hove Albion,1385
+2020-11-12,Brighton & Hove Albion,1480
+2020-11-13,Brighton & Hove Albion,1163
+2020-11-14,Brighton & Hove Albion,1207
+2020-11-15,Brighton & Hove Albion,1411
+2020-11-16,Brighton & Hove Albion,1222
+2020-11-17,Brighton & Hove Albion,1036
+2020-11-18,Brighton & Hove Albion,1156
+2020-11-19,Brighton & Hove Albion,1183
+2020-11-02,Brighton & Hove Albion,1165
+2020-11-21,Brighton & Hove Albion,5053
+2020-11-22,Brighton & Hove Albion,2435
+2020-11-23,Brighton & Hove Albion,1755
+2020-11-24,Brighton & Hove Albion,1541
+2020-11-25,Brighton & Hove Albion,1345
+2020-11-26,Brighton & Hove Albion,1364
+2020-11-27,Brighton & Hove Albion,1578
+2020-11-28,Brighton & Hove Albion,6989
+2020-11-29,Brighton & Hove Albion,2291
+2020-11-03,Brighton & Hove Albion,1692
+2020-12-01,Brighton & Hove Albion,1495
+2020-12-02,Brighton & Hove Albion,1415
+2020-12-03,Brighton & Hove Albion,1229
+2020-12-04,Brighton & Hove Albion,1312
+2020-12-05,Brighton & Hove Albion,1641
+2020-12-06,Brighton & Hove Albion,1772
+2020-12-07,Brighton & Hove Albion,4226
+2020-12-08,Brighton & Hove Albion,1740
+2020-12-09,Brighton & Hove Albion,1218
+2020-12-01,Brighton & Hove Albion,1147
+2020-12-11,Brighton & Hove Albion,1178
+2020-12-12,Brighton & Hove Albion,1384
+2020-12-13,Brighton & Hove Albion,2535
+2020-12-14,Brighton & Hove Albion,1587
+2020-12-15,Brighton & Hove Albion,1473
+2020-12-16,Brighton & Hove Albion,2115
+2020-12-17,Brighton & Hove Albion,1831
+2020-12-18,Brighton & Hove Albion,1731
+2020-12-19,Brighton & Hove Albion,2501
+2020-12-02,Brighton & Hove Albion,5178
+2020-12-21,Brighton & Hove Albion,2198
+2020-12-22,Brighton & Hove Albion,1706
+2020-12-23,Brighton & Hove Albion,1504
+2020-12-24,Brighton & Hove Albion,1247
+2020-12-25,Brighton & Hove Albion,1236
+2020-12-26,Brighton & Hove Albion,2008
+2020-12-27,Brighton & Hove Albion,7716
+2020-12-28,Brighton & Hove Albion,2436
+2020-12-29,Brighton & Hove Albion,7462
+2020-12-03,Brighton & Hove Albion,2729
+2020-12-31,Brighton & Hove Albion,1862
+2021-01-01,Brighton & Hove Albion,2059
+2021-01-02,Brighton & Hove Albion,8853
+2021-01-03,Brighton & Hove Albion,2891
+2021-01-04,Brighton & Hove Albion,2017
+2021-01-05,Brighton & Hove Albion,2087
+2021-01-06,Brighton & Hove Albion,1719
+2021-01-07,Brighton & Hove Albion,2619
+2021-01-08,Brighton & Hove Albion,2385
+2021-01-09,Brighton & Hove Albion,2141
+2021-01-01,Brighton & Hove Albion,5513
+2021-01-11,Brighton & Hove Albion,3062
+2021-01-12,Brighton & Hove Albion,2427
+2021-01-13,Brighton & Hove Albion,6036
+2021-01-14,Brighton & Hove Albion,2862
+2021-01-15,Brighton & Hove Albion,1976
+2021-01-16,Brighton & Hove Albion,5926
+2021-01-17,Brighton & Hove Albion,3522
+2021-01-18,Brighton & Hove Albion,1942
+2021-01-19,Brighton & Hove Albion,1924
+2021-01-02,Brighton & Hove Albion,1706
+2021-01-21,Brighton & Hove Albion,1773
+2021-01-22,Brighton & Hove Albion,12992
+2021-01-23,Brighton & Hove Albion,5561
+2021-01-24,Brighton & Hove Albion,2828
+2021-01-25,Brighton & Hove Albion,2127
+2021-01-26,Brighton & Hove Albion,2068
+2021-01-27,Brighton & Hove Albion,2748
+2021-01-28,Brighton & Hove Albion,1974
+2021-01-29,Brighton & Hove Albion,1880
+2021-01-03,Brighton & Hove Albion,2186
+2021-01-31,Brighton & Hove Albion,8416
+2021-02-01,Brighton & Hove Albion,5083
+2021-02-02,Brighton & Hove Albion,3775
+2021-02-03,Brighton & Hove Albion,9639
+2021-02-04,Brighton & Hove Albion,6981
+2021-02-05,Brighton & Hove Albion,2681
+2021-02-06,Brighton & Hove Albion,5169
+2021-02-07,Brighton & Hove Albion,2798
+2021-02-08,Brighton & Hove Albion,1876
+2021-02-09,Brighton & Hove Albion,2039
+2021-02-01,Brighton & Hove Albion,3168
+2021-02-11,Brighton & Hove Albion,1942
+2021-02-12,Brighton & Hove Albion,1708
+2021-02-13,Brighton & Hove Albion,4447
+2021-02-14,Brighton & Hove Albion,2556
+2021-02-15,Brighton & Hove Albion,1684
+2021-02-16,Brighton & Hove Albion,1495
+2021-02-17,Brighton & Hove Albion,1560
+2021-02-18,Brighton & Hove Albion,1512
+2021-02-19,Brighton & Hove Albion,1466
+2021-02-02,Brighton & Hove Albion,1663
+2021-02-21,Brighton & Hove Albion,1945
+2021-02-22,Brighton & Hove Albion,6039
+2021-02-23,Brighton & Hove Albion,2802
+2021-02-24,Brighton & Hove Albion,1837
+2021-02-25,Brighton & Hove Albion,1543
+2021-02-26,Brighton & Hove Albion,1489
+2021-02-27,Brighton & Hove Albion,4616
+2021-02-28,Brighton & Hove Albion,2528
+2021-03-01,Brighton & Hove Albion,1617
+2021-03-02,Brighton & Hove Albion,2412
+2021-03-03,Brighton & Hove Albion,1559
+2021-03-04,Brighton & Hove Albion,1642
+2021-03-05,Brighton & Hove Albion,1513
+2021-03-06,Brighton & Hove Albion,4472
+2021-03-07,Brighton & Hove Albion,2758
+2021-03-08,Brighton & Hove Albion,1910
+2021-03-09,Brighton & Hove Albion,1548
+2021-03-01,Brighton & Hove Albion,1482
+2021-03-11,Brighton & Hove Albion,1384
+2021-03-12,Brighton & Hove Albion,1651
+2021-03-13,Brighton & Hove Albion,1995
+2021-03-14,Brighton & Hove Albion,6519
+2021-03-15,Brighton & Hove Albion,2822
+2021-03-16,Brighton & Hove Albion,2006
+2021-03-17,Brighton & Hove Albion,1713
+2021-03-18,Brighton & Hove Albion,1780
+2021-03-19,Brighton & Hove Albion,1939
+2021-03-02,Brighton & Hove Albion,4906
+2021-03-21,Brighton & Hove Albion,3412
+2021-03-22,Brighton & Hove Albion,1882
+2021-03-23,Brighton & Hove Albion,1861
+2021-03-24,Brighton & Hove Albion,1738
+2021-03-25,Brighton & Hove Albion,1693
+2021-03-26,Brighton & Hove Albion,1672
+2021-03-27,Brighton & Hove Albion,1578
+2021-03-28,Brighton & Hove Albion,1466
+2021-03-29,Brighton & Hove Albion,1382
+2021-03-03,Brighton & Hove Albion,1682
+2021-03-31,Brighton & Hove Albion,1938
+2021-04-01,Brighton & Hove Albion,1482
+2021-04-02,Brighton & Hove Albion,1401
+2021-04-03,Brighton & Hove Albion,1841
+2021-04-04,Brighton & Hove Albion,7786
+2021-04-05,Brighton & Hove Albion,2880
+2021-04-06,Brighton & Hove Albion,1699
+2021-04-07,Brighton & Hove Albion,1506
+2021-04-08,Brighton & Hove Albion,1281
+2021-04-09,Brighton & Hove Albion,1299
+2021-04-01,Brighton & Hove Albion,1481
+2021-04-11,Brighton & Hove Albion,1738
+2021-04-12,Brighton & Hove Albion,4526
+2021-04-13,Brighton & Hove Albion,2287
+2021-04-14,Brighton & Hove Albion,1429
+2021-04-15,Brighton & Hove Albion,1446
+2021-04-16,Brighton & Hove Albion,1416
+2021-04-17,Brighton & Hove Albion,1515
+2021-04-18,Brighton & Hove Albion,2044
+2021-04-19,Brighton & Hove Albion,2764
+2021-04-02,Brighton & Hove Albion,5832
+2021-04-21,Brighton & Hove Albion,3507
+2021-04-22,Brighton & Hove Albion,2202
+2021-04-23,Brighton & Hove Albion,1997
+2021-04-24,Brighton & Hove Albion,3310
+2021-04-25,Brighton & Hove Albion,2649
+2021-04-26,Brighton & Hove Albion,2014
+2021-04-27,Brighton & Hove Albion,1775
+2021-04-28,Brighton & Hove Albion,1826
+2021-04-29,Brighton & Hove Albion,1593
+2021-04-03,Brighton & Hove Albion,1805
+2021-05-01,Brighton & Hove Albion,5083
+2021-05-02,Brighton & Hove Albion,2855
+2021-05-03,Brighton & Hove Albion,2071
+2021-05-04,Brighton & Hove Albion,1936
+2021-05-05,Brighton & Hove Albion,1749
+2021-05-06,Brighton & Hove Albion,1803
+2021-05-07,Brighton & Hove Albion,2137
+2021-05-08,Brighton & Hove Albion,2158
+2021-05-09,Brighton & Hove Albion,5000
+2021-05-01,Brighton & Hove Albion,2505
+2021-05-11,Brighton & Hove Albion,2490
+2021-05-12,Brighton & Hove Albion,2059
+2021-05-13,Brighton & Hove Albion,1954
+2021-05-14,Brighton & Hove Albion,1815
+2021-05-15,Brighton & Hove Albion,4134
+2021-05-16,Brighton & Hove Albion,2974
+2021-05-17,Brighton & Hove Albion,2521
+2021-05-18,Brighton & Hove Albion,5431
+2021-05-19,Brighton & Hove Albion,4316
+2021-05-02,Brighton & Hove Albion,2396
+2021-05-21,Brighton & Hove Albion,2386
+2021-05-22,Brighton & Hove Albion,2115
+2021-05-23,Brighton & Hove Albion,3482
+2021-05-24,Brighton & Hove Albion,3903
+2021-05-25,Brighton & Hove Albion,3434
+2021-05-26,Brighton & Hove Albion,2476
+2021-05-27,Brighton & Hove Albion,2094
+2021-05-28,Brighton & Hove Albion,1796
+2021-05-29,Brighton & Hove Albion,2668
+2021-05-03,Brighton & Hove Albion,2404
+2021-05-31,Brighton & Hove Albion,2370
+2021-06-01,Brighton & Hove Albion,2209
+2021-06-02,Brighton & Hove Albion,2440
+2021-06-03,Brighton & Hove Albion,2240
+2021-06-04,Brighton & Hove Albion,2008
+2021-06-05,Brighton & Hove Albion,1829
+2020-09-12,Burnley,4005
+2020-09-13,Burnley,3064
+2020-09-14,Burnley,2512
+2020-09-15,Burnley,2970
+2020-09-16,Burnley,2213
+2020-09-17,Burnley,2717
+2020-09-18,Burnley,2057
+2020-09-19,Burnley,2546
+2020-09-02,Burnley,10682
+2020-09-21,Burnley,3163
+2020-09-22,Burnley,2032
+2020-09-23,Burnley,3037
+2020-09-24,Burnley,3019
+2020-09-25,Burnley,2720
+2020-09-26,Burnley,6179
+2020-09-27,Burnley,2852
+2020-09-28,Burnley,2001
+2020-09-29,Burnley,2024
+2020-09-03,Burnley,2564
+2020-10-01,Burnley,1828
+2020-10-02,Burnley,1685
+2020-10-03,Burnley,4679
+2020-10-04,Burnley,2696
+2020-10-05,Burnley,2561
+2020-10-06,Burnley,3557
+2020-10-07,Burnley,2142
+2020-10-08,Burnley,2242
+2020-10-09,Burnley,1678
+2020-10-01,Burnley,1391
+2020-10-11,Burnley,1566
+2020-10-12,Burnley,1438
+2020-10-13,Burnley,1362
+2020-10-14,Burnley,1350
+2020-10-15,Burnley,1458
+2020-10-16,Burnley,1667
+2020-10-17,Burnley,1802
+2020-10-18,Burnley,1982
+2020-10-19,Burnley,3752
+2020-10-02,Burnley,1603
+2020-10-21,Burnley,1454
+2020-10-22,Burnley,1304
+2020-10-23,Burnley,1370
+2020-10-24,Burnley,1606
+2020-10-25,Burnley,1736
+2020-10-26,Burnley,6741
+2020-10-27,Burnley,2432
+2020-10-28,Burnley,1747
+2020-10-29,Burnley,2184
+2020-10-03,Burnley,1843
+2020-10-31,Burnley,5595
+2020-11-01,Burnley,2134
+2020-11-02,Burnley,1693
+2020-11-03,Burnley,1375
+2020-11-04,Burnley,1086
+2020-11-05,Burnley,1587
+2020-11-06,Burnley,2136
+2020-11-07,Burnley,1584
+2020-11-08,Burnley,2065
+2020-11-09,Burnley,1539
+2020-11-01,Burnley,1158
+2020-11-11,Burnley,1155
+2020-11-12,Burnley,1458
+2020-11-13,Burnley,1202
+2020-11-14,Burnley,1153
+2020-11-15,Burnley,1290
+2020-11-16,Burnley,3917
+2020-11-17,Burnley,3581
+2020-11-18,Burnley,1900
+2020-11-19,Burnley,1810
+2020-11-02,Burnley,1640
+2020-11-21,Burnley,1856
+2020-11-22,Burnley,1914
+2020-11-23,Burnley,3973
+2020-11-24,Burnley,2004
+2020-11-25,Burnley,1322
+2020-11-26,Burnley,1294
+2020-11-27,Burnley,1265
+2020-11-28,Burnley,4882
+2020-11-29,Burnley,2015
+2020-11-03,Burnley,1586
+2020-12-01,Burnley,1349
+2020-12-02,Burnley,1111
+2020-12-03,Burnley,1176
+2020-12-04,Burnley,2363
+2020-12-05,Burnley,5368
+2020-12-06,Burnley,1791
+2020-12-07,Burnley,1465
+2020-12-08,Burnley,1134
+2020-12-09,Burnley,1045
+2020-12-01,Burnley,1135
+2020-12-11,Burnley,1103
+2020-12-12,Burnley,1418
+2020-12-13,Burnley,4967
+2020-12-14,Burnley,2413
+2020-12-15,Burnley,1458
+2020-12-16,Burnley,1596
+2020-12-17,Burnley,3775
+2020-12-18,Burnley,1487
+2020-12-19,Burnley,1373
+2020-12-02,Burnley,1574
+2020-12-21,Burnley,5001
+2020-12-22,Burnley,2022
+2020-12-23,Burnley,1546
+2020-12-24,Burnley,1252
+2020-12-25,Burnley,1207
+2020-12-26,Burnley,1807
+2020-12-27,Burnley,5949
+2020-12-28,Burnley,1940
+2020-12-29,Burnley,3460
+2020-12-03,Burnley,2032
+2020-12-31,Burnley,4172
+2021-01-01,Burnley,3079
+2021-01-02,Burnley,2547
+2021-01-03,Burnley,2049
+2021-01-04,Burnley,1976
+2021-01-05,Burnley,2203
+2021-01-06,Burnley,1675
+2021-01-07,Burnley,1328
+2021-01-08,Burnley,1678
+2021-01-09,Burnley,2534
+2021-01-01,Burnley,2070
+2021-01-11,Burnley,1789
+2021-01-12,Burnley,8764
+2021-01-13,Burnley,2554
+2021-01-14,Burnley,1441
+2021-01-15,Burnley,1303
+2021-01-16,Burnley,3270
+2021-01-17,Burnley,2399
+2021-01-18,Burnley,1480
+2021-01-19,Burnley,1393
+2021-01-02,Burnley,1634
+2021-01-21,Burnley,10527
+2021-01-22,Burnley,7155
+2021-01-23,Burnley,3644
+2021-01-24,Burnley,2820
+2021-01-25,Burnley,1956
+2021-01-26,Burnley,1756
+2021-01-27,Burnley,3332
+2021-01-28,Burnley,2139
+2021-01-29,Burnley,1651
+2021-01-03,Burnley,2953
+2021-01-31,Burnley,5011
+2021-02-01,Burnley,2260
+2021-02-02,Burnley,2630
+2021-02-03,Burnley,4727
+2021-02-04,Burnley,2678
+2021-02-05,Burnley,1603
+2021-02-06,Burnley,2851
+2021-02-07,Burnley,2011
+2021-02-08,Burnley,1513
+2021-02-09,Burnley,2991
+2021-02-01,Burnley,1660
+2021-02-11,Burnley,1603
+2021-02-12,Burnley,1401
+2021-02-13,Burnley,4720
+2021-02-14,Burnley,2198
+2021-02-15,Burnley,1758
+2021-02-16,Burnley,1620
+2021-02-17,Burnley,3113
+2021-02-18,Burnley,1489
+2021-02-19,Burnley,1270
+2021-02-02,Burnley,3588
+2021-02-21,Burnley,1596
+2021-02-22,Burnley,1332
+2021-02-23,Burnley,1290
+2021-02-24,Burnley,1453
+2021-02-25,Burnley,1305
+2021-02-26,Burnley,1238
+2021-02-27,Burnley,1616
+2021-02-28,Burnley,4613
+2021-03-01,Burnley,1786
+2021-03-02,Burnley,1518
+2021-03-03,Burnley,2754
+2021-03-04,Burnley,1633
+2021-03-05,Burnley,1467
+2021-03-06,Burnley,5871
+2021-03-07,Burnley,2040
+2021-03-08,Burnley,1557
+2021-03-09,Burnley,1394
+2021-03-01,Burnley,1197
+2021-03-11,Burnley,1177
+2021-03-12,Burnley,1397
+2021-03-13,Burnley,4665
+2021-03-14,Burnley,2974
+2021-03-15,Burnley,1788
+2021-03-16,Burnley,1339
+2021-03-17,Burnley,1170
+2021-03-18,Burnley,1269
+2021-03-19,Burnley,1118
+2021-03-02,Burnley,1226
+2021-03-21,Burnley,1210
+2021-03-22,Burnley,1236
+2021-03-23,Burnley,1137
+2021-03-24,Burnley,1128
+2021-03-25,Burnley,1229
+2021-03-26,Burnley,994
+2021-03-27,Burnley,1054
+2021-03-28,Burnley,1223
+2021-03-29,Burnley,1137
+2021-03-03,Burnley,1019
+2021-03-31,Burnley,1265
+2021-04-01,Burnley,1278
+2021-04-02,Burnley,1183
+2021-04-03,Burnley,1214
+2021-04-04,Burnley,2845
+2021-04-05,Burnley,1439
+2021-04-06,Burnley,1183
+2021-04-07,Burnley,1025
+2021-04-08,Burnley,942
+2021-04-09,Burnley,1059
+2021-04-01,Burnley,1670
+2021-04-11,Burnley,4238
+2021-04-12,Burnley,1717
+2021-04-13,Burnley,1316
+2021-04-14,Burnley,982
+2021-04-15,Burnley,1755
+2021-04-16,Burnley,1226
+2021-04-17,Burnley,1599
+2021-04-18,Burnley,7607
+2021-04-19,Burnley,3225
+2021-04-02,Burnley,2875
+2021-04-21,Burnley,2174
+2021-04-22,Burnley,1667
+2021-04-23,Burnley,1484
+2021-04-24,Burnley,1746
+2021-04-25,Burnley,7564
+2021-04-26,Burnley,2738
+2021-04-27,Burnley,1797
+2021-04-28,Burnley,1541
+2021-04-29,Burnley,1304
+2021-04-03,Burnley,1377
+2021-05-01,Burnley,1509
+2021-05-02,Burnley,1452
+2021-05-03,Burnley,3732
+2021-05-04,Burnley,1787
+2021-05-05,Burnley,1240
+2021-05-06,Burnley,1312
+2021-05-07,Burnley,1369
+2021-05-08,Burnley,1646
+2021-05-09,Burnley,1621
+2021-05-01,Burnley,5573
+2021-05-11,Burnley,3515
+2021-05-12,Burnley,2020
+2021-05-13,Burnley,1841
+2021-05-14,Burnley,1598
+2021-05-15,Burnley,4831
+2021-05-16,Burnley,2052
+2021-05-17,Burnley,2102
+2021-05-18,Burnley,33405
+2021-05-19,Burnley,11910
+2021-05-02,Burnley,4727
+2021-05-21,Burnley,2979
+2021-05-22,Burnley,1753
+2021-05-23,Burnley,2392
+2021-05-24,Burnley,2011
+2021-05-25,Burnley,1744
+2021-05-26,Burnley,1609
+2021-05-27,Burnley,1654
+2021-05-28,Burnley,1491
+2021-05-29,Burnley,1867
+2021-05-03,Burnley,1869
+2021-05-31,Burnley,1810
+2021-06-01,Burnley,1589
+2021-06-02,Burnley,1490
+2021-06-03,Burnley,1453
+2021-06-04,Burnley,1758
+2021-06-05,Burnley,1118
+2020-09-12,Chelsea,21667
+2020-09-13,Chelsea,17690
+2020-09-14,Chelsea,31052
+2020-09-15,Chelsea,21322
+2020-09-16,Chelsea,13041
+2020-09-17,Chelsea,13188
+2020-09-18,Chelsea,13554
+2020-09-19,Chelsea,15388
+2020-09-02,Chelsea,27539
+2020-09-21,Chelsea,17131
+2020-09-22,Chelsea,14125
+2020-09-23,Chelsea,16906
+2020-09-24,Chelsea,28285
+2020-09-25,Chelsea,17431
+2020-09-26,Chelsea,27152
+2020-09-27,Chelsea,15946
+2020-09-28,Chelsea,12312
+2020-09-29,Chelsea,18737
+2020-09-03,Chelsea,16838
+2020-10-01,Chelsea,12469
+2020-10-02,Chelsea,10538
+2020-10-03,Chelsea,19399
+2020-10-04,Chelsea,14936
+2020-10-05,Chelsea,16819
+2020-10-06,Chelsea,20377
+2020-10-07,Chelsea,13290
+2020-10-08,Chelsea,10209
+2020-10-09,Chelsea,9255
+2020-10-01,Chelsea,8632
+2020-10-11,Chelsea,8790
+2020-10-12,Chelsea,8309
+2020-10-13,Chelsea,7975
+2020-10-14,Chelsea,7467
+2020-10-15,Chelsea,7555
+2020-10-16,Chelsea,8490
+2020-10-17,Chelsea,15545
+2020-10-18,Chelsea,10445
+2020-10-19,Chelsea,9263
+2020-10-02,Chelsea,18633
+2020-10-21,Chelsea,18575
+2020-10-22,Chelsea,10901
+2020-10-23,Chelsea,9653
+2020-10-24,Chelsea,18242
+2020-10-25,Chelsea,10612
+2020-10-26,Chelsea,7980
+2020-10-27,Chelsea,8096
+2020-10-28,Chelsea,12751
+2020-10-29,Chelsea,10238
+2020-10-03,Chelsea,8448
+2020-10-31,Chelsea,13197
+2020-11-01,Chelsea,10317
+2020-11-02,Chelsea,8575
+2020-11-03,Chelsea,8421
+2020-11-04,Chelsea,10290
+2020-11-05,Chelsea,10034
+2020-11-06,Chelsea,7247
+2020-11-07,Chelsea,13796
+2020-11-08,Chelsea,12050
+2020-11-09,Chelsea,8403
+2020-11-01,Chelsea,7311
+2020-11-11,Chelsea,6905
+2020-11-12,Chelsea,6882
+2020-11-13,Chelsea,6198
+2020-11-14,Chelsea,6634
+2020-11-15,Chelsea,6988
+2020-11-16,Chelsea,6696
+2020-11-17,Chelsea,6516
+2020-11-18,Chelsea,7011
+2020-11-19,Chelsea,6455
+2020-11-02,Chelsea,6296
+2020-11-21,Chelsea,12830
+2020-11-22,Chelsea,10123
+2020-11-23,Chelsea,8316
+2020-11-24,Chelsea,11448
+2020-11-25,Chelsea,9034
+2020-11-26,Chelsea,7342
+2020-11-27,Chelsea,7190
+2020-11-28,Chelsea,9562
+2020-11-29,Chelsea,18141
+2020-11-03,Chelsea,9249
+2020-12-01,Chelsea,7954
+2020-12-02,Chelsea,10181
+2020-12-03,Chelsea,11485
+2020-12-04,Chelsea,8095
+2020-12-05,Chelsea,14311
+2020-12-06,Chelsea,14060
+2020-12-07,Chelsea,9832
+2020-12-08,Chelsea,10981
+2020-12-09,Chelsea,9422
+2020-12-01,Chelsea,8270
+2020-12-11,Chelsea,7129
+2020-12-12,Chelsea,11178
+2020-12-13,Chelsea,8955
+2020-12-14,Chelsea,9056
+2020-12-15,Chelsea,12379
+2020-12-16,Chelsea,8936
+2020-12-17,Chelsea,6712
+2020-12-18,Chelsea,6197
+2020-12-19,Chelsea,6927
+2020-12-02,Chelsea,7588
+2020-12-21,Chelsea,11009
+2020-12-22,Chelsea,9814
+2020-12-23,Chelsea,7579
+2020-12-24,Chelsea,6331
+2020-12-25,Chelsea,6140
+2020-12-26,Chelsea,15129
+2020-12-27,Chelsea,9917
+2020-12-28,Chelsea,13370
+2020-12-29,Chelsea,9265
+2020-12-03,Chelsea,7120
+2020-12-31,Chelsea,6149
+2021-01-01,Chelsea,6826
+2021-01-02,Chelsea,7756
+2021-01-03,Chelsea,17580
+2021-01-04,Chelsea,11908
+2021-01-05,Chelsea,8881
+2021-01-06,Chelsea,7560
+2021-01-07,Chelsea,6751
+2021-01-08,Chelsea,6605
+2021-01-09,Chelsea,7096
+2021-01-01,Chelsea,9033
+2021-01-11,Chelsea,6675
+2021-01-12,Chelsea,7010
+2021-01-13,Chelsea,7475
+2021-01-14,Chelsea,7987
+2021-01-15,Chelsea,7412
+2021-01-16,Chelsea,11020
+2021-01-17,Chelsea,9874
+2021-01-18,Chelsea,7896
+2021-01-19,Chelsea,11938
+2021-01-02,Chelsea,10969
+2021-01-21,Chelsea,7801
+2021-01-22,Chelsea,8262
+2021-01-23,Chelsea,8771
+2021-01-24,Chelsea,13048
+2021-01-25,Chelsea,51710
+2021-01-26,Chelsea,39756
+2021-01-27,Chelsea,31717
+2021-01-28,Chelsea,15653
+2021-01-29,Chelsea,10638
+2021-01-03,Chelsea,11473
+2021-01-31,Chelsea,17404
+2021-02-01,Chelsea,11015
+2021-02-02,Chelsea,10510
+2021-02-03,Chelsea,9970
+2021-02-04,Chelsea,16202
+2021-02-05,Chelsea,11030
+2021-02-06,Chelsea,9665
+2021-02-07,Chelsea,13451
+2021-02-08,Chelsea,9754
+2021-02-09,Chelsea,8703
+2021-02-01,Chelsea,8479
+2021-02-11,Chelsea,11670
+2021-02-12,Chelsea,7918
+2021-02-13,Chelsea,8488
+2021-02-14,Chelsea,7834
+2021-02-15,Chelsea,12531
+2021-02-16,Chelsea,10725
+2021-02-17,Chelsea,8269
+2021-02-18,Chelsea,7809
+2021-02-19,Chelsea,7237
+2021-02-02,Chelsea,12508
+2021-02-21,Chelsea,9181
+2021-02-22,Chelsea,8158
+2021-02-23,Chelsea,16436
+2021-02-24,Chelsea,13945
+2021-02-25,Chelsea,9046
+2021-02-26,Chelsea,8319
+2021-02-27,Chelsea,8799
+2021-02-28,Chelsea,18287
+2021-03-01,Chelsea,9622
+2021-03-02,Chelsea,8806
+2021-03-03,Chelsea,8665
+2021-03-04,Chelsea,15534
+2021-03-05,Chelsea,12964
+2021-03-06,Chelsea,9592
+2021-03-07,Chelsea,10418
+2021-03-08,Chelsea,14632
+2021-03-09,Chelsea,12368
+2021-03-01,Chelsea,13649
+2021-03-11,Chelsea,10105
+2021-03-12,Chelsea,8911
+2021-03-13,Chelsea,12043
+2021-03-14,Chelsea,9084
+2021-03-15,Chelsea,8116
+2021-03-16,Chelsea,8183
+2021-03-17,Chelsea,20603
+2021-03-18,Chelsea,17504
+2021-03-19,Chelsea,13556
+2021-03-02,Chelsea,11084
+2021-03-21,Chelsea,16423
+2021-03-22,Chelsea,9654
+2021-03-23,Chelsea,8165
+2021-03-24,Chelsea,8019
+2021-03-25,Chelsea,8227
+2021-03-26,Chelsea,7210
+2021-03-27,Chelsea,6984
+2021-03-28,Chelsea,7187
+2021-03-29,Chelsea,6907
+2021-03-03,Chelsea,6873
+2021-03-31,Chelsea,7144
+2021-04-01,Chelsea,6672
+2021-04-02,Chelsea,7466
+2021-04-03,Chelsea,12898
+2021-04-04,Chelsea,8406
+2021-04-05,Chelsea,7929
+2021-04-06,Chelsea,8682
+2021-04-07,Chelsea,15600
+2021-04-08,Chelsea,12892
+2021-04-09,Chelsea,8062
+2021-04-01,Chelsea,13926
+2021-04-11,Chelsea,10880
+2021-04-12,Chelsea,9082
+2021-04-13,Chelsea,16400
+2021-04-14,Chelsea,18152
+2021-04-15,Chelsea,15411
+2021-04-16,Chelsea,11039
+2021-04-17,Chelsea,22604
+2021-04-18,Chelsea,18650
+2021-04-19,Chelsea,25899
+2021-04-02,Chelsea,30758
+2021-04-21,Chelsea,19339
+2021-04-22,Chelsea,12113
+2021-04-23,Chelsea,10729
+2021-04-24,Chelsea,15627
+2021-04-25,Chelsea,14121
+2021-04-26,Chelsea,13137
+2021-04-27,Chelsea,30503
+2021-04-28,Chelsea,20548
+2021-04-29,Chelsea,13743
+2021-04-03,Chelsea,10500
+2021-05-01,Chelsea,16091
+2021-05-02,Chelsea,13575
+2021-05-03,Chelsea,11563
+2021-05-04,Chelsea,16552
+2021-05-05,Chelsea,74804
+2021-05-06,Chelsea,63171
+2021-05-07,Chelsea,25611
+2021-05-08,Chelsea,30888
+2021-05-09,Chelsea,25403
+2021-05-01,Chelsea,17458
+2021-05-11,Chelsea,18613
+2021-05-12,Chelsea,20830
+2021-05-13,Chelsea,15199
+2021-05-14,Chelsea,13362
+2021-05-15,Chelsea,32098
+2021-05-16,Chelsea,17377
+2021-05-17,Chelsea,13278
+2021-05-18,Chelsea,18785
+2021-05-19,Chelsea,16844
+2021-05-02,Chelsea,12552
+2021-05-21,Chelsea,11299
+2021-05-22,Chelsea,10993
+2021-05-23,Chelsea,17697
+2021-05-24,Chelsea,15361
+2021-05-25,Chelsea,13061
+2021-05-26,Chelsea,16315
+2021-05-27,Chelsea,16730
+2021-05-28,Chelsea,18024
+2021-05-29,Chelsea,206255
+2021-05-03,Chelsea,183344
+2021-05-31,Chelsea,67383
+2021-06-01,Chelsea,41760
+2021-06-02,Chelsea,29649
+2021-06-03,Chelsea,22536
+2021-06-04,Chelsea,21632
+2021-06-05,Chelsea,17955
+2020-09-12,Crystal Palace,12132
+2020-09-13,Crystal Palace,4818
+2020-09-14,Crystal Palace,3978
+2020-09-15,Crystal Palace,3832
+2020-09-16,Crystal Palace,3004
+2020-09-17,Crystal Palace,2742
+2020-09-18,Crystal Palace,3016
+2020-09-19,Crystal Palace,14117
+2020-09-02,Crystal Palace,7295
+2020-09-21,Crystal Palace,4326
+2020-09-22,Crystal Palace,3491
+2020-09-23,Crystal Palace,3198
+2020-09-24,Crystal Palace,2678
+2020-09-25,Crystal Palace,2731
+2020-09-26,Crystal Palace,9142
+2020-09-27,Crystal Palace,3257
+2020-09-28,Crystal Palace,2596
+2020-09-29,Crystal Palace,2307
+2020-09-03,Crystal Palace,2231
+2020-10-01,Crystal Palace,2078
+2020-10-02,Crystal Palace,2372
+2020-10-03,Crystal Palace,7232
+2020-10-04,Crystal Palace,3082
+2020-10-05,Crystal Palace,2872
+2020-10-06,Crystal Palace,3280
+2020-10-07,Crystal Palace,2512
+2020-10-08,Crystal Palace,2559
+2020-10-09,Crystal Palace,2077
+2020-10-01,Crystal Palace,1852
+2020-10-11,Crystal Palace,2163
+2020-10-12,Crystal Palace,2002
+2020-10-13,Crystal Palace,2006
+2020-10-14,Crystal Palace,3075
+2020-10-15,Crystal Palace,2882
+2020-10-16,Crystal Palace,3981
+2020-10-17,Crystal Palace,5098
+2020-10-18,Crystal Palace,8108
+2020-10-19,Crystal Palace,3490
+2020-10-02,Crystal Palace,2674
+2020-10-21,Crystal Palace,2439
+2020-10-22,Crystal Palace,2071
+2020-10-23,Crystal Palace,2208
+2020-10-24,Crystal Palace,5556
+2020-10-25,Crystal Palace,3481
+2020-10-26,Crystal Palace,2280
+2020-10-27,Crystal Palace,2009
+2020-10-28,Crystal Palace,1846
+2020-10-29,Crystal Palace,1908
+2020-10-03,Crystal Palace,3938
+2020-10-31,Crystal Palace,2300
+2020-11-01,Crystal Palace,1924
+2020-11-02,Crystal Palace,1866
+2020-11-03,Crystal Palace,1750
+2020-11-04,Crystal Palace,1390
+2020-11-05,Crystal Palace,1989
+2020-11-06,Crystal Palace,1598
+2020-11-07,Crystal Palace,6214
+2020-11-08,Crystal Palace,3204
+2020-11-09,Crystal Palace,2193
+2020-11-01,Crystal Palace,2032
+2020-11-11,Crystal Palace,1930
+2020-11-12,Crystal Palace,2057
+2020-11-13,Crystal Palace,1567
+2020-11-14,Crystal Palace,1567
+2020-11-15,Crystal Palace,1829
+2020-11-16,Crystal Palace,1708
+2020-11-17,Crystal Palace,1518
+2020-11-18,Crystal Palace,1667
+2020-11-19,Crystal Palace,1394
+2020-11-02,Crystal Palace,1383
+2020-11-21,Crystal Palace,1858
+2020-11-22,Crystal Palace,2086
+2020-11-23,Crystal Palace,3801
+2020-11-24,Crystal Palace,1853
+2020-11-25,Crystal Palace,1451
+2020-11-26,Crystal Palace,1572
+2020-11-27,Crystal Palace,4086
+2020-11-28,Crystal Palace,2380
+2020-11-29,Crystal Palace,2011
+2020-11-03,Crystal Palace,1817
+2020-12-01,Crystal Palace,1576
+2020-12-02,Crystal Palace,1440
+2020-12-03,Crystal Palace,1496
+2020-12-04,Crystal Palace,1337
+2020-12-05,Crystal Palace,1913
+2020-12-06,Crystal Palace,5335
+2020-12-07,Crystal Palace,2534
+2020-12-08,Crystal Palace,1981
+2020-12-09,Crystal Palace,1716
+2020-12-01,Crystal Palace,1563
+2020-12-11,Crystal Palace,1565
+2020-12-12,Crystal Palace,2091
+2020-12-13,Crystal Palace,11098
+2020-12-14,Crystal Palace,3180
+2020-12-15,Crystal Palace,2099
+2020-12-16,Crystal Palace,3684
+2020-12-17,Crystal Palace,2501
+2020-12-18,Crystal Palace,2068
+2020-12-19,Crystal Palace,9642
+2020-12-02,Crystal Palace,3679
+2020-12-21,Crystal Palace,2680
+2020-12-22,Crystal Palace,2096
+2020-12-23,Crystal Palace,2181
+2020-12-24,Crystal Palace,1607
+2020-12-25,Crystal Palace,1685
+2020-12-26,Crystal Palace,6652
+2020-12-27,Crystal Palace,3412
+2020-12-28,Crystal Palace,6211
+2020-12-29,Crystal Palace,2746
+2020-12-03,Crystal Palace,2214
+2020-12-31,Crystal Palace,1760
+2021-01-01,Crystal Palace,1965
+2021-01-02,Crystal Palace,7333
+2021-01-03,Crystal Palace,3226
+2021-01-04,Crystal Palace,2524
+2021-01-05,Crystal Palace,2473
+2021-01-06,Crystal Palace,2158
+2021-01-07,Crystal Palace,1788
+2021-01-08,Crystal Palace,2625
+2021-01-09,Crystal Palace,2463
+2021-01-01,Crystal Palace,2314
+2021-01-11,Crystal Palace,1915
+2021-01-12,Crystal Palace,1970
+2021-01-13,Crystal Palace,2032
+2021-01-14,Crystal Palace,6134
+2021-01-15,Crystal Palace,2712
+2021-01-16,Crystal Palace,3014
+2021-01-17,Crystal Palace,5284
+2021-01-18,Crystal Palace,2339
+2021-01-19,Crystal Palace,1883
+2021-01-02,Crystal Palace,2074
+2021-01-21,Crystal Palace,3189
+2021-01-22,Crystal Palace,2258
+2021-01-23,Crystal Palace,2953
+2021-01-24,Crystal Palace,2092
+2021-01-25,Crystal Palace,2450
+2021-01-26,Crystal Palace,3718
+2021-01-27,Crystal Palace,2574
+2021-01-28,Crystal Palace,2467
+2021-01-29,Crystal Palace,2000
+2021-01-03,Crystal Palace,3427
+2021-01-31,Crystal Palace,2776
+2021-02-01,Crystal Palace,2929
+2021-02-02,Crystal Palace,3809
+2021-02-03,Crystal Palace,3354
+2021-02-04,Crystal Palace,2922
+2021-02-05,Crystal Palace,1935
+2021-02-06,Crystal Palace,2355
+2021-02-07,Crystal Palace,2390
+2021-02-08,Crystal Palace,5490
+2021-02-09,Crystal Palace,2616
+2021-02-01,Crystal Palace,1921
+2021-02-11,Crystal Palace,2095
+2021-02-12,Crystal Palace,1783
+2021-02-13,Crystal Palace,4582
+2021-02-14,Crystal Palace,2456
+2021-02-15,Crystal Palace,2069
+2021-02-16,Crystal Palace,1951
+2021-02-17,Crystal Palace,1951
+2021-02-18,Crystal Palace,1708
+2021-02-19,Crystal Palace,1935
+2021-02-02,Crystal Palace,2233
+2021-02-21,Crystal Palace,2231
+2021-02-22,Crystal Palace,6218
+2021-02-23,Crystal Palace,3600
+2021-02-24,Crystal Palace,2336
+2021-02-25,Crystal Palace,1964
+2021-02-26,Crystal Palace,1725
+2021-02-27,Crystal Palace,2212
+2021-02-28,Crystal Palace,4798
+2021-03-01,Crystal Palace,2424
+2021-03-02,Crystal Palace,2206
+2021-03-03,Crystal Palace,7098
+2021-03-04,Crystal Palace,2861
+2021-03-05,Crystal Palace,2147
+2021-03-06,Crystal Palace,2292
+2021-03-07,Crystal Palace,5937
+2021-03-08,Crystal Palace,2613
+2021-03-09,Crystal Palace,1969
+2021-03-01,Crystal Palace,2000
+2021-03-11,Crystal Palace,1896
+2021-03-12,Crystal Palace,1826
+2021-03-13,Crystal Palace,5276
+2021-03-14,Crystal Palace,2922
+2021-03-15,Crystal Palace,2319
+2021-03-16,Crystal Palace,1950
+2021-03-17,Crystal Palace,1854
+2021-03-18,Crystal Palace,1717
+2021-03-19,Crystal Palace,1731
+2021-03-02,Crystal Palace,1797
+2021-03-21,Crystal Palace,1877
+2021-03-22,Crystal Palace,1819
+2021-03-23,Crystal Palace,1922
+2021-03-24,Crystal Palace,1954
+2021-03-25,Crystal Palace,1884
+2021-03-26,Crystal Palace,1572
+2021-03-27,Crystal Palace,1685
+2021-03-28,Crystal Palace,1764
+2021-03-29,Crystal Palace,1643
+2021-03-03,Crystal Palace,1515
+2021-03-31,Crystal Palace,1868
+2021-04-01,Crystal Palace,1672
+2021-04-02,Crystal Palace,1670
+2021-04-03,Crystal Palace,1906
+2021-04-04,Crystal Palace,2104
+2021-04-05,Crystal Palace,4425
+2021-04-06,Crystal Palace,2068
+2021-04-07,Crystal Palace,1765
+2021-04-08,Crystal Palace,1683
+2021-04-09,Crystal Palace,1769
+2021-04-01,Crystal Palace,6986
+2021-04-11,Crystal Palace,2964
+2021-04-12,Crystal Palace,2118
+2021-04-13,Crystal Palace,1991
+2021-04-14,Crystal Palace,1638
+2021-04-15,Crystal Palace,1753
+2021-04-16,Crystal Palace,1732
+2021-04-17,Crystal Palace,1854
+2021-04-18,Crystal Palace,2056
+2021-04-19,Crystal Palace,6214
+2021-04-02,Crystal Palace,4468
+2021-04-21,Crystal Palace,3771
+2021-04-22,Crystal Palace,2515
+2021-04-23,Crystal Palace,2315
+2021-04-24,Crystal Palace,2516
+2021-04-25,Crystal Palace,2646
+2021-04-26,Crystal Palace,5122
+2021-04-27,Crystal Palace,3378
+2021-04-28,Crystal Palace,2231
+2021-04-29,Crystal Palace,1898
+2021-04-03,Crystal Palace,2030
+2021-05-01,Crystal Palace,5163
+2021-05-02,Crystal Palace,2646
+2021-05-03,Crystal Palace,2342
+2021-05-04,Crystal Palace,2014
+2021-05-05,Crystal Palace,2133
+2021-05-06,Crystal Palace,2277
+2021-05-07,Crystal Palace,2555
+2021-05-08,Crystal Palace,4823
+2021-05-09,Crystal Palace,2854
+2021-05-01,Crystal Palace,2818
+2021-05-11,Crystal Palace,4596
+2021-05-12,Crystal Palace,2883
+2021-05-13,Crystal Palace,2791
+2021-05-14,Crystal Palace,2600
+2021-05-15,Crystal Palace,2924
+2021-05-16,Crystal Palace,7275
+2021-05-17,Crystal Palace,3872
+2021-05-18,Crystal Palace,9185
+2021-05-19,Crystal Palace,8565
+2021-05-02,Crystal Palace,5490
+2021-05-21,Crystal Palace,3401
+2021-05-22,Crystal Palace,3074
+2021-05-23,Crystal Palace,7717
+2021-05-24,Crystal Palace,3897
+2021-05-25,Crystal Palace,3551
+2021-05-26,Crystal Palace,2924
+2021-05-27,Crystal Palace,2416
+2021-05-28,Crystal Palace,2219
+2021-05-29,Crystal Palace,3395
+2021-05-03,Crystal Palace,2906
+2021-05-31,Crystal Palace,2617
+2021-06-01,Crystal Palace,2910
+2021-06-02,Crystal Palace,2978
+2021-06-03,Crystal Palace,3007
+2021-06-04,Crystal Palace,4034
+2021-06-05,Crystal Palace,4489
+2020-09-12,Everton,10072
+2020-09-13,Everton,27771
+2020-09-14,Everton,14874
+2020-09-15,Everton,7864
+2020-09-16,Everton,9868
+2020-09-17,Everton,7014
+2020-09-18,Everton,5777
+2020-09-19,Everton,21603
+2020-09-02,Everton,10998
+2020-09-21,Everton,7509
+2020-09-22,Everton,6434
+2020-09-23,Everton,8853
+2020-09-24,Everton,6859
+2020-09-25,Everton,5090
+2020-09-26,Everton,15716
+2020-09-27,Everton,8784
+2020-09-28,Everton,6493
+2020-09-29,Everton,5683
+2020-09-03,Everton,8901
+2020-10-01,Everton,10132
+2020-10-02,Everton,6588
+2020-10-03,Everton,24016
+2020-10-04,Everton,20006
+2020-10-05,Everton,23259
+2020-10-06,Everton,17028
+2020-10-07,Everton,9940
+2020-10-08,Everton,7660
+2020-10-09,Everton,7483
+2020-10-01,Everton,6558
+2020-10-11,Everton,5975
+2020-10-12,Everton,4914
+2020-10-13,Everton,4898
+2020-10-14,Everton,5477
+2020-10-15,Everton,5146
+2020-10-16,Everton,7752
+2020-10-17,Everton,25942
+2020-10-18,Everton,9391
+2020-10-19,Everton,7082
+2020-10-02,Everton,5674
+2020-10-21,Everton,4777
+2020-10-22,Everton,4241
+2020-10-23,Everton,3947
+2020-10-24,Everton,5368
+2020-10-25,Everton,10381
+2020-10-26,Everton,4358
+2020-10-27,Everton,3603
+2020-10-28,Everton,3563
+2020-10-29,Everton,3246
+2020-10-03,Everton,3003
+2020-10-31,Everton,3445
+2020-11-01,Everton,9549
+2020-11-02,Everton,3875
+2020-11-03,Everton,4212
+2020-11-04,Everton,2368
+2020-11-05,Everton,2917
+2020-11-06,Everton,2996
+2020-11-07,Everton,9205
+2020-11-08,Everton,3780
+2020-11-09,Everton,2754
+2020-11-01,Everton,2455
+2020-11-11,Everton,2395
+2020-11-12,Everton,2584
+2020-11-13,Everton,2231
+2020-11-14,Everton,2241
+2020-11-15,Everton,2527
+2020-11-16,Everton,2130
+2020-11-17,Everton,2126
+2020-11-18,Everton,2221
+2020-11-19,Everton,2220
+2020-11-02,Everton,2230
+2020-11-21,Everton,2627
+2020-11-22,Everton,6340
+2020-11-23,Everton,3346
+2020-11-24,Everton,2523
+2020-11-25,Everton,2394
+2020-11-26,Everton,2475
+2020-11-27,Everton,2699
+2020-11-28,Everton,6730
+2020-11-29,Everton,3435
+2020-11-03,Everton,3128
+2020-12-01,Everton,2461
+2020-12-02,Everton,2223
+2020-12-03,Everton,2154
+2020-12-04,Everton,2214
+2020-12-05,Everton,5061
+2020-12-06,Everton,3242
+2020-12-07,Everton,2585
+2020-12-08,Everton,2253
+2020-12-09,Everton,2309
+2020-12-01,Everton,2483
+2020-12-11,Everton,2543
+2020-12-12,Everton,6194
+2020-12-13,Everton,4045
+2020-12-14,Everton,2985
+2020-12-15,Everton,2657
+2020-12-16,Everton,5668
+2020-12-17,Everton,4340
+2020-12-18,Everton,3078
+2020-12-19,Everton,9396
+2020-12-02,Everton,5647
+2020-12-21,Everton,3694
+2020-12-22,Everton,3639
+2020-12-23,Everton,7216
+2020-12-24,Everton,3376
+2020-12-25,Everton,2583
+2020-12-26,Everton,5863
+2020-12-27,Everton,6916
+2020-12-28,Everton,5248
+2020-12-29,Everton,3804
+2020-12-03,Everton,3393
+2020-12-31,Everton,3104
+2021-01-01,Everton,7124
+2021-01-02,Everton,3842
+2021-01-03,Everton,3391
+2021-01-04,Everton,3254
+2021-01-05,Everton,2949
+2021-01-06,Everton,2688
+2021-01-07,Everton,2489
+2021-01-08,Everton,2887
+2021-01-09,Everton,4595
+2021-01-01,Everton,3849
+2021-01-11,Everton,2573
+2021-01-12,Everton,3971
+2021-01-13,Everton,3604
+2021-01-14,Everton,2681
+2021-01-15,Everton,3064
+2021-01-16,Everton,3925
+2021-01-17,Everton,4183
+2021-01-18,Everton,2970
+2021-01-19,Everton,3125
+2021-01-02,Everton,2817
+2021-01-21,Everton,2660
+2021-01-22,Everton,2867
+2021-01-23,Everton,3605
+2021-01-24,Everton,5385
+2021-01-25,Everton,4188
+2021-01-26,Everton,3364
+2021-01-27,Everton,5029
+2021-01-28,Everton,3843
+2021-01-29,Everton,3199
+2021-01-03,Everton,6051
+2021-01-31,Everton,3691
+2021-02-01,Everton,4903
+2021-02-02,Everton,9167
+2021-02-03,Everton,6246
+2021-02-04,Everton,5010
+2021-02-05,Everton,3310
+2021-02-06,Everton,10109
+2021-02-07,Everton,6662
+2021-02-08,Everton,3756
+2021-02-09,Everton,3604
+2021-02-01,Everton,9011
+2021-02-11,Everton,6769
+2021-02-12,Everton,3568
+2021-02-13,Everton,3740
+2021-02-14,Everton,5426
+2021-02-15,Everton,3257
+2021-02-16,Everton,3782
+2021-02-17,Everton,5701
+2021-02-18,Everton,3397
+2021-02-19,Everton,3454
+2021-02-02,Everton,17501
+2021-02-21,Everton,8902
+2021-02-22,Everton,4505
+2021-02-23,Everton,5439
+2021-02-24,Everton,4805
+2021-02-25,Everton,3693
+2021-02-26,Everton,3216
+2021-02-27,Everton,3440
+2021-02-28,Everton,3971
+2021-03-01,Everton,7600
+2021-03-02,Everton,5024
+2021-03-03,Everton,3358
+2021-03-04,Everton,5505
+2021-03-05,Everton,4208
+2021-03-06,Everton,3743
+2021-03-07,Everton,4298
+2021-03-08,Everton,6623
+2021-03-09,Everton,3300
+2021-03-01,Everton,3083
+2021-03-11,Everton,2855
+2021-03-12,Everton,2803
+2021-03-13,Everton,6071
+2021-03-14,Everton,3606
+2021-03-15,Everton,3033
+2021-03-16,Everton,2804
+2021-03-17,Everton,2602
+2021-03-18,Everton,2567
+2021-03-19,Everton,2752
+2021-03-02,Everton,6662
+2021-03-21,Everton,3809
+2021-03-22,Everton,2542
+2021-03-23,Everton,2453
+2021-03-24,Everton,2695
+2021-03-25,Everton,3050
+2021-03-26,Everton,3562
+2021-03-27,Everton,2784
+2021-03-28,Everton,2512
+2021-03-29,Everton,2140
+2021-03-03,Everton,2231
+2021-03-31,Everton,2346
+2021-04-01,Everton,2105
+2021-04-02,Everton,2216
+2021-04-03,Everton,2599
+2021-04-04,Everton,2614
+2021-04-05,Everton,5247
+2021-04-06,Everton,2879
+2021-04-07,Everton,2500
+2021-04-08,Everton,2168
+2021-04-09,Everton,1917
+2021-04-01,Everton,2623
+2021-04-11,Everton,3164
+2021-04-12,Everton,5440
+2021-04-13,Everton,3456
+2021-04-14,Everton,2912
+2021-04-15,Everton,2665
+2021-04-16,Everton,5759
+2021-04-17,Everton,3858
+2021-04-18,Everton,3612
+2021-04-19,Everton,7268
+2021-04-02,Everton,8398
+2021-04-21,Everton,5694
+2021-04-22,Everton,3934
+2021-04-23,Everton,6957
+2021-04-24,Everton,5078
+2021-04-25,Everton,4261
+2021-04-26,Everton,3826
+2021-04-27,Everton,3345
+2021-04-28,Everton,3095
+2021-04-29,Everton,2904
+2021-04-03,Everton,2947
+2021-05-01,Everton,4838
+2021-05-02,Everton,4042
+2021-05-03,Everton,3179
+2021-05-04,Everton,3282
+2021-05-05,Everton,3249
+2021-05-06,Everton,3125
+2021-05-07,Everton,2990
+2021-05-08,Everton,3403
+2021-05-09,Everton,6269
+2021-05-01,Everton,3724
+2021-05-11,Everton,3783
+2021-05-12,Everton,3528
+2021-05-13,Everton,4614
+2021-05-14,Everton,3146
+2021-05-15,Everton,3952
+2021-05-16,Everton,5166
+2021-05-17,Everton,3948
+2021-05-18,Everton,3857
+2021-05-19,Everton,4545
+2021-05-02,Everton,5148
+2021-05-21,Everton,4403
+2021-05-22,Everton,3284
+2021-05-23,Everton,5744
+2021-05-24,Everton,4739
+2021-05-25,Everton,4382
+2021-05-26,Everton,3691
+2021-05-27,Everton,3271
+2021-05-28,Everton,3273
+2021-05-29,Everton,4119
+2021-05-03,Everton,3756
+2021-05-31,Everton,3800
+2021-06-01,Everton,18598
+2021-06-02,Everton,14190
+2021-06-03,Everton,7401
+2021-06-04,Everton,6442
+2021-06-05,Everton,4686
+2020-09-12,Fulham,31768
+2020-09-13,Fulham,7161
+2020-09-14,Fulham,4572
+2020-09-15,Fulham,3669
+2020-09-16,Fulham,3572
+2020-09-17,Fulham,2971
+2020-09-18,Fulham,3051
+2020-09-19,Fulham,11360
+2020-09-02,Fulham,4563
+2020-09-21,Fulham,3082
+2020-09-22,Fulham,2744
+2020-09-23,Fulham,3093
+2020-09-24,Fulham,2544
+2020-09-25,Fulham,2473
+2020-09-26,Fulham,2684
+2020-09-27,Fulham,2615
+2020-09-28,Fulham,9164
+2020-09-29,Fulham,6362
+2020-09-03,Fulham,3729
+2020-10-01,Fulham,4387
+2020-10-02,Fulham,2595
+2020-10-03,Fulham,2800
+2020-10-04,Fulham,5539
+2020-10-05,Fulham,5627
+2020-10-06,Fulham,10612
+2020-10-07,Fulham,4477
+2020-10-08,Fulham,3393
+2020-10-09,Fulham,2644
+2020-10-01,Fulham,2235
+2020-10-11,Fulham,2289
+2020-10-12,Fulham,2105
+2020-10-13,Fulham,1998
+2020-10-14,Fulham,2004
+2020-10-15,Fulham,1935
+2020-10-16,Fulham,2670
+2020-10-17,Fulham,3212
+2020-10-18,Fulham,6248
+2020-10-19,Fulham,3218
+2020-10-02,Fulham,2531
+2020-10-21,Fulham,2188
+2020-10-22,Fulham,1976
+2020-10-23,Fulham,1909
+2020-10-24,Fulham,6411
+2020-10-25,Fulham,2959
+2020-10-26,Fulham,2164
+2020-10-27,Fulham,1815
+2020-10-28,Fulham,1724
+2020-10-29,Fulham,1682
+2020-10-03,Fulham,1617
+2020-10-31,Fulham,1659
+2020-11-01,Fulham,1704
+2020-11-02,Fulham,6088
+2020-11-03,Fulham,2672
+2020-11-04,Fulham,1479
+2020-11-05,Fulham,1463
+2020-11-06,Fulham,1551
+2020-11-07,Fulham,3861
+2020-11-08,Fulham,3796
+2020-11-09,Fulham,2117
+2020-11-01,Fulham,1676
+2020-11-11,Fulham,1657
+2020-11-12,Fulham,1917
+2020-11-13,Fulham,1463
+2020-11-14,Fulham,1381
+2020-11-15,Fulham,1463
+2020-11-16,Fulham,1589
+2020-11-17,Fulham,1497
+2020-11-18,Fulham,1474
+2020-11-19,Fulham,1280
+2020-11-02,Fulham,1390
+2020-11-21,Fulham,1639
+2020-11-22,Fulham,9590
+2020-11-23,Fulham,2270
+2020-11-24,Fulham,1836
+2020-11-25,Fulham,1608
+2020-11-26,Fulham,1497
+2020-11-27,Fulham,1432
+2020-11-28,Fulham,1761
+2020-11-29,Fulham,2572
+2020-11-03,Fulham,7080
+2020-12-01,Fulham,3139
+2020-12-02,Fulham,1750
+2020-12-03,Fulham,1605
+2020-12-04,Fulham,1591
+2020-12-05,Fulham,5353
+2020-12-06,Fulham,2452
+2020-12-07,Fulham,1820
+2020-12-08,Fulham,1620
+2020-12-09,Fulham,1560
+2020-12-01,Fulham,1579
+2020-12-11,Fulham,1626
+2020-12-12,Fulham,1951
+2020-12-13,Fulham,17128
+2020-12-14,Fulham,3745
+2020-12-15,Fulham,2197
+2020-12-16,Fulham,2551
+2020-12-17,Fulham,2133
+2020-12-18,Fulham,1602
+2020-12-19,Fulham,4786
+2020-12-02,Fulham,2616
+2020-12-21,Fulham,2012
+2020-12-22,Fulham,1891
+2020-12-23,Fulham,1777
+2020-12-24,Fulham,1673
+2020-12-25,Fulham,1609
+2020-12-26,Fulham,4947
+2020-12-27,Fulham,3700
+2020-12-28,Fulham,2699
+2020-12-29,Fulham,2606
+2020-12-03,Fulham,2849
+2020-12-31,Fulham,2052
+2021-01-01,Fulham,2045
+2021-01-02,Fulham,2650
+2021-01-03,Fulham,2462
+2021-01-04,Fulham,2502
+2021-01-05,Fulham,2538
+2021-01-06,Fulham,1873
+2021-01-07,Fulham,1773
+2021-01-08,Fulham,1871
+2021-01-09,Fulham,2885
+2021-01-01,Fulham,2120
+2021-01-11,Fulham,1929
+2021-01-12,Fulham,2164
+2021-01-13,Fulham,7145
+2021-01-14,Fulham,4037
+2021-01-15,Fulham,2736
+2021-01-16,Fulham,11602
+2021-01-17,Fulham,3197
+2021-01-18,Fulham,2084
+2021-01-19,Fulham,2163
+2021-01-02,Fulham,9759
+2021-01-21,Fulham,3496
+2021-01-22,Fulham,2122
+2021-01-23,Fulham,1926
+2021-01-24,Fulham,2659
+2021-01-25,Fulham,2147
+2021-01-26,Fulham,1969
+2021-01-27,Fulham,2616
+2021-01-28,Fulham,2142
+2021-01-29,Fulham,1774
+2021-01-03,Fulham,3956
+2021-01-31,Fulham,2403
+2021-02-01,Fulham,2884
+2021-02-02,Fulham,4062
+2021-02-03,Fulham,3424
+2021-02-04,Fulham,2450
+2021-02-05,Fulham,1920
+2021-02-06,Fulham,6657
+2021-02-07,Fulham,2524
+2021-02-08,Fulham,1886
+2021-02-09,Fulham,1845
+2021-02-01,Fulham,1676
+2021-02-11,Fulham,1694
+2021-02-12,Fulham,1548
+2021-02-13,Fulham,1920
+2021-02-14,Fulham,6693
+2021-02-15,Fulham,4110
+2021-02-16,Fulham,2242
+2021-02-17,Fulham,3663
+2021-02-18,Fulham,1864
+2021-02-19,Fulham,1883
+2021-02-02,Fulham,4719
+2021-02-21,Fulham,3284
+2021-02-22,Fulham,2210
+2021-02-23,Fulham,1901
+2021-02-24,Fulham,2129
+2021-02-25,Fulham,2035
+2021-02-26,Fulham,1781
+2021-02-27,Fulham,2044
+2021-02-28,Fulham,5152
+2021-03-01,Fulham,2223
+2021-03-02,Fulham,2046
+2021-03-03,Fulham,2132
+2021-03-04,Fulham,5142
+2021-03-05,Fulham,2772
+2021-03-06,Fulham,2454
+2021-03-07,Fulham,13958
+2021-03-08,Fulham,5344
+2021-03-09,Fulham,2770
+2021-03-01,Fulham,2454
+2021-03-11,Fulham,2248
+2021-03-12,Fulham,2314
+2021-03-13,Fulham,6459
+2021-03-14,Fulham,3297
+2021-03-15,Fulham,2202
+2021-03-16,Fulham,2060
+2021-03-17,Fulham,2138
+2021-03-18,Fulham,2085
+2021-03-19,Fulham,4979
+2021-03-02,Fulham,2644
+2021-03-21,Fulham,2372
+2021-03-22,Fulham,1871
+2021-03-23,Fulham,1962
+2021-03-24,Fulham,1920
+2021-03-25,Fulham,1921
+2021-03-26,Fulham,1646
+2021-03-27,Fulham,1677
+2021-03-28,Fulham,2000
+2021-03-29,Fulham,1461
+2021-03-03,Fulham,1970
+2021-03-31,Fulham,1721
+2021-04-01,Fulham,1490
+2021-04-02,Fulham,1560
+2021-04-03,Fulham,1678
+2021-04-04,Fulham,5026
+2021-04-05,Fulham,2176
+2021-04-06,Fulham,1784
+2021-04-07,Fulham,1601
+2021-04-08,Fulham,1521
+2021-04-09,Fulham,3896
+2021-04-01,Fulham,2662
+2021-04-11,Fulham,2460
+2021-04-12,Fulham,2044
+2021-04-13,Fulham,1798
+2021-04-14,Fulham,1659
+2021-04-15,Fulham,1752
+2021-04-16,Fulham,1776
+2021-04-17,Fulham,2191
+2021-04-18,Fulham,6701
+2021-04-19,Fulham,3850
+2021-04-02,Fulham,3398
+2021-04-21,Fulham,2944
+2021-04-22,Fulham,2313
+2021-04-23,Fulham,2051
+2021-04-24,Fulham,2407
+2021-04-25,Fulham,2413
+2021-04-26,Fulham,2297
+2021-04-27,Fulham,2142
+2021-04-28,Fulham,1904
+2021-04-29,Fulham,2138
+2021-04-03,Fulham,2381
+2021-05-01,Fulham,6697
+2021-05-02,Fulham,3093
+2021-05-03,Fulham,2360
+2021-05-04,Fulham,2125
+2021-05-05,Fulham,2225
+2021-05-06,Fulham,2169
+2021-05-07,Fulham,2087
+2021-05-08,Fulham,2436
+2021-05-09,Fulham,2650
+2021-05-01,Fulham,11332
+2021-05-11,Fulham,9007
+2021-05-12,Fulham,3539
+2021-05-13,Fulham,2808
+2021-05-14,Fulham,2500
+2021-05-15,Fulham,5572
+2021-05-16,Fulham,3416
+2021-05-17,Fulham,3006
+2021-05-18,Fulham,6736
+2021-05-19,Fulham,3643
+2021-05-02,Fulham,2775
+2021-05-21,Fulham,2264
+2021-05-22,Fulham,2468
+2021-05-23,Fulham,3971
+2021-05-24,Fulham,2965
+2021-05-25,Fulham,2311
+2021-05-26,Fulham,2570
+2021-05-27,Fulham,2896
+2021-05-28,Fulham,2198
+2021-05-29,Fulham,4113
+2021-05-03,Fulham,3205
+2021-05-31,Fulham,2832
+2021-06-01,Fulham,2362
+2021-06-02,Fulham,2063
+2021-06-03,Fulham,2831
+2021-06-04,Fulham,2177
+2021-06-05,Fulham,1819
+2020-09-12,Leeds United,87962
+2020-09-13,Leeds United,32547
+2020-09-14,Leeds United,14786
+2020-09-15,Leeds United,10950
+2020-09-16,Leeds United,10512
+2020-09-17,Leeds United,9384
+2020-09-18,Leeds United,8704
+2020-09-19,Leeds United,24563
+2020-09-02,Leeds United,12305
+2020-09-21,Leeds United,8637
+2020-09-22,Leeds United,7660
+2020-09-23,Leeds United,7966
+2020-09-24,Leeds United,9589
+2020-09-25,Leeds United,7597
+2020-09-26,Leeds United,7362
+2020-09-27,Leeds United,20174
+2020-09-28,Leeds United,9712
+2020-09-29,Leeds United,7637
+2020-09-03,Leeds United,7613
+2020-10-01,Leeds United,6122
+2020-10-02,Leeds United,6293
+2020-10-03,Leeds United,29756
+2020-10-04,Leeds United,15069
+2020-10-05,Leeds United,10639
+2020-10-06,Leeds United,11717
+2020-10-07,Leeds United,7532
+2020-10-08,Leeds United,6753
+2020-10-09,Leeds United,5751
+2020-10-01,Leeds United,5313
+2020-10-11,Leeds United,5418
+2020-10-12,Leeds United,4798
+2020-10-13,Leeds United,4662
+2020-10-14,Leeds United,4432
+2020-10-15,Leeds United,4381
+2020-10-16,Leeds United,4933
+2020-10-17,Leeds United,5277
+2020-10-18,Leeds United,4664
+2020-10-19,Leeds United,12953
+2020-10-02,Leeds United,5168
+2020-10-21,Leeds United,3760
+2020-10-22,Leeds United,3752
+2020-10-23,Leeds United,11788
+2020-10-24,Leeds United,12082
+2020-10-25,Leeds United,6727
+2020-10-26,Leeds United,5414
+2020-10-27,Leeds United,4618
+2020-10-28,Leeds United,3856
+2020-10-29,Leeds United,3584
+2020-10-03,Leeds United,3760
+2020-10-31,Leeds United,3802
+2020-11-01,Leeds United,3959
+2020-11-02,Leeds United,10524
+2020-11-03,Leeds United,4982
+2020-11-04,Leeds United,2710
+2020-11-05,Leeds United,2837
+2020-11-06,Leeds United,2967
+2020-11-07,Leeds United,6775
+2020-11-08,Leeds United,4085
+2020-11-09,Leeds United,3082
+2020-11-01,Leeds United,2725
+2020-11-11,Leeds United,2855
+2020-11-12,Leeds United,2878
+2020-11-13,Leeds United,2531
+2020-11-14,Leeds United,2597
+2020-11-15,Leeds United,2628
+2020-11-16,Leeds United,2339
+2020-11-17,Leeds United,2404
+2020-11-18,Leeds United,2530
+2020-11-19,Leeds United,2353
+2020-11-02,Leeds United,2772
+2020-11-21,Leeds United,3283
+2020-11-22,Leeds United,14077
+2020-11-23,Leeds United,4989
+2020-11-24,Leeds United,3318
+2020-11-25,Leeds United,3195
+2020-11-26,Leeds United,2888
+2020-11-27,Leeds United,3089
+2020-11-28,Leeds United,12789
+2020-11-29,Leeds United,6515
+2020-11-03,Leeds United,4057
+2020-12-01,Leeds United,3219
+2020-12-02,Leeds United,3355
+2020-12-03,Leeds United,3062
+2020-12-04,Leeds United,3675
+2020-12-05,Leeds United,12922
+2020-12-06,Leeds United,5432
+2020-12-07,Leeds United,3366
+2020-12-08,Leeds United,3213
+2020-12-09,Leeds United,3157
+2020-12-01,Leeds United,2928
+2020-12-11,Leeds United,6914
+2020-12-12,Leeds United,4006
+2020-12-13,Leeds United,3111
+2020-12-14,Leeds United,2969
+2020-12-15,Leeds United,2769
+2020-12-16,Leeds United,5662
+2020-12-17,Leeds United,5591
+2020-12-18,Leeds United,4373
+2020-12-19,Leeds United,5028
+2020-12-02,Leeds United,20841
+2020-12-21,Leeds United,7285
+2020-12-22,Leeds United,4038
+2020-12-23,Leeds United,3370
+2020-12-24,Leeds United,2799
+2020-12-25,Leeds United,2759
+2020-12-26,Leeds United,3940
+2020-12-27,Leeds United,10778
+2020-12-28,Leeds United,4574
+2020-12-29,Leeds United,8780
+2020-12-03,Leeds United,8070
+2020-12-31,Leeds United,4149
+2021-01-01,Leeds United,4396
+2021-01-02,Leeds United,12483
+2021-01-03,Leeds United,4947
+2021-01-04,Leeds United,3963
+2021-01-05,Leeds United,3835
+2021-01-06,Leeds United,3150
+2021-01-07,Leeds United,2884
+2021-01-08,Leeds United,3107
+2021-01-09,Leeds United,3626
+2021-01-01,Leeds United,11016
+2021-01-11,Leeds United,3914
+2021-01-12,Leeds United,3052
+2021-01-13,Leeds United,2822
+2021-01-14,Leeds United,2602
+2021-01-15,Leeds United,2583
+2021-01-16,Leeds United,5746
+2021-01-17,Leeds United,3240
+2021-01-18,Leeds United,2559
+2021-01-19,Leeds United,2583
+2021-01-02,Leeds United,2461
+2021-01-21,Leeds United,2490
+2021-01-22,Leeds United,2368
+2021-01-23,Leeds United,2676
+2021-01-24,Leeds United,3067
+2021-01-25,Leeds United,4290
+2021-01-26,Leeds United,6053
+2021-01-27,Leeds United,3780
+2021-01-28,Leeds United,3236
+2021-01-29,Leeds United,2710
+2021-01-03,Leeds United,3021
+2021-01-31,Leeds United,9458
+2021-02-01,Leeds United,5163
+2021-02-02,Leeds United,4202
+2021-02-03,Leeds United,5550
+2021-02-04,Leeds United,3948
+2021-02-05,Leeds United,3046
+2021-02-06,Leeds United,3768
+2021-02-07,Leeds United,3732
+2021-02-08,Leeds United,8914
+2021-02-09,Leeds United,6981
+2021-02-01,Leeds United,3773
+2021-02-11,Leeds United,3364
+2021-02-12,Leeds United,3322
+2021-02-13,Leeds United,3853
+2021-02-14,Leeds United,10453
+2021-02-15,Leeds United,4067
+2021-02-16,Leeds United,2999
+2021-02-17,Leeds United,2947
+2021-02-18,Leeds United,2778
+2021-02-19,Leeds United,5803
+2021-02-02,Leeds United,3955
+2021-02-21,Leeds United,3063
+2021-02-22,Leeds United,2888
+2021-02-23,Leeds United,8285
+2021-02-24,Leeds United,6605
+2021-02-25,Leeds United,3747
+2021-02-26,Leeds United,3800
+2021-02-27,Leeds United,7259
+2021-02-28,Leeds United,4161
+2021-03-01,Leeds United,3158
+2021-03-02,Leeds United,3185
+2021-03-03,Leeds United,3194
+2021-03-04,Leeds United,3001
+2021-03-05,Leeds United,3327
+2021-03-06,Leeds United,3306
+2021-03-07,Leeds United,3537
+2021-03-08,Leeds United,5705
+2021-03-09,Leeds United,3368
+2021-03-01,Leeds United,3073
+2021-03-11,Leeds United,2841
+2021-03-12,Leeds United,3252
+2021-03-13,Leeds United,10014
+2021-03-14,Leeds United,4269
+2021-03-15,Leeds United,3335
+2021-03-16,Leeds United,3113
+2021-03-17,Leeds United,2908
+2021-03-18,Leeds United,3012
+2021-03-19,Leeds United,5872
+2021-03-02,Leeds United,8808
+2021-03-21,Leeds United,4903
+2021-03-22,Leeds United,3410
+2021-03-23,Leeds United,4037
+2021-03-24,Leeds United,3337
+2021-03-25,Leeds United,3118
+2021-03-26,Leeds United,3098
+2021-03-27,Leeds United,2902
+2021-03-28,Leeds United,3168
+2021-03-29,Leeds United,3181
+2021-03-03,Leeds United,3330
+2021-03-31,Leeds United,3376
+2021-04-01,Leeds United,3062
+2021-04-02,Leeds United,3164
+2021-04-03,Leeds United,6938
+2021-04-04,Leeds United,3866
+2021-04-05,Leeds United,3516
+2021-04-06,Leeds United,3208
+2021-04-07,Leeds United,2899
+2021-04-08,Leeds United,2735
+2021-04-09,Leeds United,2802
+2021-04-01,Leeds United,12210
+2021-04-11,Leeds United,6474
+2021-04-12,Leeds United,4336
+2021-04-13,Leeds United,3926
+2021-04-14,Leeds United,3287
+2021-04-15,Leeds United,3363
+2021-04-16,Leeds United,3451
+2021-04-17,Leeds United,3856
+2021-04-18,Leeds United,4414
+2021-04-19,Leeds United,17956
+2021-04-02,Leeds United,11340
+2021-04-21,Leeds United,6523
+2021-04-22,Leeds United,5120
+2021-04-23,Leeds United,4785
+2021-04-24,Leeds United,5295
+2021-04-25,Leeds United,16677
+2021-04-26,Leeds United,6243
+2021-04-27,Leeds United,4421
+2021-04-28,Leeds United,4079
+2021-04-29,Leeds United,3750
+2021-04-03,Leeds United,3422
+2021-05-01,Leeds United,5630
+2021-05-02,Leeds United,3811
+2021-05-03,Leeds United,3406
+2021-05-04,Leeds United,3669
+2021-05-05,Leeds United,4064
+2021-05-06,Leeds United,3553
+2021-05-07,Leeds United,3269
+2021-05-08,Leeds United,11215
+2021-05-09,Leeds United,5329
+2021-05-01,Leeds United,4596
+2021-05-11,Leeds United,4741
+2021-05-12,Leeds United,3712
+2021-05-13,Leeds United,3567
+2021-05-14,Leeds United,3772
+2021-05-15,Leeds United,10039
+2021-05-16,Leeds United,5710
+2021-05-17,Leeds United,4434
+2021-05-18,Leeds United,6852
+2021-05-19,Leeds United,5767
+2021-05-02,Leeds United,4804
+2021-05-21,Leeds United,5769
+2021-05-22,Leeds United,4446
+2021-05-23,Leeds United,8111
+2021-05-24,Leeds United,7479
+2021-05-25,Leeds United,5686
+2021-05-26,Leeds United,4740
+2021-05-27,Leeds United,4227
+2021-05-28,Leeds United,3937
+2021-05-29,Leeds United,5334
+2021-05-03,Leeds United,4944
+2021-05-31,Leeds United,4384
+2021-06-01,Leeds United,4344
+2021-06-02,Leeds United,3950
+2021-06-03,Leeds United,3436
+2021-06-04,Leeds United,3419
+2021-06-05,Leeds United,3097
+2020-09-12,Leicester City,6725
+2020-09-13,Leicester City,14788
+2020-09-14,Leicester City,6600
+2020-09-15,Leicester City,4478
+2020-09-16,Leicester City,4255
+2020-09-17,Leicester City,4178
+2020-09-18,Leicester City,4009
+2020-09-19,Leicester City,4864
+2020-09-02,Leicester City,14977
+2020-09-21,Leicester City,7658
+2020-09-22,Leicester City,5508
+2020-09-23,Leicester City,6594
+2020-09-24,Leicester City,4534
+2020-09-25,Leicester City,4151
+2020-09-26,Leicester City,4418
+2020-09-27,Leicester City,17561
+2020-09-28,Leicester City,10708
+2020-09-29,Leicester City,6741
+2020-09-03,Leicester City,5527
+2020-10-01,Leicester City,5030
+2020-10-02,Leicester City,7724
+2020-10-03,Leicester City,7090
+2020-10-04,Leicester City,9592
+2020-10-05,Leicester City,5792
+2020-10-06,Leicester City,5909
+2020-10-07,Leicester City,4247
+2020-10-08,Leicester City,3672
+2020-10-09,Leicester City,3450
+2020-10-01,Leicester City,3500
+2020-10-11,Leicester City,3485
+2020-10-12,Leicester City,3320
+2020-10-13,Leicester City,2937
+2020-10-14,Leicester City,3243
+2020-10-15,Leicester City,3354
+2020-10-16,Leicester City,3423
+2020-10-17,Leicester City,4372
+2020-10-18,Leicester City,7225
+2020-10-19,Leicester City,4143
+2020-10-02,Leicester City,3280
+2020-10-21,Leicester City,3075
+2020-10-22,Leicester City,4127
+2020-10-23,Leicester City,3637
+2020-10-24,Leicester City,3609
+2020-10-25,Leicester City,8163
+2020-10-26,Leicester City,5775
+2020-10-27,Leicester City,4457
+2020-10-28,Leicester City,3337
+2020-10-29,Leicester City,5232
+2020-10-03,Leicester City,3570
+2020-10-31,Leicester City,2872
+2020-11-01,Leicester City,3134
+2020-11-02,Leicester City,9317
+2020-11-03,Leicester City,7004
+2020-11-04,Leicester City,3091
+2020-11-05,Leicester City,5159
+2020-11-06,Leicester City,4381
+2020-11-07,Leicester City,3691
+2020-11-08,Leicester City,10332
+2020-11-09,Leicester City,5442
+2020-11-01,Leicester City,3650
+2020-11-11,Leicester City,3462
+2020-11-12,Leicester City,3162
+2020-11-13,Leicester City,2768
+2020-11-14,Leicester City,2675
+2020-11-15,Leicester City,3304
+2020-11-16,Leicester City,2965
+2020-11-17,Leicester City,2776
+2020-11-18,Leicester City,3064
+2020-11-19,Leicester City,2869
+2020-11-02,Leicester City,2948
+2020-11-21,Leicester City,4105
+2020-11-22,Leicester City,9218
+2020-11-23,Leicester City,4137
+2020-11-24,Leicester City,3106
+2020-11-25,Leicester City,2760
+2020-11-26,Leicester City,4056
+2020-11-27,Leicester City,3260
+2020-11-28,Leicester City,3073
+2020-11-29,Leicester City,3529
+2020-11-03,Leicester City,5732
+2020-12-01,Leicester City,2944
+2020-12-02,Leicester City,2399
+2020-12-03,Leicester City,3123
+2020-12-04,Leicester City,2489
+2020-12-05,Leicester City,2928
+2020-12-06,Leicester City,6429
+2020-12-07,Leicester City,4064
+2020-12-08,Leicester City,2972
+2020-12-09,Leicester City,2867
+2020-12-01,Leicester City,3573
+2020-12-11,Leicester City,2981
+2020-12-12,Leicester City,3401
+2020-12-13,Leicester City,5643
+2020-12-14,Leicester City,4912
+2020-12-15,Leicester City,3833
+2020-12-16,Leicester City,4670
+2020-12-17,Leicester City,3155
+2020-12-18,Leicester City,2791
+2020-12-19,Leicester City,3232
+2020-12-02,Leicester City,10712
+2020-12-21,Leicester City,5022
+2020-12-22,Leicester City,4082
+2020-12-23,Leicester City,4171
+2020-12-24,Leicester City,3331
+2020-12-25,Leicester City,3278
+2020-12-26,Leicester City,14394
+2020-12-27,Leicester City,5775
+2020-12-28,Leicester City,8622
+2020-12-29,Leicester City,4372
+2020-12-03,Leicester City,3724
+2020-12-31,Leicester City,2905
+2021-01-01,Leicester City,3273
+2021-01-02,Leicester City,4111
+2021-01-03,Leicester City,8625
+2021-01-04,Leicester City,4828
+2021-01-05,Leicester City,4297
+2021-01-06,Leicester City,3802
+2021-01-07,Leicester City,3487
+2021-01-08,Leicester City,3444
+2021-01-09,Leicester City,4426
+2021-01-01,Leicester City,3629
+2021-01-11,Leicester City,3615
+2021-01-12,Leicester City,3515
+2021-01-13,Leicester City,3690
+2021-01-14,Leicester City,3181
+2021-01-15,Leicester City,2950
+2021-01-16,Leicester City,7110
+2021-01-17,Leicester City,7164
+2021-01-18,Leicester City,4199
+2021-01-19,Leicester City,12522
+2021-01-02,Leicester City,10818
+2021-01-21,Leicester City,5324
+2021-01-22,Leicester City,4887
+2021-01-23,Leicester City,4699
+2021-01-24,Leicester City,6361
+2021-01-25,Leicester City,4646
+2021-01-26,Leicester City,3915
+2021-01-27,Leicester City,5219
+2021-01-28,Leicester City,3926
+2021-01-29,Leicester City,3208
+2021-01-03,Leicester City,4021
+2021-01-31,Leicester City,8317
+2021-02-01,Leicester City,4207
+2021-02-02,Leicester City,4177
+2021-02-03,Leicester City,5859
+2021-02-04,Leicester City,4844
+2021-02-05,Leicester City,3147
+2021-02-06,Leicester City,4070
+2021-02-07,Leicester City,7332
+2021-02-08,Leicester City,3725
+2021-02-09,Leicester City,3384
+2021-02-01,Leicester City,4567
+2021-02-11,Leicester City,3849
+2021-02-12,Leicester City,3802
+2021-02-13,Leicester City,13630
+2021-02-14,Leicester City,6599
+2021-02-15,Leicester City,4595
+2021-02-16,Leicester City,4245
+2021-02-17,Leicester City,3794
+2021-02-18,Leicester City,4684
+2021-02-19,Leicester City,3477
+2021-02-02,Leicester City,3967
+2021-02-21,Leicester City,9427
+2021-02-22,Leicester City,4880
+2021-02-23,Leicester City,3987
+2021-02-24,Leicester City,4160
+2021-02-25,Leicester City,6564
+2021-02-26,Leicester City,4552
+2021-02-27,Leicester City,3992
+2021-02-28,Leicester City,8538
+2021-03-01,Leicester City,3921
+2021-03-02,Leicester City,3657
+2021-03-03,Leicester City,5533
+2021-03-04,Leicester City,4067
+2021-03-05,Leicester City,3559
+2021-03-06,Leicester City,6788
+2021-03-07,Leicester City,6683
+2021-03-08,Leicester City,4083
+2021-03-09,Leicester City,3257
+2021-03-01,Leicester City,3035
+2021-03-11,Leicester City,2981
+2021-03-12,Leicester City,2950
+2021-03-13,Leicester City,3482
+2021-03-14,Leicester City,8957
+2021-03-15,Leicester City,5570
+2021-03-16,Leicester City,4035
+2021-03-17,Leicester City,3213
+2021-03-18,Leicester City,3931
+2021-03-19,Leicester City,3395
+2021-03-02,Leicester City,3735
+2021-03-21,Leicester City,20021
+2021-03-22,Leicester City,8037
+2021-03-23,Leicester City,5285
+2021-03-24,Leicester City,4218
+2021-03-25,Leicester City,3475
+2021-03-26,Leicester City,3087
+2021-03-27,Leicester City,3036
+2021-03-28,Leicester City,2939
+2021-03-29,Leicester City,2998
+2021-03-03,Leicester City,3039
+2021-03-31,Leicester City,3565
+2021-04-01,Leicester City,2616
+2021-04-02,Leicester City,3155
+2021-04-03,Leicester City,9005
+2021-04-04,Leicester City,4797
+2021-04-05,Leicester City,3929
+2021-04-06,Leicester City,3400
+2021-04-07,Leicester City,3065
+2021-04-08,Leicester City,3083
+2021-04-09,Leicester City,2649
+2021-04-01,Leicester City,3720
+2021-04-11,Leicester City,7444
+2021-04-12,Leicester City,4169
+2021-04-13,Leicester City,3773
+2021-04-14,Leicester City,3175
+2021-04-15,Leicester City,3363
+2021-04-16,Leicester City,3430
+2021-04-17,Leicester City,5330
+2021-04-18,Leicester City,15387
+2021-04-19,Leicester City,14301
+2021-04-02,Leicester City,12971
+2021-04-21,Leicester City,8809
+2021-04-22,Leicester City,10388
+2021-04-23,Leicester City,7551
+2021-04-24,Leicester City,6117
+2021-04-25,Leicester City,6673
+2021-04-26,Leicester City,11449
+2021-04-27,Leicester City,11482
+2021-04-28,Leicester City,6683
+2021-04-29,Leicester City,5442
+2021-04-03,Leicester City,6624
+2021-05-01,Leicester City,4987
+2021-05-02,Leicester City,5245
+2021-05-03,Leicester City,4659
+2021-05-04,Leicester City,5986
+2021-05-05,Leicester City,6308
+2021-05-06,Leicester City,6458
+2021-05-07,Leicester City,9281
+2021-05-08,Leicester City,7227
+2021-05-09,Leicester City,6073
+2021-05-01,Leicester City,5774
+2021-05-11,Leicester City,12490
+2021-05-12,Leicester City,8807
+2021-05-13,Leicester City,6686
+2021-05-14,Leicester City,9443
+2021-05-15,Leicester City,171086
+2021-05-16,Leicester City,98194
+2021-05-17,Leicester City,35480
+2021-05-18,Leicester City,29328
+2021-05-19,Leicester City,16609
+2021-05-02,Leicester City,10937
+2021-05-21,Leicester City,11394
+2021-05-22,Leicester City,8793
+2021-05-23,Leicester City,15506
+2021-05-24,Leicester City,9530
+2021-05-25,Leicester City,6565
+2021-05-26,Leicester City,6274
+2021-05-27,Leicester City,5405
+2021-05-28,Leicester City,4830
+2021-05-29,Leicester City,9416
+2021-05-03,Leicester City,9836
+2021-05-31,Leicester City,6882
+2021-06-01,Leicester City,5732
+2021-06-02,Leicester City,5067
+2021-06-03,Leicester City,4748
+2021-06-04,Leicester City,4171
+2021-06-05,Leicester City,3769
+2020-09-12,Liverpool,22726
+2020-09-13,Liverpool,14482
+2020-09-14,Liverpool,11750
+2020-09-15,Liverpool,9954
+2020-09-16,Liverpool,9647
+2020-09-17,Liverpool,19787
+2020-09-18,Liverpool,34380
+2020-09-19,Liverpool,41076
+2020-09-02,Liverpool,32265
+2020-09-21,Liverpool,19799
+2020-09-22,Liverpool,14504
+2020-09-23,Liverpool,14375
+2020-09-24,Liverpool,20198
+2020-09-25,Liverpool,15198
+2020-09-26,Liverpool,12124
+2020-09-27,Liverpool,11748
+2020-09-28,Liverpool,21543
+2020-09-29,Liverpool,18272
+2020-09-03,Liverpool,11855
+2020-10-01,Liverpool,17093
+2020-10-02,Liverpool,13264
+2020-10-03,Liverpool,11946
+2020-10-04,Liverpool,20707
+2020-10-05,Liverpool,17764
+2020-10-06,Liverpool,13779
+2020-10-07,Liverpool,10597
+2020-10-08,Liverpool,10589
+2020-10-09,Liverpool,9060
+2020-10-01,Liverpool,8175
+2020-10-11,Liverpool,8525
+2020-10-12,Liverpool,10455
+2020-10-13,Liverpool,8727
+2020-10-14,Liverpool,8338
+2020-10-15,Liverpool,8584
+2020-10-16,Liverpool,10436
+2020-10-17,Liverpool,19004
+2020-10-18,Liverpool,12266
+2020-10-19,Liverpool,11441
+2020-10-02,Liverpool,10687
+2020-10-21,Liverpool,15150
+2020-10-22,Liverpool,11524
+2020-10-23,Liverpool,7945
+2020-10-24,Liverpool,11883
+2020-10-25,Liverpool,10827
+2020-10-26,Liverpool,9202
+2020-10-27,Liverpool,13069
+2020-10-28,Liverpool,13258
+2020-10-29,Liverpool,8588
+2020-10-03,Liverpool,7672
+2020-10-31,Liverpool,18194
+2020-11-01,Liverpool,14256
+2020-11-02,Liverpool,9874
+2020-11-03,Liverpool,15139
+2020-11-04,Liverpool,13767
+2020-11-05,Liverpool,9248
+2020-11-06,Liverpool,8363
+2020-11-07,Liverpool,9016
+2020-11-08,Liverpool,15058
+2020-11-09,Liverpool,9451
+2020-11-01,Liverpool,7838
+2020-11-11,Liverpool,9192
+2020-11-12,Liverpool,9294
+2020-11-13,Liverpool,7464
+2020-11-14,Liverpool,6794
+2020-11-15,Liverpool,9445
+2020-11-16,Liverpool,8673
+2020-11-17,Liverpool,7616
+2020-11-18,Liverpool,8001
+2020-11-19,Liverpool,7008
+2020-11-02,Liverpool,6585
+2020-11-21,Liverpool,8485
+2020-11-22,Liverpool,15954
+2020-11-23,Liverpool,13147
+2020-11-24,Liverpool,9086
+2020-11-25,Liverpool,11156
+2020-11-26,Liverpool,8451
+2020-11-27,Liverpool,6695
+2020-11-28,Liverpool,12144
+2020-11-29,Liverpool,9181
+2020-11-03,Liverpool,8369
+2020-12-01,Liverpool,14725
+2020-12-02,Liverpool,13656
+2020-12-03,Liverpool,8280
+2020-12-04,Liverpool,7610
+2020-12-05,Liverpool,8058
+2020-12-06,Liverpool,15618
+2020-12-07,Liverpool,13116
+2020-12-08,Liverpool,10171
+2020-12-09,Liverpool,13621
+2020-12-01,Liverpool,9976
+2020-12-11,Liverpool,7755
+2020-12-12,Liverpool,8406
+2020-12-13,Liverpool,12004
+2020-12-14,Liverpool,18041
+2020-12-15,Liverpool,11383
+2020-12-16,Liverpool,17033
+2020-12-17,Liverpool,14913
+2020-12-18,Liverpool,10245
+2020-12-19,Liverpool,20649
+2020-12-02,Liverpool,15074
+2020-12-21,Liverpool,11766
+2020-12-22,Liverpool,11214
+2020-12-23,Liverpool,11101
+2020-12-24,Liverpool,8893
+2020-12-25,Liverpool,7839
+2020-12-26,Liverpool,11198
+2020-12-27,Liverpool,16317
+2020-12-28,Liverpool,9538
+2020-12-29,Liverpool,8618
+2020-12-03,Liverpool,13535
+2020-12-31,Liverpool,9270
+2021-01-01,Liverpool,8780
+2021-01-02,Liverpool,9885
+2021-01-03,Liverpool,9996
+2021-01-04,Liverpool,14532
+2021-01-05,Liverpool,11778
+2021-01-06,Liverpool,9829
+2021-01-07,Liverpool,7709
+2021-01-08,Liverpool,11311
+2021-01-09,Liverpool,10007
+2021-01-01,Liverpool,8627
+2021-01-11,Liverpool,7360
+2021-01-12,Liverpool,8070
+2021-01-13,Liverpool,8293
+2021-01-14,Liverpool,8012
+2021-01-15,Liverpool,7976
+2021-01-16,Liverpool,8806
+2021-01-17,Liverpool,18498
+2021-01-18,Liverpool,9228
+2021-01-19,Liverpool,8230
+2021-01-02,Liverpool,7492
+2021-01-21,Liverpool,12302
+2021-01-22,Liverpool,10991
+2021-01-23,Liverpool,9405
+2021-01-24,Liverpool,18309
+2021-01-25,Liverpool,12099
+2021-01-26,Liverpool,9123
+2021-01-27,Liverpool,8455
+2021-01-28,Liverpool,13311
+2021-01-29,Liverpool,11091
+2021-01-03,Liverpool,9639
+2021-01-31,Liverpool,17417
+2021-02-01,Liverpool,29068
+2021-02-02,Liverpool,30913
+2021-02-03,Liverpool,18377
+2021-02-04,Liverpool,12709
+2021-02-05,Liverpool,8538
+2021-02-06,Liverpool,9921
+2021-02-07,Liverpool,19987
+2021-02-08,Liverpool,12209
+2021-02-09,Liverpool,8960
+2021-02-01,Liverpool,8568
+2021-02-11,Liverpool,8421
+2021-02-12,Liverpool,7615
+2021-02-13,Liverpool,17110
+2021-02-14,Liverpool,10255
+2021-02-15,Liverpool,8764
+2021-02-16,Liverpool,14275
+2021-02-17,Liverpool,10797
+2021-02-18,Liverpool,8026
+2021-02-19,Liverpool,8212
+2021-02-02,Liverpool,19097
+2021-02-21,Liverpool,12012
+2021-02-22,Liverpool,8466
+2021-02-23,Liverpool,8369
+2021-02-24,Liverpool,8686
+2021-02-25,Liverpool,8441
+2021-02-26,Liverpool,7617
+2021-02-27,Liverpool,8202
+2021-02-28,Liverpool,15442
+2021-03-01,Liverpool,10485
+2021-03-02,Liverpool,12082
+2021-03-03,Liverpool,9474
+2021-03-04,Liverpool,15337
+2021-03-05,Liverpool,12049
+2021-03-06,Liverpool,8802
+2021-03-07,Liverpool,19294
+2021-03-08,Liverpool,11802
+2021-03-09,Liverpool,9581
+2021-03-01,Liverpool,15015
+2021-03-11,Liverpool,12567
+2021-03-12,Liverpool,8465
+2021-03-13,Liverpool,8190
+2021-03-14,Liverpool,8542
+2021-03-15,Liverpool,12934
+2021-03-16,Liverpool,11294
+2021-03-17,Liverpool,10213
+2021-03-18,Liverpool,8954
+2021-03-19,Liverpool,9813
+2021-03-02,Liverpool,8728
+2021-03-21,Liverpool,9308
+2021-03-22,Liverpool,8071
+2021-03-23,Liverpool,7527
+2021-03-24,Liverpool,7315
+2021-03-25,Liverpool,6928
+2021-03-26,Liverpool,6114
+2021-03-27,Liverpool,6085
+2021-03-28,Liverpool,5998
+2021-03-29,Liverpool,6570
+2021-03-03,Liverpool,6238
+2021-03-31,Liverpool,6778
+2021-04-01,Liverpool,6741
+2021-04-02,Liverpool,6423
+2021-04-03,Liverpool,12714
+2021-04-04,Liverpool,11271
+2021-04-05,Liverpool,9724
+2021-04-06,Liverpool,18838
+2021-04-07,Liverpool,10691
+2021-04-08,Liverpool,7805
+2021-04-09,Liverpool,6190
+2021-04-01,Liverpool,11376
+2021-04-11,Liverpool,8417
+2021-04-12,Liverpool,7401
+2021-04-13,Liverpool,8123
+2021-04-14,Liverpool,16917
+2021-04-15,Liverpool,10605
+2021-04-16,Liverpool,7859
+2021-04-17,Liverpool,7975
+2021-04-18,Liverpool,11687
+2021-04-19,Liverpool,34213
+2021-04-02,Liverpool,32776
+2021-04-21,Liverpool,29446
+2021-04-22,Liverpool,12709
+2021-04-23,Liverpool,10213
+2021-04-24,Liverpool,12832
+2021-04-25,Liverpool,11333
+2021-04-26,Liverpool,9447
+2021-04-27,Liverpool,8891
+2021-04-28,Liverpool,8577
+2021-04-29,Liverpool,8027
+2021-04-03,Liverpool,6976
+2021-05-01,Liverpool,7509
+2021-05-02,Liverpool,12090
+2021-05-03,Liverpool,9258
+2021-05-04,Liverpool,9273
+2021-05-05,Liverpool,10814
+2021-05-06,Liverpool,10016
+2021-05-07,Liverpool,8694
+2021-05-08,Liverpool,13306
+2021-05-09,Liverpool,10192
+2021-05-01,Liverpool,9770
+2021-05-11,Liverpool,10438
+2021-05-12,Liverpool,10360
+2021-05-13,Liverpool,15905
+2021-05-14,Liverpool,14580
+2021-05-15,Liverpool,12709
+2021-05-16,Liverpool,21891
+2021-05-17,Liverpool,15435
+2021-05-18,Liverpool,12800
+2021-05-19,Liverpool,18074
+2021-05-02,Liverpool,18130
+2021-05-21,Liverpool,11163
+2021-05-22,Liverpool,10026
+2021-05-23,Liverpool,22869
+2021-05-24,Liverpool,19751
+2021-05-25,Liverpool,14663
+2021-05-26,Liverpool,15307
+2021-05-27,Liverpool,13580
+2021-05-28,Liverpool,16965
+2021-05-29,Liverpool,20511
+2021-05-03,Liverpool,18702
+2021-05-31,Liverpool,13985
+2021-06-01,Liverpool,12370
+2021-06-02,Liverpool,10768
+2021-06-03,Liverpool,11728
+2021-06-04,Liverpool,8798
+2021-06-05,Liverpool,8533
+2020-09-12,Manchester City,11311
+2020-09-13,Manchester City,9269
+2020-09-14,Manchester City,8601
+2020-09-15,Manchester City,7976
+2020-09-16,Manchester City,7315
+2020-09-17,Manchester City,7624
+2020-09-18,Manchester City,8431
+2020-09-19,Manchester City,9950
+2020-09-02,Manchester City,10357
+2020-09-21,Manchester City,18024
+2020-09-22,Manchester City,10812
+2020-09-23,Manchester City,7841
+2020-09-24,Manchester City,10855
+2020-09-25,Manchester City,9882
+2020-09-26,Manchester City,8922
+2020-09-27,Manchester City,19306
+2020-09-28,Manchester City,16020
+2020-09-29,Manchester City,13354
+2020-09-03,Manchester City,16621
+2020-10-01,Manchester City,10731
+2020-10-02,Manchester City,7969
+2020-10-03,Manchester City,13783
+2020-10-04,Manchester City,9660
+2020-10-05,Manchester City,9085
+2020-10-06,Manchester City,10242
+2020-10-07,Manchester City,7688
+2020-10-08,Manchester City,6605
+2020-10-09,Manchester City,5698
+2020-10-01,Manchester City,5702
+2020-10-11,Manchester City,6207
+2020-10-12,Manchester City,5847
+2020-10-13,Manchester City,5541
+2020-10-14,Manchester City,5239
+2020-10-15,Manchester City,5092
+2020-10-16,Manchester City,5421
+2020-10-17,Manchester City,11237
+2020-10-18,Manchester City,6721
+2020-10-19,Manchester City,6053
+2020-10-02,Manchester City,6115
+2020-10-21,Manchester City,8264
+2020-10-22,Manchester City,6676
+2020-10-23,Manchester City,5231
+2020-10-24,Manchester City,9914
+2020-10-25,Manchester City,5883
+2020-10-26,Manchester City,5331
+2020-10-27,Manchester City,7382
+2020-10-28,Manchester City,6460
+2020-10-29,Manchester City,5083
+2020-10-03,Manchester City,4928
+2020-10-31,Manchester City,8169
+2020-11-01,Manchester City,5985
+2020-11-02,Manchester City,5649
+2020-11-03,Manchester City,7086
+2020-11-04,Manchester City,5382
+2020-11-05,Manchester City,5354
+2020-11-06,Manchester City,4737
+2020-11-07,Manchester City,5841
+2020-11-08,Manchester City,12364
+2020-11-09,Manchester City,5850
+2020-11-01,Manchester City,4405
+2020-11-11,Manchester City,4604
+2020-11-12,Manchester City,4424
+2020-11-13,Manchester City,4024
+2020-11-14,Manchester City,4242
+2020-11-15,Manchester City,4454
+2020-11-16,Manchester City,4333
+2020-11-17,Manchester City,4778
+2020-11-18,Manchester City,5492
+2020-11-19,Manchester City,6343
+2020-11-02,Manchester City,5358
+2020-11-21,Manchester City,10037
+2020-11-22,Manchester City,6777
+2020-11-23,Manchester City,5528
+2020-11-24,Manchester City,5619
+2020-11-25,Manchester City,7313
+2020-11-26,Manchester City,5275
+2020-11-27,Manchester City,4584
+2020-11-28,Manchester City,7946
+2020-11-29,Manchester City,6085
+2020-11-03,Manchester City,5069
+2020-12-01,Manchester City,5797
+2020-12-02,Manchester City,5228
+2020-12-03,Manchester City,4591
+2020-12-04,Manchester City,4122
+2020-12-05,Manchester City,7400
+2020-12-06,Manchester City,5835
+2020-12-07,Manchester City,5007
+2020-12-08,Manchester City,5302
+2020-12-09,Manchester City,6889
+2020-12-01,Manchester City,5993
+2020-12-11,Manchester City,5225
+2020-12-12,Manchester City,10682
+2020-12-13,Manchester City,5964
+2020-12-14,Manchester City,6103
+2020-12-15,Manchester City,7180
+2020-12-16,Manchester City,5786
+2020-12-17,Manchester City,4851
+2020-12-18,Manchester City,4362
+2020-12-19,Manchester City,6872
+2020-12-02,Manchester City,5576
+2020-12-21,Manchester City,5107
+2020-12-22,Manchester City,8901
+2020-12-23,Manchester City,7854
+2020-12-24,Manchester City,5148
+2020-12-25,Manchester City,4663
+2020-12-26,Manchester City,8131
+2020-12-27,Manchester City,7634
+2020-12-28,Manchester City,6424
+2020-12-29,Manchester City,5704
+2020-12-03,Manchester City,5198
+2020-12-31,Manchester City,4673
+2021-01-01,Manchester City,5456
+2021-01-02,Manchester City,6419
+2021-01-03,Manchester City,16545
+2021-01-04,Manchester City,8894
+2021-01-05,Manchester City,10341
+2021-01-06,Manchester City,18539
+2021-01-07,Manchester City,10719
+2021-01-08,Manchester City,8351
+2021-01-09,Manchester City,7076
+2021-01-01,Manchester City,8195
+2021-01-11,Manchester City,6265
+2021-01-12,Manchester City,6813
+2021-01-13,Manchester City,8815
+2021-01-14,Manchester City,6562
+2021-01-15,Manchester City,5513
+2021-01-16,Manchester City,6189
+2021-01-17,Manchester City,11372
+2021-01-18,Manchester City,8741
+2021-01-19,Manchester City,6916
+2021-01-02,Manchester City,9076
+2021-01-21,Manchester City,7874
+2021-01-22,Manchester City,7322
+2021-01-23,Manchester City,11623
+2021-01-24,Manchester City,7854
+2021-01-25,Manchester City,7805
+2021-01-26,Manchester City,9877
+2021-01-27,Manchester City,10450
+2021-01-28,Manchester City,8215
+2021-01-29,Manchester City,6647
+2021-01-03,Manchester City,10569
+2021-01-31,Manchester City,8637
+2021-02-01,Manchester City,7525
+2021-02-02,Manchester City,8059
+2021-02-03,Manchester City,11390
+2021-02-04,Manchester City,10046
+2021-02-05,Manchester City,7150
+2021-02-06,Manchester City,8438
+2021-02-07,Manchester City,25600
+2021-02-08,Manchester City,15359
+2021-02-09,Manchester City,9889
+2021-02-01,Manchester City,11520
+2021-02-11,Manchester City,9467
+2021-02-12,Manchester City,7758
+2021-02-13,Manchester City,17852
+2021-02-14,Manchester City,13292
+2021-02-15,Manchester City,9256
+2021-02-16,Manchester City,9278
+2021-02-17,Manchester City,12125
+2021-02-18,Manchester City,11483
+2021-02-19,Manchester City,8129
+2021-02-02,Manchester City,9183
+2021-02-21,Manchester City,17189
+2021-02-22,Manchester City,9792
+2021-02-23,Manchester City,8931
+2021-02-24,Manchester City,14910
+2021-02-25,Manchester City,12265
+2021-02-26,Manchester City,8639
+2021-02-27,Manchester City,16808
+2021-02-28,Manchester City,12950
+2021-03-01,Manchester City,10428
+2021-03-02,Manchester City,15408
+2021-03-03,Manchester City,14308
+2021-03-04,Manchester City,10851
+2021-03-05,Manchester City,10152
+2021-03-06,Manchester City,10281
+2021-03-07,Manchester City,21192
+2021-03-08,Manchester City,10921
+2021-03-09,Manchester City,7999
+2021-03-01,Manchester City,11905
+2021-03-11,Manchester City,9551
+2021-03-12,Manchester City,7597
+2021-03-13,Manchester City,11148
+2021-03-14,Manchester City,10770
+2021-03-15,Manchester City,8403
+2021-03-16,Manchester City,11415
+2021-03-17,Manchester City,11045
+2021-03-18,Manchester City,8870
+2021-03-19,Manchester City,9729
+2021-03-02,Manchester City,12746
+2021-03-21,Manchester City,11532
+2021-03-22,Manchester City,8491
+2021-03-23,Manchester City,7093
+2021-03-24,Manchester City,7024
+2021-03-25,Manchester City,7059
+2021-03-26,Manchester City,5846
+2021-03-27,Manchester City,5676
+2021-03-28,Manchester City,5679
+2021-03-29,Manchester City,10114
+2021-03-03,Manchester City,14211
+2021-03-31,Manchester City,9473
+2021-04-01,Manchester City,7382
+2021-04-02,Manchester City,7135
+2021-04-03,Manchester City,12588
+2021-04-04,Manchester City,9341
+2021-04-05,Manchester City,8458
+2021-04-06,Manchester City,14873
+2021-04-07,Manchester City,12515
+2021-04-08,Manchester City,8344
+2021-04-09,Manchester City,6577
+2021-04-01,Manchester City,11739
+2021-04-11,Manchester City,8033
+2021-04-12,Manchester City,7226
+2021-04-13,Manchester City,8714
+2021-04-14,Manchester City,21052
+2021-04-15,Manchester City,21445
+2021-04-16,Manchester City,11906
+2021-04-17,Manchester City,17919
+2021-04-18,Manchester City,13244
+2021-04-19,Manchester City,24433
+2021-04-02,Manchester City,25417
+2021-04-21,Manchester City,19217
+2021-04-22,Manchester City,12229
+2021-04-23,Manchester City,10290
+2021-04-24,Manchester City,10143
+2021-04-25,Manchester City,34072
+2021-04-26,Manchester City,23828
+2021-04-27,Manchester City,14269
+2021-04-28,Manchester City,33911
+2021-04-29,Manchester City,23396
+2021-04-03,Manchester City,10851
+2021-05-01,Manchester City,17725
+2021-05-02,Manchester City,14853
+2021-05-03,Manchester City,12109
+2021-05-04,Manchester City,57368
+2021-05-05,Manchester City,60917
+2021-05-06,Manchester City,28785
+2021-05-07,Manchester City,17037
+2021-05-08,Manchester City,25893
+2021-05-09,Manchester City,18354
+2021-05-01,Manchester City,12139
+2021-05-11,Manchester City,37072
+2021-05-12,Manchester City,37506
+2021-05-13,Manchester City,18632
+2021-05-14,Manchester City,24513
+2021-05-15,Manchester City,24593
+2021-05-16,Manchester City,16326
+2021-05-17,Manchester City,14805
+2021-05-18,Manchester City,18117
+2021-05-19,Manchester City,14668
+2021-05-02,Manchester City,14034
+2021-05-21,Manchester City,12647
+2021-05-22,Manchester City,12677
+2021-05-23,Manchester City,34894
+2021-05-24,Manchester City,30663
+2021-05-25,Manchester City,17868
+2021-05-26,Manchester City,17422
+2021-05-27,Manchester City,16573
+2021-05-28,Manchester City,20562
+2021-05-29,Manchester City,91344
+2021-05-03,Manchester City,43677
+2021-05-31,Manchester City,27812
+2021-06-01,Manchester City,21058
+2021-06-02,Manchester City,14304
+2021-06-03,Manchester City,11687
+2021-06-04,Manchester City,10917
+2021-06-05,Manchester City,9973
+2020-09-12,Manchester United,18761
+2020-09-13,Manchester United,16186
+2020-09-14,Manchester United,14125
+2020-09-15,Manchester United,13415
+2020-09-16,Manchester United,12846
+2020-09-17,Manchester United,13423
+2020-09-18,Manchester United,15669
+2020-09-19,Manchester United,25693
+2020-09-02,Manchester United,18564
+2020-09-21,Manchester United,14031
+2020-09-22,Manchester United,16486
+2020-09-23,Manchester United,15850
+2020-09-24,Manchester United,12588
+2020-09-25,Manchester United,11516
+2020-09-26,Manchester United,16902
+2020-09-27,Manchester United,12690
+2020-09-28,Manchester United,12024
+2020-09-29,Manchester United,12746
+2020-09-03,Manchester United,15182
+2020-10-01,Manchester United,14309
+2020-10-02,Manchester United,12977
+2020-10-03,Manchester United,16622
+2020-10-04,Manchester United,38840
+2020-10-05,Manchester United,62317
+2020-10-06,Manchester United,84625
+2020-10-07,Manchester United,36779
+2020-10-08,Manchester United,20571
+2020-10-09,Manchester United,15454
+2020-10-01,Manchester United,13928
+2020-10-11,Manchester United,13812
+2020-10-12,Manchester United,13212
+2020-10-13,Manchester United,12091
+2020-10-14,Manchester United,10809
+2020-10-15,Manchester United,10612
+2020-10-16,Manchester United,10746
+2020-10-17,Manchester United,17845
+2020-10-18,Manchester United,15305
+2020-10-19,Manchester United,14321
+2020-10-02,Manchester United,23829
+2020-10-21,Manchester United,20028
+2020-10-22,Manchester United,12475
+2020-10-23,Manchester United,11620
+2020-10-24,Manchester United,17839
+2020-10-25,Manchester United,11652
+2020-10-26,Manchester United,10536
+2020-10-27,Manchester United,10660
+2020-10-28,Manchester United,15582
+2020-10-29,Manchester United,16749
+2020-10-03,Manchester United,12759
+2020-10-31,Manchester United,16901
+2020-11-01,Manchester United,22671
+2020-11-02,Manchester United,20310
+2020-11-03,Manchester United,12248
+2020-11-04,Manchester United,13546
+2020-11-05,Manchester United,13772
+2020-11-06,Manchester United,11222
+2020-11-07,Manchester United,17802
+2020-11-08,Manchester United,13349
+2020-11-09,Manchester United,9982
+2020-11-01,Manchester United,8874
+2020-11-11,Manchester United,8346
+2020-11-12,Manchester United,8353
+2020-11-13,Manchester United,7851
+2020-11-14,Manchester United,7518
+2020-11-15,Manchester United,7833
+2020-11-16,Manchester United,7782
+2020-11-17,Manchester United,7915
+2020-11-18,Manchester United,7881
+2020-11-19,Manchester United,7638
+2020-11-02,Manchester United,7474
+2020-11-21,Manchester United,12038
+2020-11-22,Manchester United,11668
+2020-11-23,Manchester United,9758
+2020-11-24,Manchester United,12793
+2020-11-25,Manchester United,12164
+2020-11-26,Manchester United,9674
+2020-11-27,Manchester United,9220
+2020-11-28,Manchester United,9841
+2020-11-29,Manchester United,18333
+2020-11-03,Manchester United,13255
+2020-12-01,Manchester United,10352
+2020-12-02,Manchester United,13927
+2020-12-03,Manchester United,10298
+2020-12-04,Manchester United,8160
+2020-12-05,Manchester United,14945
+2020-12-06,Manchester United,14247
+2020-12-07,Manchester United,11595
+2020-12-08,Manchester United,17429
+2020-12-09,Manchester United,19159
+2020-12-01,Manchester United,14856
+2020-12-11,Manchester United,13149
+2020-12-12,Manchester United,20307
+2020-12-13,Manchester United,12787
+2020-12-14,Manchester United,15648
+2020-12-15,Manchester United,11871
+2020-12-16,Manchester United,13479
+2020-12-17,Manchester United,14265
+2020-12-18,Manchester United,11750
+2020-12-19,Manchester United,11268
+2020-12-02,Manchester United,21309
+2020-12-21,Manchester United,15708
+2020-12-22,Manchester United,12227
+2020-12-23,Manchester United,15724
+2020-12-24,Manchester United,12421
+2020-12-25,Manchester United,9686
+2020-12-26,Manchester United,18249
+2020-12-27,Manchester United,12969
+2020-12-28,Manchester United,11263
+2020-12-29,Manchester United,16448
+2020-12-03,Manchester United,15546
+2020-12-31,Manchester United,18575
+2021-01-01,Manchester United,25002
+2021-01-02,Manchester United,20203
+2021-01-03,Manchester United,15657
+2021-01-04,Manchester United,17908
+2021-01-05,Manchester United,18045
+2021-01-06,Manchester United,19857
+2021-01-07,Manchester United,16508
+2021-01-08,Manchester United,17079
+2021-01-09,Manchester United,16646
+2021-01-01,Manchester United,13961
+2021-01-11,Manchester United,12506
+2021-01-12,Manchester United,18288
+2021-01-13,Manchester United,21713
+2021-01-14,Manchester United,14768
+2021-01-15,Manchester United,15149
+2021-01-16,Manchester United,15492
+2021-01-17,Manchester United,25763
+2021-01-18,Manchester United,13730
+2021-01-19,Manchester United,12210
+2021-01-02,Manchester United,15064
+2021-01-21,Manchester United,15504
+2021-01-22,Manchester United,14286
+2021-01-23,Manchester United,14074
+2021-01-24,Manchester United,26458
+2021-01-25,Manchester United,22333
+2021-01-26,Manchester United,16675
+2021-01-27,Manchester United,19995
+2021-01-28,Manchester United,14468
+2021-01-29,Manchester United,12893
+2021-01-03,Manchester United,18619
+2021-01-31,Manchester United,13788
+2021-02-01,Manchester United,13515
+2021-02-02,Manchester United,23848
+2021-02-03,Manchester United,25443
+2021-02-04,Manchester United,17304
+2021-02-05,Manchester United,14181
+2021-02-06,Manchester United,21849
+2021-02-07,Manchester United,17228
+2021-02-08,Manchester United,26903
+2021-02-09,Manchester United,21799
+2021-02-01,Manchester United,14422
+2021-02-11,Manchester United,11492
+2021-02-12,Manchester United,10667
+2021-02-13,Manchester United,12951
+2021-02-14,Manchester United,15166
+2021-02-15,Manchester United,10604
+2021-02-16,Manchester United,11559
+2021-02-17,Manchester United,11287
+2021-02-18,Manchester United,14825
+2021-02-19,Manchester United,13119
+2021-02-02,Manchester United,12634
+2021-02-21,Manchester United,20983
+2021-02-22,Manchester United,16542
+2021-02-23,Manchester United,13277
+2021-02-24,Manchester United,13679
+2021-02-25,Manchester United,16711
+2021-02-26,Manchester United,15133
+2021-02-27,Manchester United,13503
+2021-02-28,Manchester United,19147
+2021-03-01,Manchester United,13480
+2021-03-02,Manchester United,12177
+2021-03-03,Manchester United,15346
+2021-03-04,Manchester United,13654
+2021-03-05,Manchester United,11822
+2021-03-06,Manchester United,12119
+2021-03-07,Manchester United,26012
+2021-03-08,Manchester United,17923
+2021-03-09,Manchester United,14171
+2021-03-01,Manchester United,16994
+2021-03-11,Manchester United,21607
+2021-03-12,Manchester United,14114
+2021-03-13,Manchester United,12531
+2021-03-14,Manchester United,17244
+2021-03-15,Manchester United,13637
+2021-03-16,Manchester United,12026
+2021-03-17,Manchester United,11904
+2021-03-18,Manchester United,17547
+2021-03-19,Manchester United,17166
+2021-03-02,Manchester United,13878
+2021-03-21,Manchester United,19374
+2021-03-22,Manchester United,13836
+2021-03-23,Manchester United,11245
+2021-03-24,Manchester United,11101
+2021-03-25,Manchester United,10609
+2021-03-26,Manchester United,9647
+2021-03-27,Manchester United,9157
+2021-03-28,Manchester United,8242
+2021-03-29,Manchester United,9629
+2021-03-03,Manchester United,9173
+2021-03-31,Manchester United,9396
+2021-04-01,Manchester United,8967
+2021-04-02,Manchester United,8754
+2021-04-03,Manchester United,10357
+2021-04-04,Manchester United,14823
+2021-04-05,Manchester United,13534
+2021-04-06,Manchester United,12814
+2021-04-07,Manchester United,11624
+2021-04-08,Manchester United,16034
+2021-04-09,Manchester United,11789
+2021-04-01,Manchester United,12238
+2021-04-11,Manchester United,20344
+2021-04-12,Manchester United,16776
+2021-04-13,Manchester United,13772
+2021-04-14,Manchester United,13541
+2021-04-15,Manchester United,17911
+2021-04-16,Manchester United,15850
+2021-04-17,Manchester United,13309
+2021-04-18,Manchester United,23938
+2021-04-19,Manchester United,53106
+2021-04-02,Manchester United,58978
+2021-04-21,Manchester United,42154
+2021-04-22,Manchester United,23475
+2021-04-23,Manchester United,18628
+2021-04-24,Manchester United,18354
+2021-04-25,Manchester United,21903
+2021-04-26,Manchester United,16530
+2021-04-27,Manchester United,15522
+2021-04-28,Manchester United,16362
+2021-04-29,Manchester United,24711
+2021-04-03,Manchester United,22823
+2021-05-01,Manchester United,14154
+2021-05-02,Manchester United,62486
+2021-05-03,Manchester United,39831
+2021-05-04,Manchester United,27100
+2021-05-05,Manchester United,28576
+2021-05-06,Manchester United,27600
+2021-05-07,Manchester United,23145
+2021-05-08,Manchester United,18769
+2021-05-09,Manchester United,26261
+2021-05-01,Manchester United,20696
+2021-05-11,Manchester United,29991
+2021-05-12,Manchester United,24621
+2021-05-13,Manchester United,23218
+2021-05-14,Manchester United,18737
+2021-05-15,Manchester United,20220
+2021-05-16,Manchester United,16519
+2021-05-17,Manchester United,15869
+2021-05-18,Manchester United,21994
+2021-05-19,Manchester United,17825
+2021-05-02,Manchester United,16082
+2021-05-21,Manchester United,14727
+2021-05-22,Manchester United,14625
+2021-05-23,Manchester United,26425
+2021-05-24,Manchester United,25041
+2021-05-25,Manchester United,23188
+2021-05-26,Manchester United,61159
+2021-05-27,Manchester United,38322
+2021-05-28,Manchester United,19860
+2021-05-29,Manchester United,32157
+2021-05-03,Manchester United,32004
+2021-05-31,Manchester United,21662
+2021-06-01,Manchester United,17669
+2021-06-02,Manchester United,15408
+2021-06-03,Manchester United,13180
+2021-06-04,Manchester United,13896
+2021-06-05,Manchester United,13184
+2020-09-12,Newcastle United,15722
+2020-09-13,Newcastle United,9674
+2020-09-14,Newcastle United,5686
+2020-09-15,Newcastle United,5620
+2020-09-16,Newcastle United,4852
+2020-09-17,Newcastle United,4195
+2020-09-18,Newcastle United,3960
+2020-09-19,Newcastle United,4663
+2020-09-02,Newcastle United,7463
+2020-09-21,Newcastle United,3595
+2020-09-22,Newcastle United,3265
+2020-09-23,Newcastle United,4249
+2020-09-24,Newcastle United,3670
+2020-09-25,Newcastle United,3088
+2020-09-26,Newcastle United,3343
+2020-09-27,Newcastle United,8462
+2020-09-28,Newcastle United,3792
+2020-09-29,Newcastle United,3133
+2020-09-03,Newcastle United,4994
+2020-10-01,Newcastle United,3024
+2020-10-02,Newcastle United,2852
+2020-10-03,Newcastle United,6639
+2020-10-04,Newcastle United,5123
+2020-10-05,Newcastle United,4481
+2020-10-06,Newcastle United,4653
+2020-10-07,Newcastle United,3402
+2020-10-08,Newcastle United,3042
+2020-10-09,Newcastle United,2709
+2020-10-01,Newcastle United,2502
+2020-10-11,Newcastle United,2705
+2020-10-12,Newcastle United,2641
+2020-10-13,Newcastle United,2666
+2020-10-14,Newcastle United,2929
+2020-10-15,Newcastle United,2696
+2020-10-16,Newcastle United,2932
+2020-10-17,Newcastle United,7486
+2020-10-18,Newcastle United,4251
+2020-10-19,Newcastle United,3129
+2020-10-02,Newcastle United,2744
+2020-10-21,Newcastle United,2428
+2020-10-22,Newcastle United,2349
+2020-10-23,Newcastle United,2693
+2020-10-24,Newcastle United,3173
+2020-10-25,Newcastle United,6863
+2020-10-26,Newcastle United,2993
+2020-10-27,Newcastle United,2575
+2020-10-28,Newcastle United,2252
+2020-10-29,Newcastle United,2124
+2020-10-03,Newcastle United,2267
+2020-10-31,Newcastle United,2384
+2020-11-01,Newcastle United,6011
+2020-11-02,Newcastle United,2965
+2020-11-03,Newcastle United,2335
+2020-11-04,Newcastle United,2039
+2020-11-05,Newcastle United,2488
+2020-11-06,Newcastle United,3814
+2020-11-07,Newcastle United,2835
+2020-11-08,Newcastle United,3062
+2020-11-09,Newcastle United,2354
+2020-11-01,Newcastle United,2084
+2020-11-11,Newcastle United,2057
+2020-11-12,Newcastle United,2007
+2020-11-13,Newcastle United,2047
+2020-11-14,Newcastle United,1976
+2020-11-15,Newcastle United,2253
+2020-11-16,Newcastle United,2021
+2020-11-17,Newcastle United,1952
+2020-11-18,Newcastle United,2087
+2020-11-19,Newcastle United,1982
+2020-11-02,Newcastle United,2263
+2020-11-21,Newcastle United,6489
+2020-11-22,Newcastle United,2868
+2020-11-23,Newcastle United,2343
+2020-11-24,Newcastle United,2295
+2020-11-25,Newcastle United,2003
+2020-11-26,Newcastle United,1943
+2020-11-27,Newcastle United,4093
+2020-11-28,Newcastle United,3532
+2020-11-29,Newcastle United,2585
+2020-11-03,Newcastle United,2440
+2020-12-01,Newcastle United,2377
+2020-12-02,Newcastle United,1973
+2020-12-03,Newcastle United,1758
+2020-12-04,Newcastle United,1861
+2020-12-05,Newcastle United,2256
+2020-12-06,Newcastle United,2335
+2020-12-07,Newcastle United,2391
+2020-12-08,Newcastle United,2168
+2020-12-09,Newcastle United,2362
+2020-12-01,Newcastle United,1984
+2020-12-11,Newcastle United,1973
+2020-12-12,Newcastle United,4820
+2020-12-13,Newcastle United,2973
+2020-12-14,Newcastle United,2632
+2020-12-15,Newcastle United,2412
+2020-12-16,Newcastle United,3690
+2020-12-17,Newcastle United,2700
+2020-12-18,Newcastle United,2175
+2020-12-19,Newcastle United,4223
+2020-12-02,Newcastle United,2853
+2020-12-21,Newcastle United,2568
+2020-12-22,Newcastle United,4197
+2020-12-23,Newcastle United,2919
+2020-12-24,Newcastle United,2116
+2020-12-25,Newcastle United,2041
+2020-12-26,Newcastle United,4766
+2020-12-27,Newcastle United,3750
+2020-12-28,Newcastle United,2691
+2020-12-29,Newcastle United,2941
+2020-12-03,Newcastle United,10702
+2020-12-31,Newcastle United,4217
+2021-01-01,Newcastle United,2658
+2021-01-02,Newcastle United,3311
+2021-01-03,Newcastle United,6670
+2021-01-04,Newcastle United,2872
+2021-01-05,Newcastle United,2862
+2021-01-06,Newcastle United,2511
+2021-01-07,Newcastle United,2273
+2021-01-08,Newcastle United,2555
+2021-01-09,Newcastle United,7855
+2021-01-01,Newcastle United,3213
+2021-01-11,Newcastle United,2332
+2021-01-12,Newcastle United,4543
+2021-01-13,Newcastle United,3030
+2021-01-14,Newcastle United,2560
+2021-01-15,Newcastle United,2481
+2021-01-16,Newcastle United,3204
+2021-01-17,Newcastle United,3526
+2021-01-18,Newcastle United,6453
+2021-01-19,Newcastle United,4032
+2021-01-02,Newcastle United,2551
+2021-01-21,Newcastle United,2402
+2021-01-22,Newcastle United,2638
+2021-01-23,Newcastle United,6157
+2021-01-24,Newcastle United,4063
+2021-01-25,Newcastle United,3254
+2021-01-26,Newcastle United,5195
+2021-01-27,Newcastle United,4008
+2021-01-28,Newcastle United,2875
+2021-01-29,Newcastle United,2765
+2021-01-03,Newcastle United,6961
+2021-01-31,Newcastle United,3719
+2021-02-01,Newcastle United,4820
+2021-02-02,Newcastle United,6836
+2021-02-03,Newcastle United,4078
+2021-02-04,Newcastle United,3814
+2021-02-05,Newcastle United,2896
+2021-02-06,Newcastle United,6582
+2021-02-07,Newcastle United,3889
+2021-02-08,Newcastle United,2659
+2021-02-09,Newcastle United,2731
+2021-02-01,Newcastle United,2329
+2021-02-11,Newcastle United,2508
+2021-02-12,Newcastle United,2318
+2021-02-13,Newcastle United,2754
+2021-02-14,Newcastle United,2896
+2021-02-15,Newcastle United,5221
+2021-02-16,Newcastle United,2948
+2021-02-17,Newcastle United,2410
+2021-02-18,Newcastle United,2395
+2021-02-19,Newcastle United,2526
+2021-02-02,Newcastle United,3320
+2021-02-21,Newcastle United,7284
+2021-02-22,Newcastle United,3790
+2021-02-23,Newcastle United,2888
+2021-02-24,Newcastle United,2708
+2021-02-25,Newcastle United,2540
+2021-02-26,Newcastle United,2495
+2021-02-27,Newcastle United,5006
+2021-02-28,Newcastle United,5179
+2021-03-01,Newcastle United,3504
+2021-03-02,Newcastle United,3188
+2021-03-03,Newcastle United,3010
+2021-03-04,Newcastle United,3166
+2021-03-05,Newcastle United,2992
+2021-03-06,Newcastle United,3050
+2021-03-07,Newcastle United,5010
+2021-03-08,Newcastle United,2861
+2021-03-09,Newcastle United,2476
+2021-03-01,Newcastle United,2381
+2021-03-11,Newcastle United,2436
+2021-03-12,Newcastle United,4627
+2021-03-13,Newcastle United,3394
+2021-03-14,Newcastle United,3612
+2021-03-15,Newcastle United,2789
+2021-03-16,Newcastle United,2427
+2021-03-17,Newcastle United,2207
+2021-03-18,Newcastle United,2207
+2021-03-19,Newcastle United,2412
+2021-03-02,Newcastle United,5191
+2021-03-21,Newcastle United,4660
+2021-03-22,Newcastle United,2976
+2021-03-23,Newcastle United,3154
+2021-03-24,Newcastle United,2764
+2021-03-25,Newcastle United,2785
+2021-03-26,Newcastle United,2375
+2021-03-27,Newcastle United,2259
+2021-03-28,Newcastle United,2141
+2021-03-29,Newcastle United,2274
+2021-03-03,Newcastle United,2280
+2021-03-31,Newcastle United,2216
+2021-04-01,Newcastle United,2168
+2021-04-02,Newcastle United,2019
+2021-04-03,Newcastle United,2684
+2021-04-04,Newcastle United,6523
+2021-04-05,Newcastle United,3205
+2021-04-06,Newcastle United,2474
+2021-04-07,Newcastle United,2067
+2021-04-08,Newcastle United,2148
+2021-04-09,Newcastle United,2062
+2021-04-01,Newcastle United,2526
+2021-04-11,Newcastle United,5616
+2021-04-12,Newcastle United,3260
+2021-04-13,Newcastle United,2566
+2021-04-14,Newcastle United,2135
+2021-04-15,Newcastle United,2373
+2021-04-16,Newcastle United,2568
+2021-04-17,Newcastle United,6145
+2021-04-18,Newcastle United,3717
+2021-04-19,Newcastle United,4998
+2021-04-02,Newcastle United,4914
+2021-04-21,Newcastle United,3773
+2021-04-22,Newcastle United,3201
+2021-04-23,Newcastle United,3040
+2021-04-24,Newcastle United,7337
+2021-04-25,Newcastle United,4358
+2021-04-26,Newcastle United,4275
+2021-04-27,Newcastle United,3343
+2021-04-28,Newcastle United,2741
+2021-04-29,Newcastle United,2872
+2021-04-03,Newcastle United,2599
+2021-05-01,Newcastle United,2847
+2021-05-02,Newcastle United,5313
+2021-05-03,Newcastle United,3178
+2021-05-04,Newcastle United,2888
+2021-05-05,Newcastle United,2749
+2021-05-06,Newcastle United,2740
+2021-05-07,Newcastle United,6287
+2021-05-08,Newcastle United,5114
+2021-05-09,Newcastle United,3768
+2021-05-01,Newcastle United,3413
+2021-05-11,Newcastle United,3733
+2021-05-12,Newcastle United,2990
+2021-05-13,Newcastle United,2989
+2021-05-14,Newcastle United,5790
+2021-05-15,Newcastle United,5077
+2021-05-16,Newcastle United,3583
+2021-05-17,Newcastle United,3205
+2021-05-18,Newcastle United,3563
+2021-05-19,Newcastle United,4255
+2021-05-02,Newcastle United,3823
+2021-05-21,Newcastle United,3240
+2021-05-22,Newcastle United,3083
+2021-05-23,Newcastle United,5628
+2021-05-24,Newcastle United,4290
+2021-05-25,Newcastle United,3526
+2021-05-26,Newcastle United,3219
+2021-05-27,Newcastle United,3117
+2021-05-28,Newcastle United,2515
+2021-05-29,Newcastle United,3826
+2021-05-03,Newcastle United,3170
+2021-05-31,Newcastle United,3181
+2021-06-01,Newcastle United,2955
+2021-06-02,Newcastle United,3037
+2021-06-03,Newcastle United,2946
+2021-06-04,Newcastle United,2881
+2021-06-05,Newcastle United,2562
+2020-09-12,Sheffield United,4799
+2020-09-13,Sheffield United,3706
+2020-09-14,Sheffield United,7351
+2020-09-15,Sheffield United,3008
+2020-09-16,Sheffield United,2466
+2020-09-17,Sheffield United,2714
+2020-09-18,Sheffield United,2238
+2020-09-19,Sheffield United,2967
+2020-09-02,Sheffield United,2619
+2020-09-21,Sheffield United,5400
+2020-09-22,Sheffield United,2614
+2020-09-23,Sheffield United,2276
+2020-09-24,Sheffield United,1888
+2020-09-25,Sheffield United,1924
+2020-09-26,Sheffield United,2714
+2020-09-27,Sheffield United,7988
+2020-09-28,Sheffield United,2563
+2020-09-29,Sheffield United,2005
+2020-09-03,Sheffield United,2057
+2020-10-01,Sheffield United,1829
+2020-10-02,Sheffield United,4788
+2020-10-03,Sheffield United,4279
+2020-10-04,Sheffield United,6692
+2020-10-05,Sheffield United,2947
+2020-10-06,Sheffield United,3075
+2020-10-07,Sheffield United,2370
+2020-10-08,Sheffield United,2833
+2020-10-09,Sheffield United,2102
+2020-10-01,Sheffield United,1884
+2020-10-11,Sheffield United,1784
+2020-10-12,Sheffield United,1697
+2020-10-13,Sheffield United,1780
+2020-10-14,Sheffield United,1742
+2020-10-15,Sheffield United,2086
+2020-10-16,Sheffield United,2074
+2020-10-17,Sheffield United,2330
+2020-10-18,Sheffield United,4241
+2020-10-19,Sheffield United,2050
+2020-10-02,Sheffield United,1625
+2020-10-21,Sheffield United,1588
+2020-10-22,Sheffield United,1431
+2020-10-23,Sheffield United,1805
+2020-10-24,Sheffield United,6204
+2020-10-25,Sheffield United,3363
+2020-10-26,Sheffield United,1834
+2020-10-27,Sheffield United,1543
+2020-10-28,Sheffield United,1477
+2020-10-29,Sheffield United,1798
+2020-10-03,Sheffield United,1572
+2020-10-31,Sheffield United,4908
+2020-11-01,Sheffield United,2011
+2020-11-02,Sheffield United,1732
+2020-11-03,Sheffield United,1428
+2020-11-04,Sheffield United,1258
+2020-11-05,Sheffield United,1764
+2020-11-06,Sheffield United,1505
+2020-11-07,Sheffield United,4953
+2020-11-08,Sheffield United,2703
+2020-11-09,Sheffield United,2210
+2020-11-01,Sheffield United,1595
+2020-11-11,Sheffield United,1295
+2020-11-12,Sheffield United,1679
+2020-11-13,Sheffield United,1423
+2020-11-14,Sheffield United,1224
+2020-11-15,Sheffield United,1505
+2020-11-16,Sheffield United,1298
+2020-11-17,Sheffield United,1168
+2020-11-18,Sheffield United,1673
+2020-11-19,Sheffield United,1056
+2020-11-02,Sheffield United,1258
+2020-11-21,Sheffield United,1831
+2020-11-22,Sheffield United,4312
+2020-11-23,Sheffield United,1990
+2020-11-24,Sheffield United,1543
+2020-11-25,Sheffield United,1391
+2020-11-26,Sheffield United,1239
+2020-11-27,Sheffield United,1497
+2020-11-28,Sheffield United,4583
+2020-11-29,Sheffield United,3177
+2020-11-03,Sheffield United,2054
+2020-12-01,Sheffield United,1502
+2020-12-02,Sheffield United,1340
+2020-12-03,Sheffield United,1230
+2020-12-04,Sheffield United,1227
+2020-12-05,Sheffield United,1935
+2020-12-06,Sheffield United,5416
+2020-12-07,Sheffield United,2399
+2020-12-08,Sheffield United,1814
+2020-12-09,Sheffield United,1580
+2020-12-01,Sheffield United,1256
+2020-12-11,Sheffield United,1282
+2020-12-12,Sheffield United,1962
+2020-12-13,Sheffield United,5576
+2020-12-14,Sheffield United,2417
+2020-12-15,Sheffield United,2021
+2020-12-16,Sheffield United,2982
+2020-12-17,Sheffield United,10116
+2020-12-18,Sheffield United,3896
+2020-12-19,Sheffield United,2551
+2020-12-02,Sheffield United,5403
+2020-12-21,Sheffield United,2249
+2020-12-22,Sheffield United,1727
+2020-12-23,Sheffield United,1585
+2020-12-24,Sheffield United,1367
+2020-12-25,Sheffield United,1289
+2020-12-26,Sheffield United,4352
+2020-12-27,Sheffield United,4240
+2020-12-28,Sheffield United,2394
+2020-12-29,Sheffield United,3879
+2020-12-03,Sheffield United,2890
+2020-12-31,Sheffield United,1894
+2021-01-01,Sheffield United,2139
+2021-01-02,Sheffield United,8826
+2021-01-03,Sheffield United,3651
+2021-01-04,Sheffield United,2599
+2021-01-05,Sheffield United,2408
+2021-01-06,Sheffield United,1849
+2021-01-07,Sheffield United,1465
+2021-01-08,Sheffield United,1702
+2021-01-09,Sheffield United,2973
+2021-01-01,Sheffield United,2148
+2021-01-11,Sheffield United,1958
+2021-01-12,Sheffield United,5433
+2021-01-13,Sheffield United,2616
+2021-01-14,Sheffield United,1671
+2021-01-15,Sheffield United,1534
+2021-01-16,Sheffield United,2318
+2021-01-17,Sheffield United,7201
+2021-01-18,Sheffield United,2011
+2021-01-19,Sheffield United,1690
+2021-01-02,Sheffield United,1586
+2021-01-21,Sheffield United,1523
+2021-01-22,Sheffield United,1743
+2021-01-23,Sheffield United,3420
+2021-01-24,Sheffield United,2194
+2021-01-25,Sheffield United,1900
+2021-01-26,Sheffield United,1986
+2021-01-27,Sheffield United,8824
+2021-01-28,Sheffield United,6774
+2021-01-29,Sheffield United,2637
+2021-01-03,Sheffield United,4151
+2021-01-31,Sheffield United,2252
+2021-02-01,Sheffield United,1992
+2021-02-02,Sheffield United,3784
+2021-02-03,Sheffield United,3100
+2021-02-04,Sheffield United,2617
+2021-02-05,Sheffield United,1810
+2021-02-06,Sheffield United,2249
+2021-02-07,Sheffield United,5340
+2021-02-08,Sheffield United,2125
+2021-02-09,Sheffield United,1744
+2021-02-01,Sheffield United,2594
+2021-02-11,Sheffield United,1991
+2021-02-12,Sheffield United,1581
+2021-02-13,Sheffield United,1612
+2021-02-14,Sheffield United,1631
+2021-02-15,Sheffield United,3689
+2021-02-16,Sheffield United,1897
+2021-02-17,Sheffield United,1649
+2021-02-18,Sheffield United,1521
+2021-02-19,Sheffield United,1430
+2021-02-02,Sheffield United,3246
+2021-02-21,Sheffield United,2154
+2021-02-22,Sheffield United,1651
+2021-02-23,Sheffield United,1443
+2021-02-24,Sheffield United,1476
+2021-02-25,Sheffield United,1373
+2021-02-26,Sheffield United,1453
+2021-02-27,Sheffield United,1633
+2021-02-28,Sheffield United,6776
+2021-03-01,Sheffield United,2372
+2021-03-02,Sheffield United,1811
+2021-03-03,Sheffield United,3029
+2021-03-04,Sheffield United,2157
+2021-03-05,Sheffield United,1772
+2021-03-06,Sheffield United,4130
+2021-03-07,Sheffield United,2453
+2021-03-08,Sheffield United,1801
+2021-03-09,Sheffield United,1568
+2021-03-01,Sheffield United,1469
+2021-03-11,Sheffield United,1275
+2021-03-12,Sheffield United,8916
+2021-03-13,Sheffield United,7962
+2021-03-14,Sheffield United,13657
+2021-03-15,Sheffield United,4322
+2021-03-16,Sheffield United,3119
+2021-03-17,Sheffield United,2541
+2021-03-18,Sheffield United,2268
+2021-03-19,Sheffield United,1976
+2021-03-02,Sheffield United,2263
+2021-03-21,Sheffield United,7935
+2021-03-22,Sheffield United,2187
+2021-03-23,Sheffield United,1776
+2021-03-24,Sheffield United,1544
+2021-03-25,Sheffield United,3837
+2021-03-26,Sheffield United,2279
+2021-03-27,Sheffield United,2040
+2021-03-28,Sheffield United,1854
+2021-03-29,Sheffield United,1620
+2021-03-03,Sheffield United,1467
+2021-03-31,Sheffield United,1569
+2021-04-01,Sheffield United,1526
+2021-04-02,Sheffield United,1442
+2021-04-03,Sheffield United,4513
+2021-04-04,Sheffield United,2315
+2021-04-05,Sheffield United,1857
+2021-04-06,Sheffield United,1472
+2021-04-07,Sheffield United,1324
+2021-04-08,Sheffield United,1169
+2021-04-09,Sheffield United,1178
+2021-04-01,Sheffield United,2075
+2021-04-11,Sheffield United,5418
+2021-04-12,Sheffield United,2493
+2021-04-13,Sheffield United,1825
+2021-04-14,Sheffield United,1557
+2021-04-15,Sheffield United,1466
+2021-04-16,Sheffield United,1682
+2021-04-17,Sheffield United,6316
+2021-04-18,Sheffield United,6355
+2021-04-19,Sheffield United,3174
+2021-04-02,Sheffield United,3067
+2021-04-21,Sheffield United,2616
+2021-04-22,Sheffield United,2294
+2021-04-23,Sheffield United,2005
+2021-04-24,Sheffield United,4202
+2021-04-25,Sheffield United,3050
+2021-04-26,Sheffield United,1981
+2021-04-27,Sheffield United,1842
+2021-04-28,Sheffield United,1439
+2021-04-29,Sheffield United,1436
+2021-04-03,Sheffield United,1366
+2021-05-01,Sheffield United,1922
+2021-05-02,Sheffield United,4258
+2021-05-03,Sheffield United,2165
+2021-05-04,Sheffield United,1692
+2021-05-05,Sheffield United,1670
+2021-05-06,Sheffield United,2623
+2021-05-07,Sheffield United,1673
+2021-05-08,Sheffield United,4368
+2021-05-09,Sheffield United,2714
+2021-05-01,Sheffield United,2895
+2021-05-11,Sheffield United,2961
+2021-05-12,Sheffield United,1942
+2021-05-13,Sheffield United,1785
+2021-05-14,Sheffield United,1638
+2021-05-15,Sheffield United,2195
+2021-05-16,Sheffield United,5846
+2021-05-17,Sheffield United,3436
+2021-05-18,Sheffield United,2651
+2021-05-19,Sheffield United,2831
+2021-05-02,Sheffield United,2207
+2021-05-21,Sheffield United,2045
+2021-05-22,Sheffield United,1868
+2021-05-23,Sheffield United,3293
+2021-05-24,Sheffield United,3245
+2021-05-25,Sheffield United,2261
+2021-05-26,Sheffield United,1809
+2021-05-27,Sheffield United,4026
+2021-05-28,Sheffield United,2292
+2021-05-29,Sheffield United,2758
+2021-05-03,Sheffield United,2358
+2021-05-31,Sheffield United,2063
+2021-06-01,Sheffield United,2064
+2021-06-02,Sheffield United,1879
+2021-06-03,Sheffield United,2175
+2021-06-04,Sheffield United,1483
+2021-06-05,Sheffield United,1318
+2020-09-12,Southampton,8399
+2020-09-13,Southampton,3286
+2020-09-14,Southampton,2845
+2020-09-15,Southampton,2457
+2020-09-16,Southampton,2722
+2020-09-17,Southampton,2675
+2020-09-18,Southampton,2512
+2020-09-19,Southampton,2965
+2020-09-02,Southampton,7742
+2020-09-21,Southampton,2902
+2020-09-22,Southampton,2318
+2020-09-23,Southampton,2205
+2020-09-24,Southampton,1942
+2020-09-25,Southampton,1839
+2020-09-26,Southampton,4190
+2020-09-27,Southampton,2601
+2020-09-28,Southampton,1985
+2020-09-29,Southampton,2136
+2020-09-03,Southampton,1869
+2020-10-01,Southampton,1628
+2020-10-02,Southampton,1719
+2020-10-03,Southampton,2137
+2020-10-04,Southampton,4156
+2020-10-05,Southampton,7051
+2020-10-06,Southampton,7031
+2020-10-07,Southampton,3320
+2020-10-08,Southampton,2939
+2020-10-09,Southampton,2382
+2020-10-01,Southampton,2060
+2020-10-11,Southampton,2317
+2020-10-12,Southampton,2430
+2020-10-13,Southampton,2045
+2020-10-14,Southampton,2030
+2020-10-15,Southampton,1862
+2020-10-16,Southampton,2273
+2020-10-17,Southampton,7684
+2020-10-18,Southampton,3744
+2020-10-19,Southampton,2666
+2020-10-02,Southampton,2031
+2020-10-21,Southampton,1916
+2020-10-22,Southampton,1722
+2020-10-23,Southampton,1746
+2020-10-24,Southampton,1995
+2020-10-25,Southampton,8271
+2020-10-26,Southampton,3032
+2020-10-27,Southampton,2113
+2020-10-28,Southampton,1782
+2020-10-29,Southampton,1706
+2020-10-03,Southampton,1614
+2020-10-31,Southampton,1675
+2020-11-01,Southampton,6492
+2020-11-02,Southampton,3771
+2020-11-03,Southampton,2570
+2020-11-04,Southampton,1801
+2020-11-05,Southampton,2254
+2020-11-06,Southampton,8493
+2020-11-07,Southampton,10090
+2020-11-08,Southampton,4335
+2020-11-09,Southampton,2993
+2020-11-01,Southampton,2150
+2020-11-11,Southampton,1930
+2020-11-12,Southampton,2037
+2020-11-13,Southampton,1541
+2020-11-14,Southampton,1619
+2020-11-15,Southampton,1746
+2020-11-16,Southampton,1531
+2020-11-17,Southampton,1417
+2020-11-18,Southampton,1741
+2020-11-19,Southampton,1574
+2020-11-02,Southampton,1544
+2020-11-21,Southampton,2007
+2020-11-22,Southampton,2156
+2020-11-23,Southampton,5278
+2020-11-24,Southampton,2738
+2020-11-25,Southampton,1736
+2020-11-26,Southampton,1721
+2020-11-27,Southampton,1747
+2020-11-28,Southampton,2145
+2020-11-29,Southampton,8921
+2020-11-03,Southampton,3012
+2020-12-01,Southampton,1824
+2020-12-02,Southampton,1487
+2020-12-03,Southampton,1468
+2020-12-04,Southampton,1723
+2020-12-05,Southampton,1700
+2020-12-06,Southampton,1955
+2020-12-07,Southampton,4588
+2020-12-08,Southampton,2715
+2020-12-09,Southampton,1613
+2020-12-01,Southampton,1401
+2020-12-11,Southampton,1726
+2020-12-12,Southampton,1843
+2020-12-13,Southampton,7209
+2020-12-14,Southampton,3192
+2020-12-15,Southampton,2758
+2020-12-16,Southampton,6863
+2020-12-17,Southampton,3524
+2020-12-18,Southampton,2310
+2020-12-19,Southampton,6386
+2020-12-02,Southampton,2546
+2020-12-21,Southampton,1918
+2020-12-22,Southampton,1837
+2020-12-23,Southampton,1858
+2020-12-24,Southampton,1734
+2020-12-25,Southampton,1741
+2020-12-26,Southampton,3559
+2020-12-27,Southampton,2469
+2020-12-28,Southampton,2056
+2020-12-29,Southampton,3811
+2020-12-03,Southampton,2252
+2020-12-31,Southampton,1648
+2021-01-01,Southampton,1988
+2021-01-02,Southampton,2782
+2021-01-03,Southampton,3187
+2021-01-04,Southampton,16189
+2021-01-05,Southampton,10564
+2021-01-06,Southampton,3236
+2021-01-07,Southampton,2202
+2021-01-08,Southampton,2086
+2021-01-09,Southampton,2196
+2021-01-01,Southampton,2365
+2021-01-11,Southampton,1925
+2021-01-12,Southampton,1828
+2021-01-13,Southampton,1768
+2021-01-14,Southampton,1797
+2021-01-15,Southampton,1679
+2021-01-16,Southampton,5024
+2021-01-17,Southampton,3231
+2021-01-18,Southampton,2126
+2021-01-19,Southampton,3007
+2021-01-02,Southampton,2827
+2021-01-21,Southampton,1917
+2021-01-22,Southampton,2125
+2021-01-23,Southampton,6553
+2021-01-24,Southampton,2486
+2021-01-25,Southampton,2427
+2021-01-26,Southampton,4307
+2021-01-27,Southampton,2679
+2021-01-28,Southampton,1852
+2021-01-29,Southampton,1864
+2021-01-03,Southampton,3896
+2021-01-31,Southampton,2326
+2021-02-01,Southampton,2944
+2021-02-02,Southampton,20919
+2021-02-03,Southampton,15804
+2021-02-04,Southampton,5581
+2021-02-05,Southampton,3360
+2021-02-06,Southampton,6164
+2021-02-07,Southampton,3162
+2021-02-08,Southampton,2031
+2021-02-09,Southampton,2102
+2021-02-01,Southampton,1991
+2021-02-11,Southampton,3483
+2021-02-12,Southampton,2155
+2021-02-13,Southampton,2046
+2021-02-14,Southampton,3937
+2021-02-15,Southampton,1901
+2021-02-16,Southampton,2076
+2021-02-17,Southampton,2034
+2021-02-18,Southampton,1664
+2021-02-19,Southampton,1701
+2021-02-02,Southampton,6819
+2021-02-21,Southampton,2469
+2021-02-22,Southampton,2022
+2021-02-23,Southampton,3857
+2021-02-24,Southampton,2076
+2021-02-25,Southampton,1738
+2021-02-26,Southampton,1722
+2021-02-27,Southampton,1776
+2021-02-28,Southampton,2146
+2021-03-01,Southampton,4846
+2021-03-02,Southampton,2454
+2021-03-03,Southampton,1835
+2021-03-04,Southampton,1955
+2021-03-05,Southampton,1829
+2021-03-06,Southampton,4475
+2021-03-07,Southampton,2910
+2021-03-08,Southampton,2315
+2021-03-09,Southampton,1907
+2021-03-01,Southampton,3493
+2021-03-11,Southampton,2035
+2021-03-12,Southampton,1752
+2021-03-13,Southampton,1876
+2021-03-14,Southampton,5406
+2021-03-15,Southampton,1923
+2021-03-16,Southampton,2351
+2021-03-17,Southampton,2071
+2021-03-18,Southampton,2022
+2021-03-19,Southampton,1699
+2021-03-02,Southampton,4204
+2021-03-21,Southampton,3037
+2021-03-22,Southampton,2194
+2021-03-23,Southampton,2349
+2021-03-24,Southampton,1853
+2021-03-25,Southampton,2095
+2021-03-26,Southampton,1608
+2021-03-27,Southampton,1444
+2021-03-28,Southampton,1665
+2021-03-29,Southampton,1423
+2021-03-03,Southampton,1471
+2021-03-31,Southampton,1650
+2021-04-01,Southampton,1431
+2021-04-02,Southampton,1339
+2021-04-03,Southampton,1648
+2021-04-04,Southampton,4055
+2021-04-05,Southampton,1939
+2021-04-06,Southampton,1595
+2021-04-07,Southampton,1554
+2021-04-08,Southampton,1509
+2021-04-09,Southampton,1312
+2021-04-01,Southampton,1635
+2021-04-11,Southampton,1915
+2021-04-12,Southampton,2763
+2021-04-13,Southampton,1941
+2021-04-14,Southampton,1396
+2021-04-15,Southampton,1424
+2021-04-16,Southampton,1757
+2021-04-17,Southampton,2538
+2021-04-18,Southampton,5444
+2021-04-19,Southampton,2916
+2021-04-02,Southampton,2576
+2021-04-21,Southampton,3907
+2021-04-22,Southampton,2130
+2021-04-23,Southampton,1825
+2021-04-24,Southampton,1759
+2021-04-25,Southampton,1842
+2021-04-26,Southampton,1999
+2021-04-27,Southampton,1846
+2021-04-28,Southampton,1631
+2021-04-29,Southampton,1753
+2021-04-03,Southampton,3233
+2021-05-01,Southampton,2076
+2021-05-02,Southampton,1889
+2021-05-03,Southampton,1769
+2021-05-04,Southampton,1898
+2021-05-05,Southampton,1671
+2021-05-06,Southampton,1599
+2021-05-07,Southampton,1723
+2021-05-08,Southampton,4196
+2021-05-09,Southampton,2417
+2021-05-01,Southampton,2268
+2021-05-11,Southampton,4232
+2021-05-12,Southampton,2711
+2021-05-13,Southampton,1982
+2021-05-14,Southampton,1796
+2021-05-15,Southampton,4289
+2021-05-16,Southampton,2749
+2021-05-17,Southampton,2219
+2021-05-18,Southampton,3243
+2021-05-19,Southampton,2316
+2021-05-02,Southampton,2114
+2021-05-21,Southampton,1843
+2021-05-22,Southampton,1622
+2021-05-23,Southampton,2786
+2021-05-24,Southampton,2724
+2021-05-25,Southampton,2480
+2021-05-26,Southampton,2099
+2021-05-27,Southampton,2132
+2021-05-28,Southampton,1916
+2021-05-29,Southampton,2260
+2021-05-03,Southampton,2079
+2021-05-31,Southampton,1802
+2021-06-01,Southampton,1874
+2021-06-02,Southampton,1943
+2021-06-03,Southampton,1801
+2021-06-04,Southampton,1887
+2021-06-05,Southampton,1557
+2020-09-12,Tottenham Hotspur,17533
+2020-09-13,Tottenham Hotspur,23632
+2020-09-14,Tottenham Hotspur,19013
+2020-09-15,Tottenham Hotspur,18662
+2020-09-16,Tottenham Hotspur,23142
+2020-09-17,Tottenham Hotspur,28509
+2020-09-18,Tottenham Hotspur,28918
+2020-09-19,Tottenham Hotspur,48625
+2020-09-02,Tottenham Hotspur,45083
+2020-09-21,Tottenham Hotspur,20704
+2020-09-22,Tottenham Hotspur,16008
+2020-09-23,Tottenham Hotspur,13971
+2020-09-24,Tottenham Hotspur,14690
+2020-09-25,Tottenham Hotspur,12882
+2020-09-26,Tottenham Hotspur,11598
+2020-09-27,Tottenham Hotspur,17105
+2020-09-28,Tottenham Hotspur,9964
+2020-09-29,Tottenham Hotspur,16853
+2020-09-03,Tottenham Hotspur,12809
+2020-10-01,Tottenham Hotspur,12493
+2020-10-02,Tottenham Hotspur,16460
+2020-10-03,Tottenham Hotspur,14522
+2020-10-04,Tottenham Hotspur,25445
+2020-10-05,Tottenham Hotspur,20926
+2020-10-06,Tottenham Hotspur,16784
+2020-10-07,Tottenham Hotspur,11443
+2020-10-08,Tottenham Hotspur,10257
+2020-10-09,Tottenham Hotspur,8519
+2020-10-01,Tottenham Hotspur,8338
+2020-10-11,Tottenham Hotspur,8625
+2020-10-12,Tottenham Hotspur,8002
+2020-10-13,Tottenham Hotspur,7324
+2020-10-14,Tottenham Hotspur,7089
+2020-10-15,Tottenham Hotspur,6717
+2020-10-16,Tottenham Hotspur,10916
+2020-10-17,Tottenham Hotspur,11304
+2020-10-18,Tottenham Hotspur,21843
+2020-10-19,Tottenham Hotspur,10356
+2020-10-02,Tottenham Hotspur,7917
+2020-10-21,Tottenham Hotspur,7263
+2020-10-22,Tottenham Hotspur,12730
+2020-10-23,Tottenham Hotspur,11019
+2020-10-24,Tottenham Hotspur,7641
+2020-10-25,Tottenham Hotspur,7399
+2020-10-26,Tottenham Hotspur,12115
+2020-10-27,Tottenham Hotspur,10901
+2020-10-28,Tottenham Hotspur,7771
+2020-10-29,Tottenham Hotspur,9986
+2020-10-03,Tottenham Hotspur,6701
+2020-10-31,Tottenham Hotspur,5709
+2020-11-01,Tottenham Hotspur,10603
+2020-11-02,Tottenham Hotspur,10078
+2020-11-03,Tottenham Hotspur,7113
+2020-11-04,Tottenham Hotspur,5575
+2020-11-05,Tottenham Hotspur,9634
+2020-11-06,Tottenham Hotspur,7641
+2020-11-07,Tottenham Hotspur,6397
+2020-11-08,Tottenham Hotspur,12108
+2020-11-09,Tottenham Hotspur,8056
+2020-11-01,Tottenham Hotspur,6321
+2020-11-11,Tottenham Hotspur,5821
+2020-11-12,Tottenham Hotspur,5407
+2020-11-13,Tottenham Hotspur,4918
+2020-11-14,Tottenham Hotspur,5446
+2020-11-15,Tottenham Hotspur,6361
+2020-11-16,Tottenham Hotspur,5508
+2020-11-17,Tottenham Hotspur,5245
+2020-11-18,Tottenham Hotspur,5165
+2020-11-19,Tottenham Hotspur,5053
+2020-11-02,Tottenham Hotspur,5459
+2020-11-21,Tottenham Hotspur,17686
+2020-11-22,Tottenham Hotspur,14582
+2020-11-23,Tottenham Hotspur,10139
+2020-11-24,Tottenham Hotspur,8243
+2020-11-25,Tottenham Hotspur,7711
+2020-11-26,Tottenham Hotspur,11930
+2020-11-27,Tottenham Hotspur,11019
+2020-11-28,Tottenham Hotspur,9147
+2020-11-29,Tottenham Hotspur,17816
+2020-11-03,Tottenham Hotspur,9847
+2020-12-01,Tottenham Hotspur,7700
+2020-12-02,Tottenham Hotspur,6478
+2020-12-03,Tottenham Hotspur,8619
+2020-12-04,Tottenham Hotspur,7392
+2020-12-05,Tottenham Hotspur,8030
+2020-12-06,Tottenham Hotspur,22812
+2020-12-07,Tottenham Hotspur,15462
+2020-12-08,Tottenham Hotspur,9593
+2020-12-09,Tottenham Hotspur,8178
+2020-12-01,Tottenham Hotspur,10347
+2020-12-11,Tottenham Hotspur,9036
+2020-12-12,Tottenham Hotspur,8234
+2020-12-13,Tottenham Hotspur,13999
+2020-12-14,Tottenham Hotspur,8638
+2020-12-15,Tottenham Hotspur,8581
+2020-12-16,Tottenham Hotspur,15005
+2020-12-17,Tottenham Hotspur,9041
+2020-12-18,Tottenham Hotspur,6527
+2020-12-19,Tottenham Hotspur,7266
+2020-12-02,Tottenham Hotspur,11515
+2020-12-21,Tottenham Hotspur,6156
+2020-12-22,Tottenham Hotspur,6045
+2020-12-23,Tottenham Hotspur,9982
+2020-12-24,Tottenham Hotspur,8535
+2020-12-25,Tottenham Hotspur,5784
+2020-12-26,Tottenham Hotspur,7537
+2020-12-27,Tottenham Hotspur,11720
+2020-12-28,Tottenham Hotspur,7126
+2020-12-29,Tottenham Hotspur,6933
+2020-12-03,Tottenham Hotspur,7225
+2020-12-31,Tottenham Hotspur,5536
+2021-01-01,Tottenham Hotspur,5720
+2021-01-02,Tottenham Hotspur,15871
+2021-01-03,Tottenham Hotspur,9666
+2021-01-04,Tottenham Hotspur,7683
+2021-01-05,Tottenham Hotspur,17160
+2021-01-06,Tottenham Hotspur,15117
+2021-01-07,Tottenham Hotspur,7784
+2021-01-08,Tottenham Hotspur,6658
+2021-01-09,Tottenham Hotspur,7278
+2021-01-01,Tottenham Hotspur,21195
+2021-01-11,Tottenham Hotspur,9244
+2021-01-12,Tottenham Hotspur,6882
+2021-01-13,Tottenham Hotspur,9702
+2021-01-14,Tottenham Hotspur,6704
+2021-01-15,Tottenham Hotspur,5200
+2021-01-16,Tottenham Hotspur,6244
+2021-01-17,Tottenham Hotspur,10704
+2021-01-18,Tottenham Hotspur,6219
+2021-01-19,Tottenham Hotspur,5538
+2021-01-02,Tottenham Hotspur,5344
+2021-01-21,Tottenham Hotspur,5255
+2021-01-22,Tottenham Hotspur,5545
+2021-01-23,Tottenham Hotspur,6309
+2021-01-24,Tottenham Hotspur,5945
+2021-01-25,Tottenham Hotspur,9862
+2021-01-26,Tottenham Hotspur,7738
+2021-01-27,Tottenham Hotspur,6150
+2021-01-28,Tottenham Hotspur,12408
+2021-01-29,Tottenham Hotspur,7174
+2021-01-03,Tottenham Hotspur,6335
+2021-01-31,Tottenham Hotspur,10291
+2021-02-01,Tottenham Hotspur,8563
+2021-02-02,Tottenham Hotspur,7525
+2021-02-03,Tottenham Hotspur,6595
+2021-02-04,Tottenham Hotspur,11669
+2021-02-05,Tottenham Hotspur,7575
+2021-02-06,Tottenham Hotspur,6387
+2021-02-07,Tottenham Hotspur,11540
+2021-02-08,Tottenham Hotspur,5811
+2021-02-09,Tottenham Hotspur,5440
+2021-02-01,Tottenham Hotspur,9729
+2021-02-11,Tottenham Hotspur,8484
+2021-02-12,Tottenham Hotspur,5753
+2021-02-13,Tottenham Hotspur,11074
+2021-02-14,Tottenham Hotspur,6411
+2021-02-15,Tottenham Hotspur,5394
+2021-02-16,Tottenham Hotspur,5662
+2021-02-17,Tottenham Hotspur,5622
+2021-02-18,Tottenham Hotspur,6941
+2021-02-19,Tottenham Hotspur,5860
+2021-02-02,Tottenham Hotspur,6289
+2021-02-21,Tottenham Hotspur,9750
+2021-02-22,Tottenham Hotspur,5960
+2021-02-23,Tottenham Hotspur,6017
+2021-02-24,Tottenham Hotspur,10267
+2021-02-25,Tottenham Hotspur,8358
+2021-02-26,Tottenham Hotspur,7076
+2021-02-27,Tottenham Hotspur,5973
+2021-02-28,Tottenham Hotspur,12058
+2021-03-01,Tottenham Hotspur,8093
+2021-03-02,Tottenham Hotspur,6777
+2021-03-03,Tottenham Hotspur,5909
+2021-03-04,Tottenham Hotspur,7863
+2021-03-05,Tottenham Hotspur,5615
+2021-03-06,Tottenham Hotspur,5417
+2021-03-07,Tottenham Hotspur,11996
+2021-03-08,Tottenham Hotspur,9748
+2021-03-09,Tottenham Hotspur,6146
+2021-03-01,Tottenham Hotspur,6614
+2021-03-11,Tottenham Hotspur,9935
+2021-03-12,Tottenham Hotspur,7530
+2021-03-13,Tottenham Hotspur,7144
+2021-03-14,Tottenham Hotspur,14166
+2021-03-15,Tottenham Hotspur,7918
+2021-03-16,Tottenham Hotspur,6003
+2021-03-17,Tottenham Hotspur,5608
+2021-03-18,Tottenham Hotspur,12533
+2021-03-19,Tottenham Hotspur,11833
+2021-03-02,Tottenham Hotspur,7148
+2021-03-21,Tottenham Hotspur,10747
+2021-03-22,Tottenham Hotspur,7306
+2021-03-23,Tottenham Hotspur,5860
+2021-03-24,Tottenham Hotspur,5302
+2021-03-25,Tottenham Hotspur,4664
+2021-03-26,Tottenham Hotspur,4162
+2021-03-27,Tottenham Hotspur,4619
+2021-03-28,Tottenham Hotspur,5316
+2021-03-29,Tottenham Hotspur,4692
+2021-03-03,Tottenham Hotspur,4446
+2021-03-31,Tottenham Hotspur,4737
+2021-04-01,Tottenham Hotspur,4547
+2021-04-02,Tottenham Hotspur,4507
+2021-04-03,Tottenham Hotspur,5353
+2021-04-04,Tottenham Hotspur,9776
+2021-04-05,Tottenham Hotspur,6313
+2021-04-06,Tottenham Hotspur,5748
+2021-04-07,Tottenham Hotspur,5233
+2021-04-08,Tottenham Hotspur,5400
+2021-04-09,Tottenham Hotspur,4614
+2021-04-01,Tottenham Hotspur,5761
+2021-04-11,Tottenham Hotspur,13258
+2021-04-12,Tottenham Hotspur,8312
+2021-04-13,Tottenham Hotspur,6859
+2021-04-14,Tottenham Hotspur,6248
+2021-04-15,Tottenham Hotspur,6916
+2021-04-16,Tottenham Hotspur,9516
+2021-04-17,Tottenham Hotspur,8636
+2021-04-18,Tottenham Hotspur,13616
+2021-04-19,Tottenham Hotspur,79014
+2021-04-02,Tottenham Hotspur,56619
+2021-04-21,Tottenham Hotspur,41721
+2021-04-22,Tottenham Hotspur,20514
+2021-04-23,Tottenham Hotspur,15261
+2021-04-24,Tottenham Hotspur,13529
+2021-04-25,Tottenham Hotspur,36378
+2021-04-26,Tottenham Hotspur,19482
+2021-04-27,Tottenham Hotspur,12200
+2021-04-28,Tottenham Hotspur,10237
+2021-04-29,Tottenham Hotspur,8703
+2021-04-03,Tottenham Hotspur,7248
+2021-05-01,Tottenham Hotspur,6931
+2021-05-02,Tottenham Hotspur,13354
+2021-05-03,Tottenham Hotspur,10382
+2021-05-04,Tottenham Hotspur,12106
+2021-05-05,Tottenham Hotspur,10502
+2021-05-06,Tottenham Hotspur,10293
+2021-05-07,Tottenham Hotspur,8141
+2021-05-08,Tottenham Hotspur,12515
+2021-05-09,Tottenham Hotspur,7807
+2021-05-01,Tottenham Hotspur,6844
+2021-05-11,Tottenham Hotspur,7046
+2021-05-12,Tottenham Hotspur,7352
+2021-05-13,Tottenham Hotspur,6264
+2021-05-14,Tottenham Hotspur,6265
+2021-05-15,Tottenham Hotspur,9626
+2021-05-16,Tottenham Hotspur,12874
+2021-05-17,Tottenham Hotspur,11177
+2021-05-18,Tottenham Hotspur,12614
+2021-05-19,Tottenham Hotspur,13240
+2021-05-02,Tottenham Hotspur,11602
+2021-05-21,Tottenham Hotspur,9714
+2021-05-22,Tottenham Hotspur,8461
+2021-05-23,Tottenham Hotspur,16765
+2021-05-24,Tottenham Hotspur,13872
+2021-05-25,Tottenham Hotspur,10341
+2021-05-26,Tottenham Hotspur,10886
+2021-05-27,Tottenham Hotspur,12412
+2021-05-28,Tottenham Hotspur,8477
+2021-05-29,Tottenham Hotspur,11240
+2021-05-03,Tottenham Hotspur,10366
+2021-05-31,Tottenham Hotspur,8616
+2021-06-01,Tottenham Hotspur,8569
+2021-06-02,Tottenham Hotspur,9642
+2021-06-03,Tottenham Hotspur,8482
+2021-06-04,Tottenham Hotspur,8961
+2021-06-05,Tottenham Hotspur,7825
+2020-09-12,West Bromwich Albion,7554
+2020-09-13,West Bromwich Albion,20671
+2020-09-14,West Bromwich Albion,4994
+2020-09-15,West Bromwich Albion,5548
+2020-09-16,West Bromwich Albion,6141
+2020-09-17,West Bromwich Albion,3725
+2020-09-18,West Bromwich Albion,3694
+2020-09-19,West Bromwich Albion,13614
+2020-09-02,West Bromwich Albion,4437
+2020-09-21,West Bromwich Albion,3092
+2020-09-22,West Bromwich Albion,3192
+2020-09-23,West Bromwich Albion,2628
+2020-09-24,West Bromwich Albion,2444
+2020-09-25,West Bromwich Albion,2592
+2020-09-26,West Bromwich Albion,25967
+2020-09-27,West Bromwich Albion,5687
+2020-09-28,West Bromwich Albion,2841
+2020-09-29,West Bromwich Albion,3275
+2020-09-03,West Bromwich Albion,2346
+2020-10-01,West Bromwich Albion,1892
+2020-10-02,West Bromwich Albion,1894
+2020-10-03,West Bromwich Albion,2445
+2020-10-04,West Bromwich Albion,3555
+2020-10-05,West Bromwich Albion,2584
+2020-10-06,West Bromwich Albion,2925
+2020-10-07,West Bromwich Albion,2211
+2020-10-08,West Bromwich Albion,2165
+2020-10-09,West Bromwich Albion,1710
+2020-10-01,West Bromwich Albion,1521
+2020-10-11,West Bromwich Albion,1748
+2020-10-12,West Bromwich Albion,1758
+2020-10-13,West Bromwich Albion,1529
+2020-10-14,West Bromwich Albion,1633
+2020-10-15,West Bromwich Albion,1988
+2020-10-16,West Bromwich Albion,3054
+2020-10-17,West Bromwich Albion,2481
+2020-10-18,West Bromwich Albion,2390
+2020-10-19,West Bromwich Albion,5942
+2020-10-02,West Bromwich Albion,2317
+2020-10-21,West Bromwich Albion,1709
+2020-10-22,West Bromwich Albion,1519
+2020-10-23,West Bromwich Albion,1618
+2020-10-24,West Bromwich Albion,1775
+2020-10-25,West Bromwich Albion,1992
+2020-10-26,West Bromwich Albion,5715
+2020-10-27,West Bromwich Albion,2614
+2020-10-28,West Bromwich Albion,1604
+2020-10-29,West Bromwich Albion,1574
+2020-10-03,West Bromwich Albion,1795
+2020-10-31,West Bromwich Albion,1752
+2020-11-01,West Bromwich Albion,1822
+2020-11-02,West Bromwich Albion,4237
+2020-11-03,West Bromwich Albion,1809
+2020-11-04,West Bromwich Albion,1158
+2020-11-05,West Bromwich Albion,1218
+2020-11-06,West Bromwich Albion,1452
+2020-11-07,West Bromwich Albion,1892
+2020-11-08,West Bromwich Albion,8911
+2020-11-09,West Bromwich Albion,2552
+2020-11-01,West Bromwich Albion,1617
+2020-11-11,West Bromwich Albion,1475
+2020-11-12,West Bromwich Albion,1583
+2020-11-13,West Bromwich Albion,1283
+2020-11-14,West Bromwich Albion,1388
+2020-11-15,West Bromwich Albion,1465
+2020-11-16,West Bromwich Albion,1164
+2020-11-17,West Bromwich Albion,1158
+2020-11-18,West Bromwich Albion,1207
+2020-11-19,West Bromwich Albion,1322
+2020-11-02,West Bromwich Albion,1500
+2020-11-21,West Bromwich Albion,7650
+2020-11-22,West Bromwich Albion,3143
+2020-11-23,West Bromwich Albion,1993
+2020-11-24,West Bromwich Albion,1628
+2020-11-25,West Bromwich Albion,1351
+2020-11-26,West Bromwich Albion,1227
+2020-11-27,West Bromwich Albion,1339
+2020-11-28,West Bromwich Albion,5390
+2020-11-29,West Bromwich Albion,2587
+2020-11-03,West Bromwich Albion,1845
+2020-12-01,West Bromwich Albion,1375
+2020-12-02,West Bromwich Albion,1204
+2020-12-03,West Bromwich Albion,1102
+2020-12-04,West Bromwich Albion,1202
+2020-12-05,West Bromwich Albion,1720
+2020-12-06,West Bromwich Albion,5384
+2020-12-07,West Bromwich Albion,1775
+2020-12-08,West Bromwich Albion,1446
+2020-12-09,West Bromwich Albion,1209
+2020-12-01,West Bromwich Albion,1212
+2020-12-11,West Bromwich Albion,1291
+2020-12-12,West Bromwich Albion,5071
+2020-12-13,West Bromwich Albion,2276
+2020-12-14,West Bromwich Albion,1812
+2020-12-15,West Bromwich Albion,6548
+2020-12-16,West Bromwich Albion,13853
+2020-12-17,West Bromwich Albion,6533
+2020-12-18,West Bromwich Albion,3603
+2020-12-19,West Bromwich Albion,3382
+2020-12-02,West Bromwich Albion,8595
+2020-12-21,West Bromwich Albion,3767
+2020-12-22,West Bromwich Albion,2068
+2020-12-23,West Bromwich Albion,1920
+2020-12-24,West Bromwich Albion,1679
+2020-12-25,West Bromwich Albion,1632
+2020-12-26,West Bromwich Albion,2820
+2020-12-27,West Bromwich Albion,18580
+2020-12-28,West Bromwich Albion,5287
+2020-12-29,West Bromwich Albion,7125
+2020-12-03,West Bromwich Albion,3706
+2020-12-31,West Bromwich Albion,1983
+2021-01-01,West Bromwich Albion,2128
+2021-01-02,West Bromwich Albion,20937
+2021-01-03,West Bromwich Albion,6493
+2021-01-04,West Bromwich Albion,2965
+2021-01-05,West Bromwich Albion,2205
+2021-01-06,West Bromwich Albion,1995
+2021-01-07,West Bromwich Albion,1889
+2021-01-08,West Bromwich Albion,3284
+2021-01-09,West Bromwich Albion,4673
+2021-01-01,West Bromwich Albion,2963
+2021-01-11,West Bromwich Albion,2098
+2021-01-12,West Bromwich Albion,2069
+2021-01-13,West Bromwich Albion,1875
+2021-01-14,West Bromwich Albion,1883
+2021-01-15,West Bromwich Albion,2068
+2021-01-16,West Bromwich Albion,10429
+2021-01-17,West Bromwich Albion,3088
+2021-01-18,West Bromwich Albion,2086
+2021-01-19,West Bromwich Albion,4301
+2021-01-02,West Bromwich Albion,2136
+2021-01-21,West Bromwich Albion,1699
+2021-01-22,West Bromwich Albion,1730
+2021-01-23,West Bromwich Albion,2105
+2021-01-24,West Bromwich Albion,1793
+2021-01-25,West Bromwich Albion,2009
+2021-01-26,West Bromwich Albion,4697
+2021-01-27,West Bromwich Albion,2846
+2021-01-28,West Bromwich Albion,2076
+2021-01-29,West Bromwich Albion,2592
+2021-01-03,West Bromwich Albion,7202
+2021-01-31,West Bromwich Albion,2987
+2021-02-01,West Bromwich Albion,5026
+2021-02-02,West Bromwich Albion,7447
+2021-02-03,West Bromwich Albion,3222
+2021-02-04,West Bromwich Albion,2448
+2021-02-05,West Bromwich Albion,2213
+2021-02-06,West Bromwich Albion,2751
+2021-02-07,West Bromwich Albion,6692
+2021-02-08,West Bromwich Albion,2104
+2021-02-09,West Bromwich Albion,1866
+2021-02-01,West Bromwich Albion,1867
+2021-02-11,West Bromwich Albion,1652
+2021-02-12,West Bromwich Albion,1625
+2021-02-13,West Bromwich Albion,2104
+2021-02-14,West Bromwich Albion,15170
+2021-02-15,West Bromwich Albion,2780
+2021-02-16,West Bromwich Albion,1856
+2021-02-17,West Bromwich Albion,1630
+2021-02-18,West Bromwich Albion,1436
+2021-02-19,West Bromwich Albion,1517
+2021-02-02,West Bromwich Albion,4157
+2021-02-21,West Bromwich Albion,2322
+2021-02-22,West Bromwich Albion,1783
+2021-02-23,West Bromwich Albion,1599
+2021-02-24,West Bromwich Albion,2109
+2021-02-25,West Bromwich Albion,1632
+2021-02-26,West Bromwich Albion,1635
+2021-02-27,West Bromwich Albion,6411
+2021-02-28,West Bromwich Albion,2689
+2021-03-01,West Bromwich Albion,2249
+2021-03-02,West Bromwich Albion,1765
+2021-03-03,West Bromwich Albion,1955
+2021-03-04,West Bromwich Albion,3646
+2021-03-05,West Bromwich Albion,1855
+2021-03-06,West Bromwich Albion,2201
+2021-03-07,West Bromwich Albion,5819
+2021-03-08,West Bromwich Albion,1889
+2021-03-09,West Bromwich Albion,1550
+2021-03-01,West Bromwich Albion,1410
+2021-03-11,West Bromwich Albion,1467
+2021-03-12,West Bromwich Albion,1690
+2021-03-13,West Bromwich Albion,4481
+2021-03-14,West Bromwich Albion,2276
+2021-03-15,West Bromwich Albion,1713
+2021-03-16,West Bromwich Albion,1411
+2021-03-17,West Bromwich Albion,1436
+2021-03-18,West Bromwich Albion,1545
+2021-03-19,West Bromwich Albion,1383
+2021-03-02,West Bromwich Albion,1658
+2021-03-21,West Bromwich Albion,1670
+2021-03-22,West Bromwich Albion,1428
+2021-03-23,West Bromwich Albion,1573
+2021-03-24,West Bromwich Albion,1707
+2021-03-25,West Bromwich Albion,1880
+2021-03-26,West Bromwich Albion,1609
+2021-03-27,West Bromwich Albion,1550
+2021-03-28,West Bromwich Albion,1387
+2021-03-29,West Bromwich Albion,1272
+2021-03-03,West Bromwich Albion,1246
+2021-03-31,West Bromwich Albion,1386
+2021-04-01,West Bromwich Albion,1273
+2021-04-02,West Bromwich Albion,1500
+2021-04-03,West Bromwich Albion,10947
+2021-04-04,West Bromwich Albion,4198
+2021-04-05,West Bromwich Albion,2571
+2021-04-06,West Bromwich Albion,1926
+2021-04-07,West Bromwich Albion,1586
+2021-04-08,West Bromwich Albion,1343
+2021-04-09,West Bromwich Albion,1305
+2021-04-01,West Bromwich Albion,1974
+2021-04-11,West Bromwich Albion,1914
+2021-04-12,West Bromwich Albion,5695
+2021-04-13,West Bromwich Albion,2967
+2021-04-14,West Bromwich Albion,1512
+2021-04-15,West Bromwich Albion,1454
+2021-04-16,West Bromwich Albion,1468
+2021-04-17,West Bromwich Albion,1758
+2021-04-18,West Bromwich Albion,2063
+2021-04-19,West Bromwich Albion,2392
+2021-04-02,West Bromwich Albion,2427
+2021-04-21,West Bromwich Albion,2190
+2021-04-22,West Bromwich Albion,3884
+2021-04-23,West Bromwich Albion,2098
+2021-04-24,West Bromwich Albion,2005
+2021-04-25,West Bromwich Albion,4920
+2021-04-26,West Bromwich Albion,2423
+2021-04-27,West Bromwich Albion,1900
+2021-04-28,West Bromwich Albion,1668
+2021-04-29,West Bromwich Albion,1524
+2021-04-03,West Bromwich Albion,1449
+2021-05-01,West Bromwich Albion,1812
+2021-05-02,West Bromwich Albion,1754
+2021-05-03,West Bromwich Albion,5416
+2021-05-04,West Bromwich Albion,2267
+2021-05-05,West Bromwich Albion,1795
+2021-05-06,West Bromwich Albion,1602
+2021-05-07,West Bromwich Albion,1703
+2021-05-08,West Bromwich Albion,2196
+2021-05-09,West Bromwich Albion,9601
+2021-05-01,West Bromwich Albion,6122
+2021-05-11,West Bromwich Albion,3350
+2021-05-12,West Bromwich Albion,2207
+2021-05-13,West Bromwich Albion,1971
+2021-05-14,West Bromwich Albion,2444
+2021-05-15,West Bromwich Albion,3190
+2021-05-16,West Bromwich Albion,12759
+2021-05-17,West Bromwich Albion,3879
+2021-05-18,West Bromwich Albion,3084
+2021-05-19,West Bromwich Albion,4448
+2021-05-02,West Bromwich Albion,3793
+2021-05-21,West Bromwich Albion,2258
+2021-05-22,West Bromwich Albion,2192
+2021-05-23,West Bromwich Albion,3285
+2021-05-24,West Bromwich Albion,2742
+2021-05-25,West Bromwich Albion,2092
+2021-05-26,West Bromwich Albion,1818
+2021-05-27,West Bromwich Albion,2268
+2021-05-28,West Bromwich Albion,1887
+2021-05-29,West Bromwich Albion,2512
+2021-05-03,West Bromwich Albion,2385
+2021-05-31,West Bromwich Albion,2029
+2021-06-01,West Bromwich Albion,1877
+2021-06-02,West Bromwich Albion,1840
+2021-06-03,West Bromwich Albion,1717
+2021-06-04,West Bromwich Albion,2256
+2021-06-05,West Bromwich Albion,1530
+2020-09-12,West Ham United,11428
+2020-09-13,West Ham United,6227
+2020-09-14,West Ham United,4409
+2020-09-15,West Ham United,4488
+2020-09-16,West Ham United,3873
+2020-09-17,West Ham United,3289
+2020-09-18,West Ham United,3379
+2020-09-19,West Ham United,8843
+2020-09-02,West Ham United,4630
+2020-09-21,West Ham United,3237
+2020-09-22,West Ham United,4092
+2020-09-23,West Ham United,4136
+2020-09-24,West Ham United,3233
+2020-09-25,West Ham United,3042
+2020-09-26,West Ham United,3815
+2020-09-27,West Ham United,8901
+2020-09-28,West Ham United,5563
+2020-09-29,West Ham United,3439
+2020-09-03,West Ham United,3814
+2020-10-01,West Ham United,3097
+2020-10-02,West Ham United,3787
+2020-10-03,West Ham United,3489
+2020-10-04,West Ham United,14246
+2020-10-05,West Ham United,7463
+2020-10-06,West Ham United,6184
+2020-10-07,West Ham United,4408
+2020-10-08,West Ham United,3685
+2020-10-09,West Ham United,3153
+2020-10-01,West Ham United,2955
+2020-10-11,West Ham United,3699
+2020-10-12,West Ham United,4112
+2020-10-13,West Ham United,3684
+2020-10-14,West Ham United,3197
+2020-10-15,West Ham United,3141
+2020-10-16,West Ham United,6046
+2020-10-17,West Ham United,6014
+2020-10-18,West Ham United,12100
+2020-10-19,West Ham United,6775
+2020-10-02,West Ham United,3757
+2020-10-21,West Ham United,3059
+2020-10-22,West Ham United,2852
+2020-10-23,West Ham United,2934
+2020-10-24,West Ham United,10015
+2020-10-25,West Ham United,3789
+2020-10-26,West Ham United,3631
+2020-10-27,West Ham United,2923
+2020-10-28,West Ham United,2592
+2020-10-29,West Ham United,2477
+2020-10-03,West Ham United,2762
+2020-10-31,West Ham United,7034
+2020-11-01,West Ham United,3162
+2020-11-02,West Ham United,2745
+2020-11-03,West Ham United,2358
+2020-11-04,West Ham United,1939
+2020-11-05,West Ham United,2696
+2020-11-06,West Ham United,2393
+2020-11-07,West Ham United,4184
+2020-11-08,West Ham United,3768
+2020-11-09,West Ham United,3137
+2020-11-01,West Ham United,2305
+2020-11-11,West Ham United,2157
+2020-11-12,West Ham United,2571
+2020-11-13,West Ham United,2068
+2020-11-14,West Ham United,2012
+2020-11-15,West Ham United,2290
+2020-11-16,West Ham United,2186
+2020-11-17,West Ham United,2048
+2020-11-18,West Ham United,2174
+2020-11-19,West Ham United,2116
+2020-11-02,West Ham United,2088
+2020-11-21,West Ham United,2626
+2020-11-22,West Ham United,5499
+2020-11-23,West Ham United,2890
+2020-11-24,West Ham United,2391
+2020-11-25,West Ham United,2170
+2020-11-26,West Ham United,2206
+2020-11-27,West Ham United,2067
+2020-11-28,West Ham United,2366
+2020-11-29,West Ham United,3188
+2020-11-03,West Ham United,7337
+2020-12-01,West Ham United,3998
+2020-12-02,West Ham United,2457
+2020-12-03,West Ham United,2626
+2020-12-04,West Ham United,2741
+2020-12-05,West Ham United,10146
+2020-12-06,West Ham United,4058
+2020-12-07,West Ham United,2681
+2020-12-08,West Ham United,2347
+2020-12-09,West Ham United,2257
+2020-12-01,West Ham United,2331
+2020-12-11,West Ham United,6085
+2020-12-12,West Ham United,4799
+2020-12-13,West Ham United,3385
+2020-12-14,West Ham United,2870
+2020-12-15,West Ham United,2652
+2020-12-16,West Ham United,4869
+2020-12-17,West Ham United,3717
+2020-12-18,West Ham United,2680
+2020-12-19,West Ham United,3061
+2020-12-02,West Ham United,2988
+2020-12-21,West Ham United,7109
+2020-12-22,West Ham United,3286
+2020-12-23,West Ham United,2480
+2020-12-24,West Ham United,2194
+2020-12-25,West Ham United,2075
+2020-12-26,West Ham United,3113
+2020-12-27,West Ham United,9126
+2020-12-28,West Ham United,3516
+2020-12-29,West Ham United,4178
+2020-12-03,West Ham United,3023
+2020-12-31,West Ham United,2286
+2021-01-01,West Ham United,8412
+2021-01-02,West Ham United,4844
+2021-01-03,West Ham United,3396
+2021-01-04,West Ham United,2911
+2021-01-05,West Ham United,3030
+2021-01-06,West Ham United,2797
+2021-01-07,West Ham United,4014
+2021-01-08,West Ham United,5372
+2021-01-09,West Ham United,3909
+2021-01-01,West Ham United,3546
+2021-01-11,West Ham United,5955
+2021-01-12,West Ham United,4369
+2021-01-13,West Ham United,3538
+2021-01-14,West Ham United,3192
+2021-01-15,West Ham United,2873
+2021-01-16,West Ham United,6986
+2021-01-17,West Ham United,4319
+2021-01-18,West Ham United,3209
+2021-01-19,West Ham United,6856
+2021-01-02,West Ham United,4342
+2021-01-21,West Ham United,2966
+2021-01-22,West Ham United,3043
+2021-01-23,West Ham United,6991
+2021-01-24,West Ham United,4426
+2021-01-25,West Ham United,4122
+2021-01-26,West Ham United,8776
+2021-01-27,West Ham United,7628
+2021-01-28,West Ham United,6482
+2021-01-29,West Ham United,9386
+2021-01-03,West Ham United,9527
+2021-01-31,West Ham United,14376
+2021-02-01,West Ham United,5745
+2021-02-02,West Ham United,5274
+2021-02-03,West Ham United,8018
+2021-02-04,West Ham United,10229
+2021-02-05,West Ham United,5001
+2021-02-06,West Ham United,8473
+2021-02-07,West Ham United,4650
+2021-02-08,West Ham United,3523
+2021-02-09,West Ham United,13528
+2021-02-01,West Ham United,4244
+2021-02-11,West Ham United,3245
+2021-02-12,West Ham United,2710
+2021-02-13,West Ham United,3072
+2021-02-14,West Ham United,3123
+2021-02-15,West Ham United,8471
+2021-02-16,West Ham United,5488
+2021-02-17,West Ham United,3332
+2021-02-18,West Ham United,2967
+2021-02-19,West Ham United,2861
+2021-02-02,West Ham United,4000
+2021-02-21,West Ham United,15446
+2021-02-22,West Ham United,7245
+2021-02-23,West Ham United,5025
+2021-02-24,West Ham United,4614
+2021-02-25,West Ham United,4282
+2021-02-26,West Ham United,4740
+2021-02-27,West Ham United,10967
+2021-02-28,West Ham United,6605
+2021-03-01,West Ham United,4745
+2021-03-02,West Ham United,4091
+2021-03-03,West Ham United,3999
+2021-03-04,West Ham United,4043
+2021-03-05,West Ham United,3364
+2021-03-06,West Ham United,3592
+2021-03-07,West Ham United,3776
+2021-03-08,West Ham United,9099
+2021-03-09,West Ham United,8275
+2021-03-01,West Ham United,4507
+2021-03-11,West Ham United,3490
+2021-03-12,West Ham United,3490
+2021-03-13,West Ham United,3694
+2021-03-14,West Ham United,9899
+2021-03-15,West Ham United,4166
+2021-03-16,West Ham United,2903
+2021-03-17,West Ham United,2969
+2021-03-18,West Ham United,3102
+2021-03-19,West Ham United,3022
+2021-03-02,West Ham United,3332
+2021-03-21,West Ham United,10667
+2021-03-22,West Ham United,4162
+2021-03-23,West Ham United,3177
+2021-03-24,West Ham United,3113
+2021-03-25,West Ham United,3323
+2021-03-26,West Ham United,2639
+2021-03-27,West Ham United,2784
+2021-03-28,West Ham United,2627
+2021-03-29,West Ham United,2419
+2021-03-03,West Ham United,2338
+2021-03-31,West Ham United,2435
+2021-04-01,West Ham United,2220
+2021-04-02,West Ham United,2414
+2021-04-03,West Ham United,3320
+2021-04-04,West Ham United,3367
+2021-04-05,West Ham United,9441
+2021-04-06,West Ham United,8326
+2021-04-07,West Ham United,4384
+2021-04-08,West Ham United,3621
+2021-04-09,West Ham United,3561
+2021-04-01,West Ham United,4071
+2021-04-11,West Ham United,17639
+2021-04-12,West Ham United,8849
+2021-04-13,West Ham United,5758
+2021-04-14,West Ham United,3979
+2021-04-15,West Ham United,4197
+2021-04-16,West Ham United,4483
+2021-04-17,West Ham United,7833
+2021-04-18,West Ham United,4861
+2021-04-19,West Ham United,8107
+2021-04-02,West Ham United,8103
+2021-04-21,West Ham United,6164
+2021-04-22,West Ham United,4625
+2021-04-23,West Ham United,4780
+2021-04-24,West Ham United,11966
+2021-04-25,West Ham United,5579
+2021-04-26,West Ham United,4170
+2021-04-27,West Ham United,3650
+2021-04-28,West Ham United,3308
+2021-04-29,West Ham United,3002
+2021-04-03,West Ham United,2739
+2021-05-01,West Ham United,3231
+2021-05-02,West Ham United,3468
+2021-05-03,West Ham United,7285
+2021-05-04,West Ham United,5729
+2021-05-05,West Ham United,4137
+2021-05-06,West Ham United,3956
+2021-05-07,West Ham United,3573
+2021-05-08,West Ham United,4529
+2021-05-09,West Ham United,8918
+2021-05-01,West Ham United,4758
+2021-05-11,West Ham United,4311
+2021-05-12,West Ham United,4287
+2021-05-13,West Ham United,3873
+2021-05-14,West Ham United,3409
+2021-05-15,West Ham United,6066
+2021-05-16,West Ham United,4760
+2021-05-17,West Ham United,3835
+2021-05-18,West Ham United,3850
+2021-05-19,West Ham United,6265
+2021-05-02,West Ham United,6596
+2021-05-21,West Ham United,3994
+2021-05-22,West Ham United,3612
+2021-05-23,West Ham United,9671
+2021-05-24,West Ham United,7844
+2021-05-25,West Ham United,5114
+2021-05-26,West Ham United,4520
+2021-05-27,West Ham United,4086
+2021-05-28,West Ham United,3771
+2021-05-29,West Ham United,5173
+2021-05-03,West Ham United,4489
+2021-05-31,West Ham United,3992
+2021-06-01,West Ham United,4562
+2021-06-02,West Ham United,3964
+2021-06-03,West Ham United,3308
+2021-06-04,West Ham United,3751
+2021-06-05,West Ham United,3175
+2020-09-12,Wolverhampton Wanderers,7669
+2020-09-13,Wolverhampton Wanderers,6468
+2020-09-14,Wolverhampton Wanderers,17439
+2020-09-15,Wolverhampton Wanderers,9512
+2020-09-16,Wolverhampton Wanderers,6066
+2020-09-17,Wolverhampton Wanderers,5826
+2020-09-18,Wolverhampton Wanderers,18164
+2020-09-19,Wolverhampton Wanderers,19194
+2020-09-02,Wolverhampton Wanderers,15149
+2020-09-21,Wolverhampton Wanderers,21677
+2020-09-22,Wolverhampton Wanderers,10796
+2020-09-23,Wolverhampton Wanderers,32889
+2020-09-24,Wolverhampton Wanderers,12597
+2020-09-25,Wolverhampton Wanderers,7114
+2020-09-26,Wolverhampton Wanderers,6476
+2020-09-27,Wolverhampton Wanderers,9793
+2020-09-28,Wolverhampton Wanderers,6252
+2020-09-29,Wolverhampton Wanderers,4789
+2020-09-03,Wolverhampton Wanderers,3683
+2020-10-01,Wolverhampton Wanderers,3479
+2020-10-02,Wolverhampton Wanderers,3920
+2020-10-03,Wolverhampton Wanderers,4393
+2020-10-04,Wolverhampton Wanderers,8117
+2020-10-05,Wolverhampton Wanderers,5773
+2020-10-06,Wolverhampton Wanderers,5058
+2020-10-07,Wolverhampton Wanderers,4437
+2020-10-08,Wolverhampton Wanderers,4654
+2020-10-09,Wolverhampton Wanderers,3911
+2020-10-01,Wolverhampton Wanderers,3241
+2020-10-11,Wolverhampton Wanderers,3691
+2020-10-12,Wolverhampton Wanderers,2877
+2020-10-13,Wolverhampton Wanderers,3134
+2020-10-14,Wolverhampton Wanderers,3207
+2020-10-15,Wolverhampton Wanderers,3104
+2020-10-16,Wolverhampton Wanderers,3032
+2020-10-17,Wolverhampton Wanderers,3376
+2020-10-18,Wolverhampton Wanderers,3205
+2020-10-19,Wolverhampton Wanderers,12744
+2020-10-02,Wolverhampton Wanderers,7317
+2020-10-21,Wolverhampton Wanderers,3456
+2020-10-22,Wolverhampton Wanderers,3080
+2020-10-23,Wolverhampton Wanderers,2855
+2020-10-24,Wolverhampton Wanderers,3165
+2020-10-25,Wolverhampton Wanderers,10884
+2020-10-26,Wolverhampton Wanderers,3667
+2020-10-27,Wolverhampton Wanderers,2938
+2020-10-28,Wolverhampton Wanderers,2545
+2020-10-29,Wolverhampton Wanderers,2418
+2020-10-03,Wolverhampton Wanderers,9084
+2020-10-31,Wolverhampton Wanderers,7273
+2020-11-01,Wolverhampton Wanderers,4326
+2020-11-02,Wolverhampton Wanderers,3376
+2020-11-03,Wolverhampton Wanderers,5132
+2020-11-04,Wolverhampton Wanderers,4443
+2020-11-05,Wolverhampton Wanderers,3613
+2020-11-06,Wolverhampton Wanderers,3118
+2020-11-07,Wolverhampton Wanderers,3178
+2020-11-08,Wolverhampton Wanderers,7857
+2020-11-09,Wolverhampton Wanderers,4131
+2020-11-01,Wolverhampton Wanderers,3011
+2020-11-11,Wolverhampton Wanderers,2913
+2020-11-12,Wolverhampton Wanderers,3071
+2020-11-13,Wolverhampton Wanderers,2568
+2020-11-14,Wolverhampton Wanderers,2756
+2020-11-15,Wolverhampton Wanderers,2406
+2020-11-16,Wolverhampton Wanderers,2347
+2020-11-17,Wolverhampton Wanderers,2393
+2020-11-18,Wolverhampton Wanderers,2374
+2020-11-19,Wolverhampton Wanderers,1887
+2020-11-02,Wolverhampton Wanderers,1857
+2020-11-21,Wolverhampton Wanderers,2296
+2020-11-22,Wolverhampton Wanderers,2949
+2020-11-23,Wolverhampton Wanderers,6951
+2020-11-24,Wolverhampton Wanderers,3049
+2020-11-25,Wolverhampton Wanderers,2358
+2020-11-26,Wolverhampton Wanderers,1753
+2020-11-27,Wolverhampton Wanderers,1975
+2020-11-28,Wolverhampton Wanderers,2792
+2020-11-29,Wolverhampton Wanderers,12198
+2020-11-03,Wolverhampton Wanderers,7205
+2020-12-01,Wolverhampton Wanderers,3352
+2020-12-02,Wolverhampton Wanderers,2574
+2020-12-03,Wolverhampton Wanderers,2392
+2020-12-04,Wolverhampton Wanderers,2648
+2020-12-05,Wolverhampton Wanderers,2869
+2020-12-06,Wolverhampton Wanderers,8569
+2020-12-07,Wolverhampton Wanderers,3526
+2020-12-08,Wolverhampton Wanderers,2286
+2020-12-09,Wolverhampton Wanderers,1986
+2020-12-01,Wolverhampton Wanderers,2052
+2020-12-11,Wolverhampton Wanderers,2350
+2020-12-12,Wolverhampton Wanderers,7644
+2020-12-13,Wolverhampton Wanderers,3277
+2020-12-14,Wolverhampton Wanderers,2519
+2020-12-15,Wolverhampton Wanderers,11821
+2020-12-16,Wolverhampton Wanderers,6541
+2020-12-17,Wolverhampton Wanderers,3333
+2020-12-18,Wolverhampton Wanderers,2639
+2020-12-19,Wolverhampton Wanderers,2506
+2020-12-02,Wolverhampton Wanderers,2736
+2020-12-21,Wolverhampton Wanderers,6808
+2020-12-22,Wolverhampton Wanderers,3055
+2020-12-23,Wolverhampton Wanderers,2444
+2020-12-24,Wolverhampton Wanderers,2152
+2020-12-25,Wolverhampton Wanderers,2036
+2020-12-26,Wolverhampton Wanderers,3022
+2020-12-27,Wolverhampton Wanderers,14261
+2020-12-28,Wolverhampton Wanderers,5897
+2020-12-29,Wolverhampton Wanderers,13727
+2020-12-03,Wolverhampton Wanderers,5521
+2020-12-31,Wolverhampton Wanderers,3146
+2021-01-01,Wolverhampton Wanderers,3421
+2021-01-02,Wolverhampton Wanderers,11062
+2021-01-03,Wolverhampton Wanderers,4544
+2021-01-04,Wolverhampton Wanderers,3094
+2021-01-05,Wolverhampton Wanderers,2903
+2021-01-06,Wolverhampton Wanderers,3179
+2021-01-07,Wolverhampton Wanderers,4097
+2021-01-08,Wolverhampton Wanderers,4078
+2021-01-09,Wolverhampton Wanderers,3527
+2021-01-01,Wolverhampton Wanderers,2714
+2021-01-11,Wolverhampton Wanderers,2457
+2021-01-12,Wolverhampton Wanderers,4592
+2021-01-13,Wolverhampton Wanderers,3097
+2021-01-14,Wolverhampton Wanderers,2598
+2021-01-15,Wolverhampton Wanderers,2484
+2021-01-16,Wolverhampton Wanderers,9543
+2021-01-17,Wolverhampton Wanderers,4135
+2021-01-18,Wolverhampton Wanderers,2335
+2021-01-19,Wolverhampton Wanderers,2276
+2021-01-02,Wolverhampton Wanderers,2319
+2021-01-21,Wolverhampton Wanderers,2642
+2021-01-22,Wolverhampton Wanderers,4774
+2021-01-23,Wolverhampton Wanderers,5635
+2021-01-24,Wolverhampton Wanderers,3112
+2021-01-25,Wolverhampton Wanderers,2795
+2021-01-26,Wolverhampton Wanderers,2762
+2021-01-27,Wolverhampton Wanderers,5490
+2021-01-28,Wolverhampton Wanderers,3056
+2021-01-29,Wolverhampton Wanderers,2723
+2021-01-03,Wolverhampton Wanderers,4308
+2021-01-31,Wolverhampton Wanderers,3250
+2021-02-01,Wolverhampton Wanderers,3110
+2021-02-02,Wolverhampton Wanderers,7814
+2021-02-03,Wolverhampton Wanderers,4438
+2021-02-04,Wolverhampton Wanderers,3336
+2021-02-05,Wolverhampton Wanderers,2282
+2021-02-06,Wolverhampton Wanderers,3166
+2021-02-07,Wolverhampton Wanderers,6824
+2021-02-08,Wolverhampton Wanderers,2369
+2021-02-09,Wolverhampton Wanderers,2288
+2021-02-01,Wolverhampton Wanderers,2397
+2021-02-11,Wolverhampton Wanderers,3880
+2021-02-12,Wolverhampton Wanderers,2158
+2021-02-13,Wolverhampton Wanderers,2310
+2021-02-14,Wolverhampton Wanderers,5116
+2021-02-15,Wolverhampton Wanderers,2630
+2021-02-16,Wolverhampton Wanderers,2203
+2021-02-17,Wolverhampton Wanderers,2120
+2021-02-18,Wolverhampton Wanderers,2212
+2021-02-19,Wolverhampton Wanderers,5296
+2021-02-02,Wolverhampton Wanderers,3695
+2021-02-21,Wolverhampton Wanderers,2776
+2021-02-22,Wolverhampton Wanderers,2103
+2021-02-23,Wolverhampton Wanderers,2290
+2021-02-24,Wolverhampton Wanderers,2751
+2021-02-25,Wolverhampton Wanderers,2372
+2021-02-26,Wolverhampton Wanderers,2236
+2021-02-27,Wolverhampton Wanderers,4549
+2021-02-28,Wolverhampton Wanderers,3058
+2021-03-01,Wolverhampton Wanderers,2638
+2021-03-02,Wolverhampton Wanderers,6965
+2021-03-03,Wolverhampton Wanderers,3728
+2021-03-04,Wolverhampton Wanderers,2516
+2021-03-05,Wolverhampton Wanderers,2519
+2021-03-06,Wolverhampton Wanderers,5387
+2021-03-07,Wolverhampton Wanderers,2936
+2021-03-08,Wolverhampton Wanderers,2291
+2021-03-09,Wolverhampton Wanderers,2107
+2021-03-01,Wolverhampton Wanderers,2036
+2021-03-11,Wolverhampton Wanderers,2007
+2021-03-12,Wolverhampton Wanderers,2127
+2021-03-13,Wolverhampton Wanderers,2620
+2021-03-14,Wolverhampton Wanderers,2526
+2021-03-15,Wolverhampton Wanderers,10486
+2021-03-16,Wolverhampton Wanderers,4725
+2021-03-17,Wolverhampton Wanderers,2225
+2021-03-18,Wolverhampton Wanderers,2115
+2021-03-19,Wolverhampton Wanderers,1988
+2021-03-02,Wolverhampton Wanderers,2151
+2021-03-21,Wolverhampton Wanderers,2377
+2021-03-22,Wolverhampton Wanderers,2000
+2021-03-23,Wolverhampton Wanderers,1907
+2021-03-24,Wolverhampton Wanderers,2364
+2021-03-25,Wolverhampton Wanderers,2673
+2021-03-26,Wolverhampton Wanderers,2467
+2021-03-27,Wolverhampton Wanderers,2273
+2021-03-28,Wolverhampton Wanderers,2180
+2021-03-29,Wolverhampton Wanderers,1951
+2021-03-03,Wolverhampton Wanderers,1879
+2021-03-31,Wolverhampton Wanderers,1841
+2021-04-01,Wolverhampton Wanderers,1953
+2021-04-02,Wolverhampton Wanderers,1936
+2021-04-03,Wolverhampton Wanderers,2435
+2021-04-04,Wolverhampton Wanderers,2585
+2021-04-05,Wolverhampton Wanderers,5115
+2021-04-06,Wolverhampton Wanderers,2786
+2021-04-07,Wolverhampton Wanderers,2044
+2021-04-08,Wolverhampton Wanderers,1772
+2021-04-09,Wolverhampton Wanderers,3739
+2021-04-01,Wolverhampton Wanderers,3198
+2021-04-11,Wolverhampton Wanderers,2541
+2021-04-12,Wolverhampton Wanderers,2277
+2021-04-13,Wolverhampton Wanderers,2004
+2021-04-14,Wolverhampton Wanderers,2010
+2021-04-15,Wolverhampton Wanderers,1949
+2021-04-16,Wolverhampton Wanderers,1796
+2021-04-17,Wolverhampton Wanderers,3935
+2021-04-18,Wolverhampton Wanderers,3144
+2021-04-19,Wolverhampton Wanderers,4548
+2021-04-02,Wolverhampton Wanderers,5923
+2021-04-21,Wolverhampton Wanderers,3532
+2021-04-22,Wolverhampton Wanderers,2752
+2021-04-23,Wolverhampton Wanderers,2571
+2021-04-24,Wolverhampton Wanderers,2698
+2021-04-25,Wolverhampton Wanderers,6012
+2021-04-26,Wolverhampton Wanderers,2705
+2021-04-27,Wolverhampton Wanderers,2079
+2021-04-28,Wolverhampton Wanderers,2103
+2021-04-29,Wolverhampton Wanderers,1896
+2021-04-03,Wolverhampton Wanderers,1806
+2021-05-01,Wolverhampton Wanderers,2121
+2021-05-02,Wolverhampton Wanderers,2262
+2021-05-03,Wolverhampton Wanderers,4815
+2021-05-04,Wolverhampton Wanderers,2646
+2021-05-05,Wolverhampton Wanderers,2418
+2021-05-06,Wolverhampton Wanderers,2414
+2021-05-07,Wolverhampton Wanderers,2121
+2021-05-08,Wolverhampton Wanderers,2509
+2021-05-09,Wolverhampton Wanderers,6184
+2021-05-01,Wolverhampton Wanderers,2900
+2021-05-11,Wolverhampton Wanderers,2758
+2021-05-12,Wolverhampton Wanderers,2364
+2021-05-13,Wolverhampton Wanderers,2170
+2021-05-14,Wolverhampton Wanderers,2236
+2021-05-15,Wolverhampton Wanderers,3256
+2021-05-16,Wolverhampton Wanderers,6726
+2021-05-17,Wolverhampton Wanderers,2999
+2021-05-18,Wolverhampton Wanderers,2975
+2021-05-19,Wolverhampton Wanderers,3479
+2021-05-02,Wolverhampton Wanderers,2721
+2021-05-21,Wolverhampton Wanderers,10048
+2021-05-22,Wolverhampton Wanderers,4922
+2021-05-23,Wolverhampton Wanderers,9669
+2021-05-24,Wolverhampton Wanderers,6051
+2021-05-25,Wolverhampton Wanderers,4943
+2021-05-26,Wolverhampton Wanderers,3703
+2021-05-27,Wolverhampton Wanderers,2907
+2021-05-28,Wolverhampton Wanderers,2585
+2021-05-29,Wolverhampton Wanderers,3244
+2021-05-03,Wolverhampton Wanderers,3015
+2021-05-31,Wolverhampton Wanderers,2924
+2021-06-01,Wolverhampton Wanderers,3569
+2021-06-02,Wolverhampton Wanderers,4234
+2021-06-03,Wolverhampton Wanderers,3118
+2021-06-04,Wolverhampton Wanderers,3387
+2021-06-05,Wolverhampton Wanderers,2487

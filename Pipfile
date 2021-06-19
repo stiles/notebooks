@@ -20,6 +20,7 @@ altair = "*"
 altair-latimes = "*"
 altair-saver = "*"
 selenium = "*"
+pageviewapi = "*"
 
 [requires]
 python_version = "3.8"
