@@ -1,4 +1,4 @@
-date,location,administered,change,pct_change
+date,location,administered,daily_mean,pct_change
 2021-06-09,US,304753476,1004650.0,13.64
 2021-06-09,CA,39764396,161021.0,32.87
 2021-06-09,TX,23733581,79295.0,10.58
