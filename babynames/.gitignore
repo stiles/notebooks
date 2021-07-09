@@ -1,2 +1,3 @@
 /data/processed/*.csv
 /data/raw/*txt
+.DS_Store
