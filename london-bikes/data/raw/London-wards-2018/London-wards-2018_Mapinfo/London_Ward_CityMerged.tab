@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 6
+    NAME Char (95) ;
+    GSS_CODE Char (9) ;
+    DISTRICT Char (95) ;
+    LAGSSCODE Char (9) ;
+    HECTARES Decimal (12, 3) ;
+    NONLD_AREA Decimal (12, 3) ;
