@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9a98130e7d13f485ea735974691c3edbbcd10720aff7c585d63d5487ad4ef2b9"
+            "sha256": "44563a39a163fdc477a2a3975bad94ae678d70fed895ecea645c930e1bac7659"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -445,11 +445,11 @@
         },
         "jupyter-server": {
             "hashes": [
-                "sha256:b3eef770ffa34595ed26a6e4460866eaf0f4ff710eccc7648f701bb8c1d0443c",
-                "sha256:fe6b589bd8d8fe08f608e90ce7da1e6bbfd020d99897453b45149a7853e9188f"
+                "sha256:491c920013144a2d6f5286ab4038df6a081b32352c9c8b928ec8af17eb2a5e10",
+                "sha256:d3a3b68ebc6d7bfee1097f1712cf7709ee39c92379da2cc08724515bb85e72bf"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==1.10.1"
+            "version": "==1.10.2"
         },
         "jupyterlab": {
             "hashes": [
@@ -1215,6 +1215,14 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
             "version": "==1.26.6"
+        },
+        "vega-datasets": {
+            "hashes": [
+                "sha256:3d7c63917be6ca9b154b565f4779a31fedce57b01b5b9d99d8a34a7608062a1d",
+                "sha256:9dbe9834208e8ec32ab44970df315de9102861e4cda13d8e143aab7a80d93fc0"
+            ],
+            "index": "pypi",
+            "version": "==0.9.0"
         },
         "wcwidth": {
             "hashes": [
