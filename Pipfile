@@ -21,6 +21,7 @@ altair-saver = "*"
 selenium = "*"
 pageviewapi = "*"
 vega-datasets = "*"
+jenkspy = "*"
 
 [requires]
 python_version = "3.8"

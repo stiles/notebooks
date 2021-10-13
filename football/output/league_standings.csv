@@ -1,21 +1,21 @@
-rank,name,matches,wins,draws,losses,goals_for,goals_against,goal_diff,points,expected_goals_for,expected_goals_against,expected_goal_diff,expected_goals_diff_90mins,attendance,top_scorer,goalkeeper,updated
-1,Manchester City,38,27,5,6,83,32,51,86,73.3,31.3,42.0,1.11,526,İlkay Gündoğan - 13,Ederson,2021-06-06 08:55:22.344251
-2,Manchester Utd,38,21,11,6,73,44,29,74,60.2,42.2,18.0,0.47,526,Bruno Fernandes - 18,David de Gea,2021-06-06 08:55:22.344251
-3,Liverpool,38,20,9,9,68,42,26,69,72.6,45.4,27.3,0.72,837,Mohamed Salah - 22,Alisson,2021-06-06 08:55:22.344251
-4,Chelsea,38,19,10,9,58,36,22,67,64.0,32.8,31.2,0.82,526,Jorginho - 7,Edouard Mendy,2021-06-06 08:55:22.344251
-5,Leicester City,38,20,6,12,68,50,18,66,56.0,47.7,8.3,0.22,421,Jamie Vardy - 15,Kasper Schmeichel,2021-06-06 08:55:22.344251
-6,West Ham,38,19,8,11,62,47,15,65,54.0,48.3,5.7,0.15,632,"Tomáš Souček, Michail Antonio - 10",Łukasz Fabiański,2021-06-06 08:55:22.344251
-7,Tottenham,38,18,8,12,68,45,23,62,54.6,49.5,5.0,0.13,632,Harry Kane - 23,Hugo Lloris,2021-06-06 08:55:22.344251
-8,Arsenal,38,18,7,13,55,39,16,61,53.5,44.3,9.2,0.24,632,Alexandre Lacazette - 13,Bernd Leno,2021-06-06 08:55:22.344251
-9,Leeds United,38,18,5,15,62,54,8,59,57.5,62.9,-5.4,-0.14,421,Patrick Bamford - 17,Illan Meslier,2021-06-06 08:55:22.344251
-10,Everton,38,17,8,13,47,48,-1,59,47.0,51.2,-4.1,-0.11,368,Dominic Calvert-Lewin - 16,Jordan Pickford,2021-06-06 08:55:22.344251
-11,Aston Villa,38,16,7,15,55,46,9,55,53.0,52.9,0.2,0.0,526,Ollie Watkins - 14,Emiliano Martínez,2021-06-06 08:55:22.344251
-12,Newcastle Utd,38,12,9,17,46,62,-16,45,40.9,53.9,-13.1,-0.34,526,Callum Wilson - 12,Karl Darlow,2021-06-06 08:55:22.344251
-13,Wolves,38,12,9,17,36,52,-16,45,39.9,45.9,-6.0,-0.16,237,"Rúben Neves, Pedro Neto - 5",Rui Patrício,2021-06-06 08:55:22.344251
-14,Crystal Palace,38,12,8,18,41,66,-25,44,32.5,57.6,-25.1,-0.66,447,Wilfried Zaha - 11,Vicente Guaita,2021-06-06 08:55:22.344251
-15,Southampton,38,12,7,19,47,68,-21,43,42.4,54.3,-12.0,-0.31,526,Danny Ings - 12,Alex McCarthy,2021-06-06 08:55:22.344251
-16,Brighton,38,9,14,15,40,46,-6,41,51.6,37.7,13.9,0.37,523,Neal Maupay - 8,Robert Sánchez,2021-06-06 08:55:22.344251
-17,Burnley,38,10,9,19,33,55,-22,39,39.6,57.8,-18.1,-0.48,178,Chris Wood - 12,Nick Pope,2021-06-06 08:55:22.344251
-18,Fulham,38,5,13,20,27,53,-26,28,40.5,53.0,-12.5,-0.33,211,Bobby Reid - 5,Alphonse Areola,2021-06-06 08:55:22.344251
-19,West Brom,38,5,11,22,35,76,-41,26,33.8,67.7,-34.0,-0.89,283,Matheus Pereira - 11,Sam Johnstone,2021-06-06 08:55:22.344251
-20,Sheffield Utd,38,7,2,29,20,63,-43,23,31.5,62.0,-30.5,-0.8,263,David McGoldrick - 8,Aaron Ramsdale,2021-06-06 08:55:22.344251
+rank,name,matches,wins,draws,losses,goals_for,goals_against,goal_diff,points,expected_goals_for,expected_goals_against,expected_goal_diff,expected_goals_diff_90mins,last_five,attendance,top_scorer,goalkeeper,updated
+1,West Ham,3,2,1,0,10,5,5,7,6.0,2.9,3.1,1.03,W W D,59901,Michail Antonio - 4,Łukasz Fabiański,2021-08-29 09:49:20.290506
+2,Chelsea,3,2,1,0,6,1,5,7,4.6,3.3,1.3,0.45,W W D,38965,"Trevoh Chalobah, Reece James... - 1",Edouard Mendy,2021-08-29 09:49:20.290506
+3,Liverpool,3,2,1,0,6,1,5,7,7.6,2.9,4.7,1.56,W W D,52591,"Mohamed Salah, Diogo Jota - 2",Alisson,2021-08-29 09:49:20.290506
+4,Everton,3,2,1,0,7,3,4,7,6.1,3.2,2.9,0.97,W D W,38487,Dominic Calvert-Lewin - 3,Jordan Pickford,2021-08-29 09:49:20.290506
+5,Manchester City,3,2,0,1,10,1,9,6,8.4,1.5,6.9,2.3,L W W,51857,Ferrán Torres - 2,Ederson,2021-08-29 09:49:20.290506
+6,Tottenham,2,2,0,0,2,0,2,6,2.8,3.3,-0.5,-0.23,W W,58262,"Son Heung-min, Dele Alli - 1",Hugo Lloris,2021-08-29 09:49:20.290506
+7,Brighton,3,2,0,1,4,3,1,6,3.7,3.5,0.2,0.06,W W L,29485,Neal Maupay - 2,Robert Sánchez,2021-08-29 09:49:20.290506
+8,Leicester City,3,2,0,1,4,5,-1,6,2.8,5.3,-2.4,-0.81,W L W,31983,Jamie Vardy - 2,Kasper Schmeichel,2021-08-29 09:49:20.290506
+9,Brentford,3,1,2,0,3,1,2,5,3.4,2.7,0.7,0.22,W D D,16479,"Christian Nørgaard, Ivan Toney... - 1",David Raya,2021-08-29 09:49:20.290506
+10,Manchester Utd,2,1,1,0,6,2,4,4,2.9,1.4,1.5,0.76,W D,72732,Bruno Fernandes - 3,David de Gea,2021-08-29 09:49:20.290506
+11,Aston Villa,3,1,1,1,5,4,1,4,2.8,3.1,-0.3,-0.11,L W D,42005,Danny Ings - 2,Emiliano Martínez,2021-08-29 09:49:20.290506
+12,Watford,2,1,0,1,3,4,-1,3,2.0,2.6,-0.6,-0.29,W L,20051,"Ismaila Sarr, Cucho... - 1",Daniel Bachmann,2021-08-29 09:49:20.290506
+13,Southampton,3,0,2,1,4,6,-2,2,5.1,5.3,-0.2,-0.07,L D D,32000,"Mohamed Elyounoussi, Adam Armstrong... - 1",Alex McCarthy,2021-08-29 09:49:20.290506
+14,Crystal Palace,3,0,2,1,2,5,-3,2,1.5,3.0,-1.4,-0.47,L D D,23091,Conor Gallagher - 2,Vicente Guaita,2021-08-29 09:49:20.290506
+15,Newcastle Utd,3,0,1,2,4,8,-4,1,3.6,6.9,-3.3,-1.1,L L D,50673,Callum Wilson - 2,Freddie Woodman,2021-08-29 09:49:20.290506
+16,Leeds United,2,0,1,1,3,7,-4,1,2.1,3.6,-1.5,-0.73,L D,36293,"Luke Ayling, Mateusz Klich... - 1",Illan Meslier,2021-08-29 09:49:20.290506
+17,Wolves,2,0,0,2,0,2,-2,0,2.5,2.3,0.2,0.09,L L,30368,,José Sá,2021-08-29 09:49:20.290506
+18,Burnley,2,0,0,2,1,4,-3,0,1.9,4.2,-2.3,-1.15,L L,16910,James Tarkowski - 1,Nick Pope,2021-08-29 09:49:20.290506
+19,Norwich City,3,0,0,3,1,10,-9,0,3.1,6.0,-2.9,-0.96,L L L,26894,Teemu Pukki - 1,Tim Krul,2021-08-29 09:49:20.290506
+20,Arsenal,3,0,0,3,0,9,-9,0,1.9,8.0,-6.1,-2.03,L L L,58729,,Bernd Leno,2021-08-29 09:49:20.290506

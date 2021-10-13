@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "index": "status", "sat_commlink_portal": "conn_ok", "pcent_flt_complete": 9, "altVal": 35003, "lon": -155.733, "satcomm_status": null, "dtzone": "PDT", "within_us": true, "etad": "08:36 PM", "lat": 23.097, "gspdVal": 544, "ttgc": "4h 24m", "dist_remain": 2379, "actime24": "16:12" }, "geometry": { "type": "Point", "coordinates": [ -155.733, 23.097 ] } },
+{ "type": "Feature", "properties": { "index": "time", "sat_commlink_portal": "Fri Aug 13 22:45:52 2021", "pcent_flt_complete": 9, "altVal": 35003, "lon": -155.733, "satcomm_status": null, "dtzone": "PDT", "within_us": true, "etad": "08:36 PM", "lat": 23.097, "gspdVal": 544, "ttgc": "4h 24m", "dist_remain": 2379, "actime24": "16:12" }, "geometry": { "type": "Point", "coordinates": [ -155.733, 23.097 ] } },
+{ "type": "Feature", "properties": { "index": "commlink", "sat_commlink_portal": null, "pcent_flt_complete": 9, "altVal": 35003, "lon": -155.733, "satcomm_status": "active", "dtzone": "PDT", "within_us": true, "etad": "08:36 PM", "lat": 23.097, "gspdVal": 544, "ttgc": "4h 24m", "dist_remain": 2379, "actime24": "16:12" }, "geometry": { "type": "Point", "coordinates": [ -155.733, 23.097 ] } },
+{ "type": "Feature", "properties": { "index": "linkparams", "sat_commlink_portal": null, "pcent_flt_complete": 9, "altVal": 35003, "lon": -155.733, "satcomm_status": "not-stale", "dtzone": "PDT", "within_us": true, "etad": "08:36 PM", "lat": 23.097, "gspdVal": 544, "ttgc": "4h 24m", "dist_remain": 2379, "actime24": "16:12" }, "geometry": { "type": "Point", "coordinates": [ -155.733, 23.097 ] } }
+]
+}
