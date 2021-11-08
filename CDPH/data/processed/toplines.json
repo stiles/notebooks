@@ -1,0 +1,11 @@
+[
+    {
+        "update_date":"11\/08\/2021",
+        "total_penalties_initial":131994613.75,
+        "total_penalties_final":117682829.599999994,
+        "net_penalty_change":-14311784.1500000004,
+        "net_penalty_decrease":-19912260.6499999985,
+        "net_penalty_increase":5600476.5,
+        "facilities_w_penalty":2585
+    }
+]
