@@ -1,0 +1,153 @@
+usecode,usetype,usedescription
+0100,Residential,Single
+0101,Residential,Single
+0102,Residential,Single
+0103,Residential,Single
+0104,Residential,Single
+0106,Residential,Single
+0108,Residential,Single
+0109,Residential,Single
+010C,Residential,Single
+010E,Residential,Single
+010F,Residential,Single
+010G,Residential,Single
+010H,Residential,Single
+010V,Residential,Single
+010X,Residential,Single
+012C,Residential,Single
+0150,Residential,Single
+01HC,Residential,Single
+01HE,Residential,Single
+0200,Residential,Two Units
+0201,Residential,Two Units
+020G,Residential,Two Units
+020V,Residential,Two Units
+0300,Residential,Three Units (Any Combination)
+0301,Residential,Three Units (Any Combination)
+030V,Residential,Three Units (Any Combination)
+0400,Residential,Four Units (Any Combination)
+040C,Residential,Four Units (Any Combination)
+040V,Residential,Four Units (Any Combination)
+0500,Residential,Five or more apartments
+0501,Residential,Five or more apartments
+050G,Residential,Five or more apartments
+050V,Residential,Five or more apartments
+0521,Residential,Five or more apartments
+0530,Residential,Five or more apartments
+0540,Residential,Five or more apartments
+0550,Residential,Five or more apartments
+0551,Residential,Five or more apartments
+0553,Residential,Five or more apartments
+0555,Residential,Five or more apartments
+0556,Residential,Five or more apartments
+0557,Residential,Five or more apartments
+055G,Residential,Five or more apartments
+055X,Residential,Five or more apartments
+0800,Residential,Rooming Houses
+1009,Commercial,Commercial
+100G,Commercial,Commercial
+100V,Commercial,Commercial
+100X,Commercial,Commercial
+1016,Commercial,Commercial
+1100,Commercial,Stores
+110E,Commercial,Stores
+1200,Commercial,Store Combination
+1201,Commercial,Store Combination
+1202,Commercial,Store Combination
+120G,Commercial,Store Combination
+1210,Commercial,Store Combination
+1212,Commercial,Store Combination
+1216,Commercial,Store Combination
+1218,Commercial,Store Combination
+121G,Commercial,Store Combination
+121T,Commercial,Store Combination
+1400,Commercial,Supermarkets
+1401,Commercial,Supermarkets
+1420,Commercial,Supermarkets
+1500,Commercial,"Shopping Centers (Neighborhood, community)"
+1502,Commercial,"Shopping Centers (Neighborhood, community)"
+1700,Commercial,Office Buildings
+1702,Commercial,Office Buildings
+1703,Commercial,Office Buildings
+1704,Commercial,Office Buildings
+1705,Commercial,Office Buildings
+1706,Commercial,Office Buildings
+1707,Commercial,Office Buildings
+1708,Commercial,Office Buildings
+170G,Commercial,Office Buildings
+1720,Commercial,Office Buildings
+1800,Commercial,Hotel & Motels
+1802,Commercial,Hotel & Motels
+1810,Commercial,Hotel & Motels
+1814,Commercial,Hotel & Motels
+1815,Commercial,Hotel & Motels
+1820,Commercial,Hotel & Motels
+1821,Commercial,Hotel & Motels
+1822,Commercial,Hotel & Motels
+1833,Commercial,Hotel & Motels
+1850,Commercial,Hotel & Motels
+1900,Commercial,Professional Buildings
+1908,Commercial,Professional Buildings
+1910,Commercial,Professional Buildings
+1912,Commercial,Professional Buildings
+1920,Commercial,Professional Buildings
+200V,Commercial,Commercial
+2100,Commercial,"Restaurants, Cocktail Lounges"
+2110,Commercial,"Restaurants, Cocktail Lounges"
+2120,Commercial,"Restaurants, Cocktail Lounges"
+2200,Commercial,Wholesale & Manufacturing Outlets
+2300,Commercial,Banks Savings & Loan
+2302,Commercial,Banks Savings & Loan
+2400,Commercial,"Srvc Shps:Radio, TV, Refrig, Pnt Shp"
+2500,Commercial,Service Stations
+2503,Commercial,Service Stations
+250L,Commercial,Service Stations
+250V,Commercial,Service Stations
+2510,Commercial,Service Stations
+2600,Commercial,"Auto, Recreation EQPT, Construction EQPT, Sales & Service"
+2601,Commercial,"Auto, Recreation EQPT, Construction EQPT, Sales & Service"
+2610,Commercial,"Auto, Recreation EQPT, Construction EQPT, Sales & Service"
+2630,Commercial,"Auto, Recreation EQPT, Construction EQPT, Sales & Service"
+2640,Commercial,"Auto, Recreation EQPT, Construction EQPT, Sales & Service"
+2670,Commercial,"Auto, Recreation EQPT, Construction EQPT, Sales & Service"
+2700,Commercial,Parking Lots (Commercial Use Properties)
+2703,Commercial,Parking Lots (Commercial Use Properties)
+270V,Commercial,Parking Lots (Commercial Use Properties)
+270X,Commercial,Parking Lots (Commercial Use Properties)
+2710,Commercial,Parking Lots (Commercial Use Properties)
+2720,Commercial,Parking Lots (Commercial Use Properties)
+2730,Commercial,Parking Lots (Commercial Use Properties)
+2800,Commercial,Animal Kennels
+3020,Industrial,Industrial
+3100,Industrial,Lgt Manf.Sm. EQPT. Manuf Sm.Shps Instr.Manuf. Prnt Plnts
+3300,Industrial,"Warehousing, Distribution, Storage"
+3340,Industrial,"Warehousing, Distribution, Storage"
+3358,Industrial,"Warehousing, Distribution, Storage"
+33T4,Industrial,"Warehousing, Distribution, Storage"
+3400,Industrial,Food Processing Plants
+3500,Industrial,"Motion Picture, Radio & Television"
+6300,Recreational,Bowling Alleys
+6400,Recreational,"Clubs., Lodge Halls, Fraternal Organizations"
+6530,Recreational,Athletic & Amusement Facilities
+6540,Recreational,Athletic & Amusement Facilities
+7100,Institutional,Churches
+7108,Institutional,Churches
+7110,Institutional,Churches
+7200,Institutional,Schools (Private)
+7300,Institutional,"Colleges, Universities (Private)"
+7400,Institutional,Hospitals
+7500,Institutional,Homes For Aged & Others
+7501,Institutional,Homes For Aged & Others
+7502,Institutional,Homes For Aged & Others
+750V,Institutional,Homes For Aged & Others
+7800,Institutional,Miscellaneous
+800X,Miscellaneous,Miscellaneous
+8100,Miscellaneous,Utility Commercial & Mutual: Pumping Plants State Assessed Pr
+8800,Government,Government Parcel
+880V,Government,Government Parcel
+880X,Government,Government Parcel
+8826,Government,Government Parcel
+8830,Government,Government Parcel
+8833,Government,Government Parcel
+8866,Government,Government Parcel
+8899,Government,Government Parcel
