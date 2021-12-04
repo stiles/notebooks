@@ -23,6 +23,9 @@ pageviewapi = "*"
 vega-datasets = "*"
 jenkspy = "*"
 tornado = "*"
+census-data-downloader = "*"
+geopandas = "*"
+cython = "*"
 
 [requires]
 python_version = "3.8"
