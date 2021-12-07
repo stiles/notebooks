@@ -1,4 +1,17 @@
 date,bones_nobones,weekday,month,weekend
+2021-12-06,No bones,Monday,December,False
+2021-12-04,No bones,Saturday,December,True
+2021-12-03,Bones!,Friday,December,False
+2021-12-02,Bones!,Thursday,December,False
+2021-11-30,No bones,Tuesday,November,False
+2021-11-29,No bones,Monday,November,False
+2021-11-27,No bones,Saturday,November,True
+2021-11-25,Bones!,Thursday,November,False
+2021-11-24,Bones!,Wednesday,November,False
+2021-11-23,No bones,Tuesday,November,False
+2021-11-22,Bones!,Monday,November,False
+2021-11-21,Bones!,Sunday,November,True
+2021-11-19,No bones,Friday,November,False
 2021-11-18,Bones!,Thursday,November,False
 2021-11-16,Bones!,Tuesday,November,False
 2021-11-15,Bones!,Monday,November,False
@@ -81,4 +94,8 @@ date,bones_nobones,weekday,month,weekend
 2021-11-13,No video,Saturday,November,True
 2021-11-14,No video,Sunday,November,True
 2021-11-17,No video,Wednesday,November,False
-2021-11-19,No video,Friday,November,False
+2021-11-20,No video,Saturday,November,True
+2021-11-26,No video,Friday,November,False
+2021-11-28,No video,Sunday,November,True
+2021-12-01,No video,Wednesday,December,False
+2021-12-05,No video,Sunday,December,True
