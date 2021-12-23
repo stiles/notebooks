@@ -1,4 +1,4 @@
-year,president,president_party,house_net,senate_net,house_from,house_to,senate_from,senate_to,first_name,last_name,party_abbr,display_name
+year,president,president_party,House,senate_net,house_from,house_to,senate_from,senate_to,first_name,last_name,party_abbr,President
 2018,Donald Trump,Republican,-40,2,240,200,240,200,Donald,Trump,R,Trump (R) - 2018
 2014,Barack Obama,Democratic,-13,-9,201,188,201,188,Barack,Obama,D,Obama (D) - 2014
 2010,Barack Obama,Democratic,-63,-6,256,193,256,193,Barack,Obama,D,Obama (D) - 2010
