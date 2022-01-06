@@ -1,35 +1,35 @@
-state,incumbent,last_election,cook_rating,party
-Alabama,Richard Shelby,64.0% R,Solid R,R
-Alaska,Lisa Murkowski,44.4% R,Solid R,R
-Arizona,Mark Kelly,51.2% D,Tossup,D
-Arkansas,John Boozman,59.8% R,Solid R,R
-California,Alex Padilla,,Solid D,D
-Colorado,Michael Bennet,50.0% D,Solid D,D
-Connecticut,Richard Blumenthal,63.2% D,Solid D,D
-Florida,Marco Rubio,52.0% R,Lean R,R
-Georgia,Raphael Warnock,51.0% D,Tossup,D
-Hawaii,Brian Schatz,73.6% D,Solid D,D
-Idaho,Mike Crapo,66.1% R,Solid R,R
-Illinois,Tammy Duckworth,54.9% D,Solid D,D
-Indiana,Todd Young,52.1% R,Solid R,R
-Iowa,Chuck Grassley,60.1% R,Solid R,R
-Kansas,Jerry Moran,62.2% R,Solid R,R
-Kentucky,Rand Paul,57.3% R,Solid R,R
-Louisiana,John Kennedy,60.7% R,Solid R,R
-Maryland,Chris Van Hollen,60.9% D,Solid D,D
-Missouri,Roy Blunt,49.2% R,Solid R,R
-Nevada,Catherine Cortez Masto,47.1% D,Tossup,D
-New Hampshire,Maggie Hassan,48.0% D,Lean D,D
-New York,Chuck Schumer,70.6% D,Solid D,D
-North Carolina,Richard Burr,51.1% R,Tossup,R
-North Dakota,John Hoeven,78.5% R,Solid R,R
-Ohio,Rob Portman,58.0% R,Lean R,R
-Oklahoma,James Lankford,67.7% R,Solid R,R
-Oregon,Ron Wyden,56.6% D,Solid D,D
-Pennsylvania,Pat Toomey,48.8% R,Tossup,R
-South Carolina,Tim Scott,60.6% R,Solid R,R
-South Dakota,John Thune,71.8% R,Solid R,R
-Utah,Mike Lee,68.2% R,Solid R,R
-Vermont,Patrick Leahy,61.3% D,Solid D,D
-Washington,Patty Murray,58.8% D,Solid D,D
-Wisconsin,Ron Johnson,50.2% R,Tossup,R
+state,incumbent,cook_rating,incumbent_party,last_election_winner_margin,last_election_winner_party
+Alabama,Richard Shelby,Solid R,R,64.0,R
+Alaska,Lisa Murkowski,Solid R,R,44.4,R
+Arizona,Mark Kelly,Tossup,D,51.2,D
+Arkansas,John Boozman,Solid R,R,59.8,R
+California,Alex Padilla,Solid D,D,,
+Colorado,Michael Bennet,Solid D,D,50.0,D
+Connecticut,Richard Blumenthal,Solid D,D,63.2,D
+Florida,Marco Rubio,Lean R,R,52.0,R
+Georgia,Raphael Warnock,Tossup,D,51.0,D
+Hawaii,Brian Schatz,Solid D,D,73.6,D
+Idaho,Mike Crapo,Solid R,R,66.1,R
+Illinois,Tammy Duckworth,Solid D,D,54.9,D
+Indiana,Todd Young,Solid R,R,52.1,R
+Iowa,Chuck Grassley,Solid R,R,60.1,R
+Kansas,Jerry Moran,Solid R,R,62.2,R
+Kentucky,Rand Paul,Solid R,R,57.3,R
+Louisiana,John Kennedy,Solid R,R,60.7,R
+Maryland,Chris Van Hollen,Solid D,D,60.9,D
+Missouri,Roy Blunt,Solid R,R,49.2,R
+Nevada,Catherine Cortez Masto,Tossup,D,47.1,D
+New Hampshire,Maggie Hassan,Lean D,D,48.0,D
+New York,Chuck Schumer,Solid D,D,70.6,D
+North Carolina,Richard Burr,Tossup,R,51.1,R
+North Dakota,John Hoeven,Solid R,R,78.5,R
+Ohio,Rob Portman,Lean R,R,58.0,R
+Oklahoma,James Lankford,Solid R,R,67.7,R
+Oregon,Ron Wyden,Solid D,D,56.6,D
+Pennsylvania,Pat Toomey,Tossup,R,48.8,R
+South Carolina,Tim Scott,Solid R,R,60.6,R
+South Dakota,John Thune,Solid R,R,71.8,R
+Utah,Mike Lee,Solid R,R,68.2,R
+Vermont,Patrick Leahy,Solid D,D,61.3,D
+Washington,Patty Murray,Solid D,D,58.8,D
+Wisconsin,Ron Johnson,Tossup,R,50.2,R
