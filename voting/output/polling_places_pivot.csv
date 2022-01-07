@@ -1,676 +1,676 @@
-fips,place_clean,state_name,place_type,2012,2016,2020,change_16_20,pct_change_16_20
-0100100000,Autauga,Alabama,County,17.0,17.0,18.0,1.0,5.88
-0100300000,Baldwin,Alabama,County,46.0,87.0,50.0,-37.0,-42.53
-0100500000,Barbour,Alabama,County,17.0,21.0,16.0,-5.0,-23.81
-0100700000,Bibb,Alabama,County,8.0,16.0,8.0,-8.0,-50.0
-0100900000,Blount,Alabama,County,24.0,28.0,24.0,-4.0,-14.29
-0101100000,Bullock,Alabama,County,26.0,17.0,15.0,-2.0,-11.76
-0101300000,Butler,Alabama,County,22.0,22.0,22.0,0.0,0.0
-0101500000,Calhoun,Alabama,County,49.0,46.0,44.0,-2.0,-4.35
-0101700000,Chambers,Alabama,County,58.0,39.0,16.0,-23.0,-58.97
-0101900000,Cherokee,Alabama,County,23.0,23.0,23.0,0.0,0.0
-0102100000,Chilton,Alabama,County,19.0,19.0,18.0,-1.0,-5.26
-0102300000,Choctaw,Alabama,County,48.0,47.0,32.0,-15.0,-31.91
-0102500000,Clarke,Alabama,County,30.0,51.0,29.0,-22.0,-43.14
-0102700000,Clay,Alabama,County,23.0,25.0,15.0,-10.0,-40.0
-0102900000,Cleburne,Alabama,County,15.0,14.0,14.0,0.0,0.0
-0103100000,Coffee,Alabama,County,32.0,30.0,29.0,-1.0,-3.33
-0103300000,Colbert,Alabama,County,36.0,17.0,34.0,17.0,100.0
-0103500000,Conecuh,Alabama,County,32.0,29.0,27.0,-2.0,-6.9
-0103700000,Coosa,Alabama,County,12.0,21.0,12.0,-9.0,-42.86
-0103900000,Covington,Alabama,County,25.0,25.0,25.0,0.0,0.0
-0104100000,Crenshaw,Alabama,County,18.0,18.0,18.0,0.0,0.0
-0104300000,Cullman,Alabama,County,49.0,49.0,49.0,0.0,0.0
-0104500000,Dale,Alabama,County,20.0,20.0,19.0,-1.0,-5.0
-0104700000,Dallas,Alabama,County,29.0,30.0,29.0,-1.0,-3.33
-0104900000,Dekalb,Alabama,County,49.0,48.0,44.0,-4.0,-8.33
-0105100000,Elmore,Alabama,County,42.0,28.0,29.0,1.0,3.57
-0105300000,Escambia,Alabama,County,29.0,30.0,29.0,-1.0,-3.33
-0105500000,Etowah,Alabama,County,42.0,34.0,31.0,-3.0,-8.82
-0105700000,Fayette,Alabama,County,27.0,28.0,26.0,-2.0,-7.14
-0105900000,Franklin,Alabama,County,38.0,20.0,24.0,4.0,20.0
-0106100000,Geneva,Alabama,County,25.0,30.0,21.0,-9.0,-30.0
-0106300000,Greene,Alabama,County,14.0,14.0,14.0,0.0,0.0
-0106500000,Hale,Alabama,County,14.0,40.0,14.0,-26.0,-65.0
-0106700000,Henry,Alabama,County,15.0,29.0,14.0,-15.0,-51.72
-0106900000,Houston,Alabama,County,29.0,100.0,27.0,-73.0,-73.0
-0107100000,Jackson,Alabama,County,38.0,36.0,30.0,-6.0,-16.67
-0107300000,Jefferson,Alabama,County,180.0,352.0,172.0,-180.0,-51.14
-0107500000,Lamar,Alabama,County,25.0,25.0,25.0,0.0,0.0
-0107700000,Lauderdale,Alabama,County,31.0,34.0,31.0,-3.0,-8.82
-0107900000,Lawrence,Alabama,County,37.0,36.0,29.0,-7.0,-19.44
-0108100000,Lee,Alabama,County,23.0,46.0,22.0,-24.0,-52.17
-0108300000,Limestone,Alabama,County,24.0,25.0,25.0,0.0,0.0
-0108500000,Lowndes,Alabama,County,12.0,15.0,12.0,-3.0,-20.0
-0108700000,Macon,Alabama,County,15.0,15.0,14.0,-1.0,-6.67
-0108900000,Madison,Alabama,County,75.0,73.0,72.0,-1.0,-1.37
-0109100000,Marengo,Alabama,County,25.0,22.0,19.0,-3.0,-13.64
-0109300000,Marion,Alabama,County,23.0,23.0,20.0,-3.0,-13.04
-0109500000,Marshall,Alabama,County,38.0,47.0,28.0,-19.0,-40.43
-0109700000,Mobile,Alabama,County,98.0,90.0,85.0,-5.0,-5.56
-0109900000,Monroe,Alabama,County,31.0,76.0,29.0,-47.0,-61.84
-0110100000,Montgomery,Alabama,County,55.0,50.0,49.0,-1.0,-2.0
-0110300000,Morgan,Alabama,County,47.0,41.0,39.0,-2.0,-4.88
-0110500000,Perry,Alabama,County,15.0,15.0,12.0,-3.0,-20.0
-0110700000,Pickens,Alabama,County,28.0,24.0,19.0,-5.0,-20.83
-0110900000,Pike,Alabama,County,28.0,33.0,33.0,0.0,0.0
-0111100000,Randolph,Alabama,County,57.0,16.0,26.0,10.0,62.5
-0111300000,Russell,Alabama,County,17.0,17.0,17.0,0.0,0.0
-0111500000,St. Clair,Alabama,County,31.0,30.0,30.0,0.0,0.0
-0111700000,Shelby,Alabama,County,48.0,48.0,44.0,-4.0,-8.33
-0111900000,Sumter,Alabama,County,23.0,24.0,13.0,-11.0,-45.83
-0112100000,Talladega,Alabama,County,26.0,26.0,26.0,0.0,0.0
-0112300000,Tallapoosa,Alabama,County,25.0,29.0,26.0,-3.0,-10.34
-0112500000,Tuscaloosa,Alabama,County,54.0,55.0,54.0,-1.0,-1.82
-0112700000,Walker,Alabama,County,45.0,46.0,45.0,-1.0,-2.17
-0112900000,Washington,Alabama,County,19.0,31.0,19.0,-12.0,-38.71
-0113100000,Wilcox,Alabama,County,36.0,36.0,34.0,-2.0,-5.56
-0113300000,Winston,Alabama,County,21.0,18.0,18.0,0.0,0.0
-0200000000,Alaska,Alaska,Other,533.0,624.0,420.0,-204.0,-32.69
-0400100000,Apache,Arizona,County,52.0,47.0,44.0,-3.0,-6.38
-0400300000,Cochise,Arizona,County,50.0,21.0,17.0,-4.0,-19.05
-0400500000,Coconino,Arizona,County,71.0,68.0,46.0,-22.0,-32.35
-0400700000,Gila,Arizona,County,44.0,18.0,17.0,-1.0,-5.56
-0400900000,Graham,Arizona,County,19.0,10.0,9.0,-1.0,-10.0
-0401100000,Greenlee,Arizona,County,9.0,6.0,5.0,-1.0,-16.67
-0401200000,La Paz,Arizona,County,10.0,10.0,8.0,-2.0,-20.0
-0401300000,Maricopa,Arizona,County,697.0,676.0,175.0,-501.0,-74.11
-0401500000,Mohave,Arizona,County,73.0,39.0,36.0,-3.0,-7.69
-0401700000,Navajo,Arizona,County,59.0,48.0,39.0,-9.0,-18.75
-0401900000,Pima,Arizona,County,290.0,247.0,232.0,-15.0,-6.07
-0402100000,Pinal,Arizona,County,101.0,100.0,90.0,-10.0,-10.0
-0402300000,Santa Cruz,Arizona,County,18.0,16.0,13.0,-3.0,-18.75
-0402500000,Yavapai,Arizona,County,32.0,31.0,25.0,-6.0,-19.35
-0402700000,Yuma,Arizona,County,12.0,13.0,11.0,-2.0,-15.38
-1300100000,Appling,Georgia,County,,15.0,9.0,-6.0,-40.0
-1300300000,Atkinson,Georgia,County,,4.0,4.0,0.0,0.0
-1300500000,Bacon,Georgia,County,,5.0,1.0,-4.0,-80.0
-1300700000,Baker,Georgia,County,,6.0,5.0,-1.0,-16.67
-1300900000,Baldwin,Georgia,County,,15.0,14.0,-1.0,-6.67
-1301100000,Banks,Georgia,County,,14.0,6.0,-8.0,-57.14
-1301300000,Barrow,Georgia,County,,17.0,8.0,-9.0,-52.94
-1301500000,Bartow,Georgia,County,,19.0,16.0,-3.0,-15.79
-1301700000,Ben Hill,Georgia,County,,3.0,1.0,-2.0,-66.67
-1301900000,Berrien,Georgia,County,,6.0,5.0,-1.0,-16.67
-1302100000,Bibb,Georgia,County,,33.0,31.0,-2.0,-6.06
-1302300000,Bleckley,Georgia,County,,2.0,1.0,-1.0,-50.0
-1302500000,Brantley,Georgia,County,,4.0,3.0,-1.0,-25.0
-1302700000,Brooks,Georgia,County,,8.0,7.0,-1.0,-12.5
-1302900000,Bryan,Georgia,County,,12.0,10.0,-2.0,-16.67
-1303100000,Bulloch,Georgia,County,,10.0,16.0,6.0,60.0
-1303300000,Burke,Georgia,County,,17.0,16.0,-1.0,-5.88
-1303500000,Butts,Georgia,County,,6.0,1.0,-5.0,-83.33
-1303700000,Calhoun,Georgia,County,,6.0,5.0,-1.0,-16.67
-1303900000,Camden,Georgia,County,,17.0,12.0,-5.0,-29.41
-1304300000,Candler,Georgia,County,,2.0,1.0,-1.0,-50.0
-1304500000,Carroll,Georgia,County,,31.0,28.0,-3.0,-9.68
-1304700000,Catoosa,Georgia,County,,13.0,11.0,-2.0,-15.38
-1304900000,Charlton,Georgia,County,,10.0,8.0,-2.0,-20.0
-1305100000,Chatham,Georgia,County,,94.0,92.0,-2.0,-2.13
-1305300000,Chattahoochee,Georgia,County,,2.0,1.0,-1.0,-50.0
-1305500000,Chattooga,Georgia,County,,14.0,13.0,-1.0,-7.14
-1305700000,Cherokee,Georgia,County,,47.0,40.0,-7.0,-14.89
-1305900000,Clarke,Georgia,County,,25.0,24.0,-1.0,-4.0
-1306100000,Clay,Georgia,County,,2.0,1.0,-1.0,-50.0
-1306300000,Clayton,Georgia,County,,63.0,65.0,2.0,3.17
-1306500000,Clinch,Georgia,County,,6.0,5.0,-1.0,-16.67
-1306700000,Cobb,Georgia,County,,155.0,144.0,-11.0,-7.1
-1306900000,Coffee,Georgia,County,,7.0,6.0,-1.0,-14.29
-1307100000,Colquitt,Georgia,County,,20.0,19.0,-1.0,-5.0
-1307300000,Columbia,Georgia,County,,49.0,47.0,-2.0,-4.08
-1307500000,Cook,Georgia,County,,7.0,8.0,1.0,14.29
-1307700000,Coweta,Georgia,County,,30.0,26.0,-4.0,-13.33
-1307900000,Crawford,Georgia,County,,7.0,6.0,-1.0,-14.29
-1308100000,Crisp,Georgia,County,,7.0,5.0,-2.0,-28.57
-1308300000,Dade,Georgia,County,,7.0,7.0,0.0,0.0
-1308500000,Dawson,Georgia,County,,4.0,3.0,-1.0,-25.0
-1308700000,Decatur,Georgia,County,,11.0,9.0,-2.0,-18.18
-1308900000,Dekalb,Georgia,County,,183.0,164.0,-19.0,-10.38
-1309100000,Dodge,Georgia,County,,17.0,16.0,-1.0,-5.88
-1309300000,Dooly,Georgia,County,,6.0,5.0,-1.0,-16.67
-1309500000,Dougherty,Georgia,County,,30.0,28.0,-2.0,-6.67
-1309700000,Douglas,Georgia,County,,30.0,25.0,-5.0,-16.67
-1309900000,Early,Georgia,County,,5.0,5.0,0.0,0.0
-1310100000,Echols,Georgia,County,,2.0,1.0,-1.0,-50.0
-1310300000,Effingham,Georgia,County,,19.0,17.0,-2.0,-10.53
-1310500000,Elbert,Georgia,County,,12.0,11.0,-1.0,-8.33
-1310700000,Emanuel,Georgia,County,,12.0,11.0,-1.0,-8.33
-1310900000,Evans,Georgia,County,,2.0,1.0,-1.0,-50.0
-1311100000,Fannin,Georgia,County,,13.0,12.0,-1.0,-7.69
-1311300000,Fayette,Georgia,County,,39.0,36.0,-3.0,-7.69
-1311500000,Floyd,Georgia,County,,28.0,25.0,-3.0,-10.71
-1311700000,Forsyth,Georgia,County,,21.0,20.0,-1.0,-4.76
-1311900000,Franklin,Georgia,County,,8.0,7.0,-1.0,-12.5
-1312100000,Fulton,Georgia,County,,233.0,254.0,21.0,9.01
-1312300000,Gilmer,Georgia,County,,14.0,13.0,-1.0,-7.14
-1312500000,Glascock,Georgia,County,,5.0,4.0,-1.0,-20.0
-1312700000,Glynn,Georgia,County,,22.0,20.0,-2.0,-9.09
-1312900000,Gordon,Georgia,County,,13.0,12.0,-1.0,-7.69
-1313100000,Grady,Georgia,County,,14.0,9.0,-5.0,-35.71
-1313300000,Greene,Georgia,County,,8.0,4.0,-4.0,-50.0
-1313500000,Gwinnett,Georgia,County,,164.0,156.0,-8.0,-4.88
-1313700000,Habersham,Georgia,County,,10.0,7.0,-3.0,-30.0
-1313900000,Hall,Georgia,County,,35.0,31.0,-4.0,-11.43
-1314100000,Hancock,Georgia,County,,11.0,10.0,-1.0,-9.09
-1314300000,Haralson,Georgia,County,,13.0,12.0,-1.0,-7.69
-1314500000,Harris,Georgia,County,,13.0,12.0,-1.0,-7.69
-1314700000,Hart,Georgia,County,,8.0,7.0,-1.0,-12.5
-1314900000,Heard,Georgia,County,,8.0,6.0,-2.0,-25.0
-1315100000,Henry,Georgia,County,,40.0,37.0,-3.0,-7.5
-1315300000,Houston,Georgia,County,,20.0,16.0,-4.0,-20.0
-1315500000,Irwin,Georgia,County,,9.0,3.0,-6.0,-66.67
-1315700000,Jackson,Georgia,County,,19.0,4.0,-15.0,-78.95
-1315900000,Jasper,Georgia,County,,4.0,3.0,-1.0,-25.0
-1316100000,Jeff Davis,Georgia,County,,10.0,6.0,-4.0,-40.0
-1316300000,Jefferson,Georgia,County,,9.0,8.0,-1.0,-11.11
-1316500000,Jenkins,Georgia,County,,6.0,3.0,-3.0,-50.0
-1316700000,Johnson,Georgia,County,,5.0,4.0,-1.0,-20.0
-1316900000,Jones,Georgia,County,,11.0,10.0,-1.0,-9.09
-1317100000,Lamar,Georgia,County,,7.0,6.0,-1.0,-14.29
-1317300000,Lanier,Georgia,County,,5.0,1.0,-4.0,-80.0
-1317500000,Laurens,Georgia,County,,18.0,16.0,-2.0,-11.11
-1317700000,Lee,Georgia,County,,11.0,10.0,-1.0,-9.09
-1317900000,Liberty,Georgia,County,,14.0,13.0,-1.0,-7.14
-1318100000,Lincoln,Georgia,County,,8.0,7.0,-1.0,-12.5
-1318300000,Long,Georgia,County,,7.0,7.0,0.0,0.0
-1318500000,Lowndes,Georgia,County,,10.0,13.0,3.0,30.0
-1318700000,Lumpkin,Georgia,County,,2.0,1.0,-1.0,-50.0
-1318900000,Mcduffie,Georgia,County,,7.0,2.0,-5.0,-71.43
-1319100000,Mcintosh,Georgia,County,,7.0,6.0,-1.0,-14.29
-1319300000,Macon,Georgia,County,,6.0,5.0,-1.0,-16.67
-1319500000,Madison,Georgia,County,,13.0,12.0,-1.0,-7.69
-1319700000,Marion,Georgia,County,,6.0,5.0,-1.0,-16.67
-1319900000,Meriwether,Georgia,County,,15.0,14.0,-1.0,-6.67
-1320100000,Miller,Georgia,County,,2.0,1.0,-1.0,-50.0
-1320500000,Mitchell,Georgia,County,,12.0,11.0,-1.0,-8.33
-1320700000,Monroe,Georgia,County,,15.0,14.0,-1.0,-6.67
-1320900000,Montgomery,Georgia,County,,8.0,7.0,-1.0,-12.5
-1321100000,Morgan,Georgia,County,,8.0,7.0,-1.0,-12.5
-1321300000,Murray,Georgia,County,,8.0,7.0,-1.0,-12.5
-1321500000,Muscogee,Georgia,County,,27.0,25.0,-2.0,-7.41
-1321700000,Newton,Georgia,County,,24.0,22.0,-2.0,-8.33
-1321900000,Oconee,Georgia,County,,14.0,10.0,-4.0,-28.57
-1322100000,Oglethorpe,Georgia,County,,4.0,3.0,-1.0,-25.0
-1322300000,Paulding,Georgia,County,,18.0,19.0,1.0,5.56
-1322500000,Peach,Georgia,County,,8.0,7.0,-1.0,-12.5
-1322700000,Pickens,Georgia,County,,13.0,12.0,-1.0,-7.69
-1322900000,Pierce,Georgia,County,,3.0,2.0,-1.0,-33.33
-1323100000,Pike,Georgia,County,,9.0,8.0,-1.0,-11.11
-1323300000,Polk,Georgia,County,,9.0,7.0,-2.0,-22.22
-1323500000,Pulaski,Georgia,County,,2.0,1.0,-1.0,-50.0
-1323700000,Putnam,Georgia,County,,7.0,5.0,-2.0,-28.57
-1323900000,Quitman,Georgia,County,,3.0,2.0,-1.0,-33.33
-1324100000,Rabun,Georgia,County,,2.0,1.0,-1.0,-50.0
-1324300000,Randolph,Georgia,County,,10.0,6.0,-4.0,-40.0
-1324500000,Richmond,Georgia,County,,48.0,41.0,-7.0,-14.58
-1324700000,Rockdale,Georgia,County,,19.0,16.0,-3.0,-15.79
-1324900000,Schley,Georgia,County,,2.0,1.0,-1.0,-50.0
-1325100000,Screven,Georgia,County,,13.0,12.0,-1.0,-7.69
-1325300000,Seminole,Georgia,County,,6.0,5.0,-1.0,-16.67
-1325500000,Spalding,Georgia,County,,22.0,18.0,-4.0,-18.18
-1325700000,Stephens,Georgia,County,,2.0,1.0,-1.0,-50.0
-1325900000,Stewart,Georgia,County,,5.0,4.0,-1.0,-20.0
-1326100000,Sumter,Georgia,County,,12.0,11.0,-1.0,-8.33
-1326300000,Talbot,Georgia,County,,8.0,7.0,-1.0,-12.5
-1326500000,Taliaferro,Georgia,County,,3.0,2.0,-1.0,-33.33
-1326700000,Tattnall,Georgia,County,,11.0,8.0,-3.0,-27.27
-1326900000,Taylor,Georgia,County,,4.0,3.0,-1.0,-25.0
-1327100000,Telfair,Georgia,County,,7.0,6.0,-1.0,-14.29
-1327300000,Terrell,Georgia,County,,7.0,6.0,-1.0,-14.29
-1327500000,Thomas,Georgia,County,,21.0,17.0,-4.0,-19.05
-1327700000,Tift,Georgia,County,,13.0,12.0,-1.0,-7.69
-1327900000,Toombs,Georgia,County,,6.0,5.0,-1.0,-16.67
-1328100000,Towns,Georgia,Town,,5.0,3.0,-2.0,-40.0
-1328300000,Treutlen,Georgia,County,,2.0,2.0,0.0,0.0
-1328500000,Troup,Georgia,County,,16.0,14.0,-2.0,-12.5
-1328700000,Turner,Georgia,County,,4.0,3.0,-1.0,-25.0
-1328900000,Twiggs,Georgia,County,,6.0,5.0,-1.0,-16.67
-1329100000,Union,Georgia,County,,12.0,11.0,-1.0,-8.33
-1329300000,Upson,Georgia,County,,5.0,4.0,-1.0,-20.0
-1329500000,Walker,Georgia,County,,16.0,11.0,-5.0,-31.25
-1329700000,Walton,Georgia,County,,22.0,21.0,-1.0,-4.55
-1329900000,Ware,Georgia,County,,13.0,10.0,-3.0,-23.08
-1330100000,Warren,Georgia,County,,2.0,1.0,-1.0,-50.0
-1330300000,Washington,Georgia,County,,9.0,8.0,-1.0,-11.11
-1330500000,Wayne,Georgia,County,,13.0,7.0,-6.0,-46.15
-1330700000,Webster,Georgia,County,,2.0,1.0,-1.0,-50.0
-1330900000,Wheeler,Georgia,County,,3.0,2.0,-1.0,-33.33
-1331100000,White,Georgia,County,,12.0,11.0,-1.0,-8.33
-1331300000,Whitfield,Georgia,County,,24.0,23.0,-1.0,-4.17
-1331500000,Wilcox,Georgia,County,,6.0,6.0,0.0,0.0
-1331700000,Wilkes,Georgia,County,,8.0,7.0,-1.0,-12.5
-1331900000,Wilkinson,Georgia,County,,10.0,9.0,-1.0,-10.0
-1332100000,Worth,Georgia,County,,16.0,15.0,-1.0,-6.25
-4500100000,Abbeville,South Carolina,County,15.0,15.0,16.0,1.0,6.67
-4500300000,Aiken,South Carolina,County,77.0,93.0,73.0,-20.0,-21.51
-4500500000,Allendale,South Carolina,County,9.0,9.0,9.0,0.0,0.0
-4500700000,Anderson,South Carolina,County,78.0,80.0,75.0,-5.0,-6.25
-4500900000,Bamberg,South Carolina,County,14.0,13.0,13.0,0.0,0.0
-4501100000,Barnwell,South Carolina,County,16.0,9.0,9.0,0.0,0.0
-4501300000,Beaufort,South Carolina,County,87.0,66.0,56.0,-10.0,-15.15
-4501500000,Berkeley,South Carolina,County,58.0,56.0,60.0,4.0,7.14
-4501700000,Calhoun,South Carolina,County,13.0,13.0,13.0,0.0,0.0
-4501900000,Charleston,South Carolina,County,183.0,111.0,98.0,-13.0,-11.71
-4502100000,Cherokee,South Carolina,County,30.0,30.0,30.0,0.0,0.0
-4502300000,Chester,South Carolina,County,23.0,22.0,21.0,-1.0,-4.55
-4502500000,Chesterfield,South Carolina,County,26.0,26.0,26.0,0.0,0.0
-4502700000,Clarendon,South Carolina,County,26.0,26.0,19.0,-7.0,-26.92
-4502900000,Colleton,South Carolina,County,34.0,32.0,33.0,1.0,3.12
-4503100000,Darlington,South Carolina,County,33.0,35.0,33.0,-2.0,-5.71
-4503300000,Dillon,South Carolina,County,21.0,21.0,20.0,-1.0,-4.76
-4503500000,Dorchester,South Carolina,County,75.0,45.0,37.0,-8.0,-17.78
-4503700000,Edgefield,South Carolina,County,13.0,14.0,12.0,-2.0,-14.29
-4503900000,Fairfield,South Carolina,County,23.0,23.0,19.0,-4.0,-17.39
-4504100000,Florence,South Carolina,County,65.0,70.0,58.0,-12.0,-17.14
-4504300000,Georgetown,South Carolina,Town,35.0,35.0,32.0,-3.0,-8.57
-4504500000,Greenville,South Carolina,County,152.0,189.0,145.0,-44.0,-23.28
-4504700000,Greenwood,South Carolina,County,45.0,49.0,48.0,-1.0,-2.04
-4504900000,Hampton,South Carolina,County,19.0,19.0,16.0,-3.0,-15.79
-4505100000,Horry,South Carolina,County,121.0,125.0,122.0,-3.0,-2.4
-4505300000,Jasper,South Carolina,County,15.0,17.0,14.0,-3.0,-17.65
-4505500000,Kershaw,South Carolina,County,35.0,36.0,32.0,-4.0,-11.11
-4505700000,Lancaster,South Carolina,County,30.0,36.0,36.0,0.0,0.0
-4505900000,Laurens,South Carolina,County,35.0,36.0,34.0,-2.0,-5.56
-4506100000,Lee,South Carolina,County,23.0,23.0,19.0,-4.0,-17.39
-4506300000,Lexington,South Carolina,County,93.0,98.0,93.0,-5.0,-5.1
-4506500000,Mccormick,South Carolina,County,11.0,12.0,12.0,0.0,0.0
-4506700000,Marion,South Carolina,County,18.0,18.0,18.0,0.0,0.0
-4506900000,Marlboro,South Carolina,County,16.0,16.0,16.0,0.0,0.0
-4507100000,Newberry,South Carolina,County,31.0,31.0,30.0,-1.0,-3.23
-4507300000,Oconee,South Carolina,County,32.0,31.0,27.0,-4.0,-12.9
-4507500000,Orangeburg,South Carolina,County,54.0,61.0,49.0,-12.0,-19.67
-4507700000,Pickens,South Carolina,County,62.0,71.0,54.0,-17.0,-23.94
-4507900000,Richland,South Carolina,County,125.0,170.0,142.0,-28.0,-16.47
-4508100000,Saluda,South Carolina,County,19.0,19.0,16.0,-3.0,-15.79
-4508300000,Spartanburg,South Carolina,County,99.0,104.0,98.0,-6.0,-5.77
-4508500000,Sumter,South Carolina,County,59.0,59.0,50.0,-9.0,-15.25
-4508700000,Union,South Carolina,County,24.0,24.0,24.0,0.0,0.0
-4508900000,Williamsburg,South Carolina,County,29.0,29.0,29.0,0.0,0.0
-4509100000,York,South Carolina,County,90.0,94.0,89.0,-5.0,-5.32
-4600300000,Aurora,South Dakota,County,5.0,,3.0,,
-4600300000,Aurora,South Dakota,Other,,4.0,,,
-4600500000,Beadle,South Dakota,County,5.0,,4.0,,
-4600500000,Beadle,South Dakota,Other,,4.0,,,
-4600700000,Bennett,South Dakota,County,5.0,,4.0,,
-4600700000,Bennett,South Dakota,Other,,5.0,,,
-4600900000,Bon Homme,South Dakota,County,7.0,,5.0,,
-4600900000,Bon Homme,South Dakota,Other,,0.0,,,
-4601100000,Brookings,South Dakota,County,16.0,,11.0,,
-4601100000,Brookings,South Dakota,Other,,0.0,,,
-4601300000,Brown,South Dakota,County,23.0,,11.0,,
-4601300000,Brown,South Dakota,Other,,12.0,,,
-4601500000,Brule,South Dakota,County,6.0,,5.0,,
-4601500000,Brule,South Dakota,Other,,0.0,,,
-4601700000,Buffalo,South Dakota,County,5.0,,3.0,,
-4601700000,Buffalo,South Dakota,Other,,5.0,,,
-4601900000,Butte,South Dakota,County,4.0,,4.0,,
-4601900000,Butte,South Dakota,Other,,4.0,,,
-4602100000,Campbell,South Dakota,County,4.0,,5.0,,
-4602100000,Campbell,South Dakota,Other,,4.0,,,
-4602300000,Charles Mix,South Dakota,County,13.0,,9.0,,
-4602300000,Charles Mix,South Dakota,Other,,9.0,,,
-4602500000,Clark,South Dakota,County,9.0,,9.0,,
-4602500000,Clark,South Dakota,Other,,9.0,,,
-4602700000,Clay,South Dakota,County,6.0,,4.0,,
-4602700000,Clay,South Dakota,Other,,4.0,,,
-4602900000,Codington,South Dakota,County,11.0,,9.0,,
-4602900000,Codington,South Dakota,Other,,10.0,,,
-4603100000,Corson,South Dakota,County,10.0,,10.0,,
-4603100000,Corson,South Dakota,Other,,11.0,,,
-4603300000,Custer,South Dakota,County,10.0,,7.0,,
-4603300000,Custer,South Dakota,Other,,7.0,,,
-4603500000,Davison,South Dakota,County,4.0,,1.0,,
-4603500000,Davison,South Dakota,Other,,2.0,,,
-4603700000,Day,South Dakota,County,10.0,,9.0,,
-4603700000,Day,South Dakota,Other,,9.0,,,
-4603900000,Deuel,South Dakota,County,5.0,,6.0,,
-4603900000,Deuel,South Dakota,Other,,8.0,,,
-4604100000,Dewey,South Dakota,County,16.0,,11.0,,
-4604100000,Dewey,South Dakota,Other,,12.0,,,
-4604300000,Douglas,South Dakota,County,5.0,,6.0,,
-4604300000,Douglas,South Dakota,Other,,5.0,,,
-4604500000,Edmunds,South Dakota,County,5.0,,6.0,,
-4604500000,Edmunds,South Dakota,Other,,6.0,,,
-4604700000,Fall River,South Dakota,County,9.0,,5.0,,
-4604700000,Fall River,South Dakota,Other,,6.0,,,
-4604900000,Faulk,South Dakota,County,7.0,,6.0,,
-4604900000,Faulk,South Dakota,Other,,7.0,,,
-4605100000,Grant,South Dakota,County,19.0,,18.0,,
-4605100000,Grant,South Dakota,Other,,13.0,,,
-4605300000,Gregory,South Dakota,County,3.0,,3.0,,
-4605300000,Gregory,South Dakota,Other,,3.0,,,
-4605500000,Haakon,South Dakota,County,7.0,,4.0,,
-4605500000,Haakon,South Dakota,Other,,7.0,,,
-4605700000,Hamlin,South Dakota,County,7.0,,7.0,,
-4605700000,Hamlin,South Dakota,Other,,7.0,,,
-4605900000,Hand,South Dakota,County,10.0,,8.0,,
-4605900000,Hand,South Dakota,Other,,9.0,,,
-4606100000,Hanson,South Dakota,County,3.0,,4.0,,
-4606100000,Hanson,South Dakota,Other,,4.0,,,
-4606300000,Harding,South Dakota,County,8.0,,6.0,,
-4606300000,Harding,South Dakota,Other,,7.0,,,
-4606500000,Hughes,South Dakota,County,15.0,,6.0,,
-4606500000,Hughes,South Dakota,Other,,7.0,,,
-4606700000,Hutchinson,South Dakota,County,7.0,,7.0,,
-4606700000,Hutchinson,South Dakota,Other,,7.0,,,
-4606900000,Hyde,South Dakota,County,2.0,,3.0,,
-4606900000,Hyde,South Dakota,Other,,2.0,,,
-4607100000,Jackson,South Dakota,County,7.0,,8.0,,
-4607100000,Jackson,South Dakota,Other,,7.0,,,
-4607300000,Jerauld,South Dakota,County,6.0,,2.0,,
-4607300000,Jerauld,South Dakota,Other,,2.0,,,
-4607500000,Jones,South Dakota,County,,,2.0,,
-4607500000,Jones,South Dakota,Other,,3.0,,,
-4607700000,Kingsbury,South Dakota,County,8.0,,1.0,,
-4607700000,Kingsbury,South Dakota,Other,,6.0,,,
-4607900000,Lake,South Dakota,County,6.0,,7.0,,
-4607900000,Lake,South Dakota,Other,,6.0,,,
-4608100000,Lawrence,South Dakota,County,9.0,,7.0,,
-4608100000,Lawrence,South Dakota,Other,,9.0,,,
-4608300000,Lincoln,South Dakota,County,18.0,,22.0,,
-4608300000,Lincoln,South Dakota,Other,,18.0,,,
-4608500000,Lyman,South Dakota,County,8.0,,7.0,,
-4608500000,Lyman,South Dakota,Other,,7.0,,,
-4608700000,Mccook,South Dakota,County,5.0,,5.0,,
-4608700000,Mccook,South Dakota,Other,,6.0,,,
-4608900000,Mcpherson,South Dakota,County,4.0,,3.0,,
-4608900000,Mcpherson,South Dakota,Other,,7.0,,,
-4609100000,Marshall,South Dakota,County,10.0,,6.0,,
-4609100000,Marshall,South Dakota,Other,,9.0,,,
-4609300000,Meade,South Dakota,County,18.0,,15.0,,
-4609300000,Meade,South Dakota,Other,,18.0,,,
-4609500000,Mellette,South Dakota,County,4.0,,3.0,,
-4609500000,Mellette,South Dakota,Other,,3.0,,,
-4609700000,Miner,South Dakota,County,4.0,,1.0,,
-4609700000,Miner,South Dakota,Other,,5.0,,,
-4609900000,Minnehaha,South Dakota,County,71.0,,72.0,,
-4609900000,Minnehaha,South Dakota,Other,,71.0,,,
-4610100000,Moody,South Dakota,County,6.0,,3.0,,
-4610100000,Moody,South Dakota,Other,,5.0,,,
-4610200000,Oglala Lakota,South Dakota,County,,,9.0,,
-4610300000,Pennington,South Dakota,County,40.0,,31.0,,
-4610300000,Pennington,South Dakota,Other,,34.0,,,
-4610500000,Perkins,South Dakota,County,7.0,,7.0,,
-4610500000,Perkins,South Dakota,Other,,7.0,,,
-4610700000,Potter,South Dakota,County,2.0,,2.0,,
-4610700000,Potter,South Dakota,Other,,2.0,,,
-4610900000,Roberts,South Dakota,County,8.0,,9.0,,
-4610900000,Roberts,South Dakota,Other,,12.0,,,
-4611100000,Sanborn,South Dakota,County,4.0,,3.0,,
-4611100000,Sanborn,South Dakota,Other,,4.0,,,
-4611300000,Oglala Lakota,South Dakota,Other,,9.0,,,
-4611300000,Shannon,South Dakota,County,9.0,,,,
-4611500000,Spink,South Dakota,County,5.0,,7.0,,
-4611500000,Spink,South Dakota,Other,,7.0,,,
-4611700000,Stanley,South Dakota,County,3.0,,3.0,,
-4611700000,Stanley,South Dakota,Other,,4.0,,,
-4611900000,Sully,South Dakota,County,5.0,,3.0,,
-4611900000,Sully,South Dakota,Other,,4.0,,,
-4612100000,Todd,South Dakota,County,10.0,,8.0,,
-4612100000,Todd,South Dakota,Other,,9.0,,,
-4612300000,Tripp,South Dakota,County,8.0,,7.0,,
-4612300000,Tripp,South Dakota,Other,,7.0,,,
-4612500000,Turner,South Dakota,County,9.0,,8.0,,
-4612500000,Turner,South Dakota,Other,,9.0,,,
-4612700000,Union,South Dakota,County,8.0,,8.0,,
-4612700000,Union,South Dakota,Other,,8.0,,,
-4612900000,Walworth,South Dakota,County,4.0,,6.0,,
-4612900000,Walworth,South Dakota,Other,,7.0,,,
-4613500000,Yankton,South Dakota,County,7.0,,6.0,,
-4613500000,Yankton,South Dakota,Other,,7.0,,,
-4613700000,Ziebach,South Dakota,County,8.0,,6.0,,
-4613700000,Ziebach,South Dakota,Other,,6.0,,,
-4800100000,Anderson,Texas,County,23.0,23.0,22.0,-1.0,-4.35
-4800300000,Andrews,Texas,County,2.0,1.0,1.0,0.0,0.0
-4800500000,Angelina,Texas,County,35.0,27.0,30.0,3.0,11.11
-4800700000,Aransas,Texas,County,7.0,4.0,5.0,1.0,25.0
-4800900000,Archer,Texas,County,13.0,14.0,6.0,-8.0,-57.14
-4801100000,Armstrong,Texas,County,7.0,7.0,6.0,-1.0,-14.29
-4801300000,Atascosa,Texas,County,24.0,24.0,15.0,-9.0,-37.5
-4801500000,Austin,Texas,County,19.0,19.0,16.0,-3.0,-15.79
-4801700000,Bailey,Texas,County,2.0,2.0,1.0,-1.0,-50.0
-4801900000,Bandera,Texas,County,13.0,10.0,10.0,0.0,0.0
-4802100000,Bastrop,Texas,County,28.0,,22.0,,
-4802300000,Baylor,Texas,County,5.0,,4.0,,
-4802500000,Bee,Texas,County,,18.0,7.0,-11.0,-61.11
-4802700000,Bell,Texas,County,53.0,,41.0,,
-4802900000,Bexar,Texas,County,342.0,346.0,302.0,-44.0,-12.72
-4803100000,Blanco,Texas,County,7.0,,6.0,,
-4803300000,Borden,Texas,County,8.0,8.0,7.0,-1.0,-12.5
-4803500000,Bosque,Texas,County,15.0,12.0,11.0,-1.0,-8.33
-4803700000,Bowie,Texas,County,37.0,36.0,33.0,-3.0,-8.33
-4803900000,Brazoria,Texas,County,73.0,49.0,35.0,-14.0,-28.57
-4804100000,Brazos,Texas,County,41.0,30.0,25.0,-5.0,-16.67
-4804300000,Brewster,Texas,County,12.0,,7.0,,
-4804500000,Briscoe,Texas,County,6.0,4.0,4.0,0.0,0.0
-4804700000,Brooks,Texas,County,,6.0,5.0,-1.0,-16.67
-4804900000,Brown,Texas,County,17.0,17.0,18.0,1.0,5.88
-4805100000,Burleson,Texas,County,17.0,16.0,13.0,-3.0,-18.75
-4805300000,Burnet,Texas,County,22.0,20.0,21.0,1.0,5.0
-4805500000,Caldwell,Texas,County,27.0,16.0,17.0,1.0,6.25
-4805700000,Calhoun,Texas,County,24.0,23.0,14.0,-9.0,-39.13
-4805900000,Callahan,Texas,County,10.0,9.0,5.0,-4.0,-44.44
-4806100000,Cameron,Texas,County,104.0,104.0,73.0,-31.0,-29.81
-4806300000,Camp,Texas,County,5.0,,4.0,,
-4806500000,Carson,Texas,County,,8.0,8.0,0.0,0.0
-4806700000,Cass,Texas,County,19.0,18.0,13.0,-5.0,-27.78
-4806900000,Castro,Texas,County,9.0,,8.0,,
-4807100000,Chambers,Texas,County,18.0,18.0,12.0,-6.0,-33.33
-4807300000,Cherokee,Texas,County,28.0,26.0,25.0,-1.0,-3.85
-4807500000,Childress,Texas,County,5.0,5.0,4.0,-1.0,-20.0
-4807700000,Clay,Texas,County,17.0,,13.0,,
-4807900000,Cochran,Texas,County,6.0,,3.0,,
-4808100000,Coke,Texas,County,6.0,4.0,4.0,0.0,0.0
-4808300000,Coleman,Texas,County,6.0,6.0,4.0,-2.0,-33.33
-4808500000,Collin,Texas,County,25.0,107.0,102.0,-5.0,-4.67
-4808700000,Collingsworth,Texas,County,8.0,8.0,7.0,-1.0,-12.5
-4808900000,Colorado,Texas,County,13.0,13.0,12.0,-1.0,-7.69
-4809100000,Comal,Texas,County,26.0,27.0,24.0,-3.0,-11.11
-4809300000,Comanche,Texas,County,16.0,14.0,12.0,-2.0,-14.29
-4809500000,Concho,Texas,County,9.0,9.0,9.0,0.0,0.0
-4809700000,Cooke,Texas,County,17.0,17.0,29.0,12.0,70.59
-4809900000,Coryell,Texas,County,17.0,8.0,8.0,0.0,0.0
-4810100000,Cottle,Texas,County,,6.0,5.0,-1.0,-16.67
-4810300000,Crane,Texas,County,5.0,5.0,4.0,-1.0,-20.0
-4810500000,Crockett,Texas,County,5.0,4.0,4.0,0.0,0.0
-4810700000,Crosby,Texas,County,5.0,,4.0,,
-4810900000,Culberson,Texas,County,6.0,6.0,5.0,-1.0,-16.67
-4811100000,Dallam,Texas,County,,3.0,4.0,1.0,33.33
-4811300000,Dallas,Texas,County,514.0,535.0,464.0,-71.0,-13.27
-4811500000,Dawson,Texas,County,10.0,,9.0,,
-4811700000,Deaf Smith,Texas,County,5.0,,4.0,,
-4811900000,Delta,Texas,County,8.0,,7.0,,
-4812100000,Denton,Texas,County,117.0,135.0,156.0,21.0,15.56
-4812300000,Dewitt,Texas,County,9.0,11.0,7.0,-4.0,-36.36
-4812500000,Dickens,Texas,County,7.0,,7.0,,
-4812700000,Dimmit,Texas,County,8.0,,1.0,,
-4812900000,Donley,Texas,County,7.0,7.0,6.0,-1.0,-14.29
-4813100000,Duval,Texas,County,12.0,9.0,9.0,0.0,0.0
-4813300000,Eastland,Texas,County,10.0,9.0,9.0,0.0,0.0
-4813500000,Ector,Texas,County,33.0,25.0,25.0,0.0,0.0
-4813700000,Edwards,Texas,County,6.0,6.0,5.0,-1.0,-16.67
-4813900000,Ellis,Texas,County,44.0,44.0,36.0,-8.0,-18.18
-4814100000,El Paso,Texas,County,,219.0,151.0,-68.0,-31.05
-4814300000,Erath,Texas,County,13.0,12.0,10.0,-2.0,-16.67
-4814500000,Falls,Texas,County,14.0,,13.0,,
-4814700000,Fannin,Texas,County,17.0,17.0,16.0,-1.0,-5.88
-4814900000,Fayette,Texas,County,27.0,27.0,27.0,0.0,0.0
-4815100000,Fisher,Texas,County,11.0,6.0,4.0,-2.0,-33.33
-4815300000,Floyd,Texas,County,4.0,2.0,2.0,0.0,0.0
-4815500000,Foard,Texas,County,3.0,2.0,4.0,2.0,100.0
-4815700000,Fort Bend,Texas,County,,83.0,85.0,2.0,2.41
-4815900000,Franklin,Texas,County,9.0,9.0,8.0,-1.0,-11.11
-4816100000,Freestone,Texas,County,22.0,21.0,15.0,-6.0,-28.57
-4816300000,Frio,Texas,County,20.0,10.0,9.0,-1.0,-10.0
-4816500000,Gaines,Texas,County,6.0,6.0,4.0,-2.0,-33.33
-4816700000,Galveston,Texas,County,62.0,55.0,46.0,-9.0,-16.36
-4816900000,Garza,Texas,County,7.0,7.0,6.0,-1.0,-14.29
-4817100000,Gillespie,Texas,County,14.0,14.0,13.0,-1.0,-7.14
-4817300000,Glasscock,Texas,County,5.0,4.0,4.0,0.0,0.0
-4817500000,Goliad,Texas,County,10.0,9.0,9.0,0.0,0.0
-4817700000,Gonzales,Texas,County,17.0,,14.0,,
-4817900000,Gray,Texas,County,8.0,8.0,7.0,-1.0,-12.5
-4818100000,Grayson,Texas,County,41.0,28.0,26.0,-2.0,-7.14
-4818300000,Gregg,Texas,County,29.0,32.0,18.0,-14.0,-43.75
-4818500000,Grimes,Texas,County,16.0,15.0,10.0,-5.0,-33.33
-4818700000,Guadalupe,Texas,County,40.0,42.0,35.0,-7.0,-16.67
-4818900000,Hale,Texas,County,19.0,19.0,15.0,-4.0,-21.05
-4819100000,Hall,Texas,County,5.0,,4.0,,
-4819300000,Hamilton,Texas,County,12.0,10.0,9.0,-1.0,-10.0
-4819500000,Hansford,Texas,County,10.0,,8.0,,
-4819700000,Hardeman,Texas,County,6.0,6.0,4.0,-2.0,-33.33
-4819900000,Hardin,Texas,County,23.0,19.0,19.0,0.0,0.0
-4820100000,Harris,Texas,County,813.0,786.0,797.0,11.0,1.4
-4820300000,Harrison,Texas,County,33.0,36.0,26.0,-10.0,-27.78
-4820500000,Hartley,Texas,County,5.0,4.0,3.0,-1.0,-25.0
-4820700000,Haskell,Texas,County,,11.0,10.0,-1.0,-9.09
-4820900000,Hays,Texas,County,48.0,36.0,36.0,0.0,0.0
-4821100000,Hemphill,Texas,County,,9.0,8.0,-1.0,-11.11
-4821300000,Henderson,Texas,County,29.0,29.0,24.0,-5.0,-17.24
-4821500000,Hidalgo,Texas,County,104.0,109.0,75.0,-34.0,-31.19
-4821700000,Hill,Texas,County,23.0,23.0,22.0,-1.0,-4.35
-4821900000,Hockley,Texas,County,18.0,14.0,14.0,0.0,0.0
-4822100000,Hood,Texas,County,,11.0,10.0,-1.0,-9.09
-4822300000,Hopkins,Texas,County,22.0,,12.0,,
-4822500000,Houston,Texas,County,22.0,23.0,21.0,-2.0,-8.7
-4822700000,Howard,Texas,County,7.0,7.0,7.0,0.0,0.0
-4822900000,Hudspeth,Texas,County,8.0,,5.0,,
-4823100000,Hunt,Texas,County,35.0,34.0,34.0,0.0,0.0
-4823300000,Hutchinson,Texas,County,11.0,11.0,8.0,-3.0,-27.27
-4823500000,Irion,Texas,County,3.0,2.0,2.0,0.0,0.0
-4823700000,Jack,Texas,County,7.0,7.0,4.0,-3.0,-42.86
-4823900000,Jackson,Texas,County,10.0,10.0,10.0,0.0,0.0
-4824100000,Jasper,Texas,County,25.0,21.0,20.0,-1.0,-4.76
-4824300000,Jeff Davis,Texas,County,6.0,6.0,5.0,-1.0,-16.67
-4824500000,Jefferson,Texas,County,69.0,51.0,40.0,-11.0,-21.57
-4824700000,Jim Hogg,Texas,County,5.0,6.0,4.0,-2.0,-33.33
-4824900000,Jim Wells,Texas,County,25.0,26.0,21.0,-5.0,-19.23
-4825100000,Johnson,Texas,County,37.0,37.0,34.0,-3.0,-8.11
-4825300000,Jones,Texas,County,13.0,14.0,7.0,-7.0,-50.0
-4825500000,Karnes,Texas,County,,15.0,14.0,-1.0,-6.67
-4825700000,Kaufman,Texas,County,34.0,35.0,26.0,-9.0,-25.71
-4825900000,Kendall,Texas,County,20.0,13.0,11.0,-2.0,-15.38
-4826100000,Kenedy,Texas,County,7.0,7.0,6.0,-1.0,-14.29
-4826300000,Kent,Texas,County,7.0,7.0,5.0,-2.0,-28.57
-4826500000,Kerr,Texas,County,22.0,22.0,20.0,-2.0,-9.09
-4826700000,Kimble,Texas,County,5.0,4.0,4.0,0.0,0.0
-4826900000,King,Texas,County,5.0,5.0,4.0,-1.0,-20.0
-4827100000,Kinney,Texas,County,,,4.0,,
-4827300000,Kleberg,Texas,County,13.0,18.0,17.0,-1.0,-5.56
-4827500000,Knox,Texas,County,7.0,,4.0,,
-4827700000,Lamar,Texas,County,34.0,32.0,27.0,-5.0,-15.62
-4827900000,Lamb,Texas,County,10.0,7.0,6.0,-1.0,-14.29
-4828100000,Lampasas,Texas,County,6.0,6.0,5.0,-1.0,-16.67
-4828300000,La Salle,Texas,County,6.0,8.0,4.0,-4.0,-50.0
-4828500000,Lavaca,Texas,County,20.0,20.0,19.0,-1.0,-5.0
-4828700000,Lee,Texas,County,16.0,11.0,8.0,-3.0,-27.27
-4828900000,Leon,Texas,County,15.0,15.0,14.0,-1.0,-6.67
-4829100000,Liberty,Texas,County,34.0,,20.0,,
-4829300000,Limestone,Texas,County,23.0,23.0,21.0,-2.0,-8.7
-4829500000,Lipscomb,Texas,County,,8.0,4.0,-4.0,-50.0
-4829700000,Live Oak,Texas,County,15.0,,14.0,,
-4829900000,Llano,Texas,County,12.0,12.0,9.0,-3.0,-25.0
-4830100000,Loving,Texas,County,5.0,5.0,4.0,-1.0,-20.0
-4830300000,Lubbock,Texas,County,63.0,66.0,42.0,-24.0,-36.36
-4830500000,Lynn,Texas,County,11.0,11.0,5.0,-6.0,-54.55
-4830700000,Mcculloch,Texas,County,8.0,10.0,9.0,-1.0,-10.0
-4830900000,Mclennan,Texas,County,64.0,33.0,34.0,1.0,3.03
-4831100000,Mcmullen,Texas,County,5.0,5.0,3.0,-2.0,-40.0
-4831300000,Madison,Texas,County,6.0,8.0,5.0,-3.0,-37.5
-4831500000,Marion,Texas,County,11.0,11.0,7.0,-4.0,-36.36
-4831700000,Martin,Texas,County,4.0,3.0,2.0,-1.0,-33.33
-4831900000,Mason,Texas,County,5.0,4.0,4.0,0.0,0.0
-4832100000,Matagorda,Texas,County,20.0,20.0,13.0,-7.0,-35.0
-4832300000,Maverick,Texas,County,15.0,15.0,14.0,-1.0,-6.67
-4832500000,Medina,Texas,County,16.0,,7.0,,
-4832700000,Menard,Texas,County,4.0,4.0,3.0,-1.0,-25.0
-4832900000,Midland,Texas,County,25.0,25.0,22.0,-3.0,-12.0
-4833100000,Milam,Texas,County,15.0,12.0,8.0,-4.0,-33.33
-4833300000,Mills,Texas,County,8.0,7.0,7.0,0.0,0.0
-4833500000,Mitchell,Texas,County,7.0,7.0,688.0,681.0,9728.57
-4833700000,Montague,Texas,County,19.0,,10.0,,
-4833900000,Montgomery,Texas,County,93.0,98.0,99.0,1.0,1.02
-4834100000,Moore,Texas,County,,8.0,7.0,-1.0,-12.5
-4834300000,Morris,Texas,County,9.0,,7.0,,
-4834500000,Motley,Texas,County,7.0,,3.0,,
-4834700000,Nacogdoches,Texas,County,18.0,18.0,21.0,3.0,16.67
-4834900000,Navarro,Texas,County,31.0,21.0,20.0,-1.0,-4.76
-4835100000,Newton,Texas,County,24.0,23.0,13.0,-10.0,-43.48
-4835300000,Nolan,Texas,County,10.0,10.0,9.0,-1.0,-10.0
-4835500000,Nueces,Texas,County,143.0,,81.0,,
-4835700000,Ochiltree,Texas,County,5.0,,5.0,,
-4835900000,Oldham,Texas,County,8.0,5.0,4.0,-1.0,-20.0
-4836100000,Orange,Texas,County,38.0,38.0,34.0,-4.0,-10.53
-4836300000,Palo Pinto,Texas,County,19.0,15.0,12.0,-3.0,-20.0
-4836500000,Panola,Texas,County,21.0,20.0,19.0,-1.0,-5.0
-4836700000,Parker,Texas,County,50.0,50.0,37.0,-13.0,-26.0
-4836900000,Parmer,Texas,County,,9.0,7.0,-2.0,-22.22
-4837100000,Pecos,Texas,County,12.0,11.0,9.0,-2.0,-18.18
-4837300000,Polk,Texas,County,24.0,21.0,21.0,0.0,0.0
-4837500000,Potter,Texas,County,29.0,22.0,16.0,-6.0,-27.27
-4837700000,Presidio,Texas,County,4.0,2.0,6.0,4.0,200.0
-4837900000,Rains,Texas,County,9.0,9.0,8.0,-1.0,-11.11
-4838100000,Randall,Texas,County,26.0,14.0,13.0,-1.0,-7.14
-4838300000,Reagan,Texas,County,5.0,5.0,3.0,-2.0,-40.0
-4838500000,Real,Texas,County,54.0,11.0,5.0,-6.0,-54.55
-4838700000,Red River,Texas,County,,20.0,19.0,-1.0,-5.0
-4838900000,Reeves,Texas,County,,12.0,11.0,-1.0,-8.33
-4839100000,Refugio,Texas,County,11.0,11.0,6.0,-5.0,-45.45
-4839300000,Roberts,Texas,County,3.0,3.0,2.0,-1.0,-33.33
-4839500000,Robertson,Texas,County,18.0,15.0,13.0,-2.0,-13.33
-4839700000,Rockwall,Texas,County,21.0,21.0,16.0,-5.0,-23.81
-4839900000,Runnels,Texas,County,8.0,9.0,8.0,-1.0,-11.11
-4840100000,Rusk,Texas,County,25.0,18.0,12.0,-6.0,-33.33
-4840300000,Sabine,Texas,County,10.0,10.0,8.0,-2.0,-20.0
-4840500000,San Augustine,Texas,County,13.0,13.0,11.0,-2.0,-15.38
-4840700000,San Jacinto,Texas,County,16.0,14.0,7.0,-7.0,-50.0
-4840900000,San Patricio,Texas,County,23.0,16.0,10.0,-6.0,-37.5
-4841100000,San Saba,Texas,County,5.0,,3.0,,
-4841300000,Schleicher,Texas,County,5.0,5.0,2.0,-3.0,-60.0
-4841500000,Scurry,Texas,County,12.0,12.0,6.0,-6.0,-50.0
-4841700000,Shackelford,Texas,County,5.0,5.0,4.0,-1.0,-20.0
-4841900000,Shelby,Texas,County,15.0,15.0,15.0,0.0,0.0
-4842100000,Sherman,Texas,County,,5.0,4.0,-1.0,-20.0
-4842300000,Smith,Texas,County,53.0,39.0,34.0,-5.0,-12.82
-4842500000,Somervell,Texas,County,6.0,5.0,4.0,-1.0,-20.0
-4842700000,Starr,Texas,County,,11.0,10.0,-1.0,-9.09
-4842900000,Stephens,Texas,County,7.0,5.0,5.0,0.0,0.0
-4843100000,Sterling,Texas,County,5.0,4.0,4.0,0.0,0.0
-4843300000,Stonewall,Texas,County,5.0,5.0,2.0,-3.0,-60.0
-4843500000,Sutton,Texas,County,5.0,,4.0,,
-4843700000,Swisher,Texas,County,6.0,5.0,4.0,-1.0,-20.0
-4843900000,Tarrant,Texas,County,,413.0,329.0,-84.0,-20.34
-4844100000,Taylor,Texas,County,40.0,27.0,22.0,-5.0,-18.52
-4844300000,Terrell,Texas,County,3.0,5.0,1.0,-4.0,-80.0
-4844500000,Terry,Texas,County,8.0,8.0,7.0,-1.0,-12.5
-4844700000,Throckmorton,Texas,County,6.0,4.0,4.0,0.0,0.0
-4844900000,Titus,Texas,County,24.0,,19.0,,
-4845100000,Tom Green,Texas,County,31.0,22.0,21.0,-1.0,-4.55
-4845300000,Travis,Texas,County,238.0,232.0,178.0,-54.0,-23.28
-4845500000,Trinity,Texas,County,23.0,21.0,20.0,-1.0,-4.76
-4845700000,Tyler,Texas,County,18.0,18.0,18.0,0.0,0.0
-4845900000,Upshur,Texas,County,17.0,17.0,16.0,-1.0,-5.88
-4846100000,Upton,Texas,County,5.0,5.0,3.0,-2.0,-40.0
-4846300000,Uvalde,Texas,County,15.0,17.0,14.0,-3.0,-17.65
-4846500000,Val Verde,Texas,County,18.0,17.0,9.0,-8.0,-47.06
-4846700000,Van Zandt,Texas,County,19.0,19.0,19.0,0.0,0.0
-4846900000,Victoria,Texas,County,41.0,38.0,35.0,-3.0,-7.89
-4847100000,Walker,Texas,County,18.0,18.0,11.0,-7.0,-38.89
-4847300000,Waller,Texas,County,23.0,28.0,20.0,-8.0,-28.57
-4847500000,Ward,Texas,County,6.0,9.0,6.0,-3.0,-33.33
-4847700000,Washington,Texas,County,16.0,16.0,15.0,-1.0,-6.25
-4847900000,Webb,Texas,County,100.0,79.0,69.0,-10.0,-12.66
-4848100000,Wharton,Texas,County,14.0,10.0,8.0,-2.0,-20.0
-4848300000,Wheeler,Texas,County,12.0,,10.0,,
-4848500000,Wichita,Texas,County,40.0,30.0,25.0,-5.0,-16.67
-4848700000,Wilbarger,Texas,County,7.0,,4.0,,
-4848900000,Willacy,Texas,County,12.0,11.0,18.0,7.0,63.64
-4849100000,Williamson,Texas,County,113.0,94.0,57.0,-37.0,-39.36
-4849300000,Wilson,Texas,County,18.0,18.0,16.0,-2.0,-11.11
-4849500000,Winkler,Texas,County,6.0,6.0,6.0,0.0,0.0
-4849700000,Wise,Texas,County,24.0,25.0,25.0,0.0,0.0
-4849900000,Wood,Texas,County,12.0,16.0,11.0,-5.0,-31.25
-4850100000,Yoakum,Texas,County,4.0,4.0,2.0,-2.0,-50.0
-4850300000,Young,Texas,County,11.0,7.0,5.0,-2.0,-28.57
-4850500000,Zapata,Texas,County,8.0,,7.0,,
-4850700000,Zavala,Texas,County,9.0,4.0,6.0,2.0,50.0
+fips_,place_clean_,state_name_,place_type_,poll_place_elect_day_2012,poll_place_elect_day_2016,poll_place_elect_day_2020,total_reg_voters_2012,total_reg_voters_2016,total_reg_voters_2020,poll_place_change_16_20,poll_place_pct_change_16_20,poll_place_1k_2016,poll_place_1k_2020,poll_place_rate_change_2016_2020
+0100100000,Autauga,Alabama,County,17.0,17.0,18.0,37170.0,38187.0,43695.0,1.0,5.88,0.45,0.41,-8.89
+0100300000,Baldwin,Alabama,County,46.0,87.0,50.0,126703.0,146824.0,176668.0,-37.0,-42.53,0.59,0.28,-52.54
+0100500000,Barbour,Alabama,County,17.0,21.0,16.0,17318.0,17102.0,17850.0,-5.0,-23.81,1.23,0.9,-26.83
+0100700000,Bibb,Alabama,County,8.0,16.0,8.0,12819.0,13510.0,15014.0,-8.0,-50.0,1.18,0.53,-55.08
+0100900000,Blount,Alabama,County,24.0,28.0,24.0,33951.0,37718.0,41927.0,-4.0,-14.29,0.74,0.57,-22.97
+0101100000,Bullock,Alabama,County,26.0,17.0,15.0,7817.0,7424.0,7457.0,-2.0,-11.76,2.29,2.01,-12.23
+0101300000,Butler,Alabama,County,22.0,22.0,22.0,13488.0,13805.0,14646.0,0.0,0.0,1.59,1.5,-5.66
+0101500000,Calhoun,Alabama,County,49.0,46.0,44.0,70093.0,74433.0,81674.0,-2.0,-4.35,0.62,0.54,-12.9
+0101700000,Chambers,Alabama,County,58.0,39.0,16.0,24463.0,24020.0,26077.0,-23.0,-58.97,1.62,0.61,-62.35
+0101900000,Cherokee,Alabama,County,23.0,23.0,23.0,15343.0,16970.0,19469.0,0.0,0.0,1.36,1.18,-13.24
+0102100000,Chilton,Alabama,County,19.0,19.0,18.0,27922.0,28579.0,29873.0,-1.0,-5.26,0.66,0.6,-9.09
+0102300000,Choctaw,Alabama,County,48.0,47.0,32.0,10988.0,10990.0,11033.0,-15.0,-31.91,4.28,2.9,-32.24
+0102500000,Clarke,Alabama,County,30.0,51.0,29.0,19237.0,19400.0,19676.0,-22.0,-43.14,2.63,1.47,-44.11
+0102700000,Clay,Alabama,County,23.0,25.0,15.0,10488.0,10204.0,10468.0,-10.0,-40.0,2.45,1.43,-41.63
+0102900000,Cleburne,Alabama,County,15.0,14.0,14.0,9985.0,10845.0,11516.0,0.0,0.0,1.29,1.22,-5.43
+0103100000,Coffee,Alabama,County,32.0,30.0,29.0,31555.0,33524.0,37163.0,-1.0,-3.33,0.89,0.78,-12.36
+0103300000,Colbert,Alabama,County,36.0,17.0,34.0,36725.0,38334.0,43748.0,17.0,100.0,0.44,0.78,77.27
+0103500000,Conecuh,Alabama,County,32.0,29.0,27.0,10658.0,10488.0,10413.0,-2.0,-6.9,2.77,2.59,-6.5
+0103700000,Coosa,Alabama,County,12.0,21.0,12.0,8274.0,8123.0,8403.0,-9.0,-42.86,2.59,1.43,-44.79
+0103900000,Covington,Alabama,County,25.0,25.0,25.0,23401.0,25347.0,28338.0,0.0,0.0,0.99,0.88,-11.11
+0104100000,Crenshaw,Alabama,County,18.0,18.0,18.0,9735.0,9958.0,10619.0,0.0,0.0,1.81,1.7,-6.08
+0104300000,Cullman,Alabama,County,49.0,49.0,49.0,52201.0,55908.0,62707.0,0.0,0.0,0.88,0.78,-11.36
+0104500000,Dale,Alabama,County,20.0,20.0,19.0,32006.0,31420.0,35835.0,-1.0,-5.0,0.64,0.53,-17.19
+0104700000,Dallas,Alabama,County,29.0,30.0,29.0,33009.0,32530.0,31849.0,-1.0,-3.33,0.92,0.91,-1.09
+0104900000,Dekalb,Alabama,County,49.0,48.0,44.0,38223.0,40824.0,45221.0,-4.0,-8.33,1.18,0.97,-17.8
+0105100000,Elmore,Alabama,County,42.0,28.0,29.0,48864.0,54061.0,60857.0,1.0,3.57,0.52,0.48,-7.69
+0105300000,Escambia,Alabama,County,29.0,30.0,29.0,22968.0,24374.0,27240.0,-1.0,-3.33,1.23,1.06,-13.82
+0105500000,Etowah,Alabama,County,42.0,34.0,31.0,65975.0,69355.0,76054.0,-3.0,-8.82,0.49,0.41,-16.33
+0105700000,Fayette,Alabama,County,27.0,28.0,26.0,11482.0,12155.0,13043.0,-2.0,-7.14,2.3,1.99,-13.48
+0105900000,Franklin,Alabama,County,38.0,20.0,24.0,20780.0,19001.0,19744.0,4.0,20.0,1.05,1.22,16.19
+0106100000,Geneva,Alabama,County,25.0,30.0,21.0,16856.0,17935.0,20112.0,-9.0,-30.0,1.67,1.04,-37.72
+0106300000,Greene,Alabama,County,14.0,14.0,14.0,7713.0,7322.0,7045.0,0.0,0.0,1.91,1.99,4.19
+0106500000,Hale,Alabama,County,14.0,40.0,14.0,12851.0,12432.0,12561.0,-26.0,-65.0,3.22,1.11,-65.53
+0106700000,Henry,Alabama,County,15.0,29.0,14.0,12394.0,12761.0,14070.0,-15.0,-51.72,2.27,1.0,-55.95
+0106900000,Houston,Alabama,County,29.0,100.0,27.0,65611.0,69602.0,80366.0,-73.0,-73.0,1.44,0.34,-76.39
+0107100000,Jackson,Alabama,County,38.0,36.0,30.0,35985.0,36977.0,39655.0,-6.0,-16.67,0.97,0.76,-21.65
+0107300000,Jefferson,Alabama,County,180.0,352.0,172.0,435704.0,456895.0,505586.0,-180.0,-51.14,0.77,0.34,-55.84
+0107500000,Lamar,Alabama,County,25.0,25.0,25.0,10930.0,10899.0,11213.0,0.0,0.0,2.29,2.23,-2.62
+0107700000,Lauderdale,Alabama,County,31.0,34.0,31.0,55723.0,60540.0,68218.0,-3.0,-8.82,0.56,0.45,-19.64
+0107900000,Lawrence,Alabama,County,37.0,36.0,29.0,23506.0,23477.0,25471.0,-7.0,-19.44,1.53,1.14,-25.49
+0108100000,Lee,Alabama,County,23.0,46.0,22.0,97401.0,103424.0,124082.0,-24.0,-52.17,0.44,0.18,-59.09
+0108300000,Limestone,Alabama,County,24.0,25.0,25.0,50034.0,58229.0,71614.0,0.0,0.0,0.43,0.35,-18.6
+0108500000,Lowndes,Alabama,County,12.0,15.0,12.0,10690.0,10461.0,10361.0,-3.0,-20.0,1.43,1.16,-18.88
+0108700000,Macon,Alabama,County,15.0,15.0,14.0,19373.0,18504.0,17990.0,-1.0,-6.67,0.81,0.78,-3.7
+0108900000,Madison,Alabama,County,75.0,73.0,72.0,233838.0,262751.0,303191.0,-1.0,-1.37,0.28,0.24,-14.29
+0109100000,Marengo,Alabama,County,25.0,22.0,19.0,16216.0,16507.0,16366.0,-3.0,-13.64,1.33,1.16,-12.78
+0109300000,Marion,Alabama,County,23.0,23.0,20.0,19715.0,20342.0,22074.0,-3.0,-13.04,1.13,0.91,-19.47
+0109500000,Marshall,Alabama,County,38.0,47.0,28.0,50546.0,55733.0,64249.0,-19.0,-40.43,0.84,0.44,-47.62
+0109700000,Mobile,Alabama,County,98.0,90.0,85.0,277473.0,284776.0,315446.0,-5.0,-5.56,0.32,0.27,-15.62
+0109900000,Monroe,Alabama,County,31.0,76.0,29.0,16481.0,16390.0,16916.0,-47.0,-61.84,4.64,1.71,-63.15
+0110100000,Montgomery,Alabama,County,55.0,50.0,49.0,155099.0,154622.0,165578.0,-1.0,-2.0,0.32,0.3,-6.25
+0110300000,Morgan,Alabama,County,47.0,41.0,39.0,70818.0,75787.0,85651.0,-2.0,-4.88,0.54,0.46,-14.81
+0110500000,Perry,Alabama,County,15.0,15.0,12.0,8749.0,8542.0,8206.0,-3.0,-20.0,1.76,1.46,-17.05
+0110700000,Pickens,Alabama,County,28.0,24.0,19.0,13703.0,14011.0,14424.0,-5.0,-20.83,1.71,1.32,-22.81
+0110900000,Pike,Alabama,County,28.0,33.0,33.0,21127.0,22557.0,23664.0,0.0,0.0,1.46,1.39,-4.79
+0111100000,Randolph,Alabama,County,57.0,16.0,26.0,16311.0,16822.0,18406.0,10.0,62.5,0.95,1.41,48.42
+0111300000,Russell,Alabama,County,17.0,17.0,17.0,33887.0,36351.0,42721.0,0.0,0.0,0.47,0.4,-14.89
+0111500000,St. Clair,Alabama,County,31.0,30.0,30.0,57435.0,58425.0,68132.0,0.0,0.0,0.51,0.44,-13.73
+0111700000,Shelby,Alabama,County,48.0,48.0,44.0,132622.0,142813.0,165412.0,-4.0,-8.33,0.34,0.27,-20.59
+0111900000,Sumter,Alabama,County,23.0,24.0,13.0,10302.0,10233.0,10063.0,-11.0,-45.83,2.35,1.29,-45.11
+0112100000,Talladega,Alabama,County,26.0,26.0,26.0,52478.0,53564.0,59072.0,0.0,0.0,0.49,0.44,-10.2
+0112300000,Tallapoosa,Alabama,County,25.0,29.0,26.0,27669.0,30217.0,32074.0,-3.0,-10.34,0.96,0.81,-15.62
+0112500000,Tuscaloosa,Alabama,County,54.0,55.0,54.0,122880.0,132600.0,150175.0,-1.0,-1.82,0.41,0.36,-12.2
+0112700000,Walker,Alabama,County,45.0,46.0,45.0,46299.0,46384.0,49226.0,-1.0,-2.17,0.99,0.91,-8.08
+0112900000,Washington,Alabama,County,19.0,31.0,19.0,14082.0,13669.0,13784.0,-12.0,-38.71,2.27,1.38,-39.21
+0113100000,Wilcox,Alabama,County,36.0,36.0,34.0,9367.0,9288.0,9192.0,-2.0,-5.56,3.88,3.7,-4.64
+0113300000,Winston,Alabama,County,21.0,18.0,18.0,16626.0,16691.0,17155.0,0.0,0.0,1.08,1.05,-2.78
+0200000000,Alaska,Alaska,Other,533.0,624.0,420.0,579304.0,587303.0,646093.0,-204.0,-32.69,1.06,0.65,-38.68
+0400100000,Apache,Arizona,County,52.0,47.0,44.0,50864.0,53020.0,55792.0,-3.0,-6.38,0.89,0.79,-11.24
+0400300000,Cochise,Arizona,County,50.0,21.0,17.0,82802.0,75256.0,94283.0,-4.0,-19.05,0.28,0.18,-35.71
+0400500000,Coconino,Arizona,County,71.0,68.0,46.0,84581.0,94277.0,104736.0,-22.0,-32.35,0.72,0.44,-38.89
+0400700000,Gila,Arizona,County,44.0,18.0,17.0,34462.0,35793.0,37806.0,-1.0,-5.56,0.5,0.45,-10.0
+0400900000,Graham,Arizona,County,19.0,10.0,9.0,20537.0,21028.0,22659.0,-1.0,-10.0,0.48,0.4,-16.67
+0401100000,Greenlee,Arizona,County,9.0,6.0,5.0,4877.0,5140.0,5321.0,-1.0,-16.67,1.17,0.94,-19.66
+0401200000,La Paz,Arizona,County,10.0,10.0,8.0,10628.0,11727.0,13553.0,-2.0,-20.0,0.85,0.59,-30.59
+0401300000,Maricopa,Arizona,County,697.0,676.0,175.0,2191522.0,2438481.0,2863040.0,-501.0,-74.11,0.28,0.06,-78.57
+0401500000,Mohave,Arizona,County,73.0,39.0,36.0,132459.0,142180.0,155904.0,-3.0,-7.69,0.27,0.23,-14.81
+0401700000,Navajo,Arizona,County,59.0,48.0,39.0,67353.0,69670.0,81425.0,-9.0,-18.75,0.69,0.48,-30.43
+0401900000,Pima,Arizona,County,290.0,247.0,232.0,595709.0,616901.0,689973.0,-15.0,-6.07,0.4,0.34,-15.0
+0402100000,Pinal,Arizona,County,101.0,100.0,90.0,189842.0,227343.0,263199.0,-10.0,-10.0,0.44,0.34,-22.73
+0402300000,Santa Cruz,Arizona,County,18.0,16.0,13.0,25569.0,28708.0,30935.0,-3.0,-18.75,0.56,0.42,-25.0
+0402500000,Yavapai,Arizona,County,32.0,31.0,25.0,144971.0,155684.0,181031.0,-6.0,-19.35,0.2,0.14,-30.0
+0402700000,Yuma,Arizona,County,12.0,13.0,11.0,89186.0,105472.0,128452.0,-2.0,-15.38,0.12,0.09,-25.0
+1300100000,Appling,Georgia,County,,15.0,9.0,,11199.0,12098.0,-6.0,-40.0,1.34,0.74,-44.78
+1300300000,Atkinson,Georgia,County,,4.0,4.0,,4405.0,4876.0,0.0,0.0,0.91,0.82,-9.89
+1300500000,Bacon,Georgia,County,,5.0,1.0,,6300.0,6946.0,-4.0,-80.0,0.79,0.14,-82.28
+1300700000,Baker,Georgia,County,,6.0,5.0,,2184.0,2281.0,-1.0,-16.67,2.75,2.19,-20.36
+1300900000,Baldwin,Georgia,County,,15.0,14.0,,24962.0,27259.0,-1.0,-6.67,0.6,0.51,-15.0
+1301100000,Banks,Georgia,County,,14.0,6.0,,10331.0,13146.0,-8.0,-57.14,1.36,0.46,-66.18
+1301300000,Barrow,Georgia,County,,17.0,8.0,,45402.0,58512.0,-9.0,-52.94,0.37,0.14,-62.16
+1301500000,Bartow,Georgia,County,,19.0,16.0,,65165.0,78435.0,-3.0,-15.79,0.29,0.2,-31.03
+1301700000,Ben Hill,Georgia,County,,3.0,1.0,,9707.0,10816.0,-2.0,-66.67,0.31,0.09,-70.97
+1301900000,Berrien,Georgia,County,,6.0,5.0,,10898.0,12215.0,-1.0,-16.67,0.55,0.41,-25.45
+1302100000,Bibb,Georgia,County,,33.0,31.0,,100372.0,115857.0,-2.0,-6.06,0.33,0.27,-18.18
+1302300000,Bleckley,Georgia,County,,2.0,1.0,,7129.0,8015.0,-1.0,-50.0,0.28,0.12,-57.14
+1302500000,Brantley,Georgia,County,,4.0,3.0,,10326.0,11883.0,-1.0,-25.0,0.39,0.25,-35.9
+1302700000,Brooks,Georgia,County,,8.0,7.0,,10286.0,11430.0,-1.0,-12.5,0.78,0.61,-21.79
+1302900000,Bryan,Georgia,County,,12.0,10.0,,25907.0,33057.0,-2.0,-16.67,0.46,0.3,-34.78
+1303100000,Bulloch,Georgia,County,,10.0,16.0,,43912.0,47427.0,6.0,60.0,0.23,0.34,47.83
+1303300000,Burke,Georgia,County,,17.0,16.0,,14960.0,16864.0,-1.0,-5.88,1.14,0.95,-16.67
+1303500000,Butts,Georgia,County,,6.0,1.0,,14610.0,17923.0,-5.0,-83.33,0.41,0.06,-85.37
+1303700000,Calhoun,Georgia,County,,6.0,5.0,,3090.0,3239.0,-1.0,-16.67,1.94,1.54,-20.62
+1303900000,Camden,Georgia,County,,17.0,12.0,,35161.0,40306.0,-5.0,-29.41,0.48,0.3,-37.5
+1304300000,Candler,Georgia,County,,2.0,1.0,,5773.0,6734.0,-1.0,-50.0,0.35,0.15,-57.14
+1304500000,Carroll,Georgia,County,,31.0,28.0,,71074.0,86126.0,-3.0,-9.68,0.44,0.33,-25.0
+1304700000,Catoosa,Georgia,County,,13.0,11.0,,44625.0,49322.0,-2.0,-15.38,0.29,0.22,-24.14
+1304900000,Charlton,Georgia,County,,10.0,8.0,,6344.0,7226.0,-2.0,-20.0,1.58,1.11,-29.75
+1305100000,Chatham,Georgia,County,,94.0,92.0,,194163.0,223442.0,-2.0,-2.13,0.48,0.41,-14.58
+1305300000,Chattahoochee,Georgia,County,,2.0,1.0,,4322.0,4336.0,-1.0,-50.0,0.46,0.23,-50.0
+1305500000,Chattooga,Georgia,County,,14.0,13.0,,13820.0,14889.0,-1.0,-7.14,1.01,0.87,-13.86
+1305700000,Cherokee,Georgia,County,,47.0,40.0,,164940.0,196093.0,-7.0,-14.89,0.28,0.2,-28.57
+1305900000,Clarke,Georgia,County,,25.0,24.0,,77567.0,82307.0,-1.0,-4.0,0.32,0.29,-9.38
+1306100000,Clay,Georgia,County,,2.0,1.0,,1906.0,2146.0,-1.0,-50.0,1.05,0.47,-55.24
+1306300000,Clayton,Georgia,County,,63.0,65.0,,170933.0,202388.0,2.0,3.17,0.37,0.32,-13.51
+1306500000,Clinch,Georgia,County,,6.0,5.0,,4206.0,4449.0,-1.0,-16.67,1.43,1.12,-21.68
+1306700000,Cobb,Georgia,County,,155.0,144.0,,507228.0,562322.0,-11.0,-7.1,0.31,0.26,-16.13
+1306900000,Coffee,Georgia,County,,7.0,6.0,,23363.0,25697.0,-1.0,-14.29,0.3,0.23,-23.33
+1307100000,Colquitt,Georgia,County,,20.0,19.0,,23593.0,26337.0,-1.0,-5.0,0.85,0.72,-15.29
+1307300000,Columbia,Georgia,County,,49.0,47.0,,101790.0,117247.0,-2.0,-4.08,0.48,0.4,-16.67
+1307500000,Cook,Georgia,County,,7.0,8.0,,9704.0,11340.0,1.0,14.29,0.72,0.71,-1.39
+1307700000,Coweta,Georgia,County,,30.0,26.0,,94926.0,108939.0,-4.0,-13.33,0.32,0.24,-25.0
+1307900000,Crawford,Georgia,County,,7.0,6.0,,7846.0,8995.0,-1.0,-14.29,0.89,0.67,-24.72
+1308100000,Crisp,Georgia,County,,7.0,5.0,,12720.0,13150.0,-2.0,-28.57,0.55,0.38,-30.91
+1308300000,Dade,Georgia,County,,7.0,7.0,,11177.0,12803.0,0.0,0.0,0.63,0.55,-12.7
+1308500000,Dawson,Georgia,County,,4.0,3.0,,16721.0,22523.0,-1.0,-25.0,0.24,0.13,-45.83
+1308700000,Decatur,Georgia,County,,11.0,9.0,,17295.0,17597.0,-2.0,-18.18,0.64,0.51,-20.31
+1308900000,Dekalb,Georgia,County,,183.0,164.0,,519535.0,571113.0,-19.0,-10.38,0.35,0.29,-17.14
+1309100000,Dodge,Georgia,County,,17.0,16.0,,11159.0,11987.0,-1.0,-5.88,1.52,1.33,-12.5
+1309300000,Dooly,Georgia,County,,6.0,5.0,,6189.0,6242.0,-1.0,-16.67,0.97,0.8,-17.53
+1309500000,Dougherty,Georgia,County,,30.0,28.0,,62592.0,66951.0,-2.0,-6.67,0.48,0.42,-12.5
+1309700000,Douglas,Georgia,County,,30.0,25.0,,92208.0,107179.0,-5.0,-16.67,0.33,0.23,-30.3
+1309900000,Early,Georgia,County,,5.0,5.0,,7702.0,7754.0,0.0,0.0,0.65,0.64,-1.54
+1310100000,Echols,Georgia,County,,2.0,1.0,,1912.0,2284.0,-1.0,-50.0,1.05,0.44,-58.1
+1310300000,Effingham,Georgia,County,,19.0,17.0,,37662.0,47069.0,-2.0,-10.53,0.5,0.36,-28.0
+1310500000,Elbert,Georgia,County,,12.0,11.0,,12380.0,12991.0,-1.0,-8.33,0.97,0.85,-12.37
+1310700000,Emanuel,Georgia,County,,12.0,11.0,,12871.0,14658.0,-1.0,-8.33,0.93,0.75,-19.35
+1310900000,Evans,Georgia,County,,2.0,1.0,,5616.0,6453.0,-1.0,-50.0,0.36,0.15,-58.33
+1311100000,Fannin,Georgia,County,,13.0,12.0,,17921.0,20998.0,-1.0,-7.69,0.73,0.57,-21.92
+1311300000,Fayette,Georgia,County,,39.0,36.0,,87243.0,96152.0,-3.0,-7.69,0.45,0.37,-17.78
+1311500000,Floyd,Georgia,County,,28.0,25.0,,56466.0,62193.0,-3.0,-10.71,0.5,0.4,-20.0
+1311700000,Forsyth,Georgia,County,,21.0,20.0,,139236.0,170581.0,-1.0,-4.76,0.15,0.12,-20.0
+1311900000,Franklin,Georgia,County,,8.0,7.0,,13076.0,15885.0,-1.0,-12.5,0.61,0.44,-27.87
+1312100000,Fulton,Georgia,County,,233.0,254.0,,741634.0,836563.0,21.0,9.01,0.31,0.3,-3.23
+1312300000,Gilmer,Georgia,County,,14.0,13.0,,19088.0,23504.0,-1.0,-7.14,0.73,0.55,-24.66
+1312500000,Glascock,Georgia,County,,5.0,4.0,,1946.0,2106.0,-1.0,-20.0,2.57,1.9,-26.07
+1312700000,Glynn,Georgia,County,,22.0,20.0,,57711.0,65687.0,-2.0,-9.09,0.38,0.3,-21.05
+1312900000,Gordon,Georgia,County,,13.0,12.0,,30880.0,37193.0,-1.0,-7.69,0.42,0.32,-23.81
+1313100000,Grady,Georgia,County,,14.0,9.0,,15282.0,15847.0,-5.0,-35.71,0.92,0.57,-38.04
+1313300000,Greene,Georgia,County,,8.0,4.0,,12521.0,14884.0,-4.0,-50.0,0.64,0.27,-57.81
+1313500000,Gwinnett,Georgia,County,,164.0,156.0,,525585.0,621602.0,-8.0,-4.88,0.31,0.25,-19.35
+1313700000,Habersham,Georgia,County,,10.0,7.0,,24457.0,29701.0,-3.0,-30.0,0.41,0.24,-41.46
+1313900000,Hall,Georgia,County,,35.0,31.0,,108627.0,135524.0,-4.0,-11.43,0.32,0.23,-28.12
+1314100000,Hancock,Georgia,County,,11.0,10.0,,6022.0,6148.0,-1.0,-9.09,1.83,1.63,-10.93
+1314300000,Haralson,Georgia,County,,13.0,12.0,,17629.0,21596.0,-1.0,-7.69,0.74,0.56,-24.32
+1314500000,Harris,Georgia,County,,13.0,12.0,,24372.0,26994.0,-1.0,-7.69,0.53,0.44,-16.98
+1314700000,Hart,Georgia,County,,8.0,7.0,,15422.0,17840.0,-1.0,-12.5,0.52,0.39,-25.0
+1314900000,Heard,Georgia,County,,8.0,6.0,,6907.0,8119.0,-2.0,-25.0,1.16,0.74,-36.21
+1315100000,Henry,Georgia,County,,40.0,37.0,,152988.0,181814.0,-3.0,-7.5,0.26,0.2,-23.08
+1315300000,Houston,Georgia,County,,20.0,16.0,,99861.0,114802.0,-4.0,-20.0,0.2,0.14,-30.0
+1315500000,Irwin,Georgia,County,,9.0,3.0,,5558.0,6264.0,-6.0,-66.67,1.62,0.48,-70.37
+1315700000,Jackson,Georgia,County,,19.0,4.0,,39751.0,54351.0,-15.0,-78.95,0.48,0.07,-85.42
+1315900000,Jasper,Georgia,County,,4.0,3.0,,9142.0,10790.0,-1.0,-25.0,0.44,0.28,-36.36
+1316100000,Jeff Davis,Georgia,County,,10.0,6.0,,8369.0,9040.0,-4.0,-40.0,1.19,0.66,-44.54
+1316300000,Jefferson,Georgia,County,,9.0,8.0,,10888.0,11481.0,-1.0,-11.11,0.83,0.7,-15.66
+1316500000,Jenkins,Georgia,County,,6.0,3.0,,5158.0,5373.0,-3.0,-50.0,1.16,0.56,-51.72
+1316700000,Johnson,Georgia,County,,5.0,4.0,,5401.0,5698.0,-1.0,-20.0,0.93,0.7,-24.73
+1316900000,Jones,Georgia,County,,11.0,10.0,,18250.0,20969.0,-1.0,-9.09,0.6,0.48,-20.0
+1317100000,Lamar,Georgia,County,,7.0,6.0,,11883.0,13211.0,-1.0,-14.29,0.59,0.45,-23.73
+1317300000,Lanier,Georgia,County,,5.0,1.0,,5151.0,6287.0,-4.0,-80.0,0.97,0.16,-83.51
+1317500000,Laurens,Georgia,County,,18.0,16.0,,28089.0,33793.0,-2.0,-11.11,0.64,0.47,-26.56
+1317700000,Lee,Georgia,County,,11.0,10.0,,21978.0,24417.0,-1.0,-9.09,0.5,0.41,-18.0
+1317900000,Liberty,Georgia,County,,14.0,13.0,,34987.0,40880.0,-1.0,-7.14,0.4,0.32,-20.0
+1318100000,Lincoln,Georgia,County,,8.0,7.0,,5948.0,6401.0,-1.0,-12.5,1.34,1.09,-18.66
+1318300000,Long,Georgia,County,,7.0,7.0,,8196.0,10461.0,0.0,0.0,0.85,0.67,-21.18
+1318500000,Lowndes,Georgia,County,,10.0,13.0,,67078.0,82086.0,3.0,30.0,0.15,0.16,6.67
+1318700000,Lumpkin,Georgia,County,,2.0,1.0,,18854.0,23172.0,-1.0,-50.0,0.11,0.04,-63.64
+1318900000,Mcduffie,Georgia,County,,7.0,2.0,,14738.0,15788.0,-5.0,-71.43,0.47,0.13,-72.34
+1319100000,Mcintosh,Georgia,County,,7.0,6.0,,9168.0,9950.0,-1.0,-14.29,0.76,0.6,-21.05
+1319300000,Macon,Georgia,County,,6.0,5.0,,7212.0,7376.0,-1.0,-16.67,0.83,0.68,-18.07
+1319500000,Madison,Georgia,County,,13.0,12.0,,17669.0,21500.0,-1.0,-7.69,0.74,0.56,-24.32
+1319700000,Marion,Georgia,County,,6.0,5.0,,5023.0,5141.0,-1.0,-16.67,1.19,0.97,-18.49
+1319900000,Meriwether,Georgia,County,,15.0,14.0,,14776.0,16069.0,-1.0,-6.67,1.02,0.87,-14.71
+1320100000,Miller,Georgia,County,,2.0,1.0,,4148.0,4198.0,-1.0,-50.0,0.48,0.24,-50.0
+1320500000,Mitchell,Georgia,County,,12.0,11.0,,13167.0,14227.0,-1.0,-8.33,0.91,0.77,-15.38
+1320700000,Monroe,Georgia,County,,15.0,14.0,,18540.0,21544.0,-1.0,-6.67,0.81,0.65,-19.75
+1320900000,Montgomery,Georgia,County,,8.0,7.0,,5337.0,5710.0,-1.0,-12.5,1.5,1.23,-18.0
+1321100000,Morgan,Georgia,County,,8.0,7.0,,12819.0,15379.0,-1.0,-12.5,0.62,0.46,-25.81
+1321300000,Murray,Georgia,County,,8.0,7.0,,20810.0,23504.0,-1.0,-12.5,0.38,0.3,-21.05
+1321500000,Muscogee,Georgia,County,,27.0,25.0,,131070.0,136673.0,-2.0,-7.41,0.21,0.18,-14.29
+1321700000,Newton,Georgia,County,,24.0,22.0,,70966.0,83452.0,-2.0,-8.33,0.34,0.26,-23.53
+1321900000,Oconee,Georgia,County,,14.0,10.0,,27771.0,31612.0,-4.0,-28.57,0.5,0.32,-36.0
+1322100000,Oglethorpe,Georgia,County,,4.0,3.0,,9337.0,11108.0,-1.0,-25.0,0.43,0.27,-37.21
+1322300000,Paulding,Georgia,County,,18.0,19.0,,98717.0,123558.0,1.0,5.56,0.18,0.15,-16.67
+1322500000,Peach,Georgia,County,,8.0,7.0,,17887.0,19282.0,-1.0,-12.5,0.45,0.36,-20.0
+1322700000,Pickens,Georgia,County,,13.0,12.0,,20783.0,24376.0,-1.0,-7.69,0.63,0.49,-22.22
+1322900000,Pierce,Georgia,County,,3.0,2.0,,11319.0,13065.0,-1.0,-33.33,0.27,0.15,-44.44
+1323100000,Pike,Georgia,County,,9.0,8.0,,12370.0,14223.0,-1.0,-11.11,0.73,0.56,-23.29
+1323300000,Polk,Georgia,County,,9.0,7.0,,22652.0,25496.0,-2.0,-22.22,0.4,0.27,-32.5
+1323500000,Pulaski,Georgia,County,,2.0,1.0,,5639.0,6134.0,-1.0,-50.0,0.35,0.16,-54.29
+1323700000,Putnam,Georgia,County,,7.0,5.0,,13934.0,16418.0,-2.0,-28.57,0.5,0.3,-40.0
+1323900000,Quitman,Georgia,County,,3.0,2.0,,1618.0,1716.0,-1.0,-33.33,1.85,1.17,-36.76
+1324100000,Rabun,Georgia,County,,2.0,1.0,,11623.0,13437.0,-1.0,-50.0,0.17,0.07,-58.82
+1324300000,Randolph,Georgia,County,,10.0,6.0,,4383.0,4500.0,-4.0,-40.0,2.28,1.33,-41.67
+1324500000,Richmond,Georgia,County,,48.0,41.0,,135714.0,150471.0,-7.0,-14.58,0.35,0.27,-22.86
+1324700000,Rockdale,Georgia,County,,19.0,16.0,,61271.0,68717.0,-3.0,-15.79,0.31,0.23,-25.81
+1324900000,Schley,Georgia,County,,2.0,1.0,,2782.0,2996.0,-1.0,-50.0,0.72,0.33,-54.17
+1325100000,Screven,Georgia,County,,13.0,12.0,,9354.0,10086.0,-1.0,-7.69,1.39,1.19,-14.39
+1325300000,Seminole,Georgia,County,,6.0,5.0,,6088.0,6085.0,-1.0,-16.67,0.99,0.82,-17.17
+1325500000,Spalding,Georgia,County,,22.0,18.0,,42691.0,49123.0,-4.0,-18.18,0.52,0.37,-28.85
+1325700000,Stephens,Georgia,County,,2.0,1.0,,16454.0,19181.0,-1.0,-50.0,0.12,0.05,-58.33
+1325900000,Stewart,Georgia,County,,5.0,4.0,,3232.0,3107.0,-1.0,-20.0,1.55,1.29,-16.77
+1326100000,Sumter,Georgia,County,,12.0,11.0,,18345.0,18424.0,-1.0,-8.33,0.65,0.6,-7.69
+1326300000,Talbot,Georgia,County,,8.0,7.0,,4666.0,4724.0,-1.0,-12.5,1.71,1.48,-13.45
+1326500000,Taliaferro,Georgia,County,,3.0,2.0,,1259.0,1282.0,-1.0,-33.33,2.38,1.56,-34.45
+1326700000,Tattnall,Georgia,County,,11.0,8.0,,11116.0,12746.0,-3.0,-27.27,0.99,0.63,-36.36
+1326900000,Taylor,Georgia,County,,4.0,3.0,,5082.0,5476.0,-1.0,-25.0,0.79,0.55,-30.38
+1327100000,Telfair,Georgia,County,,7.0,6.0,,6086.0,6423.0,-1.0,-14.29,1.15,0.93,-19.13
+1327300000,Terrell,Georgia,County,,7.0,6.0,,6728.0,6917.0,-1.0,-14.29,1.04,0.87,-16.35
+1327500000,Thomas,Georgia,County,,21.0,17.0,,30674.0,32328.0,-4.0,-19.05,0.68,0.53,-22.06
+1327700000,Tift,Georgia,County,,13.0,12.0,,23481.0,26071.0,-1.0,-7.69,0.55,0.46,-16.36
+1327900000,Toombs,Georgia,County,,6.0,5.0,,15096.0,17255.0,-1.0,-16.67,0.4,0.29,-27.5
+1328100000,Towns,Georgia,Town,,5.0,3.0,,9402.0,10908.0,-2.0,-40.0,0.53,0.28,-47.17
+1328300000,Treutlen,Georgia,County,,2.0,2.0,,4259.0,4515.0,0.0,0.0,0.47,0.44,-6.38
+1328500000,Troup,Georgia,County,,16.0,14.0,,43969.0,46684.0,-2.0,-12.5,0.36,0.3,-16.67
+1328700000,Turner,Georgia,County,,4.0,3.0,,5567.0,5839.0,-1.0,-25.0,0.72,0.51,-29.17
+1328900000,Twiggs,Georgia,County,,6.0,5.0,,6303.0,6495.0,-1.0,-16.67,0.95,0.77,-18.95
+1329100000,Union,Georgia,County,,12.0,11.0,,16954.0,20446.0,-1.0,-8.33,0.71,0.54,-23.94
+1329300000,Upson,Georgia,County,,5.0,4.0,,16809.0,18696.0,-1.0,-20.0,0.3,0.21,-30.0
+1329500000,Walker,Georgia,County,,16.0,11.0,,42101.0,46374.0,-5.0,-31.25,0.38,0.24,-36.84
+1329700000,Walton,Georgia,County,,22.0,21.0,,61064.0,73082.0,-1.0,-4.55,0.36,0.29,-19.44
+1329900000,Ware,Georgia,County,,13.0,10.0,,19956.0,22004.0,-3.0,-23.08,0.65,0.45,-30.77
+1330100000,Warren,Georgia,County,,2.0,1.0,,3643.0,3931.0,-1.0,-50.0,0.55,0.25,-54.55
+1330300000,Washington,Georgia,County,,9.0,8.0,,12837.0,13462.0,-1.0,-11.11,0.7,0.59,-15.71
+1330500000,Wayne,Georgia,County,,13.0,7.0,,16950.0,19359.0,-6.0,-46.15,0.77,0.36,-53.25
+1330700000,Webster,Georgia,County,,2.0,1.0,,1590.0,1746.0,-1.0,-50.0,1.26,0.57,-54.76
+1330900000,Wheeler,Georgia,County,,3.0,2.0,,3054.0,3341.0,-1.0,-33.33,0.98,0.6,-38.78
+1331100000,White,Georgia,County,,12.0,11.0,,17654.0,21606.0,-1.0,-8.33,0.68,0.51,-25.0
+1331300000,Whitfield,Georgia,County,,24.0,23.0,,49580.0,55934.0,-1.0,-4.17,0.48,0.41,-14.58
+1331500000,Wilcox,Georgia,County,,6.0,6.0,,4655.0,4774.0,0.0,0.0,1.29,1.26,-2.33
+1331700000,Wilkes,Georgia,County,,8.0,7.0,,6677.0,7143.0,-1.0,-12.5,1.2,0.98,-18.33
+1331900000,Wilkinson,Georgia,County,,10.0,9.0,,6210.0,6707.0,-1.0,-10.0,1.61,1.34,-16.77
+1332100000,Worth,Georgia,County,,16.0,15.0,,13069.0,14461.0,-1.0,-6.25,1.22,1.04,-14.75
+4500100000,Abbeville,South Carolina,County,15.0,15.0,16.0,14759.0,15419.0,17937.0,1.0,6.67,0.97,0.89,-8.25
+4500300000,Aiken,South Carolina,County,77.0,93.0,73.0,102274.0,111606.0,134809.0,-20.0,-21.51,0.83,0.54,-34.94
+4500500000,Allendale,South Carolina,County,9.0,9.0,9.0,5793.0,6039.0,6502.0,0.0,0.0,1.49,1.38,-7.38
+4500700000,Anderson,South Carolina,County,78.0,80.0,75.0,108008.0,119129.0,144361.0,-5.0,-6.25,0.67,0.52,-22.39
+4500900000,Bamberg,South Carolina,County,14.0,13.0,13.0,9632.0,9817.0,10666.0,0.0,0.0,1.32,1.22,-7.58
+4501100000,Barnwell,South Carolina,County,16.0,9.0,9.0,13740.0,13897.0,15470.0,0.0,0.0,0.65,0.58,-10.77
+4501300000,Beaufort,South Carolina,County,87.0,66.0,56.0,106882.0,113197.0,147928.0,-10.0,-15.15,0.58,0.38,-34.48
+4501500000,Berkeley,South Carolina,County,58.0,56.0,60.0,103826.0,119259.0,156504.0,4.0,7.14,0.47,0.38,-19.15
+4501700000,Calhoun,South Carolina,County,13.0,13.0,13.0,10337.0,10839.0,12046.0,0.0,0.0,1.2,1.08,-10.0
+4501900000,Charleston,South Carolina,County,183.0,111.0,98.0,243851.0,281003.0,342712.0,-13.0,-11.71,0.4,0.29,-27.5
+4502100000,Cherokee,South Carolina,County,30.0,30.0,30.0,31560.0,32295.0,38547.0,0.0,0.0,0.93,0.78,-16.13
+4502300000,Chester,South Carolina,County,23.0,22.0,21.0,20345.0,21071.0,24061.0,-1.0,-4.55,1.04,0.87,-16.35
+4502500000,Chesterfield,South Carolina,County,26.0,26.0,26.0,24360.0,26334.0,30159.0,0.0,0.0,0.99,0.86,-13.13
+4502700000,Clarendon,South Carolina,County,26.0,26.0,19.0,22982.0,23810.0,26627.0,-7.0,-26.92,1.09,0.71,-34.86
+4502900000,Colleton,South Carolina,County,34.0,32.0,33.0,23870.0,25309.0,29305.0,1.0,3.12,1.26,1.13,-10.32
+4503100000,Darlington,South Carolina,County,33.0,35.0,33.0,42020.0,44433.0,49651.0,-2.0,-5.71,0.79,0.66,-16.46
+4503300000,Dillon,South Carolina,County,21.0,21.0,20.0,19865.0,20048.0,22067.0,-1.0,-4.76,1.05,0.91,-13.33
+4503500000,Dorchester,South Carolina,County,75.0,45.0,37.0,87381.0,100511.0,123138.0,-8.0,-17.78,0.45,0.3,-33.33
+4503700000,Edgefield,South Carolina,County,13.0,14.0,12.0,15924.0,16823.0,20081.0,-2.0,-14.29,0.83,0.6,-27.71
+4503900000,Fairfield,South Carolina,County,23.0,23.0,19.0,15615.0,15950.0,17703.0,-4.0,-17.39,1.44,1.07,-25.69
+4504100000,Florence,South Carolina,County,65.0,70.0,58.0,83379.0,88135.0,102547.0,-12.0,-17.14,0.79,0.57,-27.85
+4504300000,Georgetown,South Carolina,Town,35.0,35.0,32.0,41094.0,42949.0,51576.0,-3.0,-8.57,0.81,0.62,-23.46
+4504500000,Greenville,South Carolina,County,152.0,189.0,145.0,286438.0,316917.0,385804.0,-44.0,-23.28,0.6,0.38,-36.67
+4504700000,Greenwood,South Carolina,County,45.0,49.0,48.0,40304.0,41891.0,48133.0,-1.0,-2.04,1.17,1.0,-14.53
+4504900000,Hampton,South Carolina,County,19.0,19.0,16.0,12831.0,13021.0,14536.0,-3.0,-15.79,1.46,1.1,-24.66
+4505100000,Horry,South Carolina,County,121.0,125.0,122.0,170713.0,206853.0,283557.0,-3.0,-2.4,0.6,0.43,-28.33
+4505300000,Jasper,South Carolina,County,15.0,17.0,14.0,14455.0,17954.0,23694.0,-3.0,-17.65,0.95,0.59,-37.89
+4505500000,Kershaw,South Carolina,County,35.0,36.0,32.0,39122.0,41765.0,49281.0,-4.0,-11.11,0.86,0.65,-24.42
+4505700000,Lancaster,South Carolina,County,30.0,36.0,36.0,47443.0,55229.0,73433.0,0.0,0.0,0.65,0.49,-24.62
+4505900000,Laurens,South Carolina,County,35.0,36.0,34.0,36903.0,39809.0,46560.0,-2.0,-5.56,0.9,0.73,-18.89
+4506100000,Lee,South Carolina,County,23.0,23.0,19.0,12090.0,12235.0,13153.0,-4.0,-17.39,1.88,1.44,-23.4
+4506300000,Lexington,South Carolina,County,93.0,98.0,93.0,162566.0,178496.0,216744.0,-5.0,-5.1,0.55,0.43,-21.82
+4506500000,Mccormick,South Carolina,County,11.0,12.0,12.0,6682.0,7164.0,8380.0,0.0,0.0,1.68,1.43,-14.88
+4506700000,Marion,South Carolina,County,18.0,18.0,18.0,21652.0,22352.0,24218.0,0.0,0.0,0.81,0.74,-8.64
+4506900000,Marlboro,South Carolina,County,16.0,16.0,16.0,17658.0,18552.0,21015.0,0.0,0.0,0.86,0.76,-11.63
+4507100000,Newberry,South Carolina,County,31.0,31.0,30.0,22430.0,23654.0,27107.0,-1.0,-3.23,1.31,1.11,-15.27
+4507300000,Oconee,South Carolina,County,32.0,31.0,27.0,45472.0,50339.0,61061.0,-4.0,-12.9,0.62,0.44,-29.03
+4507500000,Orangeburg,South Carolina,County,54.0,61.0,49.0,60523.0,59211.0,65346.0,-12.0,-19.67,1.03,0.75,-27.18
+4507700000,Pickens,South Carolina,County,62.0,71.0,54.0,64107.0,69664.0,84079.0,-17.0,-23.94,1.02,0.64,-37.25
+4507900000,Richland,South Carolina,County,125.0,170.0,142.0,244721.0,255661.0,305202.0,-28.0,-16.47,0.66,0.47,-28.79
+4508100000,Saluda,South Carolina,County,19.0,19.0,16.0,11319.0,11827.0,13232.0,-3.0,-15.79,1.61,1.21,-24.84
+4508300000,Spartanburg,South Carolina,County,99.0,104.0,98.0,160319.0,178682.0,224728.0,-6.0,-5.77,0.58,0.44,-24.14
+4508500000,Sumter,South Carolina,County,59.0,59.0,50.0,67267.0,69213.0,79775.0,-9.0,-15.25,0.85,0.63,-25.88
+4508700000,Union,South Carolina,County,24.0,24.0,24.0,17281.0,17627.0,19450.0,0.0,0.0,1.36,1.23,-9.56
+4508900000,Williamsburg,South Carolina,County,29.0,29.0,29.0,21989.0,22669.0,24394.0,0.0,0.0,1.28,1.19,-7.03
+4509100000,York,South Carolina,County,90.0,94.0,89.0,143339.0,168369.0,216930.0,-5.0,-5.32,0.56,0.41,-26.79
+4600300000,Aurora,South Dakota,County,5.0,,3.0,2028.0,,1907.0,,,,1.57,
+4600300000,Aurora,South Dakota,Other,,4.0,,,1978.0,,,,2.02,,
+4600500000,Beadle,South Dakota,County,5.0,,4.0,12041.0,,10401.0,,,,0.38,
+4600500000,Beadle,South Dakota,Other,,4.0,,,11096.0,,,,0.36,,
+4600700000,Bennett,South Dakota,County,5.0,,4.0,2233.0,,2027.0,,,,1.97,
+4600700000,Bennett,South Dakota,Other,,5.0,,,2090.0,,,,2.39,,
+4600900000,Bon Homme,South Dakota,County,7.0,,5.0,3971.0,,4208.0,,,,1.19,
+4600900000,Bon Homme,South Dakota,Other,,0.0,,,4204.0,,,,0.0,,
+4601100000,Brookings,South Dakota,County,16.0,,11.0,21209.0,,20860.0,,,,0.53,
+4601100000,Brookings,South Dakota,Other,,0.0,,,20833.0,,,,0.0,,
+4601300000,Brown,South Dakota,County,23.0,,11.0,23385.0,,26475.0,,,,0.42,
+4601300000,Brown,South Dakota,Other,,12.0,,,25804.0,,,,0.47,,
+4601500000,Brule,South Dakota,County,6.0,,5.0,3404.0,,3456.0,,,,1.45,
+4601500000,Brule,South Dakota,Other,,0.0,,,3590.0,,,,0.0,,
+4601700000,Buffalo,South Dakota,County,5.0,,3.0,1107.0,,1020.0,,,,2.94,
+4601700000,Buffalo,South Dakota,Other,,5.0,,,994.0,,,,5.03,,
+4601900000,Butte,South Dakota,County,4.0,,4.0,6835.0,,7621.0,,,,0.52,
+4601900000,Butte,South Dakota,Other,,4.0,,,7216.0,,,,0.55,,
+4602100000,Campbell,South Dakota,County,4.0,,5.0,1206.0,,1202.0,,,,4.16,
+4602100000,Campbell,South Dakota,Other,,4.0,,,1247.0,,,,3.21,,
+4602300000,Charles Mix,South Dakota,County,13.0,,9.0,5685.0,,5832.0,,,,1.54,
+4602300000,Charles Mix,South Dakota,Other,,9.0,,,5925.0,,,,1.52,,
+4602500000,Clark,South Dakota,County,9.0,,9.0,2921.0,,2637.0,,,,3.41,
+4602500000,Clark,South Dakota,Other,,9.0,,,2738.0,,,,3.29,,
+4602700000,Clay,South Dakota,County,6.0,,4.0,9096.0,,8744.0,,,,0.46,
+4602700000,Clay,South Dakota,Other,,4.0,,,8917.0,,,,0.45,,
+4602900000,Codington,South Dakota,County,11.0,,9.0,18590.0,,18688.0,,,,0.48,
+4602900000,Codington,South Dakota,Other,,10.0,,,18348.0,,,,0.55,,
+4603100000,Corson,South Dakota,County,10.0,,10.0,2431.0,,2582.0,,,,3.87,
+4603100000,Corson,South Dakota,Other,,11.0,,,2576.0,,,,4.27,,
+4603300000,Custer,South Dakota,County,10.0,,7.0,6278.0,,7961.0,,,,0.88,
+4603300000,Custer,South Dakota,Other,,7.0,,,6905.0,,,,1.01,,
+4603500000,Davison,South Dakota,County,4.0,,1.0,12580.0,,13062.0,,,,0.08,
+4603500000,Davison,South Dakota,Other,,2.0,,,12654.0,,,,0.16,,
+4603700000,Day,South Dakota,County,10.0,,9.0,4232.0,,4108.0,,,,2.19,
+4603700000,Day,South Dakota,Other,,9.0,,,4345.0,,,,2.07,,
+4603900000,Deuel,South Dakota,County,5.0,,6.0,2989.0,,3150.0,,,,1.9,
+4603900000,Deuel,South Dakota,Other,,8.0,,,3094.0,,,,2.59,,
+4604100000,Dewey,South Dakota,County,16.0,,11.0,3207.0,,3647.0,,,,3.02,
+4604100000,Dewey,South Dakota,Other,,12.0,,,3494.0,,,,3.43,,
+4604300000,Douglas,South Dakota,County,5.0,,6.0,2292.0,,2175.0,,,,2.76,
+4604300000,Douglas,South Dakota,Other,,5.0,,,2261.0,,,,2.21,,
+4604500000,Edmunds,South Dakota,County,5.0,,6.0,2941.0,,2824.0,,,,2.12,
+4604500000,Edmunds,South Dakota,Other,,6.0,,,2997.0,,,,2.0,,
+4604700000,Fall River,South Dakota,County,9.0,,5.0,5946.0,,6105.0,,,,0.82,
+4604700000,Fall River,South Dakota,Other,,6.0,,,5748.0,,,,1.04,,
+4604900000,Faulk,South Dakota,County,7.0,,6.0,1649.0,,1597.0,,,,3.76,
+4604900000,Faulk,South Dakota,Other,,7.0,,,1637.0,,,,4.28,,
+4605100000,Grant,South Dakota,County,19.0,,18.0,5583.0,,5085.0,,,,3.54,
+4605100000,Grant,South Dakota,Other,,13.0,,,5351.0,,,,2.43,,
+4605300000,Gregory,South Dakota,County,3.0,,3.0,3095.0,,2997.0,,,,1.0,
+4605300000,Gregory,South Dakota,Other,,3.0,,,2985.0,,,,1.01,,
+4605500000,Haakon,South Dakota,County,7.0,,4.0,1410.0,,1456.0,,,,2.75,
+4605500000,Haakon,South Dakota,Other,,7.0,,,1425.0,,,,4.91,,
+4605700000,Hamlin,South Dakota,County,7.0,,7.0,3904.0,,4098.0,,,,1.71,
+4605700000,Hamlin,South Dakota,Other,,7.0,,,4064.0,,,,1.72,,
+4605900000,Hand,South Dakota,County,10.0,,8.0,2702.0,,2452.0,,,,3.26,
+4605900000,Hand,South Dakota,Other,,9.0,,,2605.0,,,,3.45,,
+4606100000,Hanson,South Dakota,County,3.0,,4.0,3834.0,,4023.0,,,,0.99,
+4606100000,Hanson,South Dakota,Other,,4.0,,,3883.0,,,,1.03,,
+4606300000,Harding,South Dakota,County,8.0,,6.0,996.0,,1043.0,,,,5.75,
+4606300000,Harding,South Dakota,Other,,7.0,,,1021.0,,,,6.86,,
+4606500000,Hughes,South Dakota,County,15.0,,6.0,10977.0,,12297.0,,,,0.49,
+4606500000,Hughes,South Dakota,Other,,7.0,,,12064.0,,,,0.58,,
+4606700000,Hutchinson,South Dakota,County,7.0,,7.0,4886.0,,5034.0,,,,1.39,
+4606700000,Hutchinson,South Dakota,Other,,7.0,,,5132.0,,,,1.36,,
+4606900000,Hyde,South Dakota,County,2.0,,3.0,1056.0,,979.0,,,,3.06,
+4606900000,Hyde,South Dakota,Other,,2.0,,,1047.0,,,,1.91,,
+4607100000,Jackson,South Dakota,County,7.0,,8.0,1858.0,,1990.0,,,,4.02,
+4607100000,Jackson,South Dakota,Other,,7.0,,,1963.0,,,,3.57,,
+4607300000,Jerauld,South Dakota,County,6.0,,2.0,1478.0,,1310.0,,,,1.53,
+4607300000,Jerauld,South Dakota,Other,,2.0,,,1360.0,,,,1.47,,
+4607500000,Jones,South Dakota,County,,,2.0,,,732.0,,,,2.73,
+4607500000,Jones,South Dakota,Other,,3.0,,,746.0,,,,4.02,,
+4607700000,Kingsbury,South Dakota,County,8.0,,1.0,3608.0,,3829.0,,,,0.26,
+4607700000,Kingsbury,South Dakota,Other,,6.0,,,3674.0,,,,1.63,,
+4607900000,Lake,South Dakota,County,6.0,,7.0,9247.0,,9930.0,,,,0.7,
+4607900000,Lake,South Dakota,Other,,6.0,,,10674.0,,,,0.56,,
+4608100000,Lawrence,South Dakota,County,9.0,,7.0,16683.0,,20539.0,,,,0.34,
+4608100000,Lawrence,South Dakota,Other,,9.0,,,19003.0,,,,0.47,,
+4608300000,Lincoln,South Dakota,County,18.0,,22.0,32332.0,,45074.0,,,,0.49,
+4608300000,Lincoln,South Dakota,Other,,18.0,,,37145.0,,,,0.48,,
+4608500000,Lyman,South Dakota,County,8.0,,7.0,2609.0,,2309.0,,,,3.03,
+4608500000,Lyman,South Dakota,Other,,7.0,,,2424.0,,,,2.89,,
+4608700000,Mccook,South Dakota,County,5.0,,5.0,3749.0,,3919.0,,,,1.28,
+4608700000,Mccook,South Dakota,Other,,6.0,,,3889.0,,,,1.54,,
+4608900000,Mcpherson,South Dakota,County,4.0,,3.0,1813.0,,1932.0,,,,1.55,
+4608900000,Mcpherson,South Dakota,Other,,7.0,,,1929.0,,,,3.63,,
+4609100000,Marshall,South Dakota,County,10.0,,6.0,2953.0,,3045.0,,,,1.97,
+4609100000,Marshall,South Dakota,Other,,9.0,,,3045.0,,,,2.96,,
+4609300000,Meade,South Dakota,County,18.0,,15.0,15521.0,,19360.0,,,,0.77,
+4609300000,Meade,South Dakota,Other,,18.0,,,18229.0,,,,0.99,,
+4609500000,Mellette,South Dakota,County,4.0,,3.0,1345.0,,1204.0,,,,2.49,
+4609500000,Mellette,South Dakota,Other,,3.0,,,1254.0,,,,2.39,,
+4609700000,Miner,South Dakota,County,4.0,,1.0,1790.0,,1651.0,,,,0.61,
+4609700000,Miner,South Dakota,Other,,5.0,,,1665.0,,,,3.0,,
+4609900000,Minnehaha,South Dakota,County,71.0,,72.0,77424.0,,142525.0,,,,0.51,
+4609900000,Minnehaha,South Dakota,Other,,71.0,,,127307.0,,,,0.56,,
+4610100000,Moody,South Dakota,County,6.0,,3.0,4859.0,,4533.0,,,,0.66,
+4610100000,Moody,South Dakota,Other,,5.0,,,4492.0,,,,1.11,,
+4610200000,Oglala Lakota,South Dakota,County,,,9.0,,,8831.0,,,,1.02,
+4610300000,Pennington,South Dakota,County,40.0,,31.0,71876.0,,89396.0,,,,0.35,
+4610300000,Pennington,South Dakota,Other,,34.0,,,78003.0,,,,0.44,,
+4610500000,Perkins,South Dakota,County,7.0,,7.0,2452.0,,2288.0,,,,3.06,
+4610500000,Perkins,South Dakota,Other,,7.0,,,2354.0,,,,2.97,,
+4610700000,Potter,South Dakota,County,2.0,,2.0,1866.0,,2288.0,,,,0.87,
+4610700000,Potter,South Dakota,Other,,2.0,,,1919.0,,,,1.04,,
+4610900000,Roberts,South Dakota,County,8.0,,9.0,7226.0,,6667.0,,,,1.35,
+4610900000,Roberts,South Dakota,Other,,12.0,,,7061.0,,,,1.7,,
+4611100000,Sanborn,South Dakota,County,4.0,,3.0,1812.0,,1643.0,,,,1.83,
+4611100000,Sanborn,South Dakota,Other,,4.0,,,1661.0,,,,2.41,,
+4611300000,Oglala Lakota,South Dakota,Other,,9.0,,,8644.0,,,,1.04,,
+4611300000,Shannon,South Dakota,County,9.0,,,8694.0,,,,,,,
+4611500000,Spink,South Dakota,County,5.0,,7.0,4623.0,,4340.0,,,,1.61,
+4611500000,Spink,South Dakota,Other,,7.0,,,4509.0,,,,1.55,,
+4611700000,Stanley,South Dakota,County,3.0,,3.0,2015.0,,2285.0,,,,1.31,
+4611700000,Stanley,South Dakota,Other,,4.0,,,2165.0,,,,1.85,,
+4611900000,Sully,South Dakota,County,5.0,,3.0,1065.0,,1177.0,,,,2.55,
+4611900000,Sully,South Dakota,Other,,4.0,,,1131.0,,,,3.54,,
+4612100000,Todd,South Dakota,County,10.0,,8.0,5872.0,,5479.0,,,,1.46,
+4612100000,Todd,South Dakota,Other,,9.0,,,5458.0,,,,1.65,,
+4612300000,Tripp,South Dakota,County,8.0,,7.0,4124.0,,4027.0,,,,1.74,
+4612300000,Tripp,South Dakota,Other,,7.0,,,4042.0,,,,1.73,,
+4612500000,Turner,South Dakota,County,9.0,,8.0,6147.0,,5997.0,,,,1.33,
+4612500000,Turner,South Dakota,Other,,9.0,,,5955.0,,,,1.51,,
+4612700000,Union,South Dakota,County,8.0,,8.0,10895.0,,13923.0,,,,0.57,
+4612700000,Union,South Dakota,Other,,8.0,,,12546.0,,,,0.64,,
+4612900000,Walworth,South Dakota,County,4.0,,6.0,4229.0,,4096.0,,,,1.46,
+4612900000,Walworth,South Dakota,Other,,7.0,,,4075.0,,,,1.72,,
+4613500000,Yankton,South Dakota,County,7.0,,6.0,14034.0,,15415.0,,,,0.39,
+4613500000,Yankton,South Dakota,Other,,7.0,,,15012.0,,,,0.47,,
+4613700000,Ziebach,South Dakota,County,8.0,,6.0,1762.0,,1769.0,,,,3.39,
+4613700000,Ziebach,South Dakota,Other,,6.0,,,1720.0,,,,3.49,,
+4800100000,Anderson,Texas,County,23.0,23.0,22.0,26487.0,26724.0,29274.0,-1.0,-4.35,0.86,0.75,-12.79
+4800300000,Andrews,Texas,County,2.0,1.0,1.0,8261.0,9145.0,10272.0,0.0,0.0,0.11,0.1,-9.09
+4800500000,Angelina,Texas,County,35.0,27.0,30.0,49260.0,51603.0,53166.0,3.0,11.11,0.52,0.56,7.69
+4800700000,Aransas,Texas,County,7.0,4.0,5.0,15871.0,17284.0,18306.0,1.0,25.0,0.23,0.27,17.39
+4800900000,Archer,Texas,County,13.0,14.0,6.0,6325.0,6285.0,6538.0,-8.0,-57.14,2.23,0.92,-58.74
+4801100000,Armstrong,Texas,County,7.0,7.0,6.0,1427.0,1391.0,1498.0,-1.0,-14.29,5.03,4.01,-20.28
+4801300000,Atascosa,Texas,County,24.0,24.0,15.0,24193.0,26478.0,29409.0,-9.0,-37.5,0.91,0.51,-43.96
+4801500000,Austin,Texas,County,19.0,19.0,16.0,18141.0,19263.0,20293.0,-3.0,-15.79,0.99,0.79,-20.2
+4801700000,Bailey,Texas,County,2.0,2.0,1.0,3526.0,3736.0,3539.0,-1.0,-50.0,0.54,0.28,-48.15
+4801900000,Bandera,Texas,County,13.0,10.0,10.0,14848.0,14759.0,17098.0,0.0,0.0,0.68,0.58,-14.71
+4802100000,Bastrop,Texas,County,28.0,,22.0,39993.0,,52096.0,,,,0.42,
+4802300000,Baylor,Texas,County,5.0,,4.0,2528.0,,2408.0,,,,1.66,
+4802500000,Bee,Texas,County,,18.0,7.0,,15107.0,16033.0,-11.0,-61.11,1.19,0.44,-63.03
+4802700000,Bell,Texas,County,53.0,,41.0,163710.0,,215974.0,,,,0.19,
+4802900000,Bexar,Texas,County,342.0,346.0,302.0,921257.0,1049089.0,1189373.0,-44.0,-12.72,0.33,0.25,-24.24
+4803100000,Blanco,Texas,County,7.0,,6.0,7186.0,,9344.0,,,,0.64,
+4803300000,Borden,Texas,County,8.0,8.0,7.0,432.0,463.0,499.0,-1.0,-12.5,17.28,14.03,-18.81
+4803500000,Bosque,Texas,County,15.0,12.0,11.0,11977.0,10926.0,12724.0,-1.0,-8.33,1.1,0.86,-21.82
+4803700000,Bowie,Texas,County,37.0,36.0,33.0,57329.0,59083.0,61407.0,-3.0,-8.33,0.61,0.54,-11.48
+4803900000,Brazoria,Texas,County,73.0,49.0,35.0,178342.0,197568.0,224256.0,-14.0,-28.57,0.25,0.16,-36.0
+4804100000,Brazos,Texas,County,41.0,30.0,25.0,91279.0,106821.0,122137.0,-5.0,-16.67,0.28,0.2,-28.57
+4804300000,Brewster,Texas,County,12.0,,7.0,6768.0,,7524.0,,,,0.93,
+4804500000,Briscoe,Texas,County,6.0,4.0,4.0,1139.0,1095.0,1025.0,0.0,0.0,3.65,3.9,6.85
+4804700000,Brooks,Texas,County,,6.0,5.0,,6428.0,5521.0,-1.0,-16.67,0.93,0.91,-2.15
+4804900000,Brown,Texas,County,17.0,17.0,18.0,22550.0,22106.0,23954.0,1.0,5.88,0.77,0.75,-2.6
+4805100000,Burleson,Texas,County,17.0,16.0,13.0,10920.0,11483.0,12440.0,-3.0,-18.75,1.39,1.05,-24.46
+4805300000,Burnet,Texas,County,22.0,20.0,21.0,26593.0,28938.0,33697.0,1.0,5.0,0.69,0.62,-10.14
+4805500000,Caldwell,Texas,County,27.0,16.0,17.0,20791.0,22560.0,25945.0,1.0,6.25,0.71,0.66,-7.04
+4805700000,Calhoun,Texas,County,24.0,23.0,14.0,12501.0,12891.0,13080.0,-9.0,-39.13,1.78,1.07,-39.89
+4805900000,Callahan,Texas,County,10.0,9.0,5.0,8856.0,8483.0,9773.0,-4.0,-44.44,1.06,0.51,-51.89
+4806100000,Cameron,Texas,County,104.0,104.0,73.0,180968.0,197060.0,218910.0,-31.0,-29.81,0.53,0.33,-37.74
+4806300000,Camp,Texas,County,5.0,,4.0,7190.0,,7904.0,,,,0.51,
+4806500000,Carson,Texas,County,,8.0,8.0,,4317.0,4345.0,0.0,0.0,1.85,1.84,-0.54
+4806700000,Cass,Texas,County,19.0,18.0,13.0,18924.0,20040.0,20889.0,-5.0,-27.78,0.9,0.62,-31.11
+4806900000,Castro,Texas,County,9.0,,8.0,4165.0,,3853.0,,,,2.08,
+4807100000,Chambers,Texas,County,18.0,18.0,12.0,24415.0,26930.0,30709.0,-6.0,-33.33,0.67,0.39,-41.79
+4807300000,Cherokee,Texas,County,28.0,26.0,25.0,27066.0,26256.0,29166.0,-1.0,-3.85,0.99,0.86,-13.13
+4807500000,Childress,Texas,County,5.0,5.0,4.0,3568.0,3568.0,3658.0,-1.0,-20.0,1.4,1.09,-22.14
+4807700000,Clay,Texas,County,17.0,,13.0,7784.0,,7959.0,,,,1.63,
+4807900000,Cochran,Texas,County,6.0,,3.0,1813.0,,1771.0,,,,1.69,
+4808100000,Coke,Texas,County,6.0,4.0,4.0,2362.0,,2414.0,0.0,0.0,,1.66,
+4808300000,Coleman,Texas,County,6.0,6.0,4.0,6046.0,5945.0,5960.0,-2.0,-33.33,1.01,0.67,-33.66
+4808500000,Collin,Texas,County,25.0,107.0,102.0,458932.0,540084.0,648670.0,-5.0,-4.67,0.2,0.16,-20.0
+4808700000,Collingsworth,Texas,County,8.0,8.0,7.0,1894.0,1901.0,1942.0,-1.0,-12.5,4.21,3.6,-14.49
+4808900000,Colorado,Texas,County,13.0,13.0,12.0,13332.0,13319.0,14378.0,-1.0,-7.69,0.98,0.83,-15.31
+4809100000,Comal,Texas,County,26.0,27.0,24.0,78444.0,92389.0,115876.0,-3.0,-11.11,0.29,0.21,-27.59
+4809300000,Comanche,Texas,County,16.0,14.0,12.0,8774.0,8809.0,9562.0,-2.0,-14.29,1.59,1.25,-21.38
+4809500000,Concho,Texas,County,9.0,9.0,9.0,1697.0,1642.0,1757.0,0.0,0.0,5.48,5.12,-6.57
+4809700000,Cooke,Texas,County,17.0,17.0,29.0,23403.0,25086.0,27268.0,12.0,70.59,0.68,1.06,55.88
+4809900000,Coryell,Texas,County,17.0,8.0,8.0,35823.0,18643.0,41450.0,0.0,0.0,0.43,0.19,-55.81
+4810100000,Cottle,Texas,County,,6.0,5.0,,1077.0,1041.0,-1.0,-16.67,5.57,4.8,-13.82
+4810300000,Crane,Texas,County,5.0,5.0,4.0,2428.0,2689.0,2663.0,-1.0,-20.0,1.86,1.5,-19.35
+4810500000,Crockett,Texas,County,5.0,4.0,4.0,2579.0,2552.0,2473.0,0.0,0.0,1.57,1.62,3.18
+4810700000,Crosby,Texas,County,5.0,,4.0,3724.0,,3629.0,,,,1.1,
+4810900000,Culberson,Texas,County,6.0,6.0,5.0,1757.0,1762.0,1709.0,-1.0,-16.67,3.41,2.93,-14.08
+4811100000,Dallam,Texas,County,,3.0,4.0,,3151.0,3046.0,1.0,33.33,0.95,1.31,37.89
+4811300000,Dallas,Texas,County,514.0,535.0,464.0,1181364.0,1293881.0,1398469.0,-71.0,-13.27,0.41,0.33,-19.51
+4811500000,Dawson,Texas,County,10.0,,9.0,7628.0,,7104.0,,,,1.27,
+4811700000,Deaf Smith,Texas,County,5.0,,4.0,8502.0,,8900.0,,,,0.45,
+4811900000,Delta,Texas,County,8.0,,7.0,3313.0,,3949.0,,,,1.77,
+4812100000,Denton,Texas,County,117.0,135.0,156.0,390116.0,467818.0,565089.0,21.0,15.56,0.29,0.28,-3.45
+4812300000,Dewitt,Texas,County,9.0,11.0,7.0,11924.0,11491.0,12094.0,-4.0,-36.36,0.96,0.58,-39.58
+4812500000,Dickens,Texas,County,7.0,,7.0,1370.0,,1328.0,,,,5.27,
+4812700000,Dimmit,Texas,County,8.0,,1.0,6968.0,,7341.0,,,,0.14,
+4812900000,Donley,Texas,County,7.0,7.0,6.0,2459.0,2087.0,2322.0,-1.0,-14.29,3.35,2.58,-22.99
+4813100000,Duval,Texas,County,12.0,9.0,9.0,8831.0,7139.0,8346.0,0.0,0.0,1.26,1.08,-14.29
+4813300000,Eastland,Texas,County,10.0,9.0,9.0,10570.0,11364.0,12230.0,0.0,0.0,0.79,0.74,-6.33
+4813500000,Ector,Texas,County,33.0,25.0,25.0,66710.0,71630.0,80872.0,0.0,0.0,0.35,0.31,-11.43
+4813700000,Edwards,Texas,County,6.0,6.0,5.0,1565.0,1529.0,1499.0,-1.0,-16.67,3.92,3.34,-14.8
+4813900000,Ellis,Texas,County,44.0,44.0,36.0,385242.0,102217.0,120188.0,-8.0,-18.18,0.43,0.3,-30.23
+4814100000,El Paso,Texas,County,,219.0,151.0,,427851.0,488470.0,-68.0,-31.05,0.51,0.31,-39.22
+4814300000,Erath,Texas,County,13.0,12.0,10.0,20786.0,21535.0,23935.0,-2.0,-16.67,0.56,0.42,-25.0
+4814500000,Falls,Texas,County,14.0,,13.0,9709.0,,10361.0,,,,1.25,
+4814700000,Fannin,Texas,County,17.0,17.0,16.0,19390.0,20565.0,22199.0,-1.0,-5.88,0.83,0.72,-13.25
+4814900000,Fayette,Texas,County,27.0,27.0,27.0,15807.0,16246.0,17398.0,0.0,0.0,1.66,1.55,-6.63
+4815100000,Fisher,Texas,County,11.0,6.0,4.0,2812.0,2767.0,2646.0,-2.0,-33.33,2.17,1.51,-30.41
+4815300000,Floyd,Texas,County,4.0,2.0,2.0,4309.0,3826.0,3850.0,0.0,0.0,0.52,0.52,0.0
+4815500000,Foard,Texas,County,3.0,2.0,4.0,1077.0,948.0,884.0,2.0,100.0,2.11,4.52,114.22
+4815700000,Fort Bend,Texas,County,,83.0,85.0,,408532.0,482368.0,2.0,2.41,0.2,0.18,-10.0
+4815900000,Franklin,Texas,County,9.0,9.0,8.0,6658.0,6798.0,7061.0,-1.0,-11.11,1.32,1.13,-14.39
+4816100000,Freestone,Texas,County,22.0,21.0,15.0,11393.0,11465.0,12481.0,-6.0,-28.57,1.83,1.2,-34.43
+4816300000,Frio,Texas,County,20.0,10.0,9.0,10374.0,9134.0,8984.0,-1.0,-10.0,1.09,1.0,-8.26
+4816500000,Gaines,Texas,County,6.0,6.0,4.0,7671.0,8617.0,9701.0,-2.0,-33.33,0.7,0.41,-41.43
+4816700000,Galveston,Texas,County,62.0,55.0,46.0,187608.0,208232.0,228482.0,-9.0,-16.36,0.26,0.2,-23.08
+4816900000,Garza,Texas,County,7.0,7.0,6.0,2825.0,2721.0,2681.0,-1.0,-14.29,2.57,2.24,-12.84
+4817100000,Gillespie,Texas,County,14.0,14.0,13.0,18101.0,18968.0,20404.0,-1.0,-7.14,0.74,0.64,-13.51
+4817300000,Glasscock,Texas,County,5.0,4.0,4.0,774.0,773.0,800.0,0.0,0.0,5.17,5.0,-3.29
+4817500000,Goliad,Texas,County,10.0,9.0,9.0,5516.0,5531.0,5766.0,0.0,0.0,1.63,1.56,-4.29
+4817700000,Gonzales,Texas,County,17.0,,14.0,12424.0,,12629.0,,,,1.11,
+4817900000,Gray,Texas,County,8.0,8.0,7.0,12820.0,11657.0,12406.0,-1.0,-12.5,0.69,0.56,-18.84
+4818100000,Grayson,Texas,County,41.0,28.0,26.0,74147.0,78723.0,86740.0,-2.0,-7.14,0.36,0.3,-16.67
+4818300000,Gregg,Texas,County,29.0,32.0,18.0,68126.0,68833.0,72867.0,-14.0,-43.75,0.46,0.25,-45.65
+4818500000,Grimes,Texas,County,16.0,15.0,10.0,14952.0,15723.0,17877.0,-5.0,-33.33,0.95,0.56,-41.05
+4818700000,Guadalupe,Texas,County,40.0,42.0,35.0,80164.0,93596.0,111142.0,-7.0,-16.67,0.45,0.31,-31.11
+4818900000,Hale,Texas,County,19.0,19.0,15.0,19897.0,18752.0,18997.0,-4.0,-21.05,1.01,0.79,-21.78
+4819100000,Hall,Texas,County,5.0,,4.0,2046.0,,1926.0,,,,2.08,
+4819300000,Hamilton,Texas,County,12.0,10.0,9.0,5558.0,5339.0,5832.0,-1.0,-10.0,1.87,1.54,-17.65
+4819500000,Hansford,Texas,County,10.0,,8.0,3076.0,,3009.0,,,,2.66,
+4819700000,Hardeman,Texas,County,6.0,6.0,4.0,2612.0,2537.0,2486.0,-2.0,-33.33,2.36,1.61,-31.78
+4819900000,Hardin,Texas,County,23.0,19.0,19.0,35380.0,38154.0,39952.0,0.0,0.0,0.5,0.48,-4.0
+4820100000,Harris,Texas,County,813.0,786.0,797.0,2008808.0,2203258.0,2480522.0,11.0,1.4,0.36,0.32,-11.11
+4820300000,Harrison,Texas,County,33.0,36.0,26.0,43804.0,44769.0,45933.0,-10.0,-27.78,0.8,0.57,-28.75
+4820500000,Hartley,Texas,County,5.0,4.0,3.0,2855.0,2699.0,2909.0,-1.0,-25.0,1.48,1.03,-30.41
+4820700000,Haskell,Texas,County,,11.0,10.0,,3394.0,3377.0,-1.0,-9.09,3.24,2.96,-8.64
+4820900000,Hays,Texas,County,48.0,36.0,36.0,103973.0,123954.0,152840.0,0.0,0.0,0.29,0.24,-17.24
+4821100000,Hemphill,Texas,County,,9.0,8.0,,2336.0,2355.0,-1.0,-11.11,3.85,3.4,-11.69
+4821300000,Henderson,Texas,County,29.0,29.0,24.0,49459.0,50704.0,54663.0,-5.0,-17.24,0.57,0.44,-22.81
+4821500000,Hidalgo,Texas,County,104.0,109.0,75.0,306710.0,338990.0,391309.0,-34.0,-31.19,0.32,0.19,-40.62
+4821700000,Hill,Texas,County,23.0,23.0,22.0,21938.0,22825.0,23625.0,-1.0,-4.35,1.01,0.93,-7.92
+4821900000,Hockley,Texas,County,18.0,14.0,14.0,13472.0,12580.0,13781.0,0.0,0.0,1.11,1.02,-8.11
+4822100000,Hood,Texas,County,,11.0,10.0,,38284.0,44831.0,-1.0,-9.09,0.29,0.22,-24.14
+4822300000,Hopkins,Texas,County,22.0,,12.0,21215.0,,23954.0,,,,0.5,
+4822500000,Houston,Texas,County,22.0,23.0,21.0,13284.0,12591.0,13444.0,-2.0,-8.7,1.83,1.56,-14.75
+4822700000,Howard,Texas,County,7.0,7.0,7.0,16898.0,17041.0,17526.0,0.0,0.0,0.41,0.4,-2.44
+4822900000,Hudspeth,Texas,County,8.0,,5.0,1666.0,,2085.0,,,,2.4,
+4823100000,Hunt,Texas,County,35.0,34.0,34.0,48770.0,50312.0,59367.0,0.0,0.0,0.68,0.57,-16.18
+4823300000,Hutchinson,Texas,County,11.0,11.0,8.0,13789.0,13619.0,13533.0,-3.0,-27.27,0.81,0.59,-27.16
+4823500000,Irion,Texas,County,3.0,2.0,2.0,1308.0,1340.0,1298.0,0.0,0.0,1.49,1.54,3.36
+4823700000,Jack,Texas,County,7.0,7.0,4.0,4822.0,5078.0,5254.0,-3.0,-42.86,1.38,0.76,-44.93
+4823900000,Jackson,Texas,County,10.0,10.0,10.0,8825.0,8784.0,9482.0,0.0,0.0,1.14,1.05,-7.89
+4824100000,Jasper,Texas,County,25.0,21.0,20.0,22240.0,21485.0,23374.0,-1.0,-4.76,0.98,0.86,-12.24
+4824300000,Jeff Davis,Texas,County,6.0,6.0,5.0,1572.0,1655.0,1670.0,-1.0,-16.67,3.63,2.99,-17.63
+4824500000,Jefferson,Texas,County,69.0,51.0,40.0,147163.0,149936.0,149372.0,-11.0,-21.57,0.34,0.27,-20.59
+4824700000,Jim Hogg,Texas,County,5.0,6.0,4.0,3802.0,3925.0,3800.0,-2.0,-33.33,1.53,1.05,-31.37
+4824900000,Jim Wells,Texas,County,25.0,26.0,21.0,25539.0,26316.0,26636.0,-5.0,-19.23,0.99,0.79,-20.2
+4825100000,Johnson,Texas,County,37.0,37.0,34.0,81609.0,91821.0,105574.0,-3.0,-8.11,0.4,0.32,-20.0
+4825300000,Jones,Texas,County,13.0,14.0,7.0,9972.0,10099.0,9635.0,-7.0,-50.0,1.39,0.73,-47.48
+4825500000,Karnes,Texas,County,,15.0,14.0,,7603.0,8359.0,-1.0,-6.67,1.97,1.67,-15.23
+4825700000,Kaufman,Texas,County,34.0,35.0,26.0,59818.0,67665.0,81901.0,-9.0,-25.71,0.52,0.32,-38.46
+4825900000,Kendall,Texas,County,20.0,13.0,11.0,25748.0,29218.0,33836.0,-2.0,-15.38,0.44,0.33,-25.0
+4826100000,Kenedy,Texas,County,7.0,7.0,6.0,363.0,318.0,296.0,-1.0,-14.29,22.01,20.27,-7.91
+4826300000,Kent,Texas,County,7.0,7.0,5.0,624.0,616.0,592.0,-2.0,-28.57,11.36,8.45,-25.62
+4826500000,Kerr,Texas,County,22.0,22.0,20.0,32836.0,34640.0,37726.0,-2.0,-9.09,0.64,0.53,-17.19
+4826700000,Kimble,Texas,County,5.0,4.0,4.0,2947.0,2862.0,3113.0,0.0,0.0,1.4,1.28,-8.57
+4826900000,King,Texas,County,5.0,5.0,4.0,186.0,202.0,183.0,-1.0,-20.0,24.75,21.86,-11.68
+4827100000,Kinney,Texas,County,,,4.0,,,2270.0,,,,1.76,
+4827300000,Kleberg,Texas,County,13.0,18.0,17.0,17696.0,18002.0,18749.0,-1.0,-5.56,1.0,0.91,-9.0
+4827500000,Knox,Texas,County,7.0,,4.0,2305.0,,2391.0,,,,1.67,
+4827700000,Lamar,Texas,County,34.0,32.0,27.0,8434.0,29870.0,32390.0,-5.0,-15.62,1.07,0.83,-22.43
+4827900000,Lamb,Texas,County,10.0,7.0,6.0,12836.0,7676.0,8085.0,-1.0,-14.29,0.91,0.74,-18.68
+4828100000,Lampasas,Texas,County,6.0,6.0,5.0,4007.0,13545.0,15424.0,-1.0,-16.67,0.44,0.32,-27.27
+4828300000,La Salle,Texas,County,6.0,8.0,4.0,28893.0,4006.0,4426.0,-4.0,-50.0,2.0,0.9,-55.0
+4828500000,Lavaca,Texas,County,20.0,20.0,19.0,13100.0,13252.0,13661.0,-1.0,-5.0,1.51,1.39,-7.95
+4828700000,Lee,Texas,County,16.0,11.0,8.0,9675.0,10289.0,11145.0,-3.0,-27.27,1.07,0.72,-32.71
+4828900000,Leon,Texas,County,15.0,15.0,14.0,10874.0,11166.0,11727.0,-1.0,-6.67,1.34,1.19,-11.19
+4829100000,Liberty,Texas,County,34.0,,20.0,43172.0,,46155.0,,,,0.43,
+4829300000,Limestone,Texas,County,23.0,23.0,21.0,13493.0,13666.0,13963.0,-2.0,-8.7,1.68,1.5,-10.71
+4829500000,Lipscomb,Texas,County,,8.0,4.0,,2048.0,1977.0,-4.0,-50.0,3.91,2.02,-48.34
+4829700000,Live Oak,Texas,County,15.0,,14.0,7161.0,,7572.0,,,,1.85,
+4829900000,Llano,Texas,County,12.0,12.0,9.0,14259.0,14279.0,16688.0,-3.0,-25.0,0.84,0.54,-35.71
+4830100000,Loving,Texas,County,5.0,5.0,4.0,123.0,112.0,111.0,-1.0,-20.0,44.64,36.04,-19.27
+4830300000,Lubbock,Texas,County,63.0,66.0,42.0,156484.0,166400.0,183320.0,-24.0,-36.36,0.4,0.23,-42.5
+4830500000,Lynn,Texas,County,11.0,11.0,5.0,3869.0,3849.0,4028.0,-6.0,-54.55,2.86,1.24,-56.64
+4830700000,Mcculloch,Texas,County,8.0,10.0,9.0,5199.0,4892.0,5361.0,-1.0,-10.0,2.04,1.68,-17.65
+4830900000,Mclennan,Texas,County,64.0,33.0,34.0,128451.0,130365.0,149461.0,1.0,3.03,0.25,0.23,-8.0
+4831100000,Mcmullen,Texas,County,5.0,5.0,3.0,732.0,697.0,706.0,-2.0,-40.0,7.17,4.25,-40.73
+4831300000,Madison,Texas,County,6.0,8.0,5.0,6629.0,7024.0,7822.0,-3.0,-37.5,1.14,0.64,-43.86
+4831500000,Marion,Texas,County,11.0,11.0,7.0,7209.0,6943.0,7596.0,-4.0,-36.36,1.58,0.92,-41.77
+4831700000,Martin,Texas,County,4.0,3.0,2.0,3006.0,3128.0,3467.0,-1.0,-33.33,0.96,0.58,-39.58
+4831900000,Mason,Texas,County,5.0,4.0,4.0,2890.0,2962.0,3168.0,0.0,0.0,1.35,1.26,-6.67
+4832100000,Matagorda,Texas,County,20.0,20.0,13.0,21374.0,21536.0,22026.0,-7.0,-35.0,0.93,0.59,-36.56
+4832300000,Maverick,Texas,County,15.0,15.0,14.0,27902.0,30643.0,33050.0,-1.0,-6.67,0.49,0.42,-14.29
+4832500000,Medina,Texas,County,16.0,,7.0,27312.0,,33763.0,,,,0.21,
+4832700000,Menard,Texas,County,4.0,4.0,3.0,1635.0,1488.0,1469.0,-1.0,-25.0,2.69,2.04,-24.16
+4832900000,Midland,Texas,County,25.0,25.0,22.0,73781.0,80329.0,90392.0,-3.0,-12.0,0.31,0.24,-22.58
+4833100000,Milam,Texas,County,15.0,12.0,8.0,14503.0,13971.0,15838.0,-4.0,-33.33,0.86,0.51,-40.7
+4833300000,Mills,Texas,County,8.0,7.0,7.0,3430.0,3335.0,3429.0,0.0,0.0,2.1,2.04,-2.86
+4833500000,Mitchell,Texas,County,7.0,7.0,688.0,4571.0,4495.0,4524.0,681.0,9728.57,1.56,152.08,9648.72
+4833700000,Montague,Texas,County,19.0,,10.0,12866.0,,14001.0,,,,0.71,
+4833900000,Montgomery,Texas,County,93.0,98.0,99.0,265557.0,313858.0,370060.0,1.0,1.02,0.31,0.27,-12.9
+4834100000,Moore,Texas,County,,8.0,7.0,,9670.0,9995.0,-1.0,-12.5,0.83,0.7,-15.66
+4834300000,Morris,Texas,County,9.0,,7.0,8533.0,,8583.0,,,,0.82,
+4834500000,Motley,Texas,County,7.0,,3.0,863.0,,859.0,,,,3.49,
+4834700000,Nacogdoches,Texas,County,18.0,18.0,21.0,31127.0,34769.0,38786.0,3.0,16.67,0.52,0.54,3.85
+4834900000,Navarro,Texas,County,31.0,21.0,20.0,27330.0,27738.0,29959.0,-1.0,-4.76,0.76,0.67,-11.84
+4835100000,Newton,Texas,County,24.0,23.0,13.0,9038.0,9440.0,9400.0,-10.0,-43.48,2.44,1.38,-43.44
+4835300000,Nolan,Texas,County,10.0,10.0,9.0,8479.0,8747.0,8871.0,-1.0,-10.0,1.14,1.01,-11.4
+4835500000,Nueces,Texas,County,143.0,,81.0,192008.0,,211652.0,,,,0.38,
+4835700000,Ochiltree,Texas,County,5.0,,5.0,5122.0,,5192.0,,,,0.96,
+4835900000,Oldham,Texas,County,8.0,5.0,4.0,1377.0,1413.0,1425.0,-1.0,-20.0,3.54,2.81,-20.62
+4836100000,Orange,Texas,County,38.0,38.0,34.0,50344.0,53064.0,54442.0,-4.0,-10.53,0.72,0.62,-13.89
+4836300000,Palo Pinto,Texas,County,19.0,15.0,12.0,17247.0,17444.0,18946.0,-3.0,-20.0,0.86,0.63,-26.74
+4836500000,Panola,Texas,County,21.0,20.0,19.0,15867.0,16372.0,16808.0,-1.0,-5.0,1.22,1.13,-7.38
+4836700000,Parker,Texas,County,50.0,50.0,37.0,75933.0,85277.0,103999.0,-13.0,-26.0,0.59,0.36,-38.98
+4836900000,Parmer,Texas,County,,9.0,7.0,,4461.0,4537.0,-2.0,-22.22,2.02,1.54,-23.76
+4837100000,Pecos,Texas,County,12.0,11.0,9.0,8048.0,8169.0,8323.0,-2.0,-18.18,1.35,1.08,-20.0
+4837300000,Polk,Texas,County,24.0,21.0,21.0,37387.0,38209.0,40520.0,0.0,0.0,0.55,0.52,-5.45
+4837500000,Potter,Texas,County,29.0,22.0,16.0,52322.0,54956.0,57736.0,-6.0,-27.27,0.4,0.28,-30.0
+4837700000,Presidio,Texas,County,4.0,2.0,6.0,5226.0,4806.0,4789.0,4.0,200.0,0.42,1.25,197.62
+4837900000,Rains,Texas,County,9.0,9.0,8.0,6768.0,7054.0,8320.0,-1.0,-11.11,1.28,0.96,-25.0
+4838100000,Randall,Texas,County,26.0,14.0,13.0,78696.0,81016.0,93313.0,-1.0,-7.14,0.17,0.14,-17.65
+4838300000,Reagan,Texas,County,5.0,5.0,3.0,1785.0,1896.0,1879.0,-2.0,-40.0,2.64,1.6,-39.39
+4838500000,Real,Texas,County,54.0,11.0,5.0,2424.0,2522.0,2702.0,-6.0,-54.55,4.36,1.85,-57.57
+4838700000,Red River,Texas,County,,20.0,19.0,,8247.0,8489.0,-1.0,-5.0,2.43,2.24,-7.82
+4838900000,Reeves,Texas,County,,12.0,11.0,,7098.0,7558.0,-1.0,-8.33,1.69,1.46,-13.61
+4839100000,Refugio,Texas,County,11.0,11.0,6.0,5163.0,5090.0,5007.0,-5.0,-45.45,2.16,1.2,-44.44
+4839300000,Roberts,Texas,County,3.0,3.0,2.0,691.0,706.0,680.0,-1.0,-33.33,4.25,2.94,-30.82
+4839500000,Robertson,Texas,County,18.0,15.0,13.0,11544.0,10463.0,11844.0,-2.0,-13.33,1.43,1.1,-23.08
+4839700000,Rockwall,Texas,County,21.0,21.0,16.0,48683.0,,71102.0,-5.0,-23.81,,0.23,
+4839900000,Runnels,Texas,County,8.0,9.0,8.0,6696.0,6680.0,7025.0,-1.0,-11.11,1.35,1.14,-15.56
+4840100000,Rusk,Texas,County,25.0,18.0,12.0,30865.0,31339.0,32388.0,-6.0,-33.33,0.57,0.37,-35.09
+4840300000,Sabine,Texas,County,10.0,10.0,8.0,7544.0,7710.0,8050.0,-2.0,-20.0,1.3,0.99,-23.85
+4840500000,San Augustine,Texas,County,13.0,13.0,11.0,6152.0,5912.0,6108.0,-2.0,-15.38,2.2,1.8,-18.18
+4840700000,San Jacinto,Texas,County,16.0,14.0,7.0,16328.0,17535.0,18969.0,-7.0,-50.0,0.8,0.37,-53.75
+4840900000,San Patricio,Texas,County,23.0,16.0,10.0,42802.0,39169.0,43248.0,-6.0,-37.5,0.41,0.23,-43.9
+4841100000,San Saba,Texas,County,5.0,,3.0,3798.0,,3776.0,,,,0.79,
+4841300000,Schleicher,Texas,County,5.0,5.0,2.0,1760.0,1824.0,1709.0,-3.0,-60.0,2.74,1.17,-57.3
+4841500000,Scurry,Texas,County,12.0,12.0,6.0,9394.0,9486.0,9489.0,-6.0,-50.0,1.27,0.63,-50.39
+4841700000,Shackelford,Texas,County,5.0,5.0,4.0,2348.0,,2320.0,-1.0,-20.0,,1.72,
+4841900000,Shelby,Texas,County,15.0,15.0,15.0,14392.0,14513.0,15570.0,0.0,0.0,1.03,0.96,-6.8
+4842100000,Sherman,Texas,County,,5.0,4.0,,1518.0,1520.0,-1.0,-20.0,3.29,2.63,-20.06
+4842300000,Smith,Texas,County,53.0,39.0,34.0,124908.0,135567.0,146149.0,-5.0,-12.82,0.29,0.23,-20.69
+4842500000,Somervell,Texas,County,6.0,5.0,4.0,5661.0,5902.0,6712.0,-1.0,-20.0,0.85,0.6,-29.41
+4842700000,Starr,Texas,County,,11.0,10.0,,31134.0,34050.0,-1.0,-9.09,0.35,0.29,-17.14
+4842900000,Stephens,Texas,County,7.0,5.0,5.0,5530.0,5409.0,5672.0,0.0,0.0,0.92,0.88,-4.35
+4843100000,Sterling,Texas,County,5.0,4.0,4.0,850.0,935.0,939.0,0.0,0.0,4.28,4.26,-0.47
+4843300000,Stonewall,Texas,County,5.0,5.0,2.0,1056.0,998.0,953.0,-3.0,-60.0,5.01,2.1,-58.08
+4843500000,Sutton,Texas,County,5.0,,4.0,2553.0,,2449.0,,,,1.63,
+4843700000,Swisher,Texas,County,6.0,5.0,4.0,4183.0,4060.0,3941.0,-1.0,-20.0,1.23,1.01,-17.89
+4843900000,Tarrant,Texas,County,,413.0,329.0,,1086337.0,1212524.0,-84.0,-20.34,0.38,0.27,-28.95
+4844100000,Taylor,Texas,County,40.0,27.0,22.0,75810.0,78656.0,83696.0,-5.0,-18.52,0.34,0.26,-23.53
+4844300000,Terrell,Texas,County,3.0,5.0,1.0,892.0,701.0,673.0,-4.0,-80.0,7.13,1.49,-79.1
+4844500000,Terry,Texas,County,8.0,8.0,7.0,7260.0,6993.0,6589.0,-1.0,-12.5,1.14,1.06,-7.02
+4844700000,Throckmorton,Texas,County,6.0,4.0,4.0,1284.0,1178.0,1216.0,0.0,0.0,3.4,3.29,-3.24
+4844900000,Titus,Texas,County,24.0,,19.0,15799.0,,17666.0,,,,1.08,
+4845100000,Tom Green,Texas,County,31.0,22.0,21.0,62168.0,64614.0,70086.0,-1.0,-4.55,0.34,0.3,-11.76
+4845300000,Travis,Texas,County,238.0,232.0,178.0,637885.0,732044.0,854577.0,-54.0,-23.28,0.32,0.21,-34.38
+4845500000,Trinity,Texas,County,23.0,21.0,20.0,11730.0,11445.0,11541.0,-1.0,-4.76,1.83,1.73,-5.46
+4845700000,Tyler,Texas,County,18.0,18.0,18.0,13077.0,13490.0,14556.0,0.0,0.0,1.33,1.24,-6.77
+4845900000,Upshur,Texas,County,17.0,17.0,16.0,26806.0,27915.0,28619.0,-1.0,-5.88,0.61,0.56,-8.2
+4846100000,Upton,Texas,County,5.0,5.0,3.0,2219.0,2314.0,2207.0,-2.0,-40.0,2.16,1.36,-37.04
+4846300000,Uvalde,Texas,County,15.0,17.0,14.0,16186.0,16762.0,17420.0,-3.0,-17.65,1.01,0.8,-20.79
+4846500000,Val Verde,Texas,County,18.0,17.0,9.0,27522.0,27690.0,28927.0,-8.0,-47.06,0.61,0.31,-49.18
+4846700000,Van Zandt,Texas,County,19.0,19.0,19.0,33406.0,36123.0,38965.0,0.0,0.0,0.53,0.49,-7.55
+4846900000,Victoria,Texas,County,41.0,38.0,35.0,51450.0,54546.0,56612.0,-3.0,-7.89,0.7,0.62,-11.43
+4847100000,Walker,Texas,County,18.0,18.0,11.0,30735.0,32474.0,35038.0,-7.0,-38.89,0.55,0.31,-43.64
+4847300000,Waller,Texas,County,23.0,28.0,20.0,29737.0,31491.0,35116.0,-8.0,-28.57,0.89,0.57,-35.96
+4847500000,Ward,Texas,County,6.0,9.0,6.0,6153.0,6476.0,6880.0,-3.0,-33.33,1.39,0.87,-37.41
+4847700000,Washington,Texas,County,16.0,16.0,15.0,22496.0,22951.0,23947.0,-1.0,-6.25,0.7,0.63,-10.0
+4847900000,Webb,Texas,County,100.0,79.0,69.0,111009.0,123291.0,137840.0,-10.0,-12.66,0.64,0.5,-21.88
+4848100000,Wharton,Texas,County,14.0,10.0,8.0,24677.0,25176.0,25697.0,-2.0,-20.0,0.4,0.31,-22.5
+4848300000,Wheeler,Texas,County,12.0,,10.0,3514.0,,3514.0,,,,2.85,
+4848500000,Wichita,Texas,County,40.0,30.0,25.0,78454.0,75088.0,83575.0,-5.0,-16.67,0.4,0.3,-25.0
+4848700000,Wilbarger,Texas,County,7.0,,4.0,8000.0,,8196.0,,,,0.49,
+4848900000,Willacy,Texas,County,12.0,11.0,18.0,11320.0,12226.0,12804.0,7.0,63.64,0.9,1.41,56.67
+4849100000,Williamson,Texas,County,113.0,94.0,57.0,254879.0,306811.0,376672.0,-37.0,-39.36,0.31,0.15,-51.61
+4849300000,Wilson,Texas,County,18.0,18.0,16.0,27873.0,31269.0,35036.0,-2.0,-11.11,0.58,0.46,-20.69
+4849500000,Winkler,Texas,County,6.0,6.0,6.0,3585.0,3817.0,4013.0,0.0,0.0,1.57,1.5,-4.46
+4849700000,Wise,Texas,County,24.0,25.0,25.0,35915.0,39111.0,45643.0,0.0,0.0,0.64,0.55,-14.06
+4849900000,Wood,Texas,County,12.0,16.0,11.0,27419.0,29127.0,32382.0,-5.0,-31.25,0.55,0.34,-38.18
+4850100000,Yoakum,Texas,County,4.0,4.0,2.0,3919.0,4162.0,4407.0,-2.0,-50.0,0.96,0.45,-53.12
+4850300000,Young,Texas,County,11.0,7.0,5.0,11537.0,11740.0,11769.0,-2.0,-28.57,0.6,0.42,-30.0
+4850500000,Zapata,Texas,County,8.0,,7.0,7442.0,,8257.0,,,,0.85,
+4850700000,Zavala,Texas,County,9.0,4.0,6.0,8576.0,8619.0,8066.0,2.0,50.0,0.46,0.74,60.87
