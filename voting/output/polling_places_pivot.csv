@@ -1,0 +1,676 @@
+fips,place_clean,state_name,place_type,2012,2016,2020
+0100100000,Autauga,Alabama,County,17.0,17.0,18.0
+0100300000,Baldwin,Alabama,County,46.0,87.0,50.0
+0100500000,Barbour,Alabama,County,17.0,21.0,16.0
+0100700000,Bibb,Alabama,County,8.0,16.0,8.0
+0100900000,Blount,Alabama,County,24.0,28.0,24.0
+0101100000,Bullock,Alabama,County,26.0,17.0,15.0
+0101300000,Butler,Alabama,County,22.0,22.0,22.0
+0101500000,Calhoun,Alabama,County,49.0,46.0,44.0
+0101700000,Chambers,Alabama,County,58.0,39.0,16.0
+0101900000,Cherokee,Alabama,County,23.0,23.0,23.0
+0102100000,Chilton,Alabama,County,19.0,19.0,18.0
+0102300000,Choctaw,Alabama,County,48.0,47.0,32.0
+0102500000,Clarke,Alabama,County,30.0,51.0,29.0
+0102700000,Clay,Alabama,County,23.0,25.0,15.0
+0102900000,Cleburne,Alabama,County,15.0,14.0,14.0
+0103100000,Coffee,Alabama,County,32.0,30.0,29.0
+0103300000,Colbert,Alabama,County,36.0,17.0,34.0
+0103500000,Conecuh,Alabama,County,32.0,29.0,27.0
+0103700000,Coosa,Alabama,County,12.0,21.0,12.0
+0103900000,Covington,Alabama,County,25.0,25.0,25.0
+0104100000,Crenshaw,Alabama,County,18.0,18.0,18.0
+0104300000,Cullman,Alabama,County,49.0,49.0,49.0
+0104500000,Dale,Alabama,County,20.0,20.0,19.0
+0104700000,Dallas,Alabama,County,29.0,30.0,29.0
+0104900000,Dekalb,Alabama,County,49.0,48.0,44.0
+0105100000,Elmore,Alabama,County,42.0,28.0,29.0
+0105300000,Escambia,Alabama,County,29.0,30.0,29.0
+0105500000,Etowah,Alabama,County,42.0,34.0,31.0
+0105700000,Fayette,Alabama,County,27.0,28.0,26.0
+0105900000,Franklin,Alabama,County,38.0,20.0,24.0
+0106100000,Geneva,Alabama,County,25.0,30.0,21.0
+0106300000,Greene,Alabama,County,14.0,14.0,14.0
+0106500000,Hale,Alabama,County,14.0,40.0,14.0
+0106700000,Henry,Alabama,County,15.0,29.0,14.0
+0106900000,Houston,Alabama,County,29.0,100.0,27.0
+0107100000,Jackson,Alabama,County,38.0,36.0,30.0
+0107300000,Jefferson,Alabama,County,180.0,352.0,172.0
+0107500000,Lamar,Alabama,County,25.0,25.0,25.0
+0107700000,Lauderdale,Alabama,County,31.0,34.0,31.0
+0107900000,Lawrence,Alabama,County,37.0,36.0,29.0
+0108100000,Lee,Alabama,County,23.0,46.0,22.0
+0108300000,Limestone,Alabama,County,24.0,25.0,25.0
+0108500000,Lowndes,Alabama,County,12.0,15.0,12.0
+0108700000,Macon,Alabama,County,15.0,15.0,14.0
+0108900000,Madison,Alabama,County,75.0,73.0,72.0
+0109100000,Marengo,Alabama,County,25.0,22.0,19.0
+0109300000,Marion,Alabama,County,23.0,23.0,20.0
+0109500000,Marshall,Alabama,County,38.0,47.0,28.0
+0109700000,Mobile,Alabama,County,98.0,90.0,85.0
+0109900000,Monroe,Alabama,County,31.0,76.0,29.0
+0110100000,Montgomery,Alabama,County,55.0,50.0,49.0
+0110300000,Morgan,Alabama,County,47.0,41.0,39.0
+0110500000,Perry,Alabama,County,15.0,15.0,12.0
+0110700000,Pickens,Alabama,County,28.0,24.0,19.0
+0110900000,Pike,Alabama,County,28.0,33.0,33.0
+0111100000,Randolph,Alabama,County,57.0,16.0,26.0
+0111300000,Russell,Alabama,County,17.0,17.0,17.0
+0111500000,St. Clair,Alabama,County,31.0,30.0,30.0
+0111700000,Shelby,Alabama,County,48.0,48.0,44.0
+0111900000,Sumter,Alabama,County,23.0,24.0,13.0
+0112100000,Talladega,Alabama,County,26.0,26.0,26.0
+0112300000,Tallapoosa,Alabama,County,25.0,29.0,26.0
+0112500000,Tuscaloosa,Alabama,County,54.0,55.0,54.0
+0112700000,Walker,Alabama,County,45.0,46.0,45.0
+0112900000,Washington,Alabama,County,19.0,31.0,19.0
+0113100000,Wilcox,Alabama,County,36.0,36.0,34.0
+0113300000,Winston,Alabama,County,21.0,18.0,18.0
+0200000000,Alaska,Alaska,Other,533.0,624.0,420.0
+0400100000,Apache,Arizona,County,52.0,47.0,44.0
+0400300000,Cochise,Arizona,County,50.0,21.0,17.0
+0400500000,Coconino,Arizona,County,71.0,68.0,46.0
+0400700000,Gila,Arizona,County,44.0,18.0,17.0
+0400900000,Graham,Arizona,County,19.0,10.0,9.0
+0401100000,Greenlee,Arizona,County,9.0,6.0,5.0
+0401200000,La Paz,Arizona,County,10.0,10.0,8.0
+0401300000,Maricopa,Arizona,County,697.0,676.0,175.0
+0401500000,Mohave,Arizona,County,73.0,39.0,36.0
+0401700000,Navajo,Arizona,County,59.0,48.0,39.0
+0401900000,Pima,Arizona,County,290.0,247.0,232.0
+0402100000,Pinal,Arizona,County,101.0,100.0,90.0
+0402300000,Santa Cruz,Arizona,County,18.0,16.0,13.0
+0402500000,Yavapai,Arizona,County,32.0,31.0,25.0
+0402700000,Yuma,Arizona,County,12.0,13.0,11.0
+1300100000,Appling,Georgia,County,,15.0,9.0
+1300300000,Atkinson,Georgia,County,,4.0,4.0
+1300500000,Bacon,Georgia,County,,5.0,1.0
+1300700000,Baker,Georgia,County,,6.0,5.0
+1300900000,Baldwin,Georgia,County,,15.0,14.0
+1301100000,Banks,Georgia,County,,14.0,6.0
+1301300000,Barrow,Georgia,County,,17.0,8.0
+1301500000,Bartow,Georgia,County,,19.0,16.0
+1301700000,Ben Hill,Georgia,County,,3.0,1.0
+1301900000,Berrien,Georgia,County,,6.0,5.0
+1302100000,Bibb,Georgia,County,,33.0,31.0
+1302300000,Bleckley,Georgia,County,,2.0,1.0
+1302500000,Brantley,Georgia,County,,4.0,3.0
+1302700000,Brooks,Georgia,County,,8.0,7.0
+1302900000,Bryan,Georgia,County,,12.0,10.0
+1303100000,Bulloch,Georgia,County,,10.0,16.0
+1303300000,Burke,Georgia,County,,17.0,16.0
+1303500000,Butts,Georgia,County,,6.0,1.0
+1303700000,Calhoun,Georgia,County,,6.0,5.0
+1303900000,Camden,Georgia,County,,17.0,12.0
+1304300000,Candler,Georgia,County,,2.0,1.0
+1304500000,Carroll,Georgia,County,,31.0,28.0
+1304700000,Catoosa,Georgia,County,,13.0,11.0
+1304900000,Charlton,Georgia,County,,10.0,8.0
+1305100000,Chatham,Georgia,County,,94.0,92.0
+1305300000,Chattahoochee,Georgia,County,,2.0,1.0
+1305500000,Chattooga,Georgia,County,,14.0,13.0
+1305700000,Cherokee,Georgia,County,,47.0,40.0
+1305900000,Clarke,Georgia,County,,25.0,24.0
+1306100000,Clay,Georgia,County,,2.0,1.0
+1306300000,Clayton,Georgia,County,,63.0,65.0
+1306500000,Clinch,Georgia,County,,6.0,5.0
+1306700000,Cobb,Georgia,County,,155.0,144.0
+1306900000,Coffee,Georgia,County,,7.0,6.0
+1307100000,Colquitt,Georgia,County,,20.0,19.0
+1307300000,Columbia,Georgia,County,,49.0,47.0
+1307500000,Cook,Georgia,County,,7.0,8.0
+1307700000,Coweta,Georgia,County,,30.0,26.0
+1307900000,Crawford,Georgia,County,,7.0,6.0
+1308100000,Crisp,Georgia,County,,7.0,5.0
+1308300000,Dade,Georgia,County,,7.0,7.0
+1308500000,Dawson,Georgia,County,,4.0,3.0
+1308700000,Decatur,Georgia,County,,11.0,9.0
+1308900000,Dekalb,Georgia,County,,183.0,164.0
+1309100000,Dodge,Georgia,County,,17.0,16.0
+1309300000,Dooly,Georgia,County,,6.0,5.0
+1309500000,Dougherty,Georgia,County,,30.0,28.0
+1309700000,Douglas,Georgia,County,,30.0,25.0
+1309900000,Early,Georgia,County,,5.0,5.0
+1310100000,Echols,Georgia,County,,2.0,1.0
+1310300000,Effingham,Georgia,County,,19.0,17.0
+1310500000,Elbert,Georgia,County,,12.0,11.0
+1310700000,Emanuel,Georgia,County,,12.0,11.0
+1310900000,Evans,Georgia,County,,2.0,1.0
+1311100000,Fannin,Georgia,County,,13.0,12.0
+1311300000,Fayette,Georgia,County,,39.0,36.0
+1311500000,Floyd,Georgia,County,,28.0,25.0
+1311700000,Forsyth,Georgia,County,,21.0,20.0
+1311900000,Franklin,Georgia,County,,8.0,7.0
+1312100000,Fulton,Georgia,County,,233.0,254.0
+1312300000,Gilmer,Georgia,County,,14.0,13.0
+1312500000,Glascock,Georgia,County,,5.0,4.0
+1312700000,Glynn,Georgia,County,,22.0,20.0
+1312900000,Gordon,Georgia,County,,13.0,12.0
+1313100000,Grady,Georgia,County,,14.0,9.0
+1313300000,Greene,Georgia,County,,8.0,4.0
+1313500000,Gwinnett,Georgia,County,,164.0,156.0
+1313700000,Habersham,Georgia,County,,10.0,7.0
+1313900000,Hall,Georgia,County,,35.0,31.0
+1314100000,Hancock,Georgia,County,,11.0,10.0
+1314300000,Haralson,Georgia,County,,13.0,12.0
+1314500000,Harris,Georgia,County,,13.0,12.0
+1314700000,Hart,Georgia,County,,8.0,7.0
+1314900000,Heard,Georgia,County,,8.0,6.0
+1315100000,Henry,Georgia,County,,40.0,37.0
+1315300000,Houston,Georgia,County,,20.0,16.0
+1315500000,Irwin,Georgia,County,,9.0,3.0
+1315700000,Jackson,Georgia,County,,19.0,4.0
+1315900000,Jasper,Georgia,County,,4.0,3.0
+1316100000,Jeff Davis,Georgia,County,,10.0,6.0
+1316300000,Jefferson,Georgia,County,,9.0,8.0
+1316500000,Jenkins,Georgia,County,,6.0,3.0
+1316700000,Johnson,Georgia,County,,5.0,4.0
+1316900000,Jones,Georgia,County,,11.0,10.0
+1317100000,Lamar,Georgia,County,,7.0,6.0
+1317300000,Lanier,Georgia,County,,5.0,1.0
+1317500000,Laurens,Georgia,County,,18.0,16.0
+1317700000,Lee,Georgia,County,,11.0,10.0
+1317900000,Liberty,Georgia,County,,14.0,13.0
+1318100000,Lincoln,Georgia,County,,8.0,7.0
+1318300000,Long,Georgia,County,,7.0,7.0
+1318500000,Lowndes,Georgia,County,,10.0,13.0
+1318700000,Lumpkin,Georgia,County,,2.0,1.0
+1318900000,Mcduffie,Georgia,County,,7.0,2.0
+1319100000,Mcintosh,Georgia,County,,7.0,6.0
+1319300000,Macon,Georgia,County,,6.0,5.0
+1319500000,Madison,Georgia,County,,13.0,12.0
+1319700000,Marion,Georgia,County,,6.0,5.0
+1319900000,Meriwether,Georgia,County,,15.0,14.0
+1320100000,Miller,Georgia,County,,2.0,1.0
+1320500000,Mitchell,Georgia,County,,12.0,11.0
+1320700000,Monroe,Georgia,County,,15.0,14.0
+1320900000,Montgomery,Georgia,County,,8.0,7.0
+1321100000,Morgan,Georgia,County,,8.0,7.0
+1321300000,Murray,Georgia,County,,8.0,7.0
+1321500000,Muscogee,Georgia,County,,27.0,25.0
+1321700000,Newton,Georgia,County,,24.0,22.0
+1321900000,Oconee,Georgia,County,,14.0,10.0
+1322100000,Oglethorpe,Georgia,County,,4.0,3.0
+1322300000,Paulding,Georgia,County,,18.0,19.0
+1322500000,Peach,Georgia,County,,8.0,7.0
+1322700000,Pickens,Georgia,County,,13.0,12.0
+1322900000,Pierce,Georgia,County,,3.0,2.0
+1323100000,Pike,Georgia,County,,9.0,8.0
+1323300000,Polk,Georgia,County,,9.0,7.0
+1323500000,Pulaski,Georgia,County,,2.0,1.0
+1323700000,Putnam,Georgia,County,,7.0,5.0
+1323900000,Quitman,Georgia,County,,3.0,2.0
+1324100000,Rabun,Georgia,County,,2.0,1.0
+1324300000,Randolph,Georgia,County,,10.0,6.0
+1324500000,Richmond,Georgia,County,,48.0,41.0
+1324700000,Rockdale,Georgia,County,,19.0,16.0
+1324900000,Schley,Georgia,County,,2.0,1.0
+1325100000,Screven,Georgia,County,,13.0,12.0
+1325300000,Seminole,Georgia,County,,6.0,5.0
+1325500000,Spalding,Georgia,County,,22.0,18.0
+1325700000,Stephens,Georgia,County,,2.0,1.0
+1325900000,Stewart,Georgia,County,,5.0,4.0
+1326100000,Sumter,Georgia,County,,12.0,11.0
+1326300000,Talbot,Georgia,County,,8.0,7.0
+1326500000,Taliaferro,Georgia,County,,3.0,2.0
+1326700000,Tattnall,Georgia,County,,11.0,8.0
+1326900000,Taylor,Georgia,County,,4.0,3.0
+1327100000,Telfair,Georgia,County,,7.0,6.0
+1327300000,Terrell,Georgia,County,,7.0,6.0
+1327500000,Thomas,Georgia,County,,21.0,17.0
+1327700000,Tift,Georgia,County,,13.0,12.0
+1327900000,Toombs,Georgia,County,,6.0,5.0
+1328100000,Towns,Georgia,Town,,5.0,3.0
+1328300000,Treutlen,Georgia,County,,2.0,2.0
+1328500000,Troup,Georgia,County,,16.0,14.0
+1328700000,Turner,Georgia,County,,4.0,3.0
+1328900000,Twiggs,Georgia,County,,6.0,5.0
+1329100000,Union,Georgia,County,,12.0,11.0
+1329300000,Upson,Georgia,County,,5.0,4.0
+1329500000,Walker,Georgia,County,,16.0,11.0
+1329700000,Walton,Georgia,County,,22.0,21.0
+1329900000,Ware,Georgia,County,,13.0,10.0
+1330100000,Warren,Georgia,County,,2.0,1.0
+1330300000,Washington,Georgia,County,,9.0,8.0
+1330500000,Wayne,Georgia,County,,13.0,7.0
+1330700000,Webster,Georgia,County,,2.0,1.0
+1330900000,Wheeler,Georgia,County,,3.0,2.0
+1331100000,White,Georgia,County,,12.0,11.0
+1331300000,Whitfield,Georgia,County,,24.0,23.0
+1331500000,Wilcox,Georgia,County,,6.0,6.0
+1331700000,Wilkes,Georgia,County,,8.0,7.0
+1331900000,Wilkinson,Georgia,County,,10.0,9.0
+1332100000,Worth,Georgia,County,,16.0,15.0
+4500100000,Abbeville,South Carolina,County,15.0,15.0,16.0
+4500300000,Aiken,South Carolina,County,77.0,93.0,73.0
+4500500000,Allendale,South Carolina,County,9.0,9.0,9.0
+4500700000,Anderson,South Carolina,County,78.0,80.0,75.0
+4500900000,Bamberg,South Carolina,County,14.0,13.0,13.0
+4501100000,Barnwell,South Carolina,County,16.0,9.0,9.0
+4501300000,Beaufort,South Carolina,County,87.0,66.0,56.0
+4501500000,Berkeley,South Carolina,County,58.0,56.0,60.0
+4501700000,Calhoun,South Carolina,County,13.0,13.0,13.0
+4501900000,Charleston,South Carolina,County,183.0,111.0,98.0
+4502100000,Cherokee,South Carolina,County,30.0,30.0,30.0
+4502300000,Chester,South Carolina,County,23.0,22.0,21.0
+4502500000,Chesterfield,South Carolina,County,26.0,26.0,26.0
+4502700000,Clarendon,South Carolina,County,26.0,26.0,19.0
+4502900000,Colleton,South Carolina,County,34.0,32.0,33.0
+4503100000,Darlington,South Carolina,County,33.0,35.0,33.0
+4503300000,Dillon,South Carolina,County,21.0,21.0,20.0
+4503500000,Dorchester,South Carolina,County,75.0,45.0,37.0
+4503700000,Edgefield,South Carolina,County,13.0,14.0,12.0
+4503900000,Fairfield,South Carolina,County,23.0,23.0,19.0
+4504100000,Florence,South Carolina,County,65.0,70.0,58.0
+4504300000,Georgetown,South Carolina,Town,35.0,35.0,32.0
+4504500000,Greenville,South Carolina,County,152.0,189.0,145.0
+4504700000,Greenwood,South Carolina,County,45.0,49.0,48.0
+4504900000,Hampton,South Carolina,County,19.0,19.0,16.0
+4505100000,Horry,South Carolina,County,121.0,125.0,122.0
+4505300000,Jasper,South Carolina,County,15.0,17.0,14.0
+4505500000,Kershaw,South Carolina,County,35.0,36.0,32.0
+4505700000,Lancaster,South Carolina,County,30.0,36.0,36.0
+4505900000,Laurens,South Carolina,County,35.0,36.0,34.0
+4506100000,Lee,South Carolina,County,23.0,23.0,19.0
+4506300000,Lexington,South Carolina,County,93.0,98.0,93.0
+4506500000,Mccormick,South Carolina,County,11.0,12.0,12.0
+4506700000,Marion,South Carolina,County,18.0,18.0,18.0
+4506900000,Marlboro,South Carolina,County,16.0,16.0,16.0
+4507100000,Newberry,South Carolina,County,31.0,31.0,30.0
+4507300000,Oconee,South Carolina,County,32.0,31.0,27.0
+4507500000,Orangeburg,South Carolina,County,54.0,61.0,49.0
+4507700000,Pickens,South Carolina,County,62.0,71.0,54.0
+4507900000,Richland,South Carolina,County,125.0,170.0,142.0
+4508100000,Saluda,South Carolina,County,19.0,19.0,16.0
+4508300000,Spartanburg,South Carolina,County,99.0,104.0,98.0
+4508500000,Sumter,South Carolina,County,59.0,59.0,50.0
+4508700000,Union,South Carolina,County,24.0,24.0,24.0
+4508900000,Williamsburg,South Carolina,County,29.0,29.0,29.0
+4509100000,York,South Carolina,County,90.0,94.0,89.0
+4600300000,Aurora,South Dakota,County,5.0,,3.0
+4600300000,Aurora,South Dakota,Other,,4.0,
+4600500000,Beadle,South Dakota,County,5.0,,4.0
+4600500000,Beadle,South Dakota,Other,,4.0,
+4600700000,Bennett,South Dakota,County,5.0,,4.0
+4600700000,Bennett,South Dakota,Other,,5.0,
+4600900000,Bon Homme,South Dakota,County,7.0,,5.0
+4600900000,Bon Homme,South Dakota,Other,,0.0,
+4601100000,Brookings,South Dakota,County,16.0,,11.0
+4601100000,Brookings,South Dakota,Other,,0.0,
+4601300000,Brown,South Dakota,County,23.0,,11.0
+4601300000,Brown,South Dakota,Other,,12.0,
+4601500000,Brule,South Dakota,County,6.0,,5.0
+4601500000,Brule,South Dakota,Other,,0.0,
+4601700000,Buffalo,South Dakota,County,5.0,,3.0
+4601700000,Buffalo,South Dakota,Other,,5.0,
+4601900000,Butte,South Dakota,County,4.0,,4.0
+4601900000,Butte,South Dakota,Other,,4.0,
+4602100000,Campbell,South Dakota,County,4.0,,5.0
+4602100000,Campbell,South Dakota,Other,,4.0,
+4602300000,Charles Mix,South Dakota,County,13.0,,9.0
+4602300000,Charles Mix,South Dakota,Other,,9.0,
+4602500000,Clark,South Dakota,County,9.0,,9.0
+4602500000,Clark,South Dakota,Other,,9.0,
+4602700000,Clay,South Dakota,County,6.0,,4.0
+4602700000,Clay,South Dakota,Other,,4.0,
+4602900000,Codington,South Dakota,County,11.0,,9.0
+4602900000,Codington,South Dakota,Other,,10.0,
+4603100000,Corson,South Dakota,County,10.0,,10.0
+4603100000,Corson,South Dakota,Other,,11.0,
+4603300000,Custer,South Dakota,County,10.0,,7.0
+4603300000,Custer,South Dakota,Other,,7.0,
+4603500000,Davison,South Dakota,County,4.0,,1.0
+4603500000,Davison,South Dakota,Other,,2.0,
+4603700000,Day,South Dakota,County,10.0,,9.0
+4603700000,Day,South Dakota,Other,,9.0,
+4603900000,Deuel,South Dakota,County,5.0,,6.0
+4603900000,Deuel,South Dakota,Other,,8.0,
+4604100000,Dewey,South Dakota,County,16.0,,11.0
+4604100000,Dewey,South Dakota,Other,,12.0,
+4604300000,Douglas,South Dakota,County,5.0,,6.0
+4604300000,Douglas,South Dakota,Other,,5.0,
+4604500000,Edmunds,South Dakota,County,5.0,,6.0
+4604500000,Edmunds,South Dakota,Other,,6.0,
+4604700000,Fall River,South Dakota,County,9.0,,5.0
+4604700000,Fall River,South Dakota,Other,,6.0,
+4604900000,Faulk,South Dakota,County,7.0,,6.0
+4604900000,Faulk,South Dakota,Other,,7.0,
+4605100000,Grant,South Dakota,County,19.0,,18.0
+4605100000,Grant,South Dakota,Other,,13.0,
+4605300000,Gregory,South Dakota,County,3.0,,3.0
+4605300000,Gregory,South Dakota,Other,,3.0,
+4605500000,Haakon,South Dakota,County,7.0,,4.0
+4605500000,Haakon,South Dakota,Other,,7.0,
+4605700000,Hamlin,South Dakota,County,7.0,,7.0
+4605700000,Hamlin,South Dakota,Other,,7.0,
+4605900000,Hand,South Dakota,County,10.0,,8.0
+4605900000,Hand,South Dakota,Other,,9.0,
+4606100000,Hanson,South Dakota,County,3.0,,4.0
+4606100000,Hanson,South Dakota,Other,,4.0,
+4606300000,Harding,South Dakota,County,8.0,,6.0
+4606300000,Harding,South Dakota,Other,,7.0,
+4606500000,Hughes,South Dakota,County,15.0,,6.0
+4606500000,Hughes,South Dakota,Other,,7.0,
+4606700000,Hutchinson,South Dakota,County,7.0,,7.0
+4606700000,Hutchinson,South Dakota,Other,,7.0,
+4606900000,Hyde,South Dakota,County,2.0,,3.0
+4606900000,Hyde,South Dakota,Other,,2.0,
+4607100000,Jackson,South Dakota,County,7.0,,8.0
+4607100000,Jackson,South Dakota,Other,,7.0,
+4607300000,Jerauld,South Dakota,County,6.0,,2.0
+4607300000,Jerauld,South Dakota,Other,,2.0,
+4607500000,Jones,South Dakota,County,,,2.0
+4607500000,Jones,South Dakota,Other,,3.0,
+4607700000,Kingsbury,South Dakota,County,8.0,,1.0
+4607700000,Kingsbury,South Dakota,Other,,6.0,
+4607900000,Lake,South Dakota,County,6.0,,7.0
+4607900000,Lake,South Dakota,Other,,6.0,
+4608100000,Lawrence,South Dakota,County,9.0,,7.0
+4608100000,Lawrence,South Dakota,Other,,9.0,
+4608300000,Lincoln,South Dakota,County,18.0,,22.0
+4608300000,Lincoln,South Dakota,Other,,18.0,
+4608500000,Lyman,South Dakota,County,8.0,,7.0
+4608500000,Lyman,South Dakota,Other,,7.0,
+4608700000,Mccook,South Dakota,County,5.0,,5.0
+4608700000,Mccook,South Dakota,Other,,6.0,
+4608900000,Mcpherson,South Dakota,County,4.0,,3.0
+4608900000,Mcpherson,South Dakota,Other,,7.0,
+4609100000,Marshall,South Dakota,County,10.0,,6.0
+4609100000,Marshall,South Dakota,Other,,9.0,
+4609300000,Meade,South Dakota,County,18.0,,15.0
+4609300000,Meade,South Dakota,Other,,18.0,
+4609500000,Mellette,South Dakota,County,4.0,,3.0
+4609500000,Mellette,South Dakota,Other,,3.0,
+4609700000,Miner,South Dakota,County,4.0,,1.0
+4609700000,Miner,South Dakota,Other,,5.0,
+4609900000,Minnehaha,South Dakota,County,71.0,,72.0
+4609900000,Minnehaha,South Dakota,Other,,71.0,
+4610100000,Moody,South Dakota,County,6.0,,3.0
+4610100000,Moody,South Dakota,Other,,5.0,
+4610200000,Oglala Lakota,South Dakota,County,,,9.0
+4610300000,Pennington,South Dakota,County,40.0,,31.0
+4610300000,Pennington,South Dakota,Other,,34.0,
+4610500000,Perkins,South Dakota,County,7.0,,7.0
+4610500000,Perkins,South Dakota,Other,,7.0,
+4610700000,Potter,South Dakota,County,2.0,,2.0
+4610700000,Potter,South Dakota,Other,,2.0,
+4610900000,Roberts,South Dakota,County,8.0,,9.0
+4610900000,Roberts,South Dakota,Other,,12.0,
+4611100000,Sanborn,South Dakota,County,4.0,,3.0
+4611100000,Sanborn,South Dakota,Other,,4.0,
+4611300000,Oglala Lakota,South Dakota,Other,,9.0,
+4611300000,Shannon,South Dakota,County,9.0,,
+4611500000,Spink,South Dakota,County,5.0,,7.0
+4611500000,Spink,South Dakota,Other,,7.0,
+4611700000,Stanley,South Dakota,County,3.0,,3.0
+4611700000,Stanley,South Dakota,Other,,4.0,
+4611900000,Sully,South Dakota,County,5.0,,3.0
+4611900000,Sully,South Dakota,Other,,4.0,
+4612100000,Todd,South Dakota,County,10.0,,8.0
+4612100000,Todd,South Dakota,Other,,9.0,
+4612300000,Tripp,South Dakota,County,8.0,,7.0
+4612300000,Tripp,South Dakota,Other,,7.0,
+4612500000,Turner,South Dakota,County,9.0,,8.0
+4612500000,Turner,South Dakota,Other,,9.0,
+4612700000,Union,South Dakota,County,8.0,,8.0
+4612700000,Union,South Dakota,Other,,8.0,
+4612900000,Walworth,South Dakota,County,4.0,,6.0
+4612900000,Walworth,South Dakota,Other,,7.0,
+4613500000,Yankton,South Dakota,County,7.0,,6.0
+4613500000,Yankton,South Dakota,Other,,7.0,
+4613700000,Ziebach,South Dakota,County,8.0,,6.0
+4613700000,Ziebach,South Dakota,Other,,6.0,
+4800100000,Anderson,Texas,County,23.0,23.0,22.0
+4800300000,Andrews,Texas,County,2.0,1.0,1.0
+4800500000,Angelina,Texas,County,35.0,27.0,30.0
+4800700000,Aransas,Texas,County,7.0,4.0,5.0
+4800900000,Archer,Texas,County,13.0,14.0,6.0
+4801100000,Armstrong,Texas,County,7.0,7.0,6.0
+4801300000,Atascosa,Texas,County,24.0,24.0,15.0
+4801500000,Austin,Texas,County,19.0,19.0,16.0
+4801700000,Bailey,Texas,County,2.0,2.0,1.0
+4801900000,Bandera,Texas,County,13.0,10.0,10.0
+4802100000,Bastrop,Texas,County,28.0,,22.0
+4802300000,Baylor,Texas,County,5.0,,4.0
+4802500000,Bee,Texas,County,,18.0,7.0
+4802700000,Bell,Texas,County,53.0,,41.0
+4802900000,Bexar,Texas,County,342.0,346.0,302.0
+4803100000,Blanco,Texas,County,7.0,,6.0
+4803300000,Borden,Texas,County,8.0,8.0,7.0
+4803500000,Bosque,Texas,County,15.0,12.0,11.0
+4803700000,Bowie,Texas,County,37.0,36.0,33.0
+4803900000,Brazoria,Texas,County,73.0,49.0,35.0
+4804100000,Brazos,Texas,County,41.0,30.0,25.0
+4804300000,Brewster,Texas,County,12.0,,7.0
+4804500000,Briscoe,Texas,County,6.0,4.0,4.0
+4804700000,Brooks,Texas,County,,6.0,5.0
+4804900000,Brown,Texas,County,17.0,17.0,18.0
+4805100000,Burleson,Texas,County,17.0,16.0,13.0
+4805300000,Burnet,Texas,County,22.0,20.0,21.0
+4805500000,Caldwell,Texas,County,27.0,16.0,17.0
+4805700000,Calhoun,Texas,County,24.0,23.0,14.0
+4805900000,Callahan,Texas,County,10.0,9.0,5.0
+4806100000,Cameron,Texas,County,104.0,104.0,73.0
+4806300000,Camp,Texas,County,5.0,,4.0
+4806500000,Carson,Texas,County,,8.0,8.0
+4806700000,Cass,Texas,County,19.0,18.0,13.0
+4806900000,Castro,Texas,County,9.0,,8.0
+4807100000,Chambers,Texas,County,18.0,18.0,12.0
+4807300000,Cherokee,Texas,County,28.0,26.0,25.0
+4807500000,Childress,Texas,County,5.0,5.0,4.0
+4807700000,Clay,Texas,County,17.0,,13.0
+4807900000,Cochran,Texas,County,6.0,,3.0
+4808100000,Coke,Texas,County,6.0,4.0,4.0
+4808300000,Coleman,Texas,County,6.0,6.0,4.0
+4808500000,Collin,Texas,County,25.0,107.0,102.0
+4808700000,Collingsworth,Texas,County,8.0,8.0,7.0
+4808900000,Colorado,Texas,County,13.0,13.0,12.0
+4809100000,Comal,Texas,County,26.0,27.0,24.0
+4809300000,Comanche,Texas,County,16.0,14.0,12.0
+4809500000,Concho,Texas,County,9.0,9.0,9.0
+4809700000,Cooke,Texas,County,17.0,17.0,29.0
+4809900000,Coryell,Texas,County,17.0,8.0,8.0
+4810100000,Cottle,Texas,County,,6.0,5.0
+4810300000,Crane,Texas,County,5.0,5.0,4.0
+4810500000,Crockett,Texas,County,5.0,4.0,4.0
+4810700000,Crosby,Texas,County,5.0,,4.0
+4810900000,Culberson,Texas,County,6.0,6.0,5.0
+4811100000,Dallam,Texas,County,,3.0,4.0
+4811300000,Dallas,Texas,County,514.0,535.0,464.0
+4811500000,Dawson,Texas,County,10.0,,9.0
+4811700000,Deaf Smith,Texas,County,5.0,,4.0
+4811900000,Delta,Texas,County,8.0,,7.0
+4812100000,Denton,Texas,County,117.0,135.0,156.0
+4812300000,Dewitt,Texas,County,9.0,11.0,7.0
+4812500000,Dickens,Texas,County,7.0,,7.0
+4812700000,Dimmit,Texas,County,8.0,,1.0
+4812900000,Donley,Texas,County,7.0,7.0,6.0
+4813100000,Duval,Texas,County,12.0,9.0,9.0
+4813300000,Eastland,Texas,County,10.0,9.0,9.0
+4813500000,Ector,Texas,County,33.0,25.0,25.0
+4813700000,Edwards,Texas,County,6.0,6.0,5.0
+4813900000,Ellis,Texas,County,44.0,44.0,36.0
+4814100000,El Paso,Texas,County,,219.0,151.0
+4814300000,Erath,Texas,County,13.0,12.0,10.0
+4814500000,Falls,Texas,County,14.0,,13.0
+4814700000,Fannin,Texas,County,17.0,17.0,16.0
+4814900000,Fayette,Texas,County,27.0,27.0,27.0
+4815100000,Fisher,Texas,County,11.0,6.0,4.0
+4815300000,Floyd,Texas,County,4.0,2.0,2.0
+4815500000,Foard,Texas,County,3.0,2.0,4.0
+4815700000,Fort Bend,Texas,County,,83.0,85.0
+4815900000,Franklin,Texas,County,9.0,9.0,8.0
+4816100000,Freestone,Texas,County,22.0,21.0,15.0
+4816300000,Frio,Texas,County,20.0,10.0,9.0
+4816500000,Gaines,Texas,County,6.0,6.0,4.0
+4816700000,Galveston,Texas,County,62.0,55.0,46.0
+4816900000,Garza,Texas,County,7.0,7.0,6.0
+4817100000,Gillespie,Texas,County,14.0,14.0,13.0
+4817300000,Glasscock,Texas,County,5.0,4.0,4.0
+4817500000,Goliad,Texas,County,10.0,9.0,9.0
+4817700000,Gonzales,Texas,County,17.0,,14.0
+4817900000,Gray,Texas,County,8.0,8.0,7.0
+4818100000,Grayson,Texas,County,41.0,28.0,26.0
+4818300000,Gregg,Texas,County,29.0,32.0,18.0
+4818500000,Grimes,Texas,County,16.0,15.0,10.0
+4818700000,Guadalupe,Texas,County,40.0,42.0,35.0
+4818900000,Hale,Texas,County,19.0,19.0,15.0
+4819100000,Hall,Texas,County,5.0,,4.0
+4819300000,Hamilton,Texas,County,12.0,10.0,9.0
+4819500000,Hansford,Texas,County,10.0,,8.0
+4819700000,Hardeman,Texas,County,6.0,6.0,4.0
+4819900000,Hardin,Texas,County,23.0,19.0,19.0
+4820100000,Harris,Texas,County,813.0,786.0,797.0
+4820300000,Harrison,Texas,County,33.0,36.0,26.0
+4820500000,Hartley,Texas,County,5.0,4.0,3.0
+4820700000,Haskell,Texas,County,,11.0,10.0
+4820900000,Hays,Texas,County,48.0,36.0,36.0
+4821100000,Hemphill,Texas,County,,9.0,8.0
+4821300000,Henderson,Texas,County,29.0,29.0,24.0
+4821500000,Hidalgo,Texas,County,104.0,109.0,75.0
+4821700000,Hill,Texas,County,23.0,23.0,22.0
+4821900000,Hockley,Texas,County,18.0,14.0,14.0
+4822100000,Hood,Texas,County,,11.0,10.0
+4822300000,Hopkins,Texas,County,22.0,,12.0
+4822500000,Houston,Texas,County,22.0,23.0,21.0
+4822700000,Howard,Texas,County,7.0,7.0,7.0
+4822900000,Hudspeth,Texas,County,8.0,,5.0
+4823100000,Hunt,Texas,County,35.0,34.0,34.0
+4823300000,Hutchinson,Texas,County,11.0,11.0,8.0
+4823500000,Irion,Texas,County,3.0,2.0,2.0
+4823700000,Jack,Texas,County,7.0,7.0,4.0
+4823900000,Jackson,Texas,County,10.0,10.0,10.0
+4824100000,Jasper,Texas,County,25.0,21.0,20.0
+4824300000,Jeff Davis,Texas,County,6.0,6.0,5.0
+4824500000,Jefferson,Texas,County,69.0,51.0,40.0
+4824700000,Jim Hogg,Texas,County,5.0,6.0,4.0
+4824900000,Jim Wells,Texas,County,25.0,26.0,21.0
+4825100000,Johnson,Texas,County,37.0,37.0,34.0
+4825300000,Jones,Texas,County,13.0,14.0,7.0
+4825500000,Karnes,Texas,County,,15.0,14.0
+4825700000,Kaufman,Texas,County,34.0,35.0,26.0
+4825900000,Kendall,Texas,County,20.0,13.0,11.0
+4826100000,Kenedy,Texas,County,7.0,7.0,6.0
+4826300000,Kent,Texas,County,7.0,7.0,5.0
+4826500000,Kerr,Texas,County,22.0,22.0,20.0
+4826700000,Kimble,Texas,County,5.0,4.0,4.0
+4826900000,King,Texas,County,5.0,5.0,4.0
+4827100000,Kinney,Texas,County,,,4.0
+4827300000,Kleberg,Texas,County,13.0,18.0,17.0
+4827500000,Knox,Texas,County,7.0,,4.0
+4827700000,Lamar,Texas,County,34.0,32.0,27.0
+4827900000,Lamb,Texas,County,10.0,7.0,6.0
+4828100000,Lampasas,Texas,County,6.0,6.0,5.0
+4828300000,La Salle,Texas,County,6.0,8.0,4.0
+4828500000,Lavaca,Texas,County,20.0,20.0,19.0
+4828700000,Lee,Texas,County,16.0,11.0,8.0
+4828900000,Leon,Texas,County,15.0,15.0,14.0
+4829100000,Liberty,Texas,County,34.0,,20.0
+4829300000,Limestone,Texas,County,23.0,23.0,21.0
+4829500000,Lipscomb,Texas,County,,8.0,4.0
+4829700000,Live Oak,Texas,County,15.0,,14.0
+4829900000,Llano,Texas,County,12.0,12.0,9.0
+4830100000,Loving,Texas,County,5.0,5.0,4.0
+4830300000,Lubbock,Texas,County,63.0,66.0,42.0
+4830500000,Lynn,Texas,County,11.0,11.0,5.0
+4830700000,Mcculloch,Texas,County,8.0,10.0,9.0
+4830900000,Mclennan,Texas,County,64.0,33.0,34.0
+4831100000,Mcmullen,Texas,County,5.0,5.0,3.0
+4831300000,Madison,Texas,County,6.0,8.0,5.0
+4831500000,Marion,Texas,County,11.0,11.0,7.0
+4831700000,Martin,Texas,County,4.0,3.0,2.0
+4831900000,Mason,Texas,County,5.0,4.0,4.0
+4832100000,Matagorda,Texas,County,20.0,20.0,13.0
+4832300000,Maverick,Texas,County,15.0,15.0,14.0
+4832500000,Medina,Texas,County,16.0,,7.0
+4832700000,Menard,Texas,County,4.0,4.0,3.0
+4832900000,Midland,Texas,County,25.0,25.0,22.0
+4833100000,Milam,Texas,County,15.0,12.0,8.0
+4833300000,Mills,Texas,County,8.0,7.0,7.0
+4833500000,Mitchell,Texas,County,7.0,7.0,688.0
+4833700000,Montague,Texas,County,19.0,,10.0
+4833900000,Montgomery,Texas,County,93.0,98.0,99.0
+4834100000,Moore,Texas,County,,8.0,7.0
+4834300000,Morris,Texas,County,9.0,,7.0
+4834500000,Motley,Texas,County,7.0,,3.0
+4834700000,Nacogdoches,Texas,County,18.0,18.0,21.0
+4834900000,Navarro,Texas,County,31.0,21.0,20.0
+4835100000,Newton,Texas,County,24.0,23.0,13.0
+4835300000,Nolan,Texas,County,10.0,10.0,9.0
+4835500000,Nueces,Texas,County,143.0,,81.0
+4835700000,Ochiltree,Texas,County,5.0,,5.0
+4835900000,Oldham,Texas,County,8.0,5.0,4.0
+4836100000,Orange,Texas,County,38.0,38.0,34.0
+4836300000,Palo Pinto,Texas,County,19.0,15.0,12.0
+4836500000,Panola,Texas,County,21.0,20.0,19.0
+4836700000,Parker,Texas,County,50.0,50.0,37.0
+4836900000,Parmer,Texas,County,,9.0,7.0
+4837100000,Pecos,Texas,County,12.0,11.0,9.0
+4837300000,Polk,Texas,County,24.0,21.0,21.0
+4837500000,Potter,Texas,County,29.0,22.0,16.0
+4837700000,Presidio,Texas,County,4.0,2.0,6.0
+4837900000,Rains,Texas,County,9.0,9.0,8.0
+4838100000,Randall,Texas,County,26.0,14.0,13.0
+4838300000,Reagan,Texas,County,5.0,5.0,3.0
+4838500000,Real,Texas,County,54.0,11.0,5.0
+4838700000,Red River,Texas,County,,20.0,19.0
+4838900000,Reeves,Texas,County,,12.0,11.0
+4839100000,Refugio,Texas,County,11.0,11.0,6.0
+4839300000,Roberts,Texas,County,3.0,3.0,2.0
+4839500000,Robertson,Texas,County,18.0,15.0,13.0
+4839700000,Rockwall,Texas,County,21.0,21.0,16.0
+4839900000,Runnels,Texas,County,8.0,9.0,8.0
+4840100000,Rusk,Texas,County,25.0,18.0,12.0
+4840300000,Sabine,Texas,County,10.0,10.0,8.0
+4840500000,San Augustine,Texas,County,13.0,13.0,11.0
+4840700000,San Jacinto,Texas,County,16.0,14.0,7.0
+4840900000,San Patricio,Texas,County,23.0,16.0,10.0
+4841100000,San Saba,Texas,County,5.0,,3.0
+4841300000,Schleicher,Texas,County,5.0,5.0,2.0
+4841500000,Scurry,Texas,County,12.0,12.0,6.0
+4841700000,Shackelford,Texas,County,5.0,5.0,4.0
+4841900000,Shelby,Texas,County,15.0,15.0,15.0
+4842100000,Sherman,Texas,County,,5.0,4.0
+4842300000,Smith,Texas,County,53.0,39.0,34.0
+4842500000,Somervell,Texas,County,6.0,5.0,4.0
+4842700000,Starr,Texas,County,,11.0,10.0
+4842900000,Stephens,Texas,County,7.0,5.0,5.0
+4843100000,Sterling,Texas,County,5.0,4.0,4.0
+4843300000,Stonewall,Texas,County,5.0,5.0,2.0
+4843500000,Sutton,Texas,County,5.0,,4.0
+4843700000,Swisher,Texas,County,6.0,5.0,4.0
+4843900000,Tarrant,Texas,County,,413.0,329.0
+4844100000,Taylor,Texas,County,40.0,27.0,22.0
+4844300000,Terrell,Texas,County,3.0,5.0,1.0
+4844500000,Terry,Texas,County,8.0,8.0,7.0
+4844700000,Throckmorton,Texas,County,6.0,4.0,4.0
+4844900000,Titus,Texas,County,24.0,,19.0
+4845100000,Tom Green,Texas,County,31.0,22.0,21.0
+4845300000,Travis,Texas,County,238.0,232.0,178.0
+4845500000,Trinity,Texas,County,23.0,21.0,20.0
+4845700000,Tyler,Texas,County,18.0,18.0,18.0
+4845900000,Upshur,Texas,County,17.0,17.0,16.0
+4846100000,Upton,Texas,County,5.0,5.0,3.0
+4846300000,Uvalde,Texas,County,15.0,17.0,14.0
+4846500000,Val Verde,Texas,County,18.0,17.0,9.0
+4846700000,Van Zandt,Texas,County,19.0,19.0,19.0
+4846900000,Victoria,Texas,County,41.0,38.0,35.0
+4847100000,Walker,Texas,County,18.0,18.0,11.0
+4847300000,Waller,Texas,County,23.0,28.0,20.0
+4847500000,Ward,Texas,County,6.0,9.0,6.0
+4847700000,Washington,Texas,County,16.0,16.0,15.0
+4847900000,Webb,Texas,County,100.0,79.0,69.0
+4848100000,Wharton,Texas,County,14.0,10.0,8.0
+4848300000,Wheeler,Texas,County,12.0,,10.0
+4848500000,Wichita,Texas,County,40.0,30.0,25.0
+4848700000,Wilbarger,Texas,County,7.0,,4.0
+4848900000,Willacy,Texas,County,12.0,11.0,18.0
+4849100000,Williamson,Texas,County,113.0,94.0,57.0
+4849300000,Wilson,Texas,County,18.0,18.0,16.0
+4849500000,Winkler,Texas,County,6.0,6.0,6.0
+4849700000,Wise,Texas,County,24.0,25.0,25.0
+4849900000,Wood,Texas,County,12.0,16.0,11.0
+4850100000,Yoakum,Texas,County,4.0,4.0,2.0
+4850300000,Young,Texas,County,11.0,7.0,5.0
+4850500000,Zapata,Texas,County,8.0,,7.0
+4850700000,Zavala,Texas,County,9.0,4.0,6.0
