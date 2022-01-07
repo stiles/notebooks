@@ -1,35 +1,35 @@
-state,incumbent,cook_rating,incumbent_party,last_election_winner_margin,last_election_winner_party,state_ap,state_postal
-Alabama,Richard Shelby,Solid R,R,64.0,R,Ala.,AL
-Alaska,Lisa Murkowski,Solid R,R,44.4,R,Alaska,AK
-Arizona,Mark Kelly,Tossup,D,51.2,D,Ariz.,AZ
-Arkansas,John Boozman,Solid R,R,59.8,R,Ark.,AR
-California,Alex Padilla,Solid D,D,,,Calif.,CA
-Colorado,Michael Bennet,Solid D,D,50.0,D,Colo.,CO
-Connecticut,Richard Blumenthal,Solid D,D,63.2,D,Conn.,CT
-Florida,Marco Rubio,Lean R,R,52.0,R,Fla.,FL
-Georgia,Raphael Warnock,Tossup,D,51.0,D,Ga.,GA
-Hawaii,Brian Schatz,Solid D,D,73.6,D,Hawaii,HI
-Idaho,Mike Crapo,Solid R,R,66.1,R,Iowa,IA
-Illinois,Tammy Duckworth,Solid D,D,54.9,D,Idaho,ID
-Indiana,Todd Young,Solid R,R,52.1,R,Ill.,IL
-Iowa,Chuck Grassley,Solid R,R,60.1,R,Ind.,IN
-Kansas,Jerry Moran,Solid R,R,62.2,R,Kan.,KS
-Kentucky,Rand Paul,Solid R,R,57.3,R,Ky.,KY
-Louisiana,John Kennedy,Solid R,R,60.7,R,La.,LA
-Maryland,Chris Van Hollen,Solid D,D,60.9,D,Mass.,MA
-Missouri,Roy Blunt,Solid R,R,49.2,R,Mo.,MO
-Nevada,Catherine Cortez Masto,Tossup,D,47.1,D,Nev.,NV
-New Hampshire,Maggie Hassan,Lean D,D,48.0,D,N.H.,NH
-New York,Chuck Schumer,Solid D,D,70.6,D,N.Y.,NY
-North Carolina,Richard Burr,Tossup,R,51.1,R,N.C.,NC
-North Dakota,John Hoeven,Solid R,R,78.5,R,N.D.,ND
-Ohio,Rob Portman,Lean R,R,58.0,R,Ohio,OH
-Oklahoma,James Lankford,Solid R,R,67.7,R,Okla.,OK
-Oregon,Ron Wyden,Solid D,D,56.6,D,Ore.,OR
-Pennsylvania,Pat Toomey,Tossup,R,48.8,R,Pa.,PA
-South Carolina,Tim Scott,Solid R,R,60.6,R,S.C.,SC
-South Dakota,John Thune,Solid R,R,71.8,R,S.D.,SD
-Utah,Mike Lee,Solid R,R,68.2,R,Utah,
-Vermont,Patrick Leahy,Solid D,D,61.3,D,Vt.,VT
-Washington,Patty Murray,Solid D,D,58.8,D,Wash.,WA
-Wisconsin,Ron Johnson,Tossup,R,50.2,R,Wis.,WI
+state,incumbent,cook_rating,incumbent_party,last_election_winner_share,last_election_winner_party,state_ap,state_postal,margin
+Alabama,Richard Shelby,Solid R,R,64.0,R,Ala.,AL,-64.0
+Alaska,Lisa Murkowski,Solid R,R,44.4,R,Alaska,AK,-44.4
+Arizona,Mark Kelly,Tossup,D,51.2,D,Ariz.,AZ,51.2
+Arkansas,John Boozman,Solid R,R,59.8,R,Ark.,AR,-59.8
+California,Alex Padilla,Solid D,D,Appointed,D-Appointed,Calif.,CA,Appointed
+Colorado,Michael Bennet,Solid D,D,50.0,D,Colo.,CO,50.0
+Connecticut,Richard Blumenthal,Solid D,D,63.2,D,Conn.,CT,63.2
+Florida,Marco Rubio,Lean R,R,52.0,R,Fla.,FL,-52.0
+Georgia,Raphael Warnock,Tossup,D,51.0,D,Ga.,GA,51.0
+Hawaii,Brian Schatz,Solid D,D,73.6,D,Hawaii,HI,73.6
+Idaho,Mike Crapo,Solid R,R,66.1,R,Iowa,IA,-66.1
+Illinois,Tammy Duckworth,Solid D,D,54.9,D,Idaho,ID,54.9
+Indiana,Todd Young,Solid R,R,52.1,R,Ill.,IL,-52.1
+Iowa,Chuck Grassley,Solid R,R,60.1,R,Ind.,IN,-60.1
+Kansas,Jerry Moran,Solid R,R,62.2,R,Kan.,KS,-62.2
+Kentucky,Rand Paul,Solid R,R,57.3,R,Ky.,KY,-57.3
+Louisiana,John Kennedy,Solid R,R,60.7,R,La.,LA,-60.7
+Maryland,Chris Van Hollen,Solid D,D,60.9,D,Mass.,MA,60.9
+Missouri,Roy Blunt,Solid R,R,49.2,R,Mo.,MO,-49.2
+Nevada,Catherine Cortez Masto,Tossup,D,47.1,D,Nev.,NV,47.1
+New Hampshire,Maggie Hassan,Lean D,D,48.0,D,N.H.,NH,48.0
+New York,Chuck Schumer,Solid D,D,70.6,D,N.Y.,NY,70.6
+North Carolina,Richard Burr,Tossup,R,51.1,R,N.C.,NC,-51.1
+North Dakota,John Hoeven,Solid R,R,78.5,R,N.D.,ND,-78.5
+Ohio,Rob Portman,Lean R,R,58.0,R,Ohio,OH,-58.0
+Oklahoma,James Lankford,Solid R,R,67.7,R,Okla.,OK,-67.7
+Oregon,Ron Wyden,Solid D,D,56.6,D,Ore.,OR,56.6
+Pennsylvania,Pat Toomey,Tossup,R,48.8,R,Pa.,PA,-48.8
+South Carolina,Tim Scott,Solid R,R,60.6,R,S.C.,SC,-60.6
+South Dakota,John Thune,Solid R,R,71.8,R,S.D.,SD,-71.8
+Utah,Mike Lee,Solid R,R,68.2,R,Utah,UT,-68.2
+Vermont,Patrick Leahy,Solid D,D,61.3,D,Vt.,VT,61.3
+Washington,Patty Murray,Solid D,D,58.8,D,Wash.,WA,58.8
+Wisconsin,Ron Johnson,Tossup,R,50.2,R,Wis.,WI,-50.2
