@@ -1,4 +1,4 @@
-fips_,place_clean_,state_name_,place_type_,poll_place_elect_day_2012,poll_place_elect_day_2016,poll_place_elect_day_2020,total_reg_voters_2012,total_reg_voters_2016,total_reg_voters_2020,poll_place_change_16_20,poll_place_pct_change_16_20,poll_place_1k_2016,poll_place_1k_2020,poll_place_rate_change_2016_2020
+fips,place,state,place_type,poll_place_elect_day_2012,poll_place_elect_day_2016,poll_place_elect_day_2020,total_reg_voters_2012,total_reg_voters_2016,total_reg_voters_2020,poll_place_change_16_20,poll_place_pct_change_16_20,poll_place_1k_2016,poll_place_1k_2020,poll_place_rate_change_2016_2020
 0100100000,Autauga,Alabama,County,17.0,17.0,18.0,37170.0,38187.0,43695.0,1.0,5.88,0.45,0.41,-8.89
 0100300000,Baldwin,Alabama,County,46.0,87.0,50.0,126703.0,146824.0,176668.0,-37.0,-42.53,0.59,0.28,-52.54
 0100500000,Barbour,Alabama,County,17.0,21.0,16.0,17318.0,17102.0,17850.0,-5.0,-23.81,1.23,0.9,-26.83
