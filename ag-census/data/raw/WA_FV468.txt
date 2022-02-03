@@ -1,0 +1,62 @@
+
+WA_FV468                                                                                        
+WASHINGTON  USDA  AMS  JAN 04 2022               LETTUCE-OTHER                                  
+                                                                                                
+Provided by:  Specialty Crops Market News                                                       
+              Federal - State Market News Service, USDA.                                        
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                                                                                
+                                       SHIPMENTS BY ORIGINS                                     
+                           (AMOUNTS ARE SHOWN IN UNITS OF 10,000 LBS)                           
+                                                                                                
+COMMODITY                        DEC 26   DEC 19   DEC 27  TOTAL THIS   TOTAL LAST              
+  MODE                           JAN 01   DEC 25   JAN 02  SEASON THRU  SEASON THRU     TOTAL   
+    ORIGIN                        2022     2022     2021   JAN 01 2022  JAN 02 2021  LAST SEASON
+                                                                                                
+LETTUCE-OTHER                                                                                   
+  PIGGYBACK                                                                                     
+    ARIZONA                          13       11        9           99           68          262
+    CALIFORNIA-CENTRAL                -        -        -          385          381          381
+    TOTAL                            13       11        9          484          449          642
+                                                                                                
+  TRUCK                                                                                         
+    ARIZONA                         397      371      321         2965         2616         8034
+    CALIFORNIA-CENTRAL                -        3        -        12494        12313        12313
+    CALIFORNIA-IMPERIAL VAL          30       27       39          227          286          883
+    CALIFORNIA-SOUTH                 52       46       41          540          502         1421
+    FLORIDA                          26       12        7           77           22          311
+    TEXAS                             6       11        -           33            -            -
+    TOTAL                           510      470      407        16335        15738        22961
+                                                                                                
+  U.S. TOTAL                        523      481      416        16819        16187        23603
+                                                                                                
+  IMPORT                                                                                        
+    COLOMBIA                          -        -        -            -            -            1
+    CANADA                           16        -        -         3862          182          247
+    GUATEMALA                         -        2        -           24            2           11
+    MEXICO                         1233     1149      585        18657         8693        62802
+    PERU                              1        1        -            9            -           15
+  IMPORT TOTAL                     1250     1152      585        22552         8878        63075
+                                                                                                
+
+LETTUCE-OTHER - GREENHOUSE                                                                      
+    CANADA                            -       11        1          100           29          235
+    SPAIN                             -        -        -            -            -            1
+  IMPORT TOTAL                        -       12        1          100           29          236
+                                                                                                
+
+LETTUCE-OTHER - ORGANIC                                                                         
+    ARIZONA                           5       10        3           49           37          142
+    CALIFORNIA-CENTRAL                -        -        -          607          589          589
+    CALIFORNIA-IMPERIAL VAL           1       31        -          123            -            3
+    CALIFORNIA-SOUTH                  3       14       13           65          118          308
+    TOTAL                             9       55       15          845          743         1041
+                                                                                                
+  U.S. TOTAL                          9       55       15          845          743         1041
+                                                                                                
+
+COMMODITY TOTAL                    1782     1700     1016        40316        25838        87956
+                                                                                                
