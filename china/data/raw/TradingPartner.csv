@@ -1,0 +1,243 @@
+CODES,DESCRIPTION
+101,Afghanistan
+102,Bahrian
+103,Bangladesh
+104,Bhutan
+105,Brunei
+106,Myanmar
+107,Cambodia
+108,Cyprus
+109,North Korea
+110,Hong Kong-China
+111,India
+112,Indonesia
+113,Iran
+114,Iraq
+115,Israel
+116,Japan
+117,Jordan
+118,Kuwait
+119,Lao PDR
+120,Lebanon
+121,Macau-China
+122,Malaysia
+123,Maldives
+124,Mongolia
+125,Nepal
+126,Oman
+127,Pakistan
+128,Palestine
+129,Philippines
+130,Qatar
+131,Saudi Arabia
+132,Singapore
+133,Korea Rep.
+134,Sri Lanka
+135,Syrian Arab Republic
+136,Thailand
+137,Turkey
+138,United Arab Emirates
+139,Yemen
+141,Vietnam
+142,China
+143,Taiwan
+144,Timor-Leste
+145,Kazakhstan
+146,Kyrgyzstan
+147,Tajikistan
+148,Turkmenistan
+149,Uzbekistan
+199,Oth. Asia nes
+201,Algeria
+202,Angola
+203,Benin
+204,Botswana
+205,Burundi
+206,Cameroon
+207,Canary Islands
+208,Cape Verde
+209,Central African Republic.
+210,Ceuta
+211,Chad
+212,Comoros
+213,Congo
+214,Djibouti
+215,Egypt
+216,Equatorial Guinea
+217,Ethiopia
+218,Gabon
+219,Gambia
+220,Ghana
+221,Guinea
+222,Guinea-Bissau
+223,Cote d'lvoire
+224,Kenya
+225,Liberia
+226,Libyan Arab Jamahiriya
+227,Madagascar
+228,Malawi
+229,Mali
+230,Mauritania
+231,Mauritius
+232,Morocco
+233,Mozambique
+234,Namibia
+235,Niger
+236,Nigeria
+237,Reunion
+238,Rwanda
+239,Sao Tome and Principe
+240,Senegal
+241,Seychelles
+242,Sierra Leone
+243,Somalia
+244,South Africa
+245,Western Sahara
+246,Sudan
+247,Tanzania
+248,Togo
+249,Tunisia
+250,Uganda
+251,Burkina Faso
+252,Congo
+253,Zambia
+254,Zimbabwe
+255,Lesotho
+256,Melilla
+257,Swaziland
+258,Eritrea
+259,Mayotte
+260,Republic of South Sudan
+299,Oth. Afr. nes
+301,Belgium
+302,Denmark
+303,United Kingdom
+304,Germany
+305,France
+306,Ireland
+307,Italy
+308,Luxembourg
+309,Netherlands
+310,Greece
+311,Portugal
+312,Spain
+313,Albania
+314,Andorra
+315,Austria
+316,Bulgaria
+318,Finland
+320,Gibraltar
+321,Hungary
+322,Iceland
+323,Liechtenstein
+324,Malta
+325,Monaco
+326,Norway
+327,Poland
+328,Romania
+329,San Marino
+330,Sweden
+331,Switzerland
+334,Estonia
+335,Latvia
+336,Lithuania
+337,Georgia
+338,Armenia
+339,Azerbaijan
+340,Belarus
+343,Moldova
+344,Russian Federation
+347,Ukraine
+350,Slovenia
+351,Croatia
+352,Czech Republic
+353,Slovakia
+354,Republic of North Macedonia
+355,Bosnia and Hercegovina
+356,Vatican City State
+357,Faroe Islands
+358,Serbia
+359,Montenegro
+399,Oth. Eur. nes
+401,Antigua & Barbuda
+402,Argentina
+403,Aruba
+404,Bahamas
+405,Barbados
+406,Belize
+408,Estado Plurinacional de Bolivia
+409,Bonaire
+410,Brazil
+411,Cayman Islands
+412,Chile
+413,Colombia
+414,Dominica
+415,Costa Rica
+416,Cuba
+417,Curacao
+418,Dominican Republic
+419,Ecuador
+420,French Guiana
+421,Grenada
+422,Guadeloupe
+423,Guatemala
+424,Guyana
+425,Haiti
+426,Honduras
+427,Jamaica
+428,Martinique
+429,Mexico
+430,Montserrat
+431,Nicaragua
+432,Panama
+433,Paraguay
+434,Peru
+435,Puerto Rico
+436,Saba
+437,Saint Lucia
+438,Saint Martin Islands
+439,Saint Vincent and Grenadines
+440,El Salvador
+441,Suriname
+442,Trinidad and Tobago
+443,Turks and Caicos Islands
+444,Uruguay
+445,Venezuela
+446,Virgin  Islands
+447,Saint  Kitts and Nevis
+448,Saint.Pierre and Miquelon
+449,Netherlands Antilles
+499,Oth. L.Amer. nes
+501,Canada
+502,United States
+503,Greenland
+504,Bermuda
+599,Oth. N.Amer. nes
+601,Australia
+602,Cook Islands
+603,Fiji
+604,Gambier Islands
+605,Marquesas Islands
+606,Nauru
+607,New Caledonia
+608,Vanuatu
+609,New Zealand
+610,Norfolk Island
+611,Papua New Guinea
+612,Society Islands
+613,Solomon Islands
+614,Tonga
+615,Tuamotu Islands
+616,Tubai Islands
+617,Samoa
+618,Kiribati
+619,Tuvalu
+620,Micronesia Fs
+621,Marshall Islands
+622,Palau
+623,French Polynesia
+625,Wallis and Futuna
+699,Oth. Ocean. nes
+701,Countries(reg.) unknown
+702,UN and oth. int'l  org.
+999,Conutries of Neutral Package
