@@ -1,11 +1,11 @@
-commodity_chapter,commodity_chapter_desc,us_dollar
-62,Apparel and clothing accessories; not knitted or crocheted,12361523418
-64,Footwear; gaiters and the like; parts of such articles,8530093335
-61,Apparel and clothing accessories; knitted or crocheted,7145433906
-39,Plastics and articles thereof,4450636812
-42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",2424928662
-29,Organic chemicals,2136200606
-85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",2125848899
-20,"Preparations of vegetables, fruit, nuts or other parts of plants",2012005412
-08,"Fruit and nuts, edible; peel of citrus fruit or melons",1510275242
-63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1494637674
+commodity_chapter_desc_clean,us_dollar
+Apparel and clothing accessories,19506957324
+Footwear,8530093335
+Plastics and articles thereof,4450636812
+Articles of leather,2424928662
+Organic chemicals,2136200606
+Electrical machinery and equipment and parts thereof,2125848899
+"Preparations of vegetables, fruit, nuts or other parts of plants",2012005412
+"Fruit and nuts, edible",1510275242
+"Textiles, made up articles",1494637674
+Iron or steel articles,1378102247
