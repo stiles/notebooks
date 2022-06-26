@@ -1,0 +1,379 @@
+storenumber,name,streetaddress,city,state,zipcode,latitude,longitude,distance,imageurlthumb,opened_date,opened_year
+140,Culver City,13425 Washington Blvd.,Marina Del Rey,CA,90292,33.99165,-118.44626,0.8200000000000001,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/140.jpg,1999-10-28,1999
+117,Westchester,9149 S. Sepulveda Blvd.,Los Angeles,CA,90045,33.95369,-118.39677,3.08,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/117.jpg,1997-01-22,1997
+55,West Los Angeles,9245 W. Venice Blvd.,Los Angeles,CA,90034,34.02646,-118.39427,3.6,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/55.jpg,1989-09-06,1989
+309,El Segundo,600 N. Sepulveda Blvd.,El Segundo,CA,90245,33.92387,-118.39582,4.8100000000000005,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/309.jpg,2015-12-30,2015
+119,Westwood,922 Gayley,Los Angeles,CA,90024,34.06306,-118.44803,5.39,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/119.jpg,1997-04-01,1997
+166,Inglewood,3411 W. Century Blvd.,Inglewood,CA,90301,33.94579,-118.33238,6.44,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/166.jpg,2002-08-06,2002
+92,Redondo Beach,3801 Inglewood Ave.,Redondo Beach,CA,90278,33.89208,-118.36179,7.69,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/92.jpg,1993-12-03,1993
+102,Hollywood,7009 Sunset Blvd.,Hollywood,CA,90028,34.09822,-118.34171,9.38,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/102.jpg,1994-12-15,1994
+270,Torrance,20150 Hawthorne Blvd,Torrance,CA,90503,33.84883,-118.35312,10.55,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/270.jpg,2012-03-14,2012
+310,Gardena,1701 Artesia Blvd.,Gardena,CA,90248,33.8732,-118.30729,10.65,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/310.jpg,2016-01-21,2016
+111,Studio City,3640 Cahuenga Blvd.,Los Angeles,CA,90068,34.13508,-118.36062,11.13,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/111.jpg,1995-12-27,1995
+85,Sherman Oaks,4444 Van Nuys Blvd.,Sherman Oaks,CA,91403,34.1521,-118.44831,11.52,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/85.jpg,1993-07-15,1993
+74,Huntington Park,6000 Pacific Blvd.,Huntington Park,CA,90255,33.98704,-118.2248,11.98,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/74.jpg,1992-04-23,1992
+347,Compton ,2200 S. Central Ave.,Compton,CA,90220,33.87269,-118.24841,13.21,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/347.jpg,2019-10-24,2019
+9,North Hollywood,5864 Lankershim Blvd,N. Hollywood,CA,91601,34.17746,-118.38194,13.57,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/9.jpg,1971-05-10,1971
+30,Torrance (Carson St.),730 W. Carson St.,Torrance,CA,90502,33.83114,-118.28839,13.57,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/30.jpg,1983-12-23,1983
+75,Torrance (Crenshaw & Lomita),24445 Crenshaw Blvd.,Torrance,CA,90505,33.80279,-118.32835,14.04,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/75.jpg,1992-07-30,1992
+287,South Gate,4601 Firestone Blvd.,South Gate,CA,90280,33.95274,-118.18831,14.26,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/287.jpg,2013-10-31,2013
+18,Woodland Hills,19920 Ventura Blvd.,Woodland Hills,CA,91364,34.17195,-118.56664,14.95,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/18.jpg,1976-02-08,1976
+174,Glendale (Brand & Broadway),119 S. Brand Blvd.,Glendale,CA,91204,34.1456,-118.25545,15.04,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/174.jpg,2003-06-12,2003
+110,Burbank,761 First Street,Burbank,CA,91502,34.18497,-118.31607,15.32,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/110.jpg,1995-12-14,1995
+196,Van Nuys (Balboa),7220 N. Balboa,Van Nuys,CA,91406,34.20186,-118.5007,15.42,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/196.jpg,2005-10-05,2005
+134,Van Nuys,7930 Van Nuys Blvd.,Van Nuys,CA,91402,34.21504,-118.44821,15.86,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/134.jpg,1998-12-10,1998
+157,Glendale (Harvey & Holly),310 N. Harvey Dr.,Glendale,CA,91206,34.14868,-118.22735,16.32,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/157.jpg,2001-11-15,2001
+10,Panorama City,13651 Roscoe Blvd.,Panorama City,CA,91402,34.22201,-118.43073,16.33,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/10.jpg,1972-03-10,1972
+206,Canoga Park,6841 Topanga Canyon Blvd.,Canoga Park,CA,91303,34.19492,-118.60635,17.51,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/206.jpg,2007-04-10,2007
+151,San Pedro,1090 N. Western Ave.,San Pedro,CA,90732,33.75336,-118.30862,17.62,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/151.jpg,2001-06-14,2001
+112,Downey,8767 Firestone Blvd.,Downey,CA,90241,33.93609,-118.12421,18.09,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/112.jpg,1996-03-05,1996
+208,Northridge (Tampa Ave.),8830 Tampa Ave.,Northridge,CA,91324,34.23079,-118.55324,18.26,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/208.jpg,2007-08-09,2007
+35,Northridge (Balboa & Lassen),9858 Balboa Blvd.,Northridge,CA,91325,34.25,-118.50196,18.67,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/35.jpg,1984-12-26,1984
+265,Signal Hill,799 E. Spring St.,Signal Hill,CA,90755,33.81199,-118.18333,18.75,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/265.jpg,2011-10-27,2011
+121,Alhambra,1210 N. Atlantic Blvd.,Alhambra,CA,91801,34.10603,-118.13437,19.06,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/121.jpg,1997-05-14,1997
+344,Bellflower,17325 Bellflower Blvd. ,Bellflower ,CA,90706,33.8751,-118.12539,19.28,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/344.jpg,2019-08-23,2019
+337,Monterey Park ,5500 Market Place Dr. ,Monterey Park ,CA,91755,34.03638,-118.09739,19.59,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/337.jpg,2018-12-06,2018
+40,Lakewood,5820 Bellflower Blvd.,Lakewood,CA,90713,33.86098,-118.12471,19.73,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/40.jpg,1985-12-28,1985
+333,Long Beach,4041 Lakewood Blvd.,Long Beach,CA,90712,33.83164,-118.143,19.81,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/333.jpg,2018-06-28,2018
+16,Tujunga,6225 Foothill Blvd.,Tujunga,CA,91042,34.24106,-118.26655,20.07,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/16.jpg,1975-04-09,1975
+49,Pico Rivera,9070 Whittier Blvd.,Pico Rivera,CA,90660,34.00053,-118.08306,20.13,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/49.jpg,1988-05-13,1988
+305,Cerritos,10900 Alondra Blvd.,Cerritos,CA,90703,33.88714,-118.1021,20.22,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/305.jpg,2015-10-23,2015
+12,San Fernando,11455 Laurel Canyon Blvd.,San Fernando,CA,91340,34.27802,-118.45306,20.23,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/12.jpg,1973-06-02,1973
+14,Norwalk,14330 Pioneer Blvd.,Norwalk,CA,90650,33.90119,-118.08224,21.0,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/14.jpg,1974-02-18,1974
+178,Porter Ranch,19901 Rinaldi St.,Porter Ranch,CA,91326,34.2758,-118.56807,21.47,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/178.jpg,2003-10-30,2003
+60,Long Beach (Los Coyotes Diagonal),4600 Los Coyotes Dgl.,Long Beach,CA,90815,33.79119,-118.14011,21.58,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/60.jpg,1990-06-06,1990
+20,Rosemead,4242 N. Rosemead Blvd.,Rosemead,CA,91770,34.08397,-118.07301,21.75,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/20.jpg,1978-12-21,1978
+5,Pasadena,2114 E. Foothill Blvd.,Pasadena,CA,91107,34.14948,-118.1068,21.88,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/5.jpg,1952-09-18,1952
+372,Whittier ,11802 Whittier Blvd.,Whittier ,CA,90601,33.98,-118.0505,21.98,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/372.jpg,2021-12-03,2021
+47,Santa Fe Springs,10525 Carmenita,Santa Fe Springs,CA,90670,33.93957,-118.04684,22.42,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/47.jpg,1987-10-21,1987
+135,Long Beach (Carson St.),7691 Carson St.,Long Beach,CA,90808,33.83109,-118.08485,22.71,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/135.jpg,1999-04-21,1999
+297,Westlake Village,30780 Russell Ranch Rd.,Westlake Village,CA,91361,34.14764,-118.79711,23.64,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/297.jpg,2014-11-05,2014
+13,Temple City,10601 Lower Azusa Rd.,Temple City,CA,91780,34.09244,-118.03846,23.82,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/13.jpg,1973-08-27,1973
+114,Long Beach,6391 E. Pacific Coast Hwy.,Long Beach,CA,90803,33.75847,-118.11117,24.3,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/114.jpg,1996-04-25,1996
+105,La Mirada,14341 Firestone Blvd.,La Mirada,CA,90638,33.88254,-118.02468,24.54,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/105.jpg,1995-05-31,1995
+271,Seal Beach,12365 Seal Beach Blvd.,Seal Beach,CA,90740,33.78222,-118.07251,25.07,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/271.jpg,2012-03-15,2012
+42,Buena Park,7926 Valley View St.,Buena Park,CA,90620,33.84731,-118.0281,25.18,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/42.jpg,1986-09-25,1986
+78,Simi Valley,2600 Stearns St.,Simi Valley,CA,93063,34.28305,-118.69094,25.28,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/78.jpg,1992-10-22,1992
+27,Arcadia,420 N. Santa Anita,Arcadia,CA,91006,34.14532,-118.03124,25.56,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/27.jpg,1982-06-08,1982
+11,Hacienda Heights,14620 E. Gale,Hacienda Heights,CA,91745,34.0194,-117.9873,25.7,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/11.jpg,1972-07-24,1972
+1,Baldwin Park,13850 Francisquito Ave.,Baldwin Park,CA,91706,34.06767,-117.97349,26.98,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/1.jpg,1948-10-22,1948
+330,La Habra,1761 W. Whittier Blvd.,La Habra,CA,90631,33.93986,-117.96633,27.0,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/330.jpg,2018-05-03,2018
+7,La Puente,15259 E. Amar Rd.,La Puente,CA,91744,34.03759,-117.95173,27.86,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/7.jpg,1968-05-01,1968
+53,Newhall,25220 N. The Old Road,Newhall,CA,91381,34.37714,-118.56538,28.08,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/53.jpg,1988-12-28,1988
+37,Westminster,6292 Westminster Blvd.,Westminster,CA,92683,33.75871,-118.01959,28.51,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/37.jpg,1985-06-29,1985
+4,West Covina (San Bernardino Rd.),15610 San Bernardino Rd.,West Covina,CA,91722,34.08978,-117.94092,29.14,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/temp-closed.png,1951-03-01,1951
+345,Stanton,12975 Beach Blvd.,Stanton ,CA,90680,33.77485,-117.99318,29.21,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/345.jpg,2019-09-26,2019
+24,Anaheim,600 S. Brookhurst St.,Anaheim,CA,92804,33.82483,-117.9585,29.47,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/24.jpg,1980-12-03,1980
+36,La Habra,2030 E. Lambert Rd.,La Habra,CA,90631,33.9244,-117.92377,29.56,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/36.jpg,1985-05-14,1985
+66,City Of Industry,17849 E. Colima Road,City Of Industry,CA,91748,33.99033,-117.91538,29.73,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/66.jpg,1991-06-18,1991
+107,Santa Clarita (Sand Canyon),28368 Sand Canyon Rd.,Santa Clarita,CA,91351,34.42368,-118.42316,30.28,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/107.jpg,1995-10-19,1995
+77,Fullerton,1180 S. Harbor Blvd.,Fullerton,CA,92832,33.86023,-117.92398,30.52,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/77.jpg,1992-09-16,1992
+19,Garden Grove,9032 Trask Ave.,Garden Grove,CA,92844,33.76643,-117.97211,30.55,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/19.jpg,1978-06-25,1978
+58,Newbury Park,1550 Newbury Rd.,Newbury Park,CA,91320,34.18371,-118.91459,30.76,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/58.jpg,1990-02-28,1990
+171,Santa Clarita (Bouquet Canyon),26401 Bouquet Canyon Rd.,Santa Clarita,CA,91350,34.42546,-118.53924,30.99,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/171.jpg,2003-02-20,2003
+6,Azusa,324 S. Azusa Ave.,Azusa,CA,91702,34.11765,-117.90734,31.51,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/6.jpg,1966-08-01,1966
+370,Brea,1130 E. Imperial Hwy.,Brea,CA,92821,33.91187,-117.88934,31.65,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/370.jpg,2021-10-14,2021
+179,Moorpark,856 New Los Angeles Ave.,Moorpark,CA,93021,34.28022,-118.86544,32.02,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/179.jpg,2003-11-20,2003
+64,West Covina (Garvey Ave.),2940 E. Garvey Ave.,West Covina,CA,91791,34.0714,-117.88194,32.17,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/64.jpg,1990-12-22,1990
+180,Huntington Beach,18062 Beach Blvd.,Huntington Beach,CA,92648,33.70038,-117.98861,32.31,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/180.jpg,2004-01-27,2004
+32,Placentia,825 W. Chapman,Placentia,CA,92870,33.874340000000004,-117.87841,32.79,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/32.jpg,1984-05-25,1984
+343,Azusa,988 E. Alosta Ave.,Azusa,CA,91702,34.12834,-117.8862,32.88,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/343.jpg,2019-05-27,2019
+2,Covina,1371 Grand Ave.,Covina,CA,91724,34.10491,-117.87307,33.16,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/2.jpg,1959-10-05,1959
+300,Anaheim,1168 State College Blvd.,Anaheim,CA,92806,33.81889,-117.88902,33.34,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/300.jpg,2015-01-07,2015
+15,Diamond Bar,21133 Golden Springs,Diamond Bar,CA,91765,34.0005,-117.84346,33.86,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/15.jpg,1974-06-30,1974
+199,City Of Industry (Grand & Valley),21620 E. Valley Blvd,City Of Industry,CA,91789,34.02749,-117.83467,34.46,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/199.jpg,2005-12-20,2005
+17,Santa Ana (Bristol & Civic Center),815 N. Bristol,Santa Ana,CA,92703,33.7523,-117.88474,35.43,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/17.jpg,1975-09-28,1975
+172,Glendora,1261 S. Lone Hill,Glendora,CA,91740,34.11673,-117.82941,35.79,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/172.jpg,2003-03-27,2003
+182,Orange (Tustin & Lincoln),2585 N. Tustin St.,Orange,CA,92865,33.83196,-117.83569,35.94,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/182.jpg,2004-04-21,2004
+251,Costa Mesa,3211 Harbor Blvd.,Costa Mesa,CA,92626,33.68773,-117.9199,36.01,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/251.jpg,2010-12-17,2010
+373,Yorba Linda,18181 Imperial Hwy.,Yorba Linda,CA,92886,33.89101,-117.81513,36.1,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/373.jpg,2021-12-14,2021
+133,Santa Ana (Macarthur),3361 S. Bristol,Santa Ana,CA,92704,33.70036,-117.8851,37.19,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/133.jpg,1998-11-11,1998
+38,Costa Mesa,594 W. 19th Street,Costa Mesa,CA,92627,33.64369,-117.92289,37.71,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/38.jpg,1985-09-23,1985
+138,Anaheim Hills,5646 E. La Palma,Anaheim Hills,CA,92807,33.85933,-117.79148,37.88,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/138.jpg,1999-08-12,1999
+59,Orange (Chapman & Prospect),3501 E. Chapman Ave.,Orange,CA,92869,33.78813,-117.81646,37.99,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/59.jpg,1990-03-09,1990
+41,Camarillo,1316 Ventura Blvd.,Camarillo,CA,93010,34.21722,-119.05295,38.91,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/41.jpg,1986-08-27,1986
+3,La Verne,2098 Foothill Blvd.,La Verne,CA,91750,34.11313,-117.76564,39.28,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/3.jpg,1962-07-03,1962
+33,Pomona (Garey Ave.),2505 Garey Ave.,Pomona,CA,91766,34.02579,-117.74946,39.33,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/33.jpg,1984-08-16,1984
+216,Tustin (District),2895 Park Ave.,Tustin,CA,92782,33.69499,-117.82708,40.24,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/216.jpg,2008-04-29,2008
+167,Chino,3927 Grand Ave.,Chino,CA,91710,33.9974,-117.71853,41.02,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/167.jpg,2002-09-05,2002
+63,Tustin,3020 El Camino Real,Tustin,CA,92782,33.72286,-117.79367,41.02,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/63.jpg,1990-10-10,1990
+67,Irvine,4115 Campus Drive,Irvine,CA,92612,33.65015,-117.84063,41.24,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/67.jpg,1991-07-25,1991
+8,Pomona (Indian Hill Blvd.),1851 Indian Hill,Pomona,CA,91767,34.07792,-117.71965,41.42,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/8.jpg,1970-04-01,1970
+45,Upland,1837 Foothill Blvd.,Upland,CA,91786,34.10724,-117.68629,43.65,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/45.jpg,1987-04-06,1987
+21,Ontario (Mountain Ave.),2235 Mountain Ave.,Ontario,CA,91761,34.0327,-117.66782,44.03,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/21.jpg,1979-10-04,1979
+79,Palmdale,142 E Palmdale Blvd.,Palmdale,CA,93550,34.57934,-118.12803,44.6,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/79.jpg,1992-10-30,1992
+163,Oxnard,381 W. Esplanade,Oxnard,CA,93036,34.23508,-119.17967,46.06,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/163.jpg,2002-05-02,2002
+336,Upland ,1152 East 20th Street ,Upland ,CA,91784,34.13607,-117.63897,46.71,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/336.jpg,2018-10-31,2018
+34,Ontario (Vineyard & G St.),1891 E. G Street,Ontario,CA,91764,34.06922,-117.61145,47.48,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/34.jpg,1984-10-19,1984
+25,Corona (Auto Center Dr.),450 Auto Center Dr.,Corona,CA,92882,33.88166,-117.61349,47.62,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/25.jpg,NaT,nan
+23,Rancho Cucamonga (Foothill & Vineyard),8955 Foothill Blvd.,Rancho Cucamonga,CA,91730,34.10625,-117.60964,47.95,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/23.jpg,1980-09-15,1980
+97,Foothill Ranch,26482 Towne Centre,Foothill Ranch,CA,92610,33.68158,-117.66941,48.7,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/97.jpg,1994-07-06,1994
+170,Laguna Hills (El Toro),24001 Avenida de la Carlota,Laguna Hills,CA,92653,33.61331,-117.70842,49.01,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/170.jpg,2003-01-30,2003
+340,Eastvale,4950 Hamner Avenue ,Eastvale,CA,91752,33.99813,-117.55833,50.21,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/340.jpg,2019-02-08,2019
+48,Norco,1810 Hamner Avenue,Norco,CA,92860,33.90852,-117.56168,50.32,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/48.jpg,1988-03-05,1988
+144,Ontario (Ontario Mills),4310 E. Ontario Mills Pkwy.,Ontario,CA,91764,34.06834,-117.55714,50.57,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/144.jpg,2000-07-18,2000
+94,Laguna Niguel (La Paz),27380 La Paz Rd.,Laguna Niguel,CA,92677,33.56497,-117.70737,50.91,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/94.jpg,1994-01-03,1994
+76,Ventura,2070 Harbor Blvd.,Ventura,CA,93001,34.26841,-119.27283,51.87,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/76.jpg,1992-09-08,1992
+43,Lancaster,"""2021 W. Avenue """"I""""""",Lancaster,CA,93536,34.70441,-118.16698,51.97,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/43.jpg,1986-11-26,1986
+175,Corona (Ontario Ave. & I-15),2305 Compton Ave.,Corona,CA,92881,33.844030000000004,-117.53647,52.43,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/175.jpg,2003-06-19,2003
+84,Rancho Cucamonga (Foothill & I-15),12599 Foothill Blvd.,Rancho Cucamonga,CA,91739,34.10585,-117.53026,52.43,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/84.jpg,1993-04-14,1993
+281,Rancho Santa Margarita,30121 Santa Margarita Pkwy.,Rancho Santa Margarita,CA,92688,33.64253,-117.60524,53.21,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/281.jpg,2013-02-13,2013
+28,Laguna Niguel (Avery Pkwy.),28782 Camino Capistrano,San Juan Capistrano,CA,92675,33.5453,-117.67383,53.27,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/28.jpg,1982-08-24,1982
+39,Pedley,6634 Clay St.,Riverside,CA,92509,33.96709,-117.46584,55.53,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/39.jpg,1985-11-29,1985
+335,Rancho Mission Viejo ,30655 Gateway Pl.,Rancho Mission Viejo ,CA,92694,33.52053,-117.61931,56.83,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/335.jpg,2018-10-24,2018
+365,Riverside,3483 Van Buren Boulevard,Riverside,CA,92503,33.91562,-117.44211,57.1,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/365.jpg,2021-07-02,2021
+22,Fontana,9855 Sierra Ave.,Fontana,CA,92335,34.07498,-117.43523,57.56,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/22.jpg,1979-12-27,1979
+46,Riverside,7467 Indiana Ave.,Riverside,CA,92504,33.93579,-117.40385,59.18,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/46.jpg,1985-11-29,1985
+286,Rialto,108 E. Easton St.,Rialto,CA,92376,34.1344,-117.37003,61.81,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/286.jpg,2013-08-29,2013
+26,San Bernardino (5th Street),795 W. 5th Street,San Bernardino,CA,92410,34.10794,-117.30054,65.49,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/26.jpg,1982-02-11,1982
+353,Riverside,22410 Van Buren Blvd.,Riverside,CA,92518,33.88854,-117.27293,66.95,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/353.jpg,2020-03-26,2020
+44,Moreno Valley,23035 Hemlock,Moreno Valley,CA,92557,33.94211,-117.26014,67.39,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/44.jpg,1987-01-07,1987
+31,San Bernardino (Tippecanoe),1065 Harriman Pl.,San Bernardino,CA,92408,34.06638,-117.26181,67.41,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/31.jpg,1984-02-28,1984
+29,Hesperia (Main St.),13074 Main St.,Hesperia,CA,92345,34.42713,-117.37809,67.65,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/29.jpg,1983-06-24,1983
+54,Lake Elsinore,331 Railroad Canyon,Lake Elsinore,CA,92532,33.66356,-117.29851,68.93,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/54.jpg,1989-05-18,1989
+272,Highland,28009 Greenspot Rd.,Highland,CA,92346,34.10791,-117.19374,71.56,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/272.jpg,2012-03-29,2012
+72,Hesperia (Bear Valley Rd.),17069 Bear Valley Rd.,Hesperia,CA,92345,34.4705,-117.29092,73.44,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/72.jpg,1992-03-10,1992
+233,Victorville,15290 Civic Drive,Victorville,CA,92394,34.52112,-117.32202,73.55,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/233.jpg,2009-09-24,2009
+209,Lebec (Tejon Ranch),5926 Dennis Mccarthy,Lebec,CA,93243,34.98345,-118.94828,74.97,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/209.jpg,2007-08-30,2007
+224,Menifee,30296 Haun Road,Menifee,CA,92584,33.68112,-117.17501,75.33,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/224.jpg,2008-10-28,2008
+318,Yucaipa,31465 Avenue E,Yucaipa,CA,92399,34.02775,-117.11733,75.53,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/318.jpg,2016-11-17,2016
+212,Murrieta,39697 Avenida Acacias,Murrieta,CA,92563,33.57324,-117.17903,77.57,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/212.jpg,2007-12-20,2007
+62,Temecula (Jefferson Ave.),27700 Jefferson Ave.,Temecula,CA,92590,33.51498,-117.159,80.22,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/62.jpg,1990-09-19,1990
+313,Oceanside,936 N. Coast Highway,Oceanside,CA,92054,33.20394,-117.38399,81.14,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/313.jpg,2016-04-07,2016
+200,Temecula (Highway 79),30697 Temecula Pkwy.,Temecula,CA,92592,33.47588,-117.12363,83.21,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/200.jpg,2005-12-30,2005
+162,Oceanside,4605 Frazee,Oceanside,CA,92057,33.23782,-117.29927,83.35,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/162.jpg,2002-04-04,2002
+108,Goleta,4865 Calle Real,Goleta,CA,93111,34.44289,-119.79074,83.81,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/108.jpg,1995-11-14,1995
+52,Hemet,2885 W. Florida Ave.,Hemet,CA,92545,33.74698,-117.00175,83.88,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/52.jpg,1988-09-09,1988
+355,Beaumont,1551 E. 2nd St. ,Beaumont,CA,92223,33.92323,-116.94849,85.32,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/355.jpg,2020-07-24,2020
+61,Vista,2010 Hacienda Dr.,Vista,CA,92081,33.18455,-117.28496,86.34,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/61.jpg,1990-08-30,1990
+89,Carlsbad,5950 Avenida Encinas,Carlsbad,CA,92008,33.12509,-117.32465,87.36,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/89.jpg,1993-10-05,1993
+295,Encinitas,130 Calle Magdalena,Encinitas,CA,92024,33.04729,-117.28499,92.75,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/295.jpg,2014-05-22,2014
+185,San Marcos,583 Grand Ave.,San Marcos,CA,92078,33.13718,-117.17717,93.23,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/185.jpg,2004-07-27,2004
+292,Cabazon,49188 Seminole Dr.,Cabazon,CA,92230,33.9214,-116.80362,93.63,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/292.jpg,2014-01-15,2014
+65,Bakersfield (Panama Ln.),2310 Panama Lane,Bakersfield,CA,93307,35.29633,-119.02855,96.75,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/65.jpg,1991-04-24,1991
+56,Barstow,2821 Lenwood Rd.,Barstow,CA,92311,34.85006,-117.08238,97.55,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/56.jpg,1989-11-14,1989
+247,Escondido,1260 W Valley Parkway,Escondido,CA,92029,33.11518,-117.1019,97.58,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/247.jpg,2010-09-30,2010
+145,Bakersfield (Stockdale Hwy),5100 Stockdale Hwy.,Bakersfield,CA,93309,35.35451,-119.05794,101.1,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/145.jpg,2000-10-02,2000
+362,Bakersfield,7985 Rosedale Hwy. ,Bakersfield,CA,93308,35.38311,-119.09086,103.61,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/362.jpg,2021-01-28,2021
+87,Carmel Mountain,11880 Carmel Mountain Rd.,San Diego,CA,92128,32.98171,-117.07757,104.62,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/87.jpg,1993-08-02,1993
+68,Mira Mesa,9410 Mira Mesa Blvd.,San Diego,CA,92126,32.91764,-117.12193,105.79,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/68.jpg,1991-08-13,1991
+69,Pacific Beach,2910 Damon Ave.,Pacific Beach,CA,92109,32.80896,-117.21887,107.46,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/69.jpg,1991-10-24,1991
+254,Poway,12890 Gregg Court,Poway,CA,92064,32.93892,-117.04651,107.94,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/254.jpg,2011-04-21,2011
+71,Kearny Mesa,4375 Kearny Mesa Rd.,San Diego,CA,92111,32.81967,-117.14869,109.6,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/71.jpg,1991-12-18,1991
+123,San Diego (Sports Arena Blvd.),3102 Sports Arena Blvd.,San Diego,CA,92110,32.75191,-117.20527,111.0,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/123.jpg,1997-06-27,1997
+128,Mission Valley,2005 Camino Del Este,San Diego,CA,92108,32.76952,-117.14345,112.39,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/128.jpg,1998-05-21,1998
+375,San Diego,10370 Friars Rd.,San Diego ,CA,92120,32.79099,-117.10012,112.97,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/375.jpg,2022-01-14,2022
+279,Santee,9414 Mission Gorge Rd.,Santee,CA,92071,32.83901,-116.99388,114.91,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/279.jpg,2012-11-28,2012
+50,Thousand Palms,72265 Varner Rd.,Thousand Palms,CA,92276,33.81566,-116.40139,117.26,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/50.jpg,1988-06-17,1988
+57,Lemon Grove,7160 Broadway,Lemon Grove,CA,91945,32.74421,-117.04325,117.59,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/57.jpg,1990-01-16,1990
+374,Rancho Mirage,42560 Bob Hope Dr.,Rancho Mirage,CA,92270,33.73631,-116.40772,117.63,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/374.jpg,2022-01-07,2022
+73,El Cajon,100 Fletcher Parkway,El Cajon,CA,92020,32.80802,-116.96289,117.69,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/73.jpg,1992-03-31,1992
+70,National City,500 Mile-Of Cars Way,National City,CA,91950,32.65966,-117.10659,119.57,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/70.jpg,1991-11-18,1991
+311,La Quinta,78611 Hwy. 111,La Quinta,CA,92253,33.71257,-116.29265,124.43,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/311.jpg,2016-02-04,2016
+227,Chula Vista,1725 Eastlake Pkwy.,Chula Vista,CA,91915,32.62049,-116.96204,127.11,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/227.jpg,2008-12-23,2008
+51,Indio,82043 Hwy. 111,Indio,CA,92201,33.71425,-116.23308,127.8,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/51.jpg,1988-06-17,1988
+136,Santa Maria,1330 S. Bradley Road,Santa Maria,CA,93454,34.93734,-120.41884,130.94,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/136.jpg,1999-05-27,1999
+250,Arroyo Grande,1170 W. Branch St.,Arroyo Grande,CA,93420,35.12729,-120.59796,146.39,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/250.jpg,2010-11-16,2010
+367,Tulare,1591 E. Prosperity Ave. ,Tulare,CA,93274,36.22548,-119.32403,162.88,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/367.jpg,2021-08-19,2021
+95,Kettleman City,33464 Bernard Dr.,Kettleman City,CA,93239,35.98616,-119.95924,163.13,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/95.jpg,1994-03-24,1994
+98,Atascadero,6000 San Anselmo Rd.,Atascadero,CA,93422,35.49698,-120.6844,165.18,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/98.jpg,1994-07-22,1994
+106,Visalia,1933 S. Mooney Blvd.,Visalia,CA,93277,36.31346,-119.31423,168.51,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/106.jpg,1995-06-21,1995
+368,Visalia,506 W. Riggin Ave.,Visalia,CA,93291,36.3569,-119.29744,171.1,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/368.jpg,2021-09-10,2021
+291,Hanford,280 S. 12th Ave.,Hanford,CA,93230,36.32131,-119.67359,176.09,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/291.jpg,2013-12-19,2013
+211,El Centro,2390 S. 4Th Street,El Centro,CA,92243,32.77146,-115.55267,186.39,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/211.jpg,2007-12-13,2007
+93,Fresno (2nd Street),2657 S. Second St.,Fresno,CA,93706,36.70482,-119.77024,202.6,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/93.jpg,1993-12-15,1993
+83,Fresno (Blackstone & Ashlan),4302 N. Blackstone Ave.,Fresno,CA,93726,36.79612,-119.78992,208.87,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/83.jpg,1992-12-18,1992
+220,Clovis,382 N. Clovis Ave.,Clovis,CA,93612,36.83692,-119.70056,209.72,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/220.jpg,2008-08-21,2008
+82,Fresno (Shaw),5106 W. Shaw St.,Fresno,CA,93722,36.8085,-119.88316,211.63,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/82.jpg,1992-11-30,1992
+173,Fresno (Blackstone & Nees),8010 N. Blackstone,Fresno,CA,93720,36.85229,-119.7904,212.49,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/173.jpg,2003-04-30,2003
+226,Las Vegas (Tropicana Ave. & Tee Pee Ln.),9610 W. Tropicana Ave.,Las Vegas,NV,89147,36.10069,-115.30211,229.85,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/226.jpg,2008-12-18,2008
+352,Las Vegas,6530 S. Rainbow Blvd. ,Las Vegas ,NV,89118,36.06968,-115.2417,231.18,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/352.jpg,2020-03-17,2020
+331,Las Vegas,10040 W. Sahara Ave.,Las Vegas,NV,89117,36.14482,-115.31351,231.27,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/331.jpg,2018-05-25,2018
+364,Henderson,3551 St. Rose Pkwy.,Henderson,NV,89052,35.98619,-115.14228,232.2,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/364.jpg,2021-05-21,2021
+221,Las Vegas (Blue Diamond Rd.),3882 Blue Diamond Rd.,Las Vegas,NV,89139,36.04056,-115.19118,232.21,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/221.jpg,2008-08-28,2008
+181,Laughlin,2085 Casino Dr.,Laughlin,NV,89029,35.15922,-114.57523,234.23,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/181.jpg,2004-03-04,2004
+165,Las Vegas (Eastern Ave.),9240 S. Eastern Ave.,Las Vegas,NV,89123,36.02139,-115.11813,234.72,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/165.jpg,2002-07-10,2002
+86,Las Vegas (Dean Martin & Tropicana),4888 Dean Martin Dr.,Las Vegas,NV,89103,36.10132,-115.18219,235.15,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/86.jpg,1993-07-28,1993
+143,Lake Havasu City,81 London Bridge Rd.,Lake Havasu City,AZ,86403,34.47483,-114.34779,236.07,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/143.jpg,2000-05-03,2000
+320,Las Vegas,"3545 S. Las Vegas Blvd, Ste L24",Las Vegas,NV,89109,36.11744,-115.1699,236.38,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/320.jpg,2017-01-11,2017
+104,Las Vegas (Lake Mead Blvd.),1960 Rock Springs,Las Vegas,NV,89128,36.19564,-115.24654,236.39,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/104.jpg,1995-02-28,1995
+80,Las Vegas (Sahara),2900 W. Sahara Ave.,Las Vegas,NV,89102,36.14486,-115.18057,237.07,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/80.jpg,1992-11-17,1992
+88,Las Vegas (Maryland Pkwy & Tropicana),4705 S. Maryland Pkwy.,Las Vegas,NV,89119,36.10417,-115.13758,237.25,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/88.jpg,1993-08-31,1993
+203,Yuma,1940 E. 16th Street,Yuma,AZ,85365,32.69905,-114.60057,238.68,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/203.jpg,2006-11-16,2006
+204,Las Vegas (Centennial),5690 Centennial Center Blvd.,Las Vegas,NV,89149,36.2652,-115.25707,239.03,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/204.jpg,2007-02-07,2007
+334,Las Vegas,3804 East Flamingo Rd.,Las Vegas,NV,89121,36.11578,-115.09154,239.79,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/334.jpg,2018-10-18,2018
+150,Henderson,1051 W. Sunset Rd.,Henderson,NV,89014,36.06331,-115.03392,240.24,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/150.jpg,2001-03-29,2001
+81,Las Vegas (Nellis),51 N Nellis,Las Vegas,NV,89110,36.16083,-115.06266,242.96,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/81.jpg,1992-11-18,1992
+243,North Las Vegas,2765 E. Craig Rd.,North Las Vegas,NV,89030,36.23968,-115.11141,244.17,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/243.jpg,2010-06-23,2010
+234,North Las Vegas,6880 N. 5th Street,North Las Vegas,NV,89084,36.28523,-115.1344,245.16,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/234.jpg,2009-10-29,2009
+91,Merced,1579 M L King Jr Way,Merced,CA,95340,37.29835,-120.48184,256.39,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/91.jpg,1993-11-18,1993
+99,Salinas,151 Kern St.,Salinas,CA,93905,36.67993,-121.6409,259.72,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/99.jpg,1994-09-21,1994
+267,Santa Nella,28900 Henry Miller Rd.,Santa Nella,CA,95322,37.101,-121.0146,259.82,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/267.jpg,2012-01-26,2012
+201,Kingman,1770 E. Beverly Ave.,Kingman,AZ,86409,35.21825,-114.03694,264.4,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/201.jpg,2006-06-15,2006
+312,Seaside,1350 Del Monte Blvd.,Seaside,CA,93955,36.60592,-121.85847,264.95,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/312.jpg,2016-03-22,2016
+100,Gilroy,641 Leavesley Rd.,Gilroy,CA,95020,37.0238,-121.56419,274.22,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/100.jpg,1994-11-10,1994
+161,Turlock,3071 Countryside Dr.,Turlock,CA,95380,37.5205,-120.8817,280.42,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/161.jpg,2002-03-14,2002
+198,Morgan Hill,895 Cochrane Rd.,Morgan Hill,CA,95037,37.15249,-121.6548,284.23,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/198.jpg,2005-11-30,2005
+285,Modesto,1616 Sisk Rd.,Modesto,CA,95350,37.66949,-121.0356,293.57,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/285.jpg,2013-08-22,2013
+342,San Jose (Cottle Road),5590 Cottle Road,San Jose ,CA,95123,37.25043,-121.80391,294.73,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/342.jpg,2019-05-02,2019
+90,Modesto,3900 Pelandale Ave.,Modesto,CA,95356,37.6998,-121.06759,296.27,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/90.jpg,1993-10-18,1993
+142,San Jose (Santa Teresa Blvd.),5611 Santa Teresa,San Jose,CA,95123,37.24904,-121.85943,296.67,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/142.jpg,2000-01-26,2000
+158,San Jose (Capitol & Tully),2950 E. Capitol Expy.,San Jose,CA,95148,37.33009,-121.81133,299.17,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/158.jpg,2001-12-06,2001
+240,San Jose,550 Newhall Drive,San Jose,CA,95110,37.3503,-121.92187,304.2,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/240.jpg,2010-01-14,2010
+191,Manteca,1490 E. Yosemite Ave.,Manteca,CA,95336,37.79717,-121.19248,305.55,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/191.jpg,2005-04-12,2005
+115,Milpitas,50 Ranch Drive,Milpitas,CA,95035,37.42629,-121.92238,308.19,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/115.jpg,1996-09-05,1996
+176,Santa Clara,3001 Mission College,Santa Clara,CA,95054,37.388,-121.98201,308.34,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/176.jpg,2003-08-07,2003
+130,Sunnyvale,604 E. El Camino Real,Sunnyvale,CA,94087,37.36097,-122.02497,308.51,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/130.jpg,1998-07-02,1998
+346,Lathrop ,16514 Golden Valley Parkway,Lathrop ,CA,95330,37.81143,-121.29806,309.42,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/346.jpg,2019-10-17,2019
+96,Tracy,575 Clover Road,Tracy,CA,95376,37.76184,-121.43377,310.57,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/96.jpg,1994-06-01,1994
+152,Mountain View (El Camino Real & Grant),53 W. El Camino Real,Mountain View,CA,94040,37.38038,-122.07402,311.31,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/152.jpg,2001-07-12,2001
+129,Mountain View (Rengstorff),1159 N. Rengstorff,Mountain View,CA,94043,37.42096,-122.09334,314.11,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/129.jpg,1998-06-11,1998
+194,Fremont,43349 Pacific Commons Blvd. ,Fremont,CA,94538,37.50421,-121.97399,314.14,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/194.jpg,2005-08-17,2005
+149,Livermore,1881 N. Livermore Ave.,Livermore,CA,94550,37.69939,-121.77326,317.8,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/149.jpg,2001-02-15,2001
+369,Stockton ,5202 Pacific Ave.,Stockton ,CA,95207,37.99696,-121.31452,320.83,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/369.jpg,2021-09-17,2021
+101,Stockton,2727 W. March Lane,Stockton,CA,95219,37.98471,-121.34561,320.98,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/101.jpg,1994-11-30,1994
+124,Pleasanton,6015 Johnson Dr.,Pleasanton,CA,94588,37.70022,-121.90763,322.34,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/124.jpg,1997-08-06,1997
+156,Union City,32060 Union Landing,Union City,CA,94587,37.59927,-122.06561,322.4,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/156.jpg,2001-11-01,2001
+246,Redwood City,949 Veterans Blvd,Redwood City,CA,94063,37.49059,-122.22785,322.64,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/246.jpg,2010-08-26,2010
+257,San Carlos,445 Industrial Rd.,San Carlos,CA,94070,37.51288,-122.25859,324.91,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/257.jpg,2011-06-16,2011
+197,Lodi,2625 W. Kettleman Ln.,Lodi,CA,95242,38.11596,-121.3082,327.73,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/197.jpg,2005-10-13,2005
+118,San Ramon,2270 San Ramon Valley,San Ramon,CA,94583,37.77914,-121.97702,328.97,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/118.jpg,1997-02-27,1997
+222,San Leandro,15575 Hesperian Blvd.,San Leandro,CA,94579,37.68697,-122.13113,329.35,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/222.jpg,2008-09-30,2008
+189,Brentwood,5581 Lone Tree Way,Brentwood,CA,94513,37.96115,-121.74774,331.62,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/189.jpg,2004-12-16,2004
+190,Millbrae,11 Rollins Rd.,Millbrae,CA,94030,37.60082,-122.38243,333.99,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/190.jpg,2005-03-31,2005
+193,Oakland,8300 Oakport St.,Oakland,CA,94621,37.74037,-122.1984,334.55,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/193.jpg,2005-05-18,2005
+168,Pittsburg,4550 Delta Gateway Blvd.,Pittsburg,CA,94565,38.00537,-121.83634,336.91,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/168.jpg,2002-10-08,2002
+303,Alameda,555 Willie Stargell Ave.,Alameda,CA,94501,37.78372,-122.27728,339.62,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/303.jpg,2015-05-14,2015
+326,Daly City,372 Gellert Blvd.,Daly City,CA,94015,37.66603,-122.46904,340.52,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/326.jpg,2017-07-27,2017
+159,Daly City,260 Washington St.,Daly City,CA,94015,37.68821,-122.47202,341.75,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/159.jpg,2002-01-17,2002
+274,Pleasant Hill,570 Contra Costa Blvd.,Pleasant Hill,CA,94523,37.97596,-122.06565,342.69,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/274.jpg,2012-05-17,2012
+154,San Francisco,333 Jefferson,San Francisco,CA,94133,37.80773,-122.41858,345.94,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/154.jpg,2001-09-20,2001
+184,Prescott,3040 Hwy. 69,Prescott,AZ,86301,34.55245,-112.40924,346.52,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/184.jpg,2004-06-29,2004
+116,Elk Grove,9188 E Stockton Blvd.,Elk Grove,CA,95624,38.42411,-121.3915,348.49,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/116.jpg,1996-11-14,1996
+332,Surprise,14321 W. Bell Rd.,Surprise,AZ,85374,33.63818,-112.36853,349.33,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/332.jpg,2018-06-08,2018
+215,Washington City,832 W. Telegraph St.,Washington City,UT,84780,37.1278,-113.52311,351.44,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/215.jpg,2008-04-22,2008
+120,Pinole,1417 Fitzgerald Dr.,Pinole,CA,94564,37.98907,-122.31071,351.7,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/120.jpg,1997-04-24,1997
+148,Avondale,1525 Dysart Rd.,Avondale,AZ,85323,33.45937,-112.34041,352.37,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/148.jpg,2000-12-07,2000
+139,Placerville,3055 Forni Road,Placerville,CA,95667,38.72039,-120.83314,353.66,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/139.jpg,1999-09-30,1999
+327,Sacramento,8200 Delta Shores Circle,Sacramento,CA,95832,38.46537,-121.49298,353.68,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/327.jpg,2017-08-24,2017
+141,Mill Valley,798 Redwood Hwy.,Mill Valley,CA,94941,37.89661,-122.5155,354.05,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/141.jpg,1999-12-16,1999
+229,Folsom,225 Placerville Rd.,Folsom,CA,95630,38.64672,-121.11442,355.26,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/229.jpg,2009-01-29,2009
+232,Phoenix (Camelback),9585 W. Camelback Rd.,Phoenix,AZ,85037,33.50809,-112.26647,356.17,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/232.jpg,2009-06-11,2009
+339,Vallejo,720 Admiral Callaghan Ln.,Vallejo,CA,94591,38.12479,-122.22787,356.24,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/339.jpg,2018-01-10,2018
+122,Rancho Cordova,2475 Sunrise Blvd,Rancho Cordova,CA,95670,38.61461,-121.26897,356.98,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/122.jpg,1997-06-03,1997
+169,Peoria,8285 W. Bell Rd.,Peoria,AZ,85382,33.63773,-112.23301,357.1,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/169.jpg,2003-01-16,2003
+125,Fairfield,1364 Holiday Lane,Fairfield,CA,94534,38.25727,-122.0647,358.31,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/125.jpg,1997-09-09,1997
+276,Sacramento,2001 Alta Arden Expy.,Sacramento,CA,95825,38.59805,-121.4194,359.76,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/276.jpg,2012-06-07,2012
+103,Vacaville,170 Nut Tree Pkwy.,Vacaville,CA,95687,38.366460000000004,-121.96114,361.3,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/103.jpg,1995-01-03,1995
+217,Sacramento (Madison),4600 Madison Ave.,Sacramento,CA,95841,38.66041,-121.3571,361.99,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/217.jpg,2008-05-29,2008
+187,Carson Valley,957 Topsy Lane,Carson City,NV,89705,39.10902,-119.77493,362.09,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/187.jpg,2004-10-14,2004
+228,Phoenix (Carefree Hwy),34850 N. Valley Parkway,Phoenix,AZ,85086,33.80054,-112.12994,362.09,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/228.jpg,2009-01-20,2009
+225,West Sacramento,780 Ikea Court,West Sacramento,CA,95605,38.59157,-121.55012,362.8,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/225.jpg,2008-12-05,2008
+177,Phoenix (27th Ave.),19407 N. 27th Ave.,Phoenix,AZ,85027,33.66206,-112.11673,363.61,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/177.jpg,2003-09-11,2003
+252,Phoenix (Metro Square),2770 W. Peoria Ave.,Phoenix,AZ,85029,33.58241,-112.11982,363.98,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/252.jpg,2011-02-17,2011
+131,Sacramento (Truxel),3501 Truxel Road,Sacramento,CA,95834,38.63683,-121.50424,364.32,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/131.jpg,1998-08-13,1998
+127,Davis,1020 Olive Drive,Davis,CA,95616,38.54097,-121.73722,364.9,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/127.jpg,1998-01-23,1998
+288,Novato,216 Vintage Way,Novato,CA,94945,38.0897,-122.55495,365.56,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/288.jpg,2013-11-14,2013
+132,Roseville (Taylor Rd.),1803 Taylor,Roseville,CA,95661,38.75825,-121.25955,365.63,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/132.jpg,1998-10-15,1998
+213,Sacramento (Del Paso),2900 Del Paso Rd.,Sacramento,CA,95834,38.65535,-121.52592,366.0,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/213.jpg,2007-12-28,2007
+126,Napa,820 Imola Ave.,Napa,CA,94559,38.28112,-122.27624,366.43,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/126.jpg,1997-10-16,1997
+308,Rocklin,5490 Crossings Dr.,Rocklin,CA,95677,38.80166,-121.20451,367.03,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/308.jpg,2015-12-03,2015
+183,Roseville (Fairway Dr.),10309 Fairway Dr.,Roseville,CA,95678,38.78966,-121.28319,368.14,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/183.jpg,2004-06-10,2004
+317,Phoenix,4840 N. 20th St.,Phoenix,AZ,85016,33.50715,-112.03922,369.19,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/317.jpg,2016-11-03,2016
+109,Auburn,130 Grass Valley Hwy.,Auburn,CA,95603,38.90133,-121.07483,370.33,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/109.jpg,1995-11-30,1995
+160,Desert Ridge,21001 N. Tatum Blvd.,Phoenix,AZ,85050,33.67905,-111.97676,371.53,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/160.jpg,2002-02-14,2002
+192,Paradise Valley,12413 N. Tatum,Phoenix,AZ,85032,33.59897,-111.97967,371.89,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/192.jpg,2005-04-28,2005
+231,Woodland,2011 Bronze Star Drive,Woodland,CA,95776,38.67024,-121.72802,372.32,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/231.jpg,2009-05-07,2009
+324,Lincoln,850 Groveland Lane,Lincoln,CA,95648,38.87275,-121.304,373.79,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/324.jpg,2017-05-25,2017
+361,Tempe,2405 W. Baseline Rd. ,Tempe,AZ,85283,33.37793,-111.97416,374.09,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/361.jpg,2020-12-04,2020
+146,Scottsdale,7467 Frank L Wright,Scottsdale,AZ,85260,33.63651,-111.91983,375.06,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/146.jpg,2000-11-02,2000
+153,Chandler (Ray Rd.),7050 W. Ray Rd.,Chandler,AZ,85226,33.3204,-111.96413,375.26,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/153.jpg,2001-08-23,2001
+202,Petaluma,1010 Lakeville Hwy.,Petaluma,CA,94952,38.23457,-122.62086,375.54,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/202.jpg,2006-06-29,2006
+195,Tempe,920 E. Playa Del Norte Dr.,Tempe,AZ,85281,33.4349,-111.92543,376.34,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/195.jpg,2005-09-15,2005
+164,Chandler (Chandler & Price),2790 W. Chandler Blvd.,Chandler,AZ,85224,33.30639,-111.89176,379.54,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/164.jpg,2002-06-06,2002
+230,Mesa (Alma School Rd.),1342 S. Alma School Rd.,Mesa,AZ,85210,33.39005,-111.85768,380.63,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/230.jpg,2009-04-30,2009
+155,Mesa,1650 S. Stapley Rd.,Mesa,AZ,85204,33.3834,-111.80633,383.63,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/155.jpg,2001-10-25,2001
+186,Reno,8215 S. Virginia St.,Reno,NV,89511,39.45201,-119.77732,385.32,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/186.jpg,2004-09-23,2004
+113,Rohnert Park,5145 Redwood Dr.,Rohnert Park,CA,94928,38.36124,-122.71419,385.51,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/113.jpg,1996-03-27,1996
+219,Chandler (Germann & Gilbert),2910 E. Germann Rd.,Chandler,AZ,85249,33.2812,-111.79024,385.61,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/219.jpg,2008-07-15,2008
+205,Gilbert,2449 S. Market St.,Gilbert,AZ,85296,33.30588,-111.74348,388.01,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/205.jpg,2007-03-01,2007
+338,Mesa ,3156 North Recker Road,Mesa,AZ,85215,33.47368,-111.70158,388.8,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/338.jpg,2018-12-14,2018
+188,Sparks,280 Pyramid Way,Sparks,NV,89431,39.53557,-119.75259,390.73,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/188.jpg,2004-11-18,2004
+377,Reno II,915 W. 5th Street ,Reno,NV,89503,39.52879,-119.82805,391.07,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/377.jpg,2022-02-24,2022
+249,Santa Rosa,2131 County Center Drive,Santa Rosa,CA,95403,38.46063,-122.72527,391.21,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/249.jpg,2010-10-28,2010
+293,Queen Creek,20545 E. Rittenhouse,Queen Creek,AZ,85242,33.25877,-111.64037,394.41,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/293.jpg,2014-03-26,2014
+218,Mesa (Signal Butte),1859 S. Signal Butte Rd.,Mesa,AZ,85209,33.38169,-111.5997,395.47,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/218.jpg,2008-06-12,2008
+223,Casa Grande,873 N. Promenade Pkwy.,Casa Grande,AZ,85194,32.88018,-111.68225,397.06,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/223.jpg,2008-10-16,2008
+214,Yuba City,1325 Sunsweet Blvd.,Yuba City,CA,95993,39.13592,-121.63516,398.07,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/214.jpg,2008-03-27,2008
+147,Chico,2050 Business Lane,Chico,CA,95928,39.72393,-121.8068,438.5,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/147.jpg,2000-11-16,2000
+210,Marana,8180 Cortaro Rd.,Marana,AZ,85743,32.35514,-111.093,439.6,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/210.jpg,2007-11-15,2007
+321,Ukiah,1351 N. State St.,Ukiah,CA,95482,39.16879,-123.2109,445.85,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/321.jpg,2017-01-25,2017
+241,Oro Valley,11545 N. Oracle Road,Oro Valley,AZ,85755,32.41542,-110.93879,447.05,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/241.jpg,2010-06-09,2010
+253,Tucson,4620 N. Oracle Rd.,Tucson,AZ,85705,32.29045,-110.97786,447.34,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/253.jpg,2011-03-17,2011
+356,Tucson,1100 W. Irvington Rd. ,Tucson,AZ,85714,32.16348,-110.98822,449.44,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/356.jpg,2020-08-20,2020
+238,Tucson,1979 E. Ajo Way,Tucson,AZ,85713,32.17825,-110.94288,451.65,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/238.jpg,2009-12-17,2009
+207,Tucson (Broadway),3711 Broadway Blvd.,Tucson,AZ,85716,32.222,-110.91414,452.32,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/207.jpg,2007-04-24,2007
+242,Tucson,7111 E. Broadway Blvd.,Tucson,AZ,85710,32.22177,-110.84038,456.44,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/242.jpg,2010-06-09,2010
+348,Redding,4681 Churn Creek Rd.,Redding,CA,96002,40.53852,-122.34868,501.71,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/348.jpg,2019-11-12,2019
+137,Redding,1275 Dana Drive,Redding,CA,96003,40.58532,-122.3478,504.58,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/137.jpg,1999-06-25,1999
+358,Spanish Fork ,795 East 800 North ,Spanish Fork,UT,84660,40.12055,-111.64132,565.86,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/358.jpg,2020-10-29,2020
+354,Eureka ,2616 Broadway Street ,Eureka ,CA,95501,40.78433,-124.18331,566.22,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/354.jpg,2020-07-15,2020
+235,Orem,350 E. University Pkwy,Orem,UT,84058,40.27312,-111.68661,571.93,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/235.jpg,2009-11-19,2009
+239,American Fork,601 W. Main St.,American Fork,UT,84003,40.37595,-111.81472,572.68,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/239.jpg,2009-12-15,2009
+244,Riverton,12569 S. Crossing Drive,Riverton,UT,84096,40.5226,-111.98478,574.49,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/244.jpg,2010-07-21,2010
+236,Draper,12191 State St.,Draper,UT,84020,40.52883,-111.88928,578.07,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/236.jpg,2009-11-19,2009
+237,West Jordan,7785 Jordan Landing Blvd.,West Jordan,UT,84084,40.60978,-111.98588,579.08,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/237.jpg,2009-12-01,2009
+261,Midvale,7206 S. Union Park Ave.,Midvale,UT,84047,40.62037,-111.85666,584.0,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/261.jpg,2011-08-25,2011
+245,West Valley City,3715 S. Constitution Blvd,West Valley City,UT,84119,40.69142,-111.95765,584.37,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/245.jpg,2010-07-21,2010
+248,Centerville,475 North 700 West,Centerville,UT,84014,40.92237,-111.8895,599.01,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/248.jpg,2010-10-14,2010
+284,Riverdale,4030 Riverdale Rd.,Riverdale,UT,84405,41.19122,-111.97999,610.72,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/284.jpg,2013-08-15,2013
+304,Medford,1970 Crater Lake Hwy.,Medford,OR,97504,42.34643,-122.88006,626.54,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/304.jpg,2015-09-09,2015
+328,Grants Pass,124 NE Morgan Lane,Grants Pass,OR,97526,42.4625,-123.32116,643.34,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/328.jpg,2017-10-27,2017
+351,Keizer,6280 Keizer Station Blvd. ,Keizer,OR,97303,45.01077,-122.99449,800.11,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/351.jpg,2019-12-19,2019
+359,Colorado Springs ,1840 Democracy Point ,Colorado Springs,CO,80908,38.99022,-104.7971,832.42,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/359.jpg,2020-11-19,2020
+371,Colorado Springs ,2895 New Center Point Road,Colorado Springs,CO,80922,38.87224,-104.71652,833.7,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/371.jpg,2021-11-05,2021
+366,Lakewood,150 S. Wadsworth,Lakewood,CO,80226,39.71304,-105.08083,837.27,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/366.jpg,2021-07-12,2021
+378,Castle Rock,5470 Factory Shops Blvd.,Castle Rock,CO,80108,39.41571,-104.87632,839.18,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/378.jpg,2022-03-18,2022
+363,Lone Tree,9171 W. Westview Rd.,Lone Tree ,CO,80124,39.56512,-104.88198,842.89,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/363.jpg,2021-02-22,2021
+376,Thornton,111 E. 136th Ave.,Thornton,CO,80023,39.94348,-104.98429,848.53,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/376.jpg,2022-02-10,2022
+360,Aurora,14150 E. Alameda Ave.,Aurora,CO,80012,39.71074,-104.82368,849.72,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/360.jpg,2020-11-19,2020
+298,San Antonio,10918 Culebra Rd.,San Antonio,TX,78253,29.49497,-98.7085,1198.99,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/298.jpg,2014-11-20,2014
+323,San Antonio,22226 N. US Hwy 281,San Antonio,TX,78258,29.64805,-98.44986,1210.04,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/323.jpg,2017-02-23,2017
+278,Fort Worth (Lake Worth),5916 Quebec St.,Fort Worth,TX,76135,32.80709,-97.42463,1213.81,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/278.jpg,2012-06-29,2012
+302,Windcrest,8202 I-35 North,Windcrest,TX,78239,29.51138,-98.39647,1216.25,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/302.jpg,2015-04-23,2015
+280,Fort Worth (Hulen),4620 S. Hulen St.,Fort Worth,TX,76132,32.68031,-97.39506,1217.01,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/280.jpg,2012-12-06,2012
+260,Fort Worth,2900 W. 7th St.,Fort Worth,TX,76107,32.7514,-97.35867,1218.25,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/260.jpg,2011-08-11,2011
+301,Fort Worth,2501 N. Tarrant Pkwy.,Fort Worth,TX,76177,32.899,-97.3223,1218.63,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/301.jpg,2015-02-06,2015
+329,Fort Worth,3500 Highway 114,Fort Worth,TX,76177,33.02593,-97.28667,1219.27,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/329.jpg,2018-01-04,2018
+296,Killeen,2006 E. Central Texas Expy.,Killeen,TX,76541,31.09033,-97.72142,1222.06,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/296.jpg,2014-10-08,2014
+322,Denton,2835 W. University Dr.,Denton,TX,76201,33.2294,-97.17114,1223.77,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/322.jpg,2017-02-10,2017
+294,Cedar Park,901 E. Whitestone Blvd.,Cedar Park,TX,78613,30.52461,-97.82056,1227.04,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/294.jpg,2014-04-10,2014
+273,Hurst,780 Airport Fwy.,Hurst,TX,76054,32.8404,-97.18486,1227.17,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/273.jpg,2012-04-05,2012
+325,New Braunfels,106 FM 306,New Braunfels,TX,78130,29.7299,-98.07864,1229.22,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/325.jpg,2017-06-15,2017
+283,Grapevine,1303 William D. Tate Ave.,Grapevine,TX,76051,32.92662,-97.08656,1231.83,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/283.jpg,2013-07-11,2013
+262,Arlington,1075 W. I-20,Arlington,TX,76017,32.6782,-97.12294,1232.63,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/262.jpg,2011-09-22,2011
+282,Mansfield,1221 N. Hwy. 287,Mansfield,TX,76063,32.58242,-97.13479,1233.13,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/282.jpg,2013-06-27,2013
+289,Round Rock,4251 I-35 North,Round Rock,TX,78664,30.56186,-97.69112,1233.7,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/289.jpg,2013-12-03,2013
+306,Austin,3701 S. Lamar Blvd.,Austin,TX,78704,30.23866,-97.78861,1234.67,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/306.jpg,2015-11-12,2015
+314,San Marcos,1437 North IH-35,San Marcos,TX,78666,29.89218,-97.91448,1234.93,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/314.jpg,2016-06-16,2016
+319,Austin,2700 Guadalupe St,Austin,TX,78705,30.29219,-97.74169,1236.24,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/319.jpg,2016-12-01,2016
+290,Austin,4515 Airport Blvd.,Austin,TX,78751,30.30434,-97.71564,1237.47,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/290.jpg,2013-12-12,2013
+315,Austin,12431 N. I-35,Austin,TX,78753,30.40499,-97.67414,1237.79,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/315.jpg,2016-09-15,2016
+263,Irving,6501 N. Macarthur Blvd.,Irving,TX,75039,32.89691,-96.95976,1239.43,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/263.jpg,2011-09-29,2011
+316,Pflugerville,1600 Town Center Dr.,Pflugerville,TX,78660,30.46439,-97.59744,1240.98,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/316.jpg,2016-10-13,2016
+299,The Colony,5298 State Highway 121,The Colony,TX,75056,33.07076,-96.87604,1242.31,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/299.jpg,2014-12-04,2014
+266,Dallas (Midway),12909 Midway Rd.,Dallas,TX,75244,32.92404,-96.83873,1246.06,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/266.jpg,2011-11-03,2011
+256,Frisco,2800 Preston Rd.,Frisco,TX,75034,33.1018,-96.80456,1246.08,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/256.jpg,2011-05-11,2011
+268,Dallas (Addison),15260 Dallas Pkwy.,Dallas,TX,75248,32.95705,-96.82097,1246.71,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/268.jpg,2012-02-02,2012
+341,Dallas,2525 W. Mockingbird Ln,Dallas,TX,75235,32.8289,-96.84424,1246.82,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/341.jpg,2019-02-21,2019
+307,Waco,801 South 4th St.,Waco,TX,76706,31.5514,-97.12444,1248.44,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/307.jpg,2015-11-20,2015
+259,Dallas,7909 Lyndon B Johnson Fwy.,Dallas,TX,75251,32.92522,-96.77061,1249.95,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/259.jpg,2011-08-11,2011
+258,Dallas,7940 N. Central Expy.,Dallas,TX,75206,32.85997,-96.76943,1250.75,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/258.jpg,2011-06-23,2011
+275,Lancaster,740 N. I-35E,Lancaster,TX,75146,32.59681,-96.8217,1250.9,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/275.jpg,2012-05-31,2012
+277,Plano,2740 N. Central Expy.,Plano,TX,75074,33.03473,-96.70497,1252.5,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/277.jpg,2012-06-14,2012
+255,Allen,190 E. Stacy Rd.,Allen,TX,75002,33.12914,-96.65328,1254.45,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/255.jpg,2011-05-11,2011
+269,Garland,150 Town Center Blvd.,Garland,TX,75040,32.95409,-96.61745,1258.4,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/269.jpg,2012-03-01,2012
+264,Rockwall,1106 E. I-30,Rockwall,TX,75087,32.90942,-96.44848,1268.58,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/264.jpg,2011-10-20,2011
+349,Katy,1010 Katy-Fort Bend Rd. ,Katy ,TX,77493,29.78651,-95.80127,1357.55,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/349.jpg,2019-11-22,2019
+357,Houston,7611 FM 1960 W.,Houston,TX,77070,29.96347,-95.54295,1368.52,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/357.jpg,2020-09-04,2020
+350,Stafford ,12611 S. Kirkwood Rd. ,Stafford ,TX,77477,29.63807,-95.58031,1373.39,https://www.in-n-out.com/ino-images/default-source/location-store-images/thumbnail/350.jpg,2019-11-22,2019
