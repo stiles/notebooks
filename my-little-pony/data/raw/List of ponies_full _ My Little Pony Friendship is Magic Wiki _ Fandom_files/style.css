@@ -1,0 +1,82 @@
+.bannerSize {
+    width: 728px;
+    height: 90px;
+}
+
+#cta {
+    background: url(img/cta.png);
+}
+
+#ctaOver {
+    background: url(img/ctaOver.png);
+}
+
+#bg1 {
+    background: url(img/bg1.jpg);
+    perspective: 1000px;
+    width: 828px;
+    height: 190px;
+    top: -50px;
+    left: -50px;
+}
+
+#bg2 {
+    background: url(img/bg2.jpg);
+    perspective: 1000px;
+    width: 1456px;
+    height: 280px;
+    top: -95px;
+    left: -364px;
+}
+
+#bg3 {
+    background: url(img/bg3.jpg);
+    perspective: 1000px;
+    width: 1646px;
+    height: 280px;
+    top: -120px;
+    left: -456px;
+}
+
+#text1 {
+    background: url(img/text1.png);
+}
+
+#text2 {
+    background: url(img/text2.png);
+}
+
+#text3 {
+    background: url(img/text3.png);
+}
+
+#text3_2 {
+    background: url(img/text3_2.png);
+}
+
+#logo {
+    background: url(img/logo.png);
+}
+
+#ctaShine {
+    /* border: 1px solid red; */
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 112px;
+    height: 29px;
+    top: 45px;
+    right: 15px;
+}
+
+#shine {
+    /* background: url(img/flare.png); */
+    background: url(img/flare_2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    transform-origin: left center;
+    width: 112px;
+    height: 30px;
+    top: 0px;
+    left: 0px;
+}

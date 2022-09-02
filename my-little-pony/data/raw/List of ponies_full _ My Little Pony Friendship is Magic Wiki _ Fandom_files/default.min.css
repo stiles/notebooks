@@ -1,0 +1,33 @@
+body {
+    margin: 0
+}
+
+#viewport {
+    overflow: hidden;
+    background-color: #000;
+    position: relative;
+    margin: 0 auto
+}
+
+#viewport>div {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+#clickable {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0
+}
+
+#border {
+    pointer-events: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 1px solid black
+}

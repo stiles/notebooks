@@ -1,0 +1,48 @@
+
+var ftGUID_4050628="51243CAE9B72B1";
+var ftConfID_4050628="0";
+var ftParams_4050628="ft_custom=332464982&imageType=gif&ftDestID=25103801&ft_width=1&ft_height=1&click=&ftOBA=0&ftExpTrack=&gdpr=0&gdpr_consent=&us_privacy=${US_PRIVACY}&ft_section=27528075_332464982_524678911_152297055&ft_custom=332464982&cachebuster=3892830498";
+var ftKeyword_4050628="";
+var ftCustom_4050628="332464982";
+var ftSection_4050628="27528075_332464982_524678911_152297055";
+var ftSegment_4050628="aig4,aih9,aixc,ai7v";
+var ftSegmentList_4050628=[{s:'aig4'},{s:'aih9'},{s:'aixc'},{s:'ai7v'}];
+var ftRuleMatch_4050628="0";
+var ftTimestamp_4050628="1655668751";
+var ftGeoC2_4050628="us";
+var ftGeoState_4050628="ca";
+var ftGeoCity_4050628="los angeles";
+var ftISP_4050628="logicweb inc.";
+var ftSpeed_4050628="broadband";
+var ftDMA_4050628="803";
+var ftLong_4050628="-118.26";
+var ftLat_4050628="34.01";
+var ftPostal_4050628="90011";
+var ftTimeZone_4050628="-700";
+var ftMobileCarrier_4050628="";
+var ftImp4050628 = {};
+ftImp4050628.privacy = "x";
+ftImp4050628.guidAge = "159";
+ftImp4050628.impID = "997FA51A-E573-5CA9-7FDE-9AB3161EA574";
+ftImp4050628.duid = "FT:51243CAE9B72B1";
+
+ftImp4050628.ft_tpplid = "";
+ftImp4050628.ft_c = {};
+ftImp4050628.gdpr = "0";
+ftImp4050628.gdpr_consent = "";
+ftImp4050628.gdpr_pd = "";
+ftImp4050628.oob_consent = "";
+ftImp4050628.gdprStoredConsent = "";
+ftImp4050628.us_privacy = "!!US_PRIVACY!";
+
+ftImp4050628.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_4050628') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/405/4050628/2863405/js/j-4050628-2863405.js";
+    js.id = "ftscript_m4050628";
+    tag.parentNode.insertBefore(js, tag);
+}());

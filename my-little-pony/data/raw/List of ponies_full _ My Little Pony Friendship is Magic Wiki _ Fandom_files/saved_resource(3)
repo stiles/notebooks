@@ -1,0 +1,49 @@
+
+var ftGUID_6373689="51243CAE9B72B1";
+var ftConfID_6373689="0";
+var ftParams_6373689="ft_idEnabled=0&ftOBA=1&ft_agentEnv=0&ft_lat=34.0544&ft_long=-118.2441&ft_referrer=https%3A%2F%2Fmlp.fandom.com%2Fwiki%2FList_of_ponies%2Ffull&gdpr=0&us_privacy=1YNN&ft_c2=Other&ft_keyword=dizgo6b&ft_partnerimpid=TD:a7b7c9c6-313b-4416-bd4a-c3e3a269cc8f&ft_partnerid=TD:f5e7c161-5fcb-4204-a2bb-0e512d69c4db&ft_section=dizgo6b&site_devicetype=PC&ft_idEnabled=0&site_advid=262876&site_cmpId=q08iiyy&site_campaignid_int=2301744&site_creativeid=oo1x48k6&site_creativeid_int=23400756&site_adformat=300x250&site_lineitem=11727895&pub_id=7450&sup_platform=rubicon&cachebuster=979468.7270973412";
+var ftKeyword_6373689="";
+var ftCustom_6373689="";
+var ftSection_6373689="dizgo6b";
+var ftSegment_6373689="aig4,aih9,aixc,ai7v";
+var ftSegmentList_6373689=[{s:'aig4'},{s:'aih9'},{s:'aixc'},{s:'ai7v'}];
+var ftRuleMatch_6373689="0";
+var ftTimestamp_6373689="1655668772";
+var ftGeoC2_6373689="us";
+var ftGeoState_6373689="ca";
+var ftGeoCity_6373689="los angeles";
+var ftISP_6373689="logicweb inc.";
+var ftSpeed_6373689="broadband";
+var ftDMA_6373689="803";
+var ftLong_6373689="-118.24";
+var ftLat_6373689="34.05";
+var ftPostal_6373689="90011";
+var ftTimeZone_6373689="-700";
+var ftMobileCarrier_6373689="";
+var ftImp6373689 = {};
+ftImp6373689.privacy = "x";
+ftImp6373689.guidAge = "159";
+ftImp6373689.impID = "2A6F3871-0C1C-696B-1156-653F3721053E";
+ftImp6373689.duid = "FT:51243CAE9B72B1";
+
+ftImp6373689.ft_tpplid = "";
+ftImp6373689.ft_c = {};
+ftImp6373689.ft_c.ft_c2 = "Other";
+ftImp6373689.gdpr = "0";
+ftImp6373689.gdpr_consent = "";
+ftImp6373689.gdpr_pd = "";
+ftImp6373689.oob_consent = "";
+ftImp6373689.gdprStoredConsent = "";
+ftImp6373689.us_privacy = "1YNN";
+
+ftImp6373689.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_6373689') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/637/6373689/3950543/js/j-6373689-3950543.js";
+    js.id = "ftscript_m6373689";
+    tag.parentNode.insertBefore(js, tag);
+}());

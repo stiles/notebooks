@@ -1,0 +1,39 @@
+date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,W,3,2,Aston Villa,2.9,0.3,71,53395.0,Fernandinho,4-3-3,Michael Oliver,Match Report,,24,5,14.0,1.0,0,0,2022,Manchester City
+2022-05-15,14:00,Premier League,Matchweek 37,Sun,Away,D,2,2,West Ham,2.5,1.3,78,59972.0,Fernandinho,4-3-3,Anthony Taylor,Match Report,,30,7,17.7,2.0,0,1,2022,Manchester City
+2022-05-11,20:15,Premier League,Matchweek 33,Wed,Away,W,5,1,Wolves,3.1,0.5,67,32000.0,Fernandinho,4-2-3-1,Martin Atkinson,Match Report,,15,5,13.9,0.0,0,0,2022,Manchester City
+2022-05-08,16:30,Premier League,Matchweek 36,Sun,Home,W,5,0,Newcastle Utd,3.1,0.9,71,53336.0,İlkay Gündoğan,4-2-3-1,Stuart Attwell,Match Report,,21,9,15.5,1.0,0,0,2022,Manchester City
+2022-04-30,17:30,Premier League,Matchweek 35,Sat,Away,W,4,0,Leeds United,2.7,1.2,59,35771.0,İlkay Gündoğan,4-2-3-1,Paul Tierney,Match Report,,19,6,15.4,0.0,0,0,2022,Manchester City
+2022-04-23,15:00,Premier League,Matchweek 34,Sat,Home,W,5,1,Watford,3.0,0.5,73,53013.0,Fernandinho,4-2-3-1,Kevin Friend,Match Report,,20,7,14.6,0.0,1,1,2022,Manchester City
+2022-04-20,20:00,Premier League,Matchweek 30,Wed,Home,W,3,0,Brighton,1.1,0.1,64,52226.0,İlkay Gündoğan,4-3-3,Mike Dean,Match Report,,17,5,19.0,0.0,0,0,2022,Manchester City
+2022-04-10,16:30,Premier League,Matchweek 32,Sun,Home,D,2,2,Liverpool,2.0,1.0,55,53197.0,Kevin De Bruyne,4-2-3-1,Anthony Taylor,Match Report,,11,4,16.5,1.0,0,0,2022,Manchester City
+2022-04-02,15:00,Premier League,Matchweek 31,Sat,Away,W,2,0,Burnley,1.8,0.1,75,21249.0,İlkay Gündoğan,4-3-3,Craig Pawson,Match Report,,18,6,16.1,0.0,0,0,2022,Manchester City
+2022-03-14,20:00,Premier League,Matchweek 29,Mon,Away,D,0,0,Crystal Palace,2.3,0.8,74,25309.0,Kevin De Bruyne,4-3-3,Martin Atkinson,Match Report,,18,4,17.5,0.0,0,0,2022,Manchester City
+2022-03-06,16:30,Premier League,Matchweek 28,Sun,Home,W,4,1,Manchester Utd,2.6,0.5,69,53165.0,Kevin De Bruyne,4-3-3,Michael Oliver,Match Report,,24,10,14.8,1.0,0,0,2022,Manchester City
+2022-02-26,17:30,Premier League,Matchweek 27,Sat,Away,W,1,0,Everton,1.6,0.8,67,39105.0,İlkay Gündoğan,4-3-3,Paul Tierney,Match Report,,13,8,15.7,0.0,0,0,2022,Manchester City
+2022-02-19,17:30,Premier League,Matchweek 26,Sat,Home,L,2,3,Tottenham,2.1,1.8,71,53201.0,İlkay Gündoğan,4-3-3,Anthony Taylor,Match Report,,20,3,15.6,0.0,1,1,2022,Manchester City
+2022-02-12,17:30,Premier League,Matchweek 25,Sat,Away,W,4,0,Norwich City,4.6,0.5,72,27010.0,Fernandinho,4-3-3,Andre Marriner,Match Report,,21,8,11.6,0.0,0,1,2022,Manchester City
+2022-02-09,19:45,Premier League,Matchweek 24,Wed,Home,W,2,0,Brentford,2.0,0.7,75,51658.0,Rúben Dias,4-3-3,Darren England,Match Report,,14,6,18.8,0.0,1,1,2022,Manchester City
+2022-01-22,17:30,Premier League,Matchweek 23,Sat,Away,D,1,1,Southampton,1.6,1.1,73,31178.0,Rúben Dias,4-3-3,Simon Hooper,Match Report,,20,5,16.5,0.0,0,0,2022,Manchester City
+2022-01-15,12:30,Premier League,Matchweek 22,Sat,Home,W,1,0,Chelsea,0.7,0.5,56,53319.0,Kevin De Bruyne,4-3-3,Craig Pawson,Match Report,,11,6,16.7,1.0,0,0,2022,Manchester City
+2022-01-01,12:30,Premier League,Matchweek 21,Sat,Away,W,2,1,Arsenal,1.8,1.0,70,59757.0,Rúben Dias,4-3-3,Stuart Attwell,Match Report,,14,1,18.4,0.0,1,1,2022,Manchester City
+2021-12-29,20:15,Premier League,Matchweek 20,Wed,Away,W,1,0,Brentford,0.8,0.3,76,17009.0,Fernandinho,4-3-3,David Coote,Match Report,,12,4,18.7,0.0,0,0,2022,Manchester City
+2021-12-26,15:00,Premier League,Matchweek 19,Sun,Home,W,6,3,Leicester City,3.4,2.4,72,53226.0,Fernandinho,4-3-3,Chris Kavanagh,Match Report,,15,6,16.6,1.0,2,2,2022,Manchester City
+2021-12-19,14:15,Premier League,Matchweek 18,Sun,Away,W,4,0,Newcastle Utd,3.1,0.4,71,52127.0,Rúben Dias,4-3-3,Martin Atkinson,Match Report,,18,7,11.8,0.0,0,0,2022,Manchester City
+2021-12-14,20:00,Premier League,Matchweek 17,Tue,Home,W,7,0,Leeds United,3.6,0.2,64,52401.0,Rúben Dias,4-3-3,Paul Tierney,Match Report,,31,15,16.2,2.0,0,0,2022,Manchester City
+2021-12-11,12:30,Premier League,Matchweek 16,Sat,Home,W,1,0,Wolves,3.5,0.2,71,52613.0,İlkay Gündoğan,4-3-3,Jonathan Moss,Match Report,,23,8,15.2,0.0,1,1,2022,Manchester City
+2021-12-04,17:30,Premier League,Matchweek 15,Sat,Away,W,3,1,Watford,3.6,0.7,76,20673.0,İlkay Gündoğan,4-3-3,Simon Hooper,Match Report,,26,12,14.0,0.0,0,0,2022,Manchester City
+2021-12-01,20:15,Premier League,Matchweek 14,Wed,Away,W,2,1,Aston Villa,0.9,0.9,64,41400.0,Fernandinho,4-2-3-1,Mike Dean,Match Report,,17,7,19.0,1.0,0,0,2022,Manchester City
+2021-11-28,14:00,Premier League,Matchweek 13,Sun,Home,W,2,1,West Ham,2.1,0.2,67,53245.0,İlkay Gündoğan,4-3-3,Michael Oliver,Match Report,,19,8,14.8,0.0,0,0,2022,Manchester City
+2021-11-21,14:00,Premier League,Matchweek 12,Sun,Home,W,3,0,Everton,2.3,0.3,76,52571.0,İlkay Gündoğan,4-3-3,Stuart Attwell,Match Report,,17,7,15.4,1.0,0,0,2022,Manchester City
+2021-11-06,12:30,Premier League,Matchweek 11,Sat,Away,W,2,0,Manchester Utd,2.0,0.6,67,73086.0,İlkay Gündoğan,4-3-3,Michael Oliver,Match Report,,16,5,14.6,0.0,0,0,2022,Manchester City
+2021-10-30,15:00,Premier League,Matchweek 10,Sat,Home,L,0,2,Crystal Palace,1.1,1.1,68,53014.0,Rúben Dias,4-3-3,Andre Marriner,Match Report,,14,3,17.0,0.0,0,0,2022,Manchester City
+2021-10-23,17:30,Premier League,Matchweek 9,Sat,Away,W,4,1,Brighton,3.9,1.3,52,31215.0,İlkay Gündoğan,4-3-3,Kevin Friend,Match Report,,23,13,15.7,1.0,0,0,2022,Manchester City
+2021-10-16,15:00,Premier League,Matchweek 8,Sat,Home,W,2,0,Burnley,1.9,1.0,69,52711.0,Kevin De Bruyne,4-3-3,Martin Atkinson,Match Report,,16,6,14.6,0.0,0,0,2022,Manchester City
+2021-10-03,16:30,Premier League,Matchweek 7,Sun,Away,D,2,2,Liverpool,1.2,1.0,51,53102.0,Rúben Dias,4-3-3,Paul Tierney,Match Report,,12,3,16.8,1.0,0,0,2022,Manchester City
+2021-09-25,12:30,Premier League,Matchweek 6,Sat,Away,W,1,0,Chelsea,1.7,0.3,60,40036.0,Rúben Dias,4-3-3,Michael Oliver,Match Report,,15,3,16.5,0.0,0,0,2022,Manchester City
+2021-09-18,15:00,Premier League,Matchweek 5,Sat,Home,D,0,0,Southampton,1.1,0.4,63,52698.0,Fernandinho,4-3-3,Jonathan Moss,Match Report,,16,1,15.7,1.0,0,0,2022,Manchester City
+2021-09-11,15:00,Premier League,Matchweek 4,Sat,Away,W,1,0,Leicester City,2.9,0.8,61,32087.0,İlkay Gündoğan,4-3-3,Paul Tierney,Match Report,,25,8,14.0,0.0,0,0,2022,Manchester City
+2021-08-28,12:30,Premier League,Matchweek 3,Sat,Home,W,5,0,Arsenal,3.8,0.1,80,52276.0,İlkay Gündoğan,4-3-3,Martin Atkinson,Match Report,,25,10,14.3,0.0,0,0,2022,Manchester City
+2021-08-21,15:00,Premier League,Matchweek 2,Sat,Home,W,5,0,Norwich City,2.7,0.1,67,51437.0,İlkay Gündoğan,4-3-3,Graham Scott,Match Report,,16,4,17.3,1.0,0,0,2022,Manchester City
+2021-08-15,16:30,Premier League,Matchweek 1,Sun,Away,L,0,1,Tottenham,1.9,1.3,64,58262.0,Fernandinho,4-3-3,Anthony Taylor,Match Report,,18,4,16.9,1.0,0,0,2022,Manchester City

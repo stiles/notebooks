@@ -1,7 +1,0 @@
-/data/processed/*.csv
-/data/raw/*txt
-.DS_Store
-/data/.DS_Store
-/data/raw/.DS_Store
-/geckodriver.log
-geckodriver.log
