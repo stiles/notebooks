@@ -4,3 +4,5 @@ wells/input/
 .ipynb_checkpoints
 
 .DS_Store
+
+dc/data/raw/
