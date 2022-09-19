@@ -1,5 +1,8 @@
 twitter-scraper/input/
 wells/input/
+swarm/keys.py
+
+git rm --cached .DS_Store
 
 .ipynb_checkpoints
 
