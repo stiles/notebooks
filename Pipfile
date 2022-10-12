@@ -25,6 +25,7 @@ census-data-downloader = "*"
 cython = "*"
 geopandas = "*"
 bs4 = "*"
+google-api-python-client = "*"
 
 [requires]
 python_version = "3.8"

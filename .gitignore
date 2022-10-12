@@ -1,6 +1,7 @@
 twitter-scraper/input/
 wells/input/
 swarm/keys.py
+youtube/creds.py
 
 git rm --cached .DS_Store
 
