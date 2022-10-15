@@ -4,6 +4,8 @@ swarm/keys.py
 youtube/creds.py
 elon/credentials.json
 */credentials.json
+geocoder/creds.py
+census/creds.py
 
 git rm --cached .DS_Store
 
