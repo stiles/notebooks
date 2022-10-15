@@ -2,6 +2,8 @@ twitter-scraper/input/
 wells/input/
 swarm/keys.py
 youtube/creds.py
+elon/credentials.json
+*/credentials.json
 
 git rm --cached .DS_Store
 
