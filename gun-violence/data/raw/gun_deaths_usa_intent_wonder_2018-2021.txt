@@ -1,0 +1,62 @@
+"Notes"	"Year"	"Year Code"	"UCD - Injury Intent"	"UCD - Injury Intent Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"Unintentional"	"1"	458	327167434	0.1
+	"2018"	"2018"	"Suicide"	"2"	24432	327167434	7.5
+	"2018"	"2018"	"Homicide"	"3"	13958	327167434	4.3
+	"2018"	"2018"	"Undetermined "	"4"	353	327167434	0.1
+	"2018"	"2018"	"Legal Intervention / Operations of War"	"5"	539	327167434	0.2
+	"2019"	"2019"	"Unintentional"	"1"	486	328239523	0.1
+	"2019"	"2019"	"Suicide"	"2"	23941	328239523	7.3
+	"2019"	"2019"	"Homicide"	"3"	14414	328239523	4.4
+	"2019"	"2019"	"Undetermined "	"4"	346	328239523	0.1
+	"2019"	"2019"	"Legal Intervention / Operations of War"	"5"	520	328239523	0.2
+	"2020"	"2020"	"Unintentional"	"1"	535	329484123	0.2
+	"2020"	"2020"	"Suicide"	"2"	24292	329484123	7.4
+	"2020"	"2020"	"Homicide"	"3"	19384	329484123	5.9
+	"2020"	"2020"	"Undetermined "	"4"	400	329484123	0.1
+	"2020"	"2020"	"Legal Intervention / Operations of War"	"5"	611	329484123	0.2
+	"2021 (provisional)"	"2021"	"Unintentional"	"1"	553	329484123	0.2
+	"2021 (provisional)"	"2021"	"Suicide"	"2"	26322	329484123	8.0
+	"2021 (provisional)"	"2021"	"Homicide"	"3"	20966	329484123	6.4
+	"2021 (provisional)"	"2021"	"Undetermined "	"4"	456	329484123	0.1
+	"2021 (provisional)"	"2021"	"Legal Intervention / Operations of War"	"5"	535	329484123	0.2
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"UCD - Injury Intent: Unintentional; Suicide; Homicide; Undetermined ; Legal Intervention / Operations of War; Non-Injury, no"
+"intent classified"
+"UCD - Injury Mechanism & All Other Leading Causes: Firearm"
+"Year/Month: 2018; 2019; 2020; 2021 (provisional)"
+"Group By: Year; UCD - Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Sep 8, 2022 11:44:01 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Sep 8, 2022 11:44:01"
+"AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"2. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"4. Deaths occurring through August 20, 2022 as of September 04, 2022."

@@ -1,7 +1,0 @@
-https://egis.fire.ca.gov/arcgis/rest/services/FRAP/FirePerimeters/MapServer/9|frap_perimeters_2010s|100
-https://egis.fire.ca.gov/arcgis/rest/services/FRAP/FirePerimeters/MapServer/10|frap_perimeters_2000s|100
-https://egis.fire.ca.gov/arcgis/rest/services/FRAP/FirePerimeters/MapServer/11|frap_perimeters_1990s|100
-https://egis.fire.ca.gov/arcgis/rest/services/FRAP/FirePerimeters/MapServer/12|frap_perimeters_1980s|100
-https://egis.fire.ca.gov/arcgis/rest/services/FRAP/FirePerimeters/MapServer/13|frap_perimeters_1970s|100
-https://egis.fire.ca.gov/arcgis/rest/services/FRAP/FirePerimeters/MapServer/14|frap_perimeters_1960s|100
-https://egis.fire.ca.gov/arcgis/rest/services/FRAP/FirePerimeters/MapServer/15|frap_perimeters_1950s|100

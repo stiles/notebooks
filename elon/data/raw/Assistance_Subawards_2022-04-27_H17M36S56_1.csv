@@ -1,0 +1,88 @@
+prime_award_unique_key,prime_award_fain,prime_award_amount,prime_award_disaster_emergency_fund_codes,prime_award_outlayed_amount_funded_by_COVID-19_supplementals,prime_award_obligated_amount_funded_by_COVID-19_supplementals,prime_award_base_action_date,prime_award_base_action_date_fiscal_year,prime_award_latest_action_date,prime_award_latest_action_date_fiscal_year,prime_award_period_of_performance_start_date,prime_award_period_of_performance_current_end_date,prime_award_awarding_agency_code,prime_award_awarding_agency_name,prime_award_awarding_sub_agency_code,prime_award_awarding_sub_agency_name,prime_award_awarding_office_code,prime_award_awarding_office_name,prime_award_funding_agency_code,prime_award_funding_agency_name,prime_award_funding_sub_agency_code,prime_award_funding_sub_agency_name,prime_award_funding_office_code,prime_award_funding_office_name,prime_award_treasury_accounts_funding_this_award,prime_award_federal_accounts_funding_this_award,prime_award_object_classes_funding_this_award,prime_award_program_activities_funding_this_award,prime_awardee_uei,prime_awardee_duns,prime_awardee_name,prime_awardee_dba_name,prime_awardee_parent_uei,prime_awardee_parent_duns,prime_awardee_parent_name,prime_awardee_country_code,prime_awardee_country_name,prime_awardee_address_line_1,prime_awardee_city_name,prime_awardee_county_name,prime_awardee_state_code,prime_awardee_state_name,prime_awardee_zip_code,prime_awardee_congressional_district,prime_awardee_foreign_postal_code,prime_awardee_business_types,prime_award_primary_place_of_performance_scope,prime_award_primary_place_of_performance_city_name,prime_award_primary_place_of_performance_state_code,prime_award_primary_place_of_performance_state_name,prime_award_primary_place_of_performance_address_zip_code,prime_award_primary_place_of_performance_congressional_district,prime_award_primary_place_of_performance_country_code,prime_award_primary_place_of_performance_country_name,prime_award_description,prime_award_cfda_numbers_and_titles,subaward_type,subaward_fsrs_report_id,subaward_fsrs_report_year,subaward_fsrs_report_month,subaward_number,subaward_amount,subaward_action_date,subaward_action_date_fiscal_year,subawardee_uei,subawardee_duns,subawardee_name,subawardee_dba_name,subawardee_parent_uei,subawardee_parent_duns,subawardee_parent_name,subawardee_country_code,subawardee_country_name,subawardee_address_line_1,subawardee_city_name,subawardee_state_code,subawardee_state_name,subawardee_zip_code,subawardee_congressional_district,subawardee_foreign_postal_code,subawardee_business_types,subaward_primary_place_of_performance_address_line_1,subaward_primary_place_of_performance_city_name,subaward_primary_place_of_performance_state_code,subaward_primary_place_of_performance_state_name,subaward_primary_place_of_performance_address_zip_code,subaward_primary_place_of_performance_congressional_district,subaward_primary_place_of_performance_country_code,subaward_primary_place_of_performance_country_name,subaward_description,subawardee_highly_compensated_officer_1_name,subawardee_highly_compensated_officer_1_amount,subawardee_highly_compensated_officer_2_name,subawardee_highly_compensated_officer_2_amount,subawardee_highly_compensated_officer_3_name,subawardee_highly_compensated_officer_3_amount,subawardee_highly_compensated_officer_4_name,subawardee_highly_compensated_officer_4_amount,subawardee_highly_compensated_officer_5_name,subawardee_highly_compensated_officer_5_amount,usaspending_permalink,subaward_fsrs_report_last_modified_date
+ASST_NON_NNX16AO69A_8000,NNX16AO69A,80903015.71,Q: Excluded from tracking (uses non-emergency/non-disaster designated appropriations),,,2017-01-03,2016,2022-03-22,2022,2016-10-01,2028-09-30,080,National Aeronautics and Space Administration (NASA),8000,National Aeronautics and Space Administration,80NSSC,,080,NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (8000),8000,National Aeronautics and Space Administration,80NSSC,,080-2017/2018-0115-000;080-2017/2018-0124-000;080-2018/2019-0115-000;080-2018/2019-0122-000;080-2018/2019-0124-000;080-2019/2020-0115-000;080-2019/2020-0124-000;080-2020/2021-0115-000;080-2020/2021-0124-000;080-2021/2022-0115-000;080-2021/2022-0124-000;080-2022/2023-0122-000;080-2022/2023-0124-000,080-0115;080-0122;080-0124,"41.0: Grants, subsidies, and contributions","0001: CROSS AGENCY SUPPORT (DIRECT);0001: EXPLORATION (DIRECT);0001: SAFETY, SECURITY AND MISSION SERVICES (DIRECT);0001: SPACE OPERATIONS (DIRECT)",FXKMA43NTV21,051113330,BAYLOR COLLEGE OF MEDICINE,,FXKMA43NTV21,051113330,BAYLOR COLLEGE OF MEDICINE,USA,UNITED STATES,ONE BAYLOR PLAZA,HOUSTON,HARRIS,TX,Texas,770303411,09,,Private Institution of Higher Education,SINGLE ZIP CODE,HOUSTON,TX,Texas,770303411,09,USA,UNITED STATES,THIS PROPOSAL FOR A TRANSLATIONAL RESEARCH INSTITUTE IS SUBMITTED ON BEHALF OF A CONSORTIUM OF NON-PROFIT ACADEMIC INSTITUTIONS IN RESPONSE TO NASA COOPERATIVE AGREEMENT NOTICE NNJ15548000C (CAN)  RELEASED OCTOBER 30  2015. THE CONSORTIUM IS LED BY B,43.001: AEROSPACE EDUCATION SERVICES PROGRAM; 43.003: EXPLORATION,sub-grant,5d25bd95e99c5b230418a6e30dcaadcd,2022,3,7000001287,149999.00,2021-03-11,2021,C6M7C2FLKER5,120406462,SPACE EXPLORATION TECHNOLOGIES CORP.,SPACEX,C6M7C2FLKER5,120406462,SPACE EXPLORATION TECHNOLOGIES CORP.,USA,UNITED STATES,1 ROCKET RD,HAWTHORNE,CA,California,902506844,43,,"For Profit Organization,Manufacturer of Goods",,Hawthorne,CA,California,902506844,43,USA,UNITED STATES,"Y1-Agree $149,999
+ This proposal is designed to capture data in-flight, concentrate that data, and build a framework for collaboration with researchers.  In doing so, the entire field of space medicine will change from a field that depends on case reports to a field that can truly embrace evidence based medicine.
+ AIMS
+ â ¢ Aim 1: Analyze and publish data from SARS-CoV-2 testing.
+ a. Assess the risk of SARS-CoV-2 infection in SpaceX employees stratified by exposure risks
+ b. Determine the range and severity of disease due to SARS-CoV-2 infection, including asymptomatic infections
+ c. Inform SpaceX back to work policies
+ d. Characterize immunological and demographic features of asymptomatic infections and presence of reinfections
+ e. Build an internal framework for data collection and data privacy
+ f. Build an interface for data visualization and analysis
+ g. Submit findings as original research to a peer reviewed journal
+ 
+ â ¢ Aim 2: Develop a design criteria review and architecture for end-to-end medical data collection from the human, transfer to the ground, storage, and analysis for and in-flight healthcare.
+ a. Scope the medical system that is needed for Starship, including all components
+ b. Develop a trade for sensors that would provide valuable telemetry
+ c. Determine which data needs real-time telemetry and which data can be stored for review later
+ d. Integrate data collection and telemetry into Starship architecture 
+ e. Propose a sentinel piece of telemetry that can be integrated into crew Dragon and propose a process for integration
+ f. Develop privacy constraints for data storage
+ g. Propose a model for including medical researchers
+ h. Complete a critical design review that includes all aspects of a medical system and present this design review to SpaceX stakeholders
+ Iterate towards a final, acceptable path forward
+ 
+ DELIVERABLES
+ â ¢ Aim 1: Written article describing research on COVID-19. 
+ â ¢ Aim 2: Design criteria review that describes the medical system, and will address sensor selection, telemetry, data storage, etc.
+ 
+ MILESTONES
+ â ¢ Aim 1: 
+ 12/1 Summarize existing data and submit for publication 
+ 12/15 Run of company wide antibody study and PCR sequencing of viral RNA
+ 3/15 Run of company wide antibody study and PCR sequencing 
+ 4/15 Data review
+ 5/15 Submit publications
+ â ¢ Aim 2: 
+ 12/31 Selection of physiologic parameters of interest for short duration spaceflight
+ 1/31 Trade analysis of COTS / modified COTS wearable bio-sensors
+ 3/31 Consent & process approval for collection of biometric data from private passengers
+ 4/31 Wearable sensor flight verification / testing, deployment of flight certified hardware for initial testing
+ 6/31 Medical sensor crew ease of use testing completion & down-selection
+ 9/31 Implementation of electronic record system for storing anonymized biometric data",,,,,,,,,,,https://www.usaspending.gov/award/ASST_NON_NNX16AO69A_8000/,2022-03-23 15:20:22+00
+ASST_NON_NNX16AO69A_8000,NNX16AO69A,80903015.71,Q: Excluded from tracking (uses non-emergency/non-disaster designated appropriations),,,2017-01-03,2016,2022-03-22,2022,2016-10-01,2028-09-30,080,National Aeronautics and Space Administration (NASA),8000,National Aeronautics and Space Administration,80NSSC,,080,NATIONAL AERONAUTICS AND SPACE ADMINISTRATION (8000),8000,National Aeronautics and Space Administration,80NSSC,,080-2017/2018-0115-000;080-2017/2018-0124-000;080-2018/2019-0115-000;080-2018/2019-0122-000;080-2018/2019-0124-000;080-2019/2020-0115-000;080-2019/2020-0124-000;080-2020/2021-0115-000;080-2020/2021-0124-000;080-2021/2022-0115-000;080-2021/2022-0124-000;080-2022/2023-0122-000;080-2022/2023-0124-000,080-0115;080-0122;080-0124,"41.0: Grants, subsidies, and contributions","0001: CROSS AGENCY SUPPORT (DIRECT);0001: EXPLORATION (DIRECT);0001: SAFETY, SECURITY AND MISSION SERVICES (DIRECT);0001: SPACE OPERATIONS (DIRECT)",FXKMA43NTV21,051113330,BAYLOR COLLEGE OF MEDICINE,,FXKMA43NTV21,051113330,BAYLOR COLLEGE OF MEDICINE,USA,UNITED STATES,ONE BAYLOR PLAZA,HOUSTON,HARRIS,TX,Texas,770303411,09,,Private Institution of Higher Education,SINGLE ZIP CODE,HOUSTON,TX,Texas,770303411,09,USA,UNITED STATES,THIS PROPOSAL FOR A TRANSLATIONAL RESEARCH INSTITUTE IS SUBMITTED ON BEHALF OF A CONSORTIUM OF NON-PROFIT ACADEMIC INSTITUTIONS IN RESPONSE TO NASA COOPERATIVE AGREEMENT NOTICE NNJ15548000C (CAN)  RELEASED OCTOBER 30  2015. THE CONSORTIUM IS LED BY B,43.001: AEROSPACE EDUCATION SERVICES PROGRAM; 43.003: EXPLORATION,sub-grant,5d25bd95e99c5b230418a6e30dcaadcd,2022,3,7000001451,450000.00,2021-10-27,2022,C6M7C2FLKER5,120406462,SPACE EXPLORATION TECHNOLOGIES CORP.,SPACEX,C6M7C2FLKER5,120406462,SPACE EXPLORATION TECHNOLOGIES CORP.,USA,UNITED STATES,1 ROCKET RD,HAWTHORNE,CA,California,902506844,43,,"For Profit Organization,Manufacturer of Goods",,Hawthorne,CA,California,902506844,43,USA,UNITED STATES,"The goals of this proposal have been developed with an overall timeline of 3 years, with the 
+ understanding that, if this proposal is approved and reasonable progress is maintained over the 
+ execution period, the grant is expected to be renewed on a yearly basis over this timeframe.
+ Specific Aim 1: Enable the development and execution of human research in commercial spaceflight 
+ opportunities at SpaceX
+ (a) Establish a research capability at SpaceX to effectively and efficiently interface with all 
+ stakeholders in the pursuit of human research opportunities in commercial spaceflights
+ (b) Support all of the research-related work specific to the I4 mission and any other commercial 
+ missions that are contracted over the grant period
+ (c) Pursue and promote research as a core component of future commercial spaceflight missions
+ Specific Aim 2: Develop research infrastructure to support data management, integration of multiple 
+ data sources, and streamlining of standard measures
+ (a) Support the development of a data repository that can host all data from commercial spaceflight 
+ research, including facilitating the transfer and uploading of research, and relevant operational 
+ and medical data to the database
+ (b) Provide feedback and relevant operational expertise to help inform the development of standard 
+ measures for commercial spaceflight in coordination with TRISH, including preliminary assessment of 
+ hardware needs that would support collection of standard measures
+ Specific Aim 3: Flight certification of new research hardware
+ (a) Formulate a risk posture at SpaceX for commercial missions with respect to 
+ commercial-off-the-shelf electronics, in order to have a clear path towards hardware certification
+ (b) Provide relevant operational and hardware feedback to PIs in the development of their in-flight 
+ experiment
+ (c) Work with certification engineers to perform hardware qualification testing campaigns and 
+ obtain flight certification for research hardware Milestones, Deliverables and Timeline
+ Deliverables for year 1 include:
+ - Creating the necessary infrastructure for human research, including obtaining Federal-Wide 
+ Assurance (FWA) approval, IRB approvals, and ensuring up to date human-subject training for all 
+ relevant personnel
+ - Supporting all of the research development for I4, including pre-flight, in-flight, and 
+ post-flight protocols, and execution of the experiments
+ - Transferring all research and relevant operational data into the research repository
+ - Collaborating in a timely manner with experiment PIs on the preparation of manuscripts for 
+ publication
+ - Promoting commercial spaceflight research through relevant PR opportunities in coordination with 
+ all relevant stakeholders
+ 
+ Key Milestones for the project for year 1 include: (1) launch of I4 mission, currently scheduled 
+ for Sept 15, 2021, and (2) successful completion of all post-flight data collection and data 
+ transfer to the respective PIs, estimated to occur before end of 2021. Upcoming milestones for 2022 
+ calendar year will include development of a research portfolio for a 2nd upcoming commercial 
+ spaceflight (not yet confirmed) and the publication of research from the I4 mission. Upon 
+ confirmation of the next SpaceX commercial flight, a similar set of deliverables will be assembled 
+ and included as part of the research work. The overall expectation is that a similar workflow and 
+ set of deliverables will be included as part of research work in any future commercial missions that are contracted and executed within the grant
+ period.",Gwynne  Shotwell,4077012.00,Bret  Johnsen,3079137.00,Timothy  Hughes,1868953.00,David  Anderman,1818183.00,Mark  Juncosa,1753618.00,https://www.usaspending.gov/award/ASST_NON_NNX16AO69A_8000/,2022-03-23 15:20:22+00

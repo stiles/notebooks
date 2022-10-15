@@ -1,0 +1,26 @@
+state,ap_state,statename,candidates,plural,tooltip
+AK,Alaska,Alaska,1,candidate,1 candidate
+AL,Ala.,Alabama,1,candidate,1 candidate
+AZ,Ariz.,Arizona,13,candidates,13 candidates
+CA,Calif.,California,10,candidates,10 candidates
+CO,Colo.,Colorado,1,candidate,1 candidate
+CT,Conn.,Connecticut,1,candidate,1 candidate
+FL,Fla.,Florida,12,candidates,12 candidates
+GA,Ga.,Georgia,1,candidate,1 candidate
+IL,Ill.,Illinois,2,candidates,2 candidates
+MA,Mass.,Massachusetts,1,candidate,1 candidate
+MD,Md.,Maryland,2,candidates,2 candidates
+MI,Mich.,Michigan,3,candidates,3 candidates
+MN,Minn.,Minnesota,1,candidate,1 candidate
+NC,N.C.,North Carolina,1,candidate,1 candidate
+NH,N.H.,New Hampshire,1,candidate,1 candidate
+NJ,N.J.,New Jersey,4,candidates,4 candidates
+NV,Nev.,Nevada,3,candidates,3 candidates
+NY,N.Y.,New York,4,candidates,4 candidates
+OH,Ohio,Ohio,2,candidates,2 candidates
+OR,Ore.,Oregon,2,candidates,2 candidates
+PA,Pa.,Pennsylvania,3,candidates,3 candidates
+TN,Tenn.,Tennessee,2,candidates,2 candidates
+TX,Texas,Texas,6,candidates,6 candidates
+VT,Vt.,Vermont,1,candidate,1 candidate
+WA,Wash.,Washington,1,candidate,1 candidate

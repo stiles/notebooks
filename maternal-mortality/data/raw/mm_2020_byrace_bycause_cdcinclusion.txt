@@ -1,0 +1,281 @@
+"Notes"	"Race"	"Race Code"	"Hispanic Origin"	"Hispanic Origin Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate
+	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	"Other specified pregnancy-related conditions"	"O26.8"	2	2133093	Unreliable
+"Total"	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"			2	2133093	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"Liver disorders in pregnancy, childbirth and the puerperium"	"O26.6"	1	2766392	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"Other specified pregnancy-related conditions"	"O26.8"	5	2766392	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"Maternal care for intrauterine death"	"O36.4"	1	2766392	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"Other viral diseases complicating pregnancy, childbirth and the puerperium"	"O98.5"	1	2766392	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium"	"O99.4"	3	2766392	Unreliable
+	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	2	2766392	Unreliable
+"Total"	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-2"			13	2766392	Unreliable
+"Total"	"American Indian or Alaska Native"	"1002-5"					15	4899485	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"Other specified pregnancy-related conditions"	"O26.8"	1	1128901	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"	"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium"	"O99.4"	1	1128901	Unreliable
+"Total"	"Asian or Pacific Islander"	"A-PI"	"Hispanic or Latino"	"2135-2"			2	1128901	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Spontaneous abortion, complete or unspecified, complicated by genital tract and pelvic infection"	"O03.5"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Unspecified abortion, complete or unspecified, with other and unspecified complications"	"O06.8"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"	"O10.1"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"HELLP syndrome"	"O14.2"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Pre-eclampsia, unspecified"	"O14.9"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Diabetes mellitus in pregnancy, unspecified"	"O24.9"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Liver disorders in pregnancy, childbirth and the puerperium"	"O26.6"	3	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Other specified pregnancy-related conditions"	"O26.8"	7	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Infection of amniotic sac and membranes"	"O41.1"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Placenta praevia with haemorrhage"	"O44.1"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Antepartum haemorrhage, unspecified"	"O46.9"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Other complications of obstetric surgery and procedures"	"O75.4"	2	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Delayed delivery after artificial rupture of membranes"	"O75.5"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Puerperal sepsis"	"O85"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Amniotic fluid embolism"	"O88.1"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Cardiomyopathy in the puerperium"	"O90.3"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Obstetric death of unspecified cause"	"O95"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Tuberculosis complicating pregnancy, childbirth and the puerperium"	"O98.0"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Other viral diseases complicating pregnancy, childbirth and the puerperium"	"O98.5"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Other maternal infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium"	"O98.8"	2	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium"	"O99.4"	2	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium"	"O99.5"	1	21284836	Unreliable
+	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	3	21284836	Unreliable
+"Total"	"Asian or Pacific Islander"	"A-PI"	"Not Hispanic or Latino"	"2186-2"			36	21284836	0.2
+"Total"	"Asian or Pacific Islander"	"A-PI"					38	22413737	0.2
+	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"Unspecified abortion, complete or unspecified, with other and unspecified complications"	"O06.8"	1	3560612	Unreliable
+	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"Eclampsia, unspecified as to time period"	"O15.9"	1	3560612	Unreliable
+	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"Unspecified maternal hypertension"	"O16"	1	3560612	Unreliable
+	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"Other specified pregnancy-related conditions"	"O26.8"	1	3560612	Unreliable
+	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"Amniotic fluid embolism"	"O88.1"	1	3560612	Unreliable
+	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"Other viral diseases complicating pregnancy, childbirth and the puerperium"	"O98.5"	2	3560612	Unreliable
+	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	1	3560612	Unreliable
+"Total"	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"			8	3560612	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Tubal pregnancy"	"O00.1"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Ectopic pregnancy, unspecified"	"O00.9"	3	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Hydatidiform mole, unspecified"	"O01.9"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Spontaneous abortion, complete or unspecified, without complication"	"O03.9"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Unspecified abortion, complete or unspecified, complicated by genital tract and pelvic infection"	"O06.5"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium"	"O10.0"	6	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"	"O10.1"	13	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Pre-existing hypertensive disorder with superimposed proteinuria"	"O11"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"HELLP syndrome"	"O14.2"	3	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Pre-eclampsia, unspecified"	"O14.9"	8	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Eclampsia, unspecified as to time period"	"O15.9"	3	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Unspecified maternal hypertension"	"O16"	4	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Hyperemesis gravidarum with metabolic disturbance"	"O21.1"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Deep phlebothrombosis in pregnancy"	"O22.3"	3	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Venous complication in pregnancy, unspecified"	"O22.9"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Infections of kidney in pregnancy"	"O23.0"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Unspecified infection of urinary tract in pregnancy"	"O23.4"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Infections of the genital tract in pregnancy"	"O23.5"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Pre-existing diabetes mellitus, insulin-dependent"	"O24.0"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Diabetes mellitus in pregnancy, unspecified"	"O24.9"	7	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Malnutrition in pregnancy"	"O25"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Liver disorders in pregnancy, childbirth and the puerperium"	"O26.6"	6	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Other specified pregnancy-related conditions"	"O26.8"	83	43620633	0.2
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Maternal care for intrauterine death"	"O36.4"	5	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Infection of amniotic sac and membranes"	"O41.1"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Premature separation of placenta, unspecified"	"O45.9"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Antepartum haemorrhage with coagulation defect"	"O46.0"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Antepartum haemorrhage, unspecified"	"O46.9"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Third-stage haemorrhage"	"O72.0"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Other immediate postpartum haemorrhage"	"O72.1"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Postpartum coagulation defects"	"O72.3"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Other complications of spinal and epidural anaesthesia during labour and delivery"	"O74.6"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Other complications of obstetric surgery and procedures"	"O75.4"	3	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Complication of labour and delivery, unspecified"	"O75.9"	3	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Puerperal sepsis"	"O85"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Obstetric air embolism"	"O88.0"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Amniotic fluid embolism"	"O88.1"	3	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Obstetric blood-clot embolism"	"O88.2"	8	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Cardiomyopathy in the puerperium"	"O90.3"	13	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Obstetric death of unspecified cause"	"O95"	6	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Other viral diseases complicating pregnancy, childbirth and the puerperium"	"O98.5"	4	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Human immunodeficiency [HIV] disease complicating pregnancy, childbirth and the puerperium"	"O98.7"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Other maternal infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium"	"O98.8"	5	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and the puerperium"	"O99.2"	1	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium"	"O99.3"	2	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium"	"O99.4"	32	43620633	0.1
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium"	"O99.5"	11	43620633	Unreliable
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	28	43620633	0.1
+"Total"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"			296	43620633	0.7
+"Total"	"Black or African American"	"2054-5"					304	47181245	0.6
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Tubal pregnancy"	"O00.1"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Ectopic pregnancy, unspecified"	"O00.9"	3	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Hydatidiform mole, unspecified"	"O01.9"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Spontaneous abortion, complete or unspecified, without complication"	"O03.9"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Unspecified abortion, complete or unspecified, without complication"	"O06.9"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium"	"O10.0"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"	"O10.1"	9	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Pre-existing hypertensive disorder with superimposed proteinuria"	"O11"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Gestational [pregnancy-induced] hypertension without significant proteinuria"	"O13"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Pre-eclampsia, unspecified"	"O14.9"	4	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Eclampsia in pregnancy"	"O15.0"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Deep phlebothrombosis in pregnancy"	"O22.3"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Venous complication in pregnancy, unspecified"	"O22.9"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Infections of kidney in pregnancy"	"O23.0"	2	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Infections of the genital tract in pregnancy"	"O23.5"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Pre-existing diabetes mellitus, insulin-dependent"	"O24.0"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Diabetes mellitus arising in pregnancy"	"O24.4"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Diabetes mellitus in pregnancy, unspecified"	"O24.9"	2	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Liver disorders in pregnancy, childbirth and the puerperium"	"O26.6"	6	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Other specified pregnancy-related conditions"	"O26.8"	41	54490273	0.1
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Morbidly adherent placenta"	"O43.2"	2	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Premature separation of placenta, unspecified"	"O45.9"	5	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Other antepartum haemorrhage"	"O46.8"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Antepartum haemorrhage, unspecified"	"O46.9"	3	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Rupture of uterus during labour"	"O71.1"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Other immediate postpartum haemorrhage"	"O72.1"	3	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Other complications of obstetric surgery and procedures"	"O75.4"	4	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Amniotic fluid embolism"	"O88.1"	4	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Cardiomyopathy in the puerperium"	"O90.3"	2	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Obstetric death of unspecified cause"	"O95"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Other viral diseases complicating pregnancy, childbirth and the puerperium"	"O98.5"	5	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Other maternal infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium"	"O98.8"	3	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Anaemia complicating pregnancy, childbirth and the puerperium"	"O99.0"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating pregnancy, childbirth and the puerperium"	"O99.1"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and the puerperium"	"O99.2"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium"	"O99.3"	2	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium"	"O99.4"	9	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium"	"O99.5"	6	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Diseases of the digestive system complicating pregnancy, childbirth and the puerperium"	"O99.6"	1	54490273	Unreliable
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	11	54490273	Unreliable
+"Total"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"			146	54490273	0.3
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Tubal pregnancy"	"O00.1"	3	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Ectopic pregnancy, unspecified"	"O00.9"	4	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Unspecified abortion, incomplete, with other and unspecified complications"	"O06.3"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium"	"O10.0"	3	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"	"O10.1"	8	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Gestational [pregnancy-induced] hypertension without significant proteinuria"	"O13"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"HELLP syndrome"	"O14.2"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Pre-eclampsia, unspecified"	"O14.9"	8	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Eclampsia in pregnancy"	"O15.0"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Eclampsia, unspecified as to time period"	"O15.9"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Unspecified maternal hypertension"	"O16"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Hyperemesis gravidarum with metabolic disturbance"	"O21.1"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Deep phlebothrombosis in pregnancy"	"O22.3"	3	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Venous complication in pregnancy, unspecified"	"O22.9"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Infections of kidney in pregnancy"	"O23.0"	4	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Infections of the genital tract in pregnancy"	"O23.5"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Pre-existing diabetes mellitus, insulin-dependent"	"O24.0"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Diabetes mellitus arising in pregnancy"	"O24.4"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Diabetes mellitus in pregnancy, unspecified"	"O24.9"	7	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Malnutrition in pregnancy"	"O25"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Liver disorders in pregnancy, childbirth and the puerperium"	"O26.6"	17	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other specified pregnancy-related conditions"	"O26.8"	93	200499383	0.0
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Pregnancy-related condition, unspecified"	"O26.9"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Maternal care for intrauterine death"	"O36.4"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Morbidly adherent placenta"	"O43.2"	3	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Placenta praevia with haemorrhage"	"O44.1"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Premature separation of placenta, unspecified"	"O45.9"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other antepartum haemorrhage"	"O46.8"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Antepartum haemorrhage, unspecified"	"O46.9"	4	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Rupture of uterus during labour"	"O71.1"	3	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Third-stage haemorrhage"	"O72.0"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other immediate postpartum haemorrhage"	"O72.1"	5	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Postpartum coagulation defects"	"O72.3"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Retained portions of placenta and membranes, without haemorrhage"	"O73.1"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other complications of obstetric surgery and procedures"	"O75.4"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other specified complications of labour and delivery"	"O75.8"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Complication of labour and delivery, unspecified"	"O75.9"	3	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Puerperal sepsis"	"O85"	2	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Pyrexia of unknown origin following delivery"	"O86.4"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Amniotic fluid embolism"	"O88.1"	7	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Obstetric blood-clot embolism"	"O88.2"	7	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Cardiomyopathy in the puerperium"	"O90.3"	14	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Obstetric death of unspecified cause"	"O95"	10	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other viral diseases complicating pregnancy, childbirth and the puerperium"	"O98.5"	4	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other maternal infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium"	"O98.8"	4	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating pregnancy, childbirth and the puerperium"	"O99.1"	4	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium"	"O99.3"	6	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium"	"O99.4"	45	200499383	0.0
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium"	"O99.5"	5	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Diseases of the digestive system complicating pregnancy, childbirth and the puerperium"	"O99.6"	1	200499383	Unreliable
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	"Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"	"O99.8"	49	200499383	0.0
+"Total"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"			358	200499383	0.2
+"Total"	"White"	"2106-3"					504	254989656	0.2
+"Total"							861	329484123	0.3
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"ICD-10 Codes: A34 (Obstetrical tetanus); O00-O07 (Pregnancy with abortive outcome); O10-O16 (Oedema, proteinuria and"
+"hypertensive disorders in pregnancy, childbirth and the puerperium); O20-O29 (Other maternal disorders predominantly related to"
+"pregnancy); O30-O48 (Maternal care related to the fetus and amniotic cavity and possible delivery problems); O60-O75"
+"(Complications of labour and delivery); O85-O92 (Complications predominantly related to the puerperium); O95 (Obstetric death of"
+"unspecified cause); O98.0 (Tuberculosis complicating pregnancy, childbirth and the puerperium); O98.1 (Syphilis complicating"
+"pregnancy, childbirth and the puerperium); O98.2 (Gonorrhoea complicating pregnancy, childbirth and the puerperium); O98.3"
+"(Other infections with a predominantly sexual mode of transmission complicating pregnancy, childbirth and the puerperium); O98.4"
+"(Viral hepatitis complicating pregnancy, childbirth and the puerperium); O98.5 (Other viral diseases complicating pregnancy,"
+"childbirth and the puerperium); O98.6 (Protozoal diseases complicating pregnancy, childbirth and the puerperium); O98.7 (Human"
+"immunodeficiency [HIV] disease complicating pregnancy, childbirth and the puerperium); O98.8 (Other maternal infectious and"
+"parasitic diseases complicating pregnancy, childbirth and the puerperium); O98.9 (Unspecified maternal infectious or parasitic"
+"disease complicating pregnancy, childbirth and the puerperium); O99.0 (Anaemia complicating pregnancy, childbirth and the"
+"puerperium); O99.1 (Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+"complicating pregnancy, childbirth and the puerperium); O99.2 (Endocrine, nutritional and metabolic diseases complicating"
+"pregnancy, childbirth and the puerperium); O99.3 (Mental disorders and diseases of the nervous system complicating pregnancy,"
+"childbirth and the puerperium); O99.4 (Diseases of the circulatory system complicating pregnancy, childbirth and the"
+"puerperium); O99.5 (Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium); O99.6 (Diseases"
+"of the digestive system complicating pregnancy, childbirth and the puerperium); O99.7 (Diseases of the skin and subcutaneous"
+"tissue complicating pregnancy, childbirth and the puerperium); O99.8 (Other specified diseases and conditions complicating"
+"pregnancy, childbirth and the puerperium)"
+"Year/Month: 2020"
+"Group By: Race; Hispanic Origin; Cause of death"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jul 12, 2022 9:33:16 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Jul 12, 2022 9:33:16 AM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"2. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"3. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"4. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"7. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

@@ -1,0 +1,49 @@
+region,category,parameter,mode,powertrain,year,unit,value
+China,Projection-STEPS,EV sales,Cars,BEV,2020,sales,930000
+China,Projection-STEPS,EV sales,Cars,PHEV,2020,sales,230000
+China,Projection-STEPS,EV sales,Cars,BEV,2021,sales,2700000
+China,Projection-STEPS,EV sales,Cars,PHEV,2021,sales,600000
+China,Projection-STEPS,EV sales,Cars,BEV,2025,sales,5700000
+China,Projection-STEPS,EV sales,Cars,PHEV,2025,sales,1800000
+China,Projection-STEPS,EV sales,Cars,BEV,2030,sales,10000000
+China,Projection-STEPS,EV sales,Cars,PHEV,2030,sales,1000000
+Europe,Projection-STEPS,EV sales,Cars,BEV,2020,sales,750000
+Europe,Projection-STEPS,EV sales,Cars,PHEV,2020,sales,630000
+Europe,Projection-STEPS,EV sales,Cars,BEV,2021,sales,1200000
+Europe,Projection-STEPS,EV sales,Cars,PHEV,2021,sales,1100000
+Europe,Projection-STEPS,EV sales,Cars,BEV,2025,sales,2900000
+Europe,Projection-STEPS,EV sales,Cars,PHEV,2025,sales,2100000
+Europe,Projection-STEPS,EV sales,Cars,BEV,2030,sales,4800000
+Europe,Projection-STEPS,EV sales,Cars,PHEV,2030,sales,2500000
+India,Projection-STEPS,EV sales,Cars,BEV,2020,sales,3100
+India,Projection-STEPS,EV sales,Cars,PHEV,2020,sales,43
+India,Projection-STEPS,EV sales,Cars,BEV,2021,sales,12000
+India,Projection-STEPS,EV sales,Cars,PHEV,2021,sales,41
+India,Projection-STEPS,EV sales,Cars,BEV,2025,sales,410000
+India,Projection-STEPS,EV sales,Cars,PHEV,2025,sales,33000
+India,Projection-STEPS,EV sales,Cars,BEV,2030,sales,2600000
+India,Projection-STEPS,EV sales,Cars,PHEV,2030,sales,82000
+Rest of the world,Projection-STEPS,EV sales,Cars,BEV,2020,sales,100000
+Rest of the world,Projection-STEPS,EV sales,Cars,PHEV,2020,sales,59000
+Rest of the world,Projection-STEPS,EV sales,Cars,BEV,2021,sales,210000
+Rest of the world,Projection-STEPS,EV sales,Cars,PHEV,2021,sales,100000
+Rest of the world,Projection-STEPS,EV sales,Cars,BEV,2025,sales,850000
+Rest of the world,Projection-STEPS,EV sales,Cars,PHEV,2025,sales,450000
+Rest of the world,Projection-STEPS,EV sales,Cars,BEV,2030,sales,2200000
+Rest of the world,Projection-STEPS,EV sales,Cars,PHEV,2030,sales,1300000
+USA,Projection-STEPS,EV sales,Cars,BEV,2020,sales,230000
+USA,Projection-STEPS,EV sales,Cars,PHEV,2020,sales,64000
+USA,Projection-STEPS,EV sales,Cars,BEV,2021,sales,470000
+USA,Projection-STEPS,EV sales,Cars,PHEV,2021,sales,160000
+USA,Projection-STEPS,EV sales,Cars,BEV,2025,sales,990000
+USA,Projection-STEPS,EV sales,Cars,PHEV,2025,sales,530000
+USA,Projection-STEPS,EV sales,Cars,BEV,2030,sales,2300000
+USA,Projection-STEPS,EV sales,Cars,PHEV,2030,sales,800000
+World,Projection-STEPS,EV sales,Cars,BEV,2020,sales,2000000
+World,Projection-STEPS,EV sales,Cars,PHEV,2020,sales,980000
+World,Projection-STEPS,EV sales,Cars,BEV,2021,sales,4700000
+World,Projection-STEPS,EV sales,Cars,PHEV,2021,sales,1900000
+World,Projection-STEPS,EV sales,Cars,BEV,2025,sales,11000000
+World,Projection-STEPS,EV sales,Cars,PHEV,2025,sales,4900000
+World,Projection-STEPS,EV sales,Cars,BEV,2030,sales,22000000
+World,Projection-STEPS,EV sales,Cars,PHEV,2030,sales,5700000

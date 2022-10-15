@@ -1,0 +1,59 @@
+fips_code,county_name,estimated_hesitant_pct,winner
+06075,San Francisco County,7.000000000000001,Biden
+06041,Marin County,8.0,Biden
+06081,San Mateo County,8.0,Biden
+06085,Santa Clara County,8.0,Biden
+06013,Contra Costa County,9.0,Biden
+06059,Orange County,9.0,Biden
+06001,Alameda County,9.0,Biden
+06111,Ventura County,10.0,Biden
+06055,Napa County,10.0,Biden
+06017,El Dorado County,10.0,Trump
+06061,Placer County,10.0,Trump
+06087,Santa Cruz County,10.0,Biden
+06097,Sonoma County,10.0,Biden
+06037,Los Angeles County,11.0,Biden
+06095,Solano County,11.0,Biden
+06079,San Luis Obispo County,11.0,Biden
+06113,Yolo County,11.0,Biden
+06091,Sierra County,11.0,Trump
+06073,San Diego County,11.0,Biden
+06057,Nevada County,11.0,Biden
+06109,Tuolumne County,12.0,Trump
+06065,Riverside County,12.0,Biden
+06009,Calaveras County,12.0,Trump
+06083,Santa Barbara County,12.0,Biden
+06003,Alpine County,12.0,Biden
+06067,Sacramento County,12.0,Biden
+06051,Mono County,12.0,Biden
+06027,Inyo County,12.0,Biden
+06043,Mariposa County,12.0,Trump
+06077,San Joaquin County,12.0,Biden
+06053,Monterey County,12.0,Biden
+06005,Amador County,12.0,Trump
+06099,Stanislaus County,13.0,Biden
+06069,San Benito County,13.0,Biden
+06019,Fresno County,13.0,Biden
+06007,Butte County,13.0,Biden
+06071,San Bernardino County,13.0,Biden
+06023,Humboldt County,13.0,Biden
+06089,Shasta County,13.0,Trump
+06045,Mendocino County,14.000000000000002,Biden
+06025,Imperial County,14.000000000000002,Biden
+06011,Colusa County,14.000000000000002,Trump
+06029,Kern County,14.000000000000002,Trump
+06107,Tulare County,14.000000000000002,Trump
+06033,Lake County,14.000000000000002,Biden
+06047,Merced County,14.000000000000002,Biden
+06105,Trinity County,14.000000000000002,Trump
+06039,Madera County,14.000000000000002,Trump
+06021,Glenn County,14.000000000000002,Trump
+06101,Sutter County,14.000000000000002,Trump
+06103,Tehama County,14.000000000000002,Trump
+06115,Yuba County,14.000000000000002,Trump
+06015,Del Norte County,15.0,Trump
+06063,Plumas County,15.0,Trump
+06049,Modoc County,15.0,Trump
+06093,Siskiyou County,15.0,Trump
+06035,Lassen County,15.0,Trump
+06031,Kings County,16.0,Trump

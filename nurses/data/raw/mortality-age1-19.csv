@@ -1,0 +1,221 @@
+Year,Crude Death Rate per 100k,Cause
+1999,0.393472511,Chronic respiratory disease
+2000,0.359995538,Chronic respiratory disease
+2001,0.287409078,Chronic respiratory disease
+2002,0.380720821,Chronic respiratory disease
+2003,0.331827221,Chronic respiratory disease
+2004,0.325443385,Chronic respiratory disease
+2005,0.282048147,Chronic respiratory disease
+2006,0.279755369,Chronic respiratory disease
+2007,0.312971389,Chronic respiratory disease
+2008,0.308917346,Chronic respiratory disease
+2009,0.346885831,Chronic respiratory disease
+2010,0.307601528,Chronic respiratory disease
+2011,0.327209311,Chronic respiratory disease
+2012,0.285126129,Chronic respiratory disease
+2013,0.356293154,Chronic respiratory disease
+2014,0.315908276,Chronic respiratory disease
+2015,0.353177598,Chronic respiratory disease
+2016,0.350675459,Chronic respiratory disease
+2017,0.294065313,Chronic respiratory disease
+2018,0.308442663,Chronic respiratory disease
+2019,0.317307938,Chronic respiratory disease
+2020,0.330240148,Chronic respiratory disease
+1999,1.572578471,Congenital anomalies
+2000,1.459547125,Congenital anomalies
+2001,1.544986355,Congenital anomalies
+2002,1.54748769,Congenital anomalies
+2003,1.484829976,Congenital anomalies
+2004,1.562900051,Congenital anomalies
+2005,1.501265364,Congenital anomalies
+2006,1.388557469,Congenital anomalies
+2007,1.413460217,Congenital anomalies
+2008,1.369871182,Congenital anomalies
+2009,1.334564395,Congenital anomalies
+2010,1.269486636,Congenital anomalies
+2011,1.341811825,Congenital anomalies
+2012,1.309798157,Congenital anomalies
+2013,1.254049738,Congenital anomalies
+2014,1.184336291,Congenital anomalies
+2015,1.237401221,Congenital anomalies
+2016,1.252960856,Congenital anomalies
+2017,1.24146704,Congenital anomalies
+2018,1.188976075,Congenital anomalies
+2019,1.265377809,Congenital anomalies
+2020,1.144230514,Congenital anomalies
+1999,1.656519273,Drowning
+2000,1.670848854,Drowning
+2001,1.528079938,Drowning
+2002,1.500868814,Drowning
+2003,1.351840857,Drowning
+2004,1.34808169,Drowning
+2005,1.426907216,Drowning
+2006,1.371950986,Drowning
+2007,1.338397974,Drowning
+2008,1.305302393,Drowning
+2009,1.245004781,Drowning
+2010,1.319913116,Drowning
+2011,1.22259603,Drowning
+2012,1.261428546,Drowning
+2013,1.146778681,Drowning
+2014,1.156198711,Drowning
+2015,1.147827193,Drowning
+2016,1.273438255,Drowning
+2017,1.186489612,Drowning
+2018,1.155700103,Drowning
+2019,1.131774467,Drowning
+2020,1.208730543,Drowning
+1999,0.50495639,Drug overdose
+2000,0.623470532,Drug overdose
+2001,0.750384787,Drug overdose
+2002,0.865039144,Drug overdose
+2003,0.932214994,Drug overdose
+2004,1.104963904,Drug overdose
+2005,1.057680551,Drug overdose
+2006,1.194389359,Drug overdose
+2007,1.332036767,Drug overdose
+2008,1.316696885,Drug overdose
+2009,1.108773255,Drug overdose
+2010,1.181240296,Drug overdose
+2011,1.166792892,Drug overdose
+2012,0.952117611,Drug overdose
+2013,0.953946185,Drug overdose
+2014,0.95028279,Drug overdose
+2015,1.136310532,Drug overdose
+2016,1.256800368,Drug overdose
+2017,1.192882336,Drug overdose
+2018,1.071230328,Drug overdose
+2019,1.211422613,Drug overdose
+2020,2.223961,Drug overdose
+1999,0.969253953,Fire-burn
+2000,0.932597136,Fire-burn
+2001,0.805005516,Fire-burn
+2002,0.821010205,Fire-burn
+2003,0.754035397,Fire-burn
+2004,0.780806857,Fire-burn
+2005,0.733325182,Fire-burn
+2006,0.666814166,Fire-burn
+2007,0.701005022,Fire-burn
+2008,0.560862231,Fire-burn
+2009,0.514652432,Fire-burn
+2010,0.503004139,Fire-burn
+2011,0.442620347,Fire-burn
+2012,0.367863622,Fire-burn
+2013,0.458456065,Fire-burn
+2014,0.411831842,Fire-burn
+2015,0.364694258,Fire-burn
+2016,0.43514473,Fire-burn
+2017,0.432148156,Fire-burn
+2018,0.453065157,Fire-burn
+2019,0.343000888,Fire-burn
+2020,0.343140154,Fire-burn
+1999,4.429188903,Firearm
+2000,3.950820592,Firearm
+2001,3.80524417,Firearm
+2002,3.733394988,Firearm
+2003,3.66817562,Firearm
+2004,3.65963016,Firearm
+2005,3.871751836,Firearm
+2006,4.10307874,Firearm
+2007,3.881608572,Firearm
+2008,3.74372374,Firearm
+2009,3.528144248,Firearm
+2010,3.403787404,Firearm
+2011,3.414137461,Firearm
+2012,3.415149131,Firearm
+2013,3.128739163,Firearm
+2014,3.251169385,Firearm
+2015,3.602155571,Firearm
+2016,4.022529081,Firearm
+2017,4.385408801,Firearm
+2018,4.268283326,Firearm
+2019,4.339539328,Firearm
+2020,5.620532526,Firearm
+1999,1.20533746,Heart disease
+2000,1.112594904,Heart disease
+2001,1.095015581,Heart disease
+2002,1.067054273,Heart disease
+2003,1.087153774,Heart disease
+2004,1.022638305,Heart disease
+2005,1.015373329,Heart disease
+2006,0.987447032,Heart disease
+2007,0.965631238,Heart disease
+2008,0.982458445,Heart disease
+2009,0.889289129,Heart disease
+2010,0.863553471,Heart disease
+2011,0.870021656,Heart disease
+2012,0.803190123,Heart disease
+2013,0.816026255,Heart disease
+2014,0.817268779,Heart disease
+2015,0.848394012,Heart disease
+2016,0.76534279,Heart disease
+2017,0.783747987,Heart disease
+2018,0.716713242,Heart disease
+2019,0.769503866,Heart disease
+2020,0.737880332,Heart disease
+1999,2.852675707,Malignant neoplasm
+2000,2.842138683,Malignant neoplasm
+2001,2.8090661,Malignant neoplasm
+2002,2.845046406,Malignant neoplasm
+2003,2.78631573,Malignant neoplasm
+2004,2.764339267,Malignant neoplasm
+2005,2.702534063,Malignant neoplasm
+2006,2.502469256,Malignant neoplasm
+2007,2.539393874,Malignant neoplasm
+2008,2.492861699,Malignant neoplasm
+2009,2.384051708,Malignant neoplasm
+2010,2.348613309,Malignant neoplasm
+2011,2.348804821,Malignant neoplasm
+2012,2.459212866,Malignant neoplasm
+2013,2.362517327,Malignant neoplasm
+2014,2.282980862,Malignant neoplasm
+2015,2.305891417,Malignant neoplasm
+2016,2.37153878,Malignant neoplasm
+2017,2.224668022,Malignant neoplasm
+2018,2.290922685,Malignant neoplasm
+2019,2.118383763,Malignant neoplasm
+2020,2.125920956,Malignant neoplasm
+1999,10.04273007,Motor vehicle crash
+2000,10.06161441,Motor vehicle crash
+2001,9.823928387,Motor vehicle crash
+2002,10.21082882,Motor vehicle crash
+2003,9.744358114,Motor vehicle crash
+2004,9.692552991,Motor vehicle crash
+2005,9.04861737,Motor vehicle crash
+2006,8.802713448,Motor vehicle crash
+2007,8.370076302,Motor vehicle crash
+2008,6.787319232,Motor vehicle crash
+2009,6.102667812,Motor vehicle crash
+2010,5.499007651,Motor vehicle crash
+2011,5.327931454,Motor vehicle crash
+2012,5.096629563,Motor vehicle crash
+2013,4.733973908,Motor vehicle crash
+2014,4.816641976,Motor vehicle crash
+2015,5.027662251,Motor vehicle crash
+2016,5.21405774,Motor vehicle crash
+2017,5.075823015,Motor vehicle crash
+2018,4.526812031,Motor vehicle crash
+2019,4.511682096,Motor vehicle crash
+2020,5.047772269,Motor vehicle crash
+1999,1.383711665,Suffocation
+2000,1.505198733,Suffocation
+2001,1.482562664,Suffocation
+2002,1.502163783,Suffocation
+2003,1.462880316,Suffocation
+2004,1.6812431,Suffocation
+2005,1.591007956,Suffocation
+2006,1.600609483,Suffocation
+2007,1.48725022,Suffocation
+2008,1.605357356,Suffocation
+2009,1.607027448,Suffocation
+2010,1.635078616,Suffocation
+2011,1.717214756,Suffocation
+2012,1.70311947,Suffocation
+2013,1.763587259,Suffocation
+2014,1.754761761,Suffocation
+2015,1.783802794,Suffocation
+2016,1.830167542,Suffocation
+2017,2.087863724,Suffocation
+2018,2.106624994,Suffocation
+2019,1.937248463,Suffocation
+2020,1.820190818,Suffocation

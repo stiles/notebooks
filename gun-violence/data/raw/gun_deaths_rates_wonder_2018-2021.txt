@@ -1,0 +1,65 @@
+"Notes"	"Year"	"Year Code"	"Single Race 6"	"Single Race 6 Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	363	4147521	8.8
+	"2018"	"2018"	"Asian"	"A"	481	19330600	2.5
+	"2018"	"2018"	"Black or African American"	"2054-5"	9558	43804319	21.8
+	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	56	799418	7.0
+	"2018"	"2018"	"White"	"2106-3"	27512	250139096	11.0
+	"2018"	"2018"	"More than one race"	"M"	420	8946480	4.7
+"Total"	"2018"	"2018"			38390	327167434	11.7
+	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	335	4188092	8.0
+	"2019"	"2019"	"Asian"	"A"	508	19504862	2.6
+	"2019"	"2019"	"Black or African American"	"2054-5"	10116	44075086	23.0
+	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	56	806937	6.9
+	"2019"	"2019"	"White"	"2106-3"	26875	250522190	10.7
+	"2019"	"2019"	"More than one race"	"M"	465	9142356	5.1
+"Total"	"2019"	"2019"			38355	328239523	11.7
+	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	455	4292990	10.6
+	"2020"	"2020"	"Asian"	"A"	520	20012278	2.6
+	"2020"	"2020"	"Black or African American"	"2054-5"	13777	44531112	30.9
+	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	64	843693	7.6
+	"2020"	"2020"	"White"	"2106-3"	28305	250309724	11.3
+	"2020"	"2020"	"More than one race"	"M"	555	9494326	5.8
+"Total"	"2020"	"2020"			43676	329484123	13.3
+	"2021 (provisional)"	"2021"	"American Indian or Alaska Native"	"1002-5"	486	4292990	11.3
+	"2021 (provisional)"	"2021"	"Asian"	"A"	581	20012278	2.9
+	"2021 (provisional)"	"2021"	"Black or African American"	"2054-5"	15138	44531112	34.0
+	"2021 (provisional)"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	78	843693	9.2
+	"2021 (provisional)"	"2021"	"White"	"2106-3"	30383	250309724	12.1
+	"2021 (provisional)"	"2021"	"More than one race"	"M"	622	9494326	6.6
+"Total"	"2021 (provisional)"	"2021"			47288	329484123	14.4
+"Total"					167709	1314375203	12.8
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Single Race 6: American Indian or Alaska Native; Asian; Black or African American; Native Hawaiian or Other Pacific Islander;"
+"White; More than one race"
+"UCD - Injury Intent: Suicide; Homicide"
+"UCD - Injury Mechanism & All Other Leading Causes: Firearm"
+"Year/Month: 2018; 2019; 2020; 2021 (provisional)"
+"Group By: Year; Single Race 6"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Sep 8, 2022 11:49:11 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Sep 8, 2022 11:49:11"
+"AM"
+"---"
+Caveats:
+"1. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"3. Deaths occurring through August 20, 2022 as of September 04, 2022."

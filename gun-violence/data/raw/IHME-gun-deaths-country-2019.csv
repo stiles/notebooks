@@ -1,0 +1,613 @@
+measure_id,measure_name,location_id,location_name,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,125,Colombia,Physical violence by firearm,1,Number,2019,12595.52,16224.22,9860.04
+1,Deaths,125,Colombia,Physical violence by firearm,2,Percent,2019,0.05,0.06,0.05
+1,Deaths,160,Afghanistan,Physical violence by firearm,3,Rate,2019,1.13,2.36,0.55
+1,Deaths,62,Russian Federation,Physical violence by firearm,1,Number,2019,1145.26,1364.10,955.05
+1,Deaths,62,Russian Federation,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,43,Albania,Physical violence by firearm,3,Rate,2019,1.47,1.95,1.05
+1,Deaths,46,Croatia,Physical violence by firearm,1,Number,2019,15.73,19.95,12.39
+1,Deaths,46,Croatia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,139,Algeria,Physical violence by firearm,3,Rate,2019,0.32,0.49,0.22
+1,Deaths,141,Egypt,Physical violence by firearm,1,Number,2019,367.43,522.72,250.18
+1,Deaths,141,Egypt,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,298,American Samoa,Physical violence by firearm,3,Rate,2019,0.42,0.62,0.27
+1,Deaths,385,Puerto Rico,Physical violence by firearm,1,Number,2019,638.67,791.91,511.63
+1,Deaths,385,Puerto Rico,Physical violence by firearm,2,Percent,2019,0.02,0.02,0.02
+1,Deaths,74,Andorra,Physical violence by firearm,3,Rate,2019,0.09,0.14,0.06
+1,Deaths,94,Switzerland,Physical violence by firearm,1,Number,2019,18.43,20.16,16.97
+1,Deaths,94,Switzerland,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,168,Angola,Physical violence by firearm,3,Rate,2019,0.53,0.95,0.31
+1,Deaths,30,Vanuatu,Physical violence by firearm,1,Number,2019,0.47,0.77,0.27
+1,Deaths,30,Vanuatu,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,105,Antigua and Barbuda,Physical violence by firearm,3,Rate,2019,2.04,2.41,1.70
+1,Deaths,157,Yemen,Physical violence by firearm,1,Number,2019,242.85,400.59,136.94
+1,Deaths,157,Yemen,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,97,Argentina,Physical violence by firearm,3,Rate,2019,3.79,4.07,3.50
+1,Deaths,15,Myanmar,Physical violence by firearm,1,Number,2019,211.15,318.30,139.77
+1,Deaths,15,Myanmar,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,33,Armenia,Physical violence by firearm,3,Rate,2019,0.68,0.82,0.57
+1,Deaths,110,Dominica,Physical violence by firearm,1,Number,2019,2.47,3.28,1.72
+1,Deaths,110,Dominica,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,71,Australia,Physical violence by firearm,3,Rate,2019,0.18,0.20,0.17
+1,Deaths,78,Denmark,Physical violence by firearm,1,Number,2019,8.20,9.16,7.43
+1,Deaths,78,Denmark,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,75,Austria,Physical violence by firearm,3,Rate,2019,0.15,0.16,0.14
+1,Deaths,142,Iran (Islamic Republic of),Physical violence by firearm,1,Number,2019,524.86,683.91,448.96
+1,Deaths,142,Iran (Islamic Republic of),Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,34,Azerbaijan,Physical violence by firearm,3,Rate,2019,0.28,0.49,0.18
+1,Deaths,393,Saint Kitts and Nevis,Physical violence by firearm,1,Number,2019,7.19,10.21,3.84
+1,Deaths,393,Saint Kitts and Nevis,Physical violence by firearm,2,Percent,2019,0.01,0.02,0.01
+1,Deaths,106,Bahamas,Physical violence by firearm,3,Rate,2019,21.52,26.60,17.49
+1,Deaths,47,Czechia,Physical violence by firearm,1,Number,2019,16.83,20.86,13.50
+1,Deaths,47,Czechia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,140,Bahrain,Physical violence by firearm,3,Rate,2019,0.43,0.67,0.28
+1,Deaths,173,Gabon,Physical violence by firearm,1,Number,2019,13.61,27.70,6.81
+1,Deaths,173,Gabon,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,161,Bangladesh,Physical violence by firearm,3,Rate,2019,0.78,1.15,0.57
+1,Deaths,111,Dominican Republic,Physical violence by firearm,1,Number,2019,1288.08,1754.10,903.15
+1,Deaths,111,Dominican Republic,Physical violence by firearm,2,Percent,2019,0.02,0.02,0.01
+1,Deaths,107,Barbados,Physical violence by firearm,3,Rate,2019,4.19,5.10,3.46
+1,Deaths,126,Costa Rica,Physical violence by firearm,1,Number,2019,354.88,449.54,268.14
+1,Deaths,126,Costa Rica,Physical violence by firearm,2,Percent,2019,0.01,0.02,0.01
+1,Deaths,57,Belarus,Physical violence by firearm,3,Rate,2019,0.48,0.63,0.35
+1,Deaths,79,Finland,Physical violence by firearm,1,Number,2019,12.01,13.15,11.05
+1,Deaths,79,Finland,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,76,Belgium,Physical violence by firearm,3,Rate,2019,0.36,0.39,0.33
+1,Deaths,191,Zambia,Physical violence by firearm,1,Number,2019,537.39,737.59,364.26
+1,Deaths,191,Zambia,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,108,Belize,Physical violence by firearm,3,Rate,2019,16.22,18.46,14.17
+1,Deaths,34,Azerbaijan,Physical violence by firearm,1,Number,2019,28.52,50.29,18.92
+1,Deaths,34,Azerbaijan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,200,Benin,Physical violence by firearm,3,Rate,2019,2.17,3.14,1.45
+1,Deaths,95,United Kingdom,Physical violence by firearm,1,Number,2019,27.26,28.20,26.09
+1,Deaths,95,United Kingdom,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,305,Bermuda,Physical violence by firearm,3,Rate,2019,1.42,1.72,1.16
+1,Deaths,143,Iraq,Physical violence by firearm,1,Number,2019,2648.71,3615.18,1873.64
+1,Deaths,143,Iraq,Physical violence by firearm,2,Percent,2019,0.01,0.02,0.01
+1,Deaths,162,Bhutan,Physical violence by firearm,3,Rate,2019,0.11,0.22,0.05
+1,Deaths,206,Gambia,Physical violence by firearm,1,Number,2019,5.02,6.87,3.12
+1,Deaths,206,Gambia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,121,Bolivia (Plurinational State of),Physical violence by firearm,3,Rate,2019,2.54,3.50,1.64
+1,Deaths,16,Philippines,Physical violence by firearm,1,Number,2019,9028.12,11515.99,7005.27
+1,Deaths,16,Philippines,Physical violence by firearm,2,Percent,2019,0.01,0.02,0.01
+1,Deaths,44,Bosnia and Herzegovina,Physical violence by firearm,3,Rate,2019,0.27,0.39,0.20
+1,Deaths,33,Armenia,Physical violence by firearm,1,Number,2019,20.64,24.83,17.12
+1,Deaths,33,Armenia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,193,Botswana,Physical violence by firearm,3,Rate,2019,3.76,6.29,2.02
+1,Deaths,135,Brazil,Physical violence by firearm,3,Rate,2019,21.93,22.91,21.06
+1,Deaths,63,Ukraine,Physical violence by firearm,1,Number,2019,289.43,357.05,222.33
+1,Deaths,63,Ukraine,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,66,Brunei Darussalam,Physical violence by firearm,3,Rate,2019,0.08,0.11,0.06
+1,Deaths,175,Burundi,Physical violence by firearm,1,Number,2019,31.45,51.31,16.89
+1,Deaths,175,Burundi,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,45,Bulgaria,Physical violence by firearm,3,Rate,2019,0.57,0.72,0.45
+1,Deaths,127,El Salvador,Physical violence by firearm,1,Number,2019,2300.71,3007.32,1728.63
+1,Deaths,127,El Salvador,Physical violence by firearm,2,Percent,2019,0.06,0.06,0.05
+1,Deaths,201,Burkina Faso,Physical violence by firearm,3,Rate,2019,3.01,4.01,2.15
+1,Deaths,48,Hungary,Physical violence by firearm,1,Number,2019,7.19,8.77,5.85
+1,Deaths,48,Hungary,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,190,Uganda,Physical violence by firearm,1,Number,2019,798.84,1149.42,530.62
+1,Deaths,190,Uganda,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,175,Burundi,Physical violence by firearm,3,Rate,2019,0.26,0.43,0.14
+1,Deaths,144,Jordan,Physical violence by firearm,1,Number,2019,177.05,224.92,136.31
+1,Deaths,144,Jordan,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.00
+1,Deaths,205,Côte d'Ivoire,Physical violence by firearm,3,Rate,2019,2.70,3.85,1.79
+1,Deaths,207,Ghana,Physical violence by firearm,1,Number,2019,228.94,312.81,152.72
+1,Deaths,207,Ghana,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,203,Cabo Verde,Physical violence by firearm,3,Rate,2019,6.11,8.52,4.41
+1,Deaths,298,American Samoa,Physical violence by firearm,1,Number,2019,0.23,0.34,0.15
+1,Deaths,298,American Samoa,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,10,Cambodia,Physical violence by firearm,3,Rate,2019,0.98,1.55,0.65
+1,Deaths,97,Argentina,Physical violence by firearm,1,Number,2019,1708.69,1837.57,1579.10
+1,Deaths,97,Argentina,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,202,Cameroon,Physical violence by firearm,3,Rate,2019,0.99,1.45,0.62
+1,Deaths,17,Sri Lanka,Physical violence by firearm,1,Number,2019,222.82,314.71,154.54
+1,Deaths,17,Sri Lanka,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,101,Canada,Physical violence by firearm,3,Rate,2019,0.47,0.51,0.42
+1,Deaths,396,San Marino,Physical violence by firearm,1,Number,2019,0.03,0.04,0.02
+1,Deaths,396,San Marino,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,169,Central African Republic,Physical violence by firearm,3,Rate,2019,1.12,2.43,0.67
+1,Deaths,80,France,Physical violence by firearm,1,Number,2019,222.19,242.14,206.19
+1,Deaths,80,France,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,204,Chad,Physical violence by firearm,3,Rate,2019,2.32,3.18,1.60
+1,Deaths,349,Greenland,Physical violence by firearm,1,Number,2019,1.22,1.62,0.90
+1,Deaths,349,Greenland,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,98,Chile,Physical violence by firearm,3,Rate,2019,1.90,2.07,1.73
+1,Deaths,160,Afghanistan,Physical violence by firearm,1,Number,2019,433.67,904.67,210.39
+1,Deaths,160,Afghanistan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,6,China,Physical violence by firearm,3,Rate,2019,0.02,0.03,0.02
+1,Deaths,49,North Macedonia,Physical violence by firearm,1,Number,2019,24.41,31.19,18.66
+1,Deaths,49,North Macedonia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,125,Colombia,Physical violence by firearm,3,Rate,2019,26.36,33.96,20.64
+1,Deaths,128,Guatemala,Physical violence by firearm,1,Number,2019,5165.44,6420.49,4050.68
+1,Deaths,128,Guatemala,Physical violence by firearm,2,Percent,2019,0.05,0.06,0.05
+1,Deaths,176,Comoros,Physical violence by firearm,3,Rate,2019,2.99,4.56,1.63
+1,Deaths,161,Bangladesh,Physical violence by firearm,1,Number,2019,1234.60,1833.38,915.12
+1,Deaths,161,Bangladesh,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,170,Congo,Physical violence by firearm,3,Rate,2019,0.82,1.60,0.47
+1,Deaths,112,Grenada,Physical violence by firearm,1,Number,2019,0.74,0.88,0.60
+1,Deaths,112,Grenada,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,320,Cook Islands,Physical violence by firearm,3,Rate,2019,0.17,0.26,0.10
+1,Deaths,81,Germany,Physical violence by firearm,1,Number,2019,83.82,89.49,78.63
+1,Deaths,81,Germany,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,126,Costa Rica,Physical violence by firearm,3,Rate,2019,7.52,9.53,5.68
+1,Deaths,37,Kyrgyzstan,Physical violence by firearm,1,Number,2019,26.45,31.02,22.52
+1,Deaths,37,Kyrgyzstan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,46,Croatia,Physical violence by firearm,3,Rate,2019,0.37,0.47,0.29
+1,Deaths,413,Tokelau,Physical violence by firearm,1,Number,2019,0.01,0.01,0.00
+1,Deaths,413,Tokelau,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,109,Cuba,Physical violence by firearm,3,Rate,2019,0.28,0.35,0.22
+1,Deaths,131,Nicaragua,Physical violence by firearm,1,Number,2019,187.06,257.93,138.62
+1,Deaths,131,Nicaragua,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.01
+1,Deaths,77,Cyprus,Physical violence by firearm,3,Rate,2019,0.63,0.79,0.50
+1,Deaths,522,Sudan,Physical violence by firearm,1,Number,2019,206.89,319.59,110.42
+1,Deaths,522,Sudan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,47,Czechia,Physical violence by firearm,3,Rate,2019,0.16,0.20,0.13
+1,Deaths,208,Guinea,Physical violence by firearm,1,Number,2019,282.69,402.05,194.07
+1,Deaths,208,Guinea,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,7,Democratic People's Republic of Korea,Physical violence by firearm,3,Rate,2019,0.14,0.21,0.08
+1,Deaths,66,Brunei Darussalam,Physical violence by firearm,1,Number,2019,0.36,0.46,0.26
+1,Deaths,66,Brunei Darussalam,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,171,Democratic Republic of the Congo,Physical violence by firearm,3,Rate,2019,0.44,0.79,0.25
+1,Deaths,176,Comoros,Physical violence by firearm,1,Number,2019,21.37,32.55,11.66
+1,Deaths,176,Comoros,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,78,Denmark,Physical violence by firearm,3,Rate,2019,0.14,0.16,0.13
+1,Deaths,113,Guyana,Physical violence by firearm,1,Number,2019,84.31,107.07,64.68
+1,Deaths,113,Guyana,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.01
+1,Deaths,177,Djibouti,Physical violence by firearm,3,Rate,2019,3.16,4.90,1.81
+1,Deaths,305,Bermuda,Physical violence by firearm,1,Number,2019,0.91,1.10,0.74
+1,Deaths,305,Bermuda,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,110,Dominica,Physical violence by firearm,3,Rate,2019,3.59,4.78,2.50
+1,Deaths,320,Cook Islands,Physical violence by firearm,1,Number,2019,0.03,0.05,0.02
+1,Deaths,320,Cook Islands,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,111,Dominican Republic,Physical violence by firearm,3,Rate,2019,11.84,16.12,8.30
+1,Deaths,18,Thailand,Physical violence by firearm,1,Number,2019,2351.31,3280.42,1597.56
+1,Deaths,18,Thailand,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,122,Ecuador,Physical violence by firearm,3,Rate,2019,5.62,7.37,4.22
+1,Deaths,145,Kuwait,Physical violence by firearm,1,Number,2019,14.85,18.72,11.53
+1,Deaths,145,Kuwait,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,141,Egypt,Physical violence by firearm,3,Rate,2019,0.37,0.53,0.25
+1,Deaths,35,Georgia,Physical violence by firearm,1,Number,2019,45.73,55.37,35.94
+1,Deaths,35,Georgia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,127,El Salvador,Physical violence by firearm,3,Rate,2019,36.78,48.07,27.63
+1,Deaths,50,Montenegro,Physical violence by firearm,1,Number,2019,6.67,8.43,5.25
+1,Deaths,50,Montenegro,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,172,Equatorial Guinea,Physical violence by firearm,3,Rate,2019,0.62,1.29,0.28
+1,Deaths,194,Lesotho,Physical violence by firearm,1,Number,2019,115.93,179.79,71.87
+1,Deaths,194,Lesotho,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,178,Eritrea,Physical violence by firearm,3,Rate,2019,3.60,5.59,2.20
+1,Deaths,6,China,Physical violence by firearm,1,Number,2019,333.97,406.01,275.54
+1,Deaths,6,China,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,58,Estonia,Physical violence by firearm,3,Rate,2019,0.28,0.35,0.21
+1,Deaths,177,Djibouti,Physical violence by firearm,1,Number,2019,37.96,58.91,21.79
+1,Deaths,177,Djibouti,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,197,Eswatini,Physical violence by firearm,3,Rate,2019,3.76,5.94,2.18
+1,Deaths,67,Japan,Physical violence by firearm,1,Number,2019,27.291,29.311,25.286
+1,Deaths,67,Japan,Physical violence by firearm,2,Percent,2019,0.000,0.000,0.000
+1,Deaths,179,Ethiopia,Physical violence by firearm,3,Rate,2019,2.13,2.72,1.60
+1,Deaths,129,Honduras,Physical violence by firearm,1,Number,2019,1977.52,2850.04,1299.30
+1,Deaths,129,Honduras,Physical violence by firearm,2,Percent,2019,0.04,0.05,0.03
+1,Deaths,22,Fiji,Physical violence by firearm,3,Rate,2019,0.15,0.21,0.11
+1,Deaths,146,Lebanon,Physical violence by firearm,1,Number,2019,69.71,128.78,41.16
+1,Deaths,146,Lebanon,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,79,Finland,Physical violence by firearm,3,Rate,2019,0.22,0.24,0.20
+1,Deaths,162,Bhutan,Physical violence by firearm,1,Number,2019,0.83,1.66,0.35
+1,Deaths,162,Bhutan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,80,France,Physical violence by firearm,3,Rate,2019,0.34,0.37,0.31
+1,Deaths,193,Botswana,Physical violence by firearm,1,Number,2019,87.92,147.00,47.21
+1,Deaths,193,Botswana,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,173,Gabon,Physical violence by firearm,3,Rate,2019,0.78,1.58,0.39
+1,Deaths,98,Chile,Physical violence by firearm,1,Number,2019,345.35,376.63,314.71
+1,Deaths,98,Chile,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,206,Gambia,Physical violence by firearm,3,Rate,2019,0.22,0.31,0.14
+1,Deaths,82,Greece,Physical violence by firearm,1,Number,2019,40.69,44.23,37.71
+1,Deaths,82,Greece,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,35,Georgia,Physical violence by firearm,3,Rate,2019,1.25,1.51,0.98
+1,Deaths,416,Tuvalu,Physical violence by firearm,1,Number,2019,0.13,0.20,0.08
+1,Deaths,416,Tuvalu,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,81,Germany,Physical violence by firearm,3,Rate,2019,0.10,0.11,0.09
+1,Deaths,99,Uruguay,Physical violence by firearm,1,Number,2019,139.79,152.68,127.08
+1,Deaths,99,Uruguay,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,207,Ghana,Physical violence by firearm,3,Rate,2019,0.73,0.99,0.48
+1,Deaths,209,Guinea-Bissau,Physical violence by firearm,1,Number,2019,54.92,75.48,38.29
+1,Deaths,209,Guinea-Bissau,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,82,Greece,Physical violence by firearm,3,Rate,2019,0.39,0.43,0.36
+1,Deaths,36,Kazakhstan,Physical violence by firearm,1,Number,2019,106.79,127.39,89.27
+1,Deaths,36,Kazakhstan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,349,Greenland,Physical violence by firearm,3,Rate,2019,2.18,2.89,1.61
+1,Deaths,114,Haiti,Physical violence by firearm,1,Number,2019,1267.72,2036.41,238.24
+1,Deaths,114,Haiti,Physical violence by firearm,2,Percent,2019,0.01,0.02,0.00
+1,Deaths,112,Grenada,Physical violence by firearm,3,Rate,2019,0.72,0.85,0.58
+1,Deaths,19,Timor-Leste,Physical violence by firearm,1,Number,2019,11.07,18.59,4.54
+1,Deaths,19,Timor-Leste,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,351,Guam,Physical violence by firearm,3,Rate,2019,0.57,0.77,0.41
+1,Deaths,68,Republic of Korea,Physical violence by firearm,1,Number,2019,13.10,15.84,10.34
+1,Deaths,68,Republic of Korea,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,128,Guatemala,Physical violence by firearm,3,Rate,2019,29.06,36.12,22.79
+1,Deaths,178,Eritrea,Physical violence by firearm,1,Number,2019,241.49,375.25,147.79
+1,Deaths,178,Eritrea,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.00
+1,Deaths,208,Guinea,Physical violence by firearm,3,Rate,2019,2.24,3.18,1.53
+1,Deaths,130,Mexico,Physical violence by firearm,1,Number,2019,20508.73,24129.12,17340.34
+1,Deaths,130,Mexico,Physical violence by firearm,2,Percent,2019,0.03,0.03,0.03
+1,Deaths,209,Guinea-Bissau,Physical violence by firearm,3,Rate,2019,2.89,3.97,2.01
+1,Deaths,40,Turkmenistan,Physical violence by firearm,1,Number,2019,32.56,44.35,18.98
+1,Deaths,40,Turkmenistan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,113,Guyana,Physical violence by firearm,3,Rate,2019,10.94,13.89,8.39
+1,Deaths,51,Poland,Physical violence by firearm,1,Number,2019,35.38,42.56,28.86
+1,Deaths,51,Poland,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,114,Haiti,Physical violence by firearm,3,Rate,2019,10.22,16.42,1.92
+1,Deaths,211,Mali,Physical violence by firearm,1,Number,2019,840.51,1150.36,573.26
+1,Deaths,211,Mali,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,129,Honduras,Physical violence by firearm,3,Rate,2019,20.15,29.04,13.24
+1,Deaths,210,Liberia,Physical violence by firearm,1,Number,2019,39.57,56.65,24.98
+1,Deaths,210,Liberia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,48,Hungary,Physical violence by firearm,3,Rate,2019,0.07,0.09,0.06
+1,Deaths,195,Namibia,Physical violence by firearm,1,Number,2019,80.63,125.82,46.16
+1,Deaths,195,Namibia,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,83,Iceland,Physical violence by firearm,3,Rate,2019,0.06,0.07,0.05
+1,Deaths,147,Libya,Physical violence by firearm,1,Number,2019,46.12,71.30,31.31
+1,Deaths,147,Libya,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,163,India,Physical violence by firearm,3,Rate,2019,0.57,0.73,0.45
+1,Deaths,20,Viet Nam,Physical violence by firearm,1,Number,2019,128.41,375.66,47.84
+1,Deaths,20,Viet Nam,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,11,Indonesia,Physical violence by firearm,3,Rate,2019,0.06,0.08,0.05
+1,Deaths,422,United States Virgin Islands,Physical violence by firearm,1,Number,2019,20.18,26.81,15.21
+1,Deaths,422,United States Virgin Islands,Physical violence by firearm,2,Percent,2019,0.02,0.02,0.01
+1,Deaths,142,Iran (Islamic Republic of),Physical violence by firearm,3,Rate,2019,0.62,0.81,0.53
+1,Deaths,7,Democratic People's Republic of Korea,Physical violence by firearm,1,Number,2019,35.93,55.56,21.88
+1,Deaths,7,Democratic People's Republic of Korea,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,143,Iraq,Physical violence by firearm,3,Rate,2019,6.29,8.58,4.45
+1,Deaths,83,Iceland,Physical violence by firearm,1,Number,2019,0.21,0.23,0.19
+1,Deaths,83,Iceland,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,84,Ireland,Physical violence by firearm,3,Rate,2019,0.18,0.20,0.16
+1,Deaths,374,Niue,Physical violence by firearm,1,Number,2019,0.01,0.02,0.01
+1,Deaths,374,Niue,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,85,Israel,Physical violence by firearm,3,Rate,2019,1.02,1.11,0.93
+1,Deaths,163,India,Physical violence by firearm,1,Number,2019,7977.15,10100.76,6309.79
+1,Deaths,163,India,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,86,Italy,Physical violence by firearm,3,Rate,2019,0.37,0.40,0.35
+1,Deaths,84,Ireland,Physical violence by firearm,1,Number,2019,8.96,9.96,8.04
+1,Deaths,84,Ireland,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,115,Jamaica,Physical violence by firearm,3,Rate,2019,10.97,13.95,8.46
+1,Deaths,52,Romania,Physical violence by firearm,1,Number,2019,12.67,15.39,10.34
+1,Deaths,52,Romania,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,67,Japan,Physical violence by firearm,3,Rate,2019,0.021,0.023,0.020
+1,Deaths,116,Saint Lucia,Physical violence by firearm,1,Number,2019,17.39,20.33,14.53
+1,Deaths,116,Saint Lucia,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.01
+1,Deaths,144,Jordan,Physical violence by firearm,3,Rate,2019,1.52,1.93,1.17
+1,Deaths,164,Nepal,Physical violence by firearm,1,Number,2019,30.36,43.01,19.58
+1,Deaths,164,Nepal,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,36,Kazakhstan,Physical violence by firearm,3,Rate,2019,0.58,0.69,0.49
+1,Deaths,115,Jamaica,Physical violence by firearm,1,Number,2019,308.20,392.08,237.83
+1,Deaths,115,Jamaica,Physical violence by firearm,2,Percent,2019,0.02,0.02,0.01
+1,Deaths,180,Kenya,Physical violence by firearm,3,Rate,2019,3.05,4.11,2.11
+1,Deaths,8,Taiwan (Province of China),Physical violence by firearm,1,Number,2019,30.48,39.05,23.65
+1,Deaths,8,Taiwan (Province of China),Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,23,Kiribati,Physical violence by firearm,3,Rate,2019,0.38,0.58,0.16
+1,Deaths,351,Guam,Physical violence by firearm,1,Number,2019,0.98,1.31,0.70
+1,Deaths,351,Guam,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,145,Kuwait,Physical violence by firearm,3,Rate,2019,0.34,0.42,0.26
+1,Deaths,69,Singapore,Physical violence by firearm,1,Number,2019,0.84,0.92,0.77
+1,Deaths,69,Singapore,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,37,Kyrgyzstan,Physical violence by firearm,3,Rate,2019,0.40,0.47,0.34
+1,Deaths,179,Ethiopia,Physical violence by firearm,1,Number,2019,2293.33,2929.58,1718.84
+1,Deaths,179,Ethiopia,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,12,Lao People's Democratic Republic,Physical violence by firearm,3,Rate,2019,2.45,3.89,1.40
+1,Deaths,197,Eswatini,Physical violence by firearm,1,Number,2019,42.93,67.87,24.90
+1,Deaths,197,Eswatini,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,59,Latvia,Physical violence by firearm,3,Rate,2019,0.43,0.54,0.35
+1,Deaths,38,Mongolia,Physical violence by firearm,1,Number,2019,7.63,15.54,4.23
+1,Deaths,38,Mongolia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,146,Lebanon,Physical violence by firearm,3,Rate,2019,1.35,2.49,0.79
+1,Deaths,53,Serbia,Physical violence by firearm,1,Number,2019,78.80,101.93,60.49
+1,Deaths,53,Serbia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,194,Lesotho,Physical violence by firearm,3,Rate,2019,5.54,8.60,3.44
+1,Deaths,435,South Sudan,Physical violence by firearm,1,Number,2019,202.28,345.29,107.99
+1,Deaths,435,South Sudan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,210,Liberia,Physical violence by firearm,3,Rate,2019,0.83,1.18,0.52
+1,Deaths,165,Pakistan,Physical violence by firearm,1,Number,2019,1721.23,2777.45,994.68
+1,Deaths,165,Pakistan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,147,Libya,Physical violence by firearm,3,Rate,2019,0.68,1.06,0.46
+1,Deaths,132,Panama,Physical violence by firearm,1,Number,2019,449.16,576.02,338.22
+1,Deaths,132,Panama,Physical violence by firearm,2,Percent,2019,0.02,0.02,0.02
+1,Deaths,60,Lithuania,Physical violence by firearm,3,Rate,2019,0.30,0.37,0.25
+1,Deaths,196,South Africa,Physical violence by firearm,1,Number,2019,2937.46,3867.62,2370.50
+1,Deaths,196,South Africa,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.00
+1,Deaths,87,Luxembourg,Physical violence by firearm,3,Rate,2019,0.23,0.27,0.20
+1,Deaths,180,Kenya,Physical violence by firearm,1,Number,2019,1533.22,2064.96,1058.24
+1,Deaths,180,Kenya,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.00
+1,Deaths,181,Madagascar,Physical violence by firearm,3,Rate,2019,0.59,0.84,0.39
+1,Deaths,71,Australia,Physical violence by firearm,1,Number,2019,45.44,49.19,42.03
+1,Deaths,71,Australia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,182,Malawi,Physical violence by firearm,3,Rate,2019,0.59,0.97,0.35
+1,Deaths,148,Morocco,Physical violence by firearm,1,Number,2019,171.32,329.97,85.75
+1,Deaths,148,Morocco,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,13,Malaysia,Physical violence by firearm,3,Rate,2019,0.39,0.58,0.26
+1,Deaths,101,Canada,Physical violence by firearm,1,Number,2019,170.06,187.11,154.26
+1,Deaths,101,Canada,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,14,Maldives,Physical violence by firearm,3,Rate,2019,0.18,0.25,0.12
+1,Deaths,22,Fiji,Physical violence by firearm,1,Number,2019,1.38,1.92,0.98
+1,Deaths,22,Fiji,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,211,Mali,Physical violence by firearm,3,Rate,2019,3.83,5.25,2.62
+1,Deaths,149,Palestine,Physical violence by firearm,1,Number,2019,231.41,288.93,189.46
+1,Deaths,149,Palestine,Physical violence by firearm,2,Percent,2019,0.01,0.02,0.01
+1,Deaths,88,Malta,Physical violence by firearm,3,Rate,2019,0.48,0.53,0.42
+1,Deaths,85,Israel,Physical violence by firearm,1,Number,2019,94.52,103.30,86.69
+1,Deaths,85,Israel,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,24,Marshall Islands,Physical violence by firearm,3,Rate,2019,1.09,1.76,0.65
+1,Deaths,117,Saint Vincent and the Grenadines,Physical violence by firearm,1,Number,2019,10.67,12.43,8.94
+1,Deaths,117,Saint Vincent and the Grenadines,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.01
+1,Deaths,212,Mauritania,Physical violence by firearm,3,Rate,2019,1.57,2.42,0.85
+1,Deaths,102,United States of America,Physical violence by firearm,1,Number,2019,13001.02,13426.02,12119.39
+1,Deaths,102,United States of America,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,183,Mauritius,Physical violence by firearm,3,Rate,2019,0.21,0.26,0.16
+1,Deaths,212,Mauritania,Physical violence by firearm,1,Number,2019,62.85,97.04,34.24
+1,Deaths,212,Mauritania,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,130,Mexico,Physical violence by firearm,3,Rate,2019,16.41,19.31,13.88
+1,Deaths,23,Kiribati,Physical violence by firearm,1,Number,2019,0.45,0.69,0.19
+1,Deaths,23,Kiribati,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,25,Micronesia (Federated States of),Physical violence by firearm,3,Rate,2019,1.22,1.96,0.62
+1,Deaths,133,Venezuela (Bolivarian Republic of),Physical violence by firearm,1,Number,2019,9338.09,12035.26,7142.27
+1,Deaths,133,Venezuela (Bolivarian Republic of),Physical violence by firearm,2,Percent,2019,0.05,0.06,0.05
+1,Deaths,367,Monaco,Physical violence by firearm,3,Rate,2019,0.09,0.12,0.06
+1,Deaths,10,Cambodia,Physical violence by firearm,1,Number,2019,163.03,258.08,107.76
+1,Deaths,10,Cambodia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,38,Mongolia,Physical violence by firearm,3,Rate,2019,0.23,0.46,0.12
+1,Deaths,181,Madagascar,Physical violence by firearm,1,Number,2019,157.67,224.30,103.47
+1,Deaths,181,Madagascar,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,50,Montenegro,Physical violence by firearm,3,Rate,2019,1.07,1.36,0.85
+1,Deaths,39,Tajikistan,Physical violence by firearm,1,Number,2019,16.81,24.66,11.95
+1,Deaths,39,Tajikistan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,148,Morocco,Physical violence by firearm,3,Rate,2019,0.48,0.92,0.24
+1,Deaths,198,Zimbabwe,Physical violence by firearm,1,Number,2019,118.91,184.32,70.29
+1,Deaths,198,Zimbabwe,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,184,Mozambique,Physical violence by firearm,3,Rate,2019,2.01,2.82,1.35
+1,Deaths,214,Nigeria,Physical violence by firearm,1,Number,2019,3482.49,5047.11,2117.83
+1,Deaths,214,Nigeria,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,15,Myanmar,Physical violence by firearm,3,Rate,2019,0.39,0.58,0.26
+1,Deaths,367,Monaco,Physical violence by firearm,1,Number,2019,0.03,0.05,0.02
+1,Deaths,367,Monaco,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,195,Namibia,Physical violence by firearm,3,Rate,2019,3.36,5.24,1.92
+1,Deaths,54,Slovakia,Physical violence by firearm,1,Number,2019,15.19,20.71,11.08
+1,Deaths,54,Slovakia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,369,Nauru,Physical violence by firearm,3,Rate,2019,1.12,2.19,0.63
+1,Deaths,11,Indonesia,Physical violence by firearm,1,Number,2019,153.39,210.19,123.86
+1,Deaths,11,Indonesia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,164,Nepal,Physical violence by firearm,3,Rate,2019,0.10,0.14,0.06
+1,Deaths,86,Italy,Physical violence by firearm,1,Number,2019,224.66,242.86,211.33
+1,Deaths,86,Italy,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,89,Netherlands,Physical violence by firearm,3,Rate,2019,0.22,0.24,0.21
+1,Deaths,213,Niger,Physical violence by firearm,1,Number,2019,528.38,829.95,253.48
+1,Deaths,213,Niger,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,72,New Zealand,Physical violence by firearm,3,Rate,2019,0.15,0.16,0.14
+1,Deaths,118,Suriname,Physical violence by firearm,1,Number,2019,16.93,22.06,12.72
+1,Deaths,118,Suriname,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,131,Nicaragua,Physical violence by firearm,3,Rate,2019,2.87,3.96,2.13
+1,Deaths,72,New Zealand,Physical violence by firearm,1,Number,2019,6.67,7.11,6.29
+1,Deaths,72,New Zealand,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,213,Niger,Physical violence by firearm,3,Rate,2019,2.27,3.56,1.09
+1,Deaths,150,Oman,Physical violence by firearm,1,Number,2019,1.24,1.84,0.76
+1,Deaths,150,Oman,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,214,Nigeria,Physical violence by firearm,3,Rate,2019,1.62,2.35,0.99
+1,Deaths,24,Marshall Islands,Physical violence by firearm,1,Number,2019,0.62,1.00,0.37
+1,Deaths,24,Marshall Islands,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,374,Niue,Physical violence by firearm,3,Rate,2019,0.64,1.04,0.37
+1,Deaths,182,Malawi,Physical violence by firearm,1,Number,2019,109.20,178.95,65.21
+1,Deaths,182,Malawi,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,49,North Macedonia,Physical violence by firearm,3,Rate,2019,1.13,1.45,0.87
+1,Deaths,87,Luxembourg,Physical violence by firearm,1,Number,2019,1.45,1.65,1.26
+1,Deaths,87,Luxembourg,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,376,Northern Mariana Islands,Physical violence by firearm,3,Rate,2019,1.02,1.47,0.68
+1,Deaths,168,Angola,Physical violence by firearm,1,Number,2019,160.74,285.59,94.40
+1,Deaths,168,Angola,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,90,Norway,Physical violence by firearm,3,Rate,2019,0.07,0.08,0.07
+1,Deaths,135,Brazil,Physical violence by firearm,1,Number,2019,47510.17,49646.48,45629.89
+1,Deaths,135,Brazil,Physical violence by firearm,2,Percent,2019,0.03,0.03,0.03
+1,Deaths,150,Oman,Physical violence by firearm,3,Rate,2019,0.03,0.04,0.02
+1,Deaths,55,Slovenia,Physical violence by firearm,1,Number,2019,4.05,5.31,3.11
+1,Deaths,55,Slovenia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,165,Pakistan,Physical violence by firearm,3,Rate,2019,0.77,1.24,0.44
+1,Deaths,106,Bahamas,Physical violence by firearm,1,Number,2019,81.13,100.26,65.94
+1,Deaths,106,Bahamas,Physical violence by firearm,2,Percent,2019,0.03,0.03,0.03
+1,Deaths,380,Palau,Physical violence by firearm,3,Rate,2019,0.86,1.26,0.56
+1,Deaths,136,Paraguay,Physical violence by firearm,1,Number,2019,513.06,685.31,372.60
+1,Deaths,136,Paraguay,Physical violence by firearm,2,Percent,2019,0.02,0.02,0.01
+1,Deaths,149,Palestine,Physical violence by firearm,3,Rate,2019,4.67,5.83,3.82
+1,Deaths,151,Qatar,Physical violence by firearm,1,Number,2019,3.95,6.33,1.96
+1,Deaths,151,Qatar,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,132,Panama,Physical violence by firearm,3,Rate,2019,10.80,13.85,8.13
+1,Deaths,74,Andorra,Physical violence by firearm,1,Number,2019,0.08,0.11,0.05
+1,Deaths,74,Andorra,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,26,Papua New Guinea,Physical violence by firearm,3,Rate,2019,0.98,1.45,0.29
+1,Deaths,12,Lao People's Democratic Republic,Physical violence by firearm,1,Number,2019,175.31,278.52,100.30
+1,Deaths,12,Lao People's Democratic Republic,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,136,Paraguay,Physical violence by firearm,3,Rate,2019,7.40,9.89,5.38
+1,Deaths,200,Benin,Physical violence by firearm,1,Number,2019,275.19,397.72,183.29
+1,Deaths,200,Benin,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,123,Peru,Physical violence by firearm,3,Rate,2019,1.50,2.08,1.02
+1,Deaths,369,Nauru,Physical violence by firearm,1,Number,2019,0.12,0.23,0.07
+1,Deaths,369,Nauru,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,16,Philippines,Physical violence by firearm,3,Rate,2019,8.05,10.27,6.25
+1,Deaths,105,Antigua and Barbuda,Physical violence by firearm,1,Number,2019,1.80,2.13,1.50
+1,Deaths,105,Antigua and Barbuda,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,51,Poland,Physical violence by firearm,3,Rate,2019,0.09,0.11,0.08
+1,Deaths,88,Malta,Physical violence by firearm,1,Number,2019,2.10,2.34,1.86
+1,Deaths,88,Malta,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,91,Portugal,Physical violence by firearm,3,Rate,2019,0.44,0.48,0.41
+1,Deaths,152,Saudi Arabia,Physical violence by firearm,1,Number,2019,79.93,155.59,48.80
+1,Deaths,152,Saudi Arabia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,385,Puerto Rico,Physical violence by firearm,3,Rate,2019,18.14,22.49,14.53
+1,Deaths,215,Sao Tome and Principe,Physical violence by firearm,1,Number,2019,3.18,4.70,2.06
+1,Deaths,215,Sao Tome and Principe,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,151,Qatar,Physical violence by firearm,3,Rate,2019,0.14,0.22,0.07
+1,Deaths,119,Trinidad and Tobago,Physical violence by firearm,1,Number,2019,216.77,282.44,164.31
+1,Deaths,119,Trinidad and Tobago,Physical violence by firearm,2,Percent,2019,0.02,0.02,0.02
+1,Deaths,68,Republic of Korea,Physical violence by firearm,3,Rate,2019,0.02,0.03,0.02
+1,Deaths,184,Mozambique,Physical violence by firearm,1,Number,2019,594.92,833.33,397.16
+1,Deaths,184,Mozambique,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,61,Republic of Moldova,Physical violence by firearm,3,Rate,2019,0.31,0.36,0.27
+1,Deaths,43,Albania,Physical violence by firearm,1,Number,2019,39.91,53.16,28.56
+1,Deaths,43,Albania,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,52,Romania,Physical violence by firearm,3,Rate,2019,0.07,0.08,0.05
+1,Deaths,121,Bolivia (Plurinational State of),Physical violence by firearm,1,Number,2019,305.53,420.20,197.07
+1,Deaths,121,Bolivia (Plurinational State of),Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,62,Russian Federation,Physical violence by firearm,3,Rate,2019,0.78,0.93,0.65
+1,Deaths,123,Peru,Physical violence by firearm,1,Number,2019,510.63,708.46,346.16
+1,Deaths,123,Peru,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,185,Rwanda,Physical violence by firearm,3,Rate,2019,1.06,1.54,0.68
+1,Deaths,169,Central African Republic,Physical violence by firearm,1,Number,2019,59.43,128.88,35.41
+1,Deaths,169,Central African Republic,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,393,Saint Kitts and Nevis,Physical violence by firearm,3,Rate,2019,12.08,17.15,6.45
+1,Deaths,27,Samoa,Physical violence by firearm,1,Number,2019,1.82,2.93,1.04
+1,Deaths,27,Samoa,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,116,Saint Lucia,Physical violence by firearm,3,Rate,2019,9.96,11.64,8.32
+1,Deaths,41,Uzbekistan,Physical violence by firearm,1,Number,2019,28.71,35.12,22.97
+1,Deaths,41,Uzbekistan,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,117,Saint Vincent and the Grenadines,Physical violence by firearm,3,Rate,2019,9.43,10.99,7.90
+1,Deaths,170,Congo,Physical violence by firearm,1,Number,2019,43.22,84.19,24.94
+1,Deaths,170,Congo,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,27,Samoa,Physical violence by firearm,3,Rate,2019,0.86,1.39,0.49
+1,Deaths,183,Mauritius,Physical violence by firearm,1,Number,2019,2.64,3.29,2.10
+1,Deaths,183,Mauritius,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,396,San Marino,Physical violence by firearm,3,Rate,2019,0.08,0.13,0.05
+1,Deaths,153,Syrian Arab Republic,Physical violence by firearm,1,Number,2019,145.58,209.34,101.38
+1,Deaths,153,Syrian Arab Republic,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,215,Sao Tome and Principe,Physical violence by firearm,3,Rate,2019,1.55,2.29,1.00
+1,Deaths,89,Netherlands,Physical violence by firearm,1,Number,2019,38.28,41.73,35.30
+1,Deaths,89,Netherlands,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,152,Saudi Arabia,Physical violence by firearm,3,Rate,2019,0.22,0.44,0.14
+1,Deaths,25,Micronesia (Federated States of),Physical violence by firearm,1,Number,2019,1.24,2.00,0.64
+1,Deaths,25,Micronesia (Federated States of),Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,216,Senegal,Physical violence by firearm,3,Rate,2019,0.42,0.61,0.25
+1,Deaths,90,Norway,Physical violence by firearm,1,Number,2019,3.94,4.28,3.70
+1,Deaths,90,Norway,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,53,Serbia,Physical violence by firearm,3,Rate,2019,0.90,1.17,0.69
+1,Deaths,202,Cameroon,Physical violence by firearm,1,Number,2019,288.44,422.93,179.16
+1,Deaths,202,Cameroon,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,186,Seychelles,Physical violence by firearm,3,Rate,2019,1.89,3.05,1.25
+1,Deaths,217,Sierra Leone,Physical violence by firearm,1,Number,2019,42.91,64.25,27.27
+1,Deaths,217,Sierra Leone,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,217,Sierra Leone,Physical violence by firearm,3,Rate,2019,0.52,0.78,0.33
+1,Deaths,201,Burkina Faso,Physical violence by firearm,1,Number,2019,682.22,910.07,487.96
+1,Deaths,201,Burkina Faso,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,69,Singapore,Physical violence by firearm,3,Rate,2019,0.01,0.02,0.01
+1,Deaths,57,Belarus,Physical violence by firearm,1,Number,2019,45.32,59.65,33.58
+1,Deaths,57,Belarus,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,54,Slovakia,Physical violence by firearm,3,Rate,2019,0.28,0.38,0.20
+1,Deaths,139,Algeria,Physical violence by firearm,1,Number,2019,135.19,206.86,93.19
+1,Deaths,139,Algeria,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,55,Slovenia,Physical violence by firearm,3,Rate,2019,0.20,0.26,0.15
+1,Deaths,171,Democratic Republic of the Congo,Physical violence by firearm,1,Number,2019,381.60,688.81,222.72
+1,Deaths,171,Democratic Republic of the Congo,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,28,Solomon Islands,Physical violence by firearm,3,Rate,2019,1.77,2.46,1.22
+1,Deaths,13,Malaysia,Physical violence by firearm,1,Number,2019,121.68,181.56,82.47
+1,Deaths,13,Malaysia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,187,Somalia,Physical violence by firearm,3,Rate,2019,3.85,6.93,2.03
+1,Deaths,154,Tunisia,Physical violence by firearm,1,Number,2019,24.19,41.86,15.33
+1,Deaths,154,Tunisia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,196,South Africa,Physical violence by firearm,3,Rate,2019,5.28,6.96,4.26
+1,Deaths,109,Cuba,Physical violence by firearm,1,Number,2019,31.57,39.76,24.77
+1,Deaths,109,Cuba,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,435,South Sudan,Physical violence by firearm,3,Rate,2019,2.18,3.72,1.16
+1,Deaths,75,Austria,Physical violence by firearm,1,Number,2019,13.38,14.47,12.37
+1,Deaths,75,Austria,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,92,Spain,Physical violence by firearm,3,Rate,2019,0.15,0.16,0.14
+1,Deaths,185,Rwanda,Physical violence by firearm,1,Number,2019,134.43,195.49,86.91
+1,Deaths,185,Rwanda,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,17,Sri Lanka,Physical violence by firearm,3,Rate,2019,1.02,1.44,0.71
+1,Deaths,216,Senegal,Physical violence by firearm,1,Number,2019,63.45,92.66,37.69
+1,Deaths,216,Senegal,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,522,Sudan,Physical violence by firearm,3,Rate,2019,0.51,0.78,0.27
+1,Deaths,26,Papua New Guinea,Physical violence by firearm,1,Number,2019,97.02,142.89,28.45
+1,Deaths,26,Papua New Guinea,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,118,Suriname,Physical violence by firearm,3,Rate,2019,2.94,3.83,2.21
+1,Deaths,376,Northern Mariana Islands,Physical violence by firearm,1,Number,2019,0.43,0.62,0.29
+1,Deaths,376,Northern Mariana Islands,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,93,Sweden,Physical violence by firearm,3,Rate,2019,0.24,0.26,0.22
+1,Deaths,58,Estonia,Physical violence by firearm,1,Number,2019,3.62,4.64,2.77
+1,Deaths,58,Estonia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,94,Switzerland,Physical violence by firearm,3,Rate,2019,0.21,0.23,0.19
+1,Deaths,186,Seychelles,Physical violence by firearm,1,Number,2019,1.94,3.12,1.28
+1,Deaths,186,Seychelles,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,153,Syrian Arab Republic,Physical violence by firearm,3,Rate,2019,1.00,1.44,0.70
+1,Deaths,140,Bahrain,Physical violence by firearm,1,Number,2019,6.22,9.62,4.05
+1,Deaths,140,Bahrain,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,8,Taiwan (Province of China),Physical violence by firearm,3,Rate,2019,0.13,0.17,0.10
+1,Deaths,91,Portugal,Physical violence by firearm,1,Number,2019,47.31,50.67,43.90
+1,Deaths,91,Portugal,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,39,Tajikistan,Physical violence by firearm,3,Rate,2019,0.18,0.26,0.13
+1,Deaths,380,Palau,Physical violence by firearm,1,Number,2019,0.15,0.23,0.10
+1,Deaths,380,Palau,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,18,Thailand,Physical violence by firearm,3,Rate,2019,3.35,4.68,2.28
+1,Deaths,45,Bulgaria,Physical violence by firearm,1,Number,2019,39.79,50.21,30.94
+1,Deaths,45,Bulgaria,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,19,Timor-Leste,Physical violence by firearm,3,Rate,2019,0.83,1.39,0.34
+1,Deaths,122,Ecuador,Physical violence by firearm,1,Number,2019,989.15,1296.09,743.03
+1,Deaths,122,Ecuador,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.01
+1,Deaths,218,Togo,Physical violence by firearm,3,Rate,2019,2.22,3.19,1.46
+1,Deaths,107,Barbados,Physical violence by firearm,1,Number,2019,12.46,15.17,10.30
+1,Deaths,107,Barbados,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,413,Tokelau,Physical violence by firearm,3,Rate,2019,0.41,0.75,0.17
+1,Deaths,14,Maldives,Physical violence by firearm,1,Number,2019,0.88,1.23,0.60
+1,Deaths,14,Maldives,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,29,Tonga,Physical violence by firearm,3,Rate,2019,0.20,0.32,0.12
+1,Deaths,187,Somalia,Physical violence by firearm,1,Number,2019,782.82,1410.37,412.49
+1,Deaths,187,Somalia,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,119,Trinidad and Tobago,Physical violence by firearm,3,Rate,2019,15.62,20.36,11.84
+1,Deaths,77,Cyprus,Physical violence by firearm,1,Number,2019,8.25,10.35,6.63
+1,Deaths,77,Cyprus,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,154,Tunisia,Physical violence by firearm,3,Rate,2019,0.21,0.36,0.13
+1,Deaths,203,Cabo Verde,Physical violence by firearm,1,Number,2019,34.41,48.03,24.88
+1,Deaths,203,Cabo Verde,Physical violence by firearm,2,Percent,2019,0.01,0.01,0.01
+1,Deaths,155,Turkey,Physical violence by firearm,3,Rate,2019,1.19,1.58,0.93
+1,Deaths,44,Bosnia and Herzegovina,Physical violence by firearm,1,Number,2019,9.03,12.72,6.56
+1,Deaths,44,Bosnia and Herzegovina,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,40,Turkmenistan,Physical violence by firearm,3,Rate,2019,0.64,0.87,0.37
+1,Deaths,218,Togo,Physical violence by firearm,1,Number,2019,176.05,252.68,115.45
+1,Deaths,218,Togo,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,416,Tuvalu,Physical violence by firearm,3,Rate,2019,1.10,1.70,0.66
+1,Deaths,59,Latvia,Physical violence by firearm,1,Number,2019,8.24,10.34,6.61
+1,Deaths,59,Latvia,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,190,Uganda,Physical violence by firearm,3,Rate,2019,1.94,2.80,1.29
+1,Deaths,155,Turkey,Physical violence by firearm,1,Number,2019,967.20,1282.28,756.52
+1,Deaths,155,Turkey,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,63,Ukraine,Physical violence by firearm,3,Rate,2019,0.66,0.81,0.50
+1,Deaths,76,Belgium,Physical violence by firearm,1,Number,2019,40.77,44.02,37.75
+1,Deaths,76,Belgium,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,156,United Arab Emirates,Physical violence by firearm,3,Rate,2019,0.41,0.88,0.15
+1,Deaths,172,Equatorial Guinea,Physical violence by firearm,1,Number,2019,8.84,18.36,4.05
+1,Deaths,172,Equatorial Guinea,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,95,United Kingdom,Physical violence by firearm,3,Rate,2019,0.04,0.04,0.04
+1,Deaths,156,United Arab Emirates,Physical violence by firearm,1,Number,2019,38.34,80.88,13.54
+1,Deaths,156,United Arab Emirates,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,189,United Republic of Tanzania,Physical violence by firearm,3,Rate,2019,2.04,2.86,1.44
+1,Deaths,108,Belize,Physical violence by firearm,1,Number,2019,66.52,75.68,58.13
+1,Deaths,108,Belize,Physical violence by firearm,2,Percent,2019,0.03,0.04,0.03
+1,Deaths,102,United States of America,Physical violence by firearm,3,Rate,2019,3.96,4.09,3.70
+1,Deaths,92,Spain,Physical violence by firearm,1,Number,2019,69.69,74.76,64.91
+1,Deaths,92,Spain,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,422,United States Virgin Islands,Physical violence by firearm,3,Rate,2019,19.40,25.78,14.63
+1,Deaths,205,Côte d'Ivoire,Physical violence by firearm,1,Number,2019,706.93,1007.57,467.18
+1,Deaths,205,Côte d'Ivoire,Physical violence by firearm,2,Percent,2019,0.00,0.01,0.00
+1,Deaths,99,Uruguay,Physical violence by firearm,3,Rate,2019,4.07,4.44,3.70
+1,Deaths,60,Lithuania,Physical violence by firearm,1,Number,2019,8.50,10.39,6.90
+1,Deaths,60,Lithuania,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,41,Uzbekistan,Physical violence by firearm,3,Rate,2019,0.09,0.10,0.07
+1,Deaths,28,Solomon Islands,Physical violence by firearm,1,Number,2019,11.60,16.15,8.02
+1,Deaths,28,Solomon Islands,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,30,Vanuatu,Physical violence by firearm,3,Rate,2019,0.16,0.26,0.09
+1,Deaths,204,Chad,Physical violence by firearm,1,Number,2019,380.18,521.84,262.27
+1,Deaths,204,Chad,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,133,Venezuela (Bolivarian Republic of),Physical violence by firearm,3,Rate,2019,33.27,42.88,25.45
+1,Deaths,93,Sweden,Physical violence by firearm,1,Number,2019,24.36,26.64,22.42
+1,Deaths,93,Sweden,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,20,Viet Nam,Physical violence by firearm,3,Rate,2019,0.13,0.39,0.05
+1,Deaths,189,United Republic of Tanzania,Physical violence by firearm,1,Number,2019,1158.62,1623.37,814.48
+1,Deaths,189,United Republic of Tanzania,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,157,Yemen,Physical violence by firearm,3,Rate,2019,0.77,1.27,0.43
+1,Deaths,61,Republic of Moldova,Physical violence by firearm,1,Number,2019,11.51,13.24,9.94
+1,Deaths,61,Republic of Moldova,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,191,Zambia,Physical violence by firearm,3,Rate,2019,2.95,4.04,2.00
+1,Deaths,29,Tonga,Physical violence by firearm,1,Number,2019,0.21,0.32,0.12
+1,Deaths,29,Tonga,Physical violence by firearm,2,Percent,2019,0.00,0.00,0.00
+1,Deaths,198,Zimbabwe,Physical violence by firearm,3,Rate,2019,0.79,1.23,0.47

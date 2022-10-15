@@ -1,0 +1,16 @@
+name,gdp_decline,start,end,start_year,type,gdp_decline_pos
+Great Depression,-26.7,1929-08-01,1933-03-01,1929,Recessions,26.7
+Recession of 1937–1938,-18.2,1937-05-01,1938-06-01,1937,Recessions,18.2
+Recession of 1945,-12.7,1945-02-01,1945-10-01,1945,Recessions,12.7
+Recession of 1949,-1.7,1948-11-01,1949-10-01,1948,Recessions,1.7
+Recession of 1953,-2.6,1953-07-01,1954-05-01,1953,Recessions,2.6
+Recession of 1958,-3.7,1957-08-01,1958-04-01,1957,Recessions,3.7
+Recession of 1960–61,-1.6,1960-04-01,1961-02-01,1960,Recessions,1.6
+Recession of 1969–70,-0.6,1969-12-01,1970-11-01,1969,Recessions,0.6
+1973–75 recession,-3.2,1973-11-01,1975-03-01,1973,Recessions,3.2
+1980 recession,-2.2,1980-01-01,1980-07-01,1980,Recessions,2.2
+1981–1982 recession,-2.7,1981-07-01,1982-11-01,1981,Recessions,2.7
+Early 1990s recession,-1.4,1990-07-01,1991-03-01,1990,Recessions,1.4
+Early 2000s recession,-0.3,2001-03-01,2001-11-01,2001,Recessions,0.3
+Great Recession,-5.1,2007-12-01,2009-06-01,2007,Recessions,5.1
+COVID-19 recession,-19.2,2020-02-01,2020-04-01,2020,Recessions,19.2

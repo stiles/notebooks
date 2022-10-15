@@ -1,0 +1,236 @@
+date,president,word
+1790-01-08,George Washington,render
+1790-12-08,George Washington,militia
+1791-10-25,George Washington,provision
+1792-11-06,George Washington,among
+1793-12-03,George Washington,states
+1794-11-19,George Washington,laws
+1795-12-08,George Washington,indians
+1796-12-07,George Washington,appointed
+1797-11-22,John Adams,united
+1798-12-08,John Adams,france
+1799-12-03,John Adams,gentlemen
+1800-11-11,John Adams,gentlemen
+1801-12-08,Thomas Jefferson,laid
+1802-12-15,Thomas Jefferson,vessels
+1803-10-17,Thomas Jefferson,millions
+1804-11-08,Thomas Jefferson,whether
+1805-12-03,Thomas Jefferson,millions
+1806-12-02,Thomas Jefferson,necessary
+1807-10-27,Thomas Jefferson,shall
+1808-11-08,Thomas Jefferson,millions
+1809-11-29,James Madison,minister
+1810-12-05,James Madison,neutral
+1811-11-05,James Madison,british
+1812-11-04,James Madison,war
+1813-12-07,James Madison,war
+1814-09-20,James Madison,enemy
+1815-12-05,James Madison,public
+1816-12-03,James Madison,ports
+1817-12-12,James Monroe,public
+1818-11-16,James Monroe,spain
+1819-12-07,James Monroe,united
+1820-11-14,James Monroe,great
+1821-12-03,James Monroe,vessels
+1822-12-03,James Monroe,great
+1823-12-02,James Monroe,post
+1824-12-07,James Monroe,every
+1825-12-06,John Quincy Adams,improvement
+1826-12-05,John Quincy Adams,united
+1827-12-04,John Quincy Adams,between
+1828-12-02,John Quincy Adams,union
+1829-12-08,Andrew Jackson,therefore
+1830-12-06,Andrew Jackson,general
+1831-12-06,Andrew Jackson,state
+1832-12-04,Andrew Jackson,public
+1833-12-03,Andrew Jackson,states
+1834-12-01,Andrew Jackson,france
+1835-12-07,Andrew Jackson,subject
+1836-12-05,Andrew Jackson,bank
+1837-12-05,Martin van Buren,public
+1838-12-03,Martin van Buren,states
+1839-12-02,Martin van Buren,public
+1840-12-05,Martin van Buren,government
+1841-12-07,John Tyler,government
+1842-12-06,John Tyler,treasury
+1843-12-06,John Tyler,government
+1844-12-03,John Tyler,states
+1845-12-02,James Polk,mexico
+1846-12-08,James Polk,mexico
+1847-12-07,James Polk,mexico
+1848-12-05,James Polk,public
+1849-12-04,Zachary Taylor,treaty
+1850-12-02,Millard Fillmore,duty
+1851-12-02,Millard Fillmore,last
+1852-12-06,Millard Fillmore,subject
+1853-12-05,Franklin Pierce,states
+1854-12-04,Franklin Pierce,property
+1855-12-31,Franklin Pierce,states
+1856-12-02,Franklin Pierce,states
+1857-12-08,James Buchanan,constitution
+1858-12-06,James Buchanan,shall
+1859-12-19,James Buchanan,power
+1860-12-03,James Buchanan,states
+1861-12-03,Abraham Lincoln,union
+1862-12-01,Abraham Lincoln,emancipation
+1863-12-08,Abraham Lincoln,service
+1864-12-06,Abraham Lincoln,election
+1865-12-04,Andrew Johnson,states
+1866-12-03,Andrew Johnson,states
+1867-12-03,Andrew Johnson,constitution
+1868-12-09,Andrew Johnson,per
+1869-12-06,Ulysses S. Grant,interest
+1870-12-05,Ulysses S. Grant,states
+1871-12-04,Ulysses S. Grant,recommend
+1872-12-02,Ulysses S. Grant,united
+1873-12-01,Ulysses S. Grant,congress
+1874-12-07,Ulysses S. Grant,congress
+1875-12-07,Ulysses S. Grant,states
+1876-12-05,Ulysses S. Grant,states
+1877-12-03,Rutherford B. Hayes,public
+1878-12-02,Rutherford B. Hayes,year
+1879-12-01,Rutherford B. Hayes,congress
+1880-12-06,Rutherford B. Hayes,government
+1881-12-06,Chester A. Arthur,relations
+1882-12-04,Chester A. Arthur,chile
+1883-12-04,Chester A. Arthur,treaty
+1884-12-01,Chester A. Arthur,secretary
+1885-12-08,Grover Cleveland,silver
+1886-12-06,Grover Cleveland,year
+1887-12-06,Grover Cleveland,tariff
+1888-12-03,Grover Cleveland,1888
+1893-12-03,Grover Cleveland,year
+1894-12-02,Grover Cleveland,year
+1895-12-07,Grover Cleveland,gold
+1896-12-04,Grover Cleveland,year
+1889-12-03,Benjamin Harrison,law
+1890-12-01,Benjamin Harrison,law
+1891-12-09,Benjamin Harrison,during
+1892-12-06,Benjamin Harrison,during
+1897-12-06,William McKinley,government
+1898-12-05,William McKinley,united
+1899-12-05,William McKinley,states
+1900-12-03,William McKinley,islands
+1901-12-03,Theodore Roosevelt,men
+1902-12-02,Theodore Roosevelt,good
+1903-12-07,Theodore Roosevelt,treaty
+1904-12-06,Theodore Roosevelt,work
+1905-12-05,Theodore Roosevelt,law
+1906-12-03,Theodore Roosevelt,law
+1907-12-03,Theodore Roosevelt,law
+1908-12-08,Theodore Roosevelt,men
+1909-12-07,William H. Taft,department
+1910-12-06,William H. Taft,united
+1911-12-05,William H. Taft,statute
+1912-12-03,William H. Taft,american
+1913-12-02,Woodrow Wilson,credit
+1914-12-08,Woodrow Wilson,great
+1915-12-07,Woodrow Wilson,hundred
+1916-12-05,Woodrow Wilson,necessary
+1917-12-04,Woodrow Wilson,war
+1918-12-02,Woodrow Wilson,men
+1919-12-02,Woodrow Wilson,labor
+1920-12-07,Woodrow Wilson,faith
+1921-12-06,Warren Harding,conditions
+1922-12-08,Warren Harding,transportation
+1923-12-06,Calvin Coolidge,service
+1924-12-03,Calvin Coolidge,country
+1925-12-08,Calvin Coolidge,court
+1926-12-07,Calvin Coolidge,federal
+1927-12-06,Calvin Coolidge,agriculture
+1928-12-04,Calvin Coolidge,private
+1929-12-03,Herbert Hoover,federal
+1930-12-02,Herbert Hoover,construction
+1931-12-08,Herbert Hoover,banks
+1932-12-06,Herbert Hoover,economic
+1934-01-03,Franklin D. Roosevelt,national
+1935-01-04,Franklin D. Roosevelt,work
+1936-01-03,Franklin D. Roosevelt,world
+1937-01-06,Franklin D. Roosevelt,democracy
+1938-01-03,Franklin D. Roosevelt,business
+1939-01-04,Franklin D. Roosevelt,nation
+1940-01-03,Franklin D. Roosevelt,world
+1941-01-06,Franklin D. Roosevelt,world
+1942-01-06,Franklin D. Roosevelt,war
+1943-01-07,Franklin D. Roosevelt,war
+1944-01-11,Franklin D. Roosevelt,war
+1945-01-06,Franklin D. Roosevelt,war
+1946-01-21,Harry S. Truman,dollars
+1947-01-06,Harry S. Truman,national
+1948-01-07,Harry S. Truman,world
+1949-01-05,Harry S. Truman,prosperity
+1950-01-04,Harry S. Truman,world
+1951-01-08,Harry S. Truman,world
+1952-01-09,Harry S. Truman,world
+1953-01-07,Harry S. Truman,world
+1953-02-02,Dwight D. Eisenhower,federal
+1954-01-07,Dwight D. Eisenhower,shall
+1955-01-06,Dwight D. Eisenhower,federal
+1956-01-05,Dwight D. Eisenhower,program
+1957-01-10,Dwight D. Eisenhower,world
+1958-01-09,Dwight D. Eisenhower,world
+1959-01-09,Dwight D. Eisenhower,world
+1960-01-07,Dwight D. Eisenhower,world
+1961-01-12,Dwight D. Eisenhower,new
+1961-01-30,John F. Kennedy,world
+1962-01-11,John F. Kennedy,new
+1963-01-14,John F. Kennedy,world
+1964-01-08,Lyndon B. Johnson,every
+1965-01-04,Lyndon B. Johnson,new
+1966-01-12,Lyndon B. Johnson,vietnam
+1967-01-10,Lyndon B. Johnson,vietnam
+1968-01-17,Lyndon B. Johnson,year
+1969-01-14,Lyndon B. Johnson,congress
+1970-01-22,Richard Nixon,new
+1971-01-22,Richard Nixon,government
+1972-01-20,Richard Nixon,new
+1973-02-02,Richard Nixon,resources
+1974-01-30,Richard Nixon,years
+1975-01-15,Gerald R. Ford,world
+1976-01-19,Gerald R. Ford,federal
+1977-01-12,Gerald R. Ford,president
+1978-01-19,Jimmy Carter,world
+1979-01-25,Jimmy Carter,world
+1980-01-21,Jimmy Carter,soviet
+1981-01-16,Jimmy Carter,administration
+1982-01-26,Ronald Reagan,programs
+1983-01-25,Ronald Reagan,economic
+1984-01-25,Ronald Reagan,peace
+1985-02-06,Ronald Reagan,years
+1986-02-04,Ronald Reagan,america
+1987-01-27,Ronald Reagan,america
+1988-01-25,Ronald Reagan,america
+1989-02-09,George H.W. Bush,america
+1990-01-31,George H.W. Bush,every
+1991-01-29,George H.W. Bush,world
+1992-01-28,George H.W. Bush,plan
+1993-02-17,William J. Clinton,people
+1994-01-25,William J. Clinton,people
+1995-01-24,William J. Clinton,people
+1996-01-23,William J. Clinton,people
+1997-02-04,William J. Clinton,america
+1998-01-27,William J. Clinton,new
+1999-01-19,William J. Clinton,now
+2000-01-27,William J. Clinton,new
+2001-02-27,George W. Bush,budget
+2001-09-20,George W. Bush,america
+2002-01-29,George W. Bush,america
+2003-01-28,George W. Bush,weapons
+2004-01-20,George W. Bush,america
+2005-02-02,George W. Bush,security
+2006-01-31,George W. Bush,america
+2007-01-23,George W. Bush,america
+2008-01-28,George W. Bush,america
+2009-02-24,Barack Obama,because
+2010-01-27,Barack Obama,americans
+2011-01-25,Barack Obama,jobs
+2012-01-24,Barack Obama,jobs
+2013-02-12,Barack Obama,jobs
+2014-01-28,Barack Obama,help
+2015-01-20,Barack Obama,america
+2016-01-12,Barack Obama,that's
+2017-02-28,Donald J. Trump,american
+2018-01-30,Donald J. Trump,american
+2019-02-05,Donald J. Trump,tonight
+2020-02-04,Donald J. Trump,american
+2021-04-28,Joseph R. Biden,american

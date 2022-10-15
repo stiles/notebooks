@@ -1,0 +1,181 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,90,Norway,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,618.5486240362469,840.9989125422836,431.4916153278778
+5,Prevalence,90,Norway,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,210.21368332231702,285.81338993523775,146.64237904028417
+5,Prevalence,90,Norway,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,63169.07473265184,81854.99832715413,48231.09485527633
+5,Prevalence,90,Norway,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,6571.5335098656615,8515.446311877766,5017.522536152115
+5,Prevalence,90,Norway,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,90,Norway,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,90,Norway,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,3874.7050947453995,5923.581682937096,2624.4029370952544
+5,Prevalence,90,Norway,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,403.08892410933163,616.2353286413794,273.0189086590618
+5,Prevalence,90,Norway,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,1667.5438830065557,1982.76390406493,1387.224608057555
+5,Prevalence,90,Norway,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,566.7146092105207,673.8420994492448,471.44813378171494
+5,Prevalence,90,Norway,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,5196.045235198185,6199.803102042152,4314.810227974355
+5,Prevalence,90,Norway,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,540.5490823856053,644.9708819081308,448.8734419785323
+5,Prevalence,90,Norway,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,950.1685496731342,1407.6620602570893,615.1266369235158
+5,Prevalence,90,Norway,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,322.91467936740383,478.39379971263793,209.05072137026426
+5,Prevalence,90,Norway,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,35646.1499044937,51803.62796543268,24152.407484045358
+5,Prevalence,90,Norway,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,3708.2998221278717,5389.176247210223,2512.5958516421547
+5,Prevalence,80,France,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,43.298608294177875,102.20933273235518,16.01080631239397
+5,Prevalence,80,France,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,1.186138781309251,2.79996189581662,0.43860620549587204
+5,Prevalence,80,France,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,179917.48874703888,262426.5219149703,115678.96284386101
+5,Prevalence,80,France,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,1465.1505465106384,2137.0594080667597,942.0267968988993
+5,Prevalence,80,France,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,7724.923939535468,11563.538019799524,4606.795719041892
+5,Prevalence,80,France,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,211.61954687073248,316.7760220199158,126.20033934577478
+5,Prevalence,80,France,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,784454.3404374807,1091884.7698113075,522633.2236802
+5,Prevalence,80,France,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,6388.1711200436785,8891.717966700495,4256.041803564049
+5,Prevalence,80,France,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,80,France,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,80,France,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,48798.89849693109,74018.97338213796,32858.975977264985
+5,Prevalence,80,France,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,397.391789424209,602.7704146953347,267.58569689997455
+5,Prevalence,90,Norway,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,2.5129213603572564,5.827866631068631,0.9136802426601769
+5,Prevalence,90,Norway,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,0.8540160539247615,1.980599847484859,0.3105141321552257
+5,Prevalence,90,Norway,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,11960.360245950566,16283.407892237048,8350.443926206017
+5,Prevalence,90,Norway,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,1244.2466266757315,1693.9770144097943,868.7039079733779
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,3.4870742084160145,8.35930681393175,1.3033660590564142
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,1.0458032264199335,2.5070272423640376,0.39089057137863337
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,15151.99532566384,22537.96995449875,9570.38870078039
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,1281.6789033625475,1906.4446625305723,809.5412538831495
+5,Prevalence,80,France,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,19710.869398511393,22979.39375039264,16845.85072888095
+5,Prevalence,80,France,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,539.9671612549237,629.5063784297475,461.481734422379
+5,Prevalence,80,France,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,63618.98295095338,74311.97407636805,54350.586265167265
+5,Prevalence,80,France,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,518.0785274859747,605.1564535972158,442.6017266256113
+5,Prevalence,80,France,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,13986.9536153812,20336.108785544482,8912.62189624691
+5,Prevalence,80,France,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,383.1640038603299,557.0952102564822,244.1558029408064
+5,Prevalence,80,France,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,466876.6571359226,661273.9664610978,318040.3293018695
+5,Prevalence,80,France,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,3801.9905353254053,5385.056895252384,2589.948123076649
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,520.302480077229,787.7296440747886,313.12592633864915
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,156.0431409993507,236.2468230047365,93.90912967964637
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,55167.61846719545,78697.73928461752,36922.612581291505
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,4666.525511554081,6656.894357179401,3123.2146384256216
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,2915.134704430053,4567.077412377759,1834.375118163377
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,246.58578430259126,386.3205237104132,155.16635527342177
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,1179.1014615045422,1424.6556922857733,954.6209190848224
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,353.622561212439,427.266364430704,286.298936448606
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,3965.6516006477736,4800.08394368543,3229.103829488082
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,335.44704082816816,406.03010974868926,273.1438444949998
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,265.78526044262037,387.12991501851786,170.7553718041498
+5,Prevalence,156,United Arab Emirates,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,79.71126115839566,116.1035555804667,51.21098895180457
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,10923.106946306365,15762.267038652653,7189.610209879957
+5,Prevalence,156,United Arab Emirates,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,923.9651564927079,1333.300644463,608.1556607792447
+5,Prevalence,148,Morocco,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,32.5466384732377,75.39990886380687,12.315232061912573
+5,Prevalence,148,Morocco,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,1.0681402410125078,2.4745313373094415,0.40417061668450943
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,168959.00115806714,247485.16428510685,111225.01453640353
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,1779.1829530087743,2606.0842121497967,1171.228809681406
+5,Prevalence,148,Morocco,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,4745.7434820492745,7110.8634908311715,2827.4162658905984
+5,Prevalence,148,Morocco,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,155.749405299348,233.36970572702805,92.79228926128283
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,472476.7605959945,674001.5517021557,316340.5657760798
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,4975.305206490709,7097.4145376727765,3331.1497944250195
+5,Prevalence,148,Morocco,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,148,Morocco,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,15885.424668880034,25339.983757418988,10231.972546216899
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,167.27772168666704,266.8367285655351,107.74537612738301
+5,Prevalence,148,Morocco,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,10754.392206781655,12919.255531580024,8741.711314450673
+5,Prevalence,148,Morocco,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,352.94579171795084,423.99391656226237,286.8921052463529
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,31328.20570584949,37760.805831163896,25436.896313540485
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,329.8942888994365,397.6312689243982,267.8572434040583
+5,Prevalence,148,Morocco,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,5232.885155854994,7560.090721978438,3471.931515042925
+5,Prevalence,148,Morocco,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,171.7367898427299,248.1127853646251,113.94447903755984
+5,Prevalence,102,United States of America,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,133.2902486483598,310.78379476270555,49.39035358125365
+5,Prevalence,102,United States of America,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,0.6995293724760386,1.63104499489395,0.25920878231844435
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,1647645.1916505585,2063235.6073014871,1280889.7521468855
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,2626.2204248738426,3288.639763391085,2041.6403034744988
+5,Prevalence,102,United States of America,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,15185.743168148176,21923.115044970746,9857.769861006484
+5,Prevalence,102,United States of America,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,79.69730341655942,115.05615051095562,51.73521420216757
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,2102195.0718429172,2731070.2621383504,1610931.254089999
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,3350.7381702807106,4353.117127728343,2567.7012162555748
+5,Prevalence,102,United States of America,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,102,United States of America,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,224504.07368566588,343633.14528930973,153236.15300793306
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,357.84232355877435,547.7249527966478,244.24670851336847
+5,Prevalence,102,United States of America,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,149485.83002431167,176015.93249139367,125128.48720221217
+5,Prevalence,102,United States of America,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,784.5264746023358,923.7608606036952,656.695092244594
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,466664.88358420617,550777.2515462579,390965.1819039559
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,743.828134267478,877.8968159507938,623.1685992432084
+5,Prevalence,102,United States of America,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,80990.35796355411,118233.60702058118,52348.39158344107
+5,Prevalence,102,United States of America,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,425.0508559881203,620.5096153949103,274.73305726288845
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,3080471.2314660656,4422739.867518674,2068999.7474585825
+5,Prevalence,102,United States of America,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,4910.035550923532,7049.50910113466,3297.827361964559
+5,Prevalence,71,Australia,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,2138.729874733111,3129.8517849159994,1311.9885473665604
+5,Prevalence,71,Australia,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,140.19093256403943,205.1576712413725,85.9991250609008
+5,Prevalence,71,Australia,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,214969.3063366219,295551.1255368189,152660.46523666708
+5,Prevalence,71,Australia,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,4781.2587587873595,6573.526387202387,3395.411182052185
+5,Prevalence,71,Australia,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,71,Australia,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,71,Australia,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,30583.595130130114,42778.47315149536,21864.403182571587
+5,Prevalence,71,Australia,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,680.2277245206413,951.4611780104756,486.2990489378502
+5,Prevalence,71,Australia,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,7938.0678566918095,9481.603767575203,6625.417196015534
+5,Prevalence,71,Australia,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,520.3299157754183,621.5066662146619,434.28739005721667
+5,Prevalence,71,Australia,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,22332.115177847685,26754.148163591253,18636.716606114616
+5,Prevalence,71,Australia,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,496.70170647120995,595.0547425629078,414.5101736919136
+5,Prevalence,71,Australia,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,9834.755355062141,13204.464558927659,6966.6229108668795
+5,Prevalence,71,Australia,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,644.6552886616379,865.5352984938679,456.65297625222837
+5,Prevalence,71,Australia,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,16.762076579848408,37.78791400549439,6.162392309336494
+5,Prevalence,71,Australia,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,1.0987320910416667,2.47694810207907,0.4039367172439922
+5,Prevalence,71,Australia,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,94086.71521689497,133745.76218045488,63727.26180564768
+5,Prevalence,71,Australia,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,2092.6379625186264,2974.7181482487354,1417.3955057782143
+5,Prevalence,71,Australia,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,331126.98188691563,439685.4954435943,245911.0266816962
+5,Prevalence,71,Australia,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,7364.789929305019,9779.303669099238,5469.451756815529
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,196942.35000975037,278487.90919116075,134124.1316712284
+5,Prevalence,148,Morocco,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,2073.8550148922036,2932.551312779298,1412.3625673739966
+5,Prevalence,196,South Africa,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,26.85077580672826,62.741915468782786,9.497883621534744
+5,Prevalence,196,South Africa,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,0.5270513824465685,1.2315552266792036,0.18643307474907803
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,126515.68526934691,168554.7211280943,93335.84484931394
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,873.1356224049696,1163.2639148904987,644.1482003729425
+5,Prevalence,196,South Africa,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,4287.179610041335,5953.410482992171,2875.429605214525
+5,Prevalence,196,South Africa,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,84.15265005873032,116.85894098250444,56.44154044056902
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,417509.4396768104,547679.226273895,317987.6647925467
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,2881.400544889478,3779.754590056279,2194.5607536697526
+5,Prevalence,196,South Africa,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,196,South Africa,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,18317.033944551335,27214.115201074226,12254.787426460623
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,126.41321745789683,187.81555317590025,84.57521630036005
+5,Prevalence,196,South Africa,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,23458.593111859136,28020.95789425562,19326.763475910277
+5,Prevalence,196,South Africa,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,460.46654364298723,550.0207778705533,379.36324378545146
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,62574.920452844926,74822.23947247594,51505.111392854116
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,431.85469058810753,516.3783644095121,355.45748653453984
+5,Prevalence,196,South Africa,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,5530.419694112604,8307.40507316375,3581.3629242182437
+5,Prevalence,196,South Africa,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,108.55609410590594,163.06528198181311,70.29823994058023
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,193266.03772221852,280024.0281545247,126061.08466226264
+5,Prevalence,196,South Africa,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,1333.806648377827,1932.5584301307697,869.9982407975654
+5,Prevalence,97,Argentina,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,24.44261629022698,57.655075922505176,8.85044423892339
+5,Prevalence,97,Argentina,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,0.7053839819277449,1.6638549061061043,0.2554129854575923
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,119880.81600452478,165722.67395350113,86072.39319951288
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,1121.7213398101662,1550.6622832549638,805.3769021457184
+5,Prevalence,97,Argentina,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,4730.934647313033,6810.188629724338,3145.9735176640747
+5,Prevalence,97,Argentina,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,136.52898200983086,196.53370638701776,90.78894421856148
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,465919.4353363055,620765.6074474311,342729.3600517386
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,4359.594726393174,5808.485895422349,3206.908742888491
+5,Prevalence,97,Argentina,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,97,Argentina,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,28807.275811969404,43833.816814392834,18527.868690403782
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,269.5488494077623,410.1517604299447,173.36473327343822
+5,Prevalence,97,Argentina,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,20346.21967722664,24244.38478338374,16879.275969632716
+5,Prevalence,97,Argentina,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,587.1669907462876,699.6632633278899,487.11523979850756
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,59202.970470062006,70789.74353162055,49028.89432524356
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,553.9604881727957,662.3775897230324,458.76195095174734
+5,Prevalence,97,Argentina,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,8992.968998347114,13089.576300555033,5772.111056963708
+5,Prevalence,97,Argentina,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,259.52607552666956,377.7491469407184,166.5760585178509
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,317365.8282777998,449902.6956358891,209919.8681702789
+5,Prevalence,97,Argentina,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,2969.5829071792446,4209.726554696181,1964.214155564733
+5,Prevalence,67,Japan,3,Both,1,<5 years,568,Major depressive disorder,1,Number,2019,26.001215724384114,60.90511667372739,9.110628351467737
+5,Prevalence,67,Japan,3,Both,1,<5 years,568,Major depressive disorder,3,Rate,2019,0.5426948665488135,1.271205720369112,0.1901561561499922
+5,Prevalence,67,Japan,3,Both,188,5-19 years,568,Major depressive disorder,1,Number,2019,133386.7954313349,179144.93404090835,100576.8876866464
+5,Prevalence,67,Japan,3,Both,188,5-19 years,568,Major depressive disorder,3,Rate,2019,793.6851390180079,1065.9576266064826,598.4578970312521
+5,Prevalence,67,Japan,3,Both,1,<5 years,571,Anxiety disorders,1,Number,2019,3778.8042018518063,5220.563330143611,2612.5794685353994
+5,Prevalence,67,Japan,3,Both,1,<5 years,571,Anxiety disorders,3,Rate,2019,78.87083680148332,108.9630942565869,54.52950666054182
+5,Prevalence,67,Japan,3,Both,188,5-19 years,571,Anxiety disorders,1,Number,2019,417028.3122710937,548006.394593997,315108.327276222
+5,Prevalence,67,Japan,3,Both,188,5-19 years,571,Anxiety disorders,3,Rate,2019,2481.423839061457,3260.7765264140803,1874.9741736520346
+5,Prevalence,67,Japan,3,Both,1,<5 years,572,Eating disorders,1,Number,2019,0.0,0.0,0.0
+5,Prevalence,67,Japan,3,Both,1,<5 years,572,Eating disorders,3,Rate,2019,0.0,0.0,0.0
+5,Prevalence,67,Japan,3,Both,188,5-19 years,572,Eating disorders,1,Number,2019,54815.56771599302,80376.81931997914,38133.00575878838
+5,Prevalence,67,Japan,3,Both,188,5-19 years,572,Eating disorders,3,Rate,2019,326.16647954043685,478.2623857894755,226.9010202919121
+5,Prevalence,67,Japan,3,Both,1,<5 years,575,Autism spectrum disorders,1,Number,2019,38136.361369030026,45092.07404280404,31914.53951371883
+5,Prevalence,67,Japan,3,Both,1,<5 years,575,Autism spectrum disorders,3,Rate,2019,795.9784559001924,941.1574198863116,666.1171902866756
+5,Prevalence,67,Japan,3,Both,188,5-19 years,575,Autism spectrum disorders,1,Number,2019,127589.66397847525,151452.0360857581,106712.77528953772
+5,Prevalence,67,Japan,3,Both,188,5-19 years,575,Autism spectrum disorders,3,Rate,2019,759.1907419662609,901.1778859112385,634.9679787777367
+5,Prevalence,67,Japan,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,13792.482045422334,20079.66736700346,8910.151302913082
+5,Prevalence,67,Japan,3,Both,1,<5 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,287.8753548434196,419.10088042002985,185.9718185303694
+5,Prevalence,67,Japan,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,1,Number,2019,573621.6322472575,822748.397293782,380920.49603147263
+5,Prevalence,67,Japan,3,Both,188,5-19 years,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,3413.1936632983166,4895.560868460271,2266.5732081642386

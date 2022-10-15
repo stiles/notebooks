@@ -1,0 +1,51 @@
+state,cases,state_fips,state_ap,pop_acs_2020_5tr,cases_per_million
+Alabama,19,01,Ala.,4893186,3.88
+Alaska,1,02,Alaska,736990,1.36
+Arizona,85,04,Ariz.,7174064,11.85
+Arkansas,5,05,Ark.,3011873,1.66
+California,826,06,Calif.,39346023,20.99
+Colorado,53,08,Colo.,5684926,9.32
+Connecticut,39,09,Conn.,3570549,10.92
+Delaware,5,10,Del.,967679,5.17
+District of Columbia,257,11,D.C.,701974,366.11
+Florida,525,12,Fla.,21216924,24.74
+Georgia,504,13,Ga.,10516579,47.92
+Hawaii,10,15,Hawaii,1420074,7.04
+Idaho,5,16,Idaho,1754367,2.85
+Illinois,547,17,Ill.,12716164,43.02
+Indiana,62,18,Ind.,6696893,9.26
+Iowa,11,19,Iowa,3150011,3.49
+Kansas,1,20,Kan.,2912619,0.34
+Kentucky,8,21,Ky.,4461952,1.79
+Louisiana,58,22,La.,4664616,12.43
+Maine,2,23,Maine,1340825,1.49
+Maryland,157,24,Md.,6037624,26.0
+Massachusetts,134,25,Mass.,6873003,19.5
+Michigan,56,26,Mich.,9973907,5.61
+Minnesota,39,27,Minn.,5600166,6.96
+Mississippi,4,28,Miss.,2981835,1.34
+Missouri,12,29,Mo.,6124160,1.96
+Nebraska,10,31,Neb.,1923826,5.2
+Nevada,26,32,Nev.,3030281,8.58
+New Hampshire,14,33,N.H.,1355244,10.33
+New Jersey,160,34,N.J.,8885418,18.01
+New Mexico,10,35,N.M.,2097021,4.77
+New York,1666,36,N.Y.,19514849,85.37
+North Carolina,72,37,N.C.,10386227,6.93
+North Dakota,1,38,N.D.,760394,1.32
+Ohio,34,39,Ohio,11675275,2.91
+Oklahoma,10,40,Okla.,3949342,2.53
+Oregon,75,41,Ore.,4176346,17.96
+Pennsylvania,173,42,Pa.,12794885,13.52
+Puerto Rico,19,72,,3255642,5.84
+Rhode Island,26,44,R.I.,1057798,24.58
+South Carolina,23,45,S.C.,5091517,4.52
+South Dakota,1,46,S.D.,879336,1.14
+Tennessee,39,47,Tenn.,6772268,5.76
+Texas,527,48,Texas,28635442,18.4
+Utah,41,49,Utah,3151239,13.01
+Vermont,1,50,Vt.,624340,1.6
+Virginia,105,51,Va.,8509358,12.34
+Washington,134,53,Wash.,7512465,17.84
+West Virginia,3,54,W.Va.,1807426,1.66
+Wisconsin,19,55,Wis.,5806975,3.27

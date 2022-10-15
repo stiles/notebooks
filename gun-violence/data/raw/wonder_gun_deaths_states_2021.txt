@@ -1,0 +1,84 @@
+"Notes"	"Year"	"Year Code"	"Occurrence State"	"Occurrence State Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"2021 (provisional)"	"2021"	"Alabama"	"01"	1313	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Alaska"	"02"	181	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Arizona"	"04"	1365	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Arkansas"	"05"	698	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"California"	"06"	3580	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Colorado"	"08"	1078	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Connecticut"	"09"	241	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Delaware"	"10"	158	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"District of Columbia"	"11"	234	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Florida"	"12"	3150	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Georgia"	"13"	2195	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Hawaii"	"15"	65	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Idaho"	"16"	310	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Illinois"	"17"	1937	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Indiana"	"18"	1255	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Iowa"	"19"	356	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Kansas"	"20"	515	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Kentucky"	"21"	939	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Louisiana"	"22"	1311	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Maine"	"23"	180	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Maryland"	"24"	874	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Massachusetts"	"25"	236	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Michigan"	"26"	1529	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Minnesota"	"27"	570	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Mississippi"	"28"	916	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Missouri"	"29"	1446	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Montana"	"30"	279	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Nebraska"	"31"	209	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Nevada"	"32"	638	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"New Hampshire"	"33"	126	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"New Jersey"	"34"	461	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"New Mexico"	"35"	586	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"New York"	"36"	1063	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"North Carolina"	"37"	1808	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"North Dakota"	"38"	126	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Ohio"	"39"	1906	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Oklahoma"	"40"	842	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Oregon"	"41"	697	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Pennsylvania"	"42"	1903	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Rhode Island"	"44"	67	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"South Carolina"	"45"	1133	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"South Dakota"	"46"	132	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Tennessee"	"47"	1653	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Texas"	"48"	4625	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Utah"	"49"	449	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Vermont"	"50"	86	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Virginia"	"51"	1254	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Washington"	"53"	892	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"West Virginia"	"54"	319	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Wisconsin"	"55"	796	Not Applicable	Not Applicable	Not Applicable
+	"2021 (provisional)"	"2021"	"Wyoming"	"56"	150	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"UCD - Injury Mechanism & All Other Leading Causes: Firearm"
+"Year/Month: 2021 (provisional)"
+"Group By: Year; Occurrence State"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Sep 8, 2022 4:37:24 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Sep 8, 2022 4:37:24 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#2000 Standard Population."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age-Adjusted Rates."
+"4. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"5. Deaths occurring through August 20, 2022 as of September 04, 2022."

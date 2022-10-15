@@ -1,0 +1,356 @@
+id,title,type,author_name,image_url,date,month,week_start
+ZCspC,California leads on electric vehicles,d3-maps-choropleth,Stiles,//img.datawrapper.de/ksTqI/ad6c0c28fb48c763a54843146f33d18b/full.png,2022-08-24,August,2022-08-22
+ksTqI,California still fueled by gas,d3-bars,Stiles,//img.datawrapper.de/Q91BW/5ea61e53e0b6b3c100f337a7591f387e/full.png,2022-08-24,August,2022-08-22
+iSNsf,School book bans by state,d3-maps-choropleth,Deen,//img.datawrapper.de/PdsBn/46639260a01abb52d2db1e82629d27b5/full.png,2022-08-23,August,2022-08-22
+Q91BW,Dining out vs. eating at home,d3-lines,Deen,//img.datawrapper.de/zXfEf/4daf2cfeee1967898e5c084b2e1cdec1/full.png,2022-08-23,August,2022-08-22
+PdsBn,Percent change in CPI for food,d3-lines,Deen,//img.datawrapper.de/A5jS1/5535716089c901a50952c0ab3b0c6e45/full.png,2022-08-23,August,2022-08-22
+zXfEf,Polio vaccination worldwide,d3-maps-choropleth,Matthews,//img.datawrapper.de/o2ZUA/002c5fb696e74e3563a37578c1fb82d4/full.png,2022-08-19,August,2022-08-15
+A5jS1,New York polio vaccination rates,d3-maps-choropleth,Matthews,//img.datawrapper.de/5Xj8o/3e42b6dd290a36231e3d8ae9376e8a33/full.png,2022-08-19,August,2022-08-15
+o2ZUA,Germans support Ukraine despite gas prices,d3-bars,Matthews,//img.datawrapper.de/k5Euz/6d65b08ff5d40afcd65ad7b3b5b7af18/full.png,2022-08-17,August,2022-08-15
+5Xj8o,Gas trade from Russia to Germany,d3-lines,Matthews,//img.datawrapper.de/PYeCO/64bdb8081d70cf5237c7a2a279f7bcbd/full.png,2022-08-17,August,2022-08-15
+k5Euz,German gas storage over time,d3-area,Matthews,//img.datawrapper.de/w5BFQ/06ecd4513f9f4987057842e404f4cd88/full.png,2022-08-17,August,2022-08-15
+LUeJq,More guns found by TSA,column-chart,Deen,//img.datawrapper.de/fKWir/cce7ac85932d2200ad3f0cf1a6815658/full.png,2022-08-17,August,2022-08-15
+geVVU,Crude oil below $100 per barrel,d3-lines,Deen,//img.datawrapper.de/qgnQ4/8465ce82f9d023db81f8f92b94880033/full.png,2022-08-17,August,2022-08-15
+PYeCO,Price of gas per gallon drops,d3-lines,Deen,//img.datawrapper.de/Wg070/9c45fd61be06f94c4e51aa4beeb267a5/full.png,2022-08-17,August,2022-08-15
+w5BFQ,Wind turbine and electric vehicle factories,d3-multiple-donuts,Deen,//img.datawrapper.de/tWOs5/3ea7631b144de6d6fbe6f3dc24830c5b/full.png,2022-08-16,August,2022-08-15
+fKWir,Hong Kong's population is declining,column-chart,Deen,//img.datawrapper.de/dJsO1/ebc01aecbd364ffab7fd35538a3b8d86/full.png,2022-08-12,August,2022-08-08
+qgnQ4,Global monkeypox cases,d3-maps-choropleth,Stiles,//img.datawrapper.de/dU7Cs/38b95369e0de63517f6d591ce9b17661/full.png,2022-08-11,August,2022-08-08
+Wg070,Teens aren't using Facebook anymore,d3-lines,Deen,//img.datawrapper.de/52ntX/5f106d81f6fd615cb51077df6a401cf1/full.png,2022-08-11,August,2022-08-08
+tWOs5,Global air conditioning stock,d3-area,Deen,//img.datawrapper.de/qBn73/8c10b812a1d2cf271c631f593b2a1270/full.png,2022-08-09,August,2022-08-08
+IF3IP,Serena Williams' dominance,column-chart,Stiles,//img.datawrapper.de/NtZsP/b9c4a6d1702ee7f3fa2e968df5c58678/full.png,2022-08-09,August,2022-08-08
+QWrAO,Taiwan leads global chip manufacturing,d3-bars-stacked,Deen,//img.datawrapper.de/MMAU0/045812fdad4c6229cc036957eaba98b2/full.png,2022-08-08,August,2022-08-08
+dJsO1,Out-of-pocket insulin costs,d3-bars,Stiles,//img.datawrapper.de/Lm6MM/a0d3979a3abd98c48a329f67f2f69b21/full.png,2022-08-08,August,2022-08-08
+c1eMJ,Global wafer fabrication capacity by region,d3-bars,Deen,//img.datawrapper.de/VBQeE/151bf0dcceda26a75cf929899c8b093c/full.png,2022-08-05,August,2022-08-01
+dU7Cs,U.S. monkeypox trend,d3-lines,Stiles,//img.datawrapper.de/L85Lw/96d5a96af524c7ad18398b177f4bd35c/full.png,2022-08-04,August,2022-08-01
+L9I5i,"Monkeypox case rate, by state",d3-maps-choropleth,Stiles,//img.datawrapper.de/8BhRJ/7c5519132dbbcf0db5388dc1c86c4c07/full.png,2022-08-04,August,2022-08-01
+52ntX,The last century's most pro-business Supreme Court,d3-scatter-plot,Deen,//img.datawrapper.de/5sK7A/73cd4660be4341ca587c603bf7f2ea8e/full.png,2022-08-04,August,2022-08-01
+qBn73,Active nuclear power plants in Ukraine,locator-map,Stiles,//img.datawrapper.de/l0iDu/e0f76cf3aab7d700f46de49f42988d90/full.png,2022-08-04,August,2022-08-01
+NtZsP,"Carbon emissions per capita, by country",d3-maps-choropleth,Stiles,//img.datawrapper.de/Xod6B/a9d24b7ba517c41a5e14e929bb7361de/full.png,2022-08-03,August,2022-08-01
+MMAU0,Emissions inequality,stacked-column-chart,Stiles,//img.datawrapper.de/FloMV/9a7d6790ac059c1e70f84ab2331dbe37/full.png,2022-08-03,August,2022-08-01
+Lm6MM,China plans military exercises after Pelosi's Taiwan trip,locator-map,Deen,//img.datawrapper.de/FZBFr/387123a8c77acde9505f55dabf049a7b/full.png,2022-08-02,August,2022-08-01
+VBQeE,"Top issues for midterms, by party",d3-range-plot,Matthews,//img.datawrapper.de/AXOgP/74eae58023dc3f6cee855f94fc3170bd/full.png,2022-08-02,August,2022-08-01
+L85Lw,Most people disapproved of the Roe reversal,d3-bars-grouped,Matthews,//img.datawrapper.de/HTY9Y/3b7ff68766d0a4caafcb387dae50af4b/full.png,2022-08-02,August,2022-08-01
+8BhRJ,More people support state abortion protections than state abortion bans,d3-bars-grouped,Matthews,//img.datawrapper.de/SJqtG/1ec571928b0b94734cbafe893aff8280/full.png,2022-08-02,August,2022-08-01
+5sK7A,Which voters were mobilized by the Dobbs decision?,d3-arrow-plot,Matthews,//img.datawrapper.de/0aZNU/87e0d9bdeeed6fc4f646cf820e0138b9/full.png,2022-08-02,August,2022-08-01
+l0iDu,States with pre-viability abortion bans,d3-maps-choropleth,Matthews,//img.datawrapper.de/0VaXu/83f7dfb8b028f74e3e0a121bb689335e/full.png,2022-08-02,August,2022-08-01
+Xod6B,How common is friendship across class?,d3-maps-choropleth,Deen,//img.datawrapper.de/yqtPX/cfd38deba1acdde8bfc93ea4d07072d8/full.png,2022-08-01,August,2022-08-01
+FloMV,China is renegotiating overseas loans,column-chart,Deen,//img.datawrapper.de/FAbK2/f0c2b62dca4095ffaebd5a4776467d7c/full.png,2022-08-01,August,2022-08-01
+FZBFr,Where do former FDA employees work?,d3-bars,Deen,//img.datawrapper.de/X3Pt1/94caecafdcdf5c5c7c6ab126341f68c7/full.png,2022-07-27,July,2022-07-25
+AXOgP,Victory funds,column-chart,Stiles,//img.datawrapper.de/Zt4XV/b25e578344030894d557e10ab460d6d8/full.png,2022-07-27,July,2022-07-25
+HTY9Y,Interest rate on 72-month new auto loans,d3-lines,Deen,//img.datawrapper.de/1zSPo/30c0b5cefa3aef5652a79f2c56fd91e8/full.png,2022-07-26,July,2022-07-25
+SJqtG,Small donations fuel QAnon candidates,d3-bars-stacked,Stiles,//img.datawrapper.de/EmzWN/390186e156786a5d143ff81896a8c951/full.png,2022-07-26,July,2022-07-25
+0aZNU,Consumer Price Index for cars and trucks,d3-lines,Deen,//img.datawrapper.de/5CinN/526fa82b5e8caba947661f99f1c11695/full.png,2022-07-25,July,2022-07-25
+0VaXu,Monkeypox outbreak by state,d3-maps-choropleth,Deen,//img.datawrapper.de/NuP0t/16ef4c8d7889116262c21464222b6364/full.png,2022-07-25,July,2022-07-25
+yqtPX,Lake Mead's receding water level,d3-lines,Deen,//img.datawrapper.de/mv1TK/0c7b79fd611298891e56f589ddde5b1c/full.png,2022-07-25,July,2022-07-25
+FAbK2,Inequality differs by nation,d3-bars,Stiles,//img.datawrapper.de/1wMcq/b8c3ba591e6d958ac27caf55ac8b7818/full.png,2022-07-23,July,2022-07-18
+HKEyq,Shifting perceptions of the Supreme Court,d3-bars-stacked,Stiles,//img.datawrapper.de/7h9zQ/73325874b20a7a0a3eabeba212368cd5/full.png,2022-07-22,July,2022-07-18
+X3Pt1,Supreme Court approval drops,d3-lines,Stiles,//img.datawrapper.de/kpGZa/17ac0be0348a86a931d383dd32548941/full.png,2022-07-22,July,2022-07-18
+Zt4XV,Diverging price measures,d3-lines,Stiles,//img.datawrapper.de/Qgkcp/fea587114bc1aecd97c05614a88c7246/full.png,2022-07-21,July,2022-07-18
+1zSPo,Covid's disproportional impact,d3-bars-bullet,Stiles,//img.datawrapper.de/5K6dV/0980c4c0ed4d8486d02a6a8e338e0e57/full.png,2022-07-21,July,2022-07-18
+EmzWN,Vaccine impact,d3-lines,Stiles,//img.datawrapper.de/Pj0Du/71cf090bcae8bbdd615413e2ee84e0f8/full.png,2022-07-21,July,2022-07-18
+5CinN,Housing construction starting to slow,d3-lines,Matthews,//img.datawrapper.de/7PSLV/483f65d6086a594c03a6216ed54c84f8/full.png,2022-07-21,July,2022-07-18
+NuP0t,Inflation expectation,d3-lines,Stiles,//img.datawrapper.de/gpBTd/218fc5eb91513338cead38fd703ac878/full.png,2022-07-21,July,2022-07-18
+mv1TK,"Rents going up, could slow soon?",d3-lines,Matthews,//img.datawrapper.de/FIRk3/48147c4b6791d44068bdb2fa21427a11/full.png,2022-07-20,July,2022-07-18
+1wMcq,Most abortion bans don't make exceptions for rape-related pregnancy,d3-maps-choropleth,Matthews,//img.datawrapper.de/J5UsK/f5da2d6515d3e69b939924c59093a51f/full.png,2022-07-20,July,2022-07-18
+P4vbU,Inflation outlook,d3-lines,Stiles,//img.datawrapper.de/EOvAr/cf02e5af55d38729be1bc3a80b382558/full.png,2022-07-20,July,2022-07-18
+7h9zQ,Employment situation,column-chart,Stiles,//img.datawrapper.de/Gfc2s/c867db7a86613e658fb0932d7f9a9498/full.png,2022-07-20,July,2022-07-18
+kpGZa,Unemployment claims,column-chart,Stiles,//img.datawrapper.de/cqLqV/fa596e971da1d8fbcb8ec46ce985bea7/full.png,2022-07-20,July,2022-07-18
+Qgkcp,"2022 temperatures, in context",column-chart,Stiles,//img.datawrapper.de/kEJrD/2b20e4b6ef8c3ae0d42ddae31105c226/full.png,2022-07-19,July,2022-07-18
+5K6dV,"Hot, but not the hottest",d3-lines,Stiles,//img.datawrapper.de/Rfaj6/baf3e1023adf3ad5f11ee50bfb7eb7cf/full.png,2022-07-19,July,2022-07-18
+Pj0Du,Chinese youth face worse unemployment than their peers internationally,d3-bars,Matthews,//img.datawrapper.de/FLlpI/8603c49db4830436fdd053e2ae4e8f86/full.png,2022-07-13,July,2022-07-11
+7PSLV,Nearly one-fifth of young Chinese people are unemployed,d3-lines,Matthews,//img.datawrapper.de/UzPZn/a9c56b5d0ccca5362f13d4114756e893/full.png,2022-07-13,July,2022-07-11
+gpBTd,Non-housing debt balance,d3-area,Deen,//img.datawrapper.de/VUPYc/de84efe01c56d06219a1a9c238276107/full.png,2022-07-13,July,2022-07-11
+FIRk3,China's aging population,d3-area,Deen,//img.datawrapper.de/Ypy9N/fa39c2ee92533b461d68f3aa27901e0d/full.png,2022-07-11,July,2022-07-11
+J5UsK,China's declining workforce,d3-lines,Deen,//img.datawrapper.de/ArOjZ/288dd411b35f37b96e645a116eb77a0d/full.png,2022-07-11,July,2022-07-11
+EOvAr,China's converging birth and death rates,d3-lines,Deen,//img.datawrapper.de/k0MW2/c0419864d60cbe5574d283ed45c41ea6/full.png,2022-07-11,July,2022-07-11
+Gfc2s,India to become most populous country,d3-lines,Deen,//img.datawrapper.de/cxSRl/aa7c67102c7ec032e6ac836047caac08/full.png,2022-07-11,July,2022-07-11
+cqLqV,"Gun deaths, compared",d3-lines,Stiles,//img.datawrapper.de/cnNQV/a24653721496fd9c10661ed0e4bff03e/full.png,2022-07-08,July,2022-07-04
+kEJrD,Ben Wallace is a Conservative Party favorite,d3-bars,Deen,//img.datawrapper.de/SYpca/698319670c4441ab4cdd9dd3a4d06473/full.png,2022-07-07,July,2022-07-04
+Rfaj6,Britons lack confidence in government,d3-lines,Stiles,//img.datawrapper.de/wJgnZ/1521773beedc12172c03078a83d7c512/full.png,2022-07-07,July,2022-07-04
+FLlpI,Total acres burned per year in Alaska,d3-lines,Deen,//img.datawrapper.de/k83Bi/fde8e8c483d1c052929de80cfa0f2658/full.png,2022-07-05,July,2022-07-04
+UzPZn,Alaska wildfire history,locator-map,Stiles,//img.datawrapper.de/2adxt/14922caf3635ed2e1543a59977c88cab/full.png,2022-07-05,July,2022-07-04
+VUPYc,Historic fires in western Alaska,column-chart,Stiles,//img.datawrapper.de/YZ0jM/d1c9a68f1d93f83b736d82dcd2d49541/full.png,2022-07-05,July,2022-07-04
+lBZLx,Has American culture changed for the better?,d3-lines,Deen,//img.datawrapper.de/DAdaW/35e8c790550e085d6fd03d9e96d96169/full.png,2022-06-30,June,2022-06-27
+Ypy9N,More inclusive views of American identity,d3-arrow-plot,Deen,//img.datawrapper.de/s5Ovw/5822a52a58ba8a0e54c92448e02e8d0f/full.png,2022-06-30,June,2022-06-27
+ArOjZ,Older generations have stronger views of national identity,d3-dot-plot,Deen,//img.datawrapper.de/ar0Vh/3826dbfc601819449da561339f2f069c/full.png,2022-06-30,June,2022-06-27
+k0MW2,Idle hands,d3-bars-bullet,Stiles,//img.datawrapper.de/a3yWV/1b7d5925739d335821b8534677841e5e/full.png,2022-06-29,June,2022-06-27
+cxSRl,Traits associated with being American,d3-bars-grouped,Deen,//img.datawrapper.de/xIzhm/51d76ac7694bc341067bca87bfbde10b/full.png,2022-06-28,June,2022-06-27
+cnNQV,Jan. 6 hearings spark interest,d3-area,Stiles,//img.datawrapper.de/4jFvl/4bc06b8d224069be0cbd67aaa3e6ce5d/full.png,2022-06-28,June,2022-06-27
+SYpca,China's human rights policies are an issue,d3-bars-stacked,Deen,//img.datawrapper.de/7MF9g/c984414c1210cae08ea01c820ba718c1/full.png,2022-06-28,June,2022-06-27
+wJgnZ,Low confidence in President Xi Jinping,d3-bars-stacked,Deen,//img.datawrapper.de/os5tz/e5440bf97630641e9a22e0db80cdf387/full.png,2022-06-28,June,2022-06-27
+k83Bi,Unfavorable views of China by country,d3-bars,Deen,//img.datawrapper.de/vWNfG/cb6fce2f4e14c892acccc50c179bd9a3/full.png,2022-06-28,June,2022-06-27
+2adxt,Maternal mortality rising in the U.S.,d3-lines,Matthews,//img.datawrapper.de/eKPt1/8e720fd249b127a136cbe5becea792c7/full.png,2022-06-24,June,2022-06-20
+YZ0jM,Maternal mortality worldwide,d3-maps-choropleth,Matthews,//img.datawrapper.de/kFELJ/9370b3037280e4ef91afa4c673f6a510/full.png,2022-06-24,June,2022-06-20
+DAdaW,Abortion rights worldwide,d3-maps-choropleth,Matthews,//img.datawrapper.de/KG54R/0cd58c60b89ac14b7266b1f85a3c5b9d/full.png,2022-06-24,June,2022-06-20
+s5Ovw,Retail sales of e-cigarettes by flavor,d3-area,Deen,//img.datawrapper.de/amEov/84fd289bffa081782870fc42c9e83b99/full.png,2022-06-24,June,2022-06-20
+ar0Vh,E-cigarette use dips among high schoolers,d3-lines,Deen,//img.datawrapper.de/VuQUa/6ec8f315293918d5719ccc4159a81612/full.png,2022-06-23,June,2022-06-20
+THCUC,States likely to ban abortion,d3-maps-choropleth,Matthews,//img.datawrapper.de/GvLQ7/077f5ebc4ea35cc01a7ac8a0f340e46f/full.png,2022-06-23,June,2022-06-20
+a3yWV,States with abortion bans on the books,d3-maps-choropleth,Matthews,//img.datawrapper.de/1cAtf/460788fc55ce86b52804dc11aaa51cb5/full.png,2022-06-23,June,2022-06-20
+T7G8Y,"States with ""trigger"" abortion bans",d3-maps-choropleth,Matthews,//img.datawrapper.de/gpy5L/c47785160a2d6b55ff78b0d6b0a1c8fa/full.png,2022-06-23,June,2022-06-20
+IbMeb,Xinjiang exports,d3-maps-choropleth,Stiles,//img.datawrapper.de/blQ4A/167aa365eb3662a14553a67e832b6984/full.png,2022-06-23,June,2022-06-20
+6rj24,Adolescent mental health deteriorated during the pandemic,d3-lines,Matthews,//img.datawrapper.de/rDSfE/5f7a532e4ce5e94bc2431eb1d2310bb0/full.png,2022-06-22,June,2022-06-20
+nCpA9,U.S. kids experience more depression,d3-bars-grouped,Matthews,//img.datawrapper.de/JOqw6/0aaf95db1d63a2efb638d8a5ed212563/full.png,2022-06-22,June,2022-06-20
+xIzhm,Crypto lobbying spending soars,d3-bars,Deen,//img.datawrapper.de/jQp5Z/e855a83d9f8f020ed56c705f440a3eaf/full.png,2022-06-21,June,2022-06-20
+jxw5a,"Suicides per 100,000 children 0-18",d3-lines,Matthews,//img.datawrapper.de/RElP4/0626cc4a1bc47dfd680d81a6837c8789/full.png,2022-06-17,June,2022-06-13
+4jFvl,Goodbye to Internet Explorer,d3-area,Deen,//img.datawrapper.de/FSmMl/469fa3a0c7bef485d939adf154d029c5/full.png,2022-06-16,June,2022-06-13
+7MF9g,Mental health provider deserts,d3-maps-choropleth,Matthews,//img.datawrapper.de/U7vrt/0708daa5a63ce1d3ce94c554bb550568/full.png,2022-06-16,June,2022-06-13
+os5tz,Televised viewership of political events,d3-bars,Deen,//img.datawrapper.de/Wcptq/39eba960f946f33e032f7771f05ef38d/full.png,2022-06-14,June,2022-06-13
+vWNfG,Jan. 6 hearing viewership by age,d3-bars-stacked,Deen,//img.datawrapper.de/bQbwv/df0cb66d87ffad70e3aead51f1137d5d/full.png,2022-06-14,June,2022-06-13
+eKPt1,Media coverage of Ukraine wanes,d3-lines,Deen,//img.datawrapper.de/JUIFS/a2e417668eeb2d9e213d57544a1984e3/full.png,2022-06-10,June,2022-06-06
+kFELJ,Public engagement with Ukraine falls,d3-lines,Deen,//img.datawrapper.de/J6Qtx/5deb0c92f1aa367d96c15bfee0bea66f/full.png,2022-06-10,June,2022-06-06
+zKg5B,Ukraine's Black Sea coast,locator-map,Stiles,//img.datawrapper.de/3Z2JN/cda54cbddb301d079a9fd721a1d4daeb/full.png,2022-06-09,June,2022-06-06
+KG54R,Proud Boys at political events since 2020,stacked-column-chart,Deen,//img.datawrapper.de/J4kV9/3f7b47e0f4a46929b3d37ca4d830d48a/full.png,2022-06-09,June,2022-06-06
+amEov,Year-on-year change in China's retail sales,column-chart,Deen,//img.datawrapper.de/J6vg7/31aed009cea5f096be5eb696115b4b6b/full.png,2022-06-06,June,2022-06-06
+VuQUa,China's retail sales by sector in April,d3-bars,Deen,//img.datawrapper.de/KJ9Cf/bc985b9de8d0a6b247cb83495348439c/full.png,2022-06-06,June,2022-06-06
+GvLQ7,Reported crypto losses by fraud type,d3-bars,Deen,//img.datawrapper.de/e4WiI/ed66953a794373ca2713f72eca872534/full.png,2022-06-06,June,2022-06-06
+1cAtf,U.S. violent crime trends,d3-lines,Matthews,//img.datawrapper.de/T4IMU/02f4f775ed4b5b94f83552e30c4143c0/full.png,2022-06-03,June,2022-05-30
+gpy5L,Mass shootings by state,d3-maps-choropleth,Stiles,//img.datawrapper.de/bD9Vo/1da16decf59ea169e181a6367be32a7f/full.png,2022-06-02,June,2022-05-30
+blQ4A,Crime changes,d3-bars,Matthews,//img.datawrapper.de/uk7QC/478e2b1c608d74a1082b09cb04081ae9/full.png,2022-06-02,June,2022-05-30
+rDSfE,Crime changes,d3-bars,Matthews,//img.datawrapper.de/VWLgV/3d80d7a79961b107c3d6d88be39f843c/full.png,2022-06-02,June,2022-05-30
+JOqw6,Californians increasingly say violence and street crime is a big problem,d3-arrow-plot,Deen,//img.datawrapper.de/5v05m/76ad04443138c1fb16704b57cfd36ad1/full.png,2022-06-02,June,2022-05-30
+jQp5Z,Who is the most concerned about crime?,d3-bars,Matthews,//img.datawrapper.de/i0EKf/d6fd27ae115d567ebbdd001f2a986050/full.png,2022-06-02,June,2022-05-30
+FHI7U,Northward migration,locator-map,Stiles,//img.datawrapper.de/vofTY/b971fd58261f915c349ec5cc9202023f/full.png,2022-06-01,June,2022-05-30
+RElP4,'Brain-eating amoeba' cases,column-chart,Stiles,//img.datawrapper.de/S1tZx/2ac05d945e3bf78870c425b1c52ff054/full.png,2022-06-01,June,2022-05-30
+FSmMl,Concerns about crime are growing,d3-lines,Matthews,//img.datawrapper.de/FWA6d/f82584191b97adc6719176a813a2ca28/full.png,2022-05-31,May,2022-05-30
+U7vrt,Emerald ash borer devastating ash trees,d3-maps-choropleth,Deen,//img.datawrapper.de/zmu8e/9fd0754adf9e682665777148d3b78573/full.png,2022-05-31,May,2022-05-30
+Wcptq,Americans' evolving attitudes on guns,d3-lines,Stiles,//img.datawrapper.de/TQHo0/ce24d9d0fb7ca7f78ea0aea8ff703c3f/full.png,2022-05-26,May,2022-05-23
+bQbwv,Causes of death for children and teens,d3-lines,Matthews,//img.datawrapper.de/JnOy7/591cfc04526107c0214206ed837d73e1/full.png,2022-05-26,May,2022-05-23
+dbCQM,Who owns nuclear weapons?,tables,Deen,//img.datawrapper.de/Jwt7a/21dee4160facabce06a7468246bca758/full.png,2022-05-25,May,2022-05-23
+JUIFS,Who is buying guns?,d3-dot-plot,Deen,//img.datawrapper.de/QY66D/9e33d00c6e6e79d9d33f1987d2ffc45f/full.png,2022-05-25,May,2022-05-23
+J6Qtx,How many guns do U.S. adults own?,d3-dot-plot,Deen,//img.datawrapper.de/JJV59/64babbcd645f554e3165e264aa4c2204/full.png,2022-05-25,May,2022-05-23
+3Z2JN,Gas prices have spiked since late 2020,d3-lines,Matthews,//img.datawrapper.de/0lrPn/194d5c949bf06e29f7d801af19845415/full.png,2022-05-25,May,2022-05-23
+J4kV9,Children killed in shootings each year,column-chart,Deen,//img.datawrapper.de/wKP7v/4d1d00f5aac08c04f9452658800aae82/full.png,2022-05-24,May,2022-05-23
+CInlD,Guns on the rise,d3-lines,Stiles,//img.datawrapper.de/h5saW/c00b29c62621ea1d66d574707da256a7/full.png,2022-05-24,May,2022-05-23
+J6vg7,Percent of adults who own guns,d3-bars-stacked,Deen,//img.datawrapper.de/yi9Bh/e9432b1bb03e821baa329b39219b9a2d/full.png,2022-05-24,May,2022-05-23
+KJ9Cf,Shootings and children,d3-maps-choropleth,Stiles,//img.datawrapper.de/vdkPO/202797063b0c0f23817da26ece364c14/full.png,2022-05-24,May,2022-05-23
+e4WiI,Ukraine's Black Sea coast,locator-map,Deen,//img.datawrapper.de/42KNC/3abb046e409119d1f443219900ab30e7/full.png,2022-05-24,May,2022-05-23
+kcqe3,Opinions split on 'replacement',d3-bars-stacked,Stiles,//img.datawrapper.de/GNUBa/dc7e83d2ac68b5baffc4d0e7b42e5d07/full.png,2022-05-16,May,2022-05-16
+T4IMU,Primary timeline,d3-scatter-plot,Stiles,//img.datawrapper.de/DbaFL/54cbcc44d61084006c2bc71845018668/full.png,2022-05-14,May,2022-05-09
+bD9Vo,Primary calendar still unfolding,d3-bars,Stiles,//img.datawrapper.de/w0kz6/6d2fd74b0ea33dbcc04fc0e71545a3e5/full.png,2022-05-13,May,2022-05-09
+uk7QC,Turning point in Pennsylvania? ,d3-lines,Stiles,//img.datawrapper.de/JINx2/6b3340b631b01c09404c9619b9e38785/full.png,2022-05-12,May,2022-05-09
+VWLgV,Turning point in Ohio?,d3-lines,Stiles,//img.datawrapper.de/vaZ7Y/a09a098c3bd90bf3ee9d903e7eee2cc6/full.png,2022-05-12,May,2022-05-09
+oFO0h,Trump's endorsement calendar,tables,Stiles,//img.datawrapper.de/TPbpi/220bbc7d023b135e530949b83c940543/full.png,2022-05-12,May,2022-05-09
+5v05m,Oracle's big spending on influence,d3-bars,Deen,//img.datawrapper.de/bJsru/43a366c814cb0b9293471c76c94d4db3/full.png,2022-05-12,May,2022-05-09
+i0EKf,Middle schoolers who report having asthma,d3-maps-choropleth,Deen,//img.datawrapper.de/4VBC3/c810141bfd8831315cbba1f155d29774/full.png,2022-05-11,May,2022-05-09
+vofTY,Russia's revenue from oil and gas in rubles,d3-bars-grouped,Deen,//img.datawrapper.de/GUvTF/ac368fcb02e57b3f67ea1fa2ee14dd6c/full.png,2022-05-11,May,2022-05-09
+S1tZx,Value of Russian ruble rebounds,d3-lines,Deen,//img.datawrapper.de/FBKsn/30cd9f98c1300627e43c0de96c841d1f/full.png,2022-05-11,May,2022-05-09
+FWA6d,Percent change in Consumer Price Index and wage growth,d3-lines,Deen,//img.datawrapper.de/ymIeN/ac0e6c66535aeb2b1e9a15e6aa60137a/full.png,2022-05-10,May,2022-05-09
+zmu8e,Sites participating in long covid study,d3-maps-choropleth,Deen,//img.datawrapper.de/WvoD4/b84b1d82c83c98215342f49cc951fcb4/full.png,2022-05-06,May,2022-05-02
+qKmn3,Most women in Congress who tweeted about Roe v. Wade were Democrats,d3-bars-stacked,Deen,//img.datawrapper.de/sOh9W/53b7bf11496a7c843340a4b0c62b1a40/full.png,2022-05-06,May,2022-05-02
+cs3oF,Abortion training for doctors,d3-maps-symbols,Matthews,//img.datawrapper.de/3V4Ca/00810ebcde6c9843badd4630a3aa7a93/full.png,2022-05-06,May,2022-05-02
+8JdI1,Republicans in Congress more focused on opinion leak,d3-bars-split,Deen,//img.datawrapper.de/CXQeJ/8185ac0a48597c17839718d3204ef180/full.png,2022-05-05,May,2022-05-02
+TQHo0,White evangelical Protestants more likely to deny existence of systemic racism,d3-bars-stacked,Deen,//img.datawrapper.de/3YHm0/50e7d4719e0eade029fc284222be937d/full.png,2022-05-05,May,2022-05-02
+JnOy7,White evangelical Protestants more likely to oppose same-sex marriage,d3-bars-stacked,Deen,//img.datawrapper.de/cs0Gm/d16077fb33f1ee20baffcad8ca6f264b/full.png,2022-05-05,May,2022-05-02
+6IyVa,White evangelical Protestants more likely to be nostalgic for the 1950s,d3-bars-stacked,Deen,//img.datawrapper.de/2g4ZR/04b20d66a824a7a2596e6adac2af6d6a/full.png,2022-05-05,May,2022-05-02
+Jwt7a,Majority of white evangelical Protestants say abortion should be illegal in most or all cases,d3-bars-stacked,Deen,//img.datawrapper.de/Q2v75/064e74d2714ee4f5902cbaf2e4697966/full.png,2022-05-04,May,2022-05-02
+QY66D,Majority of white evangelical Protestants favor overturning Roe v. Wade,d3-bars-stacked,Deen,//img.datawrapper.de/SyiGa/4bfc77f18e7fb1e9256be8f0cbfc3084/full.png,2022-05-04,May,2022-05-02
+dPNsC,Medication abortions on the rise,d3-bars-stacked,Matthews,//img.datawrapper.de/eX4IJ/7302212025bc896912f90fa02f5b334d/full.png,2022-05-04,May,2022-05-02
+JJV59,In-person visits required for medication abortions,d3-maps-choropleth,Matthews,//img.datawrapper.de/8o5Z6/ff22174527618c10187685b7464f0555/full.png,2022-05-04,May,2022-05-02
+0lrPn,,locator-map,Matthews,//img.datawrapper.de/1daCt/15c02e35bc2a6beab9b055d3da3d1af4/full.png,2022-05-02,May,2022-05-02
+wKP7v,Mysterious incidents on Russian soil,locator-map,Stiles,//img.datawrapper.de/fl35Z/a5398c23983c34edfcabd3aff729d893/full.png,2022-05-02,May,2022-05-02
+h5saW,Transnistria,locator-map,Stiles,//img.datawrapper.de/y01l7/83f244e9e2eb14e596fd367c227fd1eb/full.png,2022-05-02,May,2022-05-02
+yi9Bh,The talk of Twitter,d3-area,Stiles,//img.datawrapper.de/r3GJu/99ac40ca19c2293a85abdb1f3e6e2bf6/full.png,2022-05-01,May,2022-04-25
+vdkPO,Tesla revenue from regulatory credit sales,column-chart,Matthews,//img.datawrapper.de/0gr4v/5df1ed6bc1643e60dae7b2c9b1347b33/full.png,2022-04-29,April,2022-04-25
+42KNC,School districts requiring facilities updates or replacements in at least half of schools,d3-bars,Deen,//img.datawrapper.de/rk9fw/a7684101c68af25dd93e631f600eb477/full.png,2022-04-29,April,2022-04-25
+ZKdh6,"More than 100,000 registered nurses left the workforce in 2021",d3-lines,Matthews,//img.datawrapper.de/x5247/1ceb1e2b6bede614224be555c94208e8/full.png,2022-04-27,April,2022-04-25
+YaBV1,@elonmusk follower growth on Twitter,d3-lines,Stiles,//img.datawrapper.de/McE3W/2af3ebe2dc134b225ecbf4dc4a0fc9b5/full.png,2022-04-27,April,2022-04-25
+GNUBa,Race of victims of death penalty crimes,stacked-column-chart,Matthews,//img.datawrapper.de/YNxCB/b52a1d0c6c4339adeb4feb7755a5c6d7/full.png,2022-04-26,April,2022-04-25
+DbaFL,Race of people executed since the 1980s,stacked-column-chart,Matthews,//img.datawrapper.de/5NkqQ/7d63e769453921190bbc949d3e5e72d5/full.png,2022-04-26,April,2022-04-25
+w0kz6,Musk's Monday moments,d3-area,Stiles,//img.datawrapper.de/5OUZJ/9a6e0949f44f101ee1610c6346e57542/full.png,2022-04-26,April,2022-04-25
+JINx2,Selected methods of executions since 1800,d3-area,Deen,//img.datawrapper.de/26uV1/dc9b174d70a6cc5df312eb2dbffaa180/full.png,2022-04-26,April,2022-04-25
+vaZ7Y,Chinese-backed coal plants likely to be built,d3-bars,Deen,//img.datawrapper.de/CrKVR/95fd3af55c7da63803f4b8dd7bcd9374/full.png,2022-04-25,April,2022-04-25
+TPbpi,Canceled or shelved coal-fired power plants backed by China,d3-bars,Deen,//img.datawrapper.de/VWP9T/d828aaef2239d6a92d2916ad43d69034/full.png,2022-04-25,April,2022-04-25
+bJsru,Netflix stock drops below pre-covid levels,d3-lines,Deen,//img.datawrapper.de/NmtWS/59b7d756e5bcaf27f9214215fef260a2/full.png,2022-04-22,April,2022-04-18
+4VBC3,A focus on specific states,d3-maps-choropleth,Stiles,//img.datawrapper.de/BJ90Y/46cb23edfac0c9b77755e39e938a69e6/full.png,2022-04-19,April,2022-04-18
+qL8rt,The battle for Donbas,locator-map,Matthews,//img.datawrapper.de/wnMVu/1e263f23849930712a32f1b5e20bc9e3/full.png,2022-04-19,April,2022-04-18
+G3sbh,"Percent of teens with persistent feelings of
+sadness or hopelessness",d3-lines,Deen,//img.datawrapper.de/BXgqN/1f1094692903587bd34f71c2ab1a1fa6/full.png,2022-04-18,April,2022-04-18
+GUvTF,Demand for travel nurses surged with covid,d3-area,Matthews,//img.datawrapper.de/j8vHo/1d837cf3afc2f8bda556839eb9f79b13/full.png,2022-04-13,April,2022-04-11
+FBKsn,Shanghai locks down due to covid surge,column-chart,Matthews,//img.datawrapper.de/NaUiz/3793fe676ed442c7440019046427df87/full.png,2022-04-12,April,2022-04-11
+XCmK0,"QAnon-affiliated candidates, by state",d3-maps-choropleth,Stiles,//img.datawrapper.de/48muG/995234712676a84ef2d1bb94d076ec46/full.png,2022-04-08,April,2022-04-04
+ymIeN,Voters and QAnon conspiracies,d3-bars-stacked,Stiles,//img.datawrapper.de/TEIo5/72b4dcf5ee4648f124ffd5e21ee6adc9/full.png,2022-04-08,April,2022-04-04
+WvoD4,Disparity in hospital beds between urban and rural China,d3-bars,Deen,//img.datawrapper.de/CPW4G/e7014e6871ff12e63835ae2e54701fe5/full.png,2022-04-07,April,2022-04-04
+sOh9W,Views on QAnon conspiracy theories,d3-bars-stacked,Stiles,//img.datawrapper.de/3jbZx/2fa3f756fd88f2c2910e4d2b5e424fc7/full.png,2022-04-07,April,2022-04-04
+3V4Ca,The partisan split on QAnon,d3-bars-stacked,Stiles,//img.datawrapper.de/sev4e/d9188b79819182bab4044cacefa83fcf/full.png,2022-04-07,April,2022-04-04
+CXQeJ,More acres have burned in recent years,d3-lines,Matthews,//img.datawrapper.de/BNP5d/5c0b7d0b380ba6b96425c032b801b5d9/full.png,2022-04-07,April,2022-04-04
+3YHm0,"Per capita, rural China has fewer physicians",d3-bars,Deen,//img.datawrapper.de/K2H82/14194d26d0532845dd22a372dd466435/full.png,2022-04-07,April,2022-04-04
+cs0Gm,'QAnon' on Twitter,d3-area,Stiles,//img.datawrapper.de/39S1L/96ee6e07adad0d0abfbe3d2e458e7ab1/full.png,2022-04-07,April,2022-04-04
+2g4ZR,U.S. gas prices are soaring,d3-lines,Deen,//img.datawrapper.de/IJa9P/1bd1f2016e94f4bd3ab7717b33233b23/full.png,2022-04-06,April,2022-04-04
+Q2v75,Wildfires have increased in size,d3-lines,Matthews,//img.datawrapper.de/9FHGO/8c3fd433b680db7ccd712d2d51bf010b/full.png,2022-04-05,April,2022-04-04
+SyiGa,Disease disparities,d3-bars-bullet,Stiles,//img.datawrapper.de/SHWQg/7c12fc659bbcfb4d57f0b3e6758bdb15/full.png,2022-04-04,April,2022-04-04
+QiizL,Votes for Supreme Court nominees by president's party,d3-bars-stacked,Deen,//img.datawrapper.de/xkvlh/aa4a829a53007c19a5c4bb4aa4fadcb9/full.png,2022-03-30,March,2022-03-28
+eX4IJ,Jackson's confirmation vote highlights waning bipartisan Senate support,d3-scatter-plot,Deen,//img.datawrapper.de/yYQmG/3df2eaeffd2669c9e191108a91352136/full.png,2022-03-30,March,2022-03-28
+8o5Z6,2020 greenhouse gas disclosures from Chinese companies,d3-bars,Deen,//img.datawrapper.de/6a1YX/c8a9d8de287fc0ec9fc70d0e177d3372/full.png,2022-03-28,March,2022-03-28
+1daCt,Nickel prices,d3-lines,Stiles,//img.datawrapper.de/X5K7W/99f114a136fef4e52ac82795d3264814/full.png,2022-03-22,March,2022-03-21
+KYtcL,Spring flowers are blooming earlier,d3-maps-symbols,Deen,//img.datawrapper.de/QFEWT/8fe2cc38d0de9f3e38433c25b96ffd32/full.png,2022-03-21,March,2022-03-21
+fl35Z,Judiciary Committee is historically white,d3-bars-stacked,Stiles,//img.datawrapper.de/imku2/a7c781c1dee3b75936d40eadd625c82b/full.png,2022-03-17,March,2022-03-14
+y01l7,Judiciary Committee is historically male,d3-bars-stacked,Stiles,//img.datawrapper.de/qtPIS/27c74fdc062f30316aa764bed114950f/full.png,2022-03-17,March,2022-03-14
+r3GJu,Pardon the interruption,d3-bars-bullet,Stiles,//img.datawrapper.de/GbSOh/8cb72d4ce3c1ca1af793037cf5bc8264/full.png,2022-03-17,March,2022-03-14
+0gr4v,SCOTUS questioning differs by race,d3-bars-bullet,Stiles,//img.datawrapper.de/Sc8fJ/9a09a0e9045c2d3d3c9b2fb890d73a6b/full.png,2022-03-17,March,2022-03-14
+rk9fw,SCOTUS questioning differs by gender,d3-bars-bullet,Stiles,//img.datawrapper.de/6ZhOZ/4436f8afdf289240984bbe1dd529beb9/full.png,2022-03-17,March,2022-03-14
+x5247,Hong Kong's 2022 covid surge,d3-bars,Matthews,//img.datawrapper.de/QwUwJ/9d0b1a0910b39c803a15b9c9da78c022/full.png,2022-03-16,March,2022-03-14
+McE3W,Daylight saving time legislation by state,d3-maps-choropleth,Deen,//img.datawrapper.de/J0NXS/190d7e0ce3a0ee7906524b4ecb699405/full.png,2022-03-16,March,2022-03-14
+YNxCB,Covid soars in Hong Kong,d3-lines,Matthews,//img.datawrapper.de/87b5K/b007f0d20ccb8634fdcb2773b549bc9c/full.png,2022-03-15,March,2022-03-14
+5NkqQ,Hong Kong vaccination rates by age group,d3-bars,Deen,//img.datawrapper.de/8DPiU/5486839721d7e9bd6243a4f0c83d3ef7/full.png,2022-03-15,March,2022-03-14
+5OUZJ,"Major variants sequenced in  <a target=""_self"" href=""https://datawrapper.dwcdn.net/5OUZJ/1/"" rel=""nofollow noopener noreferrer""><span style=""background: #00d4d8;
+    padding: 1px 6px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 400;
+    box-shadow: 0px 0px 7px 2px rgb(0 0 0 / 7%);
+    text-decoration: none;
+    cursor: pointer;"">India</span></a>&nbsp;versus&nbsp;<a target=""_self"" href=""https://datawrapper.dwcdn.net/26uV1/5/"" rel=""nofollow noopener noreferrer""><span style=""background: #c5c5c5;
+    padding: 1px 6px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 400;
+    box-shadow: 0px 0px 7px 2px rgb(0 0 0 / 7%);
+    text-decoration: none;
+    cursor: pointer;"">U.S.</span></a>",d3-area,Matthews,//img.datawrapper.de/h5bly/554e366d6f3bad73d91dec0b5418b9c2/full.png,2022-03-14,March,2022-03-14
+26uV1,"Major variants sequenced in  <a target=""_self"" href=""https://datawrapper.dwcdn.net/26uV1/5/"" rel=""nofollow noopener noreferrer""><span style=""background: #00d4d8;
+    padding: 1px 6px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 400;
+    box-shadow: 0px 0px 7px 2px rgb(0 0 0 / 7%);
+    cursor: pointer; text-decoration: none;"">U.S.</span></a>&nbsp;versus&nbsp;<a target=""_self"" href=""https://datawrapper.dwcdn.net/5OUZJ/2/"" rel=""nofollow noopener noreferrer""><span style=""background: #c5c5c5;
+    padding: 1px 6px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 400;
+    box-shadow: 0px 0px 7px 2px rgb(0 0 0 / 7%);
+    text-decoration: none;
+    cursor: pointer;"">India</span> </a>",d3-area,Matthews,//img.datawrapper.de/2tX5W/68b4529980dd415d30d7d119e63c3059/full.png,2022-03-14,March,2022-03-14
+CrKVR,Sanctioned oligarchs' yachts,tables,Matthews,//img.datawrapper.de/yrvFU/a9f67caad016c2a4be2a159ad5ef4da3/full.png,2022-03-14,March,2022-03-14
+fCz9Q,Monthly crude oil prices,d3-lines,Deen,//img.datawrapper.de/RpHeE/7e1b2cc41eab28c149400fc2ee411f68/full.png,2022-03-13,March,2022-03-07
+VWP9T,Sanctioned oligarchs,tables,Deen,//img.datawrapper.de/goAK8/de0e97c18a041bd8e0eb5a6f6398e1d2/full.png,2022-03-10,March,2022-03-07
+GBz7Q,Oligarch yachts,tables,Stiles,//img.datawrapper.de/k0r9E/67a079e28164ebe102c7c4597fd1752c/full.png,2022-03-10,March,2022-03-07
+nmtUv,Tracking oligarch superyachts,d3-maps-symbols,Stiles,//img.datawrapper.de/YCwBN/0b75c5619b57557ac8027eb6989b1eb5/full.png,2022-03-09,March,2022-03-07
+o0MZS,Refugee population growing,d3-maps-symbols,Stiles,//img.datawrapper.de/UfSgi/814cf8664d16d650b6215d79e4b38561/full.png,2022-03-05,March,2022-02-28
+NmtWS,Active nuclear power plants in Ukraine,locator-map,Deen,//img.datawrapper.de/wHpZs/071b87e669e720719d3314fde9f1584c/full.png,2022-03-04,March,2022-02-28
+H9C2n,Military aid to Ukraine,d3-maps-choropleth,Stiles,//img.datawrapper.de/BjqjI/44c90ae2947cdc74f41f3e9b2929c20a/full.png,2022-03-03,March,2022-02-28
+7I3Tu,Bid winners for offshore wind lease areas,locator-map,Deen,//img.datawrapper.de/ULMU6/155c525c401bda1a693fab7a41318b55/full.png,2022-03-01,March,2022-02-28
+BJ90Y,State of the Union getting simpler,d3-area,Stiles,//img.datawrapper.de/YK9HF/72ccbddf45d8ae1f0960beb9836ecc7b/full.png,2022-02-28,February,2022-02-28
+wnMVu,Common State of the Union words,tables,Stiles,//img.datawrapper.de/noVPS/3681b5f229034a49a3cd64ba454de2ec/full.png,2022-02-28,February,2022-02-28
+qENoB,Estimated global nuclear warhead inventory,d3-bars-stacked,Deen,//img.datawrapper.de/vbhfm/795c09fb5ae52a71971c1f8963ab896a/full.png,2022-02-28,February,2022-02-28
+BXgqN,Global electric vehicle sales since 2017,stacked-column-chart,Deen,//img.datawrapper.de/XsiJz/09167a8709d2c9b3ec4a082330d7d9d2/full.png,2022-02-28,February,2022-02-28
+SkYSh,Confidence in press sinking,d3-lines,Stiles,//img.datawrapper.de/97Ial/ab1f5ed74fe0c7e53d650e2c0c06856a/full.png,2022-02-26,February,2022-02-21
+COLp9,Newly enacted voting laws,d3-maps-choropleth,Stiles,//img.datawrapper.de/E4prL/2ccc6c523c01ee50dc81e4292182dfb0/full.png,2022-02-25,February,2022-02-21
+M584H,Inflation rate spikes during pandemic ,d3-lines,Deen,//img.datawrapper.de/eQVA7/86eb86ab35564a1d05f42bb567ec51a9/full.png,2022-02-25,February,2022-02-21
+j8vHo,Partisan divide on 2020,d3-bars-stacked,Stiles,//img.datawrapper.de/L7nWU/6b6aef0401aab0680aeaaf626fd32d8e/full.png,2022-02-25,February,2022-02-21
+NaUiz,Covid-19 death rates by vaccination status,d3-lines,Deen,//img.datawrapper.de/Kx0Hx/3271bfc1f0e2edb2c1b419836987a20f/full.png,2022-02-25,February,2022-02-21
+IRUcf,Weather and climate disasters increasing,d3-bars,Levitan,//img.datawrapper.de/hdT28/a619b8c4cc99cbfde2907408ba717649/full.png,2022-02-25,February,2022-02-21
+JcQP5,Percent of population employed,d3-lines,Deen,//img.datawrapper.de/vp2U0/10fcbaf769eaeca48f50bfaf8a0d09cd/full.png,2022-02-25,February,2022-02-21
+YeNXi,Countries with contracts for covid-19 pills,d3-maps-choropleth,Deen,//img.datawrapper.de/MK7Xa/f7ac628a05ab2eb353b822b1aadc0f61/full.png,2022-02-24,February,2022-02-21
+vM2oY,Value of Russian ruble plunges,d3-lines,Deen,//img.datawrapper.de/HFsY4/ad0ba0244c9acb619a61441a6c0351b1/full.png,2022-02-24,February,2022-02-21
+9tCES,Russian invasion of Ukraine,locator-map,Stiles,//img.datawrapper.de/fPc1n/4fc514d13dd979b5ec00958f9564b117/full.png,2022-02-24,February,2022-02-21
+99kn1,Top exports from Russia to China in 2021,d3-bars,Deen,//img.datawrapper.de/YIvMY/305afe4764e9238edb01a1ea97c5c05e/full.png,2022-02-23,February,2022-02-21
+VkecD,Ukraine,locator-map,Stiles,//img.datawrapper.de/Wi8ll/f24cce71c9592f6c0f1a8f0a62efd22f/full.png,2022-02-21,February,2022-02-21
+KhmOQ,What portion of students borrow to finance higher education?,d3-bars-grouped,Matthews,//img.datawrapper.de/XcjP2/285ac20b6aa74a6de5494aa6a63f6b2d/full.png,2022-02-17,February,2022-02-14
+C2gHh,More clear days,d3-bars-stacked,Stiles,//img.datawrapper.de/1IwUs/3b8bbab176528caa25a17774a35dd318/full.png,2022-02-17,February,2022-02-14
+pOcsF,China in comparison,tables,Stiles,//img.datawrapper.de/fO1it/d29822b11d318b2d3fd03aeef7ac40f0/full.png,2022-02-17,February,2022-02-14
+LeX6p,Graduate students borrow the most,d3-bars-grouped,Matthews,//img.datawrapper.de/s8LbV/604da734bc2ef833da740e8094013e92/full.png,2022-02-16,February,2022-02-14
+x6J4j,GiveSendGo donations,d3-maps-choropleth,Stiles,//img.datawrapper.de/RoJWo/f13d04c4f5358dea624f0e76e906ec99/full.png,2022-02-16,February,2022-02-14
+cMWZ6,China clearing the air,d3-lines,Stiles,//img.datawrapper.de/ohr4l/64aabd8ba163c1bf0ff22049c1e4520e/full.png,2022-02-15,February,2022-02-14
+p2xxk,Orbital owners,d3-bars,Stiles,//img.datawrapper.de/QkCTj/8eb444890cc17830975fa42a4eca49e3/full.png,2022-02-15,February,2022-02-14
+tviCp,Crowding space,d3-area,Stiles,//img.datawrapper.de/R78JZ/84029f6f0230158b4e941e8f9cb26d27/full.png,2022-02-15,February,2022-02-14
+48muG,"""Ice-outs"" on New Hampshire's Lake Winnipesaukee since 1887",d3-lines,Deen,//img.datawrapper.de/6cclD/a2f3b02ec020f41eade5b9598f17d4ee/full.png,2022-02-14,February,2022-02-14
+TEIo5,Flour prices increase after Afghan government collapses,d3-range-plot,Deen,//img.datawrapper.de/OrQxg/3ce1feaaaac4c180757b32f55517d6db/full.png,2022-02-11,February,2022-02-07
+EANbo,Bean prices increase after Afghan government collapses,d3-range-plot,Deen,//img.datawrapper.de/ArfJt/00276d9c3ee36cbe76fd1f5dccd35192/full.png,2022-02-11,February,2022-02-07
+CPW4G,Potato prices increase after Afghan government collapses,d3-range-plot,Deen,//img.datawrapper.de/Bhc9M/2046321dda17012fb6a8a52be6c5320d/full.png,2022-02-11,February,2022-02-07
+3jbZx,Egg prices increase after Afghan government collapses,d3-range-plot,Deen,//img.datawrapper.de/uMPPm/31e5aa6c98b81288e6052f7afd28495d/full.png,2022-02-11,February,2022-02-07
+sev4e,Chicken prices increase after Afghan government collapses,d3-range-plot,Deen,//img.datawrapper.de/dAQa9/d51c165e2b35d1d053e802ef6912c0f3/full.png,2022-02-11,February,2022-02-07
+BNP5d,Women saw starker employment losses than men did after the regime change,tables,Matthews,//img.datawrapper.de/O8EtZ/e1e47cb6545d60643e9a925bcc6f1cf8/full.png,2022-02-11,February,2022-02-07
+K2H82,Patients receiving transplants by race and ethnicity ,d3-bars-bullet,Deen,//img.datawrapper.de/ZAqhg/c5269958f2c6f398a6c40b163de2e176/full.png,2022-02-10,February,2022-02-07
+39S1L,Skating season getting shorter,d3-lines,Deen,//img.datawrapper.de/yV32n/6bac6846ee5f4b94ae476cc53a3cf2ca/full.png,2022-02-09,February,2022-02-07
+IJa9P,Xinjiang exports,tables,Stiles,//img.datawrapper.de/BdIW6/cb90b2c2597734c84ea34322232eceee/full.png,2022-02-09,February,2022-02-07
+A13lJ,Strides in educating Afghan girls,stacked-column-chart,Matthews,//img.datawrapper.de/iuiSh/f2229969e0c750669ce0eddcca671347/full.png,2022-02-09,February,2022-02-07
+9FHGO,Xinjiang exports,d3-maps-choropleth,Stiles,//img.datawrapper.de/mDFbV/4477cd51aa5a16d7b5721700494356a3/full.png,2022-02-09,February,2022-02-07
+SHWQg,Fewer media outlets operate in Afghanistan after government collapse,grouped-column-chart,Deen,,2022-02-09,February,2022-02-07
+5YY8b,Gender disparity in journalism grows after fall of Afghan government,grouped-column-chart,Deen,,2022-02-09,February,2022-02-07
+j9mfV,Xinjiang exports by year,d3-bars,Stiles,,2022-02-09,February,2022-02-07
+zUp1q,Xinjiang,locator-map,Stiles,,2022-02-09,February,2022-02-07
+xkvlh,Natural gas imports to the EU,d3-area,Matthews,,2022-02-09,February,2022-02-07
+yYQmG,Viewership of the Oscars has plummeted,d3-lines,Matthews,,2022-02-08,February,2022-02-07
+VHPlO,Outdoor ice skating season,d3-bars-grouped,Deen,,2022-02-08,February,2022-02-07
+BlFnH,Hate crime convictions by state,d3-maps-choropleth,Deen,,2022-02-07,February,2022-02-07
+5h5SC,Hate crime conviction rate increases,d3-bars-stacked,Deen,,2022-02-07,February,2022-02-07
+6a1YX,Hate crime prosecutions by U.S. attorneys remain steady over 15-year period,d3-bars-stacked,Deen,,2022-02-07,February,2022-02-07
+8WsLr,Demand for transplants by organ,d3-bars-stacked,Deen,,2022-02-04,February,2022-01-31
+8t6Jh,Updated jobs report ,column-chart,Deen,,2022-02-04,February,2022-01-31
+XwjKi,The Olympics as a unifier,d3-bars-stacked,Stiles,,2022-02-01,February,2022-01-31
+X5K7W,Air strikes over time,tables,Stiles,,2022-02-01,February,2022-01-31
+IMWLx,Airstrikes over time,column-chart,Stiles,,2022-02-01,February,2022-01-31
+ZAFfV,School-age children in low-income countries are less likely to have internet,d3-bars,Matthews,,2022-02-01,February,2022-01-31
+xGxCx,Households with internet access,d3-maps-choropleth,Matthews,,2022-01-31,January,2022-01-31
+tHwlH,Winter Olympics advertising,d3-bars-stacked,Stiles,,2022-01-29,January,2022-01-24
+ErSQY,Support for diplomatic boycott,d3-bars-stacked,Stiles,,2022-01-29,January,2022-01-24
+JuA7v,Americans split on China and Olympics,d3-bars-stacked,Stiles,,2022-01-29,January,2022-01-24
+QFEWT,Abortion access without Roe,d3-maps-choropleth,Matthews,,2022-01-28,January,2022-01-24
+f3VRV,Abortion access under Roe,d3-maps-choropleth,Matthews,,2022-01-28,January,2022-01-24
+Q43IU,Most have abortions early in pregnancy,d3-bars,Matthews,,2022-01-27,January,2022-01-24
+CxGE5,People who get abortions are mostly in their 20s,d3-bars,Matthews,,2022-01-27,January,2022-01-24
+imku2,Racial and ethnic breakdown of people who got abortions in 2019,d3-bars,Matthews,,2022-01-26,January,2022-01-24
+qtPIS,Abortion rates by state,d3-maps-choropleth,Matthews,,2022-01-26,January,2022-01-24
+GbSOh,Other characteristics of people who got abortions in 2019,d3-bars-stacked,Matthews,,2022-01-26,January,2022-01-24
+Sc8fJ,Global school closures,d3-maps-choropleth,Stiles,,2022-01-26,January,2022-01-24
+6ZhOZ,Sequencing covid-19 in the U.S.,d3-area,Matthews,,2022-01-24,January,2022-01-24
+LXp5f,Partisan split on election trust,d3-bars-stacked,Stiles,,2022-01-24,January,2022-01-24
+ZO4KP,The U.S. lags in covid-19 sequencing,d3-bars,Matthews,,2022-01-21,January,2022-01-17
+QwUwJ,U.S. covid-19 testing over time,d3-area,Matthews,,2022-01-21,January,2022-01-17
+J0NXS,Cases in China,d3-area,Stiles,,2022-01-21,January,2022-01-17
+87b5K,China's recent outbreaks,d3-maps-symbols,Matthews,,2022-01-21,January,2022-01-17
+8DPiU,Travel distance to nearest abortion provider,d3-maps-choropleth,Matthews,,2022-01-20,January,2022-01-17
+KqG7P,Who's leading the battery boom?,stacked-column-chart,Matthews,,2022-01-18,January,2022-01-17
+h5bly,Housing prices have spiked everywhere,d3-lines,Matthews,,2022-01-18,January,2022-01-17
+2tX5W,Change in home price index,d3-lines,Matthews,,2022-01-18,January,2022-01-17
+yrvFU,Rental prices on the rise,d3-lines,Matthews,,2022-01-18,January,2022-01-17
+RpHeE,Views on spending and taxes,d3-bars-stacked,Matthews,,2022-01-17,January,2022-01-17
+goAK8,Support for the death penalty,d3-bars-stacked,Matthews,,2022-01-17,January,2022-01-17
+k0r9E,Planned coal power retirements,column-chart,Levitan,,2022-01-17,January,2022-01-17
+YCwBN,Republican views on abortion by trimester,d3-bars-stacked,Matthews,,2022-01-17,January,2022-01-17
+YXTgL,Support for drug testing and benefits,d3-bars-stacked,Stiles,,2022-01-17,January,2022-01-17
+UfSgi,Democratic views on abortion by trimester,d3-bars-stacked,Matthews,,2022-01-17,January,2022-01-17
+wHpZs,Support for legal abortion by trimester,d3-bars-stacked,Matthews,,2022-01-17,January,2022-01-17
+CNbCC,Public support for progressive policies,d3-bars-stacked,Matthews,,2022-01-17,January,2022-01-17
+BjqjI,Trust in political parties on key issues,d3-bars-stacked,Stiles,,2022-01-12,January,2022-01-10
+ULMU6,Where U.S. EV batteries are produced,d3-bars,Stiles,,2022-01-10,January,2022-01-10
+8eOCq,Changes in spending patterns,d3-lines,Kwon,,2022-01-05,January,2022-01-03
+YK9HF,"Energy, gas costs on the rise",d3-lines,Kwon,,2022-01-05,January,2022-01-03
+noVPS,December tornadoes,column-chart,Levitan,,2022-01-05,January,2022-01-03
+vbhfm,China's workforce declining,d3-lines,Stiles,,2022-01-05,January,2022-01-03
+XsiJz,Child vaccine coverage by county,d3-maps-choropleth,Matthews,,2022-01-05,January,2022-01-03
+97Ial,Recovery depends on the sector,d3-lines,Kwon,,2022-01-05,January,2022-01-03
+E4prL,Employment is still recovering,d3-lines,Kwon,,2022-01-04,January,2022-01-03
+eQVA7,Inflation at its highest level in years,d3-lines,Kwon,,2022-01-04,January,2022-01-03
+L7nWU,Atlantic tropical cyclones forming in May,column-chart,Levitan,,2022-01-04,January,2022-01-03
+Kx0Hx,Covid-19 outcomes vary for children by race,d3-bars-bullet,Matthews,,2022-01-04,January,2022-01-03
+hdT28,Covid-19 outcomes vary for kids by race,d3-bars-bullet,Matthews,,2022-01-04,January,2022-01-03
+vp2U0,Cumulative fossil fuel emissions in populous nations ,d3-bars,Matthews,,2022-01-03,January,2022-01-03
+MK7Xa,President Joe Biden approval ratings,d3-lines,Stiles,,2021-12-31,December,2021-12-27
+HFsY4,Covid-19 outcomes vary for children by race,d3-bars-bullet,Matthews,,2021-12-30,December,2021-12-27
+fPc1n,China's defense spending,d3-lines,Stiles,,2021-12-29,December,2021-12-27
+YIvMY,Global covid-19 vaccine coverage,d3-maps-choropleth,Matthews,,2021-12-29,December,2021-12-27
+Wi8ll,More children were hospitalized with covid-19 in 2021,d3-area,Matthews,,2021-12-27,December,2021-12-27
+7zFRV,President Joe Biden's ratings under water,d3-lines,Stiles,,2021-12-27,December,2021-12-27
+XcjP2,Firearms checks spiked in 2020,stacked-column-chart,Stiles,,2021-12-26,December,2021-12-20
+1IwUs,Cars got a lot more expensive,d3-lines,Kwon,,2021-12-25,December,2021-12-20
+fO1it,Attitudes on Taiwan policy,d3-bars-stacked,Stiles,,2021-12-24,December,2021-12-20
+s8LbV,Changing U.S. attitudes on Taiwan,d3-lines,Stiles,,2021-12-24,December,2021-12-20
+RoJWo,Presidents suffer in midterms,tables,Stiles,,2021-12-23,December,2021-12-20
+ohr4l,How do U.S. adults feel about these election policies?,d3-bars-stacked,Kwon,,2021-12-20,December,2021-12-20
+QkCTj,The adaptation gap,column-chart,Levitan,,2021-12-20,December,2021-12-20
+R78JZ,The pug peaked last fall. Is he making a comeback? ,column-chart,Stiles,,2021-12-19,December,2021-12-13
+6cclD,Chinese population getting older,d3-lines,Stiles,,2021-12-18,December,2021-12-13
+OrQxg,China's converging rates,d3-lines,Stiles,,2021-12-18,December,2021-12-13
+ArfJt,China's aging population,d3-area,Stiles,,2021-12-17,December,2021-12-13
+Bhc9M,Pregnancy and vaccine uptake,d3-lines,Matthews,,2021-12-15,December,2021-12-13
+uMPPm,Pregnant pause on vaccines,d3-bars-stacked,Matthews,,2021-12-14,December,2021-12-13
+dAQa9,Crime changes,d3-bars,Stiles,,2021-12-14,December,2021-12-13
+O8EtZ,U.S. crime trends,d3-lines,Stiles,,2021-12-14,December,2021-12-13
+ZAqhg,U.S. crime trends,d3-lines,Stiles,,2021-12-14,December,2021-12-13
+fZDXO,Taiwan's close proximity to China,locator-map,Stiles,,2021-12-14,December,2021-12-13
+yV32n,Homicide rate spiked in 2020,column-chart,Stiles,,2021-12-13,December,2021-12-13
+BdIW6,U.S. homicides in context,d3-lines,Stiles,,2021-12-08,December,2021-12-06
+iuiSh,Kobe's final flight,locator-map,Stiles,,2021-12-08,December,2021-12-06
+mDFbV,Mexican Americans in major cities,d3-maps-symbols,Stiles,,2021-12-07,December,2021-12-06

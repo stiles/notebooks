@@ -1,0 +1,1265 @@
+county,fips,city,population,zcta_id,zcta_name
+Marin,041,Alto,714,,
+Marin,041,Belvedere,1901,,
+Marin,041,Bolinas,1110,,
+Marin,041,Corte Madera,9326,,
+Marin,041,Dillon Beach,70,,
+Marin,041,Fairfax,7490,,
+Marin,041,Inverness,1381,,
+Marin,041,Kentfield,6534,,
+Marin,041,Lagunitas-Forest Knolls,2010,,
+Marin,041,Larkspur,11937,,
+Marin,041,Marin City,2702,,
+Marin,041,Mill Valley,13962,,
+Marin,041,Muir Beach,286,,
+Marin,041,Nicasio,38,,
+Marin,041,Novato: Zip Code 94945,17167,,
+Marin,041,Novato: Zip Code 94947,24283,,
+Marin,041,Novato: Zip Code 94949,17202,,
+Marin,041,Point Reyes Station,927,,
+Marin,041,Ross,2123,,
+Marin,041,San Anselmo,12341,,
+Marin,041,San Geronimo,391,,
+Marin,041,San Quentin,5094,,
+Marin,041,San Rafael: Zip Code 94901,41157,,
+Marin,041,San Rafael: Zip Code 94903,29040,,
+Marin,041,Sausalito,7006,,
+Marin,041,Sleepy Hollow,2580,,
+Marin,041,Stinson Beach,516,,
+Marin,041,Strawberry,5427,,
+Marin,041,Tamalpais-Homestead Valley,10387,,
+Marin,041,Tiburon,8992,,
+Marin,041,Tomales,128,,
+Marin,041,Woodacre,1669,,
+Contra Costa,013,Alamo,14750,,
+Contra Costa,013,Antioch,112520,,
+Contra Costa,013,Bay Point,22639,,
+Contra Costa,013,Bethel Island,2137,,
+Contra Costa,013,Brentwood,65118,,
+Contra Costa,013,Byron,1325,,
+Contra Costa,013,Clayton,11337,,
+Contra Costa,013,Concord,130143,,
+Contra Costa,013,Crockett,3044,,
+Contra Costa,013,Danville,43876,,
+Contra Costa,013,Discovery Bay,13352,,
+Contra Costa,013,El Cerrito,24953,,
+Contra Costa,013,El Sobrante,12669,,
+Contra Costa,013,Hercules,25530,,
+Contra Costa,013,Lafayette,25604,,
+Contra Costa,013,Martinez,37106,,
+Contra Costa,013,Moraga,16946,,
+Contra Costa,013,Oakley,42461,,
+Contra Costa,013,Orinda,19009,,
+Contra Costa,013,Pacheco,3685,,
+Contra Costa,013,Pinole,19505,,
+Contra Costa,013,Pittsburg,74321,,
+Contra Costa,013,Pleasant Hill,34267,,
+Contra Costa,013,Richmond,111217,,
+Contra Costa,013,Rodeo,8679,,
+Contra Costa,013,San Pablo,31413,,
+Contra Costa,013,San Ramon,83118,,
+Contra Costa,013,Walnut Creek,70860,,
+Calaveras,009,District 1,9394,,
+Calaveras,009,District 2,8245,,
+Calaveras,009,District 3,9729,,
+Calaveras,009,District 4,9605,,
+Calaveras,009,District 5,8605,,
+Madera,039,Reporting Area A,40623,,
+Madera,039,Reporting Area B,25062,,
+Madera,039,Reporting Area C,49168,,
+Madera,039,Reporting Area D,40031,,
+Mono,051,South County Region,3464,,
+Mono,051,North and Central Region,2498,,
+Mono,051,Mammoth Lakes Region,8240,,
+Los Angeles,037,City of Agoura Hills,20883,,
+Los Angeles,037,City of Alhambra,86724,,
+Los Angeles,037,City of Arcadia,57754,,
+Los Angeles,037,City of Artesia,16795,,
+Los Angeles,037,City of Avalon,3869,,
+Los Angeles,037,City of Azusa,50040,,
+Los Angeles,037,City of Baldwin Park,76769,,
+Los Angeles,037,City of Bell,36332,,
+Los Angeles,037,City of Bell Gardens,43071,,
+Los Angeles,037,City of Bellflower,77735,,
+Los Angeles,037,City of Beverly Hills,34520,,
+Los Angeles,037,City of Bradbury,1069,,
+Los Angeles,037,City of Burbank,107180,,
+Los Angeles,037,City of Calabasas,24323,,
+Los Angeles,037,City of Carson,93846,,
+Los Angeles,037,City of Cerritos,50067,,
+Los Angeles,037,City of Claremont,36484,,
+Los Angeles,037,City of Commerce,13069,,
+Los Angeles,037,City of Compton,99904,,
+Los Angeles,037,City of Covina,49032,,
+Los Angeles,037,City of Cudahy,24347,,
+Los Angeles,037,City of Culver City,39865,,
+Los Angeles,037,City of Diamond Bar,57515,,
+Los Angeles,037,City of Downey,114263,,
+Los Angeles,037,City of Duarte,22016,,
+Los Angeles,037,City of El Monte,117269,,
+Los Angeles,037,City of El Segundo,16786,,
+Los Angeles,037,City of Gardena,61310,,
+Los Angeles,037,City of Glendale,206493,,
+Los Angeles,037,City of Glendora,52764,,
+Los Angeles,037,City of Hawaiian Gardens,14676,,
+Los Angeles,037,City of Hawthorne,88787,,
+Los Angeles,037,City of Hermosa Beach,19670,,
+Los Angeles,037,City of Hidden Hills,1890,,
+Los Angeles,037,City of Huntington Park,59484,,
+Los Angeles,037,City of Industry,437,,
+Los Angeles,037,City of Inglewood,113582,,
+Los Angeles,037,City of Irwindale,1459,,
+Los Angeles,037,City of La Canada Flintridge,20693,,
+Los Angeles,037,City of La Habra Heights,5455,,
+Los Angeles,037,City of La Mirada,49599,,
+Los Angeles,037,City of La Puente,40697,,
+Los Angeles,037,City of La Verne,33282,,
+Los Angeles,037,City of Lakewood,80362,,
+Los Angeles,037,City of Lancaster,161570,,
+Los Angeles,037,City of Lawndale,33614,,
+Los Angeles,037,City of Lomita,20729,,
+Los Angeles,037,City of Lynwood,72047,,
+Los Angeles,037,City of Malibu,12961,,
+Los Angeles,037,City of Manhattan Beach,35999,,
+Los Angeles,037,City of Maywood,28049,,
+Los Angeles,037,City of Monrovia,38800,,
+Los Angeles,037,City of Montebello,64375,,
+Los Angeles,037,City of Monterey Park,62262,,
+Los Angeles,037,City of Norwalk,107622,,
+Los Angeles,037,City of Palmdale,158968,,
+Los Angeles,037,City of Palos Verdes Estates,13522,,
+Los Angeles,037,City of Paramount,56023,,
+Los Angeles,037,City of Pico Rivera,64284,,
+Los Angeles,037,City of Pomona,155931,,
+Los Angeles,037,City of Rancho Palos Verdes,42747,,
+Los Angeles,037,City of Redondo Beach,68697,,
+Los Angeles,037,City of Rolling Hills,1940,,
+Los Angeles,037,City of Rolling Hills Estates,8113,,
+Los Angeles,037,City of Rosemead,55350,,
+Los Angeles,037,City of San Dimas,34516,,
+Los Angeles,037,City of San Fernando,24612,,
+Los Angeles,037,City of San Gabriel,40954,,
+Los Angeles,037,City of San Marino,13277,,
+Los Angeles,037,City of Santa Clarita,220424,,
+Los Angeles,037,City of Santa Fe Springs,18364,,
+Los Angeles,037,City of Santa Monica,92446,,
+Los Angeles,037,City of Sierra Madre,10989,,
+Los Angeles,037,City of Signal Hill,11797,,
+Los Angeles,037,City of South El Monte,20885,,
+Los Angeles,037,City of South Gate,98155,,
+Los Angeles,037,City of South Pasadena,26053,,
+Los Angeles,037,City of Temple City,36455,,
+Los Angeles,037,City of Torrance,149268,,
+Los Angeles,037,City of Vernon,209,,
+Los Angeles,037,City of Walnut,30532,,
+Los Angeles,037,City of West Covina,108235,,
+Los Angeles,037,City of West Hollywood,36951,,
+Los Angeles,037,City of Westlake Village,8360,,
+Los Angeles,037,City of Whittier,87432,,
+Los Angeles,037,Los Angeles - Adams-Normandie,8202,,
+Los Angeles,037,Los Angeles - Alsace,12445,,
+Los Angeles,037,Los Angeles - Angeles National Forest,40,,
+Los Angeles,037,Los Angeles - Angelino Heights,2502,,
+Los Angeles,037,Los Angeles - Arleta,34370,,
+Los Angeles,037,Los Angeles - Atwater Village,14666,,
+Los Angeles,037,Los Angeles - Baldwin Hills,31125,,
+Los Angeles,037,Los Angeles - Bel Air,8429,,
+Los Angeles,037,Los Angeles - Beverly Crest,12525,,
+Los Angeles,037,Los Angeles - Beverlywood,13173,,
+Los Angeles,037,Los Angeles - Boyle Heights,86884,,
+Los Angeles,037,Los Angeles - Brentwood,30955,,
+Los Angeles,037,Los Angeles - Brookside,581,,
+Los Angeles,037,Los Angeles - Cadillac-Corning,7121,,
+Los Angeles,037,Los Angeles - Canoga Park,65289,,
+Los Angeles,037,Los Angeles - Carthay,14363,,
+Los Angeles,037,Los Angeles - Central,38992,,
+Los Angeles,037,Los Angeles - Century City,12792,,
+Los Angeles,037,Los Angeles - Century Palms/Cove,33766,,
+Los Angeles,037,Los Angeles - Chatsworth,37061,,
+Los Angeles,037,Los Angeles - Cheviot Hills,9171,,
+Los Angeles,037,Los Angeles - Chinatown,8021,,
+Los Angeles,037,Los Angeles - Cloverdale/Cochran,14553,,
+Los Angeles,037,Los Angeles - Country Club Park,15153,,
+Los Angeles,037,Los Angeles - Crenshaw District,13829,,
+Los Angeles,037,Los Angeles - Crestview,11368,,
+Los Angeles,037,Los Angeles - Del Rey,29936,,
+Los Angeles,037,Los Angeles - Downtown,27507,,
+Los Angeles,037,Los Angeles - Eagle Rock,39589,,
+Los Angeles,037,Los Angeles - East Hollywood,29287,,
+Los Angeles,037,Los Angeles - Echo Park,14256,,
+Los Angeles,037,Los Angeles - El Sereno,41808,,
+Los Angeles,037,Los Angeles - Elysian Park,5712,,
+Los Angeles,037,Los Angeles - Elysian Valley,10171,,
+Los Angeles,037,Los Angeles - Encino,45172,,
+Los Angeles,037,Los Angeles - Exposition,3326,,
+Los Angeles,037,Los Angeles - Exposition Park,44917,,
+Los Angeles,037,Los Angeles - Faircrest Heights,3600,,
+Los Angeles,037,Los Angeles - Figueroa Park Square,8721,,
+Los Angeles,037,Los Angeles - Florence-Firestone,47445,,
+Los Angeles,037,Los Angeles - Glassell Park,31604,,
+Los Angeles,037,Los Angeles - Gramercy Place,10764,,
+Los Angeles,037,Los Angeles - Granada Hills,58191,,
+Los Angeles,037,Los Angeles - Green Meadows,21505,,
+Los Angeles,037,Los Angeles - Hancock Park,17039,,
+Los Angeles,037,Los Angeles - Harbor City,29070,,
+Los Angeles,037,Los Angeles - Harbor Gateway,43600,,
+Los Angeles,037,Los Angeles - Harbor Pines,2409,,
+Los Angeles,037,Los Angeles - Harvard Heights,18035,,
+Los Angeles,037,Los Angeles - Harvard Park,37935,,
+Los Angeles,037,Los Angeles - Highland Park,48391,,
+Los Angeles,037,Los Angeles - Historic Filipinotown,13870,,
+Los Angeles,037,Los Angeles - Hollywood,68254,,
+Los Angeles,037,Los Angeles - Hollywood Hills,29434,,
+Los Angeles,037,Los Angeles - Hyde Park,28541,,
+Los Angeles,037,Los Angeles - Jefferson Park,8073,,
+Los Angeles,037,Los Angeles - Koreatown,51693,,
+Los Angeles,037,Los Angeles - Lafayette Square,4559,,
+Los Angeles,037,Los Angeles - Lake Balboa,42206,,
+Los Angeles,037,Los Angeles - Lakeview Terrace,13133,,
+Los Angeles,037,Los Angeles - Leimert Park,15235,,
+Los Angeles,037,Los Angeles - Lincoln Heights,32597,,
+Los Angeles,037,Los Angeles - Little Armenia,8025,,
+Los Angeles,037,Los Angeles - Little Bangladesh,28343,,
+Los Angeles,037,Los Angeles - Little Tokyo,3133,,
+Los Angeles,037,Los Angeles - Longwood,4304,,
+Los Angeles,037,Los Angeles - Los Feliz,21608,,
+Los Angeles,037,Los Angeles - Manchester Square,8536,,
+Los Angeles,037,Los Angeles - Mandeville Canyon,3124,,
+Los Angeles,037,Los Angeles - Mar Vista,42471,,
+Los Angeles,037,Los Angeles - Marina Peninsula,4360,,
+Los Angeles,037,Los Angeles - Melrose,77696,,
+Los Angeles,037,Los Angeles - Mid-city,15030,,
+Los Angeles,037,Los Angeles - Miracle Mile,17985,,
+Los Angeles,037,Los Angeles - Mission Hills,24124,,
+Los Angeles,037,Los Angeles - Mt. Washington,24145,,
+Los Angeles,037,Los Angeles - North Hills,61575,,
+Los Angeles,037,Los Angeles - North Hollywood,151421,,
+Los Angeles,037,Los Angeles - Northridge,69797,,
+Los Angeles,037,Los Angeles - Pacific Palisades,21291,,
+Los Angeles,037,Los Angeles - Pacoima,76979,,
+Los Angeles,037,Los Angeles - Palisades Highlands,3846,,
+Los Angeles,037,Los Angeles - Palms,43877,,
+Los Angeles,037,Los Angeles - Panorama City,75250,,
+Los Angeles,037,Los Angeles - Park La Brea,13580,,
+Los Angeles,037,Los Angeles - Pico-Union,41842,,
+Los Angeles,037,Los Angeles - Playa Del Rey,3196,,
+Los Angeles,037,Los Angeles - Playa Vista,10947,,
+Los Angeles,037,Los Angeles - Porter Ranch,35588,,
+Los Angeles,037,Los Angeles - Rancho Park,6560,,
+Los Angeles,037,Los Angeles - Regent Square,2780,,
+Los Angeles,037,Los Angeles - Reseda,76617,,
+Los Angeles,037,Los Angeles - Reseda Ranch,4636,,
+Los Angeles,037,Los Angeles - Reynier Village,4228,,
+Los Angeles,037,Los Angeles - San Pedro,78038,,
+Los Angeles,037,Los Angeles - Shadow Hills,4442,,
+Los Angeles,037,Los Angeles - Sherman Oaks,87254,,
+Los Angeles,037,Los Angeles - Silverlake,44083,,
+Los Angeles,037,Los Angeles - South Carthay,10595,,
+Los Angeles,037,Los Angeles - South Park,37961,,
+Los Angeles,037,Los Angeles - St Elmo Village,4584,,
+Los Angeles,037,Los Angeles - Studio City,22440,,
+Los Angeles,037,Los Angeles - Sun Valley,52483,,
+Los Angeles,037,Los Angeles - Sunland,20408,,
+Los Angeles,037,Los Angeles - Sycamore Square,647,,
+Los Angeles,037,Los Angeles - Sylmar,82398,,
+Los Angeles,037,Los Angeles - Tarzana,30876,,
+Los Angeles,037,Los Angeles - Temple-Beaudry,39482,,
+Los Angeles,037,Los Angeles - Thai Town,9809,,
+Los Angeles,037,Los Angeles - Toluca Lake,8704,,
+Los Angeles,037,Los Angeles - Toluca Terrace,1306,,
+Los Angeles,037,Los Angeles - Toluca Woods,1858,,
+Los Angeles,037,Los Angeles - Tujunga,27810,,
+Los Angeles,037,Los Angeles - University Hills,3429,,
+Los Angeles,037,Los Angeles - University Park,27456,,
+Los Angeles,037,Los Angeles - Valley Glen,30016,,
+Los Angeles,037,Los Angeles - Valley Village,24720,,
+Los Angeles,037,Los Angeles - Van Nuys,93194,,
+Los Angeles,037,Los Angeles - Venice,33885,,
+Los Angeles,037,Los Angeles - Vermont Knolls,17200,,
+Los Angeles,037,Los Angeles - Vermont Square,7657,,
+Los Angeles,037,Los Angeles - Vermont Vista,41186,,
+Los Angeles,037,Los Angeles - Vernon Central,51998,,
+Los Angeles,037,Los Angeles - Victoria Park,8399,,
+Los Angeles,037,Los Angeles - View Heights,3694,,
+Los Angeles,037,Los Angeles - Watts,42674,,
+Los Angeles,037,Los Angeles - Wellington Square,4915,,
+Los Angeles,037,Los Angeles - West Adams,27630,,
+Los Angeles,037,Los Angeles - West Hills,40545,,
+Los Angeles,037,Los Angeles - West Los Angeles,37636,,
+Los Angeles,037,Los Angeles - West Vernon,53644,,
+Los Angeles,037,Los Angeles - Westchester,51603,,
+Los Angeles,037,Los Angeles - Westlake,59355,,
+Los Angeles,037,Los Angeles - Westwood,54109,,
+Los Angeles,037,Los Angeles - Wholesale District,36129,,
+Los Angeles,037,Los Angeles - Wilmington,56487,,
+Los Angeles,037,Los Angeles - Wilshire Center,50170,,
+Los Angeles,037,Los Angeles - Winnetka,51786,,
+Los Angeles,037,Los Angeles - Woodland Hills,68055,,
+Los Angeles,037,Unincorporated - Acton,7971,,
+Los Angeles,037,Unincorporated - Agua Dulce,4158,,
+Los Angeles,037,Unincorporated - Altadena,43620,,
+Los Angeles,037,Unincorporated - Anaverde,1508,,
+Los Angeles,037,Unincorporated - Angeles National Forest,1245,,
+Los Angeles,037,Unincorporated - Arcadia,7981,,
+Los Angeles,037,Unincorporated - Athens Village,4897,,
+Los Angeles,037,Unincorporated - Athens-Westmont,42442,,
+Los Angeles,037,Unincorporated - Avocado Heights,6775,,
+Los Angeles,037,Unincorporated - Azusa,15923,,
+Los Angeles,037,Unincorporated - Bassett,14817,,
+Los Angeles,037,Unincorporated - Bouquet Canyon,1073,,
+Los Angeles,037,Unincorporated - Bradbury,108,,
+Los Angeles,037,Unincorporated - Canyon Country,7728,,
+Los Angeles,037,Unincorporated - Castaic,27191,,
+Los Angeles,037,Unincorporated - Cerritos,587,,
+Los Angeles,037,Unincorporated - Claremont,702,,
+Los Angeles,037,Unincorporated - Covina,16819,,
+Los Angeles,037,Unincorporated - Covina (Charter Oak),13144,,
+Los Angeles,037,Unincorporated - Del Aire,4393,,
+Los Angeles,037,Unincorporated - Del Rey,318,,
+Los Angeles,037,Unincorporated - Del Sur,2415,,
+Los Angeles,037,Unincorporated - Desert View Highlands,2493,,
+Los Angeles,037,Unincorporated - Duarte,4428,,
+Los Angeles,037,Unincorporated - East Covina,329,,
+Los Angeles,037,Unincorporated - East La Mirada,5292,,
+Los Angeles,037,Unincorporated - East Lancaster,114,,
+Los Angeles,037,Unincorporated - East Los Angeles,125269,,
+Los Angeles,037,Unincorporated - East Pasadena,6403,,
+Los Angeles,037,Unincorporated - East Rancho Dominguez,15308,,
+Los Angeles,037,Unincorporated - East Whittier,5306,,
+Los Angeles,037,Unincorporated - El Camino Village,8791,,
+Los Angeles,037,Unincorporated - El Monte,145,,
+Los Angeles,037,Unincorporated - Elizabeth Lake,1661,,
+Los Angeles,037,Unincorporated - Florence-Firestone,64705,,
+Los Angeles,037,Unincorporated - Glendora,660,,
+Los Angeles,037,Unincorporated - Hacienda Heights,55926,,
+Los Angeles,037,Unincorporated - Hawthorne,2514,,
+Los Angeles,037,Unincorporated - Hi Vista,1098,,
+Los Angeles,037,Unincorporated - Kagel/Lopez Canyons,1412,,
+Los Angeles,037,Unincorporated - La Crescenta-Montrose,19801,,
+Los Angeles,037,Unincorporated - La Habra Heights,676,,
+Los Angeles,037,Unincorporated - La Rambla,2075,,
+Los Angeles,037,Unincorporated - La Verne,2040,,
+Los Angeles,037,Unincorporated - Ladera Heights,7071,,
+Los Angeles,037,Unincorporated - Lake Hughes,668,,
+Los Angeles,037,Unincorporated - Lake Los Angeles,12994,,
+Los Angeles,037,Unincorporated - Lake Manor,1643,,
+Los Angeles,037,Unincorporated - Lennox,22542,,
+Los Angeles,037,Unincorporated - Leona Valley,1751,,
+Los Angeles,037,Unincorporated - Littlerock,4021,,
+Los Angeles,037,Unincorporated - Littlerock/Juniper Hills,1297,,
+Los Angeles,037,Unincorporated - Littlerock/Pearblossom,3569,,
+Los Angeles,037,Unincorporated - Llano,877,,
+Los Angeles,037,Unincorporated - Marina del Rey,9411,,
+Los Angeles,037,Unincorporated - Monrovia,3881,,
+Los Angeles,037,Unincorporated - Newhall,220,,
+Los Angeles,037,Unincorporated - North Lancaster,1198,,
+Los Angeles,037,Unincorporated - North Whittier,8360,,
+Los Angeles,037,Unincorporated - Northeast San Gabriel,24036,,
+Los Angeles,037,Unincorporated - Palmdale,842,,
+Los Angeles,037,Unincorporated - Palos Verdes Peninsula,621,,
+Los Angeles,037,Unincorporated - Pearblossom/Llano,1956,,
+Los Angeles,037,Unincorporated - Pellissier Village,619,,
+Los Angeles,037,Unincorporated - Pomona,1938,,
+Los Angeles,037,Unincorporated - Quartz Hill,12906,,
+Los Angeles,037,Unincorporated - Rancho Dominguez,2661,,
+Los Angeles,037,Unincorporated - Roosevelt,931,,
+Los Angeles,037,Unincorporated - Rosewood,1286,,
+Los Angeles,037,Unincorporated - Rosewood/East Gardena,1193,,
+Los Angeles,037,Unincorporated - Rosewood/West Rancho Dominguez,3361,,
+Los Angeles,037,Unincorporated - Rowland Heights,51022,,
+Los Angeles,037,Unincorporated - San Francisquito Canyon/Bouquet Canyon,858,,
+Los Angeles,037,Unincorporated - San Jose Hills,20221,,
+Los Angeles,037,Unincorporated - San Pasqual,2035,,
+Los Angeles,037,Unincorporated - Sand Canyon,308,,
+Los Angeles,037,Unincorporated - Santa Catalina Island,267,,
+Los Angeles,037,Unincorporated - Santa Monica Mountains,18621,,
+Los Angeles,037,Unincorporated - Saugus,155,,
+Los Angeles,037,Unincorporated - Saugus/Canyon Country,356,,
+Los Angeles,037,Unincorporated - South Antelope Valley,455,,
+Los Angeles,037,Unincorporated - South El Monte,1795,,
+Los Angeles,037,Unincorporated - South San Gabriel,8848,,
+Los Angeles,037,Unincorporated - South Whittier,59222,,
+Los Angeles,037,Unincorporated - Southeast Antelope Valley,781,,
+Los Angeles,037,Unincorporated - Stevenson Ranch,20966,,
+Los Angeles,037,Unincorporated - Sun Village,6036,,
+Los Angeles,037,Unincorporated - Sunrise Village,1296,,
+Los Angeles,037,Unincorporated - Twin Lakes/Oat Mountain,1658,,
+Los Angeles,037,Unincorporated - Val Verde,3309,,
+Los Angeles,037,Unincorporated - Valencia,3072,,
+Los Angeles,037,Unincorporated - Valinda,23371,,
+Los Angeles,037,Unincorporated - View Park/Windsor Hills,11635,,
+Los Angeles,037,Unincorporated - Walnut Park,16143,,
+Los Angeles,037,Unincorporated - West Antelope Valley,1511,,
+Los Angeles,037,Unincorporated - West Carson,22086,,
+Los Angeles,037,Unincorporated - West LA,952,,
+Los Angeles,037,Unincorporated - West Puente Valley,9835,,
+Los Angeles,037,Unincorporated - West Rancho Dominguez,1359,,
+Los Angeles,037,Unincorporated - West Whittier/Los Nietos,26925,,
+Los Angeles,037,Unincorporated - Westfield/Academy Hills,1300,,
+Los Angeles,037,Unincorporated - Westhills,839,,
+Los Angeles,037,Unincorporated - White Fence Farms,3683,,
+Los Angeles,037,Unincorporated - Whittier,3784,,
+Los Angeles,037,Unincorporated - Whittier Narrows,12,,
+Los Angeles,037,Unincorporated - Willowbrook,34913,,
+Los Angeles,037,Unincorporated - Wiseburn,6027,,
+Los Angeles,037,Unincorporated - Franklin Canyon,12,,
+Los Angeles,037,Unincorporated - Harbor Gateway,1,,
+Los Angeles,037,Unincorporated - Placerita Canyon,460,,
+Los Angeles,037,Unincorporated - Charter Oak,9046,,
+Los Angeles,037,Unincorporated - San Clemente Island,148,,
+Los Angeles,037,City of Long Beach,462645,,
+Los Angeles,037,City of Pasadena,141040,,
+Los Angeles,037,Los Angeles,3979537,,
+Long Beach,,90755: Long Beach,11555,90755,Long Beach
+Long Beach,,90802: Long Beach,39453,90802,Long Beach
+Long Beach,,90803: Long Beach,32389,90803,Long Beach
+Long Beach,,90804: Long Beach,39344,90804,Long Beach
+Long Beach,,90805: Long Beach,96708,90805,Long Beach
+Long Beach,,90806: Long Beach,42817,90806,Long Beach
+Long Beach,,90807: Long Beach,32067,90807,Long Beach
+Long Beach,,90808: Long Beach,38860,90808,Long Beach
+Long Beach,,90810: Long Beach,38579,90810,Long Beach
+Long Beach,,90813: Long Beach,59000,90813,Long Beach
+Long Beach,,90814: Long Beach,18587,90814,Long Beach
+Long Beach,,90815: Long Beach,41026,90815,Long Beach
+Ventura,111,91307: Bell Canyon,2391,91307,Bell Canyon
+Ventura,111,91320: Thousand Oaks/Newbury Park,46191,91320,Thousand Oaks/Newbury Park
+Ventura,111,91360: Thousand Oaks,42104,91360,Thousand Oaks
+Ventura,111,91361: Thousand Oaks/Lake Sherwood/Westlake,20487,91361,Thousand Oaks/Lake Sherwood/Westlake
+Ventura,111,91362: Thousand Oaks/Westlake,36980,91362,Thousand Oaks/Westlake
+Ventura,111,91377: Oak Park,14226,91377,Oak Park
+Ventura,111,93001: Ventura,33139,93001,Ventura
+Ventura,111,93003: Ventura,51304,93003,Ventura
+Ventura,111,93004: Ventura,30473,93004,Ventura
+Ventura,111,93010: Camarillo,44240,93010,Camarillo
+Ventura,111,93012: Camarillo/Santa Rosa Valley,37622,93012,Camarillo/Santa Rosa Valley
+Ventura,111,93015: Fillmore,18832,93015,Fillmore
+Ventura,111,93021: Moorpark,38325,93021,Moorpark
+Ventura,111,93022: Oak View,5550,93022,Oak View
+Ventura,111,93023: Ojai,20656,93023,Ojai
+Ventura,111,93030: Oxnard,62016,93030,Oxnard
+Ventura,111,93033: Oxnard,83319,93033,Oxnard
+Ventura,111,93035: Oxnard,28321,93035,Oxnard
+Ventura,111,93036: Oxnard,48022,93036,Oxnard
+Ventura,111,93040: Piru,1831,93040,Piru
+Ventura,111,93041: Port Hueneme,24129,93041,Port Hueneme
+Ventura,111,93060: Santa Paula,34229,93060,Santa Paula
+Ventura,111,93063: Simi Valley (Santa Susana),56563,93063,Simi Valley (Santa Susana)
+Ventura,111,93065: Simi Valley,74780,93065,Simi Valley
+Ventura,111,93066: Somis,3481,93066,Somis
+Orange,059,Coto De Caza,14931,,
+Orange,059,Ladera Ranch,30288,,
+Orange,059,Aliso Viejo,51372,,
+Orange,059,Anaheim,359339,,
+Orange,059,Brea,45606,,
+Orange,059,Buena Park,83384,,
+Orange,059,Costa Mesa,115830,,
+Orange,059,Cypress,49833,,
+Orange,059,Dana Point,34249,,
+Orange,059,Fountain Valley,56652,,
+Orange,059,Fullerton,142824,,
+Orange,059,Garden Grove,175155,,
+Orange,059,Huntington Beach,203761,,
+Orange,059,Irvine,280202,,
+Orange,059,La Habra,63542,,
+Orange,059,La Palma,15820,,
+Orange,059,Laguna Beach,23358,,
+Orange,059,Laguna Hills,31572,,
+Orange,059,Laguna Niguel,66748,,
+Orange,059,Laguna Woods,16518,,
+Orange,059,Lake Forest,86346,,
+Orange,059,Los Alamitos,11721,,
+Orange,059,Midway City,8374,,
+Orange,059,Mission Viejo,96434,,
+Orange,059,Newport Beach,87180,,
+Orange,059,Orange,141691,,
+Orange,059,Placentia,52333,,
+Orange,059,Rancho Santa Margarita,48960,,
+Orange,059,San Clemente,65405,,
+Orange,059,San Juan Capistrano,36821,,
+Orange,059,Santa Ana,337716,,
+Orange,059,Seal Beach,25073,,
+Orange,059,Stanton,39307,,
+Orange,059,Tustin,81369,,
+Orange,059,Villa Park,5933,,
+Orange,059,Westminster,92610,,
+Orange,059,Yorba Linda,68706,,
+Orange,059,Rancho Mission Viejo,0,,
+Orange,059,Trabuco Canyon,0,,
+Orange,059,Rossmoor,11160,,
+Orange,059,Silverado,0,,
+San Bernardino,071,Adelanto,35234,,
+San Bernardino,071,Angelus Oaks,385,,
+San Bernardino,071,Apple Valley,73694,,
+San Bernardino,071,Arrowbear,723,,
+San Bernardino,071,Baker,799,,
+San Bernardino,071,Baldy Mesa,1504,,
+San Bernardino,071,Barstow,23754,,
+San Bernardino,071,Big Bear City,10045,,
+San Bernardino,071,Big Bear Lake,5231,,
+San Bernardino,071,Big River,1264,,
+San Bernardino,071,Bloomington,17115,,
+San Bernardino,071,Blue Jay,900,,
+San Bernardino,071,Cedar Glen,739,,
+San Bernardino,071,Chino,93099,,
+San Bernardino,071,Chino Hills,82917,,
+San Bernardino,071,Colton,54636,,
+San Bernardino,071,Crestline,8010,,
+San Bernardino,071,Daggett,549,,
+San Bernardino,071,Devore,2283,,
+San Bernardino,071,Fawnskin,528,,
+San Bernardino,071,Fontana,215334,,
+San Bernardino,071,Forest Falls,920,,
+San Bernardino,071,Grand Terrace,12403,,
+San Bernardino,071,Green Valley Lake,412,,
+San Bernardino,071,Helendale,6629,,
+San Bernardino,071,Hesperia,97312,,
+San Bernardino,071,Highland,55484,,
+San Bernardino,071,Hinkley,1259,,
+San Bernardino,071,Joshua Tree,9887,,
+San Bernardino,071,Lake Arrowhead,8104,,
+San Bernardino,071,Landers,2983,,
+San Bernardino,071,Loma Linda,25260,,
+San Bernardino,071,Lucerne Valley,7041,,
+San Bernardino,071,Lytle Creek,837,,
+San Bernardino,071,Mentone,9255,,
+San Bernardino,071,Montclair,40415,,
+San Bernardino,071,Morongo Valley,3739,,
+San Bernardino,071,Mt Baldy,537,,
+San Bernardino,071,Muscoy,11536,,
+San Bernardino,071,Needles,4964,,
+San Bernardino,071,Newberry Springs,2215,,
+San Bernardino,071,Oak Glen,625,,
+San Bernardino,071,Oak Hills,9488,,
+San Bernardino,071,Ontario,182380,,
+San Bernardino,071,Oro Grande,1137,,
+San Bernardino,071,Phelan,14757,,
+San Bernardino,071,Piñon Hills,8042,,
+San Bernardino,071,Pioneertown,365,,
+San Bernardino,071,Rancho Cucamonga,177037,,
+San Bernardino,071,Redlands,72099,,
+San Bernardino,071,Rialto,103884,,
+San Bernardino,071,Rimforest,756,,
+San Bernardino,071,Running Springs,4661,,
+San Bernardino,071,San Bernardino,218515,,
+San Bernardino,071,Sugarloaf,3137,,
+San Bernardino,071,Trona,1191,,
+San Bernardino,071,Twentynine Palms,24966,,
+San Bernardino,071,Twin Peaks,2493,,
+San Bernardino,071,Upland,78249,,
+San Bernardino,071,Victorville,128353,,
+San Bernardino,071,Wrightwood,5177,,
+San Bernardino,071,Yermo,1672,,
+San Bernardino,071,Yucaipa,54490,,
+San Bernardino,071,Yucca Valley,22146,,
+Kern,029,93203: Arvin,22471,93203,Arvin
+Kern,029,93205: Bodfish,1593,93205,Bodfish
+Kern,029,93206: Buttonwillow,2044,93206,Buttonwillow
+Kern,029,93215: Delano,55845,93215,Delano
+Kern,029,93220: Edison,313,93220,Edison
+Kern,029,93222: Pine Mountain Club,1420,93222,Pine Mountain Club
+Kern,029,93224: Fellows,402,93224,Fellows
+Kern,029,93225: Frazier Park,5319,93225,Frazier Park
+Kern,029,93226: Glennville,195,93226,Glennville
+Kern,029,93238: Kernville,1408,93238,Kernville
+Kern,029,93240: Lake Isabella,6960,93240,Lake Isabella
+Kern,029,93241: Lamont,16969,93241,Lamont
+Kern,029,93243: Lebec,1709,93243,Lebec
+Kern,029,93249: Lost Hills,2264,93249,Lost Hills
+Kern,029,93250: Mc Farland,15523,93250,Mc Farland
+Kern,029,93251: Mc Kittrick,243,93251,Mc Kittrick
+Kern,029,93252: Maricopa,3188,93252,Maricopa
+Kern,029,93255: Onyx,707,93255,Onyx
+Kern,029,93263: Shafter,20710,93263,Shafter
+Kern,029,93268: Taft,17620,93268,Taft
+Kern,029,93276: Tupman,159,93276,Tupman
+Kern,029,93280: Wasco,27552,93280,Wasco
+Kern,029,93283: Weldon,2086,93283,Weldon
+Kern,029,93285: Wofford Heights,1723,93285,Wofford Heights
+Kern,029,93287: Woody,74,93287,Woody
+Kern,029,93301: Bakersfield,12345,93301,Bakersfield
+Kern,029,93304: Bakersfield,50787,93304,Bakersfield
+Kern,029,93305: Bakersfield,39114,93305,Bakersfield
+Kern,029,93306: Bakersfield,70208,93306,Bakersfield
+Kern,029,93307: Bakersfield,84948,93307,Bakersfield
+Kern,029,93308: Bakersfield,54042,93308,Bakersfield
+Kern,029,93309: Bakersfield,60893,93309,Bakersfield
+Kern,029,93311: Bakersfield,44862,93311,Bakersfield
+Kern,029,93312: Bakersfield,59359,93312,Bakersfield
+Kern,029,93313: Bakersfield,51245,93313,Bakersfield
+Kern,029,93314: Bakersfield,26992,93314,Bakersfield
+Kern,029,93501: Mojave,5063,93501,Mojave
+Kern,029,93505: California City,13445,93505,California City
+Kern,029,93516: Boron,2425,93516,Boron
+Kern,029,93518: Caliente,995,93518,Caliente
+Kern,029,93519: Cantil,28,93519,Cantil
+Kern,029,93523: Edwards,3312,93523,Edwards
+Kern,029,93524: Edwards,168,93524,Edwards
+Kern,029,93527: Inyokern,1852,93527,Inyokern
+Kern,029,93528: Johannesburg,124,93528,Johannesburg
+Kern,029,93531: Keene,422,93531,Keene
+Kern,029,93554: Randsburg,143,93554,Randsburg
+Kern,029,93555: Ridgecrest,34075,93555,Ridgecrest
+Kern,029,93560: Rosamond,20797,93560,Rosamond
+Kern,029,93561: Tehachapi,34271,93561,Tehachapi
+Tulare,107,"Corcoran, Angiola: 93212",23424,93212,"Corcoran, Angiola"
+Tulare,107,Richgrove: 93215,55269,93215,Richgrove
+Tulare,107,Earlimart: 93219,10167,93219,Earlimart
+Tulare,107,Exeter: 93221,14328,93221,Exeter
+Tulare,107,Farmersville: 93223,10742,93223,Farmersville
+Tulare,107,Ivanhoe: 93235,4198,93235,Ivanhoe
+Tulare,107,Lindsay: 93247,18522,93247,Lindsay
+Tulare,107,Pixley: 93256,5939,93256,Pixley
+Tulare,107,Porterville: 93257,76923,93257,Porterville
+Tulare,107,Strathmore: 93267,6347,93267,Strathmore
+Tulare,107,Terra Bella: 93270,5542,93270,Terra Bella
+Tulare,107,Tipton: 93272,4454,93272,Tipton
+Tulare,107,Tulare: 93274,73778,93274,Tulare
+Tulare,107,Visalia: 93277,53015,93277,Visalia
+Tulare,107,Woodlake: 93286,9755,93286,Woodlake
+Tulare,107,Visalia: 93291,57968,93291,Visalia
+Tulare,107,Visalia: 93292,41031,93292,Visalia
+Tulare,107,Cutler: 93615,6513,93615,Cutler
+Tulare,107,Dinuba: 93618,31230,93618,Dinuba
+Tulare,107,Traver: 93631,16349,93631,Traver
+Tulare,107,Traver: 93646,10873,93646,Traver
+Tulare,107,Orosi: 93647,10896,93647,Orosi
+Tulare,107,Orosi: 93654,30935,93654,Orosi
+Tulare,107,Mountain: 93265,3271,93265,Mountain
+Tulare,107,Goshen: 93227,3425,93227,Goshen
+Tulare,107,Alpaugh: 93201,1431,93201,Alpaugh
+San Francisco,075,94130,3064,94130,
+San Francisco,075,94158,7291,94158,
+San Francisco,075,94107,29689,94107,
+San Francisco,075,94105,9155,94105,
+San Francisco,075,94134,42471,94134,
+San Francisco,075,94124,35363,94124,
+San Francisco,075,94103,28735,94103,
+San Francisco,075,94104,546,94104,
+San Francisco,075,94133,26527,94133,
+San Francisco,075,94108,14550,94108,
+San Francisco,075,94102,31067,94102,
+San Francisco,075,94110,94161,94110,
+San Francisco,075,94112,85166,94112,
+San Francisco,075,94109,56677,94109,
+San Francisco,075,94114,34754,94114,
+San Francisco,075,94115,35004,94115,
+San Francisco,075,94117,44239,94117,
+San Francisco,075,94127,21423,94127,
+San Francisco,075,94118,41468,94118,
+San Francisco,075,94129,3994,94129,
+San Francisco,075,94123,25941,94123,
+San Francisco,075,94131,29902,94131,
+San Francisco,075,94122,62131,94122,
+San Francisco,075,94132,31488,94132,
+San Francisco,075,94121,43795,94121,
+San Francisco,075,94116,47823,94116,
+San Francisco,075,94111,3620,94111,
+Nevada,057,95712: Chicago Park,2181,95712
+Nevada,057,95924: Cedar Ridge,1809,95924
+Nevada,057,96111: Floriston,94,96111
+Nevada,057,95724: Norden,20,95724
+Nevada,057,95728: Soda Springs,229,95728
+Nevada,057,95960: North San Juan,825,95960
+Nevada,057,95602: Auburn,18063,95602
+Nevada,057,95977: Smartville,1617,95977
+Nevada,057,95945: Grass Valley,25519,95945
+Nevada,057,95949: Grass Valley,20519,95949
+Nevada,057,95975: Rough And Ready,1584,95975
+Nevada,057,95946: Penn Valley,9370,95946
+Nevada,057,95959: Nevada City,17910,95959
+Nevada,057,95986: Washington,53,95986
+Nevada,057,96162: Truckee,849,96162
+Nevada,057,96161: Truckee,18333,96161
+Nevada,057,96160: Truckee,939,96160
+San Mateo,081,Colma,1450,,
+San Mateo,081,Montara,2692,,
+San Mateo,081,Burlingame,30459,,
+San Mateo,081,Moss Beach,3799,,
+San Mateo,081,Broadmoor,5286,,
+San Mateo,081,Redwood City,85217,,
+San Mateo,081,San Carlos,30080,,
+San Mateo,081,Brisbane,4692,,
+San Mateo,081,East Palo Alto,29633,,
+San Mateo,081,Hillsborough,11439,,
+San Mateo,081,Foster City,33784,,
+San Mateo,081,Emerald Hills,4594,,
+San Mateo,081,Woodside,5541,,
+San Mateo,081,San Mateo,104035,,
+San Mateo,081,Belmont,27110,,
+San Mateo,081,Pescadero,226,,
+San Mateo,081,Atherton,7185,,
+San Mateo,081,Pacifica,39065,,
+San Mateo,081,Portola Valley,4594,,
+San Mateo,081,South San Francisco,67294,,
+San Mateo,081,Daly City,106638,,
+San Mateo,081,Millbrae,22703,,
+San Mateo,081,Menlo Park,33869,,
+San Mateo,081,San Bruno,43114,,
+San Mateo,081,El Granada,5819,,
+San Mateo,081,Half Moon Bay,12706,,
+San Mateo,081,West Menlo Park,4116,,
+San Mateo,081,Ladera,1465,,
+San Mateo,081,North Fair Oaks,14547,,
+Solano,095,Benicia,27570,,
+Solano,095,Dixon,19794,,
+Solano,095,Fairfield,117149,,
+Solano,095,Rio Vista,9416,,
+Solano,095,Suisun City,29447,,
+Solano,095,Vacaville,98807,,
+Solano,095,Vallejo,119544,,
+Solano,095,Unincorporated,19580,,
+Santa Clara,085,San Jose,1026658,,
+Santa Clara,085,Milpitas,77457,,
+Santa Clara,085,Gilroy,55525,,
+Santa Clara,085,Morgan Hill,43876,,
+Santa Clara,085,Monte Sereno,3492,,
+Santa Clara,085,Saratoga,30886,,
+Santa Clara,085,Campbell,42470,,
+Santa Clara,085,Cupertino,60614,,
+Santa Clara,085,Mountain View,80993,,
+Santa Clara,085,Los Altos Hills,8517,,
+Santa Clara,085,Los Altos,30588,,
+Santa Clara,085,Santa Clara,126209,,
+Santa Clara,085,Sunnyvale,152323,,
+Santa Clara,085,Palo Alto,67019,,
+Santa Clara,085,Los Gatos,30922,,
+Riverside,065,Anza,3151,,
+Riverside,065,Banning,30942,,
+Riverside,065,Beaumont,45403,,
+Riverside,065,Bermuda Dunes,6817,,
+Riverside,065,Blythe,19581,,
+Riverside,065,Cabazon,3367,,
+Riverside,065,Calimesa,8651,,
+Riverside,065,Canyon Lake,11106,,
+Riverside,065,Cathedral City,54037,,
+Riverside,065,Cherry Valley,7755,,
+Riverside,065,Coachella,44849,,
+Riverside,065,Corona,165355,,
+Riverside,065,Coronita,3138,,
+Riverside,065,Desert Edge,3343,,
+Riverside,065,Desert Hot Springs,28430,,
+Riverside,065,Desert Palms,6947,,
+Riverside,065,East Hemet,20679,,
+Riverside,065,Eastvale,61337,,
+Riverside,065,El Cerrito,5471,,
+Riverside,065,El Sobrante,13966,,
+Riverside,065,French Valley,33818,,
+Riverside,065,Garnet,5057,,
+Riverside,065,Good Hope,9173,,
+Riverside,065,Green Acres,2542,,
+Riverside,065,Hemet,84069,,
+Riverside,065,Highgrove,4986,,
+Riverside,065,Home Gardens,11442,,
+Riverside,065,Homeland,7326,,
+Riverside,065,Idyllwild-Pine Cove,2459,,
+Riverside,065,Indian Wells,5317,,
+Riverside,065,Indio,88291,,
+Riverside,065,Jurupa Valley,103784,,
+Riverside,065,La Quinta,40704,,
+Riverside,065,Lake Elsinore,64037,,
+Riverside,065,Lake Mathews,6848,,
+Riverside,065,Lakeland Village,13170,,
+Riverside,065,Lakeview,2566,,
+Riverside,065,Mead Valley,19925,,
+Riverside,065,Meadowbrook,3033,,
+Riverside,065,Mecca,7174,,
+Riverside,065,Menifee,88515,,
+Riverside,065,Moreno Valley,205034,,
+Riverside,065,Murrieta,111427,,
+Riverside,065,Norco,26569,,
+Riverside,065,North Shore,2892,,
+Riverside,065,Nuevo,7033,,
+Riverside,065,Oasis,3020,,
+Riverside,065,Palm Desert,52124,,
+Riverside,065,Palm Springs,47525,,
+Riverside,065,Perris,76276,,
+Riverside,065,Rancho Mirage,18075,,
+Riverside,065,Riverside,323935,,
+Riverside,065,Romoland,2227,,
+Riverside,065,San Jacinto,47474,,
+Riverside,065,Sky Valley,2430,,
+Riverside,065,Temecula,112230,,
+Riverside,065,Temescal Valley,26709,,
+Riverside,065,Thermal,1359,,
+Riverside,065,Thousand Palms,7814,,
+Riverside,065,Valle Vista,16879,,
+Riverside,065,Vista Santa Rosa,2967,,
+Riverside,065,Wildomar,36162,,
+Riverside,065,Winchester,2931,,
+Riverside,065,Woodcrest,17310,,
+Alameda,001,94502: Alameda,14117,94502,Alameda
+Alameda,001,94577: San Leandro,48666,94577,San Leandro
+Alameda,001,94579: San Leandro,20237,94579,San Leandro
+Alameda,001,94603: Oakland,33241,94603,Oakland
+Alameda,001,94605: Oakland,42375,94605,Oakland
+Alameda,001,94621: Oakland,32915,94621,Oakland
+Alameda,001,94501: Alameda,62826,94501,Alameda
+Alameda,001,94606: Oakland,37076,94606,Oakland
+Alameda,001,94607: Oakland,26646,94607,Oakland
+Alameda,001,94610: Oakland,30862,94610,Oakland
+Alameda,001,94612: Oakland,17279,94612,Oakland
+Alameda,001,94608: Emeryville,31000,94608,Emeryville
+Alameda,001,94609: Oakland,22293,94609,Oakland
+Alameda,001,94618: Oakland,15545,94618,Oakland
+Alameda,001,94702: Berkeley,16520,94702,Berkeley
+Alameda,001,94703: Berkeley,19805,94703,Berkeley
+Alameda,001,94704: Berkeley,29129,94704,Berkeley
+Alameda,001,94705: Berkeley,13152,94705,Berkeley
+Alameda,001,94709: Berkeley,11796,94709,Berkeley
+Alameda,001,94710: Berkeley,8059,94710,Berkeley
+Alameda,001,94720: Berkeley,1336,94720,Berkeley
+Alameda,001,94601: Oakland,53261,94601,Oakland
+Alameda,001,94602: Oakland,29770,94602,Oakland
+Alameda,001,94611: Oakland,37826,94611,Oakland
+Alameda,001,94613: Oakland,212,94613,Oakland
+Alameda,001,94619: Oakland,24080,94619,Oakland
+Alameda,001,94706: Albany,19921,94706,Albany
+Alameda,001,94707: Berkeley,12862,94707,Berkeley
+Alameda,001,94708: Berkeley,11725,94708,Berkeley
+Alameda,001,94538: Fremont,63911,94538,Fremont
+Alameda,001,94555: Fremont,36037,94555,Fremont
+Alameda,001,94560: Newark,44245,94560,Newark
+Alameda,001,94539: Fremont,52960,94539,Fremont
+Alameda,001,94550: Livermore,50138,94550,Livermore
+Alameda,001,94536: Fremont,72976,94536,Fremont
+Alameda,001,94542: Hayward,13973,94542,Hayward
+Alameda,001,94544: Hayward,77121,94544,Hayward
+Alameda,001,94545: Hayward,31657,94545,Hayward
+Alameda,001,94587: Union City,72446,94587,Union City
+Alameda,001,94541: Hayward,65132,94541,Hayward
+Alameda,001,94546: Castro Valley,45536,94546,Castro Valley
+Alameda,001,94552: Castro Valley,15204,94552,Castro Valley
+Alameda,001,94578: San Leandro,40150,94578,San Leandro
+Alameda,001,94580: San Lorenzo,28970,94580,San Lorenzo
+Alameda,001,94566: Pleasanton,45046,94566,Pleasanton
+Alameda,001,94568: Dublin,58399,94568,Dublin
+Alameda,001,94586: Sunol,797,94586,Sunol
+Alameda,001,94588: Pleasanton,31895,94588,Pleasanton
+Alameda,001,94551: Livermore,38986,94551,Livermore
+Lake,033,95457,3330,95457,
+Lake,033,95467,6044,95467,
+Lake,033,95461,2440,95461,
+Lake,033,95422,15550,95422,
+Lake,033,95423,3757,95423,
+Lake,033,95458,3019,95458,
+Lake,033,95464,2538,95464,
+Lake,033,95485,2688,95485,
+Lake,033,95493,241,95493,
+Lake,033,95443,270,95443,
+Lake,033,95453,11092,95453,
+Lake,033,95435,14,95435,
+Lake,033,95426,1404,95426,
+Lake,033,95451,11627,95451,
+Mendocino,045,North Coast,16148,,
+Mendocino,045,South Coast,7693,,
+Mendocino,045,South County,6904,,
+Mendocino,045,Ukiah Area,38134,,
+Mendocino,045,North County,19040,,
+Fresno,019,Coalinga,16538,,
+Fresno,019,Firebaugh,8295,,
+Fresno,019,Fowler,6364,,
+Fresno,019,Huron,7019,,
+Fresno,019,Kerman,14649,,
+Fresno,019,Kingsburg,11839,,
+Fresno,019,Mendota,11393,,
+Fresno,019,Orange Cove,9564,,
+Fresno,019,Parlier,15120,,
+Fresno,019,Sanger,24978,,
+Fresno,019,Selma,24598,,
+Fresno,019,San Joaquin,4021,,
+Fresno,019,Fresno,522277,,
+Fresno,019,Clovis,106666,,
+Fresno,019,Other,,,
+Fresno,019,Del Rey,1498,,
+Fresno,019,Biola,1451,,
+Fresno,019,Reedley,25493,,
+Fresno,019,Auberry,2476,,
+Fresno,019,Cantua Creek,273,,
+Fresno,019,Dunlap,,,
+Fresno,019,Five Points,,,
+Fresno,019,Friant,548,,
+Fresno,019,Laton,2166,,
+Fresno,019,Prather,,,
+Fresno,019,Riverdale,3625,,
+Fresno,019,Squaw Valley,3449,,
+Fresno,019,Tollhouse,,,
+Fresno,019,Tranquillity,839,,
+Fresno,019,Caruthers,2773,,
+Fresno,019,Pinedale,,,
+Fresno,019,Raisin City,389,,
+Kings,031,Stratford,878,,
+Kings,031,Lemoore,25791,,
+Kings,031,Kettleman City,1395,,
+Kings,031,Hanford,55893,,
+Kings,031,Corcoran,22301,,
+Kings,031,Avenal,12923,,
+Kings,031,Armona,3795,,
+San Luis Obispo,079,Paso Robles,31656,,
+San Luis Obispo,079,San Luis Obispo,47160,,
+San Luis Obispo,079,Atascadero,30037,,
+San Luis Obispo,079,Nipomo,17445,,
+San Luis Obispo,079,Arroyo Grande,18039,,
+San Luis Obispo,079,San Miguel,2807,,
+San Luis Obispo,079,Grover Beach,13538,,
+San Luis Obispo,079,Templeton,7938,,
+San Luis Obispo,079,Oceano,7678,,
+San Luis Obispo,079,Morro Bay,10592,,
+San Luis Obispo,079,Los Osos,16292,,
+San Luis Obispo,079,Pismo Beach,8116,,
+San Luis Obispo,079,Shandon,1141,,
+San Luis Obispo,079,Santa Margarita,1252,,
+San Luis Obispo,079,Cambria,5725,,
+San Luis Obispo,079,Creston,30,,
+San Luis Obispo,079,Cayucos,2692,,
+San Luis Obispo,079,Avila,1273,,
+San Luis Obispo,079,San Simeon,583,,
+Sutter,101,Live Oak,8622,,
+Sutter,101,Yuba City,66388,,
+Yuba,115,Marysville,12282,,
+Yuba,115,Olivehurst Linda,32623,,
+Yuba,115,Plumas Lake,7367,,
+Yuba,115,Wheatland,3747,,
+Yolo,113,Davis,67988,,
+Yolo,113,West Sacramento,52826,,
+Yolo,113,Winters,7132,,
+Yolo,113,Woodland,59044,,
+Merced,047,Atwater,33647,,
+Merced,047,Delhi,10755,,
+Merced,047,Dos Palos,5520,,
+Merced,047,Gustine,5855,,
+Merced,047,Hilmar,5197,,
+Merced,047,Le Grand Planada,6243,,
+Merced,047,Livingston,14426,,
+Merced,047,Los Banos,40075,,
+Merced,047,Merced,89459,,
+Merced,047,Winton,10613,,
+San Diego,073,91901: Alpine,17985,91901,Alpine
+San Diego,073,91902: Bonita,17631,91902,Bonita
+San Diego,073,91905: Boulevard,0,91905,Boulevard
+San Diego,073,91906: Campo,0,91906,Campo
+San Diego,073,91910: Chula Vista,83834,91910,Chula Vista
+San Diego,073,91911: Chula Vista,84819,91911,Chula Vista
+San Diego,073,91913: Chula Vista,51077,91913,Chula Vista
+San Diego,073,91914: Chula Vista,16781,91914,Chula Vista
+San Diego,073,91915: Chula Vista,31120,91915,Chula Vista
+San Diego,073,91916: Descanso,0,91916,Descanso
+San Diego,073,91917: Dulzura,0,91917,Dulzura
+San Diego,073,91931: Guatay,0,91931,Guatay
+San Diego,073,91932: Imperial Beach,27448,91932,Imperial Beach
+San Diego,073,91934: Jacumba,0,91934,Jacumba
+San Diego,073,91935: Jamul,0,91935,Jamul
+San Diego,073,91941: La Mesa,34226,91941,La Mesa
+San Diego,073,91942: La Mesa,40025,91942,La Mesa
+San Diego,073,91945: Lemon Grove,27208,91945,Lemon Grove
+San Diego,073,91948: Mount Laguna,0,91948,Mount Laguna
+San Diego,073,91950: National City,58536,91950,National City
+San Diego,073,91962: Pine Valley,0,91962,Pine Valley
+San Diego,073,91963: Potrero,0,91963,Potrero
+San Diego,073,91977: Spring Valley,60995,91977,Spring Valley
+San Diego,073,91978: Spring Valley,0,91978,Spring Valley
+San Diego,073,91980: Tecate,0,91980,Tecate
+San Diego,073,92003: Bonsall,0,92003,Bonsall
+San Diego,073,92004: Borrego Springs,0,92004,Borrego Springs
+San Diego,073,92007: Cardiff by the Sea,11483,92007,Cardiff by the Sea
+San Diego,073,92008: Carlsbad,29652,92008,Carlsbad
+San Diego,073,92009: Carlsbad,43338,92009,Carlsbad
+San Diego,073,92010: Carlsbad,16681,92010,Carlsbad
+San Diego,073,92011: Carlsbad,23963,92011,Carlsbad
+San Diego,073,92014: Del Mar,14139,92014,Del Mar
+San Diego,073,92019: El Cajon,45094,92019,El Cajon
+San Diego,073,92020: El Cajon,61896,92020,El Cajon
+San Diego,073,92021: El Cajon,68655,92021,El Cajon
+San Diego,073,92024: Encinitas,56390,92024,Encinitas
+San Diego,073,92025: Escondido,51820,92025,Escondido
+San Diego,073,92026: Escondido,56272,92026,Escondido
+San Diego,073,92027: Escondido,54202,92027,Escondido
+San Diego,073,92028: Fallbrook,49009,92028,Fallbrook
+San Diego,073,92029: Escondido,21201,92029,Escondido
+San Diego,073,92036: Julian,0,92036,Julian
+San Diego,073,92037: La Jolla,43283,92037,La Jolla
+San Diego,073,92040: Lakeside,44105,92040,Lakeside
+San Diego,073,92054: Oceanside,42441,92054,Oceanside
+San Diego,073,92055: Camp Pendleton,36726,92055,Camp Pendleton
+San Diego,073,92056: Oceanside,55369,92056,Oceanside
+San Diego,073,92057: Oceanside,55753,92057,Oceanside
+San Diego,073,92058: Oceanside,24170,92058,Oceanside
+San Diego,073,92059: Pala,0,92059,Pala
+San Diego,073,92060: Palomar Mountain,0,92060,Palomar Mountain
+San Diego,073,92061: Pauma Valley,0,92061,Pauma Valley
+San Diego,073,92064: Poway,50435,92064,Poway
+San Diego,073,92065: Ramona,36256,92065,Ramona
+San Diego,073,92066: Ranchita,0,92066,Ranchita
+San Diego,073,92067: Rancho Santa Fe,0,92067,Rancho Santa Fe
+San Diego,073,92069: San Marcos,51172,92069,San Marcos
+San Diego,073,92070: Santa Ysabel,0,92070,Santa Ysabel
+San Diego,073,92071: Santee,58213,92071,Santee
+San Diego,073,92075: Solana Beach,12976,92075,Solana Beach
+San Diego,073,92078: San Marcos,50973,92078,San Marcos
+San Diego,073,92081: Vista,32889,92081,Vista
+San Diego,073,92082: Valley Center,17680,92082,Valley Center
+San Diego,073,92083: Vista,39155,92083,Vista
+San Diego,073,92084: Vista,49040,92084,Vista
+San Diego,073,92086: Warner Springs,0,92086,Warner Springs
+San Diego,073,92091: Rancho Santa Fe,0,92091,Rancho Santa Fe
+San Diego,073,92093: La Jolla,11299,92093,La Jolla
+San Diego,073,92096: San Marcos,0,92096,San Marcos
+San Diego,073,92101: San Diego,60694,92101,San Diego
+San Diego,073,92102: San Diego,42331,92102,San Diego
+San Diego,073,92103: San Diego,39687,92103,San Diego
+San Diego,073,92104: San Diego,52095,92104,San Diego
+San Diego,073,92105: San Diego,67077,92105,San Diego
+San Diego,073,92106: San Diego,22209,92106,San Diego
+San Diego,073,92107: San Diego,30971,92107,San Diego
+San Diego,073,92108: San Diego,27342,92108,San Diego
+San Diego,073,92109: San Diego,54115,92109,San Diego
+San Diego,073,92110: San Diego,29878,92110,San Diego
+San Diego,073,92111: San Diego,47943,92111,San Diego
+San Diego,073,92113: San Diego,48550,92113,San Diego
+San Diego,073,92114: San Diego,58032,92114,San Diego
+San Diego,073,92115: San Diego,61463,92115,San Diego
+San Diego,073,92116: San Diego,36946,92116,San Diego
+San Diego,073,92117: San Diego,52122,92117,San Diego
+San Diego,073,92118: Coronado,17956,92118,Coronado
+San Diego,073,92119: San Diego,23730,92119,San Diego
+San Diego,073,92120: San Diego,29448,92120,San Diego
+San Diego,073,92121: San Diego,0,92121,San Diego
+San Diego,073,92122: San Diego,48952,92122,San Diego
+San Diego,073,92123: San Diego,33643,92123,San Diego
+San Diego,073,92124: San Diego,31705,92124,San Diego
+San Diego,073,92126: San Diego,76748,92126,San Diego
+San Diego,073,92127: San Diego,49508,92127,San Diego
+San Diego,073,92128: San Diego,51732,92128,San Diego
+San Diego,073,92129: San Diego,52624,92129,San Diego
+San Diego,073,92130: San Diego,59593,92130,San Diego
+San Diego,073,92131: San Diego,36090,92131,San Diego
+San Diego,073,92134: San Diego,0,92134,San Diego
+San Diego,073,92135: Coronado,0,92135,Coronado
+San Diego,073,92136: San Diego,12492,92136,San Diego
+San Diego,073,92139: San Diego,33271,92139,San Diego
+San Diego,073,92140: San Diego,0,92140,San Diego
+San Diego,073,92145: San Diego,0,92145,San Diego
+San Diego,073,92154: San Diego,79997,92154,San Diego
+San Diego,073,92155: Coronado,0,92155,Coronado
+San Diego,073,92161: San Diego,0,92161,San Diego
+San Diego,073,92173: San Ysidro,27097,92173,San Ysidro
+San Diego,073,92182: San Diego,0,92182,San Diego
+San Diego,073,92259: Ocotillo,0,92259,Ocotillo
+San Diego,073,92536: Aguanga,0,92536,Aguanga
+San Diego,073,92672: San Clemente,0,92672,San Clemente
+Imperial,025,92004: Borrego Springs,2414,92004,Borrego Springs
+Imperial,025,92225: Blythe,22149,92225,Blythe
+Imperial,025,92227: Brawley,27255,92227,Brawley
+Imperial,025,92231: Calexico,40019,92231,Calexico
+Imperial,025,92233: Calipatria,7618,92233,Calipatria
+Imperial,025,92243/92244: El Centro,50484,92243/92244,El Centro
+Imperial,025,92249: Heber,7898,92249,Heber
+Imperial,025,92250: Holtville,8979,92250,Holtville
+Imperial,025,92251: Imperial,23388,92251,Imperial
+Imperial,025,92257: Niland,1332,92257,Niland
+Imperial,025,92259: Ocotillo,94,92259,Ocotillo
+Imperial,025,92266: Palo Verde,108,92266,Palo Verde
+Imperial,025,92273: Seeley,1704,92273,Seeley
+Imperial,025,92274: Thermal,15118,92274,Thermal
+Imperial,025,92275: Salton City,2456,92275,Salton City
+Imperial,025,92281: Westmorland,2859,92281,Westmorland
+Imperial,025,92283: Winterhaven,1694,92283,Winterhaven
+Santa Barbara,083,Santa Maria,99553,,
+Santa Barbara,083,Santa Barbara,92029,,
+Santa Barbara,083,Lompoc,57266,,
+Santa Barbara,083,North County,10096,,
+Santa Barbara,083,Isla Vista,23148,,
+Santa Barbara,083,Orcutt,31603,,
+Santa Barbara,083,Goleta,29852,,
+Santa Barbara,083,Goleta Valley & Gaviota,30592,,
+Santa Barbara,083,South County,26723,,
+Santa Barbara,083,Santa Ynez Valley,23022,,
+Sacramento,067,Sacramento,495011,,
+Sacramento,067,Elk Grove,168503,,
+Sacramento,067,Citrus Heights,87061,,
+Sacramento,067,Rancho Cordova,72056,,
+Sacramento,067,Galt,25675,,
+Sacramento,067,Folsom,77007,,
+Sacramento,067,Isleton,583,,
+Stanislaus,099,Hughson,7370,,
+Stanislaus,099,Waterford,8823,,
+Stanislaus,099,Newman,11119,,
+Stanislaus,099,Oakdale,22599,,
+Stanislaus,099,Riverbank,24237,,
+Stanislaus,099,Patterson,21783,,
+Stanislaus,099,Ceres,47975,,
+Stanislaus,099,Turlock,72335,,
+Stanislaus,099,Modesto,211336,,
+Santa Cruz,087,Aptos,5797,,
+Santa Cruz,087,Ben Lomond,7071,,
+Santa Cruz,087,Boulder Creek,4712,,
+Santa Cruz,087,Capitola,10135,,
+Santa Cruz,087,Felton,3810,,
+Santa Cruz,087,Freedom,3719,,
+Santa Cruz,087,Santa Cruz,64273,,
+Santa Cruz,087,Scotts Valley,11900,,
+Santa Cruz,087,Soquel,10862,,
+Santa Cruz,087,Watsonville,53616,,
+Siskiyou,093,East County,3718,,
+Siskiyou,093,North County,16174,,
+Siskiyou,093,South County,16958,,
+Siskiyou,093,West County,7514,,
+Humboldt,023,95511: Alderpoint,290,95511,Alderpoint
+Humboldt,023,95521: Arcata,21462,95521,Arcata
+Humboldt,023,95524: Bayside,1724,95524,Bayside
+Humboldt,023,95514: Blocksburg,117,95514,Blocksburg
+Humboldt,023,95525: Blue Lake,1433,95525,Blue Lake
+Humboldt,023,95526: Bridgeville,210,95526,Bridgeville
+Humboldt,023,95528: Carlotta,1493,95528,Carlotta
+Humboldt,023,95501: Eureka,23467,95501,Eureka
+Humboldt,023,95503: Eureka,25503,95503,Eureka
+Humboldt,023,95536: Ferndale,2898,95536,Ferndale
+Humboldt,023,95537: Fields Landing,325,95537,Fields Landing
+Humboldt,023,95540: Fortuna,14305,95540,Fortuna
+Humboldt,023,95542: Garberville,2072,95542,Garberville
+Humboldt,023,95545: Honeydew,101,95545,Honeydew
+Humboldt,023,95546: Hoopa,3768,95546,Hoopa
+Humboldt,023,95547: Hydesville,978,95547,Hydesville
+Humboldt,023,95549: Kneeland,1050,95549,Kneeland
+Humboldt,023,95550: Korbel,71,95550,Korbel
+Humboldt,023,95551: Loleta,1374,95551,Loleta
+Humboldt,023,95519: Mckinleyville,19099,95519,Mckinleyville
+Humboldt,023,95553: Miranda,913,95553,Miranda
+Humboldt,023,95554: Myers Flat,287,95554,Myers Flat
+Humboldt,023,95555: Orick,337,95555,Orick
+Humboldt,023,95556: Orleans,627,95556,Orleans
+Humboldt,023,95558: Petrolia,423,95558,Petrolia
+Humboldt,023,95559: Phillipsville,72,95559,Phillipsville
+Humboldt,023,95569: Redcrest,295,95569,Redcrest
+Humboldt,023,95560: Redway,1466,95560,Redway
+Humboldt,023,95562: Rio Dell,3422,95562,Rio Dell
+Humboldt,023,95564: Samoa,432,95564,Samoa
+Humboldt,023,95565: Scotia,772,95565,Scotia
+Humboldt,023,95570: Trinidad,2274,95570,Trinidad
+Humboldt,023,95571: Weott,271,95571,Weott
+Humboldt,023,95589: Whitethorn,982,95589,Whitethorn
+Humboldt,023,95573: Willow Creek,1554,95573,Willow Creek
+Inyo,027,East County,2478,,
+Inyo,027,North County,11996,,
+Inyo,027,South County,542,,
+Butte,007,Biggs/Gridley,8908,,
+Butte,007,Chico,91998,,
+Butte,007,Durham,5863,,
+Butte,007,Oroville,19040,,
+Butte,007,Other,33084,,
+Butte,007,Ridge Communities,39707,,
+El Dorado,17,"Shingle Springs, Cameron Park, Rescue",35294,,
+El Dorado,17,"El Dorado, Diamond Springs",9396,,
+El Dorado,17,El Dorado Hills,42439,,
+El Dorado,17,Greater Placerville Area,36508,,
+El Dorado,17,Tahoe Region,30275,,
+El Dorado,17,North County,14433,,
+El Dorado,17,"Camino, Pollock Pines, Kyburz",13548,,
+El Dorado,17,South County,10345,,
+Sonoma,097,95412: Annapolis,402,95412,Annapolis
+Sonoma,097,94515: Calistoga,7436,94515,Calistoga
+Sonoma,097,94922: Bodega,603,94922,Bodega
+Sonoma,097,94923: Bodega Bay,846,94923,Bodega Bay
+Sonoma,097,94928: Rohnert Park,44103,94928,Rohnert Park
+Sonoma,097,94931: Cotati,8601,94931,Cotati
+Sonoma,097,94951: Penngrove,4571,94951,Penngrove
+Sonoma,097,94952: Petaluma,36184,94952,Petaluma
+Sonoma,097,94954: Petaluma,38414,94954,Petaluma
+Sonoma,097,95401: Santa Rosa,38986,95401,Santa Rosa
+Sonoma,097,95403: Santa Rosa,45355,95403,Santa Rosa
+Sonoma,097,95404: Santa Rosa,40474,95404,Santa Rosa
+Sonoma,097,95405: Santa Rosa,21448,95405,Santa Rosa
+Sonoma,097,95407: Santa Rosa,42483,95407,Santa Rosa
+Sonoma,097,95409: Santa Rosa,27312,95409,Santa Rosa
+Sonoma,097,95421: Cazadero,1681,95421,Cazadero
+Sonoma,097,95425: Cloverdale,10586,95425,Cloverdale
+Sonoma,097,95436: Forestville,6352,95436,Forestville
+Sonoma,097,95439: Fulton,774,95439,Fulton
+Sonoma,097,95441: Geyserville,2053,95441,Geyserville
+Sonoma,097,95442: Glen Ellen,3136,95442,Glen Ellen
+Sonoma,097,95444: Graton,715,95444,Graton
+Sonoma,097,95446: Guerneville,5100,95446,Guerneville
+Sonoma,097,95448: Healdsburg,17482,95448,Healdsburg
+Sonoma,097,95450: Jenner,298,95450,Jenner
+Sonoma,097,95452: Kenwood,970,95452,Kenwood
+Sonoma,097,95462: Monte Rio,1265,95462,Monte Rio
+Sonoma,097,95465: Occidental,2104,95465,Occidental
+Sonoma,097,95472: Sebastopol,30762,95472,Sebastopol
+Sonoma,097,95476: Sonoma,36792,95476,Sonoma
+Sonoma,097,95492: Windsor,29920,95492,Windsor
+Sonoma,097,95497: The Sea Ranch,1161,95497,The Sea Ranch
+San Joaquin,077,95202: Stockton,6001,95202,Stockton
+San Joaquin,077,95203: Stockton,15775,95203,Stockton
+San Joaquin,077,95204: Stockton,28425,95204,Stockton
+San Joaquin,077,95205: Stockton,38544,95205,Stockton
+San Joaquin,077,95206: Stockton,64034,95206,Stockton
+San Joaquin,077,95207: Stockton,51879,95207,Stockton
+San Joaquin,077,95209: Stockton,44313,95209,Stockton
+San Joaquin,077,95210: Stockton,41117,95210,Stockton
+San Joaquin,077,95211: Stockton,1629,95211,Stockton
+San Joaquin,077,95212: Stockton,28049,95212,Stockton
+San Joaquin,077,95215: Stockton,24371,95215,Stockton
+San Joaquin,077,95219: Stockton,29668,95219,Stockton
+San Joaquin,077,95220: Acampo,7538,95220,Acampo
+San Joaquin,077,95227: Clements,842,95227,Clements
+San Joaquin,077,95230: Farmington,597,95230,Farmington
+San Joaquin,077,95231: French Camp,5092,95231,French Camp
+San Joaquin,077,95234: Holt,113,95234,Holt
+San Joaquin,077,95236: Linden,4223,95236,Linden
+San Joaquin,077,95237: Lockeford,3531,95237,Lockeford
+San Joaquin,077,95240: Lodi,48838,95240,Lodi
+San Joaquin,077,95242: Lodi,26235,95242,Lodi
+San Joaquin,077,95253: Victor,106,95253,Victor
+San Joaquin,077,95258: Woodbridge,3881,95258,Woodbridge
+San Joaquin,077,95304: Banta,14539,95304,Banta
+San Joaquin,077,95320: Escalon,13094,95320,Escalon
+San Joaquin,077,95330: Lathrop,21552,95330,Lathrop
+San Joaquin,077,95336: Manteca,47612,95336,Manteca
+San Joaquin,077,95337: Manteca,37706,95337,Manteca
+San Joaquin,077,95361: Oakdale,34558,95361,Oakdale
+San Joaquin,077,95366: Ripon,17654,95366,Ripon
+San Joaquin,077,95376: Tracy,53542,95376,Tracy
+San Joaquin,077,95377: Tracy,32501,95377,Tracy
+San Joaquin,077,95391: Mountain House,16562,95391,Mountain House
+San Joaquin,077,95632: Galt,31431,95632,Galt
+San Joaquin,077,95686: Thornton,1209,95686,Thornton
+Shasta,089,Redding,75579,,
+Shasta,089,Palo Cedro,20533,,
+Shasta,089,Anderson / Cottonwood,20318,,
+Shasta,089,Shasta Lake,21911,,
+Shasta,089,West County,21565,,
+Shasta,089,East County,19011,,
+Plumas,063,Eastern area,6812,,
+Plumas,063,Northern area,2639,,
+Plumas,063,Western area,4035,,
+Plumas,063,Southern area,6521,,
+Trinity,105,East County,6738,,
+Trinity,105,North County,699,,
+Trinity,105,South County,4010,,
+Trinity,105,West County,2254,,
+Napa,055,American Canyon,17167,,
+Napa,055,Angwin,2046,,
+Napa,055,Between St Helena and Calistoga,1744,,
+Napa,055,Between Yountville and St Helena,2753,,
+Napa,055,Calistoga,4759,,
+Napa,055,Chiles Valley Area,776,,
+Napa,055,Deer Park,1460,,
+Napa,055,East Napa Area,10237,,
+Napa,055,Lake Berryessa,1624,,
+Napa,055,Napa,79852,,
+Napa,055,North Calistoga,980,,
+Napa,055,Northeast American Canyon Area,212,,
+Napa,055,Pope Valley Area,1275,,
+Napa,055,South Napa Area,1961,,
+Napa,055,St. Helena,6543,,
+Napa,055,West Napa and Yountville Area,1699,,
+Napa,055,West Napa Area,951,,
+Napa,055,Yountville,3032,,
+Lassen,035,Central,17679,,
+Lassen,035,East,2334,,
+Lassen,035,North,216,,
+Lassen,035,West,1655,,
+Del Norte,015,Crescent City,8723,,
+Del Norte,015,Fort Dick-Smith River,1462,,
+Del Norte,015,Hiouchi-Gasquet-Big Flat,1053,,
+Del Norte,015,Klamath,617,,

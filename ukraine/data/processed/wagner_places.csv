@@ -1,0 +1,27 @@
+,places_x,year,manual,code,pop,continent_name
+0,Ukraine,2014,no,UKR,44132049.0,Europe
+1,Syria,2015,no,SYR,17500657.0,Asia
+2,Libya,2015,no,LBY,6871287.0,Africa
+3,Sudan,2017,no,SDN,43849269.0,Africa
+4,Central African Republic,2018,no,CAF,4829764.0,Africa
+5,Madagascar,2018,no,MDG,27691019.0,Africa
+6,Mozambique,2019,no,MOZ,31255435.0,Africa
+7,Venezuela,2017,no,VEN,28435943.0,South America
+8,Senegal,2014,yes,SEN,16743930.0,Africa
+9,Mali,2019,yes,MLI,20250834.0,Africa
+10,Nigeria,2019,yes,NGA,206139587.0,Africa
+11,Egypt,2017,yes,EGY,102334403.0,Africa
+12,Republic of the Congo,2019,yes,COG,5518092.0,Africa
+13,Democratic Republic of the Congo,2014,yes,COD,89561404.0,Africa
+14,Burundi,2018,yes,BDI,11890781.0,Africa
+15,Botswana,2018,yes,BWA,2351625.0,Africa
+16,South Africa,2018,yes,ZAF,59308690.0,Africa
+17,Eswatini,2015,yes,SWZ,1160164.0,Africa
+18,Iraq,2017,yes,IRQ,40222503.0,Asia
+19,Yemen,2018,yes,YEM,29825968.0,Asia
+20,Afghanistan,2018,yes,AFG,38928341.0,Asia
+21,Tajikistan,2017,yes,TJK,9537642.0,Asia
+22,Equatorial Guinea,2020,yes,GNQ,1402985.0,Africa
+23,Comoros,2018,yes,COM,869595.0,Africa
+24,Indonesia,2016,yes,IDN,273523621.0,Asia
+25,Sri Lanka,2014,yes,LKA,21919000.0,Asia
