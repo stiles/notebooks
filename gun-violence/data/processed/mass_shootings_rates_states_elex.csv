@@ -1,0 +1,47 @@
+ap_state,no_killed,no_injured,total,state,population,rate_per_one_million,winner,state_name
+Miss.,97,132,229,Mississippi,2961279,33.0,Trump,Mississippi
+La.,148,292,440,Louisiana,4657757,32.0,Trump,Louisiana
+Nev.,86,502,588,Nevada,3104614,28.0,Biden,Nevada
+S.C.,120,189,309,South Carolina,5118425,23.0,Trump,South Carolina
+Mo.,137,229,366,Missouri,6154913,22.0,Trump,Missouri
+Ill.,272,638,910,Illinois,12812508,21.0,Biden,Illinois
+N.M.,44,40,84,New Mexico,2117522,21.0,Biden,New Mexico
+Ala.,98,185,283,Alabama,5024279,20.0,Trump,Alabama
+Del.,16,21,37,Delaware,989948,16.0,Biden,Delaware
+S.D.,14,6,20,South Dakota,886667,16.0,Trump,South Dakota
+Texas,443,639,1082,Texas,29145505,15.0,Trump,Texas
+Tenn.,106,193,299,Tennessee,6910840,15.0,Trump,Tennessee
+Fla.,307,520,827,Florida,21538187,14.0,Trump,Florida
+Mass.,100,186,286,Massachusetts,7029917,14.0,Biden,Massachusetts
+Ark.,41,114,155,Arkansas,3011524,14.0,Trump,Arkansas
+Ga.,154,254,408,Georgia,10711908,14.0,Biden,Georgia
+Colo.,73,114,187,Colorado,5773714,13.0,Biden,Colorado
+Ohio,152,307,459,Ohio,11799448,13.0,Trump,Ohio
+Maine,18,50,68,Maine,1362359,13.0,Biden,Maine
+Kan.,37,61,98,Kansas,2937880,13.0,Trump,Kansas
+Ind.,90,127,217,Indiana,6785528,13.0,Trump,Indiana
+Mich.,121,244,365,Michigan,10077331,12.0,Biden,Michigan
+Conn.,44,53,97,Connecticut,3605944,12.0,Biden,Connecticut
+Mont.,13,6,19,Montana,1084225,12.0,Trump,Montana
+N.C.,121,168,289,North Carolina,10439388,12.0,Trump,North Carolina
+Pa.,146,251,397,Pennsylvania,13002700,11.0,Biden,Pennsylvania
+Calif.,444,755,1199,California,39538223,11.0,Biden,California
+Ariz.,69,108,177,Arizona,7151502,10.0,Biden,Arizona
+Va.,85,149,234,Virginia,8631393,10.0,Biden,Virginia
+Okla.,40,48,88,Oklahoma,3959353,10.0,Trump,Oklahoma
+Ky.,42,89,131,Kentucky,4505836,9.0,Trump,Kentucky
+Wash.,66,54,120,Washington,7705281,9.0,Biden,Washington
+W.Va.,17,5,22,West Virginia,1793716,9.0,Trump,West Virginia
+Wis.,52,40,92,Wisconsin,5893718,9.0,Biden,Wisconsin
+Alaska,6,8,14,Alaska,733391,8.0,Trump,Alaska
+N.J.,70,182,252,New Jersey,9288994,8.0,Biden,New Jersey
+N.Y.,113,256,369,New York,20201249,6.0,Biden,New York
+Ore.,24,45,69,Oregon,4237256,6.0,Biden,Oregon
+Minn.,35,79,114,Minnesota,5706494,6.0,Biden,Minnesota
+Vt.,4,0,4,Vermont,643077,6.0,Biden,Vermont
+Utah,17,8,25,Utah,3271616,5.0,Trump,Utah
+Neb.,9,20,29,Nebraska,1961504,5.0,Trump,Nebraska
+Iowa,13,36,49,Iowa,3190369,4.0,Trump,Iowa
+Idaho,5,6,11,Idaho,1839106,3.0,Trump,Idaho
+Md.,12,2,14,Maryland,6177224,2.0,Biden,Maryland
+R.I.,1,3,4,Rhode Island,1097379,1.0,Biden,Rhode Island

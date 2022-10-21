@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "years": "1978–1989", "cases": 20, "median": 30.3, "lat_south": 27.8, "lat_north": 38.0, "lon_east": -80.5233856, "lon_west": -99.0245142 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.5233856, 27.8 ], [ -80.5233856, 38.0 ], [ -99.0245142, 38.0 ], [ -99.0245142, 27.8 ], [ -80.5233856, 27.8 ] ] ] } }
+]
+}

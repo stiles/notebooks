@@ -1,0 +1,5 @@
+datawrapper
+pandas
+requests
+openpyxl
+bs4

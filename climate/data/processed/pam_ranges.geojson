@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "years": "1978–1989", "cases": 20, "median": 30.3, "lat_south": 27.8, "lat_north": 38.0, "lon_east": -80.5233856, "lon_west": -99.0245142 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -80.5233856, 27.8 ], [ -80.5233856, 38.0 ], [ -99.0245142, 38.0 ], [ -99.0245142, 27.8 ], [ -80.5233856, 27.8 ] ] ] } },
+{ "type": "Feature", "properties": { "years": "1990–1999", "cases": 15, "median": 32.5, "lat_south": 26.5, "lat_north": 35.5, "lon_east": -75.0, "lon_west": -118.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.0, 26.5 ], [ -75.0, 35.5 ], [ -118.0, 35.5 ], [ -118.0, 26.5 ], [ -75.0, 26.5 ] ] ] } },
+{ "type": "Feature", "properties": { "years": "2000–2009", "cases": 26, "median": 32.3, "lat_south": 28.1, "lat_north": 36.1, "lon_east": -75.0, "lon_west": -118.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.0, 28.1 ], [ -75.0, 36.1 ], [ -118.0, 36.1 ], [ -118.0, 28.1 ], [ -75.0, 28.1 ] ] ] } },
+{ "type": "Feature", "properties": { "years": "2010–2018", "cases": 24, "median": 33.6, "lat_south": 26.1, "lat_north": 45.0, "lon_east": -75.0, "lon_west": -118.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.0, 26.1 ], [ -75.0, 45.0 ], [ -118.0, 45.0 ], [ -118.0, 26.1 ], [ -75.0, 26.1 ] ] ] } }
+]
+}

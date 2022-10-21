@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "years": "2010–2018", "cases": 24, "median": 33.6, "lat_south": 26.1, "lat_north": 45.0, "lon_east": -75.0, "lon_west": -118.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -75.0, 26.1 ], [ -75.0, 45.0 ], [ -118.0, 45.0 ], [ -118.0, 26.1 ], [ -75.0, 26.1 ] ] ] } }
+]
+}

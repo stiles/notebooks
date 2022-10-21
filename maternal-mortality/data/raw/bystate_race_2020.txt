@@ -1,0 +1,109 @@
+"Notes"	"State"	"State Code"	"Race"	"Race Code"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	12	1331864	Unreliable
+	"Arizona"	"04"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	15	2142507	Unreliable
+	"California"	"06"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	13	14159535	Unreliable
+	"Florida"	"12"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	23	3491048	0.7
+	"Florida"	"12"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	11	5285117	Unreliable
+	"Florida"	"12"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	12	11730894	Unreliable
+	"Georgia"	"13"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	18	3490446	Unreliable
+	"Illinois"	"17"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	11	7710316	Unreliable
+	"Indiana"	"18"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	5333871	Unreliable
+	"Kentucky"	"21"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	16	3805077	Unreliable
+	"Louisiana"	"22"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	14	1532912	Unreliable
+	"Michigan"	"26"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	17	7534869	Unreliable
+	"Missouri"	"29"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	11	758249	Unreliable
+	"Missouri"	"29"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	18	4927676	Unreliable
+	"New Jersey"	"34"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	10	4869242	Unreliable
+	"New York"	"36"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	17	2913569	Unreliable
+	"North Carolina"	"37"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	19	2344295	Unreliable
+	"Ohio"	"39"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	13	1601597	Unreliable
+	"Ohio"	"39"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	9245719	Unreliable
+	"South Carolina"	"45"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	13	1407964	Unreliable
+	"Tennessee"	"47"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	13	1191073	Unreliable
+	"Tennessee"	"47"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	23	5123255	0.4
+	"Texas"	"48"	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-2"	32	3699914	0.9
+	"Texas"	"48"	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	45	11081034	0.4
+	"Texas"	"48"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	34	12233845	0.3
+	"Virginia"	"51"	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-2"	19	5337294	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"ICD-10 Codes: A34 (Obstetrical tetanus); O00-O07 (Pregnancy with abortive outcome); O10-O16 (Oedema, proteinuria and"
+"hypertensive disorders in pregnancy, childbirth and the puerperium); O20-O29 (Other maternal disorders predominantly related to"
+"pregnancy); O30-O48 (Maternal care related to the fetus and amniotic cavity and possible delivery problems); O60-O75"
+"(Complications of labour and delivery); O85-O92 (Complications predominantly related to the puerperium); O95 (Obstetric death of"
+"unspecified cause); O98.0 (Tuberculosis complicating pregnancy, childbirth and the puerperium); O98.1 (Syphilis complicating"
+"pregnancy, childbirth and the puerperium); O98.2 (Gonorrhoea complicating pregnancy, childbirth and the puerperium); O98.3"
+"(Other infections with a predominantly sexual mode of transmission complicating pregnancy, childbirth and the puerperium); O98.4"
+"(Viral hepatitis complicating pregnancy, childbirth and the puerperium); O98.5 (Other viral diseases complicating pregnancy,"
+"childbirth and the puerperium); O98.6 (Protozoal diseases complicating pregnancy, childbirth and the puerperium); O98.7 (Human"
+"immunodeficiency [HIV] disease complicating pregnancy, childbirth and the puerperium); O98.8 (Other maternal infectious and"
+"parasitic diseases complicating pregnancy, childbirth and the puerperium); O98.9 (Unspecified maternal infectious or parasitic"
+"disease complicating pregnancy, childbirth and the puerperium); O99.0 (Anaemia complicating pregnancy, childbirth and the"
+"puerperium); O99.1 (Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+"complicating pregnancy, childbirth and the puerperium); O99.2 (Endocrine, nutritional and metabolic diseases complicating"
+"pregnancy, childbirth and the puerperium); O99.3 (Mental disorders and diseases of the nervous system complicating pregnancy,"
+"childbirth and the puerperium); O99.4 (Diseases of the circulatory system complicating pregnancy, childbirth and the"
+"puerperium); O99.5 (Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium); O99.6 (Diseases"
+"of the digestive system complicating pregnancy, childbirth and the puerperium); O99.7 (Diseases of the skin and subcutaneous"
+"tissue complicating pregnancy, childbirth and the puerperium); O99.8 (Other specified diseases and conditions complicating"
+"pregnancy, childbirth and the puerperium)"
+"Year/Month: 2020"
+"Group By: State; Race; Hispanic Origin"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Aug 26, 2022 11:22:19 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Aug 26, 2022 11:22:19 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"5. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

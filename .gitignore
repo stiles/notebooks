@@ -2,6 +2,15 @@ twitter-scraper/input/
 wells/input/
 swarm/keys.py
 youtube/creds.py
+elon/credentials.json
+*/credentials.json
+geocoder/creds.py
+census/creds.py
+abortion/jupyter-integration-credentials.json
+china/jupyter-integration-credentials.json
+life-expectancy/jupyter-integration-credentials.json
+*/jupyter-integration-credentials.json
+russia/credentials.json
 
 git rm --cached .DS_Store
 

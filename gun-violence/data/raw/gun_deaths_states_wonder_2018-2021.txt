@@ -1,0 +1,298 @@
+"Notes"	"Year"	"Year Code"	"Occurrence State"	"Occurrence State Code"	Deaths
+	"2018"	"2018"	"Alabama"	"01"	1040
+	"2018"	"2018"	"Alaska"	"02"	154
+	"2018"	"2018"	"Arizona"	"04"	1159
+	"2018"	"2018"	"Arkansas"	"05"	560
+	"2018"	"2018"	"California"	"06"	3025
+	"2018"	"2018"	"Colorado"	"08"	893
+	"2018"	"2018"	"Connecticut"	"09"	186
+	"2018"	"2018"	"Delaware"	"10"	99
+	"2018"	"2018"	"District of Columbia"	"11"	130
+	"2018"	"2018"	"Florida"	"12"	2947
+	"2018"	"2018"	"Georgia"	"13"	1669
+	"2018"	"2018"	"Hawaii"	"15"	58
+	"2018"	"2018"	"Idaho"	"16"	291
+	"2018"	"2018"	"Illinois"	"17"	1360
+	"2018"	"2018"	"Indiana"	"18"	969
+	"2018"	"2018"	"Iowa"	"19"	289
+	"2018"	"2018"	"Kansas"	"20"	428
+	"2018"	"2018"	"Kentucky"	"21"	740
+	"2018"	"2018"	"Louisiana"	"22"	1002
+	"2018"	"2018"	"Maine"	"23"	164
+	"2018"	"2018"	"Maryland"	"24"	706
+	"2018"	"2018"	"Massachusetts"	"25"	249
+	"2018"	"2018"	"Michigan"	"26"	1302
+	"2018"	"2018"	"Minnesota"	"27"	435
+	"2018"	"2018"	"Mississippi"	"28"	681
+	"2018"	"2018"	"Missouri"	"29"	1348
+	"2018"	"2018"	"Montana"	"30"	193
+	"2018"	"2018"	"Nebraska"	"31"	176
+	"2018"	"2018"	"Nevada"	"32"	562
+	"2018"	"2018"	"New Hampshire"	"33"	151
+	"2018"	"2018"	"New Jersey"	"34"	412
+	"2018"	"2018"	"New Mexico"	"35"	441
+	"2018"	"2018"	"New York"	"36"	795
+	"2018"	"2018"	"North Carolina"	"37"	1408
+	"2018"	"2018"	"North Dakota"	"38"	95
+	"2018"	"2018"	"Ohio"	"39"	1569
+	"2018"	"2018"	"Oklahoma"	"40"	678
+	"2018"	"2018"	"Oregon"	"41"	521
+	"2018"	"2018"	"Pennsylvania"	"42"	1658
+	"2018"	"2018"	"Rhode Island"	"44"	41
+	"2018"	"2018"	"South Carolina"	"45"	875
+	"2018"	"2018"	"South Dakota"	"46"	116
+	"2018"	"2018"	"Tennessee"	"47"	1287
+	"2018"	"2018"	"Texas"	"48"	3493
+	"2018"	"2018"	"Utah"	"49"	401
+	"2018"	"2018"	"Vermont"	"50"	82
+	"2018"	"2018"	"Virginia"	"51"	1028
+	"2018"	"2018"	"Washington"	"53"	814
+	"2018"	"2018"	"West Virginia"	"54"	353
+	"2018"	"2018"	"Wisconsin"	"55"	589
+	"2018"	"2018"	"Wyoming"	"56"	118
+"Total"	"2018"	"2018"			39740
+	"2019"	"2019"	"Alabama"	"01"	1053
+	"2019"	"2019"	"Alaska"	"02"	184
+	"2019"	"2019"	"Arizona"	"04"	1139
+	"2019"	"2019"	"Arkansas"	"05"	578
+	"2019"	"2019"	"California"	"06"	2954
+	"2019"	"2019"	"Colorado"	"08"	853
+	"2019"	"2019"	"Connecticut"	"09"	186
+	"2019"	"2019"	"Delaware"	"10"	94
+	"2019"	"2019"	"District of Columbia"	"11"	139
+	"2019"	"2019"	"Florida"	"12"	2879
+	"2019"	"2019"	"Georgia"	"13"	1718
+	"2019"	"2019"	"Hawaii"	"15"	63
+	"2019"	"2019"	"Idaho"	"16"	254
+	"2019"	"2019"	"Illinois"	"17"	1323
+	"2019"	"2019"	"Indiana"	"18"	926
+	"2019"	"2019"	"Iowa"	"19"	296
+	"2019"	"2019"	"Kansas"	"20"	393
+	"2019"	"2019"	"Kentucky"	"21"	687
+	"2019"	"2019"	"Louisiana"	"22"	1006
+	"2019"	"2019"	"Maine"	"23"	162
+	"2019"	"2019"	"Maryland"	"24"	753
+	"2019"	"2019"	"Massachusetts"	"25"	233
+	"2019"	"2019"	"Michigan"	"26"	1204
+	"2019"	"2019"	"Minnesota"	"27"	467
+	"2019"	"2019"	"Mississippi"	"28"	697
+	"2019"	"2019"	"Missouri"	"29"	1295
+	"2019"	"2019"	"Montana"	"30"	216
+	"2019"	"2019"	"Nebraska"	"31"	206
+	"2019"	"2019"	"Nevada"	"32"	493
+	"2019"	"2019"	"New Hampshire"	"33"	155
+	"2019"	"2019"	"New Jersey"	"34"	359
+	"2019"	"2019"	"New Mexico"	"35"	458
+	"2019"	"2019"	"New York"	"36"	791
+	"2019"	"2019"	"North Carolina"	"37"	1401
+	"2019"	"2019"	"North Dakota"	"38"	102
+	"2019"	"2019"	"Ohio"	"39"	1569
+	"2019"	"2019"	"Oklahoma"	"40"	739
+	"2019"	"2019"	"Oregon"	"41"	565
+	"2019"	"2019"	"Pennsylvania"	"42"	1556
+	"2019"	"2019"	"Rhode Island"	"44"	49
+	"2019"	"2019"	"South Carolina"	"45"	982
+	"2019"	"2019"	"South Dakota"	"46"	112
+	"2019"	"2019"	"Tennessee"	"47"	1326
+	"2019"	"2019"	"Texas"	"48"	3716
+	"2019"	"2019"	"Utah"	"49"	386
+	"2019"	"2019"	"Vermont"	"50"	72
+	"2019"	"2019"	"Virginia"	"51"	1032
+	"2019"	"2019"	"Washington"	"53"	845
+	"2019"	"2019"	"West Virginia"	"54"	314
+	"2019"	"2019"	"Wisconsin"	"55"	592
+	"2019"	"2019"	"Wyoming"	"56"	135
+"Total"	"2019"	"2019"			39707
+	"2020"	"2020"	"Alabama"	"01"	1136
+	"2020"	"2020"	"Alaska"	"02"	174
+	"2020"	"2020"	"Arizona"	"04"	1278
+	"2020"	"2020"	"Arkansas"	"05"	669
+	"2020"	"2020"	"California"	"06"	3431
+	"2020"	"2020"	"Colorado"	"08"	926
+	"2020"	"2020"	"Connecticut"	"09"	217
+	"2020"	"2020"	"Delaware"	"10"	139
+	"2020"	"2020"	"District of Columbia"	"11"	184
+	"2020"	"2020"	"Florida"	"12"	3070
+	"2020"	"2020"	"Georgia"	"13"	1914
+	"2020"	"2020"	"Hawaii"	"15"	49
+	"2020"	"2020"	"Idaho"	"16"	323
+	"2020"	"2020"	"Illinois"	"17"	1653
+	"2020"	"2020"	"Indiana"	"18"	1166
+	"2020"	"2020"	"Iowa"	"19"	354
+	"2020"	"2020"	"Kansas"	"20"	484
+	"2020"	"2020"	"Kentucky"	"21"	889
+	"2020"	"2020"	"Louisiana"	"22"	1183
+	"2020"	"2020"	"Maine"	"23"	157
+	"2020"	"2020"	"Maryland"	"24"	774
+	"2020"	"2020"	"Massachusetts"	"25"	264
+	"2020"	"2020"	"Michigan"	"26"	1432
+	"2020"	"2020"	"Minnesota"	"27"	503
+	"2020"	"2020"	"Mississippi"	"28"	775
+	"2020"	"2020"	"Missouri"	"29"	1476
+	"2020"	"2020"	"Montana"	"30"	233
+	"2020"	"2020"	"Nebraska"	"31"	203
+	"2020"	"2020"	"Nevada"	"32"	561
+	"2020"	"2020"	"New Hampshire"	"33"	129
+	"2020"	"2020"	"New Jersey"	"34"	422
+	"2020"	"2020"	"New Mexico"	"35"	468
+	"2020"	"2020"	"New York"	"36"	1040
+	"2020"	"2020"	"North Carolina"	"37"	1680
+	"2020"	"2020"	"North Dakota"	"38"	112
+	"2020"	"2020"	"Ohio"	"39"	1769
+	"2020"	"2020"	"Oklahoma"	"40"	834
+	"2020"	"2020"	"Oregon"	"41"	595
+	"2020"	"2020"	"Pennsylvania"	"42"	1762
+	"2020"	"2020"	"Rhode Island"	"44"	59
+	"2020"	"2020"	"South Carolina"	"45"	1112
+	"2020"	"2020"	"South Dakota"	"46"	127
+	"2020"	"2020"	"Tennessee"	"47"	1539
+	"2020"	"2020"	"Texas"	"48"	4204
+	"2020"	"2020"	"Utah"	"49"	427
+	"2020"	"2020"	"Vermont"	"50"	75
+	"2020"	"2020"	"Virginia"	"51"	1193
+	"2020"	"2020"	"Washington"	"53"	858
+	"2020"	"2020"	"West Virginia"	"54"	338
+	"2020"	"2020"	"Wisconsin"	"55"	707
+	"2020"	"2020"	"Wyoming"	"56"	155
+"Total"	"2020"	"2020"			45222
+	"2021 (provisional)"	"2021"	"Alabama"	"01"	1313
+	"2021 (provisional)"	"2021"	"Alaska"	"02"	181
+	"2021 (provisional)"	"2021"	"Arizona"	"04"	1365
+	"2021 (provisional)"	"2021"	"Arkansas"	"05"	698
+	"2021 (provisional)"	"2021"	"California"	"06"	3580
+	"2021 (provisional)"	"2021"	"Colorado"	"08"	1078
+	"2021 (provisional)"	"2021"	"Connecticut"	"09"	241
+	"2021 (provisional)"	"2021"	"Delaware"	"10"	158
+	"2021 (provisional)"	"2021"	"District of Columbia"	"11"	234
+	"2021 (provisional)"	"2021"	"Florida"	"12"	3150
+	"2021 (provisional)"	"2021"	"Georgia"	"13"	2195
+	"2021 (provisional)"	"2021"	"Hawaii"	"15"	65
+	"2021 (provisional)"	"2021"	"Idaho"	"16"	310
+	"2021 (provisional)"	"2021"	"Illinois"	"17"	1937
+	"2021 (provisional)"	"2021"	"Indiana"	"18"	1255
+	"2021 (provisional)"	"2021"	"Iowa"	"19"	356
+	"2021 (provisional)"	"2021"	"Kansas"	"20"	515
+	"2021 (provisional)"	"2021"	"Kentucky"	"21"	939
+	"2021 (provisional)"	"2021"	"Louisiana"	"22"	1311
+	"2021 (provisional)"	"2021"	"Maine"	"23"	180
+	"2021 (provisional)"	"2021"	"Maryland"	"24"	874
+	"2021 (provisional)"	"2021"	"Massachusetts"	"25"	236
+	"2021 (provisional)"	"2021"	"Michigan"	"26"	1529
+	"2021 (provisional)"	"2021"	"Minnesota"	"27"	570
+	"2021 (provisional)"	"2021"	"Mississippi"	"28"	916
+	"2021 (provisional)"	"2021"	"Missouri"	"29"	1446
+	"2021 (provisional)"	"2021"	"Montana"	"30"	279
+	"2021 (provisional)"	"2021"	"Nebraska"	"31"	209
+	"2021 (provisional)"	"2021"	"Nevada"	"32"	638
+	"2021 (provisional)"	"2021"	"New Hampshire"	"33"	126
+	"2021 (provisional)"	"2021"	"New Jersey"	"34"	461
+	"2021 (provisional)"	"2021"	"New Mexico"	"35"	586
+	"2021 (provisional)"	"2021"	"New York"	"36"	1063
+	"2021 (provisional)"	"2021"	"North Carolina"	"37"	1808
+	"2021 (provisional)"	"2021"	"North Dakota"	"38"	126
+	"2021 (provisional)"	"2021"	"Ohio"	"39"	1906
+	"2021 (provisional)"	"2021"	"Oklahoma"	"40"	842
+	"2021 (provisional)"	"2021"	"Oregon"	"41"	697
+	"2021 (provisional)"	"2021"	"Pennsylvania"	"42"	1903
+	"2021 (provisional)"	"2021"	"Rhode Island"	"44"	67
+	"2021 (provisional)"	"2021"	"South Carolina"	"45"	1133
+	"2021 (provisional)"	"2021"	"South Dakota"	"46"	132
+	"2021 (provisional)"	"2021"	"Tennessee"	"47"	1653
+	"2021 (provisional)"	"2021"	"Texas"	"48"	4625
+	"2021 (provisional)"	"2021"	"Utah"	"49"	449
+	"2021 (provisional)"	"2021"	"Vermont"	"50"	86
+	"2021 (provisional)"	"2021"	"Virginia"	"51"	1254
+	"2021 (provisional)"	"2021"	"Washington"	"53"	892
+	"2021 (provisional)"	"2021"	"West Virginia"	"54"	319
+	"2021 (provisional)"	"2021"	"Wisconsin"	"55"	796
+	"2021 (provisional)"	"2021"	"Wyoming"	"56"	150
+"Total"	"2021 (provisional)"	"2021"			48832
+	"2022 (provisional and partial)"	"2022"	"Alabama"	"01"	213
+	"2022 (provisional and partial)"	"2022"	"Alaska"	"02"	32
+	"2022 (provisional and partial)"	"2022"	"Arizona"	"04"	261
+	"2022 (provisional and partial)"	"2022"	"Arkansas"	"05"	100
+	"2022 (provisional and partial)"	"2022"	"California"	"06"	584
+	"2022 (provisional and partial)"	"2022"	"Colorado"	"08"	170
+	"2022 (provisional and partial)"	"2022"	"Connecticut"	"09"	50
+	"2022 (provisional and partial)"	"2022"	"Delaware"	"10"	24
+	"2022 (provisional and partial)"	"2022"	"District of Columbia"	"11"	32
+	"2022 (provisional and partial)"	"2022"	"Florida"	"12"	539
+	"2022 (provisional and partial)"	"2022"	"Georgia"	"13"	395
+	"2022 (provisional and partial)"	"2022"	"Hawaii"	"15"	16
+	"2022 (provisional and partial)"	"2022"	"Idaho"	"16"	55
+	"2022 (provisional and partial)"	"2022"	"Illinois"	"17"	262
+	"2022 (provisional and partial)"	"2022"	"Indiana"	"18"	189
+	"2022 (provisional and partial)"	"2022"	"Iowa"	"19"	52
+	"2022 (provisional and partial)"	"2022"	"Kansas"	"20"	107
+	"2022 (provisional and partial)"	"2022"	"Kentucky"	"21"	145
+	"2022 (provisional and partial)"	"2022"	"Louisiana"	"22"	230
+	"2022 (provisional and partial)"	"2022"	"Maine"	"23"	32
+	"2022 (provisional and partial)"	"2022"	"Maryland"	"24"	135
+	"2022 (provisional and partial)"	"2022"	"Massachusetts"	"25"	44
+	"2022 (provisional and partial)"	"2022"	"Michigan"	"26"	250
+	"2022 (provisional and partial)"	"2022"	"Minnesota"	"27"	91
+	"2022 (provisional and partial)"	"2022"	"Mississippi"	"28"	151
+	"2022 (provisional and partial)"	"2022"	"Missouri"	"29"	258
+	"2022 (provisional and partial)"	"2022"	"Montana"	"30"	49
+	"2022 (provisional and partial)"	"2022"	"Nebraska"	"31"	39
+	"2022 (provisional and partial)"	"2022"	"Nevada"	"32"	104
+	"2022 (provisional and partial)"	"2022"	"New Hampshire"	"33"	23
+	"2022 (provisional and partial)"	"2022"	"New Jersey"	"34"	76
+	"2022 (provisional and partial)"	"2022"	"New Mexico"	"35"	88
+	"2022 (provisional and partial)"	"2022"	"New York"	"36"	172
+	"2022 (provisional and partial)"	"2022"	"North Carolina"	"37"	294
+	"2022 (provisional and partial)"	"2022"	"North Dakota"	"38"	24
+	"2022 (provisional and partial)"	"2022"	"Ohio"	"39"	311
+	"2022 (provisional and partial)"	"2022"	"Oklahoma"	"40"	128
+	"2022 (provisional and partial)"	"2022"	"Oregon"	"41"	125
+	"2022 (provisional and partial)"	"2022"	"Pennsylvania"	"42"	334
+	"2022 (provisional and partial)"	"2022"	"Rhode Island"	"44"	11
+	"2022 (provisional and partial)"	"2022"	"South Carolina"	"45"	177
+	"2022 (provisional and partial)"	"2022"	"South Dakota"	"46"	25
+	"2022 (provisional and partial)"	"2022"	"Tennessee"	"47"	259
+	"2022 (provisional and partial)"	"2022"	"Texas"	"48"	853
+	"2022 (provisional and partial)"	"2022"	"Utah"	"49"	61
+	"2022 (provisional and partial)"	"2022"	"Vermont"	"50"	11
+	"2022 (provisional and partial)"	"2022"	"Virginia"	"51"	213
+	"2022 (provisional and partial)"	"2022"	"Washington"	"53"	172
+	"2022 (provisional and partial)"	"2022"	"West Virginia"	"54"	46
+	"2022 (provisional and partial)"	"2022"	"Wisconsin"	"55"	148
+	"2022 (provisional and partial)"	"2022"	"Wyoming"	"56"	24
+"Total"	"2022 (provisional and partial)"	"2022"			8184
+"Total"					181685
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"UCD - Injury Mechanism & All Other Leading Causes: Firearm"
+"Group By: Year; Occurrence State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Sep 8, 2022 11:34:25 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Sep 8, 2022 11:34:25"
+"AM"
+"---"
+Messages:
+"1. Population and Rates are not available when values are selected for both Occurrence and Residence locations in section 2, or"
+"if these variables appear in Group Results By list in section 1. Population, Rates and related measures have been removed from"
+"the results. #Constraints-Rates#"
+"---"
+Caveats:
+"1. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"3. Deaths occurring through August 20, 2022 as of September 04, 2022."

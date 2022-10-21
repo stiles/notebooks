@@ -1,0 +1,17 @@
+state,dem_polling,gop_polling,year,dem_polling_margin,gop_polling_margin,description
+Arizona,46.5,47.5,2018,-1.0,1.0,RCP polling average
+Florida,48.8,46.4,2018,2.4,-2.4,RCP polling average
+Indiana,44.0,43.3,2018,0.7,-0.7,RCP polling average
+Massachusetts,55.8,31.0,2018,24.8,-24.8,RCP polling average
+Michigan,52.0,43.7,2018,8.3,-8.3,RCP polling average
+Missouri,46.2,46.8,2018,-0.6,0.6,RCP polling average
+Montana,49.0,45.7,2018,3.3,-3.3,RCP polling average
+North Dakota,43.5,52.5,2018,-9.0,9.0,RCP polling average
+New Jersey,51.0,40.3,2018,10.7,-10.7,RCP polling average
+New Mexico,50.3,33.3,2018,17.0,-17.0,RCP polling average
+Nevada,46.7,46.7,2018,0.0,0.0,RCP polling average
+Pennsylvania,52.0,37.7,2018,14.3,-14.3,RCP polling average
+Tennessee,44.0,49.2,2018,-5.2,5.2,RCP polling average
+Texas,44.5,51.3,2018,-6.8,6.8,RCP polling average
+Wisconsin,52.3,41.7,2018,10.6,-10.6,RCP polling average
+West Virginia,46.0,41.0,2018,5.0,-5.0,RCP polling average

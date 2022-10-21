@@ -1,0 +1,38 @@
+agency,amount_sum,amount_size,amount_mean
+Agricultural Research Service,62400000,5,12480000.0
+Air Force,294250000,21,14011905.0
+Air Force Reserve,41700000,2,20850000.0
+Air NG,104280000,8,13035000.0
+Animal and Plant Health Inspection Service,3474000,8,434250.0
+Army,189296666,15,12619778.0
+Army Corps of Engineers (Civil),978982000,168,5827274.0
+Army NG,49790000,7,7112857.0
+Army Reserve,29200000,1,29200000.0
+Indian Affairs,1250000,2,625000.0
+Land Management,3000000,1,3000000.0
+DOC,247515000,107,2313224.0
+DOJ,296451000,367,807768.0
+Defense-Wide,102650000,11,9331818.0
+Education,392205000,473,829186.0
+Energy,103096000,65,1586092.0
+Health & Human Services,1221294017,892,1369164.0
+Housing and Urban Development,1515634222,1014,1494708.0
+Labor,138138007,173,798486.0
+Transportation,1453832231,478,3041490.0
+Interior,64758000,15,4317200.0
+Environmental Protection Agency,859341095,491,1750186.0
+FEMA,203098811,122,1664744.0
+Fish and Wildlife Service,20513000,13,1577923.0
+Forest Service,58831500,48,1225656.0
+General Provisions,15000000,2,7500000.0
+General Services Administration,53500000,4,13375000.0
+Indian Health Service,40171000,9,4463444.0
+NASA,22655000,21,1078810.0
+National Archives and Records Administration,36765000,13,2828077.0
+National Park Service,26721500,43,621430.0
+Natural Resources Conservation Service,20111000,19,1058474.0
+Navy,476595000,21,22695000.0
+Rural Development,222563506,200,1112818.0
+Small Business Administration,83021638,128,648607.0
+Space Force,1665000,1,1665000.0
+United States Geological Survey,1000000,1,1000000.0

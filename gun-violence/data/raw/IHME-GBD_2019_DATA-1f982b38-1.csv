@@ -1,0 +1,541 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,8882.696977489955,9012.979425197116,8752.222998872507
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,10.390614883593074,10.543013951539157,10.237991770637672
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,75.27204241844316,76.94556426753978,73.68813526211363
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,0.13066405702654546,0.13356910845466993,0.12791456693234984
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,57.29718501700978,58.53055219641963,55.76610093562666
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,0.0455221393549641,0.04650203937274455,0.044305705722208925
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,6273.395825496276,7718.70625276493,5183.831584539084
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,0.7332282815947238,0.9021547307516764,0.605881093834433
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,813.7609148648082,987.3828363384636,654.5493097850251
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,0.06874827256610352,0.08341622596972009,0.05529773368942349
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,16739.39657210766,16964.8070921968,16468.907304690252
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,6.600563263277934,6.689445582998823,6.493905803199526
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,9034.818297047788,9157.925575045545,8912.732593881592
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,10.37448340807735,10.515844791451125,10.234295076644612
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,6422.082153482319,7915.345276133198,5287.750983488705
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,0.736854058223967,0.9081874304270707,0.6067036636939767
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,51.70428485426808,52.64631673739659,50.756922941865874
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,0.04095013308972036,0.04169622852644498,0.040199816234814806
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,796.778204789463,986.5675100490802,661.2958945430408
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,0.06647964428554448,0.08231482329397861,0.05517560040228357
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,21500.228027993162,21750.0227762178,21203.589040986848
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,2.1538180333351815,2.178841602046088,2.1241017717786694
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,17569.956550037226,17781.046994584747,17343.630582584683
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,6.852355865019118,6.934682013158704,6.764087799810014
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,15552.45857624072,17466.48508890987,13546.416619966927
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,0.8295887507715036,0.9316854614494207,0.7225838143916852
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,30828.082577813417,31361.36251855703,30315.86805401668
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,2.8363209313579705,2.885385061583604,2.7891949133345264
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,22437.375449440413,22648.122008763177,22220.010089246945
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,2.231924525167094,2.2528882254629274,2.2103024295066325
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,15984.204533029184,17946.312296395514,13975.389884991466
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,0.8414864354257886,0.944781351622881,0.7357326411649995
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1991,31857.46626569632,32364.53656257228,31344.40727178634
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1991,2.9080126153450063,2.954298996310897,2.8611795742530663
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1990,81.3459535708676,83.32780908938062,78.90252840787498
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1990,0.14153715055054283,0.14498546199788245,0.1372857352069117
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,9533.92353776464,9660.606886446787,9391.580160869911
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,10.536153747400766,10.676154370823404,10.378846873903584
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,89.62912573916226,91.6235082495498,87.77985988831631
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,0.15471489857563647,0.1581575371740938,0.15152275566234222
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,6707.345306083314,8070.343051237366,5533.240398534983
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,0.7414901076268131,0.8921681029631748,0.6116940207198834
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,49.792230443858095,51.058530008544665,48.71107636735076
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,0.03921029614228705,0.04020747944766628,0.0383589108731919
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,46.79975987048892,47.65421902834315,45.94722232074196
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,0.0369564047942762,0.03763114625887398,0.036283180767529954
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,779.4545475925132,961.2027745752873,649.0273156842359
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,0.06428156577831254,0.07927033022130706,0.053525240456854396
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,78.2918476815219,80.09017916126302,76.76398708203394
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,0.13553973016596157,0.13865302191639503,0.13289468065546609
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,17370.58245052522,17581.941958761963,17175.637476763597
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,6.701638770101707,6.783182096519403,6.626428235399218
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,9473.653529787873,9605.026767951438,9347.577723475331
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,10.672651447849908,10.82065145398131,10.53061932343779
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,6530.47275376058,7946.960977382373,5319.623735983153
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,0.7355309637835705,0.8950708604485789,0.599152331083609
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,776.5451083766986,943.7750859009315,650.3744756197225
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,0.06335078751255681,0.07699346024024102,0.05305774869241575
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,16511.077006493157,18392.35368214174,14603.78146121182
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,0.8483334000233278,0.9449927419917471,0.7503372175731114
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,17862.299982894587,18082.25384952765,17661.953760327466
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,6.81954173027405,6.903516614453336,6.743052732406605
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,22266.38116367794,22491.51347724534,22053.618090150278
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,2.1998456706421603,2.2220880072698495,2.1788253744956187
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,16076.453077989912,18084.152947734998,14003.692361678786
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,0.8358385324104975,0.9402218130077544,0.728072642337918
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1992,32007.835379880147,32593.740027226093,31484.012735772267
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1992,2.8992776758679857,2.9523490642976267,2.851829690705872
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,32478.645642318585,33076.966247885386,31936.687280098864
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,2.920286804330635,2.9740842375253034,2.8715571291121393
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,16992.48099137605,19142.294722781688,15129.034663142866
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,0.8632959591439331,0.9725163553989907,0.7686243402048417
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,83.7913598535668,85.65520989522248,82.04737669519727
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,0.14418087540462424,0.14738802625046907,0.14117998105341575
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,9577.781256429807,9716.769995225803,9428.797033789997
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,10.386866325281503,10.537596166770038,10.225296629367142
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,54.638609327748945,55.8171153595252,53.45522657953971
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,0.042908247609362835,0.043833740209609166,0.04197892527481683
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,806.0455673595523,972.0242614576948,681.0466129523896
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,0.06509548726991747,0.07849977160105819,0.05500068844605037
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,6810.96581015106,8163.127282089269,5703.971089052412
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,0.7388762601127677,0.8855632409760773,0.618785785092192
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,17457.17347079924,17657.296888565324,17269.40603616716
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,6.597921733043055,6.673558184131678,6.526955213761512
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1993,22723.26655003603,22980.11100711546,22499.05535562161
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1993,2.2306159282187132,2.2558289113861876,2.2086063698462652
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,22388.743962352095,22585.851450248036,22176.48761676965
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,2.1844789307704313,2.2037107892047314,2.16376899207861
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,16161.97690877953,16336.117326174335,15985.257221323693
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,6.0483820696744175,6.113551558785869,5.982247326690975
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,7021.036305582111,8229.778856284365,5860.996689446765
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,0.7331530483553552,0.8593727753520114,0.6120189958072405
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,20935.8436745812,21133.454089963823,20725.80211866916
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,2.0306992257490117,2.049866703485034,2.0103259734647665
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1994,32259.00524432373,32856.69335455258,31696.656882315838
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1994,2.8801801453147875,2.933543521374708,2.8299720073161585
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,14785.873994380547,14958.477317307215,14627.757833884752
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,5.479823664575612,5.54379254283857,5.421223903860353
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,774.1266012272143,946.4855110973804,678.3210434123577
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,0.06138205266967259,0.07504873673267465,0.05378543761146867
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,17975.472345904345,20339.36687828692,15893.274165870182
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,0.9035123012391824,1.0223301964098945,0.7988534843203959
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,80.29898940754066,82.24469772377365,78.27614376240143
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,0.13769767023315566,0.14103419419286334,0.13422887025656732
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,30727.45268390517,31284.83527927655,30183.44684758729
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,2.724864874693504,2.774292735555154,2.676623244960647
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,52.858410099736695,53.938957982278275,51.78744238919158
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,0.04140483732937415,0.042251247753350395,0.040565931207217465
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,9503.94370510399,9638.75672206804,9369.29529457049
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,10.122730941326155,10.266321427597951,9.979315778757826
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,66.57620567763678,68.373671911359,64.96779538119588
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,0.11373468147472857,0.11680536186982124,0.11098697257656547
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,800.9729570518209,980.9955499001251,686.9504869994302
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,0.06407686298487504,0.07847845159603266,0.054955203974518016
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1995,6932.642336579144,8220.94837349548,5815.7281895315555
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1995,0.7378905991065624,0.8750142046900963,0.6190094555104222
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,43.797480557601766,45.00116304845199,42.80655860685329
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,0.03422709641938645,0.035167756844327415,0.03345270527358187
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,9007.066481982341,9139.656784988494,8882.140493102053
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,9.434489396807784,9.5733716633408,9.303635148109354
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,17592.333336518303,20530.329667714515,15600.97644658238
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,0.8752354388096774,1.0214035711982292,0.7761635256046334
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,8570.493407708722,8701.75290268214,8445.369112647966
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,8.83812184119244,8.97348014020762,8.709090324285167
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,50.42853313838698,51.54537841601803,49.285808476647894
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,0.085402938493437,0.08729436508501456,0.08346768402681122
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,48.33238091706846,49.31922398168241,47.17768578498955
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,0.037681900012204,0.038451283207960936,0.03678165248278394
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,7141.052764441887,8404.090284612608,6104.529429513604
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,0.7316876068645171,0.861101144475597,0.6254831992778188
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,13823.007218056902,13997.405583704101,13668.371422927334
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,5.072998543552112,5.137002174670129,5.016247711327377
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,9152.349395780006,9289.526823130143,8996.366515202091
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,9.300263255457066,9.43965764829468,9.14175948882987
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,19366.88848577296,19596.544715708398,19171.654452482766
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,1.8673725287313334,1.8895161856821419,1.848547890446909
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,763.3036993393912,936.7388127040755,675.4719118196422
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,0.06001849631264485,0.07365568256101515,0.05311229132510259
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,42.984564712994846,43.89323091906713,41.82694548223008
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,0.03343960017594649,0.03414649193645002,0.032539036811137956
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,7527.946567869329,9008.219173279822,6414.869268740963
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,0.7570310371212398,0.9058913266561104,0.6450969187586341
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,760.8955953880599,930.8756800804075,673.510311515249
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,0.05935617889036332,0.0726160378985527,0.05253940064459821
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,18246.086247440413,18450.524427378557,18066.940019377605
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,1.7487874326471669,1.7683817124823409,1.731617247874728
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1996,28710.159841735232,29307.571312232823,28153.437907274714
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1996,2.5291323530365974,2.5817594608771524,2.480089663485198
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,27189.625206997905,27764.529260361116,26662.312854125885
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,2.379390112267176,2.4297005159472764,2.33324450382469
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,17156.19491572022,17331.279032261406,16919.844789050207
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,1.6344621503958177,1.6511423270333456,1.6119451914675067
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,17536.075083015425,20217.58459373338,15523.56468808005
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,0.8638903782307852,0.9959912191816356,0.7647468493599485
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,12886.022319968946,13042.285385944975,12664.329252150483
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,4.682819703617475,4.739606177063677,4.602255768497863
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,17728.462554845773,20337.477738816946,15665.588645811555
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,0.8651598357905875,0.9924813754422409,0.7644903250038834
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1997,50.87708962547967,52.05413460929884,49.68636303038275
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1997,0.08654641918056977,0.08854867656820513,0.08452088816479607
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1998,26727.86133153414,27194.737427868913,26254.198917027963
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1998,2.323607040232844,2.364195270278766,2.2824288364331333
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,47.34387851886617,48.42542676576585,46.175291703108805
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,0.07983396253648047,0.0816577312036369,0.07786342444394465
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,8223.628152819318,8337.044290760923,8105.443520337826
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,8.23975757254948,8.353396159325001,8.121341138543476
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,12400.967351498275,12527.523707357435,12242.210293513104
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,4.462277854273029,4.5078170132806195,4.4051518185391165
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,7768.391419258749,9215.761543904215,6582.2970261493765
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,0.7668126284465492,0.9096815481128436,0.6497340583694649
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,738.3949468774857,913.7834915345151,653.0144625918145
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,0.057173279197870075,0.07075346182803122,0.05056234248066094
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,47.37553638703486,48.37172717631547,46.11875263015025
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,0.0367843431006634,0.03755782719353472,0.035808523755022456
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,17728.883129957925,20347.78602915528,15975.178553847554
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,0.8574489480709429,0.984110933462576,0.7726318655175531
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,25336.31998444176,25814.993709103543,24880.99557434201
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,2.1881140924399034,2.229453668323708,2.1487910274098234
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,17305.00101309556,19866.099154538533,15575.123367740463
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,0.8298257462446852,0.9526379422578791,0.7468730202158071
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,24175.222114736993,24640.34984387126,23694.866375052014
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,2.0737887232768877,2.113688114272519,2.032583049492707
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,42.94030261984724,43.819441611651506,42.0842774928326
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,0.07209861251501934,0.07357472464394613,0.07066130955788508
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,7267.65233938693,7380.374869258833,7149.533752959385
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,7.182974444865769,7.294383606121665,7.066232098348372
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,695.2234256983589,866.2443149681272,608.7196703283807
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,0.05345998172166443,0.06661082399255103,0.04680817884794935
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,48.245447695874056,49.29349376510431,47.03093140240343
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,0.0373906017313965,0.038202845684810874,0.0364493420438149
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,12315.551096575517,12435.622373793158,12188.35127858674
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,4.387727467973312,4.430505906147218,4.34240930633085
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,1999,16525.8786956579,16685.563108213162,16343.002721800589
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,1999,1.564957067033057,1.5800787591697085,1.5476391952908581
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,7815.26955871664,9304.474760063567,6728.711726403132
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,0.7572970819859636,0.9016005823304268,0.6520099809284869
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,48.897704650870494,49.93154855947927,47.57554602022186
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,0.037829914044134084,0.03862975171498123,0.03680702048078038
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2000,16335.179558847072,16478.954253867472,16178.64683623754
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2000,1.5371418174164753,1.5506710287242533,1.52241207460279
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,652.6668003210749,806.059423079484,575.2908783217171
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,0.04986898566911174,0.06158941407503563,0.04395684375623671
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,16833.43186142038,19522.044903272148,15041.797677485676
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,0.8006964509732273,0.9285826086131815,0.7154758528011687
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,51.24399617825146,52.278778228022226,50.19475919330093
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,0.08565401915747602,0.08738365088265562,0.08390022609853776
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,8001.341380290693,9350.524401787847,6925.614015165494
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,0.761238293053447,0.8895979931946096,0.6588948453365548
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,12784.499320950847,12910.437340489574,12647.7447637994
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,4.510394575306468,4.554825737285683,4.462147319216158
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,6888.780450295153,7010.206255601693,6771.812265905202
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,6.717437467923332,6.8358430783248005,6.603378605103517
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,624.9710477824237,787.9968959426459,552.6054448427659
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,0.04747443364512914,0.05985830300737492,0.041977353376949175
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,16773.847936650258,16924.314477186286,16605.573138144744
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,1.5681084204993447,1.5821748321008484,1.552377198331904
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,13176.332613185145,13308.2249158266,13028.329577151258
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,4.603850586908113,4.649934157560905,4.552137877134298
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,17138.222710541108,17292.20657716596,16967.701208477283
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,1.591665589821441,1.6059664205454844,1.5758288714088167
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,622.5176730762034,788.6758077595665,552.8271996455759
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,0.04703581322042529,0.05959028890205663,0.04177018264751663
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2001,24066.49451953026,24498.059876610267,23608.3233632919
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2001,2.050398376795867,2.0871665445454384,2.011363468978968
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,16112.27440767652,18933.950200850035,14507.204596432155
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,0.7605619187108487,0.8937559731898083,0.6847963908643734
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,24234.909781840735,24603.33435672925,23780.041343710705
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,2.050646710753664,2.0818211054370734,2.012157833556524
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,50.550285683227315,51.681965132947006,49.269944995202934
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,0.08408790956081982,0.08597040256622432,0.08195812591021331
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,46.8998551167097,47.88539449925637,45.61400113746072
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,0.036226980826634204,0.036988243654132516,0.03523374519005948
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,6868.441788886096,6972.047785157333,6747.831942562294
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,6.609893787919705,6.709599755036231,6.493824044813246
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2002,8073.6322020835705,9432.083181424401,7033.2708279255585
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2002,0.7542267420701055,0.8811312171272888,0.6570377260031774
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,52.77048790947047,53.95834456441154,51.463042242200096
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,0.08731537604469954,0.0892808335309238,0.08515204357198157
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,48.76507832712411,49.81439958926893,47.34561051536686
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,0.037617838157121566,0.03842729440672292,0.03652284739234251
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,8052.869686747281,9350.705208538666,7020.340001395126
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,0.7386566813542438,0.8577018064787385,0.6439469715923779
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,13207.317290156441,13369.347440696525,13041.45290909732
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,4.5699048958457436,4.625969451724906,4.51251364595025
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,15739.003383975232,18407.693746493667,14223.021833830668
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,0.7376065653115308,0.8626744291498114,0.6665602660638765
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,6877.2635498772115,6986.781803864478,6764.8169363899015
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,6.533806152873413,6.637854956087701,6.426975235351536
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,40.72615942013055,41.68021261878196,39.33132013891199
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,0.03138546287194969,0.03212070041142016,0.030310535181827674
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,6540.579849259373,6654.116484078467,6425.842845330923
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,6.136048431617757,6.242562885392341,6.028407850930808
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,17148.244453950287,17316.04027972887,16971.597721331404
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,1.582088670604257,1.5975694316612743,1.5657913291984862
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,13158.46217732719,13317.194974649377,12994.140977116238
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,4.508487719045219,4.562874383511986,4.452186298472974
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,622.2506075910014,784.7127156867442,555.7178993600219
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,0.04678650881818309,0.05900190043100771,0.04178396948375416
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,587.5104212613064,746.2420520499178,527.5443156516876
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,0.043974369489568864,0.05585521981898903,0.03948598666349627
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,14817.775254019936,17654.701313324502,13569.186275691925
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,0.6896860941161402,0.8217294285301421,0.6315711314542604
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,8167.416498266501,9481.91187400541,7107.478636524571
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,0.7355341355932107,0.8539138239733239,0.6400791677849272
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2003,24122.5107088684,24459.177039898303,23721.41123256862
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2003,2.0271214448016823,2.055413008130641,1.993415278817597
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,17058.03445342438,17231.67498005333,16874.44496798262
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,1.5629665817830813,1.578876641122289,1.5461449349927825
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,23557.859006220202,23890.798812806253,23184.347533475222
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,1.966026197516566,1.9938117607874692,1.9348547171076007
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,48.325759264286596,49.574303335033655,47.101393854650475
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,0.07896381709415337,0.08100392587128169,0.07696321601235386
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2004,54.40775439646181,55.707345127801915,53.1046055024344
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2004,0.08948869155913448,0.09162623013980353,0.08734530058983488
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,7081.039746774072,7191.47296251391,6961.797902879165
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,6.561357357950754,6.6636858038526245,6.450866755186959
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,31.418321228120757,32.20360751907212,30.185295270406073
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,0.024182285011355123,0.024786709950721363,0.02323324050578276
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,36.13946892094429,36.983731889015644,34.859035126096835
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,0.027832031198617196,0.028482222083231482,0.026845932775203325
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,51.09270561121897,52.38808001777219,49.7417328939087
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,0.08289340278143288,0.08499503335962653,0.08070156885400569
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,17619.737975618507,17810.3567574051,17428.225452490642
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,1.6030292321809745,1.620371571767944,1.585605580743731
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,7623.408498901167,7736.573301673399,7501.312927184578
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,6.978530609622058,7.082122597404401,6.866763322765236
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,8353.666802970709,9757.668411645422,7381.027326141381
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,0.7387190625667847,0.8628756487300722,0.6527080521344191
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,13769.970891253703,13939.383992999057,13600.626076259261
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,4.671640412397531,4.729115994499587,4.614187997457384
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,549.515636233673,689.0999383532748,494.2951593390639
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,0.04094955909305256,0.05135129336814156,0.03683456393615265
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,25282.33857119877,25612.075035620466,24941.58070923091
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,2.081072894327551,2.108214593124403,2.053023987851864
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,24495.577573539602,24797.653816413993,24168.722914015467
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,2.030232528983652,2.0552690896720263,2.0031422936126497
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,8416.063293940142,9852.525707857283,7379.859825729897
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,0.731064744298721,0.8558436332694349,0.6410545106454143
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2005,14236.473922122346,16888.216646758476,12992.494552543403
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2005,0.6582775437731087,0.7808909589376023,0.6007574240868447
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,14152.055627706031,14350.401596097832,13945.575366140469
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,4.7536506379967065,4.8202747005352835,4.684294280662772
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,17932.64841322282,18145.148953119588,17714.192674873048
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,1.6191275767810782,1.638314117235081,1.5994033451942151
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2006,13833.368512744048,16335.27216154115,12569.445756332416
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2006,0.6352281114423171,0.750115496128982,0.5771887940609668
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,13574.066268789193,15733.221603717227,12426.483435267464
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,0.6188066567300388,0.7172369772921046,0.5664913163986622
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,24730.394077011028,25018.467607504193,24439.114089507322
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,2.021671498349942,2.0452210642894664,1.9978598095049398
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,462.85194153746113,574.2329072938135,414.9464015567223
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,0.03405337884737238,0.042248004132270915,0.030528827353792826
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,17250.4857090239,17443.523180409084,17051.428007334125
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,1.5315831078453386,1.5487219255772982,1.5139097844075482
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,26815.965040269177,27105.611256803655,26516.46846779223
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,2.1774930228492813,2.2010126916231405,2.153173491705931
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,8388.986038850227,9985.956359795917,7367.17255647408
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,0.7161145322551915,0.8524377600104006,0.6288887959629744
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,13236.063074444955,15511.48646778946,12135.148088948494
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,0.5995531863976012,0.7026229087319783,0.5496851037362507
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,38.68033315227263,39.600725208207976,37.60889406967161
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,0.06228178039663684,0.0637637649411056,0.060556584975278015
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,38.45261489735543,39.412456753710806,36.98337052981374
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,0.029579425386773744,0.030317777528727025,0.028449218656733506
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,43.00386881182683,44.05822880363929,42.00802461125247
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,0.06870922254118739,0.07039382109749322,0.06711811730614411
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,7553.859714676268,7676.133703149077,7435.6321269335
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,6.832378292893542,6.942973693944488,6.725442814260631
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,13902.846454370125,14082.690737597484,13719.922711456635
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,4.623589764345195,4.683399544294574,4.562755866181498
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,35.618828502009045,36.60697794463039,34.10563009854663
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,0.02738881646615604,0.02814864616475389,0.026225254521748596
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,8526.225809262904,10190.252793870774,7511.003464641781
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,0.7155688996224256,0.8552234179233937,0.6303657215382379
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,17541.635915601117,17725.613091250478,17340.362983050803
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,1.570817398338062,1.587292175821621,1.5527938214159491
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,10122.484596101911,10261.590382601584,9990.870100191543
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,9.048950593711576,9.173303599871716,8.93129439383277
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2007,521.0033306586741,640.7511370741108,467.1803936449156
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2007,0.03865526505629936,0.04753982092093685,0.03466193185870733
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,13384.797549749603,13566.814134644008,13197.112276403343
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,4.40872554957307,4.468678728938486,4.346905200269705
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2008,477.14379864969595,589.8659195205857,428.5980865461965
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2008,0.03525036773885494,0.0435780379805041,0.03166391390955705
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,12863.291028089994,13058.373086374473,12672.693827043118
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,4.19883087415638,4.262509490113223,4.136616203701066
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,16793.99927018296,16998.374447501235,16595.153061958405
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,1.4792437880022444,1.4972454984111951,1.461729078518711
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,429.02535732513866,528.0119540847857,380.37052245967266
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,0.03144119797186689,0.03869544794134553,0.027875519931689314
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,33.521392249407484,34.518544461770276,31.98942623922686
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,0.025776291882190508,0.026543052590862714,0.02459828582748348
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,13099.541145146515,15520.374462087313,11902.602015924764
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,0.5901546821569275,0.6992169844837092,0.5362307146270586
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,33.025448774359994,33.81306101478983,32.272674512754804
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,0.05235678657937589,0.05360542505394235,0.051163378379941865
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,32.762453591957204,33.707351630925395,31.25637274665496
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,0.025188814855641277,0.02591528247792193,0.0240308920687088
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,28732.597467521464,29035.033020089522,28450.153044570514
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,2.318310630878505,2.3427128645250335,2.2955213961391214
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,12631.780885022148,12806.777791718783,12431.77445513982
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,11.164444113106423,11.319112975918765,10.987670890944937
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2009,8278.306287357544,9763.658085532817,7296.442686438274
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2009,0.6833092250754034,0.805913360624907,0.6022640893936627
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,35.42734629814252,36.87159073289047,34.45643226663774
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,0.0557234411108115,0.05799508372925712,0.054196296785551774
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,12444.49777635139,12604.626436018303,12271.784544568829
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,4.0278249796230785,4.079652721244412,3.9719240761244117
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,8100.076379850076,9423.317954029315,7137.628186233495
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,0.6578172398273291,0.7652793277301936,0.579655629428617
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,30.7937761032982,31.790404642525576,29.16432637304264
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,0.02369514219005793,0.024462026214558372,0.0224413159973741
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,15721.868079170987,15942.129769980224,15517.11403914731
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,13.591862688877438,13.78228323190854,13.414848813491867
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,7827.394638931627,9185.966287686795,6847.946070194661
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,0.6257749622275938,0.7343883848797172,0.5474712073540687
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,400.54264349744017,477.6874201982782,356.3047846530975
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,0.029241075141365206,0.03487292545467006,0.02601154995706651
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,16336.422203945283,16525.252273260485,16140.821747988066
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,1.4291178411253695,1.4456367837451385,1.4120066219213743
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,12453.912316576547,12595.401813157183,12294.06355256982
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,3.9986860325539197,4.0441152968162895,3.9473619984908357
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,13051.236737482423,15454.293599087503,11909.050829044438
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,0.5846998294695702,0.6923575913697029,0.533529513635189
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,16363.467592592619,16511.443464374628,16187.257209900376
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,1.42210952104188,1.4349697473328487,1.406795501472672
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,30243.81331663619,30638.616375925678,29912.017670649984
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,2.4254772677651095,2.457139473702086,2.398868096875926
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,12983.065458351477,15291.621628246312,11833.909916420114
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,0.5782484185705973,0.6810684312020828,0.5270665634882916
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,31334.04636500969,31663.73971311585,31020.42339043137
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,2.498182842286736,2.5244684440842287,2.473178489994928
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2010,14594.400495770336,14873.164677666115,14396.400328144928
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2010,12.756331140515476,12.999986795669534,12.583267799898021
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2011,38.96538145458125,40.02584920899964,37.848896075116784
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2011,0.06081661371092923,0.06247177671372276,0.05907401919492438
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,27.547893938741296,28.560739729943215,25.868454111971307
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,0.021219850599580852,0.022000034972931175,0.01992619590879783
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,26.905570128253526,27.779976385919408,26.182793226779022
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,0.04169199356879897,0.04304694497467314,0.04057200206576413
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,378.2268653322221,439.24405222946984,335.55636251853133
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,0.027494210410486157,0.031929694848471114,0.02439239007403186
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,15655.818823186786,15897.596501819386,15447.985082928813
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,13.389867988881191,13.596651884128754,13.212115143302258
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,12845.231074604628,13034.697698015529,12580.79580451052
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,4.092785580641555,4.153153997512015,4.008530431460644
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,7272.778442569218,8655.122241135841,6346.083121027647
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,0.5727248690757736,0.6815832204340061,0.49974843223060905
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,30763.623975744307,31198.326237210462,30345.92868565369
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,2.424272189637674,2.458528121386026,2.3913564617537397
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,31.052124945449375,32.08480979603248,30.20438858569281
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,0.04780054176444164,0.04939022026201705,0.04649556642568576
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,32.02440444276099,33.121415570254825,30.232214941945326
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,0.024699316850632872,0.02554540363657356,0.023317063000568548
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,15439.599568782172,15746.808393446003,15200.528593308061
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,13.067859952770048,13.327877181784157,12.865513641108933
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,7215.750685747682,8757.1431414003,6298.636046922367
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,0.560014195680839,0.679641618228265,0.4888369558929788
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,12199.684869237499,12380.33515162655,11976.043693303276
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,3.8584682870542943,3.9156036469522446,3.787735936647628
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,16739.63860280163,16939.302747975722,16469.08139849597
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,1.4455965098588894,1.4628390440770023,1.4222318148650583
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,367.6148562801295,421.75381138740147,319.77682136832243
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,0.026602124860134455,0.030519842599113466,0.023140367654061137
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,13110.157115739723,15189.981087958764,11944.188530820395
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,0.5803679255119207,0.6724387613936312,0.528752162034205
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2012,31691.272370544226,32088.540274204428,31372.891322591466
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2012,2.5119891989445287,2.5434783948156685,2.4867529211373496
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,12337.647244657646,14792.875152311513,11014.784690556151
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,0.5396732900622575,0.6470698541316328,0.4818086443388798
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,12957.393497185752,15046.646658570056,11799.509769403427
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,0.5701098830940318,0.6620345341320154,0.5191643779794546
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2013,15938.07449965379,16157.767620479432,15668.049214947832
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2013,1.368302890742958,1.3871638097522485,1.345120894847222
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,25.923593297352685,26.66952653403914,25.168681790714285
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,0.03965787574168207,0.04079900333432655,0.03850301320457814
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,29893.488924191224,30374.0614551117,29423.036094161824
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,2.342219985560815,2.3798738903722594,2.3053589813617767
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,26.32013221953251,27.414014441364163,24.56171287955624
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,0.020331210518790933,0.021176189166668614,0.01897290450865472
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,12607.584971112283,14938.119341122423,11219.143756881738
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,0.5481449942862995,0.6494705655087264,0.4877791825003712
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,14698.828134518386,15018.405446013297,14463.061667381815
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,12.316029269193189,12.583800515044988,12.118482452305846
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,24.019999831293287,24.711022615115958,23.42025126369721
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,0.0365246626197676,0.03757542757476204,0.03561268867130832
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,7045.434004249262,8478.718827682353,6128.98961853151
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,0.5391513391581026,0.6488333589574311,0.4690204973212975
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,352.2805635911552,403.11074368957253,305.75534254574563
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,0.02538307790700215,0.029045574663316153,0.022030768888311292
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,12032.08726317112,12271.475795441602,11761.083986917469
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,3.778245675838019,3.8534170627398256,3.6931468119212485
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2014,15675.706886876049,15915.74237483256,15371.24692485262
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2014,1.338231589823303,1.3587233657272648,1.3122399109818679
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,7238.219041959534,8440.364073766516,6268.201155966685
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,0.5464400131937422,0.6371944022545574,0.4732097636879738
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,26.563187742125166,27.647786744766623,24.737017371357172
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,0.020555828768616898,0.021395141866026268,0.01914265329403713
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,13574.736628122793,13840.320310206811,13270.831818059902
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,4.233575986818232,4.316404017281261,4.138796681598028
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,347.09522905736014,400.66948437995654,294.0762999451352
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,0.024889048029789366,0.028730680245552056,0.021087236415305598
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,15500.725868052246,15825.791947502785,15246.366517497836
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,12.861181877854712,13.130894019448782,12.650136156663335
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,17180.902385662263,17469.494740878563,16828.6296793805
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,1.4587577119432327,1.4832608675010548,1.4288477272718534
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,343.5008283446551,404.23708292890353,291.81776879690733
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,0.02448591974567997,0.028815408738675673,0.020801773613061056
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2015,32208.861539354,32727.83663554491,31774.883902729904
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2015,2.5100335309726884,2.550477211094305,2.476213694829529
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,336.0529658004082,394.80170815529334,282.2633436946249
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,0.023819821820293807,0.02798400043935956,0.020007151364346443
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,14505.762831946795,14978.90216618137,13971.733639728785
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,4.4955291551954994,4.64216133829151,4.330026393902982
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,7543.6552605807055,9081.994957445482,6323.143760404271
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,0.5551771567844037,0.6683916436044481,0.46535331395433577
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,18074.64757809543,18522.33311790019,17519.717474988174
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,1.5266285830914994,1.564441189857393,1.4797578403364269
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,13963.93043060566,14300.87652530112,13022.526297235328
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,4.3025221760553665,4.406340943397917,4.012459705421858
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,12910.225006996377,15607.66240398531,11258.170933919118
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,0.5576136977888578,0.674120423324147,0.4862587849088325
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,26.62582206643576,27.847282697486854,24.81554438997505
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,0.020702460471826792,0.02165218665752472,0.019294909488182164
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,35239.67809659531,36078.409476904235,34693.86968792328
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,2.7323615589708337,2.797393860786332,2.690041481292189
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,22013.28443416611,22716.717873129055,21627.954311830083
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,17.92749968824478,18.50037207334587,17.613688922354317
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,17618.51881496617,18042.342380214683,17350.565016760804
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,14.479983348953535,14.828307645232012,14.259762422492503
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,22.549551247870784,23.265055894616797,21.784555159168296
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,0.03389705774393507,0.03497262248844822,0.03274709620777891
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,21.405762476274212,22.03724486688776,20.863808717952583
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,0.03236043799839136,0.03331508966152068,0.03154113240189133
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,26.879745133580176,27.964776079871516,24.99747093358941
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,0.02084633063535967,0.021687816064019073,0.019386550785349285
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2016,7445.775869607512,8816.816143372513,6262.752430890525
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2016,0.554839645780603,0.6570059630547779,0.46668384883173764
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,21176.06801974141,23690.634587736335,18932.311024917788
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,17.094929459795804,19.124878459853793,15.283598502808179
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,13003.01472379749,15644.489100506222,10931.662322381146
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,0.5581142158329384,0.6714913388859101,0.46920781637201875
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,17499.81301873527,17919.199136980573,16537.437574115946
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,1.4710219744114144,1.5062752765490688,1.390125371393235
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,27.032770127352556,28.90526358217964,25.02228160253714
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,0.021081438005755983,0.022541697331683513,0.019513563570486992
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,13320.43082039019,13710.987223371734,12494.784904388207
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,4.082026230764438,4.201711660091796,3.8290082667144723
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,7810.8386496421235,9775.682776202042,6290.293294071824
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,0.5680771203477726,0.7109789319732797,0.45748886399067384
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,334.00703045128824,406.55565439430353,278.3459573065466
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,0.023569214321939955,0.028688609755516348,0.01964148932595689
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,12914.631972093617,16027.96470825397,10708.002769837989
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,0.5513301146745924,0.6842393681598224,0.4571283492853245
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,16836.301312473886,17325.183749598924,15990.8811807908
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,1.4094028570099806,1.4503282533210766,1.3386309263552885
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2017,39120.29124647112,39881.16965037651,37975.178589158575
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2017,3.019076812261168,3.077796987213556,2.9307036698083793
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,26.28004168294045,27.138622787056565,25.3187441760305
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,0.03929283071848483,0.04057654565277374,0.03785553846968173
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2018,37652.9378234962,39997.92538005128,35389.056140814595
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2018,2.8941423024301764,3.074386609472356,2.720132089037022
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,27.25682845056081,28.203480953347107,26.088166679305775
+1,Deaths,95,United Kingdom,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,0.04054841895822462,0.0419566995423159,0.03880986793027719
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,27.29090761762851,29.311048880927466,25.285894536113194
+1,Deaths,67,Japan,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,0.02135632439354172,0.022937172958355415,0.01978731429017392
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,20508.726219388598,24129.117237631082,17340.33933908727
+1,Deaths,130,Mexico,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,16.414837149618947,19.312536809103932,13.878913947427689
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,333.9742205217797,406.00538288962457,275.541309785767
+1,Deaths,6,China,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,0.023480445836130955,0.028544680446363158,0.019372252115547196
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,7977.146590714517,10100.755889719114,6309.7898016872
+1,Deaths,163,India,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,0.5736036977319033,0.7263036804380986,0.4537109505260636
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,16471.0438772419,17025.773383823114,15495.795889758254
+1,Deaths,44575,World Bank High Income,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,1.37384452477627,1.4201143362726398,1.2924994006973545
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,12962.061451830019,15946.562139625039,10551.102018980906
+1,Deaths,239,East Asia & Pacific - WB,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,0.5507001695750362,0.6774982904583068,0.44826925814612206
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,13001.023911513004,13426.0249753051,12119.393177997068
+1,Deaths,102,United States of America,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,3.963983857876278,4.093565756034331,3.6951765685388565
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,36636.64133489292,40203.45927596432,33460.82511504688
+1,Deaths,44584,OECD Countries,3,Both,22,All ages,725,Physical violence by firearm,3,Rate,2019,2.806215191278718,3.07941869263863,2.562960804519377

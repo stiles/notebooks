@@ -14,18 +14,21 @@ pandas = "*"
 jupyter = "*"
 openpyxl = "*"
 jupyterlab = "*"
-matplotlib = "*"
 altair = "*"
 altair-saver = "*"
-selenium = "*"
 pageviewapi = "*"
 jenkspy = "*"
-tornado = "*"
 census-data-downloader = "*"
 cython = "*"
 geopandas = "*"
 bs4 = "*"
-google-api-python-client = "*"
+rtree = "*"
+pygeos = "*"
+ipywidgets = '7.0.0'
+ipympl = '0.2.1'
+matplotlib = '3.2.0'
+plotly = "*"
+cartopy = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"

@@ -1,0 +1,51 @@
+state,gop_polling,dem_polling,gop_polling_margin,dem_polling_margin,year,description
+Alabama,57.36,37.83,19.53,-19.53,2020,538 polling average
+Alaska,51.23,43.57,7.66,-7.66,2020,538 polling average
+Arizona,46.1,48.71,-2.6,2.6,2020,538 polling average
+Arkansas,58.95,36.18,22.77,-22.77,2020,538 polling average
+California,32.44,61.62,-29.19,29.19,2020,538 polling average
+Colorado,41.15,53.6,-12.45,12.45,2020,538 polling average
+Connecticut,32.37,58.62,-26.26,26.26,2020,538 polling average
+Delaware,34.6,58.86,-24.25,24.25,2020,538 polling average
+Florida,46.62,49.08,-2.46,2.46,2020,538 polling average
+Georgia,47.37,48.54,-1.17,1.17,2020,538 polling average
+Hawaii,29.96,64.31,-34.35,34.35,2020,538 polling average
+Idaho,56.59,38.45,18.14,-18.14,2020,538 polling average
+Illinois,39.01,55.02,-16.01,16.01,2020,538 polling average
+Indiana,52.85,42.03,10.82,-10.82,2020,538 polling average
+Iowa,47.6,46.31,1.28,-1.28,2020,538 polling average
+Kansas,53.86,40.95,12.91,-12.91,2020,538 polling average
+Kentucky,55.6,39.86,15.73,-15.73,2020,538 polling average
+Louisiana,57.64,37.08,20.56,-20.56,2020,538 polling average
+Maine,40.32,53.32,-13.01,13.01,2020,538 polling average
+Maryland,31.63,63.06,-31.43,31.43,2020,538 polling average
+Massachusetts,28.86,64.63,-35.76,35.76,2020,538 polling average
+Michigan,43.23,51.15,-7.92,7.92,2020,538 polling average
+Minnesota,42.67,51.85,-9.18,9.18,2020,538 polling average
+Mississippi,55.55,39.62,15.93,-15.93,2020,538 polling average
+Missouri,51.61,43.61,8.01,-8.01,2020,538 polling average
+Montana,49.79,45.37,4.42,-4.42,2020,538 polling average
+Nebraska,52.15,42.49,9.66,-9.66,2020,538 polling average
+Nevada,44.36,49.66,-5.3,5.3,2020,538 polling average
+New Hampshire,42.83,53.92,-11.09,11.09,2020,538 polling average
+New Jersey,37.93,58.36,-20.43,20.43,2020,538 polling average
+New Mexico,42.12,53.86,-11.73,11.73,2020,538 polling average
+New York,32.92,62.33,-29.42,29.42,2020,538 polling average
+North Carolina,47.12,48.9,-1.78,1.78,2020,538 polling average
+North Dakota,56.04,38.72,17.31,-17.31,2020,538 polling average
+Ohio,47.53,46.77,0.76,-0.76,2020,538 polling average
+Oklahoma,59.18,36.22,22.96,-22.96,2020,538 polling average
+Oregon,37.43,58.7,-21.27,21.27,2020,538 polling average
+Pennsylvania,45.55,50.2,-4.65,4.65,2020,538 polling average
+Rhode Island,32.36,62.93,-30.57,30.57,2020,538 polling average
+South Carolina,51.59,44.51,7.08,-7.08,2020,538 polling average
+South Dakota,54.49,39.04,15.44,-15.44,2020,538 polling average
+Tennessee,55.12,41.42,13.69,-13.69,2020,538 polling average
+Texas,48.59,47.45,1.14,-1.14,2020,538 polling average
+Utah,51.92,42.07,9.84,-9.84,2020,538 polling average
+Vermont,27.77,66.52,-38.74,38.74,2020,538 polling average
+Virginia,41.9,53.72,-11.82,11.82,2020,538 polling average
+Washington,36.44,59.39,-22.95,22.95,2020,538 polling average
+West Virginia,62.14,33.52,28.62,-28.62,2020,538 polling average
+Wisconsin,43.71,52.1,-8.39,8.39,2020,538 polling average
+Wyoming,62.31,30.83,31.48,-31.48,2020,538 polling average

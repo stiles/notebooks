@@ -1,0 +1,51 @@
+state,count,under_five,under_18,ap_state,rate_per_100k_kids
+Texas,176,2024126,7398099,Texas,2.38
+Florida,105,1143183,4229081,Fla.,2.48
+Ohio,96,694789,2593325,Ohio,3.7
+Missouri,93,372713,1376830,Mo.,6.75
+Georgia,91,657414,2505751,Ga.,3.63
+Tennessee,82,406574,1506220,Tenn.,5.44
+California,76,2441300,8989955,Calif.,0.85
+Louisiana,76,307019,1095916,La.,6.93
+North Carolina,73,610128,2300645,N.C.,3.17
+South Carolina,72,292391,1105945,S.C.,6.51
+Illinois,68,760619,2857266,Idaho,2.38
+Michigan,66,572163,2164668,Mich.,3.05
+Pennsylvania,64,702997,2648911,Pa.,2.42
+Alabama,59,293203,1089840,Ala.,5.41
+Virginia,51,510924,1869792,Va.,2.73
+Indiana,50,418544,1568130,Ill.,3.19
+Mississippi,48,185477,706141,Miss.,6.8
+Kentucky,40,275412,1008829,Ky.,3.96
+Arkansas,37,190343,703180,Ark.,5.26
+Arizona,35,435936,1642657,Ariz.,2.13
+Wisconsin,29,334382,1276103,Wis.,2.27
+Colorado,29,336854,1265235,Colo.,2.29
+Oklahoma,28,260429,956486,Okla.,2.93
+Minnesota,24,355291,1302615,Minn.,1.84
+Maryland,23,364504,1340148,Mass.,1.72
+New Jersey,20,518628,1953643,N.J.,1.02
+Washington,19,462701,1663285,Wash.,1.14
+Utah,19,253004,932462,Utah,2.04
+New York,19,1140442,4068102,N.Y.,0.47
+Kansas,19,189335,705961,Kan.,2.69
+Nevada,17,185995,688997,Nev.,2.47
+Oregon,16,234214,873567,Ore.,1.83
+New Mexico,14,124246,482153,N.M.,2.9
+Alaska,14,53115,183816,Alaska,7.62
+Montana,10,62536,229434,Mont.,4.36
+West Virginia,10,95257,364160,W.Va.,2.75
+Iowa,8,198218,730767,Ind.,1.09
+Idaho,8,116339,446972,Iowa,1.79
+District of Columbia,7,45617,127494,,5.49
+Maine,6,64282,250404,Md.,2.4
+Nebraska,5,132968,476841,Neb.,1.05
+South Dakota,5,62132,217606,S.D.,2.3
+Connecticut,4,183134,735193,Conn.,0.54
+Massachusetts,4,360161,1366858,Maine,0.29
+New Hampshire,2,64020,258170,N.H.,0.77
+Hawaii,2,87704,303414,Hawaii,0.66
+North Dakota,2,54695,178698,N.D.,1.12
+Vermont,1,29681,115973,Vt.,0.86
+Delaware,1,54811,203616,Del.,0.49
+Wyoming,1,35912,134775,Wyo,0.74
