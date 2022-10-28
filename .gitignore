@@ -11,6 +11,7 @@ china/jupyter-integration-credentials.json
 life-expectancy/jupyter-integration-credentials.json
 */jupyter-integration-credentials.json
 russia/credentials.json
+twitter/credentials.py
 
 git rm --cached .DS_Store
 
