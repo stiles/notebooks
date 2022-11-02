@@ -1,9 +1,0 @@
-datawrapper
-pandas
-requests
-openpyxl
-gspread
-df2gspread
-bs4
-oauth2client
-lxml
