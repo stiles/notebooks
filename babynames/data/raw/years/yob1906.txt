@@ -38,7 +38,7 @@ Myrtle,F,1921
 Josephine,F,1900
 Minnie,F,1777
 Elsie,F,1771
-Agnes,F,1759
+Agnes,F,1758
 Eva,F,1758
 Ida,F,1753
 Sarah,F,1697

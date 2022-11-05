@@ -1876,7 +1876,7 @@ Homer,M,296
 Lester,M,295
 Otto,M,283
 Harvey,M,282
-Jim,M,279
+Jim,M,278
 Clifford,M,272
 Luther,M,269
 Jacob,M,266

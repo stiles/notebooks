@@ -2,8 +2,8 @@ Mary,F,14275
 Helen,F,6129
 Anna,F,5098
 Margaret,F,5046
-Ruth,F,4518
-Elizabeth,F,3723
+Ruth,F,4517
+Elizabeth,F,3724
 Marie,F,3469
 Florence,F,3468
 Ethel,F,3257

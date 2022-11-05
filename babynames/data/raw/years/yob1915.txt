@@ -350,7 +350,7 @@ Linda,F,290
 Iola,F,289
 Gretchen,F,288
 Dolly,F,287
-Janice,F,286
+Janice,F,285
 Lou,F,285
 Philomena,F,284
 Dessie,F,283
@@ -445,8 +445,8 @@ Winona,F,192
 Joy,F,190
 Lettie,F,190
 Evangeline,F,188
-Louisa,F,188
 Ester,F,187
+Louisa,F,187
 Vida,F,187
 Elise,F,186
 Elvera,F,186
@@ -502,8 +502,8 @@ Hettie,F,153
 Velda,F,153
 Delma,F,152
 Hedwig,F,152
-Marianne,F,152
 Magdalene,F,151
+Marianne,F,151
 Vernice,F,151
 Katheryn,F,150
 Lorine,F,149
@@ -4966,8 +4966,8 @@ Zilda,F,5
 Zoie,F,5
 Zulema,F,5
 John,M,47576
-William,M,38564
-James,M,33774
+William,M,38563
+James,M,33773
 Robert,M,28737
 Joseph,M,23051
 George,M,22307
@@ -5007,7 +5007,7 @@ Samuel,M,4351
 Herbert,M,4341
 Eugene,M,4321
 Alfred,M,4231
-Michael,M,4081
+Michael,M,4080
 Leonard,M,3993
 Elmer,M,3802
 Andrew,M,3573

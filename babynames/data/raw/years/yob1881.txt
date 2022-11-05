@@ -1094,11 +1094,11 @@ Cornelius,M,80
 Mack,M,80
 Matthew,M,80
 Lonnie,M,77
-Jose,M,76
 Melvin,M,76
 Stanley,M,76
 Sylvester,M,76
 Wiley,M,76
+Jose,M,75
 Simon,M,75
 Reuben,M,73
 Silas,M,73

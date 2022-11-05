@@ -376,10 +376,10 @@ Rosella,F,83
 Golda,F,81
 Mittie,F,81
 Iola,F,80
-Joyce,F,80
 Mona,F,80
 Elaine,F,79
 Georgie,F,79
+Joyce,F,79
 Avis,F,78
 Beryl,F,78
 Evie,F,78

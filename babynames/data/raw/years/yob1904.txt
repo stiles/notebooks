@@ -2205,7 +2205,7 @@ Elmer,M,620
 Sam,M,603
 Alfred,M,600
 Leo,M,552
-Andrew,M,547
+Andrew,M,546
 Eugene,M,541
 Lee,M,532
 Leonard,M,508

@@ -2,10 +2,10 @@ Mary,F,61438
 Helen,F,32662
 Dorothy,F,27418
 Margaret,F,24953
-Ruth,F,23190
+Ruth,F,23189
 Mildred,F,15633
 Anna,F,15228
-Elizabeth,F,14939
+Elizabeth,F,14940
 Frances,F,13746
 Virginia,F,12487
 Evelyn,F,11889
@@ -25,7 +25,7 @@ Martha,F,7610
 Ethel,F,7601
 Grace,F,7461
 Eleanor,F,7406
-Edith,F,7306
+Edith,F,7307
 Thelma,F,7290
 Lucille,F,7241
 Hazel,F,7214
@@ -771,13 +771,13 @@ Charity,F,79
 Clarissa,F,79
 Fae,F,79
 Lavonne,F,79
-Renee,F,79
 Yvette,F,79
 Elinore,F,78
 Elisa,F,78
 Lavinia,F,78
 Nathalie,F,78
 Pearle,F,78
+Renee,F,78
 Vallie,F,78
 Emogene,F,77
 Joseph,F,77
@@ -4762,7 +4762,6 @@ Jenell,F,5
 Jenette,F,5
 Jennett,F,5
 Jenney,F,5
-Jennifer,F,5
 Jerline,F,5
 Jeroline,F,5
 Johnella,F,5
@@ -5315,7 +5314,7 @@ Archie,M,806
 Lyle,M,806
 Patrick,M,802
 Earnest,M,780
-Clifton,M,771
+Clifton,M,770
 Calvin,M,766
 Abraham,M,753
 Clayton,M,753
@@ -5352,7 +5351,7 @@ Adam,M,609
 Alton,M,604
 Merle,M,604
 Dan,M,594
-Grover,M,591
+Grover,M,590
 Nathaniel,M,590
 Aaron,M,583
 Pete,M,582
@@ -5479,7 +5478,7 @@ Ed,M,274
 Russel,M,274
 Isadore,M,273
 Eli,M,271
-Jesus,M,271
+Jesus,M,270
 Merrill,M,270
 Thaddeus,M,268
 Emery,M,266
@@ -5772,9 +5771,9 @@ Haskell,M,92
 Omar,M,92
 Urban,M,92
 Hector,M,91
-Ike,M,91
 Mortimer,M,91
 Otha,M,91
+Ike,M,90
 Kelly,M,90
 Arther,M,89
 Carlyle,M,89

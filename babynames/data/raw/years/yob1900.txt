@@ -738,7 +738,6 @@ Lady,F,25
 Lala,F,25
 Loma,F,25
 Myrl,F,25
-Stephanie,F,25
 Zada,F,25
 Amie,F,24
 Augustine,F,24
@@ -756,6 +755,7 @@ Mathilde,F,24
 Missouri,F,24
 Robert,F,24
 Rosalee,F,24
+Stephanie,F,24
 Theodora,F,24
 Alene,F,23
 Arrie,F,23
@@ -2451,12 +2451,12 @@ Julian,M,79
 Preston,M,78
 Leland,M,76
 Timothy,M,76
-Antonio,M,75
 Clark,M,75
 Karl,M,75
 Mary,M,75
 Mose,M,75
 Ted,M,75
+Antonio,M,74
 Simon,M,74
 Alva,M,73
 Dock,M,73

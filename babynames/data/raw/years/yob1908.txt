@@ -953,7 +953,6 @@ Ether,F,18
 Eveline,F,18
 Floretta,F,18
 Isla,F,18
-Laurie,F,18
 Lynn,F,18
 Margarete,F,18
 Marianna,F,18
@@ -985,6 +984,7 @@ Jessica,F,17
 Jossie,F,17
 Launa,F,17
 Laurette,F,17
+Laurie,F,17
 Leda,F,17
 Leoma,F,17
 Libbie,F,17

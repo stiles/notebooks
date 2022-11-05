@@ -12,6 +12,8 @@ life-expectancy/jupyter-integration-credentials.json
 */jupyter-integration-credentials.json
 russia/credentials.json
 twitter/credentials.py
+babynames/data/processed/
+twitter/data/raw/nigger.csv
 
 git rm --cached .DS_Store
 

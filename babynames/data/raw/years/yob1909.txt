@@ -1,6 +1,6 @@
 Mary,F,19259
 Helen,F,9250
-Margaret,F,7359
+Margaret,F,7358
 Ruth,F,6509
 Dorothy,F,6253
 Anna,F,5804
@@ -113,7 +113,7 @@ Olive,F,645
 Wilma,F,645
 Marian,F,641
 Lola,F,634
-Jane,F,627
+Jane,F,626
 Eunice,F,625
 Nancy,F,610
 Rosie,F,604
@@ -2546,7 +2546,7 @@ Zillah,F,5
 Zilphia,F,5
 Zollie,F,5
 Zuma,F,5
-John,M,9591
+John,M,9590
 William,M,7913
 James,M,7595
 George,M,4688

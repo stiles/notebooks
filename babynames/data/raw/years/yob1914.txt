@@ -4,7 +4,7 @@ Dorothy,F,18782
 Margaret,F,17763
 Ruth,F,15839
 Anna,F,11865
-Mildred,F,11650
+Mildred,F,11649
 Elizabeth,F,11367
 Frances,F,9677
 Marie,F,8829
@@ -205,7 +205,7 @@ Frieda,F,639
 Sue,F,634
 Angeline,F,632
 Iva,F,618
-Jeanne,F,612
+Jeanne,F,611
 Arlene,F,608
 Luella,F,604
 Constance,F,600

@@ -2407,7 +2407,7 @@ Joseph,M,3844
 Frank,M,2943
 Edward,M,2576
 Henry,M,2203
-Thomas,M,2175
+Thomas,M,2174
 Walter,M,2095
 Willie,M,1968
 Harry,M,1813

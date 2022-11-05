@@ -21,7 +21,7 @@ Edna,F,8422
 Josephine,F,8326
 Martha,F,8261
 Gladys,F,8075
-Ethel,F,7864
+Ethel,F,7865
 Doris,F,7819
 Eleanor,F,7669
 Ruby,F,7662
@@ -4689,7 +4689,6 @@ Bunia,F,5
 Bunnie,F,5
 Burmah,F,5
 Burnett,F,5
-Candice,F,5
 Cannie,F,5
 Carmilla,F,5
 Casmera,F,5
@@ -5311,7 +5310,7 @@ Zorka,F,5
 Zylpha,F,5
 John,M,51852
 William,M,42422
-James,M,37339
+James,M,37338
 Robert,M,35220
 Joseph,M,24762
 George,M,24196
@@ -5333,7 +5332,7 @@ Ralph,M,7391
 Jack,M,6874
 Louis,M,6771
 Carl,M,6699
-Clarence,M,6586
+Clarence,M,6587
 Howard,M,6410
 Kenneth,M,6141
 David,M,6100
@@ -5352,7 +5351,7 @@ Herbert,M,4745
 Leonard,M,4694
 Samuel,M,4490
 Alfred,M,4424
-Michael,M,4289
+Michael,M,4288
 Elmer,M,3812
 Norman,M,3788
 Leo,M,3779
@@ -5467,7 +5466,7 @@ Salvatore,M,834
 Bruce,M,805
 Otto,M,803
 Jose,M,800
-Clifton,M,793
+Clifton,M,794
 Calvin,M,785
 Marshall,M,777
 Delbert,M,775
@@ -5519,7 +5518,7 @@ Emmett,M,542
 Gene,M,542
 Grover,M,540
 Bert,M,533
-Johnny,M,531
+Johnny,M,530
 Elwood,M,528
 Grady,M,528
 Mark,M,528
@@ -5531,7 +5530,7 @@ Dominic,M,505
 Ross,M,503
 Ted,M,498
 Laurence,M,495
-Myron,M,490
+Myron,M,489
 Owen,M,489
 Loyd,M,488
 Byron,M,487
@@ -5652,7 +5651,7 @@ Christopher,M,263
 Pasquale,M,262
 Tommy,M,262
 Reginald,M,261
-Timothy,M,261
+Timothy,M,260
 Odell,M,259
 Carmen,M,258
 Merrill,M,257
@@ -5938,9 +5937,9 @@ King,M,90
 Mahlon,M,90
 Rowland,M,90
 Franklyn,M,89
+Ike,M,89
 Theo,M,89
 Urban,M,89
-Ike,M,88
 Orin,M,88
 Orrin,M,88
 Sherwood,M,88
