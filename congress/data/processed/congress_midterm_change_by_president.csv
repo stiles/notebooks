@@ -1,20 +1,31 @@
-year,president,president_party,House,Senate,house_from,house_to,senate_from,senate_to,first_name,last_name,party_abbr,President
-2018,Donald Trump,Republican,-40,2,240,200,240,200,Donald,Trump,R,**2018:** Trump (R)
-2014,Barack Obama,Democratic,-13,-9,201,188,201,188,Barack,Obama,D,**2014:** Obama (D)
-2010,Barack Obama,Democratic,-63,-6,256,193,256,193,Barack,Obama,D,**2010:** Obama (D)
-2006,George W. Bush,Republican,-32,-6,231,199,231,199,George W.,Bush,R,**2006:** Bush (R)
-2002,George W. Bush,Republican,8,2,221,229,221,229,George W.,Bush,R,**2002:** Bush (R)
-1998,Bill Clinton,Democratic,4,0,207,211,207,211,Bill,Clinton,D,**1998:** Clinton (D)
-1994,Bill Clinton,Democratic,-54,-10,258,204,258,204,Bill,Clinton,D,**1994:** Clinton (D)
-1990,George H. W. Bush,Republican,-8,-1,175,167,175,167,George H. W.,Bush,R,**1990:** Bush (R)
-1986,Ronald Reagan,Republican,-5,-8,182,177,182,177,Ronald,Reagan,R,**1986:** Reagan (R)
-1982,Ronald Reagan,Republican,-26,0,192,166,192,166,Ronald,Reagan,R,**1982:** Reagan (R)
-1978,Jimmy Carter,Democratic,-15,-2,292,277,292,277,Jimmy,Carter,D,**1978:** Carter (D)
-1974,Gerald Ford,Republican,-48,-4,192,144,192,144,Gerald,Ford,R,**1974:** Ford (R)
-1970,Richard Nixon,Republican,-12,2,192,180,192,180,Richard,Nixon,R,**1970:** Nixon (R)
-1966,Lyndon B. Johnson,Democratic,-47,-3,295,248,295,248,Lyndon B.,Johnson,D,**1966:** Johnson (D)
-1962,John F. Kennedy,Democratic,-4,4,262,258,262,258,John F.,Kennedy,D,**1962:** Kennedy (D)
-1958,Dwight D. Eisenhower,Republican,-48,-12,201,153,201,153,Dwight D.,Eisenhower,R,**1958:** Eisenhower (R)
-1954,Dwight D. Eisenhower,Republican,-18,-2,221,203,221,203,Dwight D.,Eisenhower,R,**1954:** Eisenhower (R)
-1950,Harry S. Truman,Democratic,-28,-5,263,235,263,235,Harry S.,Truman,D,**1950:** Truman (D)
-1946,Harry S. Truman,Democratic,-54,-10,242,188,242,188,Harry S.,Truman,D,**1946:** Truman (D)
+year,president,president_party,House,Senate,house_from,house_to,senate_from,senate_to,first_name,last_name,party_abbr
+2018,Donald Trump,Republican,-41,2,241,200,241,200,Donald,Trump,R
+2014,Barack Obama,Democratic,-13,-9,201,188,201,188,Barack,Obama,D
+2010,Barack Obama,Democratic,-63,-6,256,193,256,193,Barack,Obama,D
+2006,George W. Bush,Republican,-32,-6,231,199,231,199,George W.,Bush,R
+2002,George W. Bush,Republican,8,2,221,229,221,229,George W.,Bush,R
+1998,Bill Clinton,Democratic,4,0,207,211,207,211,Bill,Clinton,D
+1994,Bill Clinton,Democratic,-54,-10,258,204,258,204,Bill,Clinton,D
+1990,George H. W. Bush,Republican,-8,-1,175,167,175,167,George H. W.,Bush,R
+1986,Ronald Reagan,Republican,-5,-8,182,177,182,177,Ronald,Reagan,R
+1982,Ronald Reagan,Republican,-26,0,192,166,192,166,Ronald,Reagan,R
+1978,Jimmy Carter,Democratic,-15,-2,292,277,292,277,Jimmy,Carter,D
+1974,Gerald Ford,Republican,-48,-4,192,144,192,144,Gerald,Ford,R
+1970,Richard Nixon,Republican,-12,2,192,180,192,180,Richard,Nixon,R
+1966,Lyndon B. Johnson,Democratic,-47,-3,295,248,295,248,Lyndon B.,Johnson,D
+1962,John F. Kennedy,Democratic,-4,4,262,258,262,258,John F.,Kennedy,D
+1958,Dwight D. Eisenhower,Republican,-48,-12,201,153,201,153,Dwight D.,Eisenhower,R
+1954,Dwight D. Eisenhower,Republican,-18,-2,221,203,221,203,Dwight D.,Eisenhower,R
+1950,Harry S. Truman,Democratic,-28,-5,263,235,263,235,Harry S.,Truman,D
+1946,Harry S. Truman,Democratic,-54,-10,242,188,242,188,Harry S.,Truman,D
+1942,Franklin D. Roosevelt,Democratic,-45,-8,267,222,267,222,Franklin D.,Roosevelt,D
+1938,Franklin D. Roosevelt,Democratic,-72,-7,334,262,334,262,Franklin D.,Roosevelt,D
+1934,Franklin D. Roosevelt,Democratic,9,9,313,322,313,322,Franklin D.,Roosevelt,D
+1930,Herbert Hoover,Republican,-52,-6,270,218,270,218,Herbert,Hoover,R
+1926,Calvin Coolidge,Republican,-9,-6,247,238,247,238,Calvin,Coolidge,R
+1922,Warren G. Harding,Republican,-77,-7,302,225,302,225,Warren G.,Harding,R
+1918,Woodrow Wilson,Democratic,-22,-4,214,192,214,192,Woodrow,Wilson,D
+1914,Woodrow Wilson,Democratic,-61,3,291,230,291,230,Woodrow,Wilson,D
+1910,William Howard Taft,Republican,-56,-9,219,163,219,163,William Howard,Taft,R
+1906,Theodore Roosevelt,Republican,-27,2,251,224,251,224,Theodore,Roosevelt,R
+1902,Theodore Roosevelt,Republican,9,0,201,210,201,210,Theodore,Roosevelt,R

@@ -29,6 +29,7 @@ ipympl = '0.2.1'
 matplotlib = '3.2.0'
 plotly = "*"
 cartopy = "*"
+twarc = "*"
 
 [requires]
 python_version = "3.9"
