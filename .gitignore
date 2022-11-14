@@ -15,6 +15,7 @@ twitter/credentials.py
 babynames/data/processed/
 twitter/data/raw/nigger.csv
 twitter/data/raw/
+cnn/
 
 git rm --cached .DS_Store
 
