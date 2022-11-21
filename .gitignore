@@ -2,6 +2,8 @@ twitter-scraper/input/
 wells/input/
 swarm/keys.py
 youtube/creds.py
+elon/data/raw/
+trump-tweets/data/raw/
 elon/credentials.json
 */credentials.json
 geocoder/creds.py
@@ -16,6 +18,8 @@ babynames/data/processed/
 twitter/data/raw/nigger.csv
 twitter/data/raw/
 cnn/
+trump-tweets/twarc.log
+elon/twarc.log
 
 git rm --cached .DS_Store
 
