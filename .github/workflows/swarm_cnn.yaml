@@ -1,4 +1,4 @@
-name: fetch-polling-averages
+name: checkin-cnn
 
 on:
   workflow_dispatch:
