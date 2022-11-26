@@ -18,7 +18,3 @@ v = today
 url = "https://api.foursquare.com/v2/checkins/add?oauth_token={}&venueId={}&ll={}&v={}"
 
 r = requests.post(url.format(oauth_token, venueId, ll, v))
-
-print(r.json())
-
-print(today)
