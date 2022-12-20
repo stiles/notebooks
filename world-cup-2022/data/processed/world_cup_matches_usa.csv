@@ -1,0 +1,5 @@
+attendance,idmatch,matchday,hometeamscore,awayteamscore,hometeampenaltyscore,awayteampenaltyscore,winner,matchstatus,resulttype,matchnumber,group_name,home_team,away_team,stage_name,local_date,local_time,pst_date,pst_time,humidity,temperature,windspeed,type,description,stadium_name,overallhome,overallaway
+43418,400235455,,1,1,0,0,,0,1,4,Group B,USA,WAL,First stage,2022-11-21,19:00:00,2022-11-21,11:00:00,71,23,4,10,Clear Night,Ahmad Bin Ali Stadium,57.77,42.23
+68463,400235457,,0,0,0,0,,0,1,20,Group B,ENG,USA,First stage,2022-11-25,19:00:00,2022-11-25,11:00:00,66,25,2,10,Clear Night,Al Bayt Stadium,54.31,45.69
+42127,400235456,,0,1,0,0,43921,0,1,34,Group B,IRN,USA,First stage,2022-11-29,19:00:00,2022-11-29,11:00:00,75,24,1,9,Partly Cloudy Night,Al Thumama Stadium,47.34,52.66
+44846,400128136,,3,1,0,0,43960,0,1,49,,NED,USA,Round of 16,2022-12-03,15:00:00,2022-12-03,07:00:00,59,26,5,10,Clear Night,Khalifa International Stadium,42.41,57.59

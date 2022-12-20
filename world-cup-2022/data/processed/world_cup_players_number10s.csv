@@ -1,0 +1,33 @@
+player_id,name,position,weight,height,country,country_id,number,picture,dob,age,country_name,position_desc
+336043,Raheem Sterling,3,70.0,170.0,ENG,43942,10,https://digitalhub.fifa.com/transform/e593063f-bff2-49b8-abcb-874e76ecc903/1441945548,1994-12-08,28.03,England,Striker
+229397,Lionel Messi,3,72.0,170.0,ARG,43922,10,https://digitalhub.fifa.com/transform/40e6d6b5-9742-4123-8fb8-d69662c3b24a/1442770580,1987-06-24,35.49,Argentina,Striker
+339745,Salem Aldawsari,3,70.0,172.0,KSA,43835,10,https://digitalhub.fifa.com/transform/072ede2c-c624-4479-8a6d-7abe03473692/1442476890,1991-08-19,31.34,Saudi Arabia,Striker
+241559,Luka Modric,2,66.0,172.0,CRO,43938,10,https://digitalhub.fifa.com/transform/d67acdb0-b9a3-4bb7-a49c-8ee0c2844d55/1442835091,1985-09-09,37.28,Croatia,Midfielder
+395205,Bernardo Silva,3,65.0,173.0,POR,43963,10,https://digitalhub.fifa.com/transform/c63cbee9-0026-453b-a7a6-9dc8d8ffed03/1442847721,1994-08-10,28.36,Portugal,Striker
+273996,Eden Hazard,3,74.0,173.0,BEL,43935,10,https://digitalhub.fifa.com/transform/f2c177b8-0919-4b6d-8494-e0c74d235b2c/1442831074,1991-01-07,31.95,Belgium,Striker
+331170,Takumi Minamino,2,68.0,174.0,JPN,43819,10,https://digitalhub.fifa.com/transform/457d4880-ec1b-4d23-bcdf-049c6b2b8e2f/Japan-Portraits-FIFA-World-Cup-Qatar-2022,1995-01-16,27.93,Japan,Midfielder
+392850,Junior Hoilett,2,77.0,174.0,CAN,43899,10,https://digitalhub.fifa.com/transform/02212ce0-8deb-4644-b5ff-62574ea55692/1442846791,1990-06-05,32.54,Canada,Midfielder
+284190,Hassan Alhaydos,2,62.0,174.0,QAT,43834,10,https://digitalhub.fifa.com/transform/9b187094-1cdc-428e-9bac-931aab584672/Qatar-Portraits-FIFA-World-Cup-Qatar-2022,1990-12-11,32.02,Qatar,Midfielder
+407377,Romario Ibarra,2,79.0,175.0,ECU,43927,10,https://digitalhub.fifa.com/transform/59ffee8e-f7db-4304-86ea-ce51fbd17552/1442157555,1994-09-24,28.24,Ecuador,Midfielder
+294620,Andre Ayew,3,66.0,175.0,GHA,43860,10,https://digitalhub.fifa.com/transform/e6e0052a-e490-462d-8856-7c5371c74f38/1443098375,1989-12-17,33.01,Ghana,Striker
+400715,Marco Asensio,3,70.0,175.0,ESP,43969,10,https://digitalhub.fifa.com/transform/a28c5f8b-ef3b-4fb0-9cd3-a59c0c10c8f9/1442551256,1996-01-21,26.91,Spain,Striker
+314197,Neymar,3,68.0,175.0,BRA,43924,10,https://digitalhub.fifa.com/transform/c4e4c789-9423-47cd-8e4e-21a416f2cb06/1443025860,1992-02-05,30.87,Brazil,Striker
+430766,Alexis Vega,3,73.0,175.0,MEX,43911,10,https://digitalhub.fifa.com/transform/34526e10-28d4-40f1-9e96-0323e84390ef/1442570859,1997-11-25,25.07,Mexico,Striker
+452040,Anass Zaroury,2,68.0,176.0,MAR,43872,10,https://digitalhub.fifa.com/transform/c3f43b99-70ce-4612-a1dc-dcbc02aaed58/1442764041,2000-11-07,22.12,Morocco,Midfielder
+395475,Serge Gnabry,3,75.0,176.0,GER,43948,10,https://digitalhub.fifa.com/transform/77f92a1e-e521-4bae-830c-0961aade8fb0/1442303743,1995-07-14,27.44,Germany,Striker
+323698,Vincent Aboubakar,3,75.0,176.0,CMR,43849,10,https://digitalhub.fifa.com/transform/0fb327ff-be98-417d-ad8d-4f9c34bc6493/1443093024,1992-01-22,30.91,Cameroon,Striker
+368652,Giorgian De Arrascaeta,2,71.0,177.0,URU,43930,10,https://digitalhub.fifa.com/transform/29d16cfe-87de-4565-a8fc-6b67898ea5c2/Uruguay-Portraits-FIFA-World-Cup-Qatar-2022,1994-06-01,28.55,Uruguay,Midfielder
+389867,Kylian Mbappe,3,81.0,178.0,FRA,43946,10,https://digitalhub.fifa.com/transform/702110ad-db19-4216-a36b-9a2903f3c77d/1442234453,1998-12-20,24.0,France,Striker
+418773,Moussa Ndiaye,1,65.0,178.0,SEN,43879,10,https://digitalhub.fifa.com/transform/7adfbd4f-9659-4efb-ba9b-ec564dd73b3c/1443611101,2002-06-18,20.51,Senegal,Defender
+336098,Memphis Depay,3,78.0,178.0,NED,43960,10,https://digitalhub.fifa.com/transform/73919bf5-ebe2-48d4-bf20-95eb836d44d8/1442170870,1994-02-13,28.85,Netherlands,Striker
+299617,Aaron Ramsey,2,70.0,178.0,WAL,43974,10,https://digitalhub.fifa.com/transform/bc4d38db-13a7-49ee-b4f7-c58a75b8ca55/1441998552,1990-12-26,31.98,Wales,Midfielder
+390267,Christian  Pulisic,3,72.0,179.0,USA,43921,10,https://digitalhub.fifa.com/transform/4c947748-ad14-4972-ae99-b78ddbf6cba4/1441721640,1998-09-18,24.25,USA,Striker
+404319,Ajdin Hrustic,2,70.0,180.0,AUS,43976,10,https://digitalhub.fifa.com/transform/1902b759-15e7-46a3-9377-3dddc86ed62f/Australia-Portraits-FIFA-World-Cup-Qatar-2022,1996-07-05,26.46,Australia,Midfielder
+390525,Lee Jaesung,2,70.0,180.0,KOR,43822,10,https://digitalhub.fifa.com/transform/d922c344-4a89-423b-8de2-794b3e9fbd7e/1442190053,1992-08-10,30.36,Korea Republic,Midfielder
+321716,Christian Eriksen,2,76.0,181.0,DEN,43941,10,https://digitalhub.fifa.com/transform/e454f07e-015d-4787-81b0-512a6f032c46/1442267640,1992-02-14,30.85,Denmark,Midfielder
+298698,Dusan Tadic,3,76.0,181.0,SRB,1902465,10,https://digitalhub.fifa.com/transform/d6f6b0ce-15ab-4388-8787-2a1a99fb6c0e/1443089559,1988-11-20,34.08,Serbia,Striker
+364669,Wahbi Khazri,3,76.0,182.0,TUN,43888,10,https://digitalhub.fifa.com/transform/ac013426-94cc-480d-8232-b98c9d22bbd4/1442513861,1991-02-08,31.86,Tunisia,Striker
+311558,Granit Xhaka,2,82.0,183.0,SUI,43971,10,https://digitalhub.fifa.com/transform/6e96ca24-1db5-420a-ae84-2c3fec06e475/1441890746,1992-09-27,30.23,Switzerland,Midfielder
+330659,Karim Ansarifard,3,80.0,186.0,IRN,43817,10,https://digitalhub.fifa.com/transform/d0a1b57b-7304-416a-bcba-e7b2667c9113/1441897828,1990-04-03,32.71,IR Iran,Striker
+269735,Grzegorz Krychowiak,2,83.0,186.0,POL,43962,10,https://digitalhub.fifa.com/transform/2cd38eae-9e40-42b6-975c-ed280ff22b98/1442524550,1990-01-29,32.89,Poland,Midfielder
+214876,Bryan Ruiz,2,75.0,187.0,CRC,43901,10,https://digitalhub.fifa.com/transform/839f9485-02b6-4c60-8031-cff7781af6da/1442777538,1985-08-18,37.34,Costa Rica,Midfielder

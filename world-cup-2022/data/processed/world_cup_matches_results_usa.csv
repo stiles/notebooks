@@ -1,0 +1,5 @@
+attendance,localdate,winner,matchstatus,resulttype,group_name,humidity,temperature,home_score,home_idteam,home_tactics,home_team,away_score,away_idteam,away_tactics,away_team,overallhome,overallaway
+43418,2022-11-21,,0,1,Group B,71,23,1,43921,4-3-3,USA,1,43974,5-3-2,Wales,57.767494,42.232506
+68463,2022-11-25,,0,1,Group B,66,25,0,43942,4-3-3,England,0,43921,4-3-3,USA,54.3105,45.689503
+42127,2022-11-29,43921,0,1,Group B,75,24,0,43817,4-5-1,IR Iran,1,43921,4-3-3,USA,47.34187,52.65813
+44846,2022-12-03,43960,0,1,,59,26,3,43960,3-5-2,Netherlands,1,43921,4-3-3,USA,42.413094,57.58691
