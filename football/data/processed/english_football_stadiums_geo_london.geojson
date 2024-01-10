@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "english_football_stadiums_geo_london",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "stadium": "Craven Cottage", "club": "Fulham", "location": "London", "opened": "1896", "capacity": 22384, "lat": 51.475, "lon": -0.22166666666666668 }, "geometry": { "type": "Point", "coordinates": [ -0.221666666666667, 51.475 ] } },
+{ "type": "Feature", "properties": { "stadium": "Emirates Stadium", "club": "Arsenal", "location": "London", "opened": "2006", "capacity": 60704, "lat": 51.555, "lon": -0.10861111111111112 }, "geometry": { "type": "Point", "coordinates": [ -0.108611111111111, 51.555 ] } },
+{ "type": "Feature", "properties": { "stadium": "Gtech Community Stadium", "club": "Brentford", "location": "London", "opened": "2020", "capacity": 17250, "lat": 51.490825, "lon": -0.2887 }, "geometry": { "type": "Point", "coordinates": [ -0.2887, 51.490825 ] } },
+{ "type": "Feature", "properties": { "stadium": "Loftus Road", "club": "Queens Park Rangers & Fulham", "location": "London", "opened": "1904", "capacity": 18439, "lat": 51.509166666666665, "lon": -0.23222222222222222 }, "geometry": { "type": "Point", "coordinates": [ -0.232222222222222, 51.509166666666665 ] } },
+{ "type": "Feature", "properties": { "stadium": "London Stadium Formerly Olympic Stadium", "club": "West Ham United", "location": "London", "opened": "2016", "capacity": 60000, "lat": 51.538611111111109, "lon": -0.01638888888888889 }, "geometry": { "type": "Point", "coordinates": [ -0.016388888888889, 51.538611111111109 ] } },
+{ "type": "Feature", "properties": { "stadium": "Selhurst Park", "club": "Crystal Palace & Wimbledon", "location": "London", "opened": "1924", "capacity": 25486, "lat": 51.398333333333333, "lon": -0.085555555555555551 }, "geometry": { "type": "Point", "coordinates": [ -0.085555555555556, 51.398333333333333 ] } },
+{ "type": "Feature", "properties": { "stadium": "Stamford Bridge", "club": "Chelsea", "location": "London", "opened": "1877", "capacity": 40343, "lat": 51.481666666666669, "lon": -0.19111111111111109 }, "geometry": { "type": "Point", "coordinates": [ -0.191111111111111, 51.481666666666669 ] } },
+{ "type": "Feature", "properties": { "stadium": "Tottenham Hotspur Stadium", "club": "Tottenham Hotspur", "location": "London", "opened": "2019", "capacity": 62850, "lat": 51.604722222222222, "lon": -0.066388888888888886 }, "geometry": { "type": "Point", "coordinates": [ -0.066388888888889, 51.604722222222222 ] } },
+{ "type": "Feature", "properties": { "stadium": "The Valley", "club": "Charlton Athletic", "location": "London", "opened": "1919", "capacity": 27111, "lat": 51.486388888888889, "lon": 0.036388888888888887 }, "geometry": { "type": "Point", "coordinates": [ 0.036388888888889, 51.486388888888889 ] } }
+]
+}

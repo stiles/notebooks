@@ -1,4 +1,4 @@
-Mary,F,45345
+Mary,F,45346
 Helen,F,23221
 Dorothy,F,18782
 Margaret,F,17763
@@ -42,7 +42,7 @@ Bertha,F,3859
 Julia,F,3814
 Bernice,F,3730
 Agnes,F,3721
-Marjorie,F,3712
+Marjorie,F,3713
 Elsie,F,3683
 Sarah,F,3679
 Katherine,F,3652
@@ -1302,6 +1302,7 @@ Versa,F,24
 Verta,F,24
 Alvira,F,23
 Arabella,F,23
+Becky,F,23
 Buena,F,23
 Carma,F,23
 Classie,F,23
@@ -1345,7 +1346,6 @@ Alison,F,22
 Alyne,F,22
 Aune,F,22
 Azalee,F,22
-Becky,F,22
 Birtie,F,22
 Cammie,F,22
 Cleola,F,22
@@ -3138,7 +3138,6 @@ Senaida,F,7
 Senora,F,7
 Severa,F,7
 Sevilla,F,7
-Silva,F,7
 Solange,F,7
 Sondra,F,7
 Sueko,F,7
@@ -3551,6 +3550,7 @@ Savanah,F,6
 Sennie,F,6
 Shigeko,F,6
 Signora,F,6
+Silva,F,6
 Snow,F,6
 Starr,F,6
 Stephen,F,6
@@ -4204,7 +4204,7 @@ Zilphia,F,5
 Zorka,F,5
 Zudora,F,5
 Zuella,F,5
-John,M,37948
+John,M,37947
 William,M,29753
 James,M,26263
 Robert,M,21188

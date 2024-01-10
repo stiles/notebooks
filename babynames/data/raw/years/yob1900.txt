@@ -48,7 +48,7 @@ Josephine,F,1743
 Carrie,F,1711
 Viola,F,1674
 Hattie,F,1553
-Ruby,F,1541
+Ruby,F,1540
 Lena,F,1506
 Jessie,F,1422
 Mae,F,1406
@@ -77,7 +77,7 @@ Vera,F,1024
 Maude,F,1013
 Beulah,F,974
 Dora,F,958
-Susie,F,946
+Susie,F,947
 Daisy,F,931
 Ellen,F,922
 Nora,F,919
@@ -159,7 +159,7 @@ Flossie,F,368
 Estella,F,365
 Ola,F,352
 Matilda,F,348
-Barbara,F,340
+Barbara,F,339
 Sophie,F,338
 Alta,F,337
 Amy,F,335
@@ -372,8 +372,8 @@ Lauretta,F,83
 Lenore,F,81
 Malinda,F,81
 Vida,F,81
-Donna,F,80
 Cordelia,F,79
+Donna,F,79
 Mazie,F,79
 Alpha,F,78
 Polly,F,78
@@ -1583,7 +1583,6 @@ Arnetta,F,7
 Augustina,F,7
 Avo,F,7
 Beata,F,7
-Becky,F,7
 Bera,F,7
 Bertrice,F,7
 Birda,F,7
@@ -1745,6 +1744,7 @@ Azelie,F,6
 Bama,F,6
 Bea,F,6
 Beckie,F,6
+Becky,F,6
 Bernetta,F,6
 Berthe,F,6
 Betsey,F,6
@@ -2157,7 +2157,6 @@ Otilia,F,5
 Ottis,F,5
 Ozzie,F,5
 Pairlee,F,5
-Pamela,F,5
 Parrie,F,5
 Patsie,F,5
 Paulita,F,5
@@ -2253,7 +2252,7 @@ Earl,M,1037
 Carl,M,1016
 Ernest,M,1012
 Ralph,M,896
-David,M,884
+David,M,883
 Samuel,M,877
 Sam,M,821
 Howard,M,779

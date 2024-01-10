@@ -414,10 +414,10 @@ Beryl,F,91
 Era,F,91
 Reva,F,91
 Nadine,F,90
-Phoebe,F,90
 Carmella,F,89
 Janice,F,89
 Paula,F,89
+Phoebe,F,89
 Bess,F,88
 John,F,88
 Stephanie,F,88
@@ -753,7 +753,6 @@ Violette,F,33
 Alverta,F,32
 Amie,F,32
 Berenice,F,32
-Charlene,F,32
 Charles,F,32
 Concepcion,F,32
 Gene,F,32
@@ -770,6 +769,7 @@ Alfreda,F,31
 Alicia,F,31
 Amalia,F,31
 Bettye,F,31
+Charlene,F,31
 Eda,F,31
 Fae,F,31
 Kathryne,F,31

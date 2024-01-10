@@ -1,5 +1,5 @@
 Mary,F,61438
-Helen,F,32662
+Helen,F,32661
 Dorothy,F,27418
 Margaret,F,24953
 Ruth,F,23189
@@ -47,7 +47,7 @@ Julia,F,5066
 Marion,F,5033
 Elsie,F,5027
 Bertha,F,4900
-Agnes,F,4853
+Agnes,F,4852
 Katherine,F,4801
 Sarah,F,4798
 Anne,F,4571
@@ -513,8 +513,8 @@ Mazie,F,164
 Aurelia,F,162
 Margret,F,162
 Elna,F,161
-Rachael,F,161
 Winnifred,F,161
+Rachael,F,160
 Retha,F,160
 Diana,F,159
 Dorris,F,159
@@ -5161,7 +5161,7 @@ Zolar,F,5
 Zonie,F,5
 John,M,50043
 William,M,40418
-James,M,35569
+James,M,35568
 Robert,M,31741
 Joseph,M,23883
 Charles,M,23612
@@ -5174,7 +5174,7 @@ Paul,M,10790
 Harold,M,10698
 Henry,M,10656
 Richard,M,10134
-Raymond,M,9566
+Raymond,M,9565
 Albert,M,9044
 Arthur,M,8921
 Harry,M,8476
@@ -5271,7 +5271,7 @@ Irving,M,1373
 Marion,M,1357
 Julius,M,1355
 Leslie,M,1355
-Hubert,M,1351
+Hubert,M,1348
 Eddie,M,1311
 Johnnie,M,1306
 Luther,M,1287

@@ -3,7 +3,7 @@ Helen,F,34251
 Dorothy,F,28852
 Margaret,F,25560
 Ruth,F,23568
-Mildred,F,16257
+Mildred,F,16256
 Anna,F,15160
 Elizabeth,F,15131
 Frances,F,14363
@@ -5472,11 +5472,11 @@ Marshall,M,777
 Delbert,M,775
 Jim,M,774
 Wilfred,M,772
-Ronald,M,767
+Ronald,M,766
 Clayton,M,759
 Don,M,757
 Ivan,M,756
-Wilbert,M,754
+Wilbert,M,755
 Irvin,M,734
 Abraham,M,731
 Bennie,M,730
@@ -5907,12 +5907,12 @@ Winfield,M,100
 Gustav,M,99
 Oral,M,99
 Alois,M,98
-Dana,M,98
 Isiah,M,98
 Regis,M,98
 Santo,M,98
 Alphonso,M,97
 Carol,M,97
+Dana,M,97
 Merritt,M,97
 Elmore,M,96
 Jonathan,M,96

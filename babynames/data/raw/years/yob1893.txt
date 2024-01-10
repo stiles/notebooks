@@ -1699,7 +1699,7 @@ Lee,M,445
 Frederick,M,432
 Francis,M,418
 Michael,M,407
-Jack,M,406
+Jack,M,405
 Lawrence,M,395
 Claude,M,394
 Eugene,M,392

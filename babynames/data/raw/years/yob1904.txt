@@ -47,7 +47,7 @@ Viola,F,1545
 Laura,F,1508
 Ella,F,1432
 Julia,F,1426
-Evelyn,F,1371
+Evelyn,F,1372
 Lillie,F,1364
 Mattie,F,1362
 Lucille,F,1351
@@ -2290,8 +2290,8 @@ Hubert,M,173
 Alex,M,169
 Isaac,M,167
 Charley,M,166
-Maurice,M,166
 Wesley,M,166
+Maurice,M,165
 Wallace,M,163
 Warren,M,163
 Otto,M,161
@@ -2327,7 +2327,7 @@ Mike,M,118
 Aaron,M,117
 Marshall,M,116
 Clifton,M,115
-Mark,M,114
+Mark,M,113
 Abraham,M,111
 Clinton,M,109
 Edmund,M,109

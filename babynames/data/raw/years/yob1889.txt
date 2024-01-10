@@ -1501,7 +1501,7 @@ Benjamin,M,760
 David,M,757
 Ernest,M,736
 Richard,M,711
-Joe,M,708
+Joe,M,709
 Willie,M,708
 Carl,M,704
 Earl,M,688
@@ -1511,7 +1511,7 @@ Jesse,M,576
 Oscar,M,572
 Andrew,M,561
 Elmer,M,557
-Paul,M,556
+Paul,M,555
 Daniel,M,515
 Raymond,M,511
 Howard,M,503

@@ -6,7 +6,7 @@ Ruth,F,21878
 Mildred,F,15254
 Anna,F,15119
 Elizabeth,F,14103
-Frances,F,12787
+Frances,F,12786
 Evelyn,F,11595
 Marie,F,11363
 Virginia,F,10952
@@ -357,7 +357,7 @@ Dessie,F,283
 Catharine,F,281
 Delia,F,280
 Eddie,F,280
-Lilly,F,280
+Lilly,F,279
 Oma,F,279
 Margery,F,275
 Lelia,F,272
@@ -1624,7 +1624,6 @@ Arabella,F,21
 Ardeth,F,21
 Arlyne,F,21
 Bee,F,21
-Brenda,F,21
 Candelaria,F,21
 Colette,F,21
 Coy,F,21
@@ -1684,6 +1683,7 @@ Averil,F,20
 Azalee,F,20
 Azzie,F,20
 Bernard,F,20
+Brenda,F,20
 Catheryn,F,20
 Classie,F,20
 Cledith,F,20
@@ -3522,7 +3522,6 @@ Doxie,F,7
 Draxie,F,7
 Drue,F,7
 Dudley,F,7
-Dulce,F,7
 Earma,F,7
 Edmee,F,7
 Eiko,F,7
@@ -3905,6 +3904,7 @@ Drucella,F,6
 Druzella,F,6
 Duane,F,6
 Dula,F,6
+Dulce,F,6
 Earlena,F,6
 Edda,F,6
 Eddis,F,6
@@ -5244,7 +5244,7 @@ Thurman,M,318
 Tommie,M,318
 Elton,M,317
 Harrison,M,313
-Solomon,M,313
+Solomon,M,312
 Monroe,M,310
 Earle,M,307
 Marcus,M,307
@@ -5621,10 +5621,10 @@ Connie,M,79
 Evert,M,79
 Felton,M,79
 Fredric,M,79
-Gary,M,79
 Carol,M,78
 Carter,M,78
 Fritz,M,78
+Gary,M,78
 Jason,M,78
 Alberto,M,77
 Clare,M,77

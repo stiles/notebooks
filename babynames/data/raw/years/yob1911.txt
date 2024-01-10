@@ -1818,7 +1818,6 @@ Conception,F,8
 Corena,F,8
 Cuba,F,8
 Dawn,F,8
-Debbie,F,8
 Dellar,F,8
 Dellie,F,8
 Delora,F,8
@@ -2013,6 +2012,7 @@ Dahlia,F,7
 Dallie,F,7
 Dasie,F,7
 Davie,F,7
+Debbie,F,7
 Dela,F,7
 Dellia,F,7
 Doloris,F,7
@@ -2868,7 +2868,7 @@ Zilphia,F,5
 Zina,F,5
 John,M,13446
 William,M,10593
-James,M,9951
+James,M,9952
 George,M,6586
 Robert,M,6526
 Joseph,M,6488
@@ -2908,7 +2908,7 @@ Alfred,M,1158
 Kenneth,M,1148
 Herbert,M,1125
 Andrew,M,1098
-Eugene,M,1058
+Eugene,M,1059
 Stanley,M,997
 Charlie,M,978
 Leonard,M,953
@@ -2957,7 +2957,7 @@ Gerald,M,462
 Alvin,M,460
 Johnnie,M,455
 Harvey,M,446
-Sidney,M,433
+Sidney,M,432
 Irving,M,431
 Alexander,M,426
 Homer,M,419

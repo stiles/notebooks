@@ -1,0 +1,40 @@
+player,pos,squad,age,born,mp,starts,min,gls,ast,g+a,season
+Teddy Sheringham,FW,Tottenham,26,1966,38,38,3420,21.0,0,0,1992-1993
+Andy Cole,FW,Newcastle Utd,21,1971,40,40,3596,34.0,13,47,1993-1994
+Alan Shearer,FW,Blackburn,23,1970,42,42,3770,34.0,13,47,1994-1995
+Alan Shearer,FW,Blackburn,24,1970,35,35,3150,31.0,7,38,1995-1996
+Alan Shearer,FW,Newcastle Utd,25,1970,31,31,2784,25.0,7,32,1996-1997
+Michael Owen,FW,Liverpool,17,1979,36,34,3003,18.0,10,28,1997-1998
+Chris Sutton,"DF,FW",Blackburn,24,1973,35,35,3099,18.0,6,24,1997-1998
+Dion Dublin,"DF,FW",Coventry City,28,1969,36,36,3191,18.0,10,28,1997-1998
+Dwight Yorke,"FW,MF",Manchester Utd,26,1971,32,32,2781,18.0,11,29,1998-1999
+Michael Owen,FW,Liverpool,18,1979,30,30,2518,18.0,5,23,1998-1999
+Jimmy Floyd Hasselbaink,FW,Leeds United,26,1972,36,36,3129,18.0,13,31,1998-1999
+Kevin Phillips,FW,Sunderland,26,1973,36,36,3198,30.0,4,34,1999-2000
+Jimmy Floyd Hasselbaink,FW,Chelsea,28,1972,35,35,2912,23.0,9,32,2000-2001
+Thierry Henry,FW,Arsenal,23,1977,33,31,2939,24.0,5,29,2001-2002
+Ruud van Nistelrooy,FW,Manchester Utd,26,1976,34,33,2907,25.0,4,29,2002-2003
+Thierry Henry,FW,Arsenal,25,1977,37,37,3330,30.0,6,36,2003-2004
+Thierry Henry,FW,Arsenal,26,1977,32,31,2844,25.0,14,39,2004-2005
+Thierry Henry,FW,Arsenal,27,1977,32,30,2672,27.0,8,35,2005-2006
+Didier Drogba,FW,Chelsea,28,1978,36,32,2944,20.0,4,24,2006-2007
+Cristiano Ronaldo,"FW,MF",Manchester Utd,22,1985,34,31,2747,31.0,6,37,2007-2008
+Nicolas Anelka,FW,Chelsea,29,1979,37,33,2913,19.0,2,21,2008-2009
+Didier Drogba,FW,Chelsea,31,1978,32,31,2770,29.0,10,39,2009-2010
+Dimitar Berbatov,FW,Manchester Utd,29,1981,32,24,2208,20.0,4,24,2010-2011
+Carlos Tevez,"FW,MF",Manchester City,26,1984,31,30,2511,20.0,6,26,2010-2011
+Robin van Persie,FW,Arsenal,27,1983,38,37,3331,30.0,9,39,2011-2012
+Robin van Persie,FW,Manchester Utd,28,1983,38,35,3123,26.0,9,35,2012-2013
+Luis Suárez,FW,Liverpool,26,1987,33,33,2962,31.0,12,43,2013-2014
+Sergio Agüero,FW,Manchester City,26,1988,33,30,2531,26.0,8,34,2014-2015
+Harry Kane,FW,Tottenham,22,1993,38,38,3361,25.0,1,26,2015-2016
+Harry Kane,FW,Tottenham,23,1993,30,29,2521,29.0,5,34,2016-2017
+Mohamed Salah,FW,Liverpool,25,1992,36,34,2907,32.0,10,42,2017-2018
+Sadio Mané,FW,Liverpool,26,1992,36,35,3077,22.0,1,23,2018-2019
+Mohamed Salah,FW,Liverpool,26,1992,38,37,3250,22.0,8,30,2018-2019
+Pierre-Emerick Aubameyang,FW,Arsenal,29,1989,36,30,2726,22.0,5,27,2018-2019
+Jamie Vardy,FW,Leicester City,32,1987,35,34,3033,23.0,5,28,2019-2020
+Harry Kane,FW,Tottenham,27,1993,35,35,3082,23.0,14,37,2020-2021
+Son Heung-min,"MF,FW",Tottenham,29,1992,35,35,3006,23.0,7,30,2021-2022
+Mohamed Salah,FW,Liverpool,29,1992,35,30,2762,23.0,13,36,2021-2022
+Erling Haaland,FW,Manchester City,22-214,2000,23,22,1861,26.0,4,30,2022-2023

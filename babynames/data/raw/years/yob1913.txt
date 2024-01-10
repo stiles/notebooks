@@ -56,7 +56,7 @@ Pearl,F,2756
 Mabel,F,2741
 Anne,F,2684
 Nellie,F,2645
-Lois,F,2561
+Lois,F,2560
 Jean,F,2545
 Jessie,F,2475
 Laura,F,2454
@@ -5499,7 +5499,6 @@ Thedore,M,11
 Theophil,M,11
 Thurmon,M,11
 Toby,M,11
-Todd,M,11
 Tolbert,M,11
 Valentin,M,11
 Vladimir,M,11
@@ -5638,6 +5637,7 @@ Squire,M,10
 Sylvanus,M,10
 Sylvio,M,10
 Terence,M,10
+Todd,M,10
 Truett,M,10
 Tyree,M,10
 Ulyses,M,10

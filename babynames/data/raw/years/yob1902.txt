@@ -120,7 +120,7 @@ Mable,F,478
 Goldie,F,473
 Estelle,F,472
 Addie,F,469
-Eula,F,466
+Eula,F,465
 Loretta,F,461
 Lela,F,459
 Caroline,F,452
@@ -399,8 +399,8 @@ Avis,F,61
 Carmela,F,61
 Dona,F,60
 Beryl,F,59
-Connie,F,59
 Pinkie,F,59
+Connie,F,58
 Evangeline,F,58
 Lyda,F,58
 Zola,F,58
@@ -2054,7 +2054,7 @@ Thomas,M,2134
 Walter,M,1858
 Harry,M,1750
 Willie,M,1565
-Arthur,M,1486
+Arthur,M,1487
 Albert,M,1375
 Clarence,M,1292
 Fred,M,1286

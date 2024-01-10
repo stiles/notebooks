@@ -163,7 +163,7 @@ Mollie,F,355
 Ola,F,341
 Nina,F,340
 Norma,F,332
-Susan,F,327
+Susan,F,326
 Nannie,F,323
 Geraldine,F,321
 Isabel,F,317
@@ -204,7 +204,7 @@ Regina,F,229
 Jewel,F,227
 Allie,F,225
 Virgie,F,224
-Muriel,F,221
+Muriel,F,220
 Cecilia,F,219
 Jeannette,F,216
 Veronica,F,216
@@ -2236,7 +2236,7 @@ Arthur,M,1486
 Albert,M,1469
 Harold,M,1330
 Clarence,M,1319
-Paul,M,1309
+Paul,M,1308
 Fred,M,1193
 Raymond,M,1133
 Louis,M,1101

@@ -29,7 +29,7 @@ Martha,F,1907
 Esther,F,1823
 Myrtle,F,1821
 Ida,F,1804
-Edith,F,1793
+Edith,F,1794
 Elsie,F,1706
 Irene,F,1703
 Dorothy,F,1687
@@ -76,7 +76,7 @@ Virginia,F,776
 Beulah,F,770
 Rosa,F,765
 Thelma,F,736
-Dora,F,717
+Dora,F,718
 Nora,F,709
 Ellen,F,708
 Sadie,F,705
@@ -385,8 +385,8 @@ Emilie,F,57
 Mona,F,57
 Polly,F,57
 Lyda,F,56
-Patricia,F,56
 Zora,F,56
+Patricia,F,55
 Aurelia,F,54
 Chloe,F,54
 Jannie,F,54
