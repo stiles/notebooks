@@ -1,0 +1,1010 @@
+id,location,street,city,state,zipcode,phone,latitude,longitude,url
+#1116,HWY 280 & Resource Center,111 Resource Center Pkwy,Birmingham,Alabama,35242,(205) 980-9315,33.42556610825026,-86.70537098100299,https://locations.whataburger.com/al/birmingham/111-resource-center-pkwy.html
+# 896,CR 10 & Trussville,5931 Trussville Crossings Pkwy,Birmingham,Alabama,35235,(205) 655-4513,33.64299371226227,-86.62593374226725,https://locations.whataburger.com/al/birmingham/5931-trussville-crossings-pkwy.html
+#1203,Memorial Pkwy & Hobbs Rd,11701 S Memorial Pkwy,Huntsville,Alabama,35803,(256) 203-8030,34.61727698895422,-86.56644790492192,https://locations.whataburger.com/al/huntsville/11701-s-memorial-pkwy.html
+#1249,Friendship Commons & Winchester Road NE,2056 Winchester Road Ne,Huntsville,Alabama,35811,(256) 217-4249,34.81514124971913,-86.49820895396728,https://locations.whataburger.com/al/huntsville/2056-winchester-road-ne.html
+#1236,,5900 University Dr Nw,Huntsville,Alabama,35806,(256) 417-6578,34.7421328552349,-86.66590093231503,https://locations.whataburger.com/al/huntsville/5900-university-dr-nw.html
+# 104,Government & Pinehill,2461 Government St,Mobile,Alabama,36606,(251) 478-1205,30.672154851539442,-88.09825173857902,https://locations.whataburger.com/al/mobile/2461-government-st.html
+# 792,Schillinger & Cottage Hill,2496 Schillinger Rd S,Mobile,Alabama,36695,(251) 639-9987,30.639234489566448,-88.22516290674591,https://locations.whataburger.com/al/mobile/2496-schillinger-rd-s.html
+# 1162,I-10 & Alabama 193,5151 Rangeline Service Rd N,Mobile,Alabama,36619,(251) 303-8833,30.597510918323337,-88.16067737453905,https://locations.whataburger.com/al/mobile/5151-rangeline-service-rd-n.html
+# 971,Airport & Snow,9968 Airport Blvd,Mobile,Alabama,36608,(251) 607-0702,30.67099963256821,-88.27814297668648,https://locations.whataburger.com/al/mobile/9968-airport-blvd.html
+#1418,University Blvd/Frank Thomas Ave.,1130 University Blvd,Tuscaloosa,Alabama,35401,(205) 409-9058,33.2108735290793,-87.55235398172044,https://locations.whataburger.com/al/tuscaloosa/1130-university-blvd.html
+# 1140,McFarland & 13th,1301 Mcfarland Blvd E,Tuscaloosa,Alabama,35404,(205) 759-2879,33.20055829429646,-87.52474323925209,https://locations.whataburger.com/al/tuscaloosa/1301-mcfarland-blvd-e.html
+# 1118,Skyland Blvd & US 11,820 Skyland Blvd,Tuscaloosa,Alabama,35405,(205) 349-4506,33.165845386870515,-87.54962339938832,https://locations.whataburger.com/al/tuscaloosa/820-skyland-blvd.html
+#1244,E. Queen Creek Rd & Gilbert Rd,3077 E Queen Creek Rd,Chandler,Arizona,85286,(480) 887-8230,33.26238,-111.788393,https://locations.whataburger.com/az/chandler/3077-e-queen-creek-rd.html
+# 587,Chandler & Southgate,7375 W Chandler Blvd,Chandler,Arizona,85226,(480) 940-3707,33.30483364953254,-111.96822454136911,https://locations.whataburger.com/az/chandler/7375-w-chandler-blvd.html
+#1227,Florence Blvd,1785 E Florence Blvd,Casa Grande,Arizona,85122,(520) 509-4207,32.879120094362904,-111.70989139311523,https://locations.whataburger.com/az/casa-grande/1785-e-florence-blvd.html
+# 236,Hwy 287 - Casa Grande,405 E Florence Blvd,Casa Grande,Arizona,85122,(520) 836-3326,32.87920686346012,-111.74830801165676,https://locations.whataburger.com/az/casa-grande/405-e-florence-blvd.html
+#1258,E Baseline Rd and S Stapley Dr,1140 E Baseline Rd,Mesa,Arizona,85204,(623) 738-3205,33.37932169582806,-111.80848,https://locations.whataburger.com/az/mesa/1140-e-baseline-rd.html
+Welcome to Whataburger,NA,1506 S Signal Butte Rd,Mesa,Arizona,85209,(623) 432-0282,33.3894045,-111.5983448,https://locations.whataburger.com/az/mesa/1506-s-signal-butte-rd.html
+# 421,Broadway & Dobson,1947 W Broadway Rd,Mesa,Arizona,85202,(480) 615-8378,33.40710604608964,-111.8734726239252,https://locations.whataburger.com/az/mesa/1947-w-broadway-rd.html
+#1291,Country Club & McKellips,1957 N Country Club Dr,Mesa,Arizona,85201,(480) 530-2839,33.4511101543472,-111.8392604109962,https://locations.whataburger.com/az/mesa/1957-n-country-club-dr.html
+# 765,Broadway & Lindsay,2747 E Broadway Rd,Mesa,Arizona,85204,(480) 835-7468,33.407723873565004,-111.7715613446134,https://locations.whataburger.com/az/mesa/2747-e-broadway-rd.html
+#1317,Power Rd & E Ray Rd,5427 S Power Rd,Mesa,Arizona,85212,(623) 432-0282,33.31734428481447,-111.6862823810796,https://locations.whataburger.com/az/mesa/5427-s-power-rd.html
+#1170,N Tatum Blvd & E Cactus Rd,12440 N Tatum Blvd,Phoenix,Arizona,85032,(480) 525-8106,33.600632243573244,-111.98015117695108,https://locations.whataburger.com/az/phoenix/12440-n-tatum-blvd.html
+# 535,19th & Durango,1840 S 19Th Ave,Phoenix,Arizona,85009,(602) 254-5154,33.429717157097045,-112.10033736345926,https://locations.whataburger.com/az/phoenix/1840-s-19th-ave.html
+# 585,75th & Encanto,2040 N 75Th Ave,Phoenix,Arizona,85035,(623) 873-2880,33.47066748931523,-112.22122114257456,https://locations.whataburger.com/az/phoenix/2040-n-75th-ave.html
+# 756,I17 & Bethany Home,2460 W Bethany Home Rd,Phoenix,Arizona,85015,(602) 347-8667,33.525227875966216,-112.11148305828382,https://locations.whataburger.com/az/phoenix/2460-w-bethany-home-rd.html
+#1219,Bell & 29th,2901 E Bell Rd,Phoenix,Arizona,85032,(602) 867-9039,33.640272053476295,-112.01964631663374,https://locations.whataburger.com/az/phoenix/2901-e-bell-rd.html
+#1222,I17 & Thunderbird,2910 W Thunderbird Rd,Phoenix,Arizona,85053,(602) 942-3989,33.611175605920025,-112.12092958857295,https://locations.whataburger.com/az/phoenix/2910-w-thunderbird-rd.html
+# 761,48th & Broadway,4610 S 48Th St,Phoenix,Arizona,85040,(602) 454-6453,33.40575322769589,-111.97882345767212,https://locations.whataburger.com/az/phoenix/4610-s-48th-st.html
+# 218,McDowell & N 7th,737 E Mcdowell Rd,Phoenix,Arizona,85006,(602) 252-2443,33.46547376245228,-112.0635581515379,https://locations.whataburger.com/az/phoenix/737-e-mcdowell-rd.html
+# 1172,E Thomas Rd & N Scottsdale Rd,7134 E Thomas Rd,Scottsdale,Arizona,85251,(623) 239-3416,33.4806428527093,-111.92807553037281,https://locations.whataburger.com/az/scottsdale/7134-e-thomas-rd.html
+# 721,90th & Mountain View,9990 N 90Th St,Scottsdale,Arizona,85258,(480) 767-9281,33.57709261245247,-111.88632490807589,https://locations.whataburger.com/az/scottsdale/9990-n-90th-st.html
+# 221,Rural & Spence,1346 S Rural Rd,Tempe,Arizona,85281,(480) 921-3501,33.41311915492385,-111.92668329897356,https://locations.whataburger.com/az/tempe/1346-s-rural-rd.html
+#1223,W Elliot Rd & S Harl Ave,1800 W Elliot Rd,Tempe,Arizona,85284,(480) 761-4785,33.349567096241756,-111.9664410530962,https://locations.whataburger.com/az/tempe/1800-w-elliot-rd.html
+# 552,St. Mary's & Melrose,1235 W Saint Marys Rd,Tucson,Arizona,85745,(520) 624-6044,32.22902165528731,-110.99198036441803,https://locations.whataburger.com/az/tucson/1235-w-saint-marys-rd.html
+# 774,West River & La Cañada,1430 W River Rd,Tucson,Arizona,85704,(520) 407-9236,32.297943795666015,-110.99688805426278,https://locations.whataburger.com/az/tucson/1430-w-river-rd.html
+# 598,Valencia & 12th,435 W Valencia Rd,Tucson,Arizona,85706,(520) 294-9540,32.133634792448255,-110.97632236441802,https://locations.whataburger.com/az/tucson/435-w-valencia-rd.html
+#1280,I-10 & E. Valencia,5050 E. Valencia Rd,Tucson,Arizona,85756,(520) 274-1938,32.133979,-110.884018,https://locations.whataburger.com/az/tucson/5050-e-valencia-rd.html
+# 414,Speedway & Woodland,5402 E Speedway Blvd,Tucson,Arizona,85712,(520) 327-2684,32.23584261263527,-110.87727636441802,https://locations.whataburger.com/az/tucson/5402-e-speedway-blvd.html
+# 230,E 22nd & Wilmot,6504 E 22Nd St,Tucson,Arizona,85710,(520) 747-5525,32.20604748233924,-110.85345241410351,https://locations.whataburger.com/az/tucson/6504-e-22nd-st.html
+#1189,E Tucson Marketplace Blvd & S Park Ave,921 E Tucson Marketplace Blvd,Tucson,Arizona,85713,(520) 282-4299,32.18748926153808,-110.95685284341245,https://locations.whataburger.com/az/tucson/921-e-tucson-marketplace-blvd.html
+# 1086,Hwy 62 & Sang,1956 W Martin Luther King Blvd,Fayetteville,Arkansas,72701,(479) 443-2217,36.056723106358355,-94.18795942304376,https://locations.whataburger.com/ar/fayetteville/1956-w-martin-luther-king-blvd.html
+# 1100,Hwy 71 & Joyce,4030 N College Ave,Fayetteville,Arkansas,72703,(479) 442-2226,36.12441745248599,-94.1439726635443,https://locations.whataburger.com/ar/fayetteville/4030-n-college-ave.html
+#1215,Interquest Pkwy & Federal Dr,1310 Interquest Pkwy,Colorado Springs,Colorado,80921,(719) 359-4891,38.99204067640044,-104.80305498587663,https://locations.whataburger.com/co/colorado-springs/1310-interquest-pkwy.html
+#1337,N/A,2550 Montebello,Colorado Springs,Colorado,80918,(719) 867-6284,38.907687,-104.7819764,https://locations.whataburger.com/co/colorado-springs/2550-montebello.html
+#1289,Garden of the Gods Rd & Buckingham Dr,4455 Buckingham Dr,Colorado Springs,Colorado,80907,(719) 867-6283,38.89603899999999,-104.847781,https://locations.whataburger.com/co/colorado-springs/4455-buckingham-dr.html
+#1214,Constitution,5905 Constitution Ave,Colorado Springs,Colorado,80915,(719) 694-1530,38.871157353034135,-104.71717454232788,https://locations.whataburger.com/co/colorado-springs/5905-constitution-ave.html
+#1213,Dublin Blvd,6140 Dublin Blvd,Colorado Springs,Colorado,80923,(719) 325-2032,38.9261047,-104.7135144,https://locations.whataburger.com/co/colorado-springs/6140-dublin-blvd.html
+#1358,Midcity,706 E Fillmore,Colorado Springs,Colorado,80907,(719) 867-6285,38.874436712726386,-104.81245707240467,https://locations.whataburger.com/co/colorado-springs/706-e-fillmore.html
+# 803,Eglin & Yacht Club,190 Eglin Pkwy Ne,Fort Walton Beach,Florida,32548,(850) 244-1951,30.424264717384723,-86.60955854445955,https://locations.whataburger.com/fl/fort-walton-beach/190-eglin-pkwy-ne.html
+# 55,Miracle Strip & Third Ave,23 Miracle Strip Pkwy Sw,Fort Walton Beach,Florida,32548,(850) 244-9167,30.404603110689028,-86.61657469916976,https://locations.whataburger.com/fl/fort-walton-beach/23-miracle-strip-pkwy-sw.html
+# 493,Mary Esther & Gap Creek,399 Mary Esther Cut Off Nw,Fort Walton Beach,Florida,32548,(850) 864-1970,30.427985270410083,-86.63969636353288,https://locations.whataburger.com/fl/fort-walton-beach/399-mary-esther-cut-off-nw.html
+#1277,W Beltway 295 & San Jose Blvd,10600 San Jose Blvd,Jacksonville,Florida,32257,(904) 337-6340,30.185211,-81.62911,https://locations.whataburger.com/fl/jacksonville/10600-san-jose-blvd.html
+#1198,Atlantic Blvd & Kernan Blvd N,11559 Atlantic Blvd,Jacksonville,Florida,32225,(904) 425-9755,30.322372055546925,-81.49822689264239,https://locations.whataburger.com/fl/jacksonville/11559-atlantic-blvd.html
+# 853,Philips Hwy & Bonneval,7165 Philips Hwy,Jacksonville,Florida,32256,(904) 281-7900,30.242600625501833,-81.59810368350676,https://locations.whataburger.com/fl/jacksonville/7165-philips-hwy.html
+# 886,FM 228 & Normandy Village Pkwy,7755 Normandy Blvd,Jacksonville,Florida,32221,(904) 693-0181,30.295888419391478,-81.77560591840268,https://locations.whataburger.com/fl/jacksonville/7755-normandy-blvd.html
+#1195,Old Middleburg Rd,8239 Old Middleburg Rd S,Jacksonville,Florida,32222,(904) 371-3347,30.1968539,-81.82314819999999,https://locations.whataburger.com/fl/jacksonville/8239-old-middleburg-rd-s.html
+#1357,N/A,8325 Southside Blvd,Jacksonville,Florida,32256,(904) 900-5330,30.217345,-81.550952,https://locations.whataburger.com/fl/jacksonville/8325-southside-blvd.html
+# 874,Hwy 90 & Southside Blvd,8840 Beach Blvd,Jacksonville,Florida,32216,(904) 642-7947,30.286358178618066,-81.56348358090692,https://locations.whataburger.com/fl/jacksonville/8840-beach-blvd.html
+# 763,Hwy 90 & Pace,4983 Highway 90,Milton,Florida,32571,(850) 995-2580,30.602859244262337,-87.11596194932112,https://locations.whataburger.com/fl/milton/4983-highway-90.html
+# 932,Stewart & Ravine,5346 Stewart St,Milton,Florida,32570,(850) 626-4350,30.62908944732424,-87.04253448404407,https://locations.whataburger.com/fl/milton/5346-stewart-st.html
+# 25,Warrington Rd & Mobile Hwy,1313 N New Warrington Rd,Pensacola,Florida,32506,(850) 453-3141,30.427354941065154,-87.27087536441803,https://locations.whataburger.com/fl/pensacola/1313-n-new-warrington-rd.html
+# 941,Fairfield & Pace,1790 W Fairfield Dr,Pensacola,Florida,32501,(850) 444-9161,30.44556565728807,-87.23869730613424,https://locations.whataburger.com/fl/pensacola/1790-w-fairfield-dr.html
+# 505,Nine Mile & Chemstrand,214 E Nine Mile Rd,Pensacola,Florida,32534,(850) 484-2776,30.533437354626667,-87.26484675662056,https://locations.whataburger.com/fl/pensacola/214-e-nine-mile-rd.html
+# 42,Gregory & 10th,417 E Gregory St,Pensacola,Florida,32502,(850) 438-4636,30.417145458833687,-87.20461338311269,https://locations.whataburger.com/fl/pensacola/417-e-gregory-st.html
+# 169,N 9th & Bayou Blvd,5070 N 9Th Ave,Pensacola,Florida,32504,(850) 478-0563,30.47241297379069,-87.2122585073576,https://locations.whataburger.com/fl/pensacola/5070-n-9th-ave.html
+# 21,Pensacola & Boone,5480 Pensacola Blvd,Pensacola,Florida,32505,(850) 477-4298,30.47103110303559,-87.24469323619365,https://locations.whataburger.com/fl/pensacola/5480-pensacola-blvd.html
+# 854,Hwy 90 & Mikes,6129 Mobile Hwy,Pensacola,Florida,32526,(850) 944-7948,30.46363820169271,-87.3027036398985,https://locations.whataburger.com/fl/pensacola/6129-mobile-hwy.html
+# 168,Burgess & Davis Hwy,815 E Burgess Rd,Pensacola,Florida,32504,(850) 480-5265,30.493739538268283,-87.22238627976226,https://locations.whataburger.com/fl/pensacola/815-e-burgess-rd.html
+# 72,Thomasville & E 5th,1101 Thomasville Rd,Tallahassee,Florida,32303,(850) 681-9202,30.4544147877573,-84.27786758799616,https://locations.whataburger.com/fl/tallahassee/1101-thomasville-rd.html
+# 912,Tennessee & Whitehal,1701 W Tennessee St,Tallahassee,Florida,32304,(850) 222-4484,30.44871647781613,-84.3089514081184,https://locations.whataburger.com/fl/tallahassee/1701-w-tennessee-st.html
+# 574,Hwy 27 & Hendrix,2511 Apalachee Pkwy,Tallahassee,Florida,32301,(850) 942-7886,30.427326995297875,-84.2383735858965,https://locations.whataburger.com/fl/tallahassee/2511-apalachee-pkwy.html
+# 165,Monroe & Sharer,2586 N Monroe St,Tallahassee,Florida,32303,(850) 386-6191,30.47609046923336,-84.29768663953156,https://locations.whataburger.com/fl/tallahassee/2586-n-monroe-st.html
+# 164,Lake Bradford & Crate St.,815 Lake Bradford Rd,Tallahassee,Florida,32304,(850) 575-8602,30.432800927458768,-84.30182942944774,https://locations.whataburger.com/fl/tallahassee/815-lake-bradford-rd.html
+#1320,George Busbee Pkwy NW & Chastain Rd,705 Townpark Ln Nw,Kennesaw,Georgia,30144,(678) 810-1068,34.036294,-84.571392,https://locations.whataburger.com/ga/kennesaw/705-townpark-ln-nw.html
+#1486,Barrett Pkwy,840 Ernest W Barrett Pkwy Nw,Kennesaw,Georgia,30144,(678) 273-3327,34.0055,-84.5762,https://locations.whataburger.com/ga/kennesaw/840-ernest-w-barrett-pkwy-nw.html
+#1294,Galleria,11300 Nall Avenue,Overland Park,Kansas,66211,(913) 800-8335,38.92287071568457,-94.64941975064849,https://locations.whataburger.com/ks/overland-park/11300-nall-avenue.html
+#1247,BluHawk,7791 West 159Th Street,Overland Park,Kansas,66223,(913) 701-3551,38.8391719,-94.67910169999999,https://locations.whataburger.com/ks/overland-park/7791-west-159th-street.html
+#1210,W 135th St & Antioch Rd,8420 W 135Th St,Overland Park,Kansas,66223,(816) 298-8415,38.88426,-94.683612,https://locations.whataburger.com/ks/overland-park/8420-w-135th-st.html
+#1282,W 95th & Metcalf Ave,9505 Metcalf Ave,Overland Park,Kansas,66212,(913) 439-4343,38.95637636517441,-94.66717421282806,https://locations.whataburger.com/ks/overland-park/9505-metcalf-ave.html
+#1233,S. MacArthur,3601 South Macarthur Dr.,Alexandria,Louisiana,71301,(318) 290-3876,31.263665399828245,-92.45067302156527,https://locations.whataburger.com/la/alexandria/3601-south-macarthur-dr.html
+#1188,Leesville Hwy & Cloverleaf Blvd,6240 Coliseum Blvd,Alexandria,Louisiana,71303,(318) 542-7209,31.296236480637702,-92.51394566808816,https://locations.whataburger.com/la/alexandria/6240-coliseum-blvd.html
+#1205,Creek Center Dr.,5851 Creek Centre Dr,Baton Rouge,Louisiana,70820,(225) 341-5082,30.389353079950983,-91.15982540429917,https://locations.whataburger.com/la/baton-rouge/5851-creek-centre-dr.html
+# 817,Siegen & Honore,6745 Siegen Ln,Baton Rouge,Louisiana,70809,(225) 291-1279,30.387732117605974,-91.0621317171793,https://locations.whataburger.com/la/baton-rouge/6745-siegen-ln.html
+# 516,Benton Spur & Old Minden,112 Benton Spur,Bossier City,Louisiana,71111,(318) 742-0998,32.518381594421626,-93.71500779262152,https://locations.whataburger.com/la/bossier-city/112-benton-spur.html
+# 1098,Airline & George Dement,2620 Airline Dr,Bossier City,Louisiana,71111,(318) 746-0559,32.550979772028164,-93.70910956468263,https://locations.whataburger.com/la/bossier-city/2620-airline-dr.html
+# 791,I10 & FM182,1725 N University Ave,Lafayette,Louisiana,70507,(337) 231-0046,30.253203845692386,-92.03791070858097,https://locations.whataburger.com/la/lafayette/1725-n-university-ave.html
+# 1021,Pinhook & Kaliste Saloom,1845 W Pinhook Rd,Lafayette,Louisiana,70508,(337) 265-5046,30.189675074379554,-92.01439701165675,https://locations.whataburger.com/la/lafayette/1845-w-pinhook-rd.html
+# 645,Ambassador & Westmark,3226 Ambassador Caffery Pkwy,Lafayette,Louisiana,70506,(337) 989-2265,30.183797203632373,-92.07551797668648,https://locations.whataburger.com/la/lafayette/3226-ambassador-caffery-pkwy.html
+#1234,Natchitoches (I49),5123 University Pkwy,Natchitoches,Louisiana,71457,(318) 581-4591,31.728426890692987,-93.15420211955643,https://locations.whataburger.com/la/natchitoches/5123-university-pkwy.html
+#1178,Natchitoches,902 Keyser Ave,Natchitoches,Louisiana,71457,(318) 581-4063,31.7531665,-93.0665389,https://locations.whataburger.com/la/natchitoches/902-keyser-ave.html
+# 507,Youree & Bert Kouns,1650 E Bert Koun Loop,Shreveport,Louisiana,71105,(318) 797-7850,32.43145662094226,-93.71380305398463,https://locations.whataburger.com/la/shreveport/1650-e-bert-koun-loop.html
+# 506,Hwy 171 & Bert Kouns,2544 Bert Kouns Industrial Loop,Shreveport,Louisiana,71118,(318) 688-3794,32.40248642788356,-93.80071866195392,https://locations.whataburger.com/la/shreveport/2544-bert-kouns-industrial-loop.html
+# 497,Market & Loop 220,2900 N Market St,Shreveport,Louisiana,71107,(318) 221-8259,32.55709381496545,-93.78230204662704,https://locations.whataburger.com/la/shreveport/2900-n-market-st.html
+# 489,Jewella & Hwy 80,4010 Jewella Ave,Shreveport,Louisiana,71109,(318) 635-3897,32.4740912662576,-93.79760228478062,https://locations.whataburger.com/la/shreveport/4010-jewella-ave.html
+# 1076,Kings Hwy & Clark,521 E Kings Hwy,Shreveport,Louisiana,71105,(318) 865-5254,32.481119878786174,-93.72374437607479,https://locations.whataburger.com/la/shreveport/521-e-kings-hwy.html
+# 760,I20 & Pines,6707 Pines Rd,Shreveport,Louisiana,71129,(318) 683-0985,32.44723128566036,-93.86330908611183,https://locations.whataburger.com/la/shreveport/6707-pines-rd.html
+#1269,Goodman Rd & Airways Blvd,176 Goodman Rd E,Southaven,Mississippi,38671,(662) 655-0210,34.963287,-89.987657,https://locations.whataburger.com/ms/southaven/176-goodman-rd-e.html
+#1274,Getwell Rd,6829 Getwell Rd N,Southaven,Mississippi,38672,(662) 655-0003,34.96006985937484,-89.9370760049629,https://locations.whataburger.com/ms/southaven/6829-getwell-rd-n.html
+#1248,Metro North,600 Nw Barry Road,Kansas City,Missouri,64155,(816) 326-2879,39.24689797176126,-94.58707063741761,https://locations.whataburger.com/mo/kansas-city/600-nw-barry-road.html
+Welcome to Whataburger,Liberty,8607 Ne 85Th St,Kansas City,Missouri,64157,(816) 479-4583,39.245551,-94.4756,https://locations.whataburger.com/mo/kansas-city/8607-ne-85th-st.html
+#1341,Tiffany Springs,8851 N Ambassador Drive,Kansas City,Missouri,64154,(816) 298-0043,39.258421864381475,-94.64822008369966,https://locations.whataburger.com/mo/kansas-city/8851-n-ambassador-drive.html
+#1279,U.S. Route 66 & Glenstone Avenue,2337 N Glenstone Ave,Springfield,Missouri,65803,(417) 590-8552,37.23903653535438,-93.26154088242103,https://locations.whataburger.com/mo/springfield/2337-n-glenstone-ave.html
+#1254,W Sunshine and McCurry,3880 W Sunshine,Springfield,Missouri,65807,(417) 429-0601,37.1816662,-93.3582903,https://locations.whataburger.com/mo/springfield/3880-w-sunshine.html
+#1293,Eastgate,401 N Eastgate Ave,Springfield,Missouri,65802,(417) 459-4366,37.209968,-93.22375,https://locations.whataburger.com/mo/springfield/401-n-eastgate-ave.html
+#1265,98th and Hwy 40,200 98Th St Nw,Albuquerque,New Mexico,87121,(505) 431-0794,35.07662654313019,-106.74299551291485,https://locations.whataburger.com/nm/albuquerque/200-98th-st-nw.html
+# 247,Menaul Blvd & 2nd St NW,200 Menaul Blvd Nw,Albuquerque,New Mexico,87107,(505) 242-3876,35.110270485430334,-106.64460715153791,https://locations.whataburger.com/nm/albuquerque/200-menaul-blvd-nw.html
+# 245,Carlisle & Claremont,2808 Carlisle Blvd Ne,Albuquerque,New Mexico,87110,(505) 888-3868,35.113156425700595,-106.60386609556546,https://locations.whataburger.com/nm/albuquerque/2808-carlisle-blvd-ne.html
+# 714,Alameda & Ellison,3531 State Highway 528 Nw,Albuquerque,New Mexico,87114,(505) 890-0936,35.20629044218599,-106.65042844601534,https://locations.whataburger.com/nm/albuquerque/3531-state-highway-528-nw.html
+# 1126,Las Estancias & Lamonica,3711 Las Estancias Ct Sw,Albuquerque,New Mexico,87121,(505) 873-0080,35.023201474085255,-106.71388445153791,https://locations.whataburger.com/nm/albuquerque/3711-las-estancias-ct-sw.html
+# 697,Osuna & Jefferson,4201 Osuna Rd Ne,Albuquerque,New Mexico,87109,(505) 344-4212,35.15682594244157,-106.59499883651728,https://locations.whataburger.com/nm/albuquerque/4201-osuna-rd-ne.html
+# 842,Candelaria & Eubank,9500 Candelaria Rd Ne,Albuquerque,New Mexico,87112,(505) 332-8263,35.115857377675304,-106.53535467386155,https://locations.whataburger.com/nm/albuquerque/9500-candelaria-rd-ne.html
+# 465,I-10 & University,190 E University Ave,Las Cruces,New Mexico,88005,(575) 525-0110,32.28188181742518,-106.76869747150424,https://locations.whataburger.com/nm/las-cruces/190-e-university-ave.html
+# 581,Main & Solano,2460 N Main St,Las Cruces,New Mexico,88001,(575) 525-2100,32.33087513522772,-106.78251764723873,https://locations.whataburger.com/nm/las-cruces/2460-n-main-st.html
+# 785,I25 & Lohman,375 S Telshor Blvd,Las Cruces,New Mexico,88011,(575) 521-3222,32.317499977703534,-106.74757355299246,https://locations.whataburger.com/nm/las-cruces/375-s-telshor-blvd.html
+#1325,Unser Blvd & Wellspring Ave,2151 Unser Blvd Se,Rio Rancho,New Mexico,87124,(505) 349-4668,35.22231860186982,-106.69677096931153,https://locations.whataburger.com/nm/rio-rancho/2151-unser-blvd-se.html
+# 1095,Hwy 528 & Hwy 550,4196 Highway 528 Ne,Rio Rancho,New Mexico,87144,(505) 771-4904,35.32870114586858,-106.57132481922307,https://locations.whataburger.com/nm/rio-rancho/4196-highway-528-ne.html
+# 1080,I35 & E 15th St,1101 W I 35 Frontage Rd,Edmond,Oklahoma,73034,(405) 359-1147,35.642525981385596,-97.42613767055224,https://locations.whataburger.com/ok/edmond/1101-w-i-35-frontage-rd.html
+# 152,Broadway & 5th,421 S Broadway,Edmond,Oklahoma,73034,(405) 348-2871,35.65050491197676,-97.48230506267221,https://locations.whataburger.com/ok/edmond/421-s-broadway.html
+# 440,Cache & 22nd,2201 Nw Cache Rd,Lawton,Oklahoma,73505,(580) 357-1608,34.623689643509714,-98.42386564246117,https://locations.whataburger.com/ok/lawton/2201-nw-cache-rd.html
+# 473,Cache & 67th,6702 Nw Cache Rd,Lawton,Oklahoma,73505,(580) 536-5722,34.62306186937422,-98.47508551608769,https://locations.whataburger.com/ok/lawton/6702-nw-cache-rd.html
+# 124,59th & McKinley,1124 Sw 59Th St,Oklahoma City,Oklahoma,73109,(405) 632-4484,35.40592656148643,-97.53609308159733,https://locations.whataburger.com/ok/oklahoma-city/1124-sw-59th-st.html
+# 1087,Pennsylvania & Memorial,13229 N Pennsylvania Ave,Oklahoma City,Oklahoma,73120,(405) 752-4634,35.60452144626568,-97.55015608159732,https://locations.whataburger.com/ok/oklahoma-city/13229-n-pennsylvania-ave.html
+# 821,Meridian & Will Rogers Pkwy,1325 S Meridian Ave,Oklahoma City,Oklahoma,73108,(405) 949-2437,35.45218161736282,-97.60161952761268,https://locations.whataburger.com/ok/oklahoma-city/1325-s-meridian-ave.html
+# 1094,MacArthur & 135th,13500 N Macarthur Blvd,Oklahoma City,Oklahoma,73142,(405) 721-0750,35.60736373712113,-97.62026121712137,https://locations.whataburger.com/ok/oklahoma-city/13500-n-macarthur-blvd.html
+# 1073,Council & Reno,208 S Council Rd,Oklahoma City,Oklahoma,73128,(405) 787-1159,35.463343907687985,-97.65356606688214,https://locations.whataburger.com/ok/oklahoma-city/208-s-council-rd.html
+# 79,May & Northwest Expy,5315 N May Ave,Oklahoma City,Oklahoma,73112,(405) 917-5086,35.52448219356186,-97.56634560921002,https://locations.whataburger.com/ok/oklahoma-city/5315-n-may-ave.html
+# 102,NW 36th & MacArthur,5832 Nw 36Th St,Oklahoma City,Oklahoma,73122,(405) 947-6131,35.50742563905468,-97.61791352967892,https://locations.whataburger.com/ok/oklahoma-city/5832-nw-36th-st.html
+# 573,MacArthur & Wilshire,7820 N Macarthur Blvd,Oklahoma City,Oklahoma,73132,(405) 728-9665,35.55083590887741,-97.61865132944774,https://locations.whataburger.com/ok/oklahoma-city/7820-n-macarthur-blvd.html
+#1190,Hwy 169 & E 71st St,10028 E 71St St,Tulsa,Oklahoma,74133,(918) 615-4666,36.060308811015815,-95.86458258096829,https://locations.whataburger.com/ok/tulsa/10028-e-71st-st.html
+# 1027,Memorial & 102nd,10121 S Memorial Dr,Tulsa,Oklahoma,74133,(918) 364-4844,36.015668847608,-95.88573328282068,https://locations.whataburger.com/ok/tulsa/10121-s-memorial-dr.html
+# 426,31st & 108th,10675 E 31St St,Tulsa,Oklahoma,74146,(918) 622-0935,36.11935111377605,-95.85688089409696,https://locations.whataburger.com/ok/tulsa/10675-e-31st-st.html
+# 1042,21st & Yale,4888 E 21St St,Tulsa,Oklahoma,74114,(918) 747-7023,36.13297155880051,-95.92307053886998,https://locations.whataburger.com/ok/tulsa/4888-e-21st-st.html
+#1151,,5726 E 41St St,Tulsa,Oklahoma,74135,(918) 828-4613,36.10392378814131,-95.91236593424351,https://locations.whataburger.com/ok/tulsa/5726-e-41st-st.html
+# 998,Hwy 75 & 81st,7760 S Olympia Ave W,Tulsa,Oklahoma,74132,(918) 445-7143,36.0517435233922,-96.00560009479523,https://locations.whataburger.com/ok/tulsa/7760-s-olympia-ave-w.html
+Welcome to Whataburger,,1602 Haynes St,Clarksville,Tennessee,37043,(931) 538-3003,36.514518,-87.315773,https://locations.whataburger.com/tn/clarksville/1602-haynes-st.html
+#1361,Sango Square,599 Fire Station Rd,Clarksville,Tennessee,37043,(931) 538-3003,36.520370306673364,-87.23466959707334,https://locations.whataburger.com/tn/clarksville/599-fire-station-rd.html
+#1285,Riverside,791 N 2Nd St,Clarksville,Tennessee,37040,(931) 542-4917,36.54068767454808,-87.36488783559639,https://locations.whataburger.com/tn/clarksville/791-n-2nd-st.html
+#1315,Hwy 109 & Hickory Ridge Rd.,439 Highway 109 North,Lebanon,Tennessee,37090,(615) 547-2692,36.192692965480475,-86.41027875106505,https://locations.whataburger.com/tn/lebanon/439-highway-109-north.html
+#1288,S Cumberland,630 S Cumberland St,Lebanon,Tennessee,37087,(615) 257-1736,36.19135788919387,-86.29542707361068,https://locations.whataburger.com/tn/lebanon/630-s-cumberland-st.html
+#1300,Wolfchase Plaza,2859 N Germantown Pkwy,Memphis,Tennessee,38133,(901) 334-9056,35.2035195,-89.7927612,https://locations.whataburger.com/tn/memphis/2859-n-germantown-pkwy.html
+#1283,Bill Morris Pkwy and Winchester Rd,7755 Winchester Rd,Memphis,Tennessee,38125,(901) 881-4506,35.048866,-89.805121,https://locations.whataburger.com/tn/memphis/7755-winchester-rd.html
+# 524,Southwest & Hwy 83,3141 S Danville Dr,Abilene,Texas,79605,(325) 691-1695,32.41322739649826,-99.77363026810549,https://locations.whataburger.com/tx/abilene/3141-s-danville-dr.html
+# 344,S 1st & Pioneer,4241 S 1St St,Abilene,Texas,79605,(325) 695-6336,32.451369982915246,-99.77845789245094,https://locations.whataburger.com/tx/abilene/4241-s-1st-st.html
+# 523,Hwy 80 & Gann,893 Us Highway 80 E,Abilene,Texas,79601,(325) 676-0836,32.447993146336735,-99.7083621710253,https://locations.whataburger.com/tx/abilene/893-us-highway-80-e.html
+# 307,Georgia & Virginia,2424 S Georgia St,Amarillo,Texas,79109,(806) 359-5472,35.18776765246792,-101.86665767265191,https://locations.whataburger.com/tx/amarillo/2424-s-georgia-st.html
+# 371,34th & Coulter,3401 S Coulter St,Amarillo,Texas,79109,(806) 358-8573,35.176088,-101.9197863,https://locations.whataburger.com/tx/amarillo/3401-s-coulter-st.html
+# 902,I40 & Grand,3620 E Interstate 40,Amarillo,Texas,79103,(806) 378-9652,35.19214958253335,-101.79377009064629,https://locations.whataburger.com/tx/amarillo/3620-e-interstate-40.html
+# 114,SW 45th & Western,4111 Sw 45Th Ave,Amarillo,Texas,79109,(806) 355-9244,35.16335034919507,-101.88237666195393,https://locations.whataburger.com/tx/amarillo/4111-sw-45th-ave.html
+# 758,I27 & Hollywood,6120 Hollywood Rd,Amarillo,Texas,79118,(806) 468-9799,35.11728798135881,-101.90399296962369,https://locations.whataburger.com/tx/amarillo/6120-hollywood-rd.html
+# 427,Pierce & Rte 66,734 N Pierce St,Amarillo,Texas,79107,(806) 376-7726,35.22080551020794,-101.83016629155078,https://locations.whataburger.com/tx/amarillo/734-n-pierce-st.html
+# 549,Hwy 360 & Abram,211 S Watson Rd,Arlington,Texas,76010,(817) 649-1717,32.734740990898615,-97.06136297668648,https://locations.whataburger.com/tx/arlington/211-s-watson-rd.html
+# 338,Collins & Washington,2214 N Collins St,Arlington,Texas,76011,(817) 548-1976,32.76989900000001,-97.09762321288012,https://locations.whataburger.com/tx/arlington/2214-n-collins-st.html
+# 397,Hwy 360 & Mayfield,3360 S Watson Rd,Arlington,Texas,76014,(817) 468-2866,32.692424761068615,-97.06387835888617,https://locations.whataburger.com/tx/arlington/3360-s-watson-rd.html
+# 563,Cooper & High Point,3519 S Cooper St,Arlington,Texas,76015,(817) 468-3298,32.68774384563413,-97.12999910504261,https://locations.whataburger.com/tx/arlington/3519-s-cooper-st.html
+# 825,I20 & Collins,4120 S Collins St,Arlington,Texas,76014,(817) 468-4241,32.680149733207344,-97.0940776413691,https://locations.whataburger.com/tx/arlington/4120-s-collins-st.html
+# 545,Little & Poly Webb,4408 Little Rd,Arlington,Texas,76016,(817) 561-5381,32.67590206712373,-97.1987487171793,https://locations.whataburger.com/tx/arlington/4408-little-rd.html
+#1193,Hwy 287 & Sublett Rd,5321 West Sublett Rd,Arlington,Texas,76017,(682) 587-2710,32.646617628634765,-97.1894794036701,https://locations.whataburger.com/tx/arlington/5321-west-sublett-rd.html
+# 448,Cooper & Walnut Branch,5869 S Cooper St,Arlington,Texas,76017,(817) 472-5010,32.65131239336337,-97.13444695337296,https://locations.whataburger.com/tx/arlington/5869-s-cooper-st.html
+# 481,I35 & Braker,11135 N Interstate 35,Austin,Texas,78753,(512) 339-1651,30.375443156975454,-97.67615821556939,https://locations.whataburger.com/tx/austin/11135-n-interstate-35.html
+# 709,Lake Creek Pkwy & FM 620,13235 Ranch Road 620 N Ste M,Austin,Texas,78717,(512) 249-5202,30.469537751077546,-97.79062684846211,https://locations.whataburger.com/tx/austin/13235-ranch-road-620-n-ste-m.html
+# 736,I35 & Wells Branch,14310 N Interstate 35 Ste A,Austin,Texas,78728,(512) 251-0528,30.433201608291416,-97.67084523871038,https://locations.whataburger.com/tx/austin/14310-n-interstate-35-ste-a.html
+#1149,E Oltorf St & N I35,1700 E Oltorf St,Austin,Texas,78741,(512) 377-1640,30.233518902258144,-97.73898125023611,https://locations.whataburger.com/tx/austin/1700-e-oltorf-st.html
+#1191,E Parmer Ln & Dessau Rd,1719 E Parmer Ln,Austin,Texas,78754,(512) 377-1308,30.385816585726133,-97.64773153249183,https://locations.whataburger.com/tx/austin/1719-e-parmer-ln.html
+# 614,Ben White & Manchaca,1908 W Ben White Blvd,Austin,Texas,78704,(512) 707-0941,30.23035455539299,-97.78715197668647,https://locations.whataburger.com/tx/austin/1908-w-ben-white-blvd.html
+# 992,Guadalupe & 28th,2800 Guadalupe St,Austin,Texas,78705,(512) 480-5993,30.293457507026552,-97.74217183635496,https://locations.whataburger.com/tx/austin/2800-guadalupe-st.html
+# 347,Anderson & Mopac,2801 W Anderson Ln,Austin,Texas,78757,(512) 458-4451,30.35867127068875,-97.73706001165677,https://locations.whataburger.com/tx/austin/2801-w-anderson-ln.html
+#1181,Spirit of Texas Dr & Presidential Blvd,2901 Spirit Of Texas Dr #100,Austin,Texas,78719,(737) 228-1311,30.210701805042895,-97.66727986499501,https://locations.whataburger.com/tx/austin/2901-spirit-of-texas-dr-100.html
+#1316,Bee Cave,3201 Bee Caves Rd #180,Austin,Texas,78746,(737) 320-2668,30.27324953337889,-97.8005944886751,https://locations.whataburger.com/tx/austin/3201-bee-caves-rd-180.html
+# 162,MLK & Airport,3210 E Martin Luther King Jr Blvd,Austin,Texas,78721,(512) 474-5970,30.28309741896847,-97.70295539938832,https://locations.whataburger.com/tx/austin/3210-e-martin-luther-king-jr-blvd.html
+# 809,Slaughter & Brodie,3400 W Slaughter Ln,Austin,Texas,78748,(512) 292-4161,30.182957784170178,-97.84743897375981,https://locations.whataburger.com/tx/austin/3400-w-slaughter-ln.html
+# 346,Barton Springs & S 1st,601 Barton Springs Rd,Austin,Texas,78704,(512) 477-9586,30.25804566690047,-97.75069678884255,https://locations.whataburger.com/tx/austin/601-barton-springs-rd.html
+# 84,Cameron & Hwy 290,6106 Cameron Rd,Austin,Texas,78723,(512) 452-0634,30.31923487188204,-97.69819712822436,https://locations.whataburger.com/tx/austin/6106-cameron-rd.html
+# 576,Lamar & Denson,6205 N Lamar Blvd,Austin,Texas,78752,(512) 453-6963,30.330416144275034,-97.72297554232789,https://locations.whataburger.com/tx/austin/6205-n-lamar-blvd.html
+# 907,Parmer & McNeil,6301 W Parmer Ln Bldg 3,Austin,Texas,78729,(512) 996-8766,30.445248611528378,-97.74392553497027,https://locations.whataburger.com/tx/austin/6301-w-parmer-ln-bldg-3.html
+# 910,Mopac & William Cannon,6611 S Mo Pac Expy Ste B,Austin,Texas,78749,(512) 892-2341,30.22025088143933,-97.83524362944775,https://locations.whataburger.com/tx/austin/6611-s-mo-pac-expy-ste-b.html
+# 321,William Cannon & I35,801 E William Cannon Dr Ste 300,Austin,Texas,78745,(512) 443-2882,30.190563281737877,-97.77184580244443,https://locations.whataburger.com/tx/austin/801-e-william-cannon-dr-ste-300.html
+# 1022,FM 620 & Concordia,8300 N Fm 620 Bldg J,Austin,Texas,78726,(512) 249-9664,30.41819456381894,-97.84772008216808,https://locations.whataburger.com/tx/austin/8300-n-fm-620-bldg-j.html
+# 884,I35 & Slaughter,9300 S Interstate 35 Bldg H,Austin,Texas,78748,(512) 292-9357,30.163631652339845,-97.7905848969791,https://locations.whataburger.com/tx/austin/9300-s-interstate-35-bldg-h.html
+# 132,Lamar & Rutland,9516 N Lamar Blvd,Austin,Texas,78753,(512) 836-8348,30.36529190106893,-97.69623661130969,https://locations.whataburger.com/tx/austin/9516-n-lamar-blvd.html
+# 5,E. Main St. & Hwy. 44,1242 E Main St.,Alice,Texas,78332,(361) 664-3663,27.75383784869889,-98.05968451155238,https://locations.whataburger.com/tx/alice/1242-e-main-st.html
+# 851,Hwy 281 & Hwy 44,141 S U.S. Hwy 281,Alice,Texas,78332,(361) 396-0212,27.74781169512598,-98.11186575765477,https://locations.whataburger.com/tx/alice/141-s-us-hwy-281.html
+# 377,Decker & Garth,1900 Decker Dr,Baytown,Texas,77520,(281) 428-7257,29.741119089362652,-94.98118818245754,https://locations.whataburger.com/tx/baytown/1900-decker-dr.html
+# 1139,I10E & Garth,4975 East Fwy,Baytown,Texas,77521,(281) 421-0371,29.805270094635983,-94.98366766956595,https://locations.whataburger.com/tx/baytown/4975-east-fwy.html
+# 1072,FM 146 &I10,8730 N Highway 146,Baytown,Texas,77523,(281) 573-9363,29.817820577378058,-94.89939528387127,https://locations.whataburger.com/tx/baytown/8730-n-highway-146.html
+# 801,Central & Lakeside,1400 Central Blvd,Brownsville,Texas,78520,(956) 542-8044,25.924366845125466,-97.51099862293302,https://locations.whataburger.com/tx/brownsville/1400-central-blvd.html
+# 500,International & Hwy 77,2021 International Blvd,Brownsville,Texas,78521,(956) 542-0963,25.906037555625495,-97.48328239938832,https://locations.whataburger.com/tx/brownsville/2021-international-blvd.html
+# 1083,Ruben Torres & Paredes Line,2103 Ruben Torres Blvd,Brownsville,Texas,78526,(956) 982-4352,25.9514895756705,-97.48443279204744,https://locations.whataburger.com/tx/brownsville/2103-ruben-torres-blvd.html
+# 280,Hwy 77 & Ruben M Torres,2290 N Expressway,Brownsville,Texas,78521,(956) 546-2572,25.948871111287204,-97.50417415363755,https://locations.whataburger.com/tx/brownsville/2290-n-expressway.html
+# 283,Boca Chica & North,2419 Boca Chica Blvd,Brownsville,Texas,78521,(956) 546-2361,25.92232620149842,-97.48429797263464,https://locations.whataburger.com/tx/brownsville/2419-boca-chica-blvd.html
+# 777,Hwy 86 & Alton Gloor,3580 W Alton Gloor Blvd,Brownsville,Texas,78520,(956) 350-8863,25.977685000000022,-97.51911369386578,https://locations.whataburger.com/tx/brownsville/3580-w-alton-gloor-blvd.html
+# 740,FM 802 & Hwy 48,6100 Fm 802,Brownsville,Texas,78526,(956) 831-0761,25.942702192122027,-97.42736130952835,https://locations.whataburger.com/tx/brownsville/6100-fm-802.html
+# 956,Texas & Villa Maria,3109 S Texas Ave,Bryan,Texas,77802,(979) 823-0861,30.64248561545426,-96.35123052392521,https://locations.whataburger.com/tx/bryan/3109-s-texas-ave.html
+# 43,Texas & 33rd,902 S Texas Ave,Bryan,Texas,77803,(979) 822-0624,30.66486776714331,-96.37173527683558,https://locations.whataburger.com/tx/bryan/902-s-texas-ave.html
+# 369,Dowlen & Calder,140 S Dowlen Rd,Beaumont,Texas,77707,(409) 866-2358,30.07361461388283,-94.17254963252354,https://locations.whataburger.com/tx/beaumont/140-s-dowlen-rd.html
+# 204,College & 11th,3575 College St.,Beaumont,Texas,77701,(409) 835-4954,30.06803269910049,-94.12817201165676,https://locations.whataburger.com/tx/beaumont/3575-college-st.html
+# 306,Lucas & Eastex Fwy,4286 E. Lucas St.,Beaumont,Texas,77708,(409) 892-5657,30.119411759573858,-94.1434982828207,https://locations.whataburger.com/tx/beaumont/4286-e-lucas-st.html
+# 875,George Bush & Old Denton,1033 E Trinity Mills Rd,Carrollton,Texas,75006,(972) 323-0192,32.98425180342307,-96.90792655462383,https://locations.whataburger.com/tx/carrollton/1033-e-trinity-mills-rd.html
+# 522,Belt Line & Nix,2108 E Belt Line Rd,Carrollton,Texas,75006,(972) 418-1160,32.953176296450415,-96.88335613695445,https://locations.whataburger.com/tx/carrollton/2108-e-belt-line-rd.html
+# 798,Park Blvd & Midway,3424 E Hebron Pkwy,Carrollton,Texas,75010,(972) 732-1942,33.0263936220416,-96.84101383374691,https://locations.whataburger.com/tx/carrollton/3424-e-hebron-pkwy.html
+# 906,Cypress Creek & Lakeline,1520 Cypress Creek Rd,Cedar Park,Texas,78613,(512) 331-8810,30.479884186799943,-97.83279571621395,https://locations.whataburger.com/tx/cedar-park/1520-cypress-creek-rd.html
+# 840,Whitestone & Market,2740 E Whitestone Blvd,Cedar Park,Texas,78613,(512) 260-1667,30.532748894223875,-97.7871663760748,https://locations.whataburger.com/tx/cedar-park/2740-e-whitestone-blvd.html
+# 417,Hwy 183 & Discovery,500 N Bell Blvd,Cedar Park,Texas,78613,(512) 331-0608,30.514988601790733,-97.82574551901436,https://locations.whataburger.com/tx/cedar-park/500-n-bell-blvd.html
+# 1369,Henderson St & Spell Ave,1212 W Henderson St,Cleburne,Texas,76033,(817) 645-8806,32.34209133057766,-97.40328571717932,https://locations.whataburger.com/tx/cleburne/1212-w-henderson-st.html
+# 1376,Hwy 67 & Main,2215 N Main St,Cleburne,Texas,76033,(817) 645-0261,32.38020501585669,-97.39370908159732,https://locations.whataburger.com/tx/cleburne/2215-n-main-st.html
+# 78,Dominik & Texas,105 Dominik Dr,College Station,Texas,77840,(979) 696-2337,30.61853553660918,-96.3221481355993,https://locations.whataburger.com/tx/college-station/105-dominik-dr.html
+# 1135,Wellborn & Southwest Pkwy,1451 Wellborn Rd,College Station,Texas,77840,(979) 436-3392,30.590444345182554,-96.3295565958333,https://locations.whataburger.com/tx/college-station/1451-wellborn-rd.html
+# 808,Rock Prairie & Longmire,1745 Rock Prairie Rd,College Station,Texas,77845,(979) 695-1348,30.58366852736892,-96.28840757729816,https://locations.whataburger.com/tx/college-station/1745-rock-prairie-rd.html
+# 1011,William D Fitch & Hwy 6,4471 State Highway 6 S,College Station,Texas,77845,(979) 690-5753,30.56107174647976,-96.25781879961949,https://locations.whataburger.com/tx/college-station/4471-state-highway-6-s.html
+# 858,Davis & Sgt Ed Holcomb,2123 W Davis St,Conroe,Texas,77304,(936) 756-5111,30.3174532215265,-95.47859824492375,https://locations.whataburger.com/tx/conroe/2123-w-davis-st.html
+# 1136,Loop 336 & Town Park,457 S Loop 336 W,Conroe,Texas,77304,(936) 756-0107,30.27946331332829,-95.46904418496393,https://locations.whataburger.com/tx/conroe/457-s-loop-336-w.html
+# 488,Hwy 336 & Hwy 75,802 N Loop 336 W,Conroe,Texas,77301,(936) 539-1944,30.3354969054142,-95.46832868220902,https://locations.whataburger.com/tx/conroe/802-n-loop-336-w.html
+Welcome to Whataburger,,9353 Highway 242,Conroe,Texas,77385,(936) 206-7516,30.2086917,-95.4329657,https://locations.whataburger.com/tx/conroe/9353-highway-242.html
+# 123,Waldron & S Padre Island,1121 Waldron Rd,Corpus Christi,Texas,78418,(361) 937-2661,27.66763377386823,-97.28253322161022,https://locations.whataburger.com/tx/corpus-christi/1121-waldron-rd.html
+# 313,Whataburger by the Bay,121 N Shoreline Blvd,Corpus Christi,Texas,78401,(361) 881-9925,27.792444529994626,-97.39298338773155,https://locations.whataburger.com/tx/corpus-christi/121-n-shoreline-blvd.html
+# 111,Airline & S Padre Island,1521 Airline Rd,Corpus Christi,Texas,78412,(361) 991-7403,27.702941070438097,-97.36356852141661,https://locations.whataburger.com/tx/corpus-christi/1521-airline-rd.html
+# 12,Staples & 17th,2018 S Staples St,Corpus Christi,Texas,78404,(361) 883-4428,27.765802155312077,-97.40272097875271,https://locations.whataburger.com/tx/corpus-christi/2018-s-staples-st.html
+# 286,Ayers & S Padre Island,2402 S Padre Island Dr,Corpus Christi,Texas,78415,(361) 855-0010,27.73605524415513,-97.42606312822437,https://locations.whataburger.com/tx/corpus-christi/2402-s-padre-island-dr.html
+# 2,Baldwin & Port,2424 Baldwin Blvd,Corpus Christi,Texas,78405,(361) 883-1753,27.77371121170759,-97.41974354136909,https://locations.whataburger.com/tx/corpus-christi/2424-baldwin-blvd.html
+# 9,Gollihar & Randall,3220 Gollihar Rd,Corpus Christi,Texas,78415,(361) 852-8261,27.73781817889386,-97.40503276380636,https://locations.whataburger.com/tx/corpus-christi/3220-gollihar-rd.html
+# 334,Hwy 77 & Northwest,4021 Interstate Highway 69 Access Rd,Corpus Christi,Texas,78410,(361) 241-9581,27.85667689990511,-97.63072841245958,https://locations.whataburger.com/tx/corpus-christi/4021-interstate-highway-69-access-rd.html
+# 31,Staples & Barry,4126 S Staples St,Corpus Christi,Texas,78411,(361) 855-3278,27.727899462698765,-97.37946963153011,https://locations.whataburger.com/tx/corpus-christi/4126-s-staples-st.html
+# 299,Causeway & Beach,4444 E Causeway Blvd,Corpus Christi,Texas,78402,(361) 881-8002,27.831214720301176,-97.38506834110451,https://locations.whataburger.com/tx/corpus-christi/4444-e-causeway-blvd.html
+# 3,Leopard St & Westchester,4510 Leopard St,Corpus Christi,Texas,78408,(361) 882-5524,27.79746440750928,-97.44361618706309,https://locations.whataburger.com/tx/corpus-christi/4510-leopard-st.html
+# 396,Violet & I37,4545 Violet Rd,Corpus Christi,Texas,78410,(361) 241-9358,27.848581999999986,-97.58419329447746,https://locations.whataburger.com/tx/corpus-christi/4545-violet-rd.html
+# 288,Saratoga & Player,5001 Saratoga Blvd,Corpus Christi,Texas,78413,(361) 992-6102,27.690390274878393,-97.3950046559688,https://locations.whataburger.com/tx/corpus-christi/5001-saratoga-blvd.html
+# 161,Texan Trail & Reid,510 Texan Trl,Corpus Christi,Texas,78411,(361) 855-4237,27.754401708925947,-97.38934162727834,https://locations.whataburger.com/tx/corpus-christi/510-texan-trl.html
+# 83,Weber & S Padre Island Dr,5114 Weber Rd,Corpus Christi,Texas,78411,(361) 854-2321,27.720547129177266,-97.39884272217745,https://locations.whataburger.com/tx/corpus-christi/5114-weber-rd.html
+# 349,Old Brownsville & S Padre Island,602 S Padre Island Dr,Corpus Christi,Texas,78416,(361) 855-0416,27.756235592745426,-97.45898335176909,https://locations.whataburger.com/tx/corpus-christi/602-s-padre-island-dr.html
+# 658,Saratoga & Cimarron,6241 Saratoga Blvd,Corpus Christi,Texas,78414,(361) 993-9277,27.678198945364826,-97.37037531373915,https://locations.whataburger.com/tx/corpus-christi/6241-saratoga-blvd.html
+# 787,Weber & Saratoga,6425 Weber Rd,Corpus Christi,Texas,78413,(361) 857-5540,27.700392857064912,-97.41243749856949,https://locations.whataburger.com/tx/corpus-christi/6425-weber-rd.html
+# 336,Nile & S Padre Island,6817 S Padre Island Dr,Corpus Christi,Texas,78412,(361) 993-0252,27.695931662046604,-97.34812867398666,https://locations.whataburger.com/tx/corpus-christi/6817-s-padre-island-dr.html
+# 900,Whataburger Field,734 E Port Ave,Corpus Christi,Texas,78401,(361) 881-8987,27.80917005712757,-97.40002311601548,https://locations.whataburger.com/tx/corpus-christi/734-e-port-ave.html
+# 966,Staples & Yorktown,7434 S Staples St,Corpus Christi,Texas,78413,(361) 980-3881,27.66738177928733,-97.39465095442542,https://locations.whataburger.com/tx/corpus-christi/7434-s-staples-st.html
+# 1069,Ennis Joslin & S Padre Island,7702 S Padre Island Dr,Corpus Christi,Texas,78412,(361) 986-0609,27.690009349749715,-97.3318396733418,https://locations.whataburger.com/tx/corpus-christi/7702-s-padre-island-dr.html
+# 166,Leopard St & Rand Morgan,9402 Leopard St,Corpus Christi,Texas,78410,(361) 241-7474,27.826542837565835,-97.54842598834324,https://locations.whataburger.com/tx/corpus-christi/9402-leopard-st.html
+# 293,Hwy 31 Corsicana,1709 W 7Th Ave,Corsicana,Texas,75110,(903) 872-6871,32.08320440886373,-96.47990553067112,https://locations.whataburger.com/tx/corsicana/1709-w-7th-ave.html
+# 1046,I45 & Hwy 287,2001 S Interstate Highway 45,Corsicana,Texas,75109,(903) 874-6403,32.07006081463763,-96.44745916128159,https://locations.whataburger.com/tx/corsicana/2001-s-interstate-highway-45.html
+# 824,Hwy 290 & Spring Cypress,26040 Highway 290,Cypress,Texas,77429,(281) 256-1224,29.972665487956444,-95.69474068282604,https://locations.whataburger.com/tx/cypress/26040-highway-290.html
+# 1059,Hwy 290 & Mason,28630 Highway 290,Cypress,Texas,77433,(281) 256-6946,29.992173414558007,-95.7489731236228,https://locations.whataburger.com/tx/cypress/28630-highway-290.html
+#1122,Fry & West,8930 Fry Rd,Cypress,Texas,77433,(281) 256-7840,29.911857507365276,-95.7257209260076,https://locations.whataburger.com/tx/cypress/8930-fry-rd.html
+# 1078,Barker Cypress & Lone Star College,9130 Barker Cypress Rd,Cypress,Texas,77433,(281) 861-8496,29.911194481306733,-95.68556469596544,https://locations.whataburger.com/tx/cypress/9130-barker-cypress-rd.html
+# 127,Malone & University,1701 Malone St,Denton,Texas,76201,(940) 383-2311,33.2299213654143,-97.15005062392521,https://locations.whataburger.com/tx/denton/1701-malone-st.html
+# 841,Loop 288 & Brinker,1708 S Loop 288,Denton,Texas,76205,(940) 484-9449,33.193062238789956,-97.09730972349234,https://locations.whataburger.com/tx/denton/1708-s-loop-288.html
+# 996,I35 & Hwy 380,2420 W University Dr,Denton,Texas,76201,(940) 387-6505,33.2303325399255,-97.16386606501179,https://locations.whataburger.com/tx/denton/2420-w-university-dr.html
+# 181,Fort Worth Dr & I35E,712 Fort Worth Dr,Denton,Texas,76201,(940) 383-2316,33.19766365107867,-97.13942129155079,https://locations.whataburger.com/tx/denton/712-fort-worth-dr.html
+# 351,Pleasant Run & Hampton,203 E Pleasant Run Rd,Desoto,Texas,75115,(972) 224-3567,32.60447850695885,-96.85630955398466,https://locations.whataburger.com/tx/desoto/203-e-pleasant-run-rd.html
+# 945,Belt Line & Elerson,961 W Belt Line Rd,Desoto,Texas,75115,(972) 274-3065,32.59017932789107,-96.88013672255501,https://locations.whataburger.com/tx/desoto/961-w-belt-line-rd.html
+# 129,Duncanville & Camp Widsom,311 W Camp Wisdom Rd,Duncanville,Texas,75116,(972) 298-4289,32.66243230752224,-96.91187604662704,https://locations.whataburger.com/tx/duncanville/311-w-camp-wisdom-rd.html
+# 866,Hwy 67 & Danieldale,501 E Highway 67,Duncanville,Texas,75137,(972) 283-8222,32.63345163936725,-96.90088799659448,https://locations.whataburger.com/tx/duncanville/501-e-highway-67.html
+# 99,Northwest Hwy Near I-635,11721 E. Nw Highway,Dallas,Texas,75218,(214) 342-6906,32.864608670362934,-96.67813181877136,https://locations.whataburger.com/tx/dallas/11721-e-nw-highway.html
+# 799,Plano & Forest,11740 Plano Rd,Dallas,Texas,75243,(214) 342-8552,32.90863950647728,-96.69981996941812,https://locations.whataburger.com/tx/dallas/11740-plano-rd.html
+# 708,Hwy 75 & Forest,11880 N Central Expy,Dallas,Texas,75243,(972) 231-0475,32.911068157468485,-96.76782149703082,https://locations.whataburger.com/tx/dallas/11880-n-central-expy.html
+# 1024,Monfort & Arapaho,15255 Montfort Rd,Dallas,Texas,75248,(972) 661-8320,32.958030819630295,-96.81883637150271,https://locations.whataburger.com/tx/dallas/15255-montfort-rd.html
+# 846,I30 & Cockrell Hill,1560 N Cockrell Hill Rd,Dallas,Texas,75211,(214) 330-8898,32.764526499957555,-96.89501847142854,https://locations.whataburger.com/tx/dallas/1560-n-cockrell-hill-rd.html
+# 608,Dallas Pkwy & Frankford,18180 Dallas Pkwy,Dallas,Texas,75287,(972) 248-6181,32.996750818857855,-96.82863917695107,https://locations.whataburger.com/tx/dallas/18180-dallas-pkwy.html
+# 855,Marsh & Frankford,18253 Marsh Ln,Dallas,Texas,75287,(972) 662-0559,32.998096696359326,-96.8561606687341,https://locations.whataburger.com/tx/dallas/18253-marsh-ln.html
+# 728,Haskell & Capitol,2428 N Haskell Ave,Dallas,Texas,75204,(214) 821-0293,32.805052306668216,-96.78921917485141,https://locations.whataburger.com/tx/dallas/2428-n-haskell-ave.html
+# 707,I35 & Inwood,2741 N Stemmons Fwy,Dallas,Texas,75207,(214) 630-1210,32.808972075004455,-96.84718446932888,https://locations.whataburger.com/tx/dallas/2741-n-stemmons-fwy.html
+# 786,Hwy 114 & Freeport,2900 N. Airfield Drive,Dallas,Texas,75261,(972) 574-2235,32.91993630443141,-97.02037716652953,https://locations.whataburger.com/tx/dallas/2900-n-airfield-drive.html
+# 657,Forest & Webb Chapel,3105 Forest Ln,Dallas,Texas,75234,(972) 481-1681,32.91008972893556,-96.8723784926424,https://locations.whataburger.com/tx/dallas/3105-forest-ln.html
+# 543,Camp Wisdom & Hwy 67,3222 W Camp Wisdom Rd,Dallas,Texas,75237,(972) 709-9276,32.66203258062949,-96.87325106994055,https://locations.whataburger.com/tx/dallas/3222-w-camp-wisdom-rd.html
+# 604,Hwy 12 & Webb Chapel,3710 W Northwest Hwy,Dallas,Texas,75220,(214) 357-5684,32.8602784381083,-96.85637495705998,https://locations.whataburger.com/tx/dallas/3710-w-northwest-hwy.html
+# 176,Lemmon & Versailles,5500 Lemmon Ave,Dallas,Texas,75209,(214) 521-3870,32.82868785768666,-96.82445550429915,https://locations.whataburger.com/tx/dallas/5500-lemmon-ave.html
+# 116,Buckner & Samuell,5525 S Buckner Blvd,Dallas,Texas,75228,(214) 321-3800,32.793342250424615,-96.68544217944145,https://locations.whataburger.com/tx/dallas/5525-s-buckner-blvd.html
+# 559,Greenville & Caruth Haven,6061 Greenville Ave,Dallas,Texas,75206,(214) 265-9191,32.85941738779252,-96.76858535176906,https://locations.whataburger.com/tx/dallas/6061-greenville-ave.html
+# 1013,Skillman & Retail,6232 Retail Rd,Dallas,Texas,75231,(214) 363-4903,32.86138324094808,-96.75244678711987,https://locations.whataburger.com/tx/dallas/6232-retail-rd.html
+# 1039,Dallas Love Field (Inside Airport),8008 Cedar Springs Road,Dallas,Texas,75235,(214) 654-0914,32.84446946777032,-96.84982538797863,https://locations.whataburger.com/tx/dallas/8008-cedar-springs-road.html
+# 827,Hwy 342 & Cherry Valley,8501 S Lancaster Rd,Dallas,Texas,75241,(972) 224-3511,32.64409035369841,-96.78048332944775,https://locations.whataburger.com/tx/dallas/8501-s-lancaster-rd.html
+# 474,I35 & Regal Row,8850 N Stemmons Fwy,Dallas,Texas,75247,(214) 905-9014,32.83524766365411,-96.8742417171793,https://locations.whataburger.com/tx/dallas/8850-n-stemmons-fwy.html
+# 184,I635 & Abrams,9394 Lyndon B Johnson Fwy,Dallas,Texas,75243,(972) 664-9900,32.91073368127396,-96.73635516117128,https://locations.whataburger.com/tx/dallas/9394-lyndon-b-johnson-fwy.html
+#1235,DFW International Airport,"Dfw International Airport, D17",Dallas,Texas,75261,(469) 457-0690,32.89751246601991,-97.04441117894555,https://locations.whataburger.com/tx/dallas/dfw-international-airport-d17.html
+# 793,Hwy 281 & University,1717 E University Dr,Edinburg,Texas,78542,(956) 287-9602,26.299299334802104,-98.14549998210174,https://locations.whataburger.com/tx/edinburg/1717-e-university-dr.html
+# 571,University & Pin Oak,1812 W University Dr,Edinburg,Texas,78539,(956) 380-0373,26.303819784197646,-98.1820685413691,https://locations.whataburger.com/tx/edinburg/1812-w-university-dr.html
+# 60,Business 281 & Closner,2107 S Business Highway 281,Edinburg,Texas,78539,(956) 383-3991,26.282088217129754,-98.16661426810549,https://locations.whataburger.com/tx/edinburg/2107-s-business-highway-281.html
+#1194,Bus. 281 & Monte Cristo Rd,3801 N Business Highway 281,Edinburg,Texas,78541,(956) 720-0111,26.33829880640318,-98.15645997276917,https://locations.whataburger.com/tx/edinburg/3801-n-business-highway-281.html
+# 554,I10 & Lomaland,11075 Gateway Blvd W,El Paso,Texas,79935,(915) 590-1295,31.745067099225036,-106.33200255299245,https://locations.whataburger.com/tx/el-paso/11075-gateway-blvd-w.html
+#1303,Gateway S Blvd & McCombs St,11400 Gateway Blvd N,El Paso,Texas,79934,(915) 283-3662,31.94006913439825,-106.4064214151814,https://locations.whataburger.com/tx/el-paso/11400-gateway-blvd-n.html
+# 656,Yarbrough & Vista Del Sol,1198 N Yarbrough Dr,El Paso,Texas,79925,(915) 590-8866,31.75583704170444,-106.34193014293956,https://locations.whataburger.com/tx/el-paso/1198-n-yarbrough-dr.html
+# 634,Hwy 375 & Montwood,12140 Montwood Dr,El Paso,Texas,79936,(915) 857-7262,31.76024024531185,-106.27062597375979,https://locations.whataburger.com/tx/el-paso/12140-montwood-dr.html
+# 1085,Montana & Tierra Este,12302 Montana Ave Ste 100,El Paso,Texas,79938,(915) 921-6813,31.807063159030832,-106.25954834968547,https://locations.whataburger.com/tx/el-paso/12302-montana-ave-ste-100.html
+# 1134,Airway & Edgemere,1300 Airway Blvd Ste B,El Paso,Texas,79925,(915) 772-2341,31.785711142544873,-106.39499079045116,https://locations.whataburger.com/tx/el-paso/1300-airway-blvd-ste-b.html
+# 372,Americas Avenue & Alameda,131 S Americas Ave,El Paso,Texas,79907,(915) 859-4145,31.680347441844706,-106.31461322453691,https://locations.whataburger.com/tx/el-paso/131-s-americas-ave.html
+# 565,George Dieter & I10,1310 George Dieter Dr,El Paso,Texas,79936,(915) 859-1222,31.721574422283595,-106.30345637607479,https://locations.whataburger.com/tx/el-paso/1310-george-dieter-dr.html
+#1182,Eastlake Blvd & Emerald Park Dr,13391 Gateway West Blvd,El Paso,Texas,79928,(915) 263-8427,31.68786263595642,-106.2670190248015,https://locations.whataburger.com/tx/el-paso/13391-gateway-west-blvd.html
+#1262,Pebble Hills and N. Zaragoza,14000 Pebble Hills Blvd,El Paso,Texas,79938,(915) 249-2241,31.78290533676402,-106.2425416763161,https://locations.whataburger.com/tx/el-paso/14000-pebble-hills-blvd.html
+# 183,Lee Trevino & Weston Brent,1755 N Lee Trevino Dr,El Paso,Texas,79936,(915) 593-0493,31.763565805298033,-106.31945534662704,https://locations.whataburger.com/tx/el-paso/1755-n-lee-trevino-dr.html
+# 366,Paisano & Piedras,2130 E Paisano Dr,El Paso,Texas,79905,(915) 544-7039,31.76602000263215,-106.46152320811841,https://locations.whataburger.com/tx/el-paso/2130-e-paisano-dr.html
+# 330,University & Mesa,2201 N Mesa St,El Paso,Texas,79902,(915) 533-8338,31.773402902940365,-106.50049146958706,https://locations.whataburger.com/tx/el-paso/2201-n-mesa-st.html
+# 447,Dyer & Tompkins,3500 Dyer St,El Paso,Texas,79930,(915) 565-0585,31.808093499854852,-106.44442197375983,https://locations.whataburger.com/tx/el-paso/3500-dyer-st.html
+# 655,Loop 375 and Hwy 54,4640 Woodrow Bean,El Paso,Texas,79924,(915) 751-2958,31.897925324974246,-106.43593617690064,https://locations.whataburger.com/tx/el-paso/4640-woodrow-bean.html
+# 436,Doniphan & Thorn,5270 Doniphan Dr,El Paso,Texas,79932,(915) 584-3446,31.85055217922652,-106.58289531052266,https://locations.whataburger.com/tx/el-paso/5270-doniphan-dr.html
+# 136,Montana & Trowbridge,5600 Montana Ave,El Paso,Texas,79925,(915) 772-4259,31.7832539199721,-106.4215813760748,https://locations.whataburger.com/tx/el-paso/5600-montana-ave.html
+# 412,Fairbanks & Dyer,5779 Fairbanks Dr,El Paso,Texas,79924,(915) 751-4963,31.9007133373898,-106.40744564723875,https://locations.whataburger.com/tx/el-paso/5779-fairbanks-dr.html
+# 198,Sunland Park & Cromo,650 Sunland Park Dr,El Paso,Texas,79912,(915) 584-5482,31.819795381484543,-106.54018436149136,https://locations.whataburger.com/tx/el-paso/650-sunland-park-dr.html
+# 413,I10 & Hunter,7400 Gateway Blvd E,El Paso,Texas,79915,(915) 595-2745,31.76474735170475,-106.36651275486774,https://locations.whataburger.com/tx/el-paso/7400-gateway-blvd-e.html
+# 374,N Loop & Yarbrough,8055 N Loop Dr,El Paso,Texas,79915,(915) 594-2997,31.72909000366334,-106.34799097959204,https://locations.whataburger.com/tx/el-paso/8055-n-loop-dr.html
+# 314,Hwy 54 & Dyer,8101 Dyer St,El Paso,Texas,79904,(915) 757-2564,31.853622078209433,-106.43932706994057,https://locations.whataburger.com/tx/el-paso/8101-dyer-st.html
+# 654,Resler & Redd,870 N Resler Dr,El Paso,Texas,79912,(915) 833-7789,31.858544110191026,-106.55723798734984,https://locations.whataburger.com/tx/el-paso/870-n-resler-dr.html
+# 65,Montana & Rutherglen,9500 Montana Ave,El Paso,Texas,79925,(915) 591-8103,31.793995848162005,-106.35900103497028,https://locations.whataburger.com/tx/el-paso/9500-montana-ave.html
+# 831,Hwy 121 & Glade,1201 W Glade Rd Ste 200,Euless,Texas,76039,(817) 868-1116,32.88094726793837,-97.10122548594856,https://locations.whataburger.com/tx/euless/1201-w-glade-rd-ste-200.html
+# 1050,Hwy 183 & Murphy,2155 Airport Fwy,Euless,Texas,76040,(817) 358-3930,32.83665320335575,-97.1181097095265,https://locations.whataburger.com/tx/euless/2155-airport-fwy.html
+# 1037,Hwy 97 & Rental Car,2344 East Rental Car Drive,Euless,Texas,76155,(972) 574-1215,32.85223425398662,-97.03867905166966,https://locations.whataburger.com/tx/euless/2344-east-rental-car-drive.html
+# 510,28th & Commerce,109 Ne 28Th St,Fort Worth,Texas,76164,(817) 625-8586,32.795629422993024,-97.3483095306711,https://locations.whataburger.com/tx/fort-worth/109-ne-28th-st.html
+# 1370,Sycamore School & I35W,125 Sycamore School Rd,Fort Worth,Texas,76134,(817) 551-1160,32.63486268190026,-97.32361874909115,https://locations.whataburger.com/tx/fort-worth/125-sycamore-school-rd.html
+# 609,I30 & Eastchase,1425 Eastchase Pkwy,Fort Worth,Texas,76120,(817) 460-8518,32.75877501570793,-97.1665674141035,https://locations.whataburger.com/tx/fort-worth/1425-eastchase-pkwy.html
+# 1109,,2209 N Tarrant Pkwy,Fort Worth,Texas,76177,(817) 847-7105,32.8991266406464,-97.32654039845563,https://locations.whataburger.com/tx/fort-worth/2209-n-tarrant-pkwy.html
+# 1084,FM 199 & FM 183,2236 Jacksboro Hwy,Fort Worth,Texas,76114,(817) 740-8307,32.78458882618139,-97.38092091741048,https://locations.whataburger.com/tx/fort-worth/2236-jacksboro-hwy.html
+# 1375,Berry & Forest Park,2401 W Berry St,Fort Worth,Texas,76110,(817) 924-6681,32.70571969811613,-97.35258704968548,https://locations.whataburger.com/tx/fort-worth/2401-w-berry-st.html
+#1368,Hemphill & Morningside,2600 Hemphill St,Fort Worth,Texas,76110,(817) 923-7328,32.71427275450553,-97.33194684838057,https://locations.whataburger.com/tx/fort-worth/2600-hemphill-st.html
+# 832,I35 & Western Center,3000 Western Center Blvd,Fort Worth,Texas,76131,(817) 232-1340,32.86068359126475,-97.31676045767212,https://locations.whataburger.com/tx/fort-worth/3000-western-center-blvd.html
+#1166,Golden Triangle Blvd & N Fwy,3052 Golden Triangle Blvd,Fort Worth,Texas,76244,(817) 380-4628,32.93275777024116,-97.31346092850377,https://locations.whataburger.com/tx/fort-worth/3052-golden-triangle-blvd.html
+# 526,Loop 820 & Wichita,3160 Se Loop 820,Fort Worth,Texas,76140,(817) 551-0576,32.66075316158844,-97.28294382209015,https://locations.whataburger.com/tx/fort-worth/3160-se-loop-820.html
+# 119,Cherry & Camp Bowie,3313 Cherry Ln,Fort Worth,Texas,76116,(817) 244-4981,32.72383628252463,-97.450598072999,https://locations.whataburger.com/tx/fort-worth/3313-cherry-ln.html
+# 1371,Altamesa & McCart,3501 Altamesa Blvd,Fort Worth,Texas,76133,(817) 346-0431,32.64937304492749,-97.36829671240324,https://locations.whataburger.com/tx/fort-worth/3501-altamesa-blvd.html
+#1119,I35 & Hwy 114,3582 Highway 114,Fort Worth,Texas,76177,(682) 831-1753,33.02559913919324,-97.27994046544316,https://locations.whataburger.com/tx/fort-worth/3582-highway-114.html
+# 511,I30 & Montgomery,3701 West Fwy,Fort Worth,Texas,76107,(817) 732-6381,32.73194607775518,-97.37215788037396,https://locations.whataburger.com/tx/fort-worth/3701-west-fwy.html
+# 71,Lancaster & Chicago,4051 E Lancaster Ave,Fort Worth,Texas,76103,(817) 531-2764,32.741223280324064,-97.26490623619365,https://locations.whataburger.com/tx/fort-worth/4051-e-lancaster-ave.html
+# 706,Loop 820 & Beach,5351 N Beach St,Fort Worth,Texas,76137,(817) 306-9111,32.840995830815466,-97.29117669386578,https://locations.whataburger.com/tx/fort-worth/5351-n-beach-st.html
+# 492,Blue Mound & Loop 820,5455 Blue Mound Rd,Fort Worth,Texas,76106,(817) 626-4953,32.84206518688649,-97.34358251094818,https://locations.whataburger.com/tx/fort-worth/5455-blue-mound-rd.html
+# 1158,Chisholm Trail Pkwy & McPherson Blvd,5545 Mcpherson Blvd,Fort Worth,Texas,76123,(817) 484-6239,32.606218,-97.410068,https://locations.whataburger.com/tx/fort-worth/5545-mcpherson-blvd.html
+# 1374,Hulen Bend & Hulen,6225 Hulen Bend Blvd,Fort Worth,Texas,76132,(817) 370-9064,32.66069211826034,-97.40233120328962,https://locations.whataburger.com/tx/fort-worth/6225-hulen-bend-blvd.html
+# 387,Brentwood Stair & Brentwood,6469 Brentwood Stair Rd,Fort Worth,Texas,76112,(817) 496-8955,32.75624329258368,-97.21792281043341,https://locations.whataburger.com/tx/fort-worth/6469-brentwood-stair-rd.html
+# 508,Seminary & Evans,901 E Seminary Dr,Fort Worth,Texas,76115,(817) 926-2193,32.68466382644036,-97.31890352714284,https://locations.whataburger.com/tx/fort-worth/901-e-seminary-dr.html
+# 883,I820 & White Settlement,9501 White Settlement Rd,Fort Worth,Texas,76108,(817) 367-6766,32.76036228945053,-97.48065844811504,https://locations.whataburger.com/tx/fort-worth/9501-white-settlement-rd.html
+# 179,Beach & Airport Fwy,955 N Beach St,Fort Worth,Texas,76111,(817) 831-0725,32.7766105952487,-97.28947560821659,https://locations.whataburger.com/tx/fort-worth/955-n-beach-st.html
+# 486,Friendswood & Edgewood,106 N Friendswood Dr,Friendswood,Texas,77546,(281) 996-9171,29.534068475617804,-95.2071930653238,https://locations.whataburger.com/tx/friendswood/106-n-friendswood-dr.html
+# 778,I45 & El Dorado,18190 Gulf Fwy,Friendswood,Texas,77546,(281) 480-7476,29.553210006830955,-95.15680834650993,https://locations.whataburger.com/tx/friendswood/18190-gulf-fwy.html
+# 838,Parkwood & Friendswood,214 E Parkwood Ave,Friendswood,Texas,77546,(281) 648-1119,29.51084717105401,-95.18752586059463,https://locations.whataburger.com/tx/friendswood/214-e-parkwood-ave.html
+# 1020,Dallas Pkwy & Eldorado,11650 Dallas Pkwy,Frisco,Texas,75033,(214) 872-3855,33.1743951980168,-96.83853136258297,https://locations.whataburger.com/tx/frisco/11650-dallas-pkwy.html
+# 977,Hwy 289 & Lebanon,5266 Preston Rd,Frisco,Texas,75034,(214) 705-0831,33.12280123176876,-96.80494344601536,https://locations.whataburger.com/tx/frisco/5266-preston-rd.html
+# 1090,FM 423 & Stonebrook,8000 Fm 423,Frisco,Texas,75036,(214) 494-6224,33.14601281356981,-96.8903033848049,https://locations.whataburger.com/tx/frisco/8000-fm-423.html
+# 490,University & Church,528 University Blvd,Galveston,Texas,77550,(409) 762-7622,29.309168863741686,-94.77360041410351,https://locations.whataburger.com/tx/galveston/528-university-blvd.html
+# 81,Stewart & 61st,6327 Stewart Rd,Galveston,Texas,77551,(409) 744-6344,29.27463420774535,-94.83210984540366,https://locations.whataburger.com/tx/galveston/6327-stewart-rd.html
+# 546,I35 & Williams,202 S Interstate 35,Georgetown,Texas,78628,(512) 863-5040,30.649603821319964,-97.68124873680534,https://locations.whataburger.com/tx/georgetown/202-s-interstate-35.html
+# 994,D B Wood & Williams,3706 D B Wood Rd,Georgetown,Texas,78628,(512) 864-0989,30.681586785280032,-97.71786362161022,https://locations.whataburger.com/tx/georgetown/3706-d-b-wood-rd.html
+# 339,Hwy 161 & I30,1404 N State Highway 161,Grand Prairie,Texas,75050,(972) 641-7684,32.757934521910954,-97.02803239789152,https://locations.whataburger.com/tx/grand-prairie/1404-n-state-highway-161.html
+# 1138,161 & Pioneer Pkwy,2630 S State Highway 161,Grand Prairie,Texas,75052,(972) 849-2057,32.70772172485103,-97.02378925033187,https://locations.whataburger.com/tx/grand-prairie/2630-s-state-highway-161.html
+# 781,Hwy 360 & Post N Paddock,2710 N State Highway 360,Grand Prairie,Texas,75050,(972) 660-3187,32.79553894840717,-97.0553776667501,https://locations.whataburger.com/tx/grand-prairie/2710-n-state-highway-360.html
+# 742,I20 & Carrier,3845 S Carrier Pkwy,Grand Prairie,Texas,75052,(972) 237-7941,32.678964962859624,-97.00633947238731,https://locations.whataburger.com/tx/grand-prairie/3845-s-carrier-pkwy.html
+# 1120,I30 & Belt Line,930 E Interstate Highway 30,Grand Prairie,Texas,75050,(972) 266-8740,32.759637753930676,-96.99351611626747,https://locations.whataburger.com/tx/grand-prairie/930-e-interstate-highway-30.html
+# 751,Hwy 26 & Grapevine Mills,2000 State Highway 26,Grapevine,Texas,76051,(972) 724-6236,32.959079243077184,-97.04302869508916,https://locations.whataburger.com/tx/grapevine/2000-state-highway-26.html
+# 460,Northwest Hwy & Central,401 E Northwest Hwy,Grapevine,Texas,76051,(817) 481-2399,32.941375655350676,-97.07466489999999,https://locations.whataburger.com/tx/grapevine/401-e-northwest-hwy.html
+# 400,Buckingham & Garland,1506 W Buckingham Rd,Garland,Texas,75042,(972) 276-6900,32.93027413072764,-96.64989041410352,https://locations.whataburger.com/tx/garland/1506-w-buckingham-rd.html
+# 762,Firewheel & Pleasant Valley,2545 Firewheel Pkwy,Garland,Texas,75040,(972) 530-2353,32.938622449589914,-96.60507674049282,https://locations.whataburger.com/tx/garland/2545-firewheel-pkwy.html
+# 953,I30 & Bass Pro,4500 Bass Pro Drive,Garland,Texas,75043,(972) 203-6115,32.86463770011795,-96.54200974049282,https://locations.whataburger.com/tx/garland/4500-bass-pro-drive.html
+# 197,Broadway & I-30,5806 Broadway Blvd.,Garland,Texas,75043,(972) 240-8330,32.84504039387928,-96.59511774049282,https://locations.whataburger.com/tx/garland/5806-broadway-blvd.html
+# 88,Centerville & Broadway,725 E Centerville Rd,Garland,Texas,75041,(972) 278-8540,32.87844467163086,-96.62255859375,https://locations.whataburger.com/tx/garland/725-e-centerville-rd.html
+# 41,Bus77 & Harrison,1522 E Harrison Ave,Harlingen,Texas,78550,(956) 423-0372,26.190418338509588,-97.67947643741704,https://locations.whataburger.com/tx/harlingen/1522-e-harrison-ave.html
+# 85,Tyler & South P St.,1605 W Harrison Ave,Harlingen,Texas,78550,(956) 423-8800,26.189837110733244,-97.71329561130968,https://locations.whataburger.com/tx/harlingen/1605-w-harrison-ave.html
+# 504,Hwy 77 & Ed Carey,613 N Ed Carey Dr,Harlingen,Texas,78550,(956) 428-0774,26.165647370624125,-97.67882755398466,https://locations.whataburger.com/tx/harlingen/613-n-ed-carey-dr.html
+# 1082,Jackson & Dicker,3120 S Jackson Rd,Hidalgo,Texas,78557,(956) 843-5136,26.12491822784762,-98.21702965162714,https://locations.whataburger.com/tx/hidalgo/3120-s-jackson-rd.html
+# 566,International & Bridge,824 South International Blvd,Hidalgo,Texas,78557,(956) 843-9261,26.09968799999999,-98.2690799417162,https://locations.whataburger.com/tx/hidalgo/824-south-international-blvd.html
+# 597,Post Oak & Runnymeade,10310 S Post Oak Rd,Houston,Texas,77035,(713) 726-0031,29.66909244699272,-95.46298076511897,https://locations.whataburger.com/tx/houston/10310-s-post-oak-rd.html
+# 138,Gessner & I10,1040 Gessner Rd,Houston,Texas,77055,(713) 468-8765,29.787689830038033,-95.54372317385922,https://locations.whataburger.com/tx/houston/1040-gessner-rd.html
+# 723,I45 & Airtex,109 Airtex Dr,Houston,Texas,77090,(281) 872-3757,29.98119387182915,-95.42406800699675,https://locations.whataburger.com/tx/houston/109-airtex-dr.html
+# 1339,FM 1960 and Jones,11020 Fm 1960 W.,Houston,Texas,77065,(281) 571-7135,29.93298019147041,-95.58583222137695,https://locations.whataburger.com/tx/houston/11020-fm-1960-w.html
+# 1079,Silber & Hartland,1110 Silber Rd,Houston,Texas,77055,(713) 956-4061,29.788825423181976,-95.4675971982967,https://locations.whataburger.com/tx/houston/1110-silber-rd.html
+# 278,Fuqua & Park Fuqua,11116 Fuqua St,Houston,Texas,77089,(281) 481-0054,29.612646524075537,-95.22003930613423,https://locations.whataburger.com/tx/houston/11116-fuqua-st.html
+# 1141,Pearland Pkwy & Beltway 8,11510 Pearland Pkwy,Houston,Texas,77089,(713) 987-9158,29.597876363559145,-95.26686507431162,https://locations.whataburger.com/tx/houston/11510-pearland-pkwy.html
+Welcome to Whataburger,South Fwy & W Orem Dr,11720 South Freeway,Houston,Texas,77047,(832) 648-3625,29.6265338,-95.3882079,https://locations.whataburger.com/tx/houston/11720-south-freeway.html
+# 131,I10 & Kirkwood,12121 Katy Fwy,Houston,Texas,77079,(281) 497-6696,29.78391988493029,-95.59994148404407,https://locations.whataburger.com/tx/houston/12121-katy-fwy.html
+# 833,Westheimer & Shadowbriar,12401 Westheimer Rd,Houston,Texas,77077,(281) 556-8770,29.73578998706237,-95.59977791840267,https://locations.whataburger.com/tx/houston/12401-westheimer-rd.html
+# 815,249 & Atoine,12424 Tomball Pkwy,Houston,Texas,77086,(281) 999-4114,29.910672450716742,-95.4781108190317,https://locations.whataburger.com/tx/houston/12424-tomball-pkwy.html
+# 389,Veterans & Black Pool,12663 Veterans Memorial Dr,Houston,Texas,77014,(281) 440-1347,29.970664313658947,-95.4857655073576,https://locations.whataburger.com/tx/houston/12663-veterans-memorial-dr.html
+# 605,Hwy 290 & Hollister,13270 Northwest Fwy,Houston,Texas,77040,(713) 690-0394,29.848651184011125,-95.50359019816494,https://locations.whataburger.com/tx/houston/13270-northwest-fwy.html
+# 431,I10 & Market,13728 East Fwy,Houston,Texas,77015,(713) 450-2030,29.769718998937734,-95.17939121205035,https://locations.whataburger.com/tx/houston/13728-east-fwy.html
+# 1081,TX 8 & Lake Houston,13933 E Sam Houston Pkwy N,Houston,Texas,77044,(281) 436-1983,29.922988976566675,-95.2008580255458,https://locations.whataburger.com/tx/houston/13933-e-sam-houston-pkwy-n.html
+# 813,Wallisville & Overland Park,15329 Wallisville Rd,Houston,Texas,77049,(281) 454-6289,29.808045071910364,-95.16808062392522,https://locations.whataburger.com/tx/houston/15329-wallisville-rd.html
+# 142,Cypress Creek & Beaver Springs,1604 Cypress Creek Pkwy,Houston,Texas,77090,(281) 440-8860,30.012584898850786,-95.45424132777735,https://locations.whataburger.com/tx/houston/1604-cypress-creek-pkwy.html
+# 498,Wayside & I10,1700 N Wayside Dr,Houston,Texas,77020,(713) 674-6609,29.77864485719815,-95.29090863558197,https://locations.whataburger.com/tx/houston/1700-n-wayside-dr.html
+# 196,Loop 610 & 18th,1718 West Loop N,Houston,Texas,77008,(713) 868-8988,29.80107896996528,-95.44815509078998,https://locations.whataburger.com/tx/houston/1718-west-loop-n.html
+# 591,Greenspoint & Beltway 8,181 N Sam Houston Pkwy E,Houston,Texas,77060,(281) 873-7760,29.941510783260174,-95.40888942270185,https://locations.whataburger.com/tx/houston/181-n-sam-houston-pkwy-e.html
+# 601,West Road & I45,211 West Rd,Houston,Texas,77038,(281) 847-3493,29.914663675144038,-95.41464064723873,https://locations.whataburger.com/tx/houston/211-west-rd.html
+# 997,Holcombe & Greenbriar,2265 W Holcombe Blvd,Houston,Texas,77030,(713) 838-8106,29.705920967122974,-95.41227955131987,https://locations.whataburger.com/tx/houston/2265-w-holcombe-blvd.html
+# 137,Gessner & Hammerly,2429 Gessner Rd,Houston,Texas,77080,(713) 461-1486,29.81504600686718,-95.54554970259585,https://locations.whataburger.com/tx/houston/2429-gessner-rd.html
+# 324,Treaschwig & FM 1960,2627 Fm 1960 Rd,Houston,Texas,77073,(281) 821-6481,30.022801165097167,-95.38815458589649,https://locations.whataburger.com/tx/houston/2627-fm-1960-rd.html
+# 745,Westheimer & Beltway 8,2720 W Sam Houston Pkwy S,Houston,Texas,77042,(713) 782-6941,29.735755692630576,-95.55875548920577,https://locations.whataburger.com/tx/houston/2720-w-sam-houston-pkwy-s.html
+# 263,Chimney Rock & Val Verde,2820 Chimney Rock Rd,Houston,Texas,77056,(713) 783-6933,29.736142311263936,-95.47686993559014,https://locations.whataburger.com/tx/houston/2820-chimney-rock-rd.html
+# 1049,IAH - Terminal B-21,3100 N Terminal Rd.,Houston,Texas,77032,(281) 233-3347,29.98630949070043,-95.34555267711781,https://locations.whataburger.com/tx/houston/3100-n-terminal-rd.html
+# 432,Westpark & Hwy 6,3530 Highway 6 S,Houston,Texas,77082,(281) 752-4250,29.719508483089232,-95.64490875645545,https://locations.whataburger.com/tx/houston/3530-highway-6-s.html
+# 267,Old Spanish Trail & La Salette,3624 Old Spanish Trl,Houston,Texas,77021,(713) 748-8823,29.701636799618818,-95.36279124689163,https://locations.whataburger.com/tx/houston/3624-old-spanish-trl.html
+# 533,Main & I45,3636 N Main St,Houston,Texas,77009,(713) 868-1581,29.791325239508822,-95.37319975520802,https://locations.whataburger.com/tx/houston/3636-n-main-st.html
+# 266,Westheimer & Timmons,3639 Westheimer Rd,Houston,Texas,77027,(713) 627-8602,29.741281749164756,-95.43685455885036,https://locations.whataburger.com/tx/houston/3639-westheimer-rd.html
+# 271,Shepherd & Farnham,3712 S Shepherd Dr,Houston,Texas,77098,(713) 529-0216,29.732855137058955,-95.41095091530333,https://locations.whataburger.com/tx/houston/3712-s-shepherd-dr.html
+# 670,I69 & Edloe,3797 Southwest Fwy,Houston,Texas,77027,(713) 627-8577,29.72841118565682,-95.43679568125025,https://locations.whataburger.com/tx/houston/3797-southwest-fwy.html
+# 911,I69 & Little York,4040 Little York Rd,Houston,Texas,77093,(713) 691-1424,29.869342773188407,-95.32796444879475,https://locations.whataburger.com/tx/houston/4040-little-york-rd.html
+# 134,I45& Little York,444 W Little York Rd,Houston,Texas,77076,(713) 818-9382,29.870267630633247,-95.40563770552254,https://locations.whataburger.com/tx/houston/444-w-little-york-rd.html
+# 120,I45 & Airline,4545 North Fwy,Houston,Texas,77022,(713) 691-0444,29.831643554267032,-95.38394192713277,https://locations.whataburger.com/tx/houston/4545-north-fwy.html
+# 1169,,4608 Fm 1960 Rd W,Houston,Texas,77069,(832) 353-3649,29.987238948758204,-95.50053156468263,https://locations.whataburger.com/tx/houston/4608-fm-1960-rd-w.html
+# 154,Antoine & Hoover,5050 Antoine Dr,Houston,Texas,77092,(713) 686-9402,29.83869628435455,-95.472857267465,https://locations.whataburger.com/tx/houston/5050-antoine-dr.html
+# 472,Homma & Hwy 6,5815 Highway 6 N,Houston,Texas,77084,(281) 550-6763,29.86069916877564,-95.64573974259248,https://locations.whataburger.com/tx/houston/5815-highway-6-n.html
+# 262,Telephone & Pecan Villas,6402 Telephone Rd,Houston,Texas,77061,(713) 644-0404,29.67144834498735,-95.2895515905808,https://locations.whataburger.com/tx/houston/6402-telephone-rd.html
+# 265,San Felipe & Winrock,6405 San Felipe St,Houston,Texas,77057,(713) 781-4040,29.74975579825628,-95.4978295993883,https://locations.whataburger.com/tx/houston/6405-san-felipe-st.html
+# 694,I69 & Hillcroft,6520 Southwest Fwy,Houston,Texas,77074,(713) 953-9644,29.718406064422226,-95.49832865828317,https://locations.whataburger.com/tx/houston/6520-southwest-fwy.html
+# 733,I45 & Woodridge,6888 Gulf Fwy Ste 200,Houston,Texas,77087,(713) 644-2057,29.702216101055225,-95.2970497582838,https://locations.whataburger.com/tx/houston/6888-gulf-fwy-ste-200.html
+# 264,Harrisburg & S 69th,6914 Harrisburg Blvd,Houston,Texas,77011,(713) 921-7749,29.735803419408754,-95.30378739203073,https://locations.whataburger.com/tx/houston/6914-harrisburg-blvd.html
+# 550,Loop 610 & Homestead,7001 North Loop E,Houston,Texas,77028,(713) 671-0395,29.80809312511444,-95.30140951805558,https://locations.whataburger.com/tx/houston/7001-north-loop-e.html
+# 365,Cypress Creek Pkwy & Willow Center,7210 Fm 1960 Rd W,Houston,Texas,77069,(281) 893-6654,29.967071235274165,-95.53709236823725,https://locations.whataburger.com/tx/houston/7210-fm-1960-rd-w.html
+# 1144,Southwest Fwy & Fondren Rd,7411 Southwest Fwy,Houston,Texas,77074,(713) 995-1419,29.699145857746174,-95.51781935206192,https://locations.whataburger.com/tx/houston/7411-southwest-fwy.html
+# 951,Fort Bend Toll Rd & Beltway 8,7418 S Sam Houston Pkwy W,Houston,Texas,77085,(713) 283-1070,29.61570709158856,-95.49633828390682,https://locations.whataburger.com/tx/houston/7418-s-sam-houston-pkwy-w.html
+# 518,Bellfort & Braesridge,7629 W Bellfort St,Houston,Texas,77071,(713) 729-8025,29.655632640061892,-95.51053550147422,https://locations.whataburger.com/tx/houston/7629-w-bellfort-st.html
+# 1019,Beechnut & Beltway 8,8134 W Sam Houston Pkwy S,Houston,Texas,77072,(281) 495-9384,29.691113525003686,-95.55806338773154,https://locations.whataburger.com/tx/houston/8134-w-sam-houston-pkwy-s.html
+# 712,West Rd & Hwy 6,8534 Highway 6 N,Houston,Texas,77095,(281) 858-0590,29.902575689926277,-95.63316097362804,https://locations.whataburger.com/tx/houston/8534-highway-6-n.html
+# 459,Clearwood & I45,8927 Clearwood Dr,Houston,Texas,77075,(713) 941-7307,29.639838178151173,-95.24421393005943,https://locations.whataburger.com/tx/houston/8927-clearwood-dr.html
+# 141,Long Point & Spring Branch,8941 Long Point Rd,Houston,Texas,77055,(713) 973-6184,29.801800306029254,-95.51011213032403,https://locations.whataburger.com/tx/houston/8941-long-point-rd.html
+# 89,Loop 610 & Brinkman,905 North Loop W,Houston,Texas,77008,(713) 880-8840,29.8120063005673,-95.41517573665544,https://locations.whataburger.com/tx/houston/905-north-loop-w.html
+# 986,West & Beltway 8,9232 W Sam Houston Pkwy N,Houston,Texas,77064,(281) 970-9160,29.90419780122867,-95.55219873091808,https://locations.whataburger.com/tx/houston/9232-w-sam-houston-pkwy-n.html
+# 542,Bissonnet & I69,9517 Bissonnet St,Houston,Texas,77036,(713) 772-4571,29.675350328798537,-95.54385909717506,https://locations.whataburger.com/tx/houston/9517-bissonnet-st.html
+# 503,Loop 610 & Main,9955 Main St,Houston,Texas,77025,(713) 661-4094,29.67674479066751,-95.42754939079,https://locations.whataburger.com/tx/houston/9955-main-st.html
+# 309,Hwy 59 & Will Clayton,18004 Highway 59 N,Humble,Texas,77396,(281) 540-1795,29.980175091774367,-95.27625101165677,https://locations.whataburger.com/tx/humble/18004-highway-59-n.html
+# 943,Wilson & Beltway 8,4831 Wilson Rd,Humble,Texas,77396,(281) 441-1626,29.936107265217874,-95.24904595044627,https://locations.whataburger.com/tx/humble/4831-wilson-rd.html
+# 929,Kenswick & FM 1960,8430 Fm 1960 Bypass Rd W,Humble,Texas,77338,(281) 446-0211,30.00422391349362,-95.29872762030162,https://locations.whataburger.com/tx/humble/8430-fm-1960-bypass-rd-w.html
+# 386,Hwy 183 & Story,2515 W Airport Fwy,Irving,Texas,75062,(972) 255-4794,32.837975820972105,-96.97978066275957,https://locations.whataburger.com/tx/irving/2515-w-airport-fwy.html
+# 296,Belt Line & Rochelle,2931 N Belt Line Rd,Irving,Texas,75062,(972) 252-7489,32.84617103112126,-96.99279454136912,https://locations.whataburger.com/tx/irving/2931-n-belt-line-rd.html
+# 509,Loop 12 & Hwy 356,410 S Loop 12,Irving,Texas,75060,(972) 438-5322,32.81048531443623,-96.92078303336073,https://locations.whataburger.com/tx/irving/410-s-loop-12.html
+# 738,Hwy 183 & Valley View,4920 W Airport Fwy,Irving,Texas,75062,(972) 313-0789,32.83595985847763,-97.02338513988113,https://locations.whataburger.com/tx/irving/4920-w-airport-fwy.html
+# 816,Loop 635 & MacArthur,850 Market Pl,Irving,Texas,75063,(972) 501-9624,32.91703944771791,-96.95952962885278,https://locations.whataburger.com/tx/irving/850-market-pl.html
+# 725,I10 & Fry,1225 Fry Rd,Katy,Texas,77449,(281) 492-0691,29.78773203135571,-95.72022332333025,https://locations.whataburger.com/tx/katy/1225-fry-rd.html
+# 950,Westheimer Pkwy & TX 99,23540 Westheimer Pkwy,Katy,Texas,77494,(281) 574-1499,29.73409721176054,-95.77539798180807,https://locations.whataburger.com/tx/katy/23540-westheimer-pkwy.html
+# 1002,I10 & Pin Oak,25635 Katy Fwy,Katy,Texas,77494,(281) 347-1066,29.77482669691068,-95.82048609999998,https://locations.whataburger.com/tx/katy/25635-katy-fwy.html
+# 1124,Hwy 99 & Morton Ranch,2940 W Grand Pkwy N,Katy,Texas,77449,(281) 574-7207,29.816189638137608,-95.7703647938137,https://locations.whataburger.com/tx/katy/2940-w-grand-pkwy-n.html
+# 392,I10 & Mason,307 S Mason Rd,Katy,Texas,77450,(281) 599-8952,29.78243177644724,-95.7512824317784,https://locations.whataburger.com/tx/katy/307-s-mason-rd.html
+# 987,Fry & Little York,6131 N Fry Rd,Katy,Texas,77449,(281) 855-9404,29.863092437230076,-95.7210822130119,https://locations.whataburger.com/tx/katy/6131-n-fry-rd.html
+#1263,Gaston Rd. & Falcon Landing Blvd.,9822 Gaston Rd,Katy,Texas,77494,(281) 712-2428,29.735917209384766,-95.81215455588912,https://locations.whataburger.com/tx/katy/9822-gaston-rd.html
+# 928,Trimmier & Bacon Ranch,2509 Trimmier Rd,Killeen,Texas,76542,(254) 526-0225,31.091301775613378,-97.73401874049281,https://locations.whataburger.com/tx/killeen/2509-trimmier-rd.html
+Welcome to Whataburger,,4450 S Clear Creek Rd,Killeen,Texas,76549,(254) 213-7634,31.09517342134637,-97.80606734106406,https://locations.whataburger.com/tx/killeen/4450-s-clear-creek-rd.html
+# 800,Hwy 77 & FM 1356,2701 S Us Highway 77 Byp,Kingsville,Texas,78363,(361) 221-9559,27.490539620647116,-97.84831299694157,https://locations.whataburger.com/tx/kingsville/2701-s-us-highway-77-byp.html
+# 4,Huisache & S 14th,510 S 14Th St,Kingsville,Texas,78363,(361) 592-4356,27.512431400645404,-97.85564370858097,https://locations.whataburger.com/tx/kingsville/510-s-14th-st.html
+# 988,I69 & Northpark,320 Northpark Dr,Kingwood,Texas,77339,(281) 312-4246,30.068344556013887,-95.2433973350818,https://locations.whataburger.com/tx/kingwood/320-northpark-dr.html
+# 1125,Kingwood & Lake Houston,4545 Kingwood Dr Ste 404,Kingwood,Texas,77345,(281) 361-9036,30.051363176171336,-95.18416012400982,https://locations.whataburger.com/tx/kingwood/4545-kingwood-dr-ste-404.html
+#1312,I-10 & Sidney Baker St,2141 Sidney Baker St,Kerrville,Texas,78028,(830) 353-8760,30.069239,-99.111734,https://locations.whataburger.com/tx/kerrville/2141-sidney-baker-st.html
+#1212,Memorial Hwy,2410 Memorial Hwy,Kerrville,Texas,78028,(830) 353-8681,30.02364618346109,-99.12607185889499,https://locations.whataburger.com/tx/kerrville/2410-memorial-hwy.html
+# 207,Junction Hwy - Kerrville,338 Junction Highway,Kerrville,Texas,78028,(830) 896-3313,30.054959335736736,-99.15230549474207,https://locations.whataburger.com/tx/kerrville/338-junction-highway.html
+# 650,Henderson Blvd - Kilgore,108 N Henderson Blvd,Kilgore,Texas,75662,(903) 984-1324,32.38042544038706,-94.86854920122337,https://locations.whataburger.com/tx/kilgore/108-n-henderson-blvd.html
+# 904,I20 & Old Hwy 135,6241 Old Highway 135 N,Kilgore,Texas,75662,(903) 983-2800,32.435587620766334,-94.9437603929907,https://locations.whataburger.com/tx/kilgore/6241-old-highway-135-n.html
+# 513,Hwy 146 & Main,1201 W Main St,La Porte,Texas,77571,(281) 470-8173,29.664852969334,-95.03126744232786,https://locations.whataburger.com/tx/la-porte/1201-w-main-st.html
+# 852,Spencer Hwy & Canada,9029 Spencer Hwy,La Porte,Texas,77571,(281) 478-6563,29.664526447372925,-95.09979413032403,https://locations.whataburger.com/tx/la-porte/9029-spencer-hwy.html
+# 635,I35 & Belt Line,120 N Interstate 35 E,Lancaster,Texas,75146,(972) 230-9296,32.591136869404515,-96.8213997362739,https://locations.whataburger.com/tx/lancaster/120-n-interstate-35-e.html
+# 818,I20 & Houston School,3797 N Houston School Rd,Lancaster,Texas,75134,(972) 224-3040,32.64084902942093,-96.80653119717152,https://locations.whataburger.com/tx/lancaster/3797-n-houston-school-rd.html
+# 592,Main St - League City,2212 E Main St,League City,Texas,77573,(281) 338-2118,29.52367226148453,-95.0764660582838,https://locations.whataburger.com/tx/league-city/2212-e-main-st.html
+# 933,I45 & FM 646,2990 Gulf Fwy S,League City,Texas,77573,(281) 534-0218,29.468000376792048,-95.0890399417162,https://locations.whataburger.com/tx/league-city/2990-gulf-fwy-s.html
+# 541,Southwest Pkwy & Hwy 121,101 W Southwest Pkwy,Lewisville,Texas,75067,(972) 434-2505,33.019475124496545,-96.99347498834324,https://locations.whataburger.com/tx/lewisville/101-w-southwest-pkwy.html
+# 575,I35E & Hwy 1171,171 N Stemmons Fwy,Lewisville,Texas,75067,(972) 221-3464,33.04726412431903,-97.0100873993883,https://locations.whataburger.com/tx/lewisville/171-n-stemmons-fwy.html
+# 38,Spur 63 & Marshall,105 S Spur 63,Longview,Texas,75601,(903) 753-7231,32.4984276197047,-94.75163881237505,https://locations.whataburger.com/tx/longview/105-s-spur-63.html
+# 877,Gilmer & Regal Oak,2401 Gilmer Rd,Longview,Texas,75604,(903) 759-8858,32.53175156321722,-94.78896349668503,https://locations.whataburger.com/tx/longview/2401-gilmer-rd.html
+# 700,Eastman & Pittman,3123 S Eastman Rd,Longview,Texas,75602,(903) 757-4927,32.45354536680425,-94.70818911962604,https://locations.whataburger.com/tx/longview/3123-s-eastman-rd.html
+# 850,Hwy 281 & Fourth,3308 N 4Th St,Longview,Texas,75605,(903) 663-2267,32.54291121678378,-94.73034508159732,https://locations.whataburger.com/tx/longview/3308-n-4th-st.html
+# 939,Loop 281 & Cotton,4108 W Loop 281 # 100,Longview,Texas,75604,(903) 236-7730,32.49732202242694,-94.77758007770754,https://locations.whataburger.com/tx/longview/4108-w-loop-281-100.html
+# 1123,Quaker & 114th,11441 Quaker Ave,Lubbock,Texas,79424,(806) 783-0465,33.48757812106198,-101.90418319570084,https://locations.whataburger.com/tx/lubbock/11441-quaker-ave.html
+# 294,Hwy 19 & Q Ave.,1702 19Th St,Lubbock,Texas,79401,(806) 747-5622,33.57813318188991,-101.85575276613235,https://locations.whataburger.com/tx/lubbock/1702-19th-st.html
+# 525,50th & Ave Q,1717 50Th St,Lubbock,Texas,79412,(806) 744-8595,33.548170376947986,-101.85686165865704,https://locations.whataburger.com/tx/lubbock/1717-50th-st.html
+# 1031,9th & University,2412 9Th St,Lubbock,Texas,79401,(806) 744-0528,33.58752169140884,-101.8693535589122,https://locations.whataburger.com/tx/lubbock/2412-9th-st.html
+# 125,50th & Utica,4802 50Th St,Lubbock,Texas,79414,(806) 792-2725,33.54917897506693,-101.9141973760748,https://locations.whataburger.com/tx/lubbock/4802-50th-st.html
+# 915,Loop 289 & 4th,5512 4Th St,Lubbock,Texas,79416,(806) 799-1955,33.59274703951704,-101.93363570552253,https://locations.whataburger.com/tx/lubbock/5512-4th-st.html
+# 940,82nd & Milwaukee,6414 82Nd St,Lubbock,Texas,79424,(806) 698-1196,33.52027152472642,-101.95503922693992,https://locations.whataburger.com/tx/lubbock/6414-82nd-st.html
+# 720,Quaker & 72nd,7201 Quaker Ave,Lubbock,Texas,79424,(806) 784-0190,33.52793443440838,-101.90544081068124,https://locations.whataburger.com/tx/lubbock/7201-quaker-ave.html
+# 768,University & 86th,8226 University Ave,Lubbock,Texas,79423,(806) 748-8220,33.51752258278176,-101.87098718956662,https://locations.whataburger.com/tx/lubbock/8226-university-ave.html
+# 602,FM 1472 & Rancho Viejo,10112 Fm 1472,Laredo,Texas,78045,(956) 717-8506,27.59260452856654,-99.51325760613422,https://locations.whataburger.com/tx/laredo/10112-fm-1472.html
+# 47,Guadalupe & Bartlett,2118 Guadalupe St,Laredo,Texas,78043,(956) 723-9757,27.50689842991516,-99.4745708134509,https://locations.whataburger.com/tx/laredo/2118-guadalupe-st.html
+# 702,Del Mar & Springfield,221 W. Del Mar Blvd.,Laredo,Texas,78041,(956) 725-2509,27.5667866,-99.5013965,https://locations.whataburger.com/tx/laredo/221-w-del-mar-blvd.html
+#1154,NE Bob Bullock Loop & EastPoint Dr.,2420 Ne Bob Bullock,Laredo,Texas,78043,(956) 477-0477,27.612886956257757,-99.47036020861569,https://locations.whataburger.com/tx/laredo/2420-ne-bob-bullock.html
+# 335,Saunders & Louisiana,2701 E Saunders St,Laredo,Texas,78041,(956) 726-4221,27.530154935277412,-99.4686607171793,https://locations.whataburger.com/tx/laredo/2701-e-saunders-st.html
+# 741,Hwy 359 & Hwy 20,4416 Highway 359,Laredo,Texas,78043,(956) 712-9889,27.497792624138153,-99.448949,https://locations.whataburger.com/tx/laredo/4416-highway-359.html
+# 69,San Bernardo & Calton,4902 San Bernardo,Laredo,Texas,78041,(956) 723-8283,27.544772072745957,-99.50484519717274,https://locations.whataburger.com/tx/laredo/4902-san-bernardo.html
+# 868,Lancer & Jacaman,7010 Lancer Rd,Laredo,Texas,78041,(956) 753-0200,27.559749684967578,-99.44816473682206,https://locations.whataburger.com/tx/laredo/7010-lancer-rd.html
+# 669,McPherson & Manor,7110 Mcpherson Rd.,Laredo,Texas,78041,(956) 729-1160,27.566998640898106,-99.47353730512157,https://locations.whataburger.com/tx/laredo/7110-mcpherson-rd.html
+# 837,Hwy 83 & Riverhill,809 Riverhill Dr,Laredo,Texas,78046,(956) 722-7100,27.460420729950382,-99.47802967055226,https://locations.whataburger.com/tx/laredo/809-riverhill-dr.html
+# 845,McPherson & Shiloh,9102 Mcpherson Rd,Laredo,Texas,78045,(956) 726-3119,27.591506076120993,-99.47962089409697,https://locations.whataburger.com/tx/laredo/9102-mcpherson-rd.html
+# 916,Hwy 287 & Hwy 94,102 S John Redditt Dr,Lufkin,Texas,75904,(936) 632-0022,31.332398391302956,-94.7600348236039,https://locations.whataburger.com/tx/lufkin/102-s-john-redditt-dr.html
+# 979,Hwy 59 & Whitehouse,103 N Brentwood Dr,Lufkin,Texas,75904,(936) 632-0005,31.298195128407567,-94.73001059585748,https://locations.whataburger.com/tx/lufkin/103-n-brentwood-dr.html
+# 82,Timberland & Paul,421 N. Timberland Dr.,Lufkin,Texas,75901,(936) 632-2216,31.34149612247112,-94.71855567055223,https://locations.whataburger.com/tx/lufkin/421-n-timberland-dr.html
+# 948,FM 2978 & Woodlands,30330 Fm 2978 Rd,Magnolia,Texas,77354,(281) 363-2223,30.19141699039069,-95.59006936833548,https://locations.whataburger.com/tx/magnolia/30330-fm-2978-rd.html
+# 901,FM 1488 & Conroe Huffsmith,6203 Fm 1488 Rd,Magnolia,Texas,77354,(832) 934-0323,30.222856740576585,-95.56135222161022,https://locations.whataburger.com/tx/magnolia/6203-fm-1488-rd.html
+#1165,Melton St & ATM,714 Melton St,Magnolia,Texas,77354,(832) 838-4034,30.211354291360145,-95.75247353918844,https://locations.whataburger.com/tx/magnolia/714-melton-st.html
+# 113,Hwy 157 & Mouser,1221 Highway 157 N,Mansfield,Texas,76063,(817) 473-1585,32.58102300319761,-97.15118493935032,https://locations.whataburger.com/tx/mansfield/1221-highway-157-n.html
+# 1016,Hwy 360 & Broad,3320 E Broad St,Mansfield,Texas,76063,(682) 518-1244,32.57567130553865,-97.08296958222573,https://locations.whataburger.com/tx/mansfield/3320-e-broad-st.html
+# 48,Victory & Hwy 59,2010 Victory Dr,Marshall,Texas,75672,(903) 938-2064,32.54745190190298,-94.34641650198834,https://locations.whataburger.com/tx/marshall/2010-victory-dr.html
+# 556,East End & Bell,2406 E End Blvd S,Marshall,Texas,75672,(903) 935-6161,32.523893438531125,-94.35144229141903,https://locations.whataburger.com/tx/marshall/2406-e-end-blvd-s.html
+# 772,Nolana & McColl,1000 E Nolana Ave,Mcallen,Texas,78504,(956) 668-7410,26.236427924705374,-98.20389463265529,https://locations.whataburger.com/tx/mcallen/1000-e-nolana-ave.html
+# 7,Jackson & Jackson,1412 E Jackson Ave,Mcallen,Texas,78503,(956) 682-0166,26.190462945623274,-98.20677989778511,https://locations.whataburger.com/tx/mcallen/1412-e-jackson-ave.html
+# 388,10th & W Frontage Rd,1419 S 10Th St,Mcallen,Texas,78501,(956) 682-5597,26.190475135104716,-98.2315353705349,https://locations.whataburger.com/tx/mcallen/1419-s-10th-st.html
+# 23,Bus 83 & S 23rd,2225 W Us Highway 83,Mcallen,Texas,78501,(956) 686-6546,26.205558787250986,-98.24471832520976,https://locations.whataburger.com/tx/mcallen/2225-w-us-highway-83.html
+# 584,23rd & Orchid,4017 N 23Rd St,Mcallen,Texas,78504,(956) 682-8933,26.24203359145477,-98.23962227116394,https://locations.whataburger.com/tx/mcallen/4017-n-23rd-st.html
+# 695,10th &Trenton,7101 N 10Th St,Mcallen,Texas,78504,(956) 686-4242,26.267343003299782,-98.21969873295389,https://locations.whataburger.com/tx/mcallen/7101-n-10th-st.html
+# 664,Hwy 75 & Rockhill,445 S Central Expy,Mckinney,Texas,75070,(214) 544-8100,33.19510790196965,-96.63823664188385,https://locations.whataburger.com/tx/mckinney/445-s-central-expy.html
+# 1115,US 380 & Lake Forest,4970 W University Dr,Mckinney,Texas,75071,(972) 984-1432,33.21874037399412,-96.67761016526092,https://locations.whataburger.com/tx/mckinney/4970-w-university-dr.html
+# 1105,Eldorado & Ridge,6151 Eldorado Pkwy,Mckinney,Texas,75070,(214) 491-4129,33.17353534289853,-96.69605129811201,https://locations.whataburger.com/tx/mckinney/6151-eldorado-pkwy.html
+# 963,Hwy 121 & Custer,8608 State Highway 121,Mckinney,Texas,75070,(972) 390-9917,33.12824405357833,-96.72703182996143,https://locations.whataburger.com/tx/mckinney/8608-state-highway-121.html
+# 1018,Hwy 380 & Custer,9053 W University Dr,Mckinney,Texas,75071,(972) 540-9156,33.21797589165581,-96.7338316050001,https://locations.whataburger.com/tx/mckinney/9053-w-university-dr.html
+# 295,Big Spring & Eugene,1905 N Big Spring St,Midland,Texas,79705,(432) 684-0545,32.016444611161525,-102.07967767055227,https://locations.whataburger.com/tx/midland/1905-n-big-spring-st.html
+#1268,Rankin Hwy & I20,2008 Rankin Hwy,Midland,Texas,79701,(432) 242-0495,31.976931,-102.076043,https://locations.whataburger.com/tx/midland/2008-rankin-hwy.html
+# 704,I20 & FM158,2217 E Interstate 20,Midland,Texas,79701,(432) 570-4179,31.982437728943733,-102.04110325339032,https://locations.whataburger.com/tx/midland/2217-e-interstate-20.html
+# 297,Midkiff & Wadley,3206 N Midkiff Rd,Midland,Texas,79705,(432) 697-4184,32.018793282069026,-102.1242439069793,https://locations.whataburger.com/tx/midland/3206-n-midkiff-rd.html
+# 177,Andrews Hwy & Kansas,800 Andrews Hwy,Midland,Texas,79701,(432) 694-1648,31.999256571441204,-102.10861474259248,https://locations.whataburger.com/tx/midland/800-andrews-hwy.html
+# 776,Hwy 287 & George Hopper,1320 E Main St,Midlothian,Texas,76065,(972) 775-2323,32.47412216038174,-96.97811221288013,https://locations.whataburger.com/tx/midlothian/1320-e-main-st.html
+# 914,Hwy 287 & Presidential,2440 Presidential Pkwy,Midlothian,Texas,76065,(972) 775-2480,32.455722017697646,-96.93506194610461,https://locations.whataburger.com/tx/midlothian/2440-presidential-pkwy.html
+# 807,Griffin & Conway,201 E Griffin Pkwy,Mission,Texas,78572,(956) 581-2021,26.229838120359076,-98.32182169386579,https://locations.whataburger.com/tx/mission/201-e-griffin-pkwy.html
+# 719,Hwy 83 & Taylor,2510 E Expressway 83,Mission,Texas,78572,(956) 583-2131,26.194774245074406,-98.28257201165678,https://locations.whataburger.com/tx/mission/2510-e-expressway-83.html
+# 191,E 9th & Mayberry,801 E 9Th St,Mission,Texas,78572,(956) 581-2121,26.214073044598013,-98.31748196502971,https://locations.whataburger.com/tx/mission/801-e-9th-st.html
+# 1153,University Blvd & Hwy 6,5970 Highway 6,Missouri City,Texas,77459,(832) 342-9607,29.566460335026594,-95.56600938815309,https://locations.whataburger.com/tx/missouri-city/5970-highway-6.html
+# 990,Sienna Pkwy & Hwy 6,8820 Highway 6 Ste 100,Missouri City,Texas,77459,(281) 778-6922,29.5390817897187,-95.53762342270184,https://locations.whataburger.com/tx/missouri-city/8820-highway-6-ste-100.html
+# 80,Kearney & Belt Line,128 E Kearney St,Mesquite,Texas,75149,(972) 285-4193,32.770080529149446,-96.59779643275799,https://locations.whataburger.com/tx/mesquite/128-e-kearney-st.html
+# 410,Military & Loop I-635,1726 Military Parkway,Mesquite,Texas,75149,(972) 289-9263,32.76745035551198,-96.62415188909385,https://locations.whataburger.com/tx/mesquite/1726-military-parkway.html
+# 390,Galloway & Poteet Dr,2943 N Galloway Ave,Mesquite,Texas,75150,(972) 681-3318,32.80665569082948,-96.61174906038346,https://locations.whataburger.com/tx/mesquite/2943-n-galloway-ave.html
+# 305,Town East & Motley,3204 Town East Blvd.,Mesquite,Texas,75150,(972) 270-1641,32.80260204549069,-96.64420661165676,https://locations.whataburger.com/tx/mesquite/3204-town-east-blvd.html
+# 1017,FM 306 & I-35,123 Creekside Xing,New Braunfels,Texas,78130,(830) 643-0414,29.727919796798332,-98.07618284870203,https://locations.whataburger.com/tx/new-braunfels/123-creekside-xing.html
+# 318,Seguin Ave & I-35,143 S Interstate 35,New Braunfels,Texas,78130,(830) 629-1122,29.690059366769496,-98.1109181841823,https://locations.whataburger.com/tx/new-braunfels/143-s-interstate-35.html
+# 995,Hwy 46 & Independence,1687 W State Highway 46,New Braunfels,Texas,78132,(830) 608-1447,29.716063857780423,-98.1603498134918,https://locations.whataburger.com/tx/new-braunfels/1687-w-state-highway-46.html
+# 110,Davis & Clark,5200 Davis Blvd,North Richland Hills,Texas,76180,(817) 281-0894,32.842037295790064,-97.21393826823727,https://locations.whataburger.com/tx/north-richland-hills/5200-davis-blvd.html
+# 368,Rufe Snow & Browning,5501 Rufe Snow Dr,North Richland Hills,Texas,76180,(817) 656-9561,32.84701681259045,-97.2390448920307,https://locations.whataburger.com/tx/north-richland-hills/5501-rufe-snow-dr.html
+# 729,Precinct & Mid Cities,6225 Precinct Line Rd,North Richland Hills,Texas,76180,(817) 281-8410,32.860756764765064,-97.18664153067111,https://locations.whataburger.com/tx/north-richland-hills/6225-precinct-line-rd.html
+# 1156,,10173 Us Hwy 259,Nacogdoches,Texas,75964,(936) 585-4065,31.70362860612134,-94.67773216357787,https://locations.whataburger.com/tx/nacogdoches/10173-us-hwy-259.html
+# 429,Bus 59 - Nacogdoches,2617 North Street,Nacogdoches,Texas,75965,(936) 564-4988,31.60182979999999,-94.64670629999999,https://locations.whataburger.com/tx/nacogdoches/2617-north-street.html
+# 30,E 8th & Mc Kinley,1900 E 8Th St,Odessa,Texas,79761,(432) 337-6675,31.860274932082152,-102.34731901604516,https://locations.whataburger.com/tx/odessa/1900-e-8th-st.html
+# 24,Andrews Hwy & 37th,3716 Andrews Hwy,Odessa,Texas,79762,(432) 362-2545,31.878235362253772,-102.38315042270185,https://locations.whataburger.com/tx/odessa/3716-andrews-hwy.html
+# 302,Hwy 191 & John B. Shepperd,4960 E 42Nd St,Odessa,Texas,79762,(432) 367-3511,31.89287444540861,-102.33461048098565,https://locations.whataburger.com/tx/odessa/4960-e-42nd-st.html
+# 536,McArthur & Dal Sasso,2300 Mcarthur Dr.,Orange,Texas,77630,(409) 886-0044,30.09481509998238,-93.75682907792657,https://locations.whataburger.com/tx/orange/2300-mcarthur-dr.html
+# 830,I10 & Hwy 62,7241 Ih 10,Orange,Texas,77630,(409) 883-8799,30.114318134610574,-93.81889847805895,https://locations.whataburger.com/tx/orange/7241-ih-10.html
+# 512,271 & Loop 286,2470 N Main St,Paris,Texas,75460,(903) 785-0808,33.68544385364267,-95.55397697753166,https://locations.whataburger.com/tx/paris/2470-n-main-st.html
+# 716,Hwy 82 & 33rd,3325 Lamar Ave,Paris,Texas,75460,(903) 784-1365,33.66138433421217,-95.5144155743101,https://locations.whataburger.com/tx/paris/3325-lamar-ave.html
+# 35,Spencer & Shaver,2301 Spencer Hwy,Pasadena,Texas,77504,(713) 946-9574,29.665166463895307,-95.20591257729816,https://locations.whataburger.com/tx/pasadena/2301-spencer-hwy.html
+# 144,Red Bluff & Pasadena,3939 Red Bluff Rd,Pasadena,Texas,77503,(281) 476-4272,29.68244992618109,-95.15141657939783,https://locations.whataburger.com/tx/pasadena/3939-red-bluff-rd.html
+# 325,Fairmont & Yuma,4831 Fairmont Pkwy,Pasadena,Texas,77505,(281) 998-1605,29.650044524407804,-95.1696630349703,https://locations.whataburger.com/tx/pasadena/4831-fairmont-pkwy.html
+# 143,Southmore & Witter,810 Southmore Ave,Pasadena,Texas,77502,(713) 472-4374,29.690449019564333,-95.20303898834324,https://locations.whataburger.com/tx/pasadena/810-southmore-ave.html
+# 1058,Hwy 288 & Shadow Creek,11025 Shadow Creek Pkwy,Pearland,Texas,77584,(713) 436-7526,29.581794716297413,-95.38870670639292,https://locations.whataburger.com/tx/pearland/11025-shadow-creek-pkwy.html
+# 433,Main & Broadway,2406 S Main St,Pearland,Texas,77581,(281) 485-6744,29.56283894785676,-95.28646306267223,https://locations.whataburger.com/tx/pearland/2406-s-main-st.html
+# 810,Hwy 288 & Broadway,3040 Silverlake Village Dr,Pearland,Texas,77584,(713) 436-5177,29.554049999140034,-95.38596315459633,https://locations.whataburger.com/tx/pearland/3040-silverlake-village-dr.html
+# 190,Hwy 83 & 281,100 E Interstate 2,Pharr,Texas,78577,(956) 781-3611,26.205932833185628,-98.18129474355123,https://locations.whataburger.com/tx/pharr/100-e-interstate-2.html
+# 1023,Hwy 281 & Ridge,1410 S Cage Blvd,Pharr,Texas,78577,(956) 702-4272,26.178346610622835,-98.18732595337296,https://locations.whataburger.com/tx/pharr/1410-s-cage-blvd.html
+# 480,K Ave & Park,2548 K Ave,Plano,Texas,75074,(972) 423-5506,33.03255266923646,-96.69865479584995,https://locations.whataburger.com/tx/plano/2548-k-ave.html
+#1340,NEC PGBT & Renner Rd,3355 E President George Bush,Plano,Texas,75074,(469) 304-2674,32.99813113659202,-96.67009651786042,https://locations.whataburger.com/tx/plano/3355-e-president-george-bush.html
+# 1009,Hwy 75 & Parker,3521 N Central Expy,Plano,Texas,75023,(972) 578-3835,33.04486690104024,-96.70154559264239,https://locations.whataburger.com/tx/plano/3521-n-central-expy.html
+# 812,Coit & Mapleshade,433 Coit Rd,Plano,Texas,75075,(972) 519-0442,33.00441113465901,-96.76840755398464,https://locations.whataburger.com/tx/plano/433-coit-rd.html
+# 743,Coit & Stonewood,6401 Coit Rd,Plano,Texas,75024,(972) 769-8640,33.05949286761489,-96.77099824847035,https://locations.whataburger.com/tx/plano/6401-coit-rd.html
+# 722,I35 & Ovilla,101 Harris Ave,Red Oak,Texas,75154,(972) 617-5545,32.53129613068235,-96.82133076380634,https://locations.whataburger.com/tx/red-oak/101-harris-ave.html
+# 962,Hwy 342 & Water,121 S State Highway 342,Red Oak,Texas,75154,(972) 576-1000,32.51137334699843,-96.8044886889549,https://locations.whataburger.com/tx/red-oak/121-s-state-highway-342.html
+# 209,Campbell & Coit,1910 N Coit Rd,Richardson,Texas,75080,(972) 231-2833,32.97629558110654,-96.76783388118662,https://locations.whataburger.com/tx/richardson/1910-n-coit-rd.html
+# 1003,Plano & Belt Line,505 S Plano Rd,Richardson,Texas,75081,(972) 918-9680,32.942649267795964,-96.69943059876157,https://locations.whataburger.com/tx/richardson/505-s-plano-rd.html
+# 974,Bellaire & Grand Pkwy,22710 Bellaire Blvd,Richmond,Texas,77406,(281) 232-5726,29.689636544540573,-95.77223454684946,https://locations.whataburger.com/tx/richmond/22710-bellaire-blvd.html
+# 1148,FM 1093 & FM 1463,27002 Fm 1093 Rd,Richmond,Texas,77406,(281) 574-0660,29.695519013179457,-95.84440054093297,https://locations.whataburger.com/tx/richmond/27002-fm-1093-rd.html
+#1155,W Bellfort St & Harlem Rd,4817 Waterview Town Center Dr,Richmond,Texas,77407,(281) 201-6625,29.660399370855462,-95.71741615363754,https://locations.whataburger.com/tx/richmond/4817-waterview-town-center-dr.html
+# 802,FM 1640 & FM 762,5400 Fm 1640 Rd Ste 500,Richmond,Texas,77469,(281) 239-7161,29.559668501993617,-95.76075469386578,https://locations.whataburger.com/tx/richmond/5400-fm-1640-rd-ste-500.html
+# 528,I35 & Hester's Crossing,1501 S Interstate 35,Round Rock,Texas,78664,(512) 244-3815,30.49514189619999,-97.67771065235138,https://locations.whataburger.com/tx/round-rock/1501-s-interstate-35.html
+#1177,N RM 620 & O'Connor Dr,17000 N Rm 620 Rd,Round Rock,Texas,78681,(512) 394-8361,30.5020489654078,-97.72039839227804,https://locations.whataburger.com/tx/round-rock/17000-n-rm-620-rd.html
+#1226,University Blvd,281 University Blvd,Round Rock,Texas,78665,(512) 351-3356,30.558977,-97.687453,https://locations.whataburger.com/tx/round-rock/281-university-blvd.html
+# 892,Hwy 79 & Red Bud,4640 E Palm Valley Blvd,Round Rock,Texas,78665,(512) 238-0801,30.532631175441082,-97.61370988050572,https://locations.whataburger.com/tx/round-rock/4640-e-palm-valley-blvd.html
+# 456,Hwy 83 - Rio Grande City,4143 Us Hwy 83 E,Rio Grande City,Texas,78582,(956) 487-4242,26.37155367422085,-98.79863758385284,https://locations.whataburger.com/tx/rio-grande-city/4143-us-hwy-83-e.html
+#1174,Hwy 83 & FM 755,4515 E Hwy 83,Rio Grande City,Texas,78582,(512) 337-1121,26.371534857278565,-98.79862511920405,https://locations.whataburger.com/tx/rio-grande-city/4515-e-hwy-83.html
+# 806,Hwy 66 & Main,2500 Lakeview Pkwy,Rowlett,Texas,75088,(972) 463-9997,32.90734122594786,-96.57829598353601,https://locations.whataburger.com/tx/rowlett/2500-lakeview-pkwy.html
+# 1012,Hwy 66 & Dalrock,8700 Lakeview Pkwy,Rowlett,Texas,75088,(972) 412-3535,32.91727045488558,-96.51657083584657,https://locations.whataburger.com/tx/rowlett/8700-lakeview-pkwy.html
+# 519,Bryant & 19th,1830 N Bryant Blvd,San Angelo,Texas,76903,(325) 657-0756,31.47676018185184,-100.45279766195394,https://locations.whataburger.com/tx/san-angelo/1830-n-bryant-blvd.html
+# 147,Sherwood & Arden,3202 Sherwood Way,San Angelo,Texas,76901,(325) 944-4566,31.44608141654707,-100.47922924248783,https://locations.whataburger.com/tx/san-angelo/3202-sherwood-way.html
+# 703,Knickerbocker & Southland,4646 Knickerbocker Rd,San Angelo,Texas,76904,(325) 223-1312,31.414259211910387,-100.47539523619366,https://locations.whataburger.com/tx/san-angelo/4646-knickerbocker-rd.html
+Welcome to Whataburger,,5855 Sherwood Way,San Angelo,Texas,76901,(325) 939-0004,31.4254123,-100.5148533,https://locations.whataburger.com/tx/san-angelo/5855-sherwood-way.html
+# 711,San Pedro & Ramsey,10011 San Pedro Ave,San Antonio,Texas,78216,(210) 979-8032,29.531894329795026,-98.49696050025085,https://locations.whataburger.com/tx/san-antonio/10011-san-pedro-ave.html
+# 327,NW Military & Wurzbach,11003 Nw Military Hwy,San Antonio,Texas,78231,(210) 408-1749,29.555355979048183,-98.53479442762941,https://locations.whataburger.com/tx/san-antonio/11003-nw-military-hwy.html
+# 399,Roosevelt & Steves,1118 Roosevelt Ave,San Antonio,Texas,78210,(210) 534-0911,29.39282163219767,-98.48580203383617,https://locations.whataburger.com/tx/san-antonio/1118-roosevelt-ave.html
+#1180,Culebra & Alamo Parkway,12034 Culebra Rd,San Antonio,Texas,78253,(210) 775-2350,29.503456935573112,-98.7307185298871,https://locations.whataburger.com/tx/san-antonio/12034-culebra-rd.html
+# 1061,Nacogdoches & Thousand Oaks,12309 Nacogdoches Rd,San Antonio,Texas,78217,(210) 599-2871,29.552497331713656,-98.40572119719846,https://locations.whataburger.com/tx/san-antonio/12309-nacogdoches-rd.html
+# 1052,Austin Hwy & Seidel,1243 Austin Hwy,San Antonio,Texas,78209,(210) 824-0041,29.48897629693938,-98.44478975774364,https://locations.whataburger.com/tx/san-antonio/1243-austin-hwy.html
+# 949,Loop 410 & Palo Alto,12510 Sw Loop 410,San Antonio,Texas,78224,(210) 923-3155,29.321184229059586,-98.55436300456375,https://locations.whataburger.com/tx/san-antonio/12510-sw-loop-410.html
+# 717,De Zavala & I10,12808 W Interstate 10,San Antonio,Texas,78249,(210) 696-4068,29.563621173350214,-98.59223491840265,https://locations.whataburger.com/tx/san-antonio/12808-w-interstate-10.html
+# 362,O'Connor & Nacogdoches,13900 Oconnor Rd,San Antonio,Texas,78233,(210) 654-8175,29.56776394332891,-98.38411888247362,https://locations.whataburger.com/tx/san-antonio/13900-oconnor-rd.html
+#1253,Potranco Rd & Stevens Pkwy,14353 Potranco Rd,San Antonio,Texas,78253,(210) 209-8043,29.422769305298935,-98.7816327811825,https://locations.whataburger.com/tx/san-antonio/14353-potranco-rd.html
+# 200,Brook Hollow & Hwy 281,14543 Brook Hollow Blvd,San Antonio,Texas,78232,(210) 494-7231,29.579875786488433,-98.47617015363755,https://locations.whataburger.com/tx/san-antonio/14543-brook-hollow-blvd.html
+# 794,Blanco & Bitters,14646 Blanco Rd,San Antonio,Texas,78216,(210) 493-2841,29.576724771329587,-98.5128528591601,https://locations.whataburger.com/tx/san-antonio/14646-blanco-rd.html
+# 1034,Bulverde Rd & 1604,17311 Bulverde Rd,San Antonio,Texas,78247,(210) 404-9936,29.598876887785988,-98.41944435158648,https://locations.whataburger.com/tx/san-antonio/17311-bulverde-rd.html
+# 1008,I10 & The Rim,18303 W Interstate 10,San Antonio,Texas,78257,(210) 641-0368,29.61455536104742,-98.60404902234177,https://locations.whataburger.com/tx/san-antonio/18303-w-interstate-10.html
+# 749,Blanco & Loop 1604,18330 Blanco Rd,San Antonio,Texas,78258,(210) 491-4475,29.61107016595559,-98.50794376380634,https://locations.whataburger.com/tx/san-antonio/18330-blanco-rd.html
+# 660,Loop 1604 & Hwy 281,18417 Us Highway 281 N,San Antonio,Texas,78258,(210) 496-7730,29.61076031143482,-98.46891917142855,https://locations.whataburger.com/tx/san-antonio/18417-us-highway-281-n.html
+# 839,Evans & Hwy 281,2203 E Evans Rd,San Antonio,Texas,78259,(210) 497-3939,29.63674596371437,-98.45457914293956,https://locations.whataburger.com/tx/san-antonio/2203-e-evans-rd.html
+# 1070,Wilderness Oak & Hardy Oak,23522 Wilderness Oak Ste 115,San Antonio,Texas,78258,(210) 481-9104,29.659622870217973,-98.4998556386404,https://locations.whataburger.com/tx/san-antonio/23522-wilderness-oak-ste-115.html
+# 1101,I10 & Ralph Fair,25111 W Ih 10,San Antonio,Texas,78257,(210) 698-5485,29.674635490213163,-98.6364181540392,https://locations.whataburger.com/tx/san-antonio/25111-w-ih-10.html
+# 755,Loop 410 & Vance Jackson,2557 Nw Loop 410,San Antonio,Texas,78230,(210) 384-0567,29.51253593316306,-98.53468477498319,https://locations.whataburger.com/tx/san-antonio/2557-nw-loop-410.html
+# 1157,Bulverde Rd & US Hwy 281,26510 Us Highway 281 N,San Antonio,Texas,78260,(726) 222-9879,29.69286043500016,-98.4515182828207,https://locations.whataburger.com/tx/san-antonio/26510-us-highway-281-n.html
+# 367,West & San Angelo,2727 West Ave,San Antonio,Texas,78201,(210) 340-2445,29.485607506634757,-98.52633476380635,https://locations.whataburger.com/tx/san-antonio/2727-west-ave.html
+# 1102,Loop 1604 & Marbach,2870 W Loop 1604 S,San Antonio,Texas,78245,(210) 645-7029,29.402574168359205,-98.70523457729817,https://locations.whataburger.com/tx/san-antonio/2870-w-loop-1604-s.html
+# 382,Roland & I10,303 Roland Rd,San Antonio,Texas,78210,(210) 333-7060,29.4026194693469,-98.44273808520607,https://locations.whataburger.com/tx/san-antonio/303-roland-rd.html
+# 734,Broadway & Eleanor,3130 Broadway St,San Antonio,Texas,78209,(210) 822-2568,29.45567408505426,-98.46999468736709,https://locations.whataburger.com/tx/san-antonio/3130-broadway-st.html
+# 315,Wurzbach & Loop 410,3202 Wurzbach Rd,San Antonio,Texas,78238,(210) 680-0848,29.466528440024685,-98.62219637607478,https://locations.whataburger.com/tx/san-antonio/3202-wurzbach-rd.html
+# 834,SE Military & City Base Landing,3239 Se Military Dr,San Antonio,Texas,78223,(210) 337-9115,29.352180831062196,-98.4355263993883,https://locations.whataburger.com/tx/san-antonio/3239-se-military-dr.html
+# 160,New Braunfels & Fair,3500 S New Braunfels Ave,San Antonio,Texas,78223,(210) 533-1467,29.38379600249717,-98.46078706267222,https://locations.whataburger.com/tx/san-antonio/3500-s-new-braunfels-ave.html
+#1323,Culebra Rd & Hillcrest Dr,3551 Culebra Rd,San Antonio,Texas,78228,(210) 944-0651,29.449951318816318,-98.57190404156685,https://locations.whataburger.com/tx/san-antonio/3551-culebra-rd.html
+# 1025,E Commerce & Presa,412 E Commerce St,San Antonio,Texas,78205,(210) 228-0710,29.423845213096847,-98.48887795276129,https://locations.whataburger.com/tx/san-antonio/412-e-commerce-st.html
+# 919,I37 & Loop 1604,4125 S Loop 1604 E,San Antonio,Texas,78264,(210) 626-1176,29.219298588503058,-98.41433770259587,https://locations.whataburger.com/tx/san-antonio/4125-s-loop-1604-e.html
+# 285,Fredericksburg & Crossroads,4502 Fredericksburg Rd,San Antonio,Texas,78201,(210) 732-6570,29.489934544623598,-98.55073537607478,https://locations.whataburger.com/tx/san-antonio/4502-fredericksburg-rd.html
+# 985,Loop 410 & Callaghan,4590 Nw Loop 410,San Antonio,Texas,78229,(210) 731-0782,29.488828787832883,-98.57354977357714,https://locations.whataburger.com/tx/san-antonio/4590-nw-loop-410.html
+# 363,Rittiman & I35,4635 Rittiman Rd,San Antonio,Texas,78218,(210) 650-4003,29.48446736316744,-98.40060332944775,https://locations.whataburger.com/tx/san-antonio/4635-rittiman-rd.html
+# 149,Commerce & General McMullen,4646 W Commerce St,San Antonio,Texas,78237,(210) 435-3084,29.430329557508394,-98.5536610670139,https://locations.whataburger.com/tx/san-antonio/4646-w-commerce-st.html
+# 381,I35 & Division,4720 Interstate Highway 35 S,San Antonio,Texas,78211,(210) 924-2118,29.37884060204661,-98.51255746932888,https://locations.whataburger.com/tx/san-antonio/4720-interstate-highway-35-s.html
+# 782,SW Military & Boswell,503 Sw Military Dr,San Antonio,Texas,78221,(210) 921-1709,29.357096103180655,-98.4995697631159,https://locations.whataburger.com/tx/san-antonio/503-sw-military-dr.html
+# 352,Rigsby & Semlinger,5075 Rigsby Ave,San Antonio,Texas,78222,(210) 648-4081,29.398724704878546,-98.39166853926946,https://locations.whataburger.com/tx/san-antonio/5075-rigsby-ave.html
+# 1055,Cypress & Jackson,516 W Cypress St,San Antonio,Texas,78212,(210) 444-0212,29.44033073699842,-98.49967701165676,https://locations.whataburger.com/tx/san-antonio/516-w-cypress-st.html
+# 946,Loop 1604 & Potranco,530 W Loop 1604 N,San Antonio,Texas,78251,(210) 647-4402,29.437773635908982,-98.71010140061169,https://locations.whataburger.com/tx/san-antonio/530-w-loop-1604-n.html
+# 790,Loop 1604 & Culebra,5760 W Loop 1604 N,San Antonio,Texas,78251,(210) 688-6335,29.4912293657259,-98.70486726823727,https://locations.whataburger.com/tx/san-antonio/5760-w-loop-1604-n.html
+# 15,San Pedro & Basse,5900 San Pedro Ave,San Antonio,Texas,78212,(210) 736-5769,29.48869105018886,-98.49889603397808,https://locations.whataburger.com/tx/san-antonio/5900-san-pedro-ave.html
+# 699,Babcock & Prue,6391 Babcock Rd,San Antonio,Texas,78240,(210) 697-0244,29.54375383246826,-98.61399274049282,https://locations.whataburger.com/tx/san-antonio/6391-babcock-rd.html
+# 596,1604 & La Cantera,6803 N Loop 1604 W,San Antonio,Texas,78249,(210) 690-8366,29.5890432092606,-98.62224716218093,https://locations.whataburger.com/tx/san-antonio/6803-n-loop-1604-w.html
+# 693,Loop 1604 & Nacogdoches,6950 N Loop 1604 E,San Antonio,Texas,78247,(210) 946-0316,29.592222677967314,-98.35356956158958,https://locations.whataburger.com/tx/san-antonio/6950-n-loop-1604-e.html
+# 112,Zarzamora & SW Military,7007 S Zarzamora St,San Antonio,Texas,78224,(210) 927-6891,29.358002211755753,-98.53460346455816,https://locations.whataburger.com/tx/san-antonio/7007-s-zarzamora-st.html
+#1173,US 90 & W Military Dr,7023 W Us Highway 90,San Antonio,Texas,78227,(210) 728-3445,29.402921643466367,-98.62984016258295,https://locations.whataburger.com/tx/san-antonio/7023-w-us-highway-90.html
+# 710,Seguin & Walzem,7725 Fm 78,San Antonio,Texas,78244,(210) 666-8776,29.492271917065917,-98.33445583619887,https://locations.whataburger.com/tx/san-antonio/7725-fm-78.html
+# 1106,Fredericksburg & Medical,8002 Fredericksburg Rd,San Antonio,Texas,78229,(210) 615-2214,29.513625155857234,-98.56897274049282,https://locations.whataburger.com/tx/san-antonio/8002-fredericksburg-rd.html
+# 320,Marbach & Loop 410,8214 Marbach Rd,San Antonio,Texas,78227,(210) 673-4520,29.41739301887779,-98.65141514183146,https://locations.whataburger.com/tx/san-antonio/8214-marbach-rd.html
+# 924,Hwy 151 & Loop 410,8319 State Highway 151,San Antonio,Texas,78245,(210) 521-1511,29.43719034567185,-98.65180119816495,https://locations.whataburger.com/tx/san-antonio/8319-state-highway-151.html
+# 784,Broadway & Loop 410,8426 Broadway St,San Antonio,Texas,78209,(210) 828-5720,29.51597950554833,-98.46437151349183,https://locations.whataburger.com/tx/san-antonio/8426-broadway-st.html
+# 661,Sunset & Hwy 281,8481 N Us Highway 281,San Antonio,Texas,78216,(210) 979-7369,29.515742670565203,-98.47869339141903,https://locations.whataburger.com/tx/san-antonio/8481-n-us-highway-281.html
+# 329,Grissom & Timber Path,8756 Grissom Rd,San Antonio,Texas,78251,(210) 680-4463,29.4792690982637,-98.65738885267965,https://locations.whataburger.com/tx/san-antonio/8756-grissom-rd.html
+# 698,Loop 1604 & Bandera,9263 N Loop 1604 W,San Antonio,Texas,78249,(210) 695-5741,29.5555443947802,-98.66719901561737,https://locations.whataburger.com/tx/san-antonio/9263-n-loop-1604-w.html
+#1224,San Antonio Airport,9800 Airport Blvd,San Antonio,Texas,78216,(210) 971-6146,29.526454559299086,-98.47128785191079,https://locations.whataburger.com/tx/san-antonio/9800-airport-blvd.html
+# 178,Guadalupe & I-35,1004 N State Highway 123,San Marcos,Texas,78666,(512) 353-0567,29.867679484729393,-97.93931788017123,https://locations.whataburger.com/tx/san-marcos/1004-n-state-highway-123.html
+# 705,Centerpoint & I-35,4040 S Interstate 35,San Marcos,Texas,78666,(512) 754-7375,29.8274108035284,-97.9871374081184,https://locations.whataburger.com/tx/san-marcos/4040-s-interstate-35.html
+# 897,Hwy 46 & I10,1520 N State Highway 46,Seguin,Texas,78155,(830) 379-2582,29.581893166292858,-97.99146106134224,https://locations.whataburger.com/tx/seguin/1520-n-state-highway-46.html
+# 406,Hwy 123 & Hwy 90,318 N Highway 123 Byp,Seguin,Texas,78155,(830) 372-3120,29.57091512815317,-97.94143694581173,https://locations.whataburger.com/tx/seguin/318-n-highway-123-byp.html
+# 750,I45 & Louetta,20550 Interstate 45,Spring,Texas,77373,(281) 651-7960,30.06454857079217,-95.43317469386577,https://locations.whataburger.com/tx/spring/20550-interstate-45.html
+# 1045,FM 2920 & Spring Cypress,2115 Fm 2920 Rd,Spring,Texas,77388,(281) 288-2913,30.069230228870904,-95.44754160826541,https://locations.whataburger.com/tx/spring/2115-fm-2920-rd.html
+# 1143,Kuykendahl Rd & Grand Pkwy,21710 Kuykendahl Rd,Spring,Texas,77379,(281) 753-5095,30.08321274041287,-95.52217339908928,https://locations.whataburger.com/tx/spring/21710-kuykendahl-rd.html
+# 439,Sawdust & Budde,316 Sawdust Rd,Spring,Texas,77380,(281) 367-1995,30.127000721529726,-95.44814804681882,https://locations.whataburger.com/tx/spring/316-sawdust-rd.html
+# 1103,Rayford & Hwy 99,3447 Rayford Rd,Spring,Texas,77386,(281) 907-6775,30.112459735394864,-95.38895617498318,https://locations.whataburger.com/tx/spring/3447-rayford-rd.html
+# 404,Louetta & Stuebner Airline,7430 Louetta Rd,Spring,Texas,77379,(281) 257-5504,30.01889406548835,-95.5284740582838,https://locations.whataburger.com/tx/spring/7430-louetta-rd.html
+# 631,Belfort & Hwy 6,10315 S Highway 6,Sugar Land,Texas,77498,(281) 265-6838,29.665397653267792,-95.64248686871719,https://locations.whataburger.com/tx/sugar-land/10315-s-highway-6.html
+# 797,Grand Pkwy & I69,17480 W Grand Pkwy S,Sugar Land,Texas,77479,(281) 232-5546,29.563742757057565,-95.68762101471519,https://locations.whataburger.com/tx/sugar-land/17480-w-grand-pkwy-s.html
+# 1047,Hwy 90 & Hwy 6,340 Highway 6,Sugar Land,Texas,77478,(281) 494-4298,29.610259671801618,-95.64708998834324,https://locations.whataburger.com/tx/sugar-land/340-highway-6.html
+# 569,Austin Pkwy & Hwy 6 S,4530 Highway 6,Sugar Land,Texas,77478,(281) 980-5757,29.58142016850857,-95.58516642270183,https://locations.whataburger.com/tx/sugar-land/4530-highway-6.html
+#1179,W Washington & S Lockhart,2820 W Washington St,Stephenville,Texas,76401,(254) 459-4831,32.20274297902341,-98.2411675124715,https://locations.whataburger.com/tx/stephenville/2820-w-washington-st.html
+# 476,Hwy 377 - Stephenville,2830 W Washington St,Stephenville,Texas,76401,(254) 968-6285,32.20274526007344,-98.24114982783385,https://locations.whataburger.com/tx/stephenville/2830-w-washington-st.html
+# 629,I35 & Adams,115 N General Bruce Dr,Temple,Texas,76504,(254) 771-0001,31.10359896535575,-97.3579743263893,https://locations.whataburger.com/tx/temple/115-n-general-bruce-dr.html
+# 957,Loop 363 & TX 1741,1415 Sw H K Dodgen Loop,Temple,Texas,76502,(254) 771-1811,31.07273084001526,-97.3699027404928,https://locations.whataburger.com/tx/temple/1415-sw-h-k-dodgen-loop.html
+# 1097,Adams & Old Waco,6705 W Adams Ave,Temple,Texas,76502,(254) 771-9955,31.11632493279872,-97.41355249570086,https://locations.whataburger.com/tx/temple/6705-w-adams-ave.html
+Welcome to Whataburger,N/A,20108 Cypress Rosehill,Tomball,Texas,77377,(281) 205-4089,30.054020686350324,-95.69690419181823,https://locations.whataburger.com/tx/tomball/20108-cypress-rosehill.html
+# 828,Hwy 249 & Spring Cypress,22603 Tomball Pkwy,Tomball,Texas,77375,(832) 717-5357,30.01415782853334,-95.59238743583282,https://locations.whataburger.com/tx/tomball/22603-tomball-pkwy.html
+# 1130,Kuykendahl & Timbercrest Village,25720 Kuykendahl Rd,Tomball,Texas,77375,(281) 516-9504,30.134142777626177,-95.55282931486433,https://locations.whataburger.com/tx/tomball/25720-kuykendahl-rd.html
+# 560,Tomball Pkwy & Park Dr,28315 Tomball Pkwy,Tomball,Texas,77375,(281) 255-6669,30.085895081618748,-95.63206721842391,https://locations.whataburger.com/tx/tomball/28315-tomball-pkwy.html
+# 1088,Hwy 557 between FM 148 & I-20,1261 Fm148,Terrell,Texas,75160,(972) 563-3010,32.718822514889666,-96.32158829581454,https://locations.whataburger.com/tx/terrell/1261-fm148.html
+# 208,Hwy 80 & Moore Ave,1400 W Moore Ave,Terrell,Texas,75160,(972) 524-7141,32.73841974462808,-96.29772978202433,https://locations.whataburger.com/tx/terrell/1400-w-moore-ave.html
+# 972,FM 155 & FM 192,12405 Texas 155,Tyler,Texas,75703,(903) 534-0625,32.30127018450541,-95.3394987404928,https://locations.whataburger.com/tx/tyler/12405-texas-155.html
+# 1145,Hwy 64 & County Rd 214,12445 Hwy 64 E,Tyler,Texas,75707,(903) 630-5356,32.31617812853052,-95.2030031786226,https://locations.whataburger.com/tx/tyler/12445-hwy-64-e.html
+#1310,Hwy 69 & I-20,13341 I-20 W,Tyler,Texas,75706,(430) 235-1201,32.467544444711386,-95.38779243121337,https://locations.whataburger.com/tx/tyler/13341-i-20-w.html
+# 117,Loop 323 & Old Bullard,137 W Sw Loop 323,Tyler,Texas,75701,(903) 561-7334,32.30347749977354,-95.30285730957985,https://locations.whataburger.com/tx/tyler/137-w-sw-loop-323.html
+# 967,FM 2493 & FM 168,16772 Fm 2493,Tyler,Texas,75703,(903) 630-4150,32.23602443242364,-95.34915720689503,https://locations.whataburger.com/tx/tyler/16772-fm-2493.html
+# 580,Loop 323 & Valley View,1717 Loop 323,Tyler,Texas,75701,(903) 595-2221,32.330701033200306,-95.26654752822436,https://locations.whataburger.com/tx/tyler/1717-loop-323.html
+# 32,Beckham & Highland,1739 South Beckham,Tyler,Texas,75701,(903) 593-8081,32.329807568685595,-95.29093014293957,https://locations.whataburger.com/tx/tyler/1739-south-beckham.html
+# 1146,W Gentry Pkwy & W Martin Luther King Jr. Blvd,2215 W Gentry Pkwy,Tyler,Texas,75702,(903) 630-5778,32.36737673819112,-95.32511633705268,https://locations.whataburger.com/tx/tyler/2215-w-gentry-pkwy.html
+# 667,Loop 323 & Hwy 31,345 S Sw Loop 323,Tyler,Texas,75702,(903) 533-0693,32.347425468036526,-95.34308137607479,https://locations.whataburger.com/tx/tyler/345-s-sw-loop-323.html
+#1239,S Broadway Ave & Rice Rd,4825 South Broadway,Tyler,Texas,75703,(903) 266-9402,32.29630959942363,-95.30172498834322,https://locations.whataburger.com/tx/tyler/4825-south-broadway.html
+# 980,Hwy 110 & Shiloh,5003 Troup Hwy,Tyler,Texas,75707,(903) 266-9168,32.2962775828993,-95.26326085706043,https://locations.whataburger.com/tx/tyler/5003-troup-hwy.html
+# 1107,FM 2493 & TX 159,5916 Old Jacksonville Highway,Tyler,Texas,75703,(903) 630-6394,32.283948728848856,-95.33077230359578,https://locations.whataburger.com/tx/tyler/5916-old-jacksonville-highway.html
+# 887,Hwy 271 & Hwy 323,6288 North Us Hwy 271,Tyler,Texas,75708,(903) 526-0490,32.39513055511559,-95.26928401777363,https://locations.whataburger.com/tx/tyler/6288-north-us-hwy-271.html
+# 730,Broadway & South Town,6849 South Broadway,Tyler,Texas,75703,(903) 939-9961,32.27480685761066,-95.30739277852153,https://locations.whataburger.com/tx/tyler/6849-south-broadway.html
+# 788,Hwy 59 & Delmar,3603 Houston Hwy,Victoria,Texas,77901,(361) 576-6623,28.815439999999995,-96.96520542270186,https://locations.whataburger.com/tx/victoria/3603-houston-hwy.html
+# 175,Navarro & Mockingbird,4302 N Navarro St,Victoria,Texas,77901,(361) 578-9011,28.834634650343883,-97.00111092700101,https://locations.whataburger.com/tx/victoria/4302-n-navarro-st.html
+# 10,Rio Grande & Navarro,509 E Rio Grande St,Victoria,Texas,77901,(361) 575-2326,28.80546284717197,-96.99875122147846,https://locations.whataburger.com/tx/victoria/509-e-rio-grande-st.html
+# 616,Hwy 77 & Glascow,8908 N Navarro St,Victoria,Texas,77904,(361) 578-9858,28.87779928179891,-96.99659227020517,https://locations.whataburger.com/tx/victoria/8908-n-navarro-st.html
+# 357,Loop 340 & Hwy 84,100 W Loop 340,Waco,Texas,76712,(254) 772-0642,31.512207140018756,-97.18719381043339,https://locations.whataburger.com/tx/waco/100-w-loop-340.html
+# 454,Valley Mills & Lake Air,1101 N Valley Mills Dr,Waco,Texas,76710,(254) 772-5822,31.531093718885913,-97.18690412822438,https://locations.whataburger.com/tx/waco/1101-n-valley-mills-dr.html
+# 724,Hewitt & Mars,1528 Hewitt Dr,Waco,Texas,76712,(254) 666-0925,31.482530829909543,-97.20746995044628,https://locations.whataburger.com/tx/waco/1528-hewitt-dr.html
+# 140,I35 & 7th,928 S 7Th St,Waco,Texas,76706,(254) 753-0380,31.548590822951063,-97.12516807116798,https://locations.whataburger.com/tx/waco/928-s-7th-st.html
+# 926,Hwy 287 & Broadhead,114 Broadhead Rd,Waxahachie,Texas,75165,(972) 923-3750,32.40208567578814,-96.8172259493211,https://locations.whataburger.com/tx/waxahachie/114-broadhead-rd.html
+# 944,Hwy 77 & TX 387,2965 N Highway 77,Waxahachie,Texas,75165,(972) 937-2844,32.45760027862485,-96.83566291600405,https://locations.whataburger.com/tx/waxahachie/2965-n-highway-77.html
+# 391,Hwy 77 & University,604 N Highway 77,Waxahachie,Texas,75165,(972) 938-8707,32.41021942668888,-96.84160275104863,https://locations.whataburger.com/tx/waxahachie/604-n-highway-77.html
+# 1006,I20 & Hwy 171,110 E Interstate 20,Weatherford,Texas,76087,(817) 599-8321,32.729332398156444,-97.78701554110451,https://locations.whataburger.com/tx/weatherford/110-e-interstate-20.html
+# 195,Main & Rentz,1212 S Main St,Weatherford,Texas,76086,(817) 594-0228,32.74509495662443,-97.7979138571922,https://locations.whataburger.com/tx/weatherford/1212-s-main-st.html
+# 350,Texas & Hwy 83,1100 N Texas Blvd,Weslaco,Texas,78596,(956) 968-0521,26.1716660722006,-97.99051431779098,https://locations.whataburger.com/tx/weslaco/1100-n-texas-blvd.html
+# 26,Bus 83 & Mile 4 Rd,1520 E Business 83,Weslaco,Texas,78596,(956) 968-9505,26.15625520982687,-97.9759025411045,https://locations.whataburger.com/tx/weslaco/1520-e-business-83.html
+# 899,Westgate & BUS 83,318 N Westgate Dr,Weslaco,Texas,78596,(956) 447-1300,26.164681685863933,-98.00635578711987,https://locations.whataburger.com/tx/weslaco/318-n-westgate-dr.html
+# 435,Central E Fwy & Maurine St.,1040 Central Fwy,Wichita Falls,Texas,76306,(940) 723-1019,33.93414878881081,-98.51816947238731,https://locations.whataburger.com/tx/wichita-falls/1040-central-fwy.html
+# 520,Southwest Pkwy & Kemp,2725 Southwest Pkwy,Wichita Falls,Texas,76308,(940) 692-0015,33.857440433863445,-98.53475801165678,https://locations.whataburger.com/tx/wichita-falls/2725-southwest-pkwy.html
+# 384,McNiel & Hwy 277,3404 Mcniel Ave,Wichita Falls,Texas,76308,(940) 696-2201,33.877371735669925,-98.5480588571922,https://locations.whataburger.com/tx/wichita-falls/3404-mcniel-ave.html
+# 927,I65 & Hwy 31,1101 1St St S,Alabaster,Alabama,35007,(205) 620-4188,33.233304173581296,-86.81001637607478,https://locations.whataburger.com/al/alabaster/1101-1st-st-s.html
+#1209,N College St & W Magnolia Ave,101 N College St,Auburn,Alabama,36830,(334) 246-2996,32.60673289949589,-85.482018380199,https://locations.whataburger.com/al/auburn/101-n-college-st.html
+#1238,Albertville,6950 Us Highway 431,Albertville,Alabama,35950,(256) 400-1347,34.275145,-86.200621,https://locations.whataburger.com/al/albertville/6950-us-highway-431.html
+#1237,Intersection I-65 and HWY 72,1327 Us Hwy 72 E,Athens,Alabama,35611,(256) 867-4007,34.784269,-86.942394,https://locations.whataburger.com/al/athens/1327-us-hwy-72-e.html
+# 989,Hwy 31 - Brewton,2668 Douglas Ave,Brewton,Alabama,36426,(251) 727-4225,31.149116079259027,-87.06595791840267,https://locations.whataburger.com/al/brewton/2668-douglas-ave.html
+# 968,Hwy 31 & Bradberry,2280 7Th St S,Clanton,Alabama,35046,(205) 280-5887,32.80087878167478,-86.57456070858098,https://locations.whataburger.com/al/clanton/2280-7th-st-s.html
+# 115,Craft Hwy & Howell,100 North Craft Highway,Chickasaw,Alabama,36611,(251) 456-7664,30.76157399628021,-88.07333615166966,https://locations.whataburger.com/al/chickasaw/100-north-craft-highway.html
+#1351,NA,2001 Cherokee Ave Sw,Cullman,Alabama,35055,(256) 727-5218,34.147713126461376,-86.84597872844999,https://locations.whataburger.com/al/cullman/2001-cherokee-ave-sw.html
+# 1167,,29651 State Highway 181,Daphne,Alabama,36526,(251) 241-0402,30.657113333231155,-87.85293552131327,https://locations.whataburger.com/al/daphne/29651-state-highway-181.html
+#1184,Beltline Rd & Longview Dr,1621 Beltline Rd Sw,Decatur,Alabama,35601,(256) 274-8258,34.566582070920376,-87.0121585859399,https://locations.whataburger.com/al/decatur/1621-beltline-rd-sw.html
+# 1066,Hwy 59 - Foley,3141 S Mckenzie St,Foley,Alabama,36535,(251) 943-1692,30.368362256764655,-87.68236304968548,https://locations.whataburger.com/al/foley/3141-s-mckenzie-st.html
+# 920,Walker Chapel & Main,1601 Main St,Fultondale,Alabama,35068,(205) 849-2933,33.60910421762812,-86.79998852693183,https://locations.whataburger.com/al/fultondale/1601-main-st.html
+#1350,NA,1554 Florence Blvd,Florence,Alabama,35630,(254) 771-0001,34.82012070511583,-87.65431164985193,https://locations.whataburger.com/al/florence/1554-florence-blvd.html
+#1204,State Farm Pkwy & Wildwood Pkwy,195 State Farm Pkwy,Homewood,Alabama,35209,(205) 533-6818,33.44854007330971,-86.82366451127496,https://locations.whataburger.com/al/homewood/195-state-farm-pkwy.html
+#1229,Montgomery Hwy,1727 Montgomery Hwy,Hoover,Alabama,35244,(205) 987-2779,33.379647187393765,-86.80422853443326,https://locations.whataburger.com/al/hoover/1727-montgomery-hwy.html
+#1309,Hazel Green,14751 Us 231/431,Hazel Green,Alabama,35750,(256) 693-2793,34.949644,-86.572311,https://locations.whataburger.com/al/hazel-green/14751-us-231/431.html
+#1171,Ashville Rd & Hwy 20,1824 Ashville Rd,Leeds,Alabama,35094,(205) 352-2083,33.56233794443215,-86.52287301165676,https://locations.whataburger.com/al/leeds/1824-ashville-rd.html
+Welcome to Whataburger#1197,HWY 72 W & Hughes Rd,7833 Highway 72 W,Madison,Alabama,35758,(256) 270-2324,34.75312828689163,-86.74234862392521,https://locations.whataburger.com/al/madison/7833-highway-72-w.html
+#1186,Eastchase Pkwy & Taylor Rd,6970 Eastchase Loop,Montgomery,Alabama,36117,(334) 229-9004,32.35931088468756,-86.16940774256966,https://locations.whataburger.com/al/montgomery/6970-eastchase-loop.html
+#1192,U.S. Hwy 280 & Gateway Dr,2501 Gateway Dr,Opelika,Alabama,36801,(334) 275-4183,32.621035445008765,-85.40346732944775,https://locations.whataburger.com/al/opelika/2501-gateway-dr.html
+# 959,Cahaba Valley & Southgate,557 Cahaba Valley Rd,Pelham,Alabama,35124,(205) 987-2779,33.3346361166847,-86.78564742968774,https://locations.whataburger.com/al/pelham/557-cahaba-valley-rd.html
+#1401,NA,789 Business Park Dr,Prattville,Alabama,36066,(334) 730-4077,32.48731833729881,-86.41153419277418,https://locations.whataburger.com/al/prattville/789-business-park-dr.html
+# 1128,Industrial Pkwy - Saraland,1000 Industrial Pkwy,Saraland,Alabama,36571,(251) 675-1246,30.801776557111626,-88.09410374333764,https://locations.whataburger.com/al/saraland/1000-industrial-pkwy.html
+#1273,Scottsboro,23065 John T Reid Pkwy,Scottsboro,Alabama,35768,(256) 575-4106,34.649502707349406,-86.02883589460511,https://locations.whataburger.com/al/scottsboro/23065-john-t-reid-pkwy.html
+Welcome to Whataburger,,1207 S. Rogers Ave.,Clarksville,Alaska,72830,(479) 440-8243,35.455629,-93.463849,https://locations.whataburger.com/ak/clarksville/1207-s-rogers-ave.html
+# 537,Dysart & Van Buren,1460 N Dysart Rd,Avondale,Arizona,85323,(623) 932-4934,33.449503687638156,-112.34208354105739,https://locations.whataburger.com/az/avondale/1460-n-dysart-rd.html
+#1296,S Market & E Boston,2590 S Market St,Gilbert,Arizona,85295,(480) 565-5873,33.3030441,-111.7442376,https://locations.whataburger.com/az/gilbert/2590-s-market-st.html
+# 764,West Indian School & Litchfield,14251 W Indian School Rd,Goodyear,Arizona,85395,(623) 536-2279,33.485396385126414,-112.36551567915058,https://locations.whataburger.com/az/goodyear/14251-w-indian-school-rd.html
+#1220,43rd Ave - Glendale,4280 W Bell Rd,Glendale,Arizona,85308,(602) 547-0186,33.63977648447952,-112.15121644601535,https://locations.whataburger.com/az/glendale/4280-w-bell-rd.html
+#1318,W Baseline Rd & S 59th Ave,5775 Baseline Rd,Laveen Village,Arizona,85339,(480) 787-2792,33.376866999844296,-112.18361697999578,https://locations.whataburger.com/az/laveen-village/5775-baseline-rd.html
+#1221,Bell & 89th,8922 W Bell Rd,Peoria,Arizona,85382,(623) 933-3998,33.63854852226759,-112.25116749264242,https://locations.whataburger.com/az/peoria/8922-w-bell-rd.html
+#1163,S Ellsworth St. & E Terravella Pkwy,20151 S Ellsworth Rd,Queen Creek,Arizona,85142,(623) 900-7778,33.26553171347837,-111.63399688096828,https://locations.whataburger.com/az/queen-creek/20151-s-ellsworth-rd.html
+#1218,N Sarival Ave & W Waddell Rd,13730 N Sarival Ave,Surprise,Arizona,85388,(480) 351-0975,33.60915243323361,-112.41021289814256,https://locations.whataburger.com/az/surprise/13730-n-sarival-ave.html
+Welcome to Whataburger,Alcoa Rd & I-30,20461 I-30,Benton,Arkansas,72015,(501) 817-8352,34.6039729,-92.53551949999999,https://locations.whataburger.com/ar/benton/20461-i-30.html
+#1330,SW 14th St & S Walton,1404 S Walton Blvd,Bentonville,Arkansas,72712,(479) 715-0122,36.356008,-94.213095,https://locations.whataburger.com/ar/bentonville/1404-s-walton-blvd.html
+#1335,,1326 North West Ave,El Dorado,Arkansas,71730,(870) 639-4111,33.22490651021792,-92.66607973743439,https://locations.whataburger.com/ar/el-dorado/1326-north-west-ave.html
+#1363,Phoenix,8120 Phoenix Ave,Fort Smith,Arkansas,72903,(479) 431-4036,35.345515969001134,-94.3416450485489,https://locations.whataburger.com/ar/fort-smith/8120-phoenix-ave.html
+#1389,Chenal,17100 Chenal Parkway,Little Rock,Arkansas,72223,(501) 817-8352,34.760513,-92.453753,https://locations.whataburger.com/ar/little-rock/17100-chenal-parkway.html
+#1243,Hwy 79 & Warnock Springs Rd,49 Highway 79 Bypass North,Magnolia,Arkansas,71753,(870) 626-4263,33.27882436762947,-93.21305077614271,https://locations.whataburger.com/ar/magnolia/49-highway-79-bypass-north.html
+Welcome to Whataburger,Maumelle/ North Little Rock,13401 Crystal Hill Road,North Little Rock,Arkansas,72113,(501) 803-7855,34.831558,-92.39231,https://locations.whataburger.com/ar/north-little-rock/13401-crystal-hill-road.html
+# 1089,Pleasant Crossing,4335 S Pleasant Crossing Blvd,Rogers,Arkansas,72758,(479) 631-0209,36.282087756753434,-94.15097736747646,https://locations.whataburger.com/ar/rogers/4335-s-pleasant-crossing-blvd.html
+# 1092,I49 & Elm Springs,4172 Elm Springs Rd,Springdale,Arkansas,72762,(479) 750-2754,36.1936668316501,-94.17619129042562,https://locations.whataburger.com/ar/springdale/4172-elm-springs-rd.html
+#1432,Race Street,3900 E. Race Street,Searcy,Arkansas,72143,(501) 817-8267,35.251057,-91.681838,https://locations.whataburger.com/ar/searcy/3900-e-race-street.html
+#1266,HWY 412 and 16,2690 Us Hwy 412 E,Siloam Springs,Arkansas,72761,(479) 228-5017,36.18073186944788,-94.51497395767036,https://locations.whataburger.com/ar/siloam-springs/2690-us-hwy-412-e.html
+# 475,State Line & 42nd,4110 N State Line Ave,Texarkana,Arkansas,71854,(870) 774-1063,33.46394406004844,-94.04270908656025,https://locations.whataburger.com/ar/texarkana/4110-n-state-line-ave.html
+#1484,Van Buren,1716 Fayetteville Rd,Van Buren,Arkansas,72956,(479) 689-4552,35.461197,-94.355481,https://locations.whataburger.com/ar/van-buren/1716-fayetteville-rd.html
+#1272,N Tyndall Pkwy & E 7th St,702 N Tyndall Pkwy,Callaway,Florida,32404,(850) 250-1073,30.160519,-85.59064269999999,https://locations.whataburger.com/fl/callaway/702-n-tyndall-pkwy.html
+# 890,Hwy 29 & Kingsfield Rd,2300 S Highway 29,Cantonment,Florida,32533,(850) 968-2470,30.568578896542498,-87.28941513695447,https://locations.whataburger.com/fl/cantonment/2300-s-highway-29.html
+# 954,Hwy 29 & FL 4,8340 N Century Blvd,Century,Florida,32535,(850) 256-4020,30.980115603352573,-87.25801523619364,https://locations.whataburger.com/fl/century/8340-n-century-blvd.html
+# 779,Hwy 85 & I10,3850 S Ferdon Blvd,Crestview,Florida,32536,(850) 689-2800,30.721772410778772,-86.56978577253642,https://locations.whataburger.com/fl/crestview/3850-s-ferdon-blvd.html
+# 913,I10 & Hwy 331,2434 Us Highway 331 S,Defuniak Springs,Florida,32435,(850) 892-6107,30.686892063676332,-86.12332474140892,https://locations.whataburger.com/fl/defuniak-springs/2434-us-highway-331-s.html
+# 804,Hwy 98 & Stahlman,101 Harbor Blvd,Destin,Florida,32541,(850) 650-7708,30.395469884447262,-86.50981776590602,https://locations.whataburger.com/fl/destin/101-harbor-blvd.html
+# 888,Hwy 98 - Gulf Breeze,1135 Gulf Breeze Pkwy,Gulf Breeze,Florida,32561,(850) 934-6180,30.3579419,-87.15720999999999,https://locations.whataburger.com/fl/gulf-breeze/1135-gulf-breeze-pkwy.html
+# 1033,Hwy 77 - Lynn Haven,2401 S Highway 77,Lynn Haven,Florida,32444,(850) 265-2099,30.22200314197684,-85.64862070636417,https://locations.whataburger.com/fl/lynn-haven/2401-s-highway-77.html
+#1185,Blanding Blvd & Branan Field Rd,1778 Blanding Blvd,Middleburg,Florida,32068,(904) 406-7418,30.105850187444883,-81.82786766157213,https://locations.whataburger.com/fl/middleburg/1778-blanding-blvd.html
+# 965,Hwy 98 - Navarre,6920 Navarre Pkwy,Navarre,Florida,32566,(850) 515-1185,30.402644993330977,-86.93382050748936,https://locations.whataburger.com/fl/navarre/6920-navarre-pkwy.html
+# 865,Hwy 10 & Penman,1201 Atlantic Blvd,Neptune Beach,Florida,32266,(904) 270-2840,30.324042129047672,-81.4094055073576,https://locations.whataburger.com/fl/neptune-beach/1201-atlantic-blvd.html
+# 923,Hwy 20 - Niceville,4450 E Highway 20,Niceville,Florida,32578,(850) 897-0271,30.48579006082076,-86.41864730514436,https://locations.whataburger.com/fl/niceville/4450-e-highway-20.html
+# 973,FL 21 & Blairmore,289 Blanding Blvd,Orange Park,Florida,32073,(904) 215-0999,30.171509478254507,-81.74625457423973,https://locations.whataburger.com/fl/orange-park/289-blanding-blvd.html
+# 931,Woodbine & Chumuckla,5648 Woodbine Rd,Pace,Florida,32571,(850) 994-1033,30.64220796394246,-87.18034052034434,https://locations.whataburger.com/fl/pace/5648-woodbine-rd.html
+# 1030,Hwy 98 & Alf Coleman,11749 Panama City Beach Pkwy,Panama City Beach,Florida,32407,(850) 230-2508,30.1980831368707,-85.82010015477205,https://locations.whataburger.com/fl/panama-city-beach/11749-panama-city-beach-pkwy.html
+# 805,Hwy 98 & Poinciana,10725 Emerald Coast Pkwy,Sandestin,Florida,32550,(850) 650-6607,30.378638936638904,-86.35367040325185,https://locations.whataburger.com/fl/sandestin/10725-emerald-coast-pkwy.html
+#1228,Old County Rd 210 & St Johns Pkwy,2850 County Road 210 W,St Johns,Florida,32259,(904) 342-3012,30.0599822,-81.5326905,https://locations.whataburger.com/fl/st-johns/2850-county-road-210-w.html
+#1336,Brixmor,105 Cbl Dr.,Saint Augustine,Florida,32086,(904) 342-6028,29.866908345917345,-81.32906082161021,https://locations.whataburger.com/fl/saint-augustine/105-cbl-dr.html
+#1327,International Golf Pkwy,179 Village Commons Dr,St. Augustine,Florida,32092,(904) 429-1358,29.966266089355404,-81.48679136578492,https://locations.whataburger.com/fl/st-augustine/179-village-commons-dr.html
+# 909,FL 200 - Yulee,463773 State Road 200,Yulee,Florida,32097,(904) 548-9715,30.627551659973175,-81.55079145894052,https://locations.whataburger.com/fl/yulee/463773-state-road-200.html
+#1305,Highway 78,3201 Atlanta Hwy,Athens,Georgia,30606,(706) 534-9160,33.93967196437598,-83.45096285781098,https://locations.whataburger.com/ga/athens/3201-atlanta-hwy.html
+#1267,Buford Drive,2925 Buford Dr,Buford,Georgia,30519,(678) 804-4875,34.0498962,-83.9918244,https://locations.whataburger.com/ga/buford/2925-buford-dr.html
+#1304,Pottery Rd,30870 Hwy 441,Commerce,Georgia,30529,(762) 244-5145,34.249710879990225,-83.46102237138247,https://locations.whataburger.com/ga/commerce/30870-hwy-441.html
+#1396,NA,11200 Town Center Dr.,Covington,Georgia,30014,(678) 712-4156,33.61902372,-83.84154581,https://locations.whataburger.com/ga/covington/11200-town-center-dr.html
+#1322,Buford Rd,503 Lakeland Plaza,Cumming,Georgia,30040,(470) 281-9871,34.1852545,-84.141741,https://locations.whataburger.com/ga/cumming/503-lakeland-plaza.html
+#1302,Wallace Blvd & Dawsonville Hwy,81 Duval Rd,Dawsonville,Georgia,30534,(706) 525-7960,34.3524193967342,-84.04854721473254,https://locations.whataburger.com/ga/dawsonville/81-duval-rd.html
+#1393,,701 Pavilion Parkway,Monroe,Georgia,30656,(678) 635-2092,33.80484528,-83.72872645,https://locations.whataburger.com/ga/monroe/701-pavilion-parkway.html
+#1489,Bullsboro & I-85,580 Bullsboro Dr,Newnan,Georgia,30265,(770) 400-9223,33.39702043868234,-84.75924312223925,https://locations.whataburger.com/ga/newnan/580-bullsboro-dr.html
+#1367,scenic hwy,1436 Scenic Hwy,Snellville,Georgia,30078,(678) 666-2332,33.89121,-84.00773,https://locations.whataburger.com/ga/snellville/1436-scenic-hwy.html
+# 862,Hwy 19 & Williamsburg,13880 Us Highway 19 S,Thomasville,Georgia,31757,(229) 551-9377,30.839327874152684,-83.94318292713277,https://locations.whataburger.com/ga/thomasville/13880-us-highway-19-s.html
+#1328,Hwy 92 & Indian Valley Dr.,9766 Ga-92,Woodstock,Georgia,30188,(678) 383-1870,34.085696,-84.526244,https://locations.whataburger.com/ga/woodstock/9766-ga-92.html
+#1241,Speedway,10780 Parallel Parkway,Kansas City,Kansas,66109,(913) 871-5874,39.12894019448043,-94.82889588558537,https://locations.whataburger.com/ks/kansas-city/10780-parallel-parkway.html
+#1240,East Olathe,14123 W 135Th Street,Olathe,Kansas,66062,(913) 324-5451,38.883726,-94.749715,https://locations.whataburger.com/ks/olathe/14123-w-135th-street.html
+#1281,DeRidder,430 N. Pine Street,Deridder,Louisiana,70634,(337) 401-3163,30.85226403235119,-93.28876754603273,https://locations.whataburger.com/la/deridder/430-n-pine-street.html
+# 848,Hwy 61 & Church Point,840 N Airline Hwy,Gonzales,Louisiana,70737,(225) 644-0527,30.238724825905212,-90.91335484234462,https://locations.whataburger.com/la/gonzales/840-n-airline-hwy.html
+Welcome to Whataburger,,1835 Country Club Road,Lake Charles,Louisiana,70605,(337) 214-4735,30.1687222,-93.2468438,https://locations.whataburger.com/la/lake-charles/1835-country-club-road.html
+#1216,Leesville,1309 S. 5Th St.,Leesville,Louisiana,71446,(337) 378-0009,31.131498861031893,-93.26581235026246,https://locations.whataburger.com/la/leesville/1309-s-5th-st.html
+# 1075,Hwy 80 - Monroe,2411 Louisville Ave,Monroe,Louisiana,71201,(318) 699-3385,32.52399234829997,-92.09746909532033,https://locations.whataburger.com/la/monroe/2411-louisville-ave.html
+#1176,Lofton Dr & Pinecrest Dr,257 Lofton Dr,Pineville,Louisiana,71360,(318) 266-8156,31.36535433216498,-92.40745961654261,https://locations.whataburger.com/la/pineville/257-lofton-dr.html
+# 1048,I20 - Ruston,801 N Service Rd E,Ruston,Louisiana,71270,(318) 255-5326,32.541103981071956,-92.62817174922291,https://locations.whataburger.com/la/ruston/801-n-service-rd-e.html
+#1271,S Cities Service Hwy & Self St,S Cities Service Hwy & Self St,Sulphur,Louisiana,70663,(337) 313-4087,30.225602684477472,-93.32511727539367,https://locations.whataburger.com/la/sulphur/s-cities-service-hwy-&-self-st.html
+Welcome to Whataburger,,9008 Nw 64Th Street,Parkville,Michigan,64152,(816) 533-7901,39.2113646,-94.6864092,https://locations.whataburger.com/mi/parkville/9008-nw-64th-street.html
+#1200,Stribling Ln & Disotell Blvd,306 Stribling Ln,Brandon,Mississippi,39042,(601) 292-7528,32.2800987781965,-90.03688895399783,https://locations.whataburger.com/ms/brandon/306-stribling-ln.html
+# 843,Sangani & I10,3611 Sangani Blvd,Diberville,Mississippi,39540,(228) 392-1942,30.458403751239672,-88.89524231779099,https://locations.whataburger.com/ms/diberville/3611-sangani-blvd.html
+# 1113,Old Fannin & Flowood,1724 Old Fannin Rd,Flowood,Mississippi,39232,(601) 992-3326,32.342025669415555,-90.06531382514856,https://locations.whataburger.com/ms/flowood/1724-old-fannin-rd.html
+# 849,Hwy 49 - Gulfport,11484 Highway 49,Gulfport,Mississippi,39503,(228) 831-1999,30.455445909046485,-89.09963990578713,https://locations.whataburger.com/ms/gulfport/11484-highway-49.html
+#1353,NA,4150 Goodman Rd W,Horn Lake,Mississippi,38637,(662) 655-0360,34.96294907187712,-90.06462448774445,https://locations.whataburger.com/ms/horn-lake/4150-goodman-rd-w.html
+# 836,I55 & High St,1320 High St,Jackson,Mississippi,39202,(601) 896-0074,32.30388759250508,-90.16901289770237,https://locations.whataburger.com/ms/jackson/1320-high-st.html
+# 861,Hwy 90 Ocean Springs,3851 Bienville Blvd,Ocean Springs,Mississippi,39564,(228) 875-1801,30.40991594825799,-88.76226491840268,https://locations.whataburger.com/ms/ocean-springs/3851-bienville-blvd.html
+# 1093,Hwy 49 & Harper,906 Highway 49 S,Richland,Mississippi,39218,(601) 936-2473,32.22244129473367,-90.15598511336533,https://locations.whataburger.com/ms/richland/906-highway-49-s.html
+# 864,I55 & County Line,800 E County Line Rd,Ridgeland,Mississippi,39157,(601) 956-6466,32.400131694445086,-90.14360267928235,https://locations.whataburger.com/ms/ridgeland/800-e-county-line-rd.html
+# 879,Halls Ferry - Vicksburg,3402 Halls Ferry Rd,Vicksburg,Mississippi,39180,(601) 638-9493,32.3143059364571,-90.87686832845436,https://locations.whataburger.com/ms/vicksburg/3402-halls-ferry-rd.html
+#1230,Hwy 7 & Outer Rd,905 Hwy 7,Blue Springs,Missouri,64014,(816) 295-6766,39.0282944958,-94.27220991171,https://locations.whataburger.com/mo/blue-springs/905-hwy-7.html
+#1211,E US Hwy 40 & E Valley View Pkwy,18902 E Us Highway 40,Independence,Missouri,64055,(816) 527-8158,39.032236007687786,-94.35738282209014,https://locations.whataburger.com/mo/independence/18902-e-us-highway-40.html
+#1207,NE Douglas St & NW Victoria Dr,1460 Ne Douglas St,Lees Summit,Missouri,64086,(816) 287-5115,38.93896972488781,-94.37914429569402,https://locations.whataburger.com/mo/lees-summit/1460-ne-douglas-st.html
+#1245,BUS 65 & 19th,1851 W Marler Ln,Ozark,Missouri,65721,(417) 731-3163,37.00425939114183,-93.22454440890239,https://locations.whataburger.com/mo/ozark/1851-w-marler-ln.html
+#1275,W. Foxwood Drive,1921 W Foxwood Dr,Raymore,Missouri,64083,(816) 892-5034,38.812218,-94.491643,https://locations.whataburger.com/mo/raymore/1921-w-foxwood-dr.html
+#1332,US-60 & S Main Ave,1371 Us Highway 60 E,Republic,Missouri,65738,(417) 590-8718,37.132242526281566,-93.45846694993635,https://locations.whataburger.com/mo/republic/1371-us-highway-60-e.html
+#1504,PWB holdings,3752 South Las Vegas Blvd,Las Vegas,Nevada,89158,(775) 421-7784,36.106304064634635,-115.17446901165675,https://locations.whataburger.com/nv/las-vegas/3752-south-las-vegas-blvd.html
+# 731,Hwy 285 & 22nd,2110 N Main St,Roswell,New Mexico,88201,(575) 625-1633,33.418180567393996,-104.52356277852154,https://locations.whataburger.com/nm/roswell/2110-n-main-st.html
+# 572,Hwy 283 - Altus,2728 N Main St,Altus,Oklahoma,73521,(580) 482-3370,34.66644990529559,-99.3335670301126,https://locations.whataburger.com/ok/altus/2728-n-main-st.html
+# 961,I35 & 12th,921 Holiday Dr,Ardmore,Oklahoma,73401,(580) 226-2345,34.18583078122429,-97.16554390674591,https://locations.whataburger.com/ok/ardmore/921-holiday-dr.html
+# 586,Kenosha & Hwy 51,2341 E Kenosha St,Broken Arrow,Oklahoma,74012,(918) 355-4052,36.060463419186284,-95.76378477670319,https://locations.whataburger.com/ok/broken-arrow/2341-e-kenosha-st.html
+#1503,NA,1350 Se Washington Blvd.,Bartlesville,Oklahoma,74006,(918) 876-1532,36.73411739309869,-95.93455019922905,https://locations.whataburger.com/ok/bartlesville/1350-se-washington-blvd.html
+# 1068,Rte 66 & Country Club,1410 S Lynn Riggs Blvd,Claremore,Oklahoma,74017,(918) 341-4461,36.2957624382145,-95.6281487944601,https://locations.whataburger.com/ok/claremore/1410-s-lynn-riggs-blvd.html
+# 1032,Bus 70 - Durant,3505 W Main St,Durant,Oklahoma,74701,(580) 745-9003,33.998704546042504,-96.41056421288015,https://locations.whataburger.com/ok/durant/3505-w-main-st.html
+# 1111,Waco & 121st,12110 S Waco Ave,Glenpool,Oklahoma,74033,(918) 298-0178,35.986957734536084,-96.01681003590737,https://locations.whataburger.com/ok/glenpool/12110-s-waco-ave.html
+# 1041,Douglas & 29th,2914 S Douglas Blvd,Midwest City,Oklahoma,73130,(405) 869-9178,35.43642383409784,-97.37032908131475,https://locations.whataburger.com/ok/midwest-city/2914-s-douglas-blvd.html
+# 976,I35 & 19th,2290 S Service Rd,Moore,Oklahoma,73160,(405) 895-6258,35.31729215785935,-97.48873429351868,https://locations.whataburger.com/ok/moore/2290-s-service-rd.html
+# 1043,Hwy 152 & Mustang,212 N Mustang Rd,Mustang,Oklahoma,73064,(405) 376-2256,35.39257602901731,-97.7242398571922,https://locations.whataburger.com/ok/mustang/212-n-mustang-rd.html
+#1482,Muskogee,3113 West Shawnee Bypass,Muskogee,Oklahoma,74401,(918) 913-4135,35.7691635,-95.4010516,https://locations.whataburger.com/ok/muskogee/3113-west-shawnee-bypass.html
+# 1005,Main & 24th,2424 W Main St,Norman,Oklahoma,73069,(405) 329-0678,35.218039382533156,-97.47776583374691,https://locations.whataburger.com/ok/norman/2424-w-main-st.html
+# 1071,96th & 129th,12903 E 96Th St N Ste B,Owasso,Oklahoma,74055,(918) 272-2301,36.29353189994665,-95.82853089383468,https://locations.whataburger.com/ok/owasso/12903-e-96th-st-n-ste-b.html
+#1380,Broadway,1903 N. Broadway Street,Poteau,Oklahoma,74953,(918) 721-0220,35.06767773807891,-94.62606732698363,https://locations.whataburger.com/ok/poteau/1903-n-broadway-street.html
+# 557,Main & Ross,1704 S Main St,Sapulpa,Oklahoma,74066,(918) 227-4729,35.9787776017954,-96.11396199273167,https://locations.whataburger.com/ok/sapulpa/1704-s-main-st.html
+# 1004,I40 & Kickapoo,4836 N Kickapoo Ave,Shawnee,Oklahoma,74804,(405) 273-5246,35.38118029549658,-96.93031217742993,https://locations.whataburger.com/ok/shawnee/4836-n-kickapoo-ave.html
+# 577,Boomer & N3330,1001 N Boomer Rd,Stillwater,Oklahoma,74075,(405) 372-2068,36.13320782909946,-97.06100857729817,https://locations.whataburger.com/ok/stillwater/1001-n-boomer-rd.html
+#1379,Downing,1101 East Downing Street,Tahlequah,Oklahoma,74464,(918) 708-1337,35.91599839607904,-94.95473427116394,https://locations.whataburger.com/ok/tahlequah/1101-east-downing-street.html
+Welcome to Whataburger,,1320 E Eagle Rd,Weatherford,Oklahoma,73096,(580) 302-5320,35.52209425704206,-98.69125242938897,https://locations.whataburger.com/ok/weatherford/1320-e-eagle-rd.html
+#1329,,11845 Milton Wilson Rd,Arlington,Tennessee,38002,(901) 290-1617,35.27101003056133,-89.66727446878662,https://locations.whataburger.com/tn/arlington/11845-milton-wilson-rd.html
+#1306,Macon Rd & Germantown Pkwy,1040 N Germantown Pkwy,Cordova,Tennessee,38018,(901) 746-0138,35.153577,-89.79455899999999,https://locations.whataburger.com/tn/cordova/1040-n-germantown-pkwy.html
+#1250,Nashville Pike,1123 Nashville Pike,Gallatin,Tennessee,37066,(615) 442-7876,36.37417066138352,-86.47513163558196,https://locations.whataburger.com/tn/gallatin/1123-nashville-pike.html
+#1208,Old Hickory Blvd & Juarez Dr,5055 Old Hickory Blvd,Hermitage,Tennessee,37076,(615) 823-5261,36.192523,-86.617409,https://locations.whataburger.com/tn/hermitage/5055-old-hickory-blvd.html
+#1297,Old Fort Parkway,1835 Old Fort Pkwy,Murfreesboro,Tennessee,37129,(615) 410-2720,35.845261,-86.424232,https://locations.whataburger.com/tn/murfreesboro/1835-old-fort-pkwy.html
+#1307,Gallatin Pike N & Myatt Dr,1715 Gallatin Pike N,Madison,Tennessee,37115,(615) 724-9487,36.2958029,-86.6992706,https://locations.whataburger.com/tn/madison/1715-gallatin-pike-n.html
+#1270,Sam Ridley Pkwy W & Old Nashville Hwy,360 W Sam Ridley Parkway,Smyrna,Tennessee,37167,(615) 751-8419,35.98841260223544,-86.54697062360077,https://locations.whataburger.com/tn/smyrna/360-w-sam-ridley-parkway.html
+# 407,Alamo & Hwy 83,513 N Alamo Rd,Alamo,Texas,78516,(956) 783-1155,26.18954694862266,-98.1224765073576,https://locations.whataburger.com/tx/alamo/513-n-alamo-rd.html
+# 984,Stacy & TX 5,388 E Stacy Rd,Allen,Texas,75002,(972) 649-6913,33.12906590004516,-96.6479788368123,https://locations.whataburger.com/tx/allen/388-e-stacy-rd.html
+# 1377,I35W Alvarado,708 N Parkway Dr,Alvarado,Texas,76009,(817) 783-5500,32.41769834915081,-97.22403045270977,https://locations.whataburger.com/tx/alvarado/708-n-parkway-dr.html
+# 450,TX 35 & Fairway,2305 S Bypass 35,Alvin,Texas,77511,(281) 331-7214,29.405926007863734,-95.2337569737598,https://locations.whataburger.com/tx/alvin/2305-s-bypass-35.html
+# 419,Hwy 288 - Angleton,1120 N Velasco St,Angleton,Texas,77515,(979) 849-1259,29.177022486424615,-95.43224175214957,https://locations.whataburger.com/tx/angleton/1120-n-velasco-st.html
+#1159,US-75 & FM 455,601 S Central Expy,Anna,Texas,75409,(469) 425-3825,33.34649957158899,-96.5843549778157,https://locations.whataburger.com/tx/anna/601-s-central-expy.html
+#1314,I-10 & Antonio St,1700 Antonio St,Anthony,Texas,79821,(915) 237-2039,31.99820182826476,-106.5867693520939,https://locations.whataburger.com/tx/anthony/1700-antonio-st.html
+# 14,Wheeler Ave - Aransas Pass,2737 W Wheeler Ave,Aransas Pass,Texas,78336,(361) 758-8700,27.925098109682647,-97.17842586011886,https://locations.whataburger.com/tx/aransas-pass/2737-w-wheeler-ave.html
+# 659,FM 1960 & Lake Houston,7530 Fm 1960 Rd E,Atascocita,Texas,77346,(281) 812-2877,29.998451862637925,-95.16088235276126,https://locations.whataburger.com/tx/atascocita/7530-fm-1960-rd-e.html
+# 752,Hwy 199 & Boyd,440 Northwest Pkwy,Azle,Texas,76020,(817) 444-6112,32.8993484630636,-97.54302902025509,https://locations.whataburger.com/tx/azle/440-northwest-pkwy.html
+# 613,Hwy 31 - Athens,1417 E Tyler St,Athens,Texas,75751,(903) 677-3838,32.21185813468557,-95.82968188037395,https://locations.whataburger.com/tx/athens/1417-e-tyler-st.html
+#1168,Linden Hwy & W Main St,2005 W Main Street,Atlanta,Texas,75551,(903) 200-1813,33.10623257827755,-94.19650220428181,https://locations.whataburger.com/tx/atlanta/2005-w-main-street.html
+# 424,Hwy 60 - Bay City,2020 Avenue F,Bay City,Texas,77414,(979) 244-4959,28.9836870954443,-95.97042598834324,https://locations.whataburger.com/tx/bay-city/2020-avenue-f.html
+# 34,Bus 181 - Beeville,1710 N Saint Marys St,Beeville,Texas,78102,(361) 358-8454,28.417292736593783,-97.755363184577,https://locations.whataburger.com/tx/beeville/1710-n-saint-marys-st.html
+# 538,Loop 340 - Bellmead,950 N Loop 340,Bellmead,Texas,76705,(254) 799-0267,31.60433125230518,-97.10335940550516,https://locations.whataburger.com/tx/bellmead/950-n-loop-340.html
+# 570,I35 & Neil,307 N Interstate 35,Belton,Texas,76513,(254) 933-0010,31.055950413295058,-97.45091056468263,https://locations.whataburger.com/tx/belton/307-n-interstate-35.html
+# 203,Benbrook & Sproles,9200 Benbrook Blvd,Benbrook,Texas,76126,(817) 249-2244,32.67355003110643,-97.47001174049284,https://locations.whataburger.com/tx/benbrook/9200-benbrook-blvd.html
+# 308,Hwy 87 - Big Spring,1110 S Gregg St,Big Spring,Texas,79720,(432) 263-7359,32.2432013884694,-101.47482242270182,https://locations.whataburger.com/tx/big-spring/1110-s-gregg-st.html
+# 844,Hwy 46 and I-10,621 W Bandera Rd,Boerne,Texas,78006,(830) 249-1288,29.77899024827825,-98.73956830613423,https://locations.whataburger.com/tx/boerne/621-w-bandera-rd.html
+#1257,US-380,1211 Us Highway 380,Bridgeport,Texas,76426,(940) 394-3735,33.2230073,-97.7510902,https://locations.whataburger.com/tx/bridgeport/1211-us-highway-380.html
+# 534,Hwy 377 - Brownwood,411 E Commerce St,Brownwood,Texas,76801,(325) 646-4244,31.730655061822127,-98.97382530613424,https://locations.whataburger.com/tx/brownwood/411-e-commerce-st.html
+# 1000,Main St & I-35,670 Old San Antonio Rd,Buda,Texas,78610,(512) 295-7286,30.08679981464865,-97.82255341410351,https://locations.whataburger.com/tx/buda/670-old-san-antonio-rd.html
+# 491,Hwy 281 - Burkburnett,920 S Red River Expy,Burkburnett,Texas,76354,(940) 569-1419,34.08098266645941,-98.55835166456716,https://locations.whataburger.com/tx/burkburnett/920-s-red-river-expy.html
+# 1372,Hwy 174 - Burleson,547 Sw Wilshire Blvd,Burleson,Texas,76028,(817) 447-1235,32.536404301967146,-97.33385467915056,https://locations.whataburger.com/tx/burleson/547-sw-wilshire-blvd.html
+# 1057,Lake June & I-635,12100 Lake June Rd,Balch Springs,Texas,75180,(972) 913-8424,32.73351485068495,-96.61852995337296,https://locations.whataburger.com/tx/balch-springs/12100-lake-june-rd.html
+# 590,Hwy 71 - Bastrop,401 Tx-71,Bastrop,Texas,78602,(512) 321-0722,30.10639722982038,-97.33100519508913,https://locations.whataburger.com/tx/bastrop/401-tx-71.html
+#1356,SWQ Hwy 121 & Russell Ave,2161 N State Highway 121,Bonham,Texas,75418,(903) 449-4645,33.598389,-96.192639,https://locations.whataburger.com/tx/bonham/2161-n-state-highway-121.html
+# 628,Hwy 36 - Brenham,2801 Hwy 36 South,Brenham,Texas,77833,(979) 277-1184,30.13862214584167,-96.39500291030662,https://locations.whataburger.com/tx/brenham/2801-hwy-36-south.html
+# 819,Hwy 73 - Bridge City,1905 Texas Ave,Bridge City,Texas,77611,(409) 697-1800,30.033626093480013,-93.83370390368748,https://locations.whataburger.com/tx/bridge-city/1905-texas-ave.html
+# 1114,HWY 69 & 3801,651 S Dr M Roper Pkwy,Bullard,Texas,75757,(903) 954-2900,32.1283551646125,-95.30431972333088,https://locations.whataburger.com/tx/bullard/651-s-dr-m-roper-pkwy.html
+# 744,Hwy 29 - Burnet,402 E Polk St,Burnet,Texas,78611,(512) 756-1507,30.759348620871666,-98.22431789718881,https://locations.whataburger.com/tx/burnet/402-e-polk-st.html
+#1183,N Green St & Hwy 21,306 N Wright St,Caldwell,Texas,77836,(979) 315-4282,30.53766491439314,-96.69169720994195,https://locations.whataburger.com/tx/caldwell/306-n-wright-st.html
+# 981,I10 - Canutillo,7057 S Desert Blvd,Canutillo,Texas,79835,(915) 877-2445,31.91208346560391,-106.583899,https://locations.whataburger.com/tx/canutillo/7057-s-desert-blvd.html
+#1161,US 90 & Country Ln,813 Us Highway 90 E,Castroville,Texas,78009,(830) 355-2050,29.356303161027252,-98.8628826140382,https://locations.whataburger.com/tx/castroville/813-us-highway-90-e.html
+# 567,Hwy 1382 & Hwy 67,211 E Fm 1382,Cedar Hill,Texas,75104,(972) 293-1393,32.59810854955317,-96.94136223724055,https://locations.whataburger.com/tx/cedar-hill/211-e-fm-1382.html
+# 551,I10 &Sheldon,15811 East Fwy,Channelview,Texas,77530,(281) 452-7692,29.779026566229565,-95.1235797220193,https://locations.whataburger.com/tx/channelview/15811-east-fwy.html
+# 139,Hwy 332 & Dixie,1405 Highway 332,Clute,Texas,77531,(979) 265-4274,29.010605790147924,-95.4191517171793,https://locations.whataburger.com/tx/clute/1405-highway-332.html
+# 726,I20 - Clyde,1614 N Access Rd,Clyde,Texas,79510,(325) 893-3535,32.413065852014775,-99.49070498891399,https://locations.whataburger.com/tx/clyde/1614-n-access-rd.html
+# 578,Hwy 71 - Columbus,2204 Highway 71 S,Columbus,Texas,78934,(979) 732-8681,29.7615928,-96.61941279999999,https://locations.whataburger.com/tx/columbus/2204-highway-71-s.html
+# 1112,Loop 1604 & I10E,3839 E Loop 1604 N,Converse,Texas,78109,(210) 667-9245,29.46363304865909,-98.2900748585173,https://locations.whataburger.com/tx/converse/3839-e-loop-1604-n.html
+# 1010,Hwy 121 & Denton Tap,730 N Denton Tap Rd,Coppell,Texas,75019,(972) 459-0473,32.98714300146177,-96.99234694171619,https://locations.whataburger.com/tx/coppell/730-n-denton-tap-rd.html
+# 1044,Hwy 190 & Robert Griffin II,3006 E Business 190,Copperas Cove,Texas,76522,(254) 542-0028,31.120308346025055,-97.86293255299245,https://locations.whataburger.com/tx/copperas-cove/3006-e-business-190.html
+# 898,FM 2100 - Crosby,14460 Fm 2100 Rd,Crosby,Texas,77532,(281) 328-1300,29.896494079880245,-95.06266261344958,https://locations.whataburger.com/tx/crosby/14460-fm-2100-rd.html
+# 1054,Hwy 380 - Cross Roads,11250 Us Highway 380,Crossroads,Texas,76227,(940) 365-9143,33.226419820162924,-96.9877669737598,https://locations.whataburger.com/tx/crossroads/11250-us-highway-380.html
+# 360,Hwy 183 - Cuero,905 N Esplanade St,Cuero,Texas,77954,(361) 275-3457,29.097676296162128,-97.28773724479198,https://locations.whataburger.com/tx/cuero/905-n-esplanade-st.html
+# 483,I20 - Canton,17290 I-20,Canton,Texas,75103,(903) 567-2952,32.58035595713922,-95.85699052713277,https://locations.whataburger.com/tx/canton/17290-i-20.html
+# 937,Bus 79 - Carthage,819 West Panola Street,Carthage,Texas,75633,(903) 690-9600,32.15746084264172,-94.35304591840267,https://locations.whataburger.com/tx/carthage/819-west-panola-street.html
+# 964,Hwy 96 - Center,864 Hurst St,Center,Texas,75935,(936) 590-9898,31.805543642461732,-94.19100791840266,https://locations.whataburger.com/tx/center/864-hurst-st.html
+# 1053,Hwy 31 & Broad,103 Hwy 31 West,Chandler,Texas,75758,(903) 849-3021,32.30726790766584,-95.48049617580799,https://locations.whataburger.com/tx/chandler/103-hwy-31-west.html
+# 484,Hwy 59 - Cleveland,806 U.S. 59 North Bypass,Cleveland,Texas,77327,(281) 592-7722,30.33679469401117,-95.09840734601534,https://locations.whataburger.com/tx/cleveland/806-us-59-north-bypass.html
+#1295,Highway 24 and Culver Street,2675 Hwy 24,Commerce,Texas,75428,(430) 303-0244,33.235784428007435,-95.91317923037658,https://locations.whataburger.com/tx/commerce/2675-hwy-24.html
+# 1038,Hwy 59 & FM 942,700 S Home Street,Corrigan,Texas,75939,(936) 398-2708,30.988404898144424,-94.8259639417162,https://locations.whataburger.com/tx/corrigan/700-s-home-street.html
+# 934,Hwy 304 & Hwy 7,1281 E Loop 304,Crockett,Texas,75835,(936) 546-0240,31.315278236189815,-95.43539184746992,https://locations.whataburger.com/tx/crockett/1281-e-loop-304.html
+# 548,Hwy 287 - Decatur,500 S Highway 287,Decatur,Texas,76234,(940) 627-9229,33.23033875640125,-97.59563329447747,https://locations.whataburger.com/tx/decatur/500-s-highway-287.html
+# 1160,Center & 6th,609 Center St,Deer Park,Texas,77536,(832) 304-2719,29.70608752503473,-95.12354441779097,https://locations.whataburger.com/tx/deer-park/609-center-st.html
+# 107,Veterans & Miers,2113 Veterans Blvd,Del Rio,Texas,78840,(830) 775-6923,29.38786938180732,-100.90477770456377,https://locations.whataburger.com/tx/del-rio/2113-veterans-blvd.html
+# 408,Austin & Crawford,231 S Austin Ave,Denison,Texas,75020,(903) 465-6105,33.75365087761574,-96.53728220277789,https://locations.whataburger.com/tx/denison/231-s-austin-ave.html
+# 1152,DFW (Airport Terminal E27),2610 N. International Pkwy,Dfw Airport,Texas,75261,(469) 589-9077,32.89789441446002,-97.04041622586689,https://locations.whataburger.com/tx/dfw-airport/2610-n-international-pkwy.html
+# 595,Hwy 83 & Salinas,615 N Daniel Salinas Blvd,Donna,Texas,78537,(956) 464-3376,26.179259221189255,-98.04163131779099,https://locations.whataburger.com/tx/donna/615-n-daniel-salinas-blvd.html
+# 999,Hwy 290 - Dripping Springs,598 E Highway 290 Ste 500,Dripping Springs,Texas,78620,(512) 858-1280,30.189519612661638,-98.08134903919093,https://locations.whataburger.com/tx/dripping-springs/598-e-highway-290-ste-500.html
+#1217,US 90 & TX-146,204 Hwy 146,Dayton,Texas,77535,(936) 681-0408,30.044721942772824,-94.88927980183506,https://locations.whataburger.com/tx/dayton/204-hwy-146.html
+# 829,S Bibb Ave - Eagle Pass,454 S Bibb Ave,Eagle Pass,Texas,78852,(830) 773-7923,28.703083431661113,-100.48277677179298,https://locations.whataburger.com/tx/eagle-pass/454-s-bibb-ave.html
+# 428,Hwy 59 - Edna,112 E Houston Hwy,Edna,Texas,77957,(361) 782-2455,28.988455160441504,-96.64877852967892,https://locations.whataburger.com/tx/edna/112-e-houston-hwy.html
+# 373,Hwy 71 - El Campo,909 N Mechanic St,El Campo,Texas,77437,(979) 543-1455,29.203711254597838,-96.27596363083751,https://locations.whataburger.com/tx/el-campo/909-n-mechanic-st.html
+#1150,Edinburg Ave & Broadway St,100 E Edinburg Ave,Elsa,Texas,78543,(956) 262-1321,26.29302657174923,-97.99357672577764,https://locations.whataburger.com/tx/elsa/100-e-edinburg-ave.html
+# 361,I45 - Ennis,105 N Interstate Highway 45,Ennis,Texas,75119,(972) 875-9560,32.33465795191899,-96.6168808516384,https://locations.whataburger.com/tx/ennis/105-n-interstate-highway-45.html
+#1199,Elgin,1392 W Us Highway 290,Elgin,Texas,78621,(512) 549-4260,30.351105,-97.394387,https://locations.whataburger.com/tx/elgin/1392-w-us-highway-290.html
+#1334,Lake Fork Dr & HWY 69,1021 E Lennon Dr Suit 100,Emory,Texas,75440,(903) 308-1129,32.866,-95.7519,https://locations.whataburger.com/tx/emory/1021-e-lennon-dr-suit-100.html
+# 317,Hwy 281 - Falfurrias,101 Bypass 281,Falfurrias,Texas,78355,(361) 325-5888,27.226749850282086,-98.14176254232787,https://locations.whataburger.com/tx/falfurrias/101-bypass-281.html
+# 952,Hwy 181 - Floresville,911 10Th St,Floresville,Texas,78114,(830) 393-8459,29.14399280587187,-98.15642588928804,https://locations.whataburger.com/tx/floresville/911-10th-st.html
+# 1060,Hwy 290 - Fredericksburg,1301 E Main St,Fredericksburg,Texas,78624,(830) 990-8428,30.26102226333985,-98.85665885606703,https://locations.whataburger.com/tx/fredericksburg/1301-e-main-st.html
+#1206,I-45 & W Commerce St,300 I-45 E,Fairfield,Texas,75840,(903) 915-4933,31.7259744183239,-96.17810620987854,https://locations.whataburger.com/tx/fairfield/300-i-45-e.html
+# 922,Hwy 80 & Hwy 548,962 E. Hwy 80,Forney,Texas,75126,(972) 564-1232,32.74225639359091,-96.44386157823075,https://locations.whataburger.com/tx/forney/962-e-hwy-80.html
+# 1129,I35 - Gainesville,1700 N Interstate 35,Gainesville,Texas,76240,(940) 668-0984,33.641842974270745,-97.15428191741047,https://locations.whataburger.com/tx/gainesville/1700-n-interstate-35.html
+# 795,Hwy 290 - Giddings,2050 E Austin St,Giddings,Texas,78942,(979) 542-4968,30.17909231865787,-96.91688182514858,https://locations.whataburger.com/tx/giddings/2050-e-austin-st.html
+# 630,Hwy 183 - Goliad,348 E Pearl St,Goliad,Texas,77963,(361) 645-8800,28.66852228547339,-97.3892142828207,https://locations.whataburger.com/tx/goliad/348-e-pearl-st.html
+# 425,Hwy 16 - Graham,1228 State Highway 16 S,Graham,Texas,76450,(940) 549-3420,33.093159606226315,-98.58959216625308,https://locations.whataburger.com/tx/graham/1228-state-highway-16-s.html
+# 1373,Hwy 377 - Granbury,907 E Us Highway 377,Granbury,Texas,76048,(817) 579-0847,32.433989812851166,-97.77723712822436,https://locations.whataburger.com/tx/granbury/907-e-us-highway-377.html
+# 1029,Hwy 271 - Gilmer,892 Us Highway 271 N,Gilmer,Texas,75644,(903) 680-3001,32.741100280045316,-94.94139075279236,https://locations.whataburger.com/tx/gilmer/892-us-highway-271-n.html
+# 455,St. Joseph - Gonzales,1709 St. Joseph St,Gonzales,Texas,78629,(830) 672-2881,29.514084874325157,-97.45869969594935,https://locations.whataburger.com/tx/gonzales/1709-st-joseph-st.html
+# 343,Hwy 34 & Terrell Rd,6400 Wesley St,Greenville,Texas,75402,(903) 450-9808,33.10591261503627,-96.10993092600759,https://locations.whataburger.com/tx/greenville/6400-wesley-st.html
+# 562,Twin City Hwy Groves,4800 Twin City Hwy,Groves,Texas,77619,(409) 963-2623,29.938877648581137,-93.93721235276126,https://locations.whataburger.com/tx/groves/4800-twin-city-hwy.html
+# 652,Hwy 334 - Gun Barrel City,938 W Main St,Gun Barrel City,Texas,75156,(903) 887-8700,32.33126466806827,-96.13006697668648,https://locations.whataburger.com/tx/gun-barrel-city/938-w-main-st.html
+# 1062,Hwy 80 - Hallsville,602 W Main St,Hallsville,Texas,75650,(903) 668-2842,32.509554396878166,-94.59054741337857,https://locations.whataburger.com/tx/hallsville/602-w-main-st.html
+# 958,Hwy 190 & TX 2410,130 E Central Texas Expy,Harker Heights,Texas,76548,(254) 200-1200,31.06985888350051,-97.66651201471521,https://locations.whataburger.com/tx/harker-heights/130-e-central-texas-expy.html
+# 1091,Hwy 287 & FM 718,13148 Highway 287,Haslet,Texas,76052,(817) 439-8622,32.96700042476893,-97.41561753940121,https://locations.whataburger.com/tx/haslet/13148-highway-287.html
+# 735,FM 2181 & Hickory Creek,4250 Fm 2181,Hickory Creek,Texas,75065,(940) 498-9377,33.129502568091,-97.04408743435859,https://locations.whataburger.com/tx/hickory-creek/4250-fm-2181.html
+# 993,FM 407 & Barnet,2710 Fm 407,Highland Village,Texas,75077,(972) 317-4697,33.074189467225494,-97.07154516319467,https://locations.whataburger.com/tx/highland-village/2710-fm-407.html
+# 564,Hwy 77 & I35,1402 Corsicana Hwy,Hillsboro,Texas,76645,(254) 582-7355,32.00798758833394,-97.09752755398465,https://locations.whataburger.com/tx/hillsboro/1402-corsicana-hwy.html
+# 930,Hwy 90 - Hondo,229 19Th St,Hondo,Texas,78861,(830) 426-2247,29.34785166303429,-99.12887658832182,https://locations.whataburger.com/tx/hondo/229-19th-st.html
+# 1056,Horizon & Darrington,13910 Horizon Blvd Bldg B,Horizon City,Texas,79928,(915) 852-4574,31.6827299,-106.2054977,https://locations.whataburger.com/tx/horizon-city/13910-horizon-blvd-bldg-b.html
+# 1137,I45 - Huntsville,263 Ih 45 S,Huntsville,Texas,77340,(936) 439-9152,30.70772093881317,-95.56401763864041,https://locations.whataburger.com/tx/huntsville/263-ih-45-s.html
+# 337,Pipeline & Melbourne,1120 W Pipeline Rd,Hurst,Texas,76053,(817) 595-2404,32.82402667646804,-97.19855404658612,https://locations.whataburger.com/tx/hurst/1120-w-pipeline-rd.html
+# 891,I45 & Palestine,215 N Interstate 45 Service Rd,Hutchins,Texas,75141,(972) 225-9180,32.65000264073275,-96.70912961656761,https://locations.whataburger.com/tx/hutchins/215-n-interstate-45-service-rd.html
+# 1117,TX 130 & Gattis School,5012 Gattis School Rd,Hutto,Texas,78634,(512) 670-9189,30.50276650909692,-97.58172510424893,https://locations.whataburger.com/tx/hutto/5012-gattis-school-rd.html
+# 310,Hwy 79 & Peach,630 U.S. 79,Henderson,Texas,75652,(903) 657-8538,32.15878172930549,-94.78372197974491,https://locations.whataburger.com/tx/henderson/630-us-79.html
+# 485,Hwy 361 - Ingleside,2474 State Highway 361,Ingleside,Texas,78362,(361) 776-3281,27.88043670741362,-97.20671975498989,https://locations.whataburger.com/tx/ingleside/2474-state-highway-361.html
+# 668,Hwy 27 - Ingram,3215 Junction Hwy,Ingram,Texas,78025,(830) 353-8535,30.073004284602302,-99.2296733411045,https://locations.whataburger.com/tx/ingram/3215-junction-hwy.html
+# 501,Hwy 290 & Jones,17234 Northwest Fwy,Jersey Village,Texas,77040,(713) 466-5093,29.889759794442725,-95.58230984865006,https://locations.whataburger.com/tx/jersey-village/17234-northwest-fwy.html
+# 342,Jackson & El Paso,627 S. Jackson St.,Jacksonville,Texas,75766,(903) 586-7211,31.95921670704306,-95.2687928805057,https://locations.whataburger.com/tx/jacksonville/627-s-jackson-st.html
+# 638,Hwy 96 - Jasper,1365 S Wheeler St,Jasper,Texas,75951,(409) 384-4123,30.90795268550297,-93.9947548631773,https://locations.whataburger.com/tx/jasper/1365-s-wheeler-st.html
+# 1001,Hwy 84 - Joaquin,12768 Hwy 84 East,Joaquin,Texas,75954,(903) 263-0044,31.968961659000943,-94.02049068220902,https://locations.whataburger.com/tx/joaquin/12768-hwy-84-east.html
+# 835,Keller Pkwy & Keller Smithfield,1520 Keller Pkwy,Keller,Texas,76248,(817) 431-2948,32.93279625120171,-97.21809621288014,https://locations.whataburger.com/tx/keller/1520-keller-pkwy.html
+# 1067,FM 518 & FM 146,305 Fm 518 Rd,Kemah,Texas,77565,(281) 334-5093,29.535638517337066,-95.02070034300107,https://locations.whataburger.com/tx/kemah/305-fm-518-rd.html
+# 947,FM 1626 - Kyle,5401 Fm 1626 Ste 500,Kyle,Texas,78640,(512) 268-4259,30.015424851834638,-97.86427204112186,https://locations.whataburger.com/tx/kyle/5401-fm-1626-ste-500.html
+# 1065,Hwy 175 - Kaufmann,300 U.S. 175,Kaufman,Texas,75142,(972) 962-0002,32.57190419143797,-96.30671671129593,https://locations.whataburger.com/tx/kaufman/300-us-175.html
+# 594,Expy 83 & FM 506,90 W Expressway 83,La Feria,Texas,78559,(956) 797-9009,26.164887793683135,-97.82470643032403,https://locations.whataburger.com/tx/la-feria/90-w-expressway-83.html
+# 599,I45 - LaMarque,6300 Gulf Freeway,La Marque,Texas,77568,(409) 986-7001,29.40132661041936,-95.03294290172552,https://locations.whataburger.com/tx/la-marque/6300-gulf-freeway.html
+# 1028,Hwy 87- La Vernia,93 Fm 1346,La Vernia,Texas,78121,(830) 779-2083,29.358162402850393,-98.13644984746992,https://locations.whataburger.com/tx/la-vernia/93-fm-1346.html
+# 603,Hwy 83 & Palm Shores,450 Us-83,Lajoya,Texas,78560,(956) 519-4661,26.24707851886833,-98.47356492713276,https://locations.whataburger.com/tx/lajoya/450-us-83.html
+# 532,Hwy 332 - Lake Jackson,123 Highway 332 W,Lake Jackson,Texas,77566,(979) 299-1313,29.047437855291474,-95.46074982362818,https://locations.whataburger.com/tx/lake-jackson/123-highway-332-w.html
+# 353,Lake Worth & Loop 820,6120 Lake Worth Blvd,Lake Worth,Texas,76135,(817) 237-8271,32.80805538514371,-97.41630334110451,https://locations.whataburger.com/tx/lake-worth/6120-lake-worth-blvd.html
+# 796,Lakeway & FM 620,2011 Ranch Road 620 S,Lakeway,Texas,78734,(512) 263-8723,30.343419019488305,-97.96620615592632,https://locations.whataburger.com/tx/lakeway/2011-ranch-road-620-s.html
+#1196,N US HWY 183 & 9th St,1003 S Key Ave,Lampasas,Texas,76550,(512) 746-1945,31.05944814637613,-98.17981605423186,https://locations.whataburger.com/tx/lampasas/1003-s-key-ave.html
+#1175,W Metro Dr & US 183,140 W Metro Rd,Leander,Texas,78641,(512) 337-1443,30.58713379737403,-97.8575187627955,https://locations.whataburger.com/tx/leander/140-w-metro-rd.html
+# 316,Bandera & Huebner,7016 Bandera Rd,Leon Valley,Texas,78238,(210) 680-0721,29.499260529839464,-98.6245942828207,https://locations.whataburger.com/tx/leon-valley/7016-bandera-rd.html
+# 398,I35 & Topperwein,12806 N Interstate 35,Live Oak,Texas,78233,(210) 654-9405,29.554933833395765,-98.3469312760748,https://locations.whataburger.com/tx/live-oak/12806-n-interstate-35.html
+# 895,State Park & Hwy 183,100 State Park Rd,Lockhart,Texas,78644,(512) 398-4288,29.87187670761137,-97.66936710391744,https://locations.whataburger.com/tx/lockhart/100-state-park-rd.html
+#1225,Ocean Blvd,1002 Hwy 100,Los Fresnos,Texas,78566,(956) 238-4019,26.0732913,-97.4903323,https://locations.whataburger.com/tx/los-fresnos/1002-hwy-100.html
+# 1035,I35 - Lytle,19561 Mcdonald St,Lytle,Texas,78052,(830) 772-3347,29.23044546778669,-98.7895335215677,https://locations.whataburger.com/tx/lytle/19561-mcdonald-st.html
+# 747,Hwy 71 - La Grange,1800 Texas 71,La Grange,Texas,78945,(979) 968-9868,29.91921590357487,-96.85434096547854,https://locations.whataburger.com/tx/la-grange/1800-texas-71.html
+# 415,Hwy 90 - Liberty,1921 Hwy 90,Liberty,Texas,77575,(936) 391-3184,30.056989606778398,-94.79671676242717,https://locations.whataburger.com/tx/liberty/1921-hwy-90.html
+# 1036,Hwy 69 - Lindale,311 South Main Street,Lindale,Texas,75771,(903) 881-5120,32.51239391729783,-95.40976361314833,https://locations.whataburger.com/tx/lindale/311-south-main-street.html
+# 416,Hwy 190 - Livingston,1504 W Church St,Livingston,Texas,77351,(936) 776-3099,30.711621224103354,-94.9508035656414,https://locations.whataburger.com/tx/livingston/1504-w-church-st.html
+# 847,N. Main St. - Lumberton,401 N. Main St.,Lumberton,Texas,77657,(409) 755-0144,30.260088674134128,-94.19920528282071,https://locations.whataburger.com/tx/lumberton/401-n-main-st.html
+# 1108,Hwy 290 & FM 973,12003 Us Highway 290 E,Manor,Texas,78653,(512) 272-4160,30.348583913799814,-97.54024421188794,https://locations.whataburger.com/tx/manor/12003-us-highway-290-e.html
+# 527,Hwy 83 - Mercedes,4801 E Expressway 83,Mercedes,Texas,78570,(956) 514-4879,26.159937442972396,-97.89065506958806,https://locations.whataburger.com/tx/mercedes/4801-e-expressway-83.html
+# 401,Hwy 84 - Mexia,1012 E Milam St,Mexia,Texas,76667,(254) 562-5200,31.6845528128524,-96.46997996502971,https://locations.whataburger.com/tx/mexia/1012-e-milam-st.html
+# 289,Hwy 180 - Mineral Wells,2503 E Hubbard St,Mineral Wells,Texas,76067,(940) 325-9539,32.80951625433401,-98.09260646073055,https://locations.whataburger.com/tx/mineral-wells/2503-e-hubbard-st.html
+# 1040,Hwy 105 & Walden,18950 Highway 105 W,Montgomery,Texas,77356,(936) 582-1144,30.383982505906168,-95.65484593192858,https://locations.whataburger.com/tx/montgomery/18950-highway-105-w.html
+# 975,FM 544 Murphy,301 E Fm 544,Murphy,Texas,75094,(972) 881-5293,33.01189253977843,-96.60438568659744,https://locations.whataburger.com/tx/murphy/301-e-fm-544.html
+# 1104,Hwy 31 - Malakoff,102 W Royall Blvd,Malakoff,Texas,75148,(903) 292-5120,32.171134056352194,-96.01357048409207,https://locations.whataburger.com/tx/malakoff/102-w-royall-blvd.html
+# 692,Hwy 281 - Marble Falls,1204 Hwy 281 N.,Marble Falls,Texas,78654,(830) 693-5753,30.580957372280693,-98.27343801165676,https://locations.whataburger.com/tx/marble-falls/1204-hwy-281-n.html
+# 1074,Hwy 37 - Mineola,2200 North Pacific Street,Mineola,Texas,75773,(903) 638-8520,32.68927629578911,-95.48376801069928,https://locations.whataburger.com/tx/mineola/2200-north-pacific-street.html
+#1338,Eagle Dr & Langston Dr,9213 Eagle Dr,Mont Belvieu,Texas,77523,(281) 385-9442,29.82926318758445,-94.84735881904906,https://locations.whataburger.com/tx/mont-belvieu/9213-eagle-dr.html
+# 1007,Hwy 84 - Mt. Enterprise,104 S Railroad Avenue,Mt. Enterprise,Texas,75681,(903) 263-0359,31.91767543613554,-94.68042503932685,https://locations.whataburger.com/tx/mt-enterprise/104-s-railroad-avenue.html
+# 646,Bus 271 - Mt. Pleasant,2321 South Jefferson Ave,Mt. Pleasant,Texas,75455,(903) 572-3115,33.13370531455039,-94.96761195241419,https://locations.whataburger.com/tx/mt-pleasant/2321-south-jefferson-ave.html
+# 1099,Tarrant Pkwy & Davis,9100 N Tarrant Pkwy,N Richland Hills,Texas,76182,(817) 514-4989,32.90327913378721,-97.19175306994055,https://locations.whataburger.com/tx/n-richland-hills/9100-n-tarrant-pkwy.html
+# 1132,US 59 - New Caney,12083 N Grand Pkwy E,New Caney,Texas,77357,(281) 354-4227,30.13064818172692,-95.23233117729816,https://locations.whataburger.com/tx/new-caney/12083-n-grand-pkwy-e.html
+# 1142,Nederland Ave - Nederland,3535 Nederland Ave,Nederland,Texas,77627,(409) 237-6224,29.957157482356028,-94.00508949504301,https://locations.whataburger.com/tx/nederland/3535-nederland-ave.html
+# 925,Conway & FM 1924,4321 N Conway Ave,Palmhurst,Texas,78573,(956) 583-4003,26.259704566152163,-98.31899436950329,https://locations.whataburger.com/tx/palmhurst/4321-n-conway-ave.html
+# 618,Hwy 83 & La Homa,2916 W Expressway 83,Palmview,Texas,78572,(956) 519-8488,26.23069868500106,-98.36092613741702,https://locations.whataburger.com/tx/palmview/2916-w-expressway-83.html
+# 982,Limestone & Town Center,18609 Limestone Commercial Dr,Pflugerville,Texas,78660,(512) 989-8712,30.465380787893764,-97.5968258444449,https://locations.whataburger.com/tx/pflugerville/18609-limestone-commercial-dr.html
+# 872,Hwy 97 - Pleasanton,2173 W Oaklawn Rd,Pleasanton,Texas,78064,(830) 569-8823,28.93828330537573,-98.51474739938831,https://locations.whataburger.com/tx/pleasanton/2173-w-oaklawn-rd.html
+# 311,Alister & Ave G,729 S Alister St,Port Aransas,Texas,78373,(361) 412-3036,27.827213193618046,-97.06724715950718,https://locations.whataburger.com/tx/port-aransas/729-s-alister-st.html
+# 328,Hwy 100 - Port Isabel,1301 State Highway 100,Port Isabel,Texas,78578,(956) 943-1335,26.071057769256296,-97.22177177253644,https://locations.whataburger.com/tx/port-isabel/1301-state-highway-100.html
+# 323,Hwy 35 - Port Lavaca,1207 State Highway 35 N,Port Lavaca,Texas,77979,(361) 552-7416,28.634850202949277,-96.6279551855494,https://locations.whataburger.com/tx/port-lavaca/1207-state-highway-35-n.html
+# 607,Hwy 59 & Hwy 1314,23607 Highway 59,Porter,Texas,77365,(281) 354-5446,30.10545123786161,-95.2352732681055,https://locations.whataburger.com/tx/porter/23607-highway-59.html
+# 91,Hwy 181 - Portland,1010 Wildcat Dr,Portland,Texas,78374,(361) 643-2563,27.880361854371564,-97.31862543741703,https://locations.whataburger.com/tx/portland/1010-wildcat-dr.html
+# 1121,Hwy 380 Princeton,803 W Princeton Dr,Princeton,Texas,75407,(972) 439-9980,33.175533447451826,-96.5148012828207,https://locations.whataburger.com/tx/princeton/803-w-princeton-dr.html
+# 1133,S Preston Rd - Prosper,1201 S Preston Rd,Prosper,Texas,75078,(972) 347-9086,33.22140936574182,-96.79921117790985,https://locations.whataburger.com/tx/prosper/1201-s-preston-rd.html
+#1201,US 290 & Hwy 21 W,2537 E Sh 21 Ste 102,Paige,Texas,78659,(512) 549-4259,30.213577029574886,-97.13963666565876,https://locations.whataburger.com/tx/paige/2537-e-sh-21-ste-102.html
+# 579,Loop 256 - Palestine,1717 South Loop 256,Palestine,Texas,75801,(903) 729-5737,31.73756073106261,-95.60782835887812,https://locations.whataburger.com/tx/palestine/1717-south-loop-256.html
+#1252,NA,700 N Greer Blvd,Pittsburg,Texas,75686,(903) 708-7011,33.006491,-94.962166,https://locations.whataburger.com/tx/pittsburg/700-n-greer-blvd.html
+# 1127,Hwy 34 - Quinlan,8821 South Hwy 34,Quinlan,Texas,75474,(903) 226-3933,32.907820875970785,-96.12754022161023,https://locations.whataburger.com/tx/quinlan/8821-south-hwy-34.html
+# 333,Hwy 77 - Raymondville,1007 E Hidalgo Ave,Raymondville,Texas,78580,(956) 689-5578,26.48240835750296,-97.77043205549128,https://locations.whataburger.com/tx/raymondville/1007-e-hidalgo-ave.html
+# 319,Hwy 77 - Refugio,605 N Alamo St,Refugio,Texas,78377,(361) 526-4625,28.313727166417003,-97.27393974922292,https://locations.whataburger.com/tx/refugio/605-n-alamo-st.html
+# 754,Byron Nelson - Roanoke,605 E Byron Nelson Blvd,Roanoke,Texas,76262,(817) 490-1059,33.00279950349077,-97.22051544601537,https://locations.whataburger.com/tx/roanoke/605-e-byron-nelson-blvd.html
+# 282,Hwy 77 - Robstown,"502 N Ih 69, Robstown, Tx 78380",Robstown,Texas,78380,(361) 387-6913,27.793710714419106,-97.65187011350919,https://locations.whataburger.com/tx/robstown/502-n-ih-69-robstown-tx-78380.html
+# 201,Bus 35 - Rockport,1805 Highway 35 N,Rockport,Texas,78382,(361) 729-3022,28.04270286196133,-97.04295615012813,https://locations.whataburger.com/tx/rockport/1805-highway-35-n.html
+# 593,Hwy 83 - Roma,505 Us-83,Roma,Texas,78584,(956) 849-4895,26.40257593920219,-99.00639297607478,https://locations.whataburger.com/tx/roma/505-us-83.html
+# 651,I69 & Hwy 36,3402 Highway 36 S,Rosenberg,Texas,77471,(281) 232-5316,29.53065722695876,-95.80885991743997,https://locations.whataburger.com/tx/rosenberg/3402-highway-36-s.html
+# 496,I30 & Hwy 205,1070 I-30,Rockwall,Texas,75087,(972) 771-0335,32.908857667146634,-96.45141005516052,https://locations.whataburger.com/tx/rockwall/1070-i-30.html
+# 1110,I30 & Erby Campbell,540 W Interstate 30,Royse City,Texas,75189,(972) 635-2228,32.9639156,-96.3422875,https://locations.whataburger.com/tx/royse-city/540-w-interstate-30.html
+# 769,Hwy 69 - Rusk,1203 N Dickinson Dr,Rusk,Texas,75785,(903) 683-8040,31.80096447157522,-95.14763897572772,https://locations.whataburger.com/tx/rusk/1203-n-dickinson-dr.html
+# 882,Hwy 78 - Sachse,5060 Highway 78,Sachse,Texas,75048,(972) 675-4524,32.96909417231219,-96.6056221982967,https://locations.whataburger.com/tx/sachse/5060-highway-78.html
+# 1063,Hwy 287 - Saginaw,1021 N Saginaw Blvd,Saginaw,Texas,76179,(817) 847-8549,32.874826368310536,-97.37722253926945,https://locations.whataburger.com/tx/saginaw/1021-n-saginaw-blvd.html
+# 192,Bus 77 - San Benito,1110 W Us Highway 77,San Benito,Texas,78586,(956) 399-7440,26.145394253715526,-97.63554319395503,https://locations.whataburger.com/tx/san-benito/1110-w-us-highway-77.html
+# 918,FM 3009 & I-35,5570 Fm 3009,Schertz,Texas,78154,(210) 651-9858,29.60199328034112,-98.27789347197759,https://locations.whataburger.com/tx/schertz/5570-fm-3009.html
+# 789,I10 - Schulenburg,40 N Kessler Ave,Schulenburg,Texas,78956,(979) 743-9166,29.691199533989376,-96.90229697375982,https://locations.whataburger.com/tx/schulenburg/40-n-kessler-ave.html
+# 418,I10 - Sealy,2159 Highway 36 S,Sealy,Texas,77474,(979) 885-4101,29.761792507375002,-96.15101905828382,https://locations.whataburger.com/tx/sealy/2159-highway-36-s.html
+# 1147,Loop 1604 & NW Military,4050 N Loop 1604 W,Shavano Park,Texas,78231,(210) 419-2874,29.59998316958135,-98.56088997668648,https://locations.whataburger.com/tx/shavano-park/4050-n-loop-1604-w.html
+# 969,Hwy 75 & Pecan Grove,3609 N Us Highway 75,Sherman,Texas,75090,(903) 868-1236,33.67574820589944,-96.60802021726855,https://locations.whataburger.com/tx/sherman/3609-n-us-highway-75.html
+# 300,Bus 77 - Sinton,220 S San Patricio St,Sinton,Texas,78387,(361) 364-2463,28.034710700000023,-97.5170389171793,https://locations.whataburger.com/tx/sinton/220-s-san-patricio-st.html
+# 331,College Ave - Snyder,4612 College Ave,Snyder,Texas,79549,(325) 573-4954,32.695627771655374,-100.91873442270183,https://locations.whataburger.com/tx/snyder/4612-college-ave.html
+# 1077,FM 20 - Socorro,10401 Alameda Ave,Socorro,Texas,79927,(915) 859-3826,31.652731968180234,-106.28835781056516,https://locations.whataburger.com/tx/socorro/10401-alameda-ave.html
+# 477,Padre & Retama,3509 Padre Blvd,South Padre Island,Texas,78597,(956) 761-7862,26.11038828908129,-97.16944950124073,https://locations.whataburger.com/tx/south-padre-island/3509-padre-blvd.html
+# 1096,Hwy 46 & Hwy 281,20314 State Highway 46 W,Spring Branch,Texas,78070,(830) 438-4040,29.79832393124991,-98.42192003510205,https://locations.whataburger.com/tx/spring-branch/20314-state-highway-46-w.html
+# 434,Murphy & Greenbriar,13030 Murphy Rd,Stafford,Texas,77477,(281) 240-1336,29.633274440814127,-95.56542121188794,https://locations.whataburger.com/tx/stafford/13030-murphy-rd.html
+# 1131,I20 - Sweetwater,301 Ne Georgia Ave,Sweetwater,Texas,79556,(325) 235-1119,32.45146115639588,-100.39597764723874,https://locations.whataburger.com/tx/sweetwater/301-ne-georgia-ave.html
+# 495,Hwy 175 & Hall,1005 N. Hwy. 175,Seagoville,Texas,75159,(972) 287-7973,32.64998604728467,-96.54717494932112,https://locations.whataburger.com/tx/seagoville/1005-n-hwy-175.html
+# 648,Hwy 96 S - Silsbee,825 Highway 96 S,Silsbee,Texas,77656,(409) 385-3258,30.341654944468893,-94.18196232944774,https://locations.whataburger.com/tx/silsbee/825-highway-96-s.html
+# 773,I30 - Sulphur Springs,117 Shannon Road,Sulphur Springs,Texas,75482,(903) 439-1035,33.11564461718753,-95.59405029351868,https://locations.whataburger.com/tx/sulphur-springs/117-shannon-road.html
+#1187,Sunnyvale,382 U.S. 80 Frontage Rd,Sunnyvale,Texas,75182,(469) 703-8027,32.784209574119075,-96.56493321940765,https://locations.whataburger.com/tx/sunnyvale/382-us-80-frontage-rd.html
+# 445,Hwy 181 - Taft,321 Railroad Ave,Taft,Texas,78390,(361) 528-3531,27.978835030568202,-97.39773808709576,https://locations.whataburger.com/tx/taft/321-railroad-ave.html
+# 938,TX 95 - Taylor,3510 N Main St,Taylor,Texas,76574,(512) 352-6494,30.598663356319868,-97.41505040441355,https://locations.whataburger.com/tx/taylor/3510-n-main-st.html
+# 40,Palmer Hwy & Logan,2411 Palmer Hwy,Texas City,Texas,77590,(409) 948-3153,29.39443882666417,-94.93004202038685,https://locations.whataburger.com/tx/texas-city/2411-palmer-hwy.html
+# 748,Hwy 121 - The Colony,4687 State Highway 121,The Colony,Texas,75056,(972) 370-2806,33.06505156605403,-96.89284276649593,https://locations.whataburger.com/tx/the-colony/4687-state-highway-121.html
+# 823,Hwy 242 & St Lukes,3073 College Park Dr,The Woodlands,Texas,77384,(936) 273-7724,30.206451403562028,-95.46195038773155,https://locations.whataburger.com/tx/the-woodlands/3073-college-park-dr.html
+# 521,New Boston & Robinson,2727 New Boston Rd,Texarkana,Texas,75501,(903) 832-2727,33.43541655233576,-94.07800522161021,https://locations.whataburger.com/tx/texarkana/2727-new-boston-rd.html
+# 746,Hwy 59 - Timpson,694 N. First St.,Timpson,Texas,75975,(936) 657-4233,31.905698513669414,-94.39882746271473,https://locations.whataburger.com/tx/timpson/694-n-first-st.html
+# 1026,Pat Booker & Northview,1134 Pat Booker Rd,Universal City,Texas,78148,(210) 566-4350,29.550548666690315,-98.29703367055227,https://locations.whataburger.com/tx/universal-city/1134-pat-booker-rd.html
+# 409,Main & Ruth,2111 E Main St,Uvalde,Texas,78801,(830) 278-4141,29.21901599999999,-99.76619539938832,https://locations.whataburger.com/tx/uvalde/2111-e-main-st.html
+# 753,Hwy 67 - Venus,101 W Highway 67 Unit B,Venus,Texas,76084,(972) 366-3558,32.4350709940363,-97.10464763864042,https://locations.whataburger.com/tx/venus/101-w-highway-67-unit-b.html
+# 478,Main St - Vidor,540 N. Main St.,Vidor,Texas,77662,(409) 769-5871,30.130063085890885,-94.01476938467313,https://locations.whataburger.com/tx/vidor/540-n-main-st.html
+# 757,Hwy 377 & Park,7826 Denton Hwy,Watauga,Texas,76148,(817) 514-7513,32.8861032002694,-97.25952650611156,https://locations.whataburger.com/tx/watauga/7826-denton-hwy.html
+# 375,NASA & Old Galveston,100 W Nasa Rd 1,Webster,Texas,77598,(281) 338-1576,29.537438821385262,-95.11893131926014,https://locations.whataburger.com/tx/webster/100-w-nasa-rd-1.html
+# 983,Hwy 183 & Roaring Springs,6520 Westworth Blvd,Westworth Village,Texas,76114,(817) 763-9873,32.757130766985725,-97.42729355092622,https://locations.whataburger.com/tx/westworth-village/6520-westworth-blvd.html
+# 467,Hwy 59 - Wharton,10319 Us 59 Hwy,Wharton,Texas,77488,(979) 532-1208,29.32671170451854,-96.11983267167713,https://locations.whataburger.com/tx/wharton/10319-us-59-hwy.html
+# 978,Hwy 80 - White Oak,103 E Us Highway 80,White Oak,Texas,75693,(903) 291-1995,32.52081103130184,-94.86060670158714,https://locations.whataburger.com/tx/white-oak/103-e-us-highway-80.html
+# 1064,Hwy 82 & Hwy 377,1001 Highway 82 E,Whitesboro,Texas,76273,(903) 564-3019,33.67276825335418,-96.90529174495109,https://locations.whataburger.com/tx/whitesboro/1001-highway-82-e.html
+# 1014,I45 - Willis,12721 Interstate 45 N,Willis,Texas,77318,(936) 890-1279,30.423935738624444,-95.49377258282068,https://locations.whataburger.com/tx/willis/12721-interstate-45-n.html
+# 771,I20 - Willow Park,4915 E Interstate 20 Service Rd N,Willow Park,Texas,76087,(817) 441-2301,32.735637240906,-97.63352722948245,https://locations.whataburger.com/tx/willow-park/4915-e-interstate-20-service-rd-n.html
+# 298,I35 & Walzem,8300 N Ih 35,Windcrest,Texas,78239,(210) 654-8664,29.513350930744302,-98.39611528730677,https://locations.whataburger.com/tx/windcrest/8300-n-ih-35.html
+# 1164,Hwy 78 & E FM Rd 544,350 S Highway 78,Wylie,Texas,75098,(972) 468-9825,33.01027845696282,-96.54359438665729,https://locations.whataburger.com/tx/wylie/350-s-highway-78.html
+#1251,TX-110,1051 Hwy 110 N,Whitehouse,Texas,75791,(903) 202-5085,32.2430254,-95.2334648,https://locations.whataburger.com/tx/whitehouse/1051-hwy-110-n.html
+# 766,I10 - Winnie,14935 F.M. 1663,Winnie,Texas,77665,(409) 240-2731,29.835945792869683,-94.38371532944775,https://locations.whataburger.com/tx/winnie/14935-fm-1663.html
+# 1051,Hwy 287 - Woodville,703 S Magnolia,Woodville,Texas,75979,(409) 331-9848,30.768454013473022,-94.41418019707334,https://locations.whataburger.com/tx/woodville/703-s-magnolia.html
