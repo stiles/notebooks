@@ -1,0 +1,188 @@
+index,id,timezone,name,url,address,city,state,zip,latitude,longitude
+0,1754,America/Los_Angeles,Vons,https://local.vons.com/ca/fresno/5638-e-kings-canyon.html,5638 E Kings Canyon,Fresno,CA,93727,36.7344809,-119.6980631
+1,2701,America/Los_Angeles,Vons,https://local.vons.com/ca/clovis/3100-fowler-ave.html,3100 Fowler Ave,Clovis,CA,93611,36.7953574,-119.6841646
+2,2188,America/Los_Angeles,Vons,https://local.vons.com/ca/fresno/8949-n-cedar-ave.html,8949 N Cedar Ave,Fresno,CA,93720,36.8648627,-119.7583563
+3,1756,America/Los_Angeles,Vons,https://local.vons.com/ca/clovis/1650-herndon-ave.html,1650 Herndon Ave,Clovis,CA,93611,36.8357417,-119.6850551
+4,2029,America/Los_Angeles,Vons,https://local.vons.com/ca/lancaster/4033-w-ave-l.html,4033 W Ave L,Lancaster,CA,93536,34.66160196197932,-118.20239245891571
+5,3017,America/Los_Angeles,Vons,https://local.vons.com/ca/palmdale/3027-rancho-vista-blvd.html,3027 Rancho Vista Blvd,Palmdale,CA,93551,34.60340852121108,-118.1842406170199
+6,3138,America/Los_Angeles,Vons,https://local.vons.com/ca/santa-clarita/16550-w-soledad-canyon-rd.html,16550 W Soledad Canyon Rd,Santa Clarita,CA,91387,34.42558870419761,-118.42522631349183
+7,2598,America/Los_Angeles,Vons,https://local.vons.com/ca/la-crescenta/3233-foothill-blvd.html,3233 Foothill Blvd,La Crescenta,CA,91214,34.23117718467332,-118.250173330307
+8,2288,America/Los_Angeles,Vons,https://local.vons.com/ca/montrose/2039-verdugo-blvd.html,2039 Verdugo Blvd,Montrose,CA,91020,34.20573356608936,-118.22151394220782
+9,2858,America/Los_Angeles,Vons,https://local.vons.com/ca/pasadena/2355-e-colorado-blvd.html,2355 E Colorado Blvd,Pasadena,CA,91107,34.1476373,-118.1021057
+10,2200,America/Los_Angeles,Vons,https://local.vons.com/ca/monrovia/130-w-foothill-blvd.html,130 W Foothill Blvd,Monrovia,CA,91016,34.1500513,-118.0019793
+11,2124,America/Los_Angeles,Vons,https://local.vons.com/ca/tujunga/7789-foothill-blvd.html,7789 Foothill Blvd,Tujunga,CA,91042,34.259180754231565,-118.30124198795147
+12,2152,America/Los_Angeles,Vons,https://local.vons.com/ca/pasadena/155-california-blvd.html,155 California Blvd,Pasadena,CA,91105,34.136741,-118.1533612
+13,3208,America/Los_Angeles,Vons,https://local.vons.com/ca/arcadia/745-w-naomi-ave.html,745 W Naomi Ave,Arcadia,CA,91007,34.125034,-118.0577682
+14,2655,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/7311-n-figueroa-st.html,7311 N Figueroa St,Los Angeles,CA,90041,34.1361544,-118.1895389
+15,1707,America/Los_Angeles,Vons,https://local.vons.com/ca/glendale/561-n-glendale-ave.html,561 N Glendale Ave,Glendale,CA,91206,34.1549844,-118.2448076
+16,2169,America/Los_Angeles,Vons,https://local.vons.com/ca/glendora/435-w-foothill-blvd.html,435 W Foothill Blvd,Glendora,CA,91741,34.137449765474024,-117.8714868809509
+17,2254,America/Los_Angeles,Vons,https://local.vons.com/ca/glendale/311-w-los-feliz-blvd.html,311 W Los Feliz Blvd,Glendale,CA,91204,34.1294284739676,-118.25864030995945
+18,1753,America/Los_Angeles,Vons,https://local.vons.com/ca/bishop/1190-n-main-st.html,1190 N Main St,Bishop,CA,93514,37.373471,-118.39149835581964
+19,2301,America/Los_Angeles,Vons,https://local.vons.com/ca/santa-maria/817-e-main-st.html,817 E Main St,Santa Maria,CA,93454,34.95361844982526,-120.42409300804138
+20,1621,America/Los_Angeles,Vons,https://local.vons.com/ca/nipomo/520-w-tefft-st.html,520 W Tefft St,Nipomo,CA,93444,35.0373774,-120.4869567
+21,2560,America/Los_Angeles,Vons,https://local.vons.com/ca/grover-beach/1758-w-grand-ave.html,1758 W Grand Ave,Grover Beach,CA,93433,35.119924,-120.610508
+22,2314,America/Los_Angeles,Vons,https://local.vons.com/ca/atascadero/7135-el-camino-real.html,7135 El Camino Real,Atascadero,CA,93422,35.48589268768676,-120.66202104091644
+23,2306,America/Los_Angeles,Vons,https://local.vons.com/ca/san-luis-obispo/3900-broad-st.html,3900 Broad St,San Luis Obispo,CA,93401,35.25037459261333,-120.64199185026246
+24,2420,America/Los_Angeles,Vons,https://local.vons.com/ca/bakersfield/9000-ming-ave.html,9000 Ming Ave,Bakersfield,CA,93311,35.3416605,-119.1025604
+25,2033,America/Los_Angeles,Vons,https://local.vons.com/ca/bakersfield/4500-coffee-rd.html,4500 Coffee Rd,Bakersfield,CA,93308,35.4001287,-119.0904969
+26,1969,America/Los_Angeles,Vons,https://local.vons.com/ca/bakersfield/5700-stockdale-hwy.html,5700 Stockdale Hwy,Bakersfield,CA,93309,35.355458533027296,-119.06502514482327
+27,3326,America/Los_Angeles,Vons,https://local.vons.com/ca/goleta/163-s-turnpike-rd.html,163 S Turnpike Rd,Goleta,CA,93111,34.4377605,-119.7906064
+28,3329,America/Los_Angeles,Vons,https://local.vons.com/ca/santa-barbara/2010-cliff-dr.html,2010 Cliff Dr,Santa Barbara,CA,93109,34.402523568056864,-119.723783660761
+29,2501,America/Los_Angeles,Vons,https://local.vons.com/ca/simi-valley/1855-e-cochran-st.html,1855 E Cochran St,Simi Valley,CA,93065,34.2804062,-118.7629593
+30,2692,America/Los_Angeles,Vons,https://local.vons.com/ca/simi-valley/2938-tapo-canyon-rd.html,2938 Tapo Canyon Rd,Simi Valley,CA,93063,34.28772346026805,-118.71558737116393
+31,2092,America/Los_Angeles,Vons,https://local.vons.com/ca/thousand-oaks/2048-avenida-de-los-arboles.html,2048 Avenida De Los Arboles,Thousand Oaks,CA,91362,34.2098941,-118.8408902
+32,1735,America/Los_Angeles,Vons,https://local.vons.com/ca/moorpark/4241-tierra-rejada-rd.html,4241 Tierra Rejada Rd,Moorpark,CA,93021,34.26765975731097,-118.89930217862911
+33,2047,America/Los_Angeles,Vons,https://local.vons.com/ca/simi-valley/5805-e-los-angeles-ave.html,5805 E Los Angeles Ave,Simi Valley,CA,93063,34.27322287284763,-118.67773445026245
+34,1610,America/Los_Angeles,Vons,https://local.vons.com/ca/thousand-oaks/1790-moorpark-rd.html,1790 Moorpark Rd,Thousand Oaks,CA,91360,34.2014165,-118.8667448
+35,2001,America/Los_Angeles,Vons,https://local.vons.com/ca/agoura/5671-kanan-rd.html,5671 Kanan Rd,Agoura,CA,91301,34.15366160988684,-118.75920771957226
+36,3135,America/Los_Angeles,Vons,https://local.vons.com/ca/thousand-oaks/2725-agoura-rd.html,2725 Agoura Rd,Thousand Oaks,CA,91361,34.1520254,-118.8258368
+37,2442,America/Los_Angeles,Vons,https://local.vons.com/ca/fillmore/636-ventura-st.html,636 Ventura St,Fillmore,CA,93015,34.39502103965203,-118.91634469086512
+38,1671,America/Los_Angeles,Vons,https://local.vons.com/ca/chatsworth/20440-devonshire-st.html,20440 Devonshire St,Chatsworth,CA,91311,34.256626910528354,-118.57864116484507
+39,2094,America/Los_Angeles,Vons,https://local.vons.com/ca/camarillo/5275-mission-oaks-blvd.html,5275 Mission Oaks Blvd,Camarillo,CA,93012,34.2296878,-118.9984747
+40,1672,America/Los_Angeles,Vons,https://local.vons.com/ca/camarillo/820-arneill-rd.html,820 Arneill Rd,Camarillo,CA,93010,34.2248473,-119.037016
+41,2078,America/Los_Angeles,Vons,https://local.vons.com/ca/northridge/9119-reseda-blvd.html,9119 Reseda Blvd,Northridge,CA,91324,34.23604777426398,-118.53775308297372
+42,2030,America/Los_Angeles,Vons,https://local.vons.com/ca/valencia/25850-n-the-old-rd.html,25850 N The Old Rd,Valencia,CA,91381,34.3911257,-118.5722962
+43,2039,America/Los_Angeles,Vons,https://local.vons.com/ca/reseda/19333-victory-blvd.html,19333 Victory Blvd,Reseda,CA,91335,34.18769691972358,-118.55445116758347
+44,2111,America/Los_Angeles,Vons,https://local.vons.com/ca/newhall/24160-lyons-ave.html,24160 Lyons Ave,Newhall,CA,91321,34.3774419,-118.5571682
+45,2250,America/Los_Angeles,Vons,https://local.vons.com/ca/granada-hills/16830-san-fernando-mission-blvd.html,16830 San Fernando Mission Blvd,Granada Hills,CA,91344,34.27092937356146,-118.4988704476018
+46,2434,America/Los_Angeles,Vons,https://local.vons.com/ca/santa-paula/576-w-main-st.html,576 W Main St,Santa Paula,CA,93060,34.34461423899754,-119.08140063285828
+47,2430,America/Los_Angeles,Vons,https://local.vons.com/ca/ojai/1125-maricopa-hwy.html,1125 Maricopa Hwy,Ojai,CA,93023,34.44123217691627,-119.26238671706415
+48,2678,America/Los_Angeles,Vons,https://local.vons.com/ca/ventura/6040-telegraph-rd.html,6040 Telegraph Rd,Ventura,CA,93003,34.27678272780918,-119.21254656828296
+49,2164,America/Los_Angeles,Vons,https://local.vons.com/ca/ventura/5688-telephone-rd.html,5688 Telephone Rd,Ventura,CA,93003,34.2643315,-119.2150776
+50,2436,America/Los_Angeles,Vons,https://local.vons.com/ca/oxnard/2101-n-rose-ave.html,2101 N Rose Ave,Oxnard,CA,93036,34.221887,-119.1620065
+51,2677,America/Los_Angeles,Vons,https://local.vons.com/ca/ventura/2764-e-thompson-blvd.html,2764 E Thompson Blvd,Ventura,CA,93003,34.27124990508542,-119.25926993491821
+52,2431,America/Los_Angeles,Vons,https://local.vons.com/ca/ventura/2433-harbor-blvd.html,2433 Harbor Blvd,Ventura,CA,93001,34.26298769634401,-119.27018809021301
+53,2096,America/Los_Angeles,Vons,https://local.vons.com/ca/ventura/115-w-main-st.html,115 W Main St,Ventura,CA,93001,34.2822819,-119.3024067
+54,1913,America/Los_Angeles,Vons,https://local.vons.com/ca/oxnard/450-s-ventura-rd.html,450 S Ventura Rd,Oxnard,CA,93030,34.19840544094263,-119.19320913677063
+55,2825,America/Los_Angeles,Vons,https://local.vons.com/ca/oxnard/1291-s-victoria-ave.html,1291 S Victoria Ave,Oxnard,CA,93035,34.18831795300853,-119.22206057063906
+56,3325,America/Los_Angeles,Vons,https://local.vons.com/ca/saugus/26518-bouquet-canyon-rd.html,26518 Bouquet Canyon Rd,Saugus,CA,91350,34.42695302014139,-118.53527740405298
+57,2216,America/Los_Angeles,Vons,https://local.vons.com/ca/anaheim-hills/8010-e-santa-ana-canyon-rd.html,8010 E Santa Ana Canyon Rd,Anaheim Hills,CA,92808,33.8672729,-117.7515448
+58,3069,America/Los_Angeles,Vons,https://local.vons.com/ca/yorba-linda/20445-yorba-linda-blvd.html,20445 Yorba Linda Blvd,Yorba Linda,CA,92886,33.89329546935657,-117.77564362452722
+59,2103,America/Los_Angeles,Vons,https://local.vons.com/ca/anaheim/5600-santa-ana-canyon-rd.html,5600 Santa Ana Canyon Rd,Anaheim,CA,92807,33.84974167609173,-117.79180365807406
+60,2335,America/Los_Angeles,Vons,https://local.vons.com/ca/orange/2684-n-tustin-ave.html,2684 N Tustin Ave,Orange,CA,92865,33.83340216393927,-117.83732691349182
+61,2596,America/Los_Angeles,Vons,https://local.vons.com/ca/corona/369-magnolia-ave.html,369 Magnolia Ave,Corona,CA,92879,33.854531163153126,-117.56569238039447
+62,2688,America/Los_Angeles,Vons,https://local.vons.com/ca/mira-loma/6170-hamner-ave.html,6170 Hamner Ave,Mira Loma,CA,91752,33.9765251,-117.5578394
+63,2328,America/Los_Angeles,Vons,https://local.vons.com/ca/anaheim/130-w-lincoln.html,130 W Lincoln,Anaheim,CA,92805,33.83511055162666,-117.91458871349182
+64,2167,America/Los_Angeles,Vons,https://local.vons.com/ca/walnut/350-n-lemon-ave.html,350 N Lemon Ave,Walnut,CA,91789,34.0195867,-117.8639643
+65,2176,America/Los_Angeles,Vons,https://local.vons.com/ca/garden-grove/12961-w-chapman-ave.html,12961 W Chapman Ave,Garden Grove,CA,92840,33.7895413,-117.9072586
+66,2818,America/Los_Angeles,Vons,https://local.vons.com/ca/temescal-valley/11800-de-palma-rd.html,11800 De Palma Rd,Temescal Valley,CA,92883,33.74743948601739,-117.45317371221972
+67,2381,America/Los_Angeles,Vons,https://local.vons.com/ca/corona/535-n-mckinley-st.html,535 N Mckinley St,Corona,CA,92879,33.891449893835436,-117.52022893759204
+68,2659,America/Los_Angeles,Vons,https://local.vons.com/ca/riverside/3520-riverside-plaza.html,3520 Riverside Plaza,Riverside,CA,92506,33.9546810024487,-117.38954634980473
+69,2386,America/Los_Angeles,Vons,https://local.vons.com/ca/sun-city/27220-sun-city-blvd.html,27220 Sun City Blvd,Sun City,CA,92586,33.71282241248879,-117.19319586931151
+70,2027,America/Los_Angeles,Vons,https://local.vons.com/ca/whittier/15740-la-forge-st.html,15740 La Forge St,Whittier,CA,90603,33.9409551,-117.994277
+71,1626,America/Los_Angeles,Vons,https://local.vons.com/ca/santa-ana/3650-s-bristol-st.html,3650 S Bristol St,Santa Ana,CA,92704,33.698310708815214,-117.88702368736267
+72,1736,America/Los_Angeles,Vons,https://local.vons.com/ca/costa-mesa/2701-b-harbor-blvd.html,2701 B Harbor Blvd,Costa Mesa,CA,92626,33.6718708782081,-117.920254009787
+73,2041,America/Los_Angeles,Vons,https://local.vons.com/ca/garden-grove/11861-valley-view-st.html,11861 Valley View St,Garden Grove,CA,92845,33.7902127,-118.0291364
+74,1742,America/Los_Angeles,Vons,https://local.vons.com/ca/fontana/7390-cherry-ave.html,7390 Cherry Ave,Fontana,CA,92336,34.11979808978862,-117.49038306137695
+75,2681,America/Los_Angeles,Vons,https://local.vons.com/ca/upland/81-w-foothill-blvd.html,81 W Foothill Blvd,Upland,CA,91786,34.10832726479641,-117.65285979444276
+76,1914,America/Los_Angeles,Vons,https://local.vons.com/ca/rancho-cucamonga/6351-haven-ave.html,6351 Haven Ave,Rancho Cucamonga,CA,91737,34.13867129917831,-117.57413092327882
+77,2285,America/Los_Angeles,Vons,https://local.vons.com/ca/los-alamitos/11322-los-alamitos-blvd.html,11322 Los Alamitos Blvd,Los Alamitos,CA,90720,33.797870157222256,-118.0706986784935
+78,2090,America/Los_Angeles,Vons,https://local.vons.com/ca/huntington-beach/5922-edinger-ave.html,5922 Edinger Ave,Huntington Beach,CA,92649,33.72858055320909,-118.02482693792172
+79,2203,America/Los_Angeles,Vons,https://local.vons.com/ca/long-beach/5949-e-spring-st.html,5949 E Spring St,Long Beach,CA,90808,33.8116636,-118.1154879
+80,1638,America/Los_Angeles,Vons,https://local.vons.com/ca/lakewood/4226-woodruff-ave.html,4226 Woodruff Ave,Lakewood,CA,90713,33.835061006156685,-118.11522872778369
+81,3076,America/Los_Angeles,Vons,https://local.vons.com/ca/long-beach/1820-ximeno-ave.html,1820 Ximeno Ave,Long Beach,CA,90815,33.79064050000001,-118.13735728095092
+82,2209,America/Los_Angeles,Vons,https://local.vons.com/ca/lakewood/5500-woodruff-ave.html,5500 Woodruff Ave,Lakewood,CA,90713,33.8568774,-118.1154223
+83,2280,America/Los_Angeles,Vons,https://local.vons.com/ca/long-beach/3900-e-ocean-ave.html,3900 E Ocean Ave,Long Beach,CA,90803,33.7598015,-118.1471209
+84,3160,America/Los_Angeles,Vons,https://local.vons.com/ca/huntington-beach/8891-atlanta-ave.html,8891 Atlanta Ave,Huntington Beach,CA,92646,33.658386200000024,-117.97314547672119
+85,3086,America/Los_Angeles,Vons,https://local.vons.com/ca/hacienda-heights/2122-s-hacienda-blvd.html,2122 S Hacienda Blvd,Hacienda Heights,CA,91745,33.99502390788731,-117.96729550526834
+86,2125,America/Los_Angeles,Vons,https://local.vons.com/ca/san-dimas/1160-via-verde-ave.html,1160 Via Verde Ave,San Dimas,CA,91773,34.07259797250348,-117.82904425266673
+87,2123,America/Los_Angeles,Vons,https://local.vons.com/ca/west-covina/777-glendora-ave.html,777 Glendora Ave,West Covina,CA,91790,34.0626231,-117.9323687
+88,2513,America/Los_Angeles,Vons,https://local.vons.com/ca/costa-mesa/185-e-17th-st.html,185 E 17th St,Costa Mesa,CA,92627,33.63452295020686,-117.92036531719667
+89,2091,America/Los_Angeles,Vons,https://local.vons.com/ca/san-juan-capistrano/32401-camino-capistrano.html,32401 Camino Capistrano,San Juan Capistrano,CA,92675,33.4926725,-117.663619
+90,2861,America/Los_Angeles,Vons,https://local.vons.com/ca/long-beach/600-e-broadway.html,600 E Broadway,Long Beach,CA,90802,33.76887000671547,-118.18444856560669
+91,2660,America/Los_Angeles,Vons,https://local.vons.com/ca/murrieta/38995-sky-canyon-dr.html,38995 Sky Canyon Dr,Murrieta,CA,92563,33.5542322,-117.138551
+92,1962,America/Los_Angeles,Vons,https://local.vons.com/ca/temecula/29530-rancho-california-rd.html,29530 Rancho California Rd,Temecula,CA,92591,33.5052468,-117.147633
+93,1796,America/Los_Angeles,Vons,https://local.vons.com/ca/yucaipa/33644-yucaipa-blvd.html,33644 Yucaipa Blvd,Yucaipa,CA,92399,34.0353675,-117.0700198
+94,1734,America/Los_Angeles,Vons,https://local.vons.com/ca/redlands/522-n-orange-st.html,522 N Orange St,Redlands,CA,92374,34.06003292943473,-117.18098850580645
+95,2360,America/Los_Angeles,Vons,https://local.vons.com/ca/oceanside/845-college-blvd.html,845 College Blvd,Oceanside,CA,92057,33.240742443703716,-117.29475975036621
+96,2147,America/Los_Angeles,Vons,https://local.vons.com/ca/rancho-cucamonga/8778-19th-st.html,8778 19th St,Rancho Cucamonga,CA,91701,34.1336714,-117.6146153
+97,2131,America/Los_Angeles,Vons,https://local.vons.com/ca/victorville/12199-hesperia-rd.html,12199 Hesperia Rd,Victorville,CA,92395,34.4724121,-117.2898559
+98,2155,America/Los_Angeles,Vons,https://local.vons.com/ca/claremont/550-e-baseline-rd.html,550 E Baseline Rd,Claremont,CA,91711,34.12060275867562,-117.70607785151691
+99,2374,America/Los_Angeles,Vons,https://local.vons.com/ca/big-bear-lake/42170-big-bear-blvd.html,42170 Big Bear Blvd,Big Bear Lake,CA,92315,34.2524122,-116.8849812
+100,2832,America/Los_Angeles,Vons,https://local.vons.com/ca/la-verne/1600-foothill-blvd.html,1600 Foothill Blvd,La Verne,CA,91750,34.11460313624292,-117.77325376131557
+101,3058,America/Los_Angeles,Vons,https://local.vons.com/ca/yucca-valley/57590-29-palms-hwy.html,57590 29 Palms Hwy,Yucca Valley,CA,92284,34.126895557216336,-116.40834064814044
+102,2177,America/Los_Angeles,Vons,https://local.vons.com/ca/desert-hot-springs/14200-palm-dr.html,14200 Palm Dr,Desert Hot Springs,CA,92240,33.9454684,-116.4999766
+103,2175,America/Los_Angeles,Vons,https://local.vons.com/ca/la-quinta/78-271-state-hwy-111.html,78-271 State Hwy 111,La Quinta,CA,92253,33.71499366744,-116.29831445952453
+104,2384,America/Los_Angeles,Vons,https://local.vons.com/ca/palm-springs/4733-e-palm-canyon-dr.html,4733 E Palm Canyon Dr,Palm Springs,CA,92264,33.791989206201045,-116.49454178650818
+105,2406,America/Los_Angeles,Vons,https://local.vons.com/ca/el-centro/750-n-imperial-ave.html,750 N Imperial Ave,El Centro,CA,92243,32.7989141,-115.5717561
+106,1767,America/Los_Angeles,Vons,https://local.vons.com/ca/brawley/475-w-main-st.html,475 W Main St,Brawley,CA,92227,32.9789392,-115.5503649
+107,2115,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/620-dennery-rd.html,620 Dennery Rd,San Diego,CA,92154,32.5830679,-117.0346525
+108,2338,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/665-saturn-blvd.html,665 Saturn Blvd,San Diego,CA,92154,32.58482889940658,-117.09005950555725
+109,2826,America/Los_Angeles,Vons,https://local.vons.com/ca/chula-vista/1745-eastlake-pkwy.html,1745 Eastlake Pkwy,Chula Vista,CA,91915,32.61967769616686,-116.96092469629517
+110,2130,America/Los_Angeles,Vons,https://local.vons.com/ca/bonita/4404-bonita-rd.html,4404 Bonita Rd,Bonita,CA,91902,32.6599528,-117.0323211
+111,2071,America/Los_Angeles,Vons,https://local.vons.com/ca/chula-vista/2250-otay-lakes-rd.html,2250 Otay Lakes Rd,Chula Vista,CA,91915,32.645757952425086,-116.96651185396729
+112,2364,America/Los_Angeles,Vons,https://local.vons.com/ca/coronado/868-orange-ave.html,868 Orange Ave,Coronado,CA,92118,32.6878233,-117.1792469
+113,2352,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/6155-el-cajon-blvd.html,6155 El Cajon Blvd,San Diego,CA,92115,32.760954532745004,-117.06496381349181
+114,2093,America/Los_Angeles,Vons,https://local.vons.com/ca/la-mesa/8011-university-ave.html,8011 University Ave,La Mesa,CA,91942,32.7653359,-117.0242851
+115,2355,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/4145-30th-st.html,4145 30th St,San Diego,CA,92104,32.7530846,-117.1294864
+116,2358,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/3610-adams-ave.html,3610 Adams Ave,San Diego,CA,92116,32.7641395,-117.1146623
+117,2784,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/515-w-washington-st.html,515 W Washington St,San Diego,CA,92103,32.74937798470182,-117.16821363491822
+118,3327,America/Los_Angeles,Vons,https://local.vons.com/ca/la-mesa/5630-lake-murray-blvd.html,5630 Lake Murray Blvd,La Mesa,CA,91942,32.78242861921922,-117.0323933065265
+119,3044,America/Los_Angeles,Vons,https://local.vons.com/ca/el-cajon/1201-avocado-blvd.html,1201 Avocado Blvd,El Cajon,CA,92020,32.77887254687219,-116.95633605883813
+120,2359,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/6555-mission-gorge-rd.html,6555 Mission Gorge Rd,San Diego,CA,92120,32.7923799,-117.0964609
+121,4018,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/10016-scripps-ranch-blvd.html,10016 Scripps Ranch Blvd,San Diego,CA,92131,32.90313016766139,-117.10043846965618
+122,2107,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/10675-scripps-poway-pkwy.html,10675 Scripps Poway Pkwy,San Diego,CA,92131,32.93539354090204,-117.09839096197129
+123,2136,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/8310-mira-mesa-blvd.html,8310 Mira Mesa Blvd,San Diego,CA,92126,32.915256889967274,-117.14476392434335
+124,2134,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/10460-clairemont-mesa-blvd.html,10460 Clairemont Mesa Blvd,San Diego,CA,92124,32.8305239,-117.1041703
+125,2081,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/13255-black-mountain-rd.html,13255 Black Mountain Rd,San Diego,CA,92129,32.9579597,-117.1249704
+126,1897,America/Los_Angeles,Vons,https://local.vons.com/ca/santee/9643-mission-gorge-rd.html,9643 Mission Gorge Rd,Santee,CA,92071,32.83727877333448,-116.98698029683328
+127,2118,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/3550-murphy-canyon-dr.html,3550 Murphy Canyon Dr,San Diego,CA,92123,32.80716160546506,-117.11651924973755
+128,3323,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/7895-highland-village-place.html,7895 Highland Village Place,San Diego,CA,92129,32.961032367304064,-117.15367046745911
+129,2040,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/5555-balboa-ave.html,5555 Balboa Ave,San Diego,CA,92111,32.818322,-117.1789863
+130,2370,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/3993-governor-dr.html,3993 Governor Dr,San Diego,CA,92122,32.8535238,-117.2032369
+131,1797,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/4627-carmel-mountain-rd.html,4627 Carmel Mountain Rd,San Diego,CA,92130,32.9203554,-117.2150572
+132,2079,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/11986-bernardo-plaza-dr.html,11986 Bernardo Plaza Dr,San Diego,CA,92128,33.0208902,-117.0723841
+133,2120,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/4725-clairemont-dr.html,4725 Clairemont Dr,San Diego,CA,92117,32.8302042,-117.204775
+134,2348,America/Los_Angeles,Vons,https://local.vons.com/ca/del-mar/2606-del-mar-heights-rd.html,2606 Del Mar Heights Rd,Del Mar,CA,92014,32.95145087982254,-117.24642367693377
+135,2327,America/Los_Angeles,Vons,https://local.vons.com/ca/solana-beach/931-lomas-santa-fe-dr.html,931 Lomas Santa Fe Dr,Solana Beach,CA,92075,32.9940527,-117.2545012
+136,2012,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/7788-regents-rd.html,7788 Regents Rd,San Diego,CA,92122,32.8625727,-117.2234904
+137,2859,America/Los_Angeles,Vons,https://local.vons.com/ca/encinitas/453-santa-fe-dr.html,453 Santa Fe Dr,Encinitas,CA,92024,33.0347915,-117.2827498
+138,2144,America/Los_Angeles,Vons,https://local.vons.com/ca/encinitas/262-n-el-camino-real.html,262 N El Camino Real,Encinitas,CA,92024,33.0512352,-117.2623432
+139,2724,America/Los_Angeles,Vons,https://local.vons.com/ca/carlsbad/3439-via-montebello.html,3439 Via Montebello,Carlsbad,CA,92009,33.08144244224863,-117.23208524232788
+140,2344,America/Los_Angeles,Vons,https://local.vons.com/ca/escondido/351-w-felicita-ave.html,351 W Felicita Ave,Escondido,CA,92025,33.1030714,-117.0731609
+141,2156,America/Los_Angeles,Vons,https://local.vons.com/ca/escondido/2345-e-valley-pkwy.html,2345 E Valley Pkwy,Escondido,CA,92027,33.1391712,-117.0444704
+142,2049,America/Los_Angeles,Vons,https://local.vons.com/ca/escondido/330-w-el-norte-pkwy.html,330 W El Norte Pkwy,Escondido,CA,92026,33.14340996628619,-117.09400523862303
+143,2345,America/Los_Angeles,Vons,https://local.vons.com/ca/escondido/1000-w-el-norte-pkwy.html,1000 W El Norte Pkwy,Escondido,CA,92026,33.1486921,-117.1063915
+144,2116,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/1702-garnet-ave.html,1702 Garnet Ave,San Diego,CA,92109,32.8018694,-117.2387757
+145,2053,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/3645-midway-dr.html,3645 Midway Dr,San Diego,CA,92110,32.75119938168064,-117.21751975767212
+146,2735,America/Los_Angeles,Vons,https://local.vons.com/ca/san-diego/2495-truxtun-rd-bldg-28.html,2495 Truxtun Rd Bldg 28,San Diego,CA,92106,32.736937,-117.216228
+147,2142,America/Los_Angeles,Vons,https://local.vons.com/ca/carlsbad/2560-el-camino-real.html,2560 El Camino Real,Carlsbad,CA,92008,33.178719,-117.324746
+148,2343,America/Los_Angeles,Vons,https://local.vons.com/ca/carlsbad/985-tamarack-ave.html,985 Tamarack Ave,Carlsbad,CA,92008,33.1522774,-117.3339542
+149,2065,America/Los_Angeles,Vons,https://local.vons.com/ca/carlsbad/6951-el-camino-real.html,6951 El Camino Real,Carlsbad,CA,92009,33.103378112599145,-117.26862316997529
+150,3258,America/Los_Angeles,Vons,https://local.vons.com/ca/montebello/804-beverly-blvd.html,804 Beverly Blvd,Montebello,CA,90640,34.0200927,-118.1060371
+151,3263,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/1342-n-alvarado-st.html,1342 N Alvarado St,Los Angeles,CA,90026,34.079517557209606,-118.26126073068849
+152,2665,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/4520-sunset-blvd.html,4520 Sunset Blvd,Los Angeles,CA,90027,34.0970657,-118.287983
+153,2261,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/3461-w-3rd-st.html,3461 W 3rd St,Los Angeles,CA,90020,34.069960270057045,-118.29088389873505
+154,2056,America/Los_Angeles,Vons,https://local.vons.com/ca/covina/932-e-badillo-st.html,932 E Badillo St,Covina,CA,91724,34.08518490136493,-117.87151371719665
+155,1674,America/Los_Angeles,Vons,https://local.vons.com/ca/studio-city/4033-laurel-canyon-blvd.html,4033 Laurel Canyon Blvd,Studio City,CA,91604,34.14456494702308,-118.39612305164331
+156,3083,America/Los_Angeles,Vons,https://local.vons.com/ca/burbank/301-n-pass-ave.html,301 N Pass Ave,Burbank,CA,91505,34.15486701971058,-118.34655852648211
+157,3161,America/Los_Angeles,Vons,https://local.vons.com/ca/mission-hills/10321-sepulveda-blvd.html,10321 Sepulveda Blvd,Mission Hills,CA,91345,34.258046952696034,-118.46837842883605
+158,2066,America/Los_Angeles,Vons,https://local.vons.com/ca/tarzana/18439-ventura-blvd.html,18439 Ventura Blvd,Tarzana,CA,91356,34.16900002121255,-118.53419915602899
+159,2268,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/1430-s-fairfax-ave.html,1430 S Fairfax Ave,Los Angeles,CA,90019,34.05051526037608,-118.36625526745911
+160,2034,America/Los_Angeles,Vons,https://local.vons.com/ca/sylmar/13730-foothill-blvd.html,13730 Foothill Blvd,Sylmar,CA,91342,34.308360132026635,-118.43315563254089
+161,2100,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/9860-national-blvd.html,9860 National Blvd,Los Angeles,CA,90034,34.03021944279835,-118.40143452513122
+162,2077,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/3118-s-sepulveda-blvd.html,3118 S Sepulveda Blvd,Los Angeles,CA,90034,34.0266323,-118.4270011
+163,2002,America/Los_Angeles,Vons,https://local.vons.com/ca/santa-monica/1311-wilshire-blvd.html,1311 Wilshire Blvd,Santa Monica,CA,90403,34.026506071313655,-118.48990588785
+164,2266,America/Los_Angeles,Vons,https://local.vons.com/ca/pacific-palisades/17380-sunset-blvd.html,17380 Sunset Blvd,Pacific Palisades,CA,90272,34.0392650429846,-118.55401398095093
+165,3519,America/Los_Angeles,Vons,https://local.vons.com/ca/long-beach/4550-atlantic-ave.html,4550 Atlantic Ave,Long Beach,CA,90807,33.8411779,-118.1829844
+166,2283,America/Los_Angeles,Vons,https://local.vons.com/ca/san-pedro/1221-s-gaffey-st.html,1221 S Gaffey St,San Pedro,CA,90731,33.73295061108628,-118.29363317820025
+167,2162,America/Los_Angeles,Vons,https://local.vons.com/ca/san-pedro/1440-w-25th-st.html,1440 W 25th St,San Pedro,CA,90732,33.722977,-118.3108107
+168,3517,America/Los_Angeles,Vons,https://local.vons.com/ca/torrance/24325-crenshaw-blvd.html,24325 Crenshaw Blvd,Torrance,CA,90505,33.80497831497799,-118.33045182090149
+169,1625,America/Los_Angeles,Vons,https://local.vons.com/ca/gardena/1260-w-redondo-beach-blvd.html,1260 W Redondo Beach Blvd,Gardena,CA,90247,33.8908948,-118.298018
+170,2232,America/Los_Angeles,Vons,https://local.vons.com/ca/torrance/4705-torrance-blvd.html,4705 Torrance Blvd,Torrance,CA,90503,33.8382804,-118.3636408
+171,1623,America/Los_Angeles,Vons,https://local.vons.com/ca/redondo-beach/4001-inglewood-ave.html,4001 Inglewood Ave,Redondo Beach,CA,90278,33.8930502,-118.3625251
+172,2108,America/Los_Angeles,Vons,https://local.vons.com/ca/redondo-beach/1212-beryl-st.html,1212 Beryl St,Redondo Beach,CA,90277,33.8539431,-118.3802574
+173,2273,America/Los_Angeles,Vons,https://local.vons.com/ca/redondo-beach/245-palos-verdes-blvd.html,245 Palos Verdes Blvd,Redondo Beach,CA,90277,33.81632522419448,-118.38598819021301
+174,2110,America/Los_Angeles,Vons,https://local.vons.com/ca/hermosa-beach/715-pier-ave.html,715 Pier Ave,Hermosa Beach,CA,90254,33.865945767483645,-118.39444935321808
+175,2275,America/Los_Angeles,Vons,https://local.vons.com/ca/manhattan-beach/410-manhattan-beach-blvd.html,410 Manhattan Beach Blvd,Manhattan Beach,CA,90266,33.88509129415915,-118.40786168280333
+176,2502,America/Los_Angeles,Vons,https://local.vons.com/ca/inglewood/500-e-manchester-blvd.html,500 E Manchester Blvd,Inglewood,CA,90301,33.96032342497343,-118.34913153439331
+177,4021,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/6571-w-80th-st.html,6571 W 80th St,Los Angeles,CA,90045,33.96929441140654,-118.40543681289748
+178,2270,America/Los_Angeles,Vons,https://local.vons.com/ca/los-angeles/4030-centinela-ave.html,4030 Centinela Ave,Los Angeles,CA,90066,33.9991537,-118.4289707
+179,2390,America/Los_Angeles,Vons,https://local.vons.com/nv/las-vegas/475-e-windmill-ln.html,475 E Windmill Ln,Las Vegas,NV,89123,36.0413188,-115.1525078
+180,1795,America/Los_Angeles,Vons,https://local.vons.com/nv/henderson/2511-anthem-village.html,2511 Anthem Village,Henderson,NV,89052,35.978384177593064,-115.09995372625781
+181,2511,America/Los_Angeles,Vons,https://local.vons.com/nv/henderson/2667-e-windmill-pkwy.html,2667 E Windmill Pkwy,Henderson,NV,89074,36.041438675247974,-115.10283445899961
+182,2396,America/Los_Angeles,Vons,https://local.vons.com/nv/las-vegas/1131-e-tropicana-ave.html,1131 E Tropicana Ave,Las Vegas,NV,89119,36.099983042941055,-115.13777445767212
+183,2614,America/Los_Angeles,Vons,https://local.vons.com/nv/las-vegas/7405-s-durango-dr.html,7405 S Durango Dr,Las Vegas,NV,89113,36.0538471153025,-115.28138081415558
+184,1963,America/Los_Angeles,Vons,https://local.vons.com/nv/las-vegas/1155-e-twain-ave.html,1155 E Twain Ave,Las Vegas,NV,89169,36.12097823970644,-115.1391267552948
+185,2615,America/Los_Angeles,Vons,https://local.vons.com/nv/henderson/45-e-horizon-ridge-pkwy.html,45 E Horizon Ridge Pkwy,Henderson,NV,89002,36.009046721185626,-114.99318361719665
+186,2613,America/Los_Angeles,Vons,https://local.vons.com/nv/las-vegas/6450-sky-pointe-dr.html,6450 Sky Pointe Dr,Las Vegas,NV,89131,36.280360515449,-115.26144953104443

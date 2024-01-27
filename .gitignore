@@ -1,4 +1,5 @@
 twitter-scraper/input/
+locations/_reference/
 wells/input/
 swarm/keys.py
 youtube/creds.py
