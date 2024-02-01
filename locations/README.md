@@ -4,32 +4,35 @@ A collection of simple scrapers for collecting data about the locations of popul
 |Company|Locations*|Formats|
 |:---  |---: |:---  |
 |[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|1|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/bank_of_america_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/bank_of_america_locations.geojson)|
-|[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|1|[CSV](), [GeoJSON]()|
+|[Aldi](https://github.com/stiles/locations/tree/main/apple-stores)|2,375|[CSV](), [GeoJSON]()|
+|[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|tk|[CSV](), [GeoJSON]()|
 |[Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)|71|[CSV](), [GeoJSON]()|
-|[Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)|1|[CSV](), [GeoJSON]()|
-|[Burger King](https://github.com/stiles/locations/tree/main/burger-king)|1|[CSV](), [GeoJSON]()|
+|[Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)|tk|[CSV](), [GeoJSON]()|
+|[Burger King](https://github.com/stiles/locations/tree/main/burger-king)|tk|[CSV](), [GeoJSON]()|
 |[Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)|1,026|[CSV](), [GeoJSON]()|
-|[Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)|1|[CSV](), [GeoJSON]()|
-|[Chili's](https://github.com/stiles/locations/tree/main/chilis)|1|[CSV](), [GeoJSON]()|
-|[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|1|[CSV](), [GeoJSON]()|
-|[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|1|[CSV](), [GeoJSON]()|
-|[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|1|[CSV](), [GeoJSON]()|
-|[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|1|[CSV](), [GeoJSON]()|
-|[Hollister](https://github.com/stiles/locations/tree/main/hollister)|1|[CSV](), [GeoJSON]()|
-|[In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)|1|[CSV](), [GeoJSON]()|
-|[Jared](https://github.com/stiles/locations/tree/main/jared)|1|[CSV](), [GeoJSON]()|
-|[Krispy Kreme](https://github.com/stiles/locations/tree/main/krispy-kreme)|1|[CSV](), [GeoJSON]()|
-|[Kung Fu Tea](https://github.com/stiles/locations/tree/main/kung-fu-tea)|1|[CSV](), [GeoJSON]()|
-|[Menchies](https://github.com/stiles/locations/tree/main/menchies)|1|[CSV](), [GeoJSON]()|
-|[Ralphs](https://github.com/stiles/locations/tree/main/ralphs)|1|[CSV](), [GeoJSON]()|
-|[Safeway](https://github.com/stiles/locations/tree/main/safeway)|1|[CSV](), [GeoJSON]()|
-|[Sephora](https://github.com/stiles/locations/tree/main/sephora)|1|[CSV](), [GeoJSON]()|
-|[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|1|[CSV](), [GeoJSON]()|
+|[Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)|tk|[CSV](), [GeoJSON]()|
+|[Chili's](https://github.com/stiles/locations/tree/main/chilis)|tk|[CSV](), [GeoJSON]()|
+|[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|tk|[CSV](), [GeoJSON]()|
+|[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|tk|[CSV](), [GeoJSON]()|
+|[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|tk|[CSV](), [GeoJSON]()|
+|[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|tk|[CSV](), [GeoJSON]()|
+|[Hollister](https://github.com/stiles/locations/tree/main/hollister)|tk|[CSV](), [GeoJSON]()|
+|[In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)|tk|[CSV](), [GeoJSON]()|
+|[Jared](https://github.com/stiles/locations/tree/main/jared)|tk|[CSV](), [GeoJSON]()|
+|[Krispy Kreme](https://github.com/stiles/locations/tree/main/krispy-kreme)|tk|[CSV](), [GeoJSON]()|
+|[Kung Fu Tea](https://github.com/stiles/locations/tree/main/kung-fu-tea)|tk|[CSV](), [GeoJSON]()|
+|[Menchies](https://github.com/stiles/locations/tree/main/menchies)|tk|[CSV](), [GeoJSON]()|
+|[Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)|tk|[CSV](), [GeoJSON]()|
+|[Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)|tk|[CSV](), [GeoJSON]()|
+|[Ralphs](https://github.com/stiles/locations/tree/main/ralphs)|tk|[CSV](), [GeoJSON]()|
+|[Safeway](https://github.com/stiles/locations/tree/main/safeway)|tk|[CSV](), [GeoJSON]()|
+|[Sephora](https://github.com/stiles/locations/tree/main/sephora)|tk|[CSV](), [GeoJSON]()|
+|[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|tk|[CSV](), [GeoJSON]()|
 |[Torchy's Tacos](https://github.com/stiles/locations/tree/main/torchys-tacos)|124|[CSV](), [GeoJSON]()|
-|[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|1|[CSV](), [GeoJSON]()|
-|[Ulta](https://github.com/stiles/locations/tree/main/ulta)|1|[CSV](), [GeoJSON]()|
-|[Vons](https://github.com/stiles/locations/tree/main/vons)|1|[CSV](), [GeoJSON]()|
-|[Whataburger](https://github.com/stiles/locations/tree/main/whataburger)|1|[CSV](), [GeoJSON]()|
+|[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|tk|[CSV](), [GeoJSON]()|
+|[Ulta](https://github.com/stiles/locations/tree/main/ulta)|tk|[CSV](), [GeoJSON]()|
+|[Vons](https://github.com/stiles/locations/tree/main/vons)|tk|[CSV](), [GeoJSON]()|
+|[Whataburger](https://github.com/stiles/locations/tree/main/whataburger)|tk|[CSV](), [GeoJSON]()|
 
 *This repo is a *slow* work in progress, and I make no guarantees about the accuracy of the data collected here. Please [let me know](mailto:mattstiles@gmail.com) if you have questions or concerns — or if there's a company you'd like to see on this list.
 

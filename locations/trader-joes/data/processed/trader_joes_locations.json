@@ -1425,6 +1425,22 @@
     },
     {
         "uid":"1429860783",
+        "name":"Trader Joe's Ladera Ranch ",
+        "address":"27542 Antonio Pkwy",
+        "city":"Mission Viejo",
+        "state":"CA",
+        "zip":"92694",
+        "phone":null,
+        "latitude":33.5628794,
+        "longitude":-117.6275522,
+        "beer":"Yes",
+        "liquor":"Yes",
+        "wineshop":null,
+        "regions":"OC\/Long Beach",
+        "store_number":"257"
+    },
+    {
+        "uid":"1429860783",
         "name":"Trader Joe's San Juan Capistrano ",
         "address":"32151 Camino Capistrano",
         "city":"San Juan Capistrano",
@@ -1502,6 +1518,22 @@
         "wineshop":null,
         "regions":"Ventura\/SB",
         "store_number":"59"
+    },
+    {
+        "uid":"1429860783",
+        "name":"Trader Joe's Murrietta ",
+        "address":"40388 Murrieta Hot Springs Rd",
+        "city":"Murrietta",
+        "state":"CA",
+        "zip":"92563",
+        "phone":null,
+        "latitude":33.5539326,
+        "longitude":-117.1760128,
+        "beer":"Yes",
+        "liquor":"Yes",
+        "wineshop":null,
+        "regions":"OC\/IE Stores",
+        "store_number":"258"
     },
     {
         "uid":"1429860783",
@@ -2737,6 +2769,22 @@
     },
     {
         "uid":"1429860783",
+        "name":"Trader Joe's San Francisco ",
+        "address":"555 Fulton St",
+        "city":"San Francisco",
+        "state":"CA",
+        "zip":"94102",
+        "phone":null,
+        "latitude":37.7781581,
+        "longitude":-122.4261091,
+        "beer":"Yes",
+        "liquor":"Yes",
+        "wineshop":null,
+        "regions":"NoCal\/SF",
+        "store_number":"226"
+    },
+    {
+        "uid":"1429860783",
         "name":"Trader Joe's San Francisco - Nob Hill ",
         "address":"1095 Hyde St",
         "city":"San Francisco",
@@ -3873,6 +3921,22 @@
     },
     {
         "uid":"1429860783",
+        "name":"Trader Joe's Vancouver ",
+        "address":"14019 NE 10th Ave",
+        "city":"Vancouver",
+        "state":"WA",
+        "zip":"98685",
+        "phone":null,
+        "latitude":45.7234269,
+        "longitude":-122.6603844,
+        "beer":"Yes",
+        "liquor":"Yes",
+        "wineshop":null,
+        "regions":"NW2",
+        "store_number":"271"
+    },
+    {
+        "uid":"1429860783",
         "name":"Trader Joe's Denver ",
         "address":"661 Logan Street",
         "city":"Denver",
@@ -4001,22 +4065,6 @@
     },
     {
         "uid":"1429860783",
-        "name":"Trader Joe's Kent ",
-        "address":"12966 SE Kent-Kangley Rd",
-        "city":"Kent",
-        "state":"WA",
-        "zip":"98030",
-        "phone":"253-639-3419",
-        "latitude":47.3595869,
-        "longitude":-122.1669396,
-        "beer":"Yes",
-        "liquor":"Yes",
-        "wineshop":null,
-        "regions":"NW\/Washington",
-        "store_number":"163"
-    },
-    {
-        "uid":"1429860783",
         "name":"Trader Joe's Spokane ",
         "address":"2975 East 29th Ave",
         "city":"Spokane",
@@ -4030,6 +4078,22 @@
         "wineshop":null,
         "regions":"NW2",
         "store_number":"159"
+    },
+    {
+        "uid":"1429860783",
+        "name":"Trader Joe's Kent ",
+        "address":"12966 SE Kent-Kangley Rd",
+        "city":"Kent",
+        "state":"WA",
+        "zip":"98030",
+        "phone":"253-639-3419",
+        "latitude":47.3595869,
+        "longitude":-122.1669396,
+        "beer":"Yes",
+        "liquor":"Yes",
+        "wineshop":null,
+        "regions":"NW\/Washington",
+        "store_number":"163"
     },
     {
         "uid":"1429860783",
@@ -4507,7 +4571,7 @@
         "longitude":-96.8194411,
         "beer":"Yes",
         "liquor":"No",
-        "wineshop":null,
+        "wineshop":"",
         "regions":"Texas",
         "store_number":"405"
     },
@@ -5585,22 +5649,6 @@
     },
     {
         "uid":"1429860783",
-        "name":"Trader Joe's Louisville Grocery ",
-        "address":"4600 Shelbyville Rd Ste 111",
-        "city":"Louisville",
-        "state":"KY",
-        "zip":"40207",
-        "phone":"502-895-1361",
-        "latitude":38.2492748,
-        "longitude":-85.6299971,
-        "beer":"Yes",
-        "liquor":"No",
-        "wineshop":null,
-        "regions":"GreatLakes",
-        "store_number":"628"
-    },
-    {
-        "uid":"1429860783",
         "name":"Trader Joe's Louisville Wine Shop ",
         "address":"4600 Shelbyville Rd Ste 112",
         "city":"Louisville",
@@ -5614,6 +5662,22 @@
         "wineshop":"1",
         "regions":"GreatLakes",
         "store_number":"625"
+    },
+    {
+        "uid":"1429860783",
+        "name":"Trader Joe's Louisville Grocery ",
+        "address":"4600 Shelbyville Rd Ste 111",
+        "city":"Louisville",
+        "state":"KY",
+        "zip":"40207",
+        "phone":"502-895-1361",
+        "latitude":38.2492748,
+        "longitude":-85.6299971,
+        "beer":"Yes",
+        "liquor":"No",
+        "wineshop":null,
+        "regions":"GreatLakes",
+        "store_number":"628"
     },
     {
         "uid":"1429860783",
@@ -5758,6 +5822,22 @@
         "wineshop":null,
         "regions":"GreatLakes",
         "store_number":"669"
+    },
+    {
+        "uid":"1429860783",
+        "name":"Trader Joe's East Lansing ",
+        "address":"2755 East Grand River Avenue",
+        "city":"East Lansing",
+        "state":"MI",
+        "zip":"48823",
+        "phone":null,
+        "latitude":42.7262219,
+        "longitude":-84.4525631,
+        "beer":"Yes",
+        "liquor":"No",
+        "wineshop":null,
+        "regions":"Great Lakes",
+        "store_number":"804"
     },
     {
         "uid":"1429860783",
@@ -6401,22 +6481,6 @@
     },
     {
         "uid":"1429860783",
-        "name":"Trader Joe's Winter Park ",
-        "address":"131 Orlando Ave.",
-        "city":"Winter Park",
-        "state":"FL",
-        "zip":"32789",
-        "phone":"407-622-0874",
-        "latitude":28.5983113,
-        "longitude":-81.3655605,
-        "beer":"Yes",
-        "liquor":"No",
-        "wineshop":null,
-        "regions":"Florida",
-        "store_number":"765"
-    },
-    {
-        "uid":"1429860783",
         "name":"Trader Joe's Amherst ",
         "address":"1565 Niagara Falls Blvd",
         "city":"Buffalo",
@@ -6430,6 +6494,22 @@
         "wineshop":null,
         "regions":"Coastal New England\/Upstate NY",
         "store_number":"536"
+    },
+    {
+        "uid":"1429860783",
+        "name":"Trader Joe's Winter Park ",
+        "address":"131 Orlando Ave.",
+        "city":"Winter Park",
+        "state":"FL",
+        "zip":"32789",
+        "phone":"407-622-0874",
+        "latitude":28.5983113,
+        "longitude":-81.3655605,
+        "beer":"Yes",
+        "liquor":"No",
+        "wineshop":null,
+        "regions":"Florida",
+        "store_number":"765"
     },
     {
         "uid":"1429860783",
@@ -7676,7 +7756,7 @@
         "beer":null,
         "liquor":null,
         "wineshop":null,
-        "regions":null,
+        "regions":"NY Boroughs\/NJ",
         "store_number":"591"
     },
     {
@@ -7937,6 +8017,22 @@
     },
     {
         "uid":"1429860783",
+        "name":"Trader Joe's Harlem ",
+        "address":"123 W 125th St",
+        "city":"Harlem",
+        "state":"NY",
+        "zip":"10027",
+        "phone":null,
+        "latitude":40.8138912,
+        "longitude":-73.9624327,
+        "beer":"Yes",
+        "liquor":"No",
+        "wineshop":null,
+        "regions":"NY Boroughs\/NJ",
+        "store_number":"576"
+    },
+    {
+        "uid":"1429860783",
         "name":"Trader Joe's Upper East Side - Bridgemarket ",
         "address":"405 E. 59th Street",
         "city":"New York",
@@ -8028,7 +8124,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Westchester County",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"567"
     },
     {
@@ -8076,7 +8172,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Westchester County",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"531"
     },
     {
@@ -8092,7 +8188,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Westchester County",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"533"
     },
     {
@@ -8108,7 +8204,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Westchester County",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"532"
     },
     {
@@ -8124,7 +8220,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Long Island",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"554"
     },
     {
@@ -8140,7 +8236,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Long Island",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"552"
     },
     {
@@ -8156,7 +8252,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Long Island",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"550"
     },
     {
@@ -8172,7 +8268,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"529"
     },
     {
@@ -8188,7 +8284,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"525"
     },
     {
@@ -8204,7 +8300,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Long Island",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"553"
     },
     {
@@ -8220,7 +8316,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Long Island",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"555"
     },
     {
@@ -8236,7 +8332,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"522"
     },
     {
@@ -8252,7 +8348,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"521"
     },
     {
@@ -8284,7 +8380,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Long Island",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"551"
     },
     {
@@ -8300,7 +8396,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"523"
     },
     {
@@ -8316,7 +8412,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"Long Island",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"556"
     },
     {
@@ -8332,7 +8428,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"524"
     },
     {
@@ -8348,7 +8444,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"526"
     },
     {
@@ -8364,7 +8460,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"586"
     },
     {
@@ -8396,7 +8492,7 @@
         "beer":"Yes",
         "liquor":"No",
         "wineshop":null,
-        "regions":"CT",
+        "regions":"CT\/Long Island, Westchester, NJ",
         "store_number":"563"
     },
     {
@@ -8686,6 +8782,22 @@
         "wineshop":null,
         "regions":"MetroWest\/Boston",
         "store_number":"510"
+    },
+    {
+        "uid":"1429860783",
+        "name":"Trader Joe's Boston ",
+        "address":"500 Boylston St",
+        "city":"Boston",
+        "state":"MA",
+        "zip":"02116",
+        "phone":null,
+        "latitude":42.3503741,
+        "longitude":-71.0744717,
+        "beer":null,
+        "liquor":null,
+        "wineshop":null,
+        "regions":"MetroWest\/Boston",
+        "store_number":"500"
     },
     {
         "uid":"1429860783",

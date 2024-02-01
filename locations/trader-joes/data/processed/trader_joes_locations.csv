@@ -88,11 +88,13 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's Rancho Santa Margarita ,30652 Santa Margarita Pkwy,Rancho Santa Margarita,CA,92688,949-888-3640,33.6424952,-117.5953482,Yes,Yes,,OC/LongBeach,27
 1429860783,Trader Joe's Corona ,2790 Cabot Dr,Corona,CA,92883,951-603-0299,33.8114911,-117.5065624,Yes,Yes,,OC/IE,213
 1429860783,Trader Joe's Laguna Niguel - Ocean Ranch ,32351 Street of the Golden Lantern,Laguna Niguel,CA,92677,949-493-8599,33.4929684,-117.6966468,Yes,Yes,,OC/LongBeach,103
+1429860783,Trader Joe's Ladera Ranch ,27542 Antonio Pkwy,Mission Viejo,CA,92694,,33.5628794,-117.6275522,Yes,Yes,,OC/Long Beach,257
 1429860783,Trader Joe's San Juan Capistrano ,32151 Camino Capistrano,San Juan Capistrano,CA,92675,949-496-4150,33.4960493,-117.6636203,Yes,Yes,,OC/LongBeach,249
 1429860783,Trader Joe's San Clemente ,638 Camino de Los Mares,San Clemente,CA,92673,949-240-9996,33.4574319,-117.651735,Yes,Yes,,OC/LongBeach,16
 1429860783,Trader Joe's Riverside ,6225 Riverside Plaza,Riverside,CA,92506,951-781-2378,33.9559323,-117.3884753,Yes,Yes,,OC/IE,15
 1429860783,Trader Joe's Redlands ,552 Orange St,Redlands,CA,92374,909-798-3888,34.060625,-117.18117,Yes,Yes,,OC/IE,99
 1429860783,Trader Joe's Santa Barbara ,222 North Milpas Street,Santa Barbara,CA,93103,805-560-1182,34.4250274,-119.6815129,Yes,Yes,,Ventura/SB,59
+1429860783,Trader Joe's Murrietta ,40388 Murrieta Hot Springs Rd,Murrietta,CA,92563,,33.5539326,-117.1760128,Yes,Yes,,OC/IE Stores,258
 1429860783,Trader Joe's Santa Barbara ,3025 De La Vina St,Santa Barbara,CA,93105,805-563-7383,34.4389627,-119.728949,Yes,Yes,,Ventura/SB,183
 1429860783,Trader Joe's Temecula ,40665 Winchester Rd,Temecula,CA,92591,951-296-9964,33.5288206,-117.1561498,Yes,Yes,,SanDiego,102
 1429860783,Trader Joe's Oceanside ,2570 Vista Way,Oceanside,CA,92054,760-433-9994,33.1841133,-117.3319447,Yes,Yes,,SanDiego,22
@@ -170,6 +172,7 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's San Francisco - Stonestown ,265 Winston Dr,San Francisco,CA,94132,415-665-1835,37.7266474,-122.4763117,Yes,Yes,,NoCal/SF,236
 1429860783,Trader Joe's Berkeley ,1885 University Ave,Berkeley,CA,94703,510-204-9074,37.871926,-122.273313,Yes,Yes,,NoCal/EastBay,186
 1429860783,Trader Joe's San Francisco - Pacific Place ,10 4th Street,San Francisco,CA,94103,415-536-7801,37.7853327,-122.4056674,Yes,Yes,,NoCal/SF,225
+1429860783,Trader Joe's San Francisco ,555 Fulton St,San Francisco,CA,94102,,37.7781581,-122.4261091,Yes,Yes,,NoCal/SF,226
 1429860783,Trader Joe's San Francisco - Nob Hill ,1095 Hyde St,San Francisco,CA,94109,415-292-7665,37.7906451,-122.4179937,Yes,Yes,,NoCal/SF,200
 1429860783,Trader Joe's San Francisco - North Beach ,401 Bay St,San Francisco,CA,94133,415-351-1013,37.8055155,-122.413738,Yes,Yes,,NoCal/SF,19
 1429860783,Trader Joe's San Francisco ,3 Masonic Ave,San Francisco,CA,94118,415-346-9964,37.7833698,-122.4478739,Yes,Yes,,NoCal/SF,100
@@ -241,6 +244,7 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's Littleton ,8055 West Bowles Ave,Littleton,CO,80123,720-981-4563,39.611724,-105.0888051,Yes,No,,Mountain,306
 1429860783,Trader Joe's Boulder ,1906 28th St,Boulder,CO,80301,303-443-0160,40.0202684,-105.2578411,Yes,No,,Mountain,301
 1429860783,Trader Joe's Greenwood Village ,"5910 S University Blvd, Suite E1",Greenwood Village,CO,80121,303-730-3848,39.6080792,-104.9584163,Yes,No,,Mountain,303
+1429860783,Trader Joe's Vancouver ,14019 NE 10th Ave,Vancouver,WA,98685,,45.7234269,-122.6603844,Yes,Yes,,NW2,271
 1429860783,Trader Joe's Denver ,661 Logan Street,Denver,CO,80203,303-318-7112,39.7268649,-104.9827877,Yes,No,,Mountain,302
 1429860783,Trader Joe's Denver Wine Shop ,790 N Colorado Blvd,Denver,CO,80206,303-321-3245,39.729035,-104.9402933,Yes,Yes,1,Mountain,310
 1429860783,Trader Joe's Denver Grocery ,750 N Colorado Blvd,Denver,CO,80206,303-321-1003,39.7288282,-104.9402543,No,No,,Mountain,300
@@ -249,8 +253,8 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's Olympia ,1530 Black Lake Blvd SW,Olympia,WA,98502,360-352-7440,47.0335349,-122.9372333,Yes,Yes,,NW/Washington,156
 1429860783,Trader Joe's University Place ,3800 Bridgeport Way W,University Place,WA,98466,253-460-2672,47.2230636,-122.5381783,Yes,Yes,,NW/Washington,148
 1429860783,Trader Joe's Federal Way ,1758 S 320th St,Federal Way,WA,98003,253-941-6138,47.3169255,-122.3109368,Yes,Yes,,NW/Washington,134
-1429860783,Trader Joe's Kent ,12966 SE Kent-Kangley Rd,Kent,WA,98030,253-639-3419,47.3595869,-122.1669396,Yes,Yes,,NW/Washington,163
 1429860783,Trader Joe's Spokane ,2975 East 29th Ave,Spokane,WA,99223,509-534-1077,47.6289661,-117.3666428,Yes,Yes,,NW2,159
+1429860783,Trader Joe's Kent ,12966 SE Kent-Kangley Rd,Kent,WA,98030,253-639-3419,47.3595869,-122.1669396,Yes,Yes,,NW/Washington,163
 1429860783,Trader Joe's Spokane N ,5520 N Division St,Spokane,WA,99208,509-487-4188,47.7088991,-117.409297,Yes,Yes,,NW2,164
 1429860783,Trader Joe's Burien ,15868 1st Ave S,Burien,WA,98148,206-901-9339,47.460074,-122.3313909,Yes,Yes,,NW/Washington,133
 1429860783,Trader Joe's Issaquah ,975 NW Gilman Blvd,Issaquah,WA,98027,425-557-6420,47.5439787,-122.0522419,Yes,No,,NW2,138
@@ -348,8 +352,8 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's Birmingham ,"205 Summit Blvd, Suite 100",Birmingham,AL,35243,205-969-7801,33.4465106,-86.7292915,Yes,No,,Southeast,737
 1429860783,Trader Joe's Indianapolis - Castleton ,5473 E 82nd St,Indianapolis,IN,46250,317-595-8950,39.9037062,-86.0751813,Yes,No,,Chicago/Midwest,671
 1429860783,Trader Joe's South Bend ,1140 East Howard,South Bend,IN,46617,574-472-8744,41.6881057,-86.2335152,Yes,No,,Chicago/Midwest,600
-1429860783,Trader Joe's Louisville Grocery ,4600 Shelbyville Rd Ste 111,Louisville,KY,40207,502-895-1361,38.2492748,-85.6299971,Yes,No,,GreatLakes,628
 1429860783,Trader Joe's Louisville Wine Shop ,4600 Shelbyville Rd Ste 112,Louisville,KY,40207,502-895-7872,38.2492748,-85.6299971,No,Yes,1,GreatLakes,625
+1429860783,Trader Joe's Louisville Grocery ,4600 Shelbyville Rd Ste 111,Louisville,KY,40207,502-895-1361,38.2492748,-85.6299971,Yes,No,,GreatLakes,628
 1429860783,Trader Joe's Kalamazoo ,5099 Century Ave,Kalamazoo,MI,49006,269-372-2049,42.2701259,-85.6499899,Yes,No,,Chicago/Midwest,708
 1429860783,Trader Joe's Grand Rapids - Kentwood ,3684 28th St SE,Kentwood,MI,49512,616-977-1819,42.9119665,-85.5766868,Yes,No,,Chicago/Midwest,707
 1429860783,Trader Joe's Fort Wayne ,4110 W. Jefferson Blvd.,Fort Wayne,IN,46804,260-432-5828,41.0717432,-85.1953587,Yes,No,,Chicago/Midwest,757
@@ -359,6 +363,7 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's Lexington Wine Shop ,2320 Nicholasville Road,Lexington,KY,40503,859-277-0144,38.0049274,-84.5185124,Yes,Yes,1,GreatLakes,626
 1429860783,Trader Joe's Lexington Grocery ,2326 Nicholasville Rd,Lexington,KY,40503,859-313-5030,38.0049273,-84.5183628,No,No,,GreatLakes,627
 1429860783,Trader Joe's Kenwood ,7788 Montgomery Rd,Cincinnati,OH,45236,513-984-3452,39.1973262,-84.3817041,Yes,No,,GreatLakes,669
+1429860783,Trader Joe's East Lansing ,2755 East Grand River Avenue,East Lansing,MI,48823,,42.7262219,-84.4525631,Yes,No,,Great Lakes,804
 1429860783,Trader Joe's Kettering ,328 East Stroop Rd,Kettering,OH,45429,937-294-5411,39.6884356,-84.1662778,Yes,No,,GreatLakes,673
 1429860783,Trader Joe's Marietta ,4250 Roswell Road,Marietta,GA,30062,678-560-3585,33.9832962,-84.4263282,Yes,No,,Southeast,732
 1429860783,Trader Joe's Roswell ,635 W Crossville Rd,Roswell,GA,30075,770-645-8505,34.0593442,-84.3796266,Yes,No,,Southeast,733
@@ -399,8 +404,8 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's Sarasota ,4101 S Tamiami Trail,Sarasota,FL,34231,941-922-5727,27.294762,-82.530019,Yes,No,,Florida,761
 1429860783,Trader Joe's Lakewood Ranch ,8111 Cooper Creek Blvd,Bradenton,FL,34201,941-355-2394,27.3912601,-82.4538654,Yes,No,,Florida,780
 1429860783,Trader Joe's Orlando Dr. Phillips ,8323 Sand Lake Rd,Orlando,FL,32819,407-345-0611,28.4503045,-81.4965868,Yes,No,,Florida,768
-1429860783,Trader Joe's Winter Park ,131 Orlando Ave.,Winter Park,FL,32789,407-622-0874,28.5983113,-81.3655605,Yes,No,,Florida,765
 1429860783,Trader Joe's Amherst ,1565 Niagara Falls Blvd,Buffalo,NY,14228,716-833-4687,42.9980501,-78.8212576,Yes,No,,Coastal New England/Upstate NY,536
+1429860783,Trader Joe's Winter Park ,131 Orlando Ave.,Winter Park,FL,32789,407-622-0874,28.5983113,-81.3655605,Yes,No,,Florida,765
 1429860783,Trader Joe's Mt. Pleasant ,401 Johnnie Dodds Blvd,Mt. Pleasant,SC,29464,843-884-4037,32.8047946,-79.8871696,Yes,No,,South,752
 1429860783,Trader Joe's Chapel Hill ,1800 E Franklin St,Chapel Hill,NC,27514,919-918-7871,35.9369332,-79.0250849,Yes,No,,South,745
 1429860783,Trader Joe's Fort Myers ,4983 S. Cleveland Avenue,Fort Myers,FL,33907,239-275-1712,26.5871679,-81.8696431,Yes,No,,Florida,784
@@ -478,7 +483,7 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's Wayne ,910 Hamburg Turnpike,Wayne,NJ,07470,973-872-4604,40.9592844,-74.2304054,No,No,,NYBoroughs/NJ,603
 1429860783,Trader Joe's Clifton ,259 Allwood Road,Clifton,NJ,07012,973-777-5020,40.8365302,-74.1513146,No,No,,NYBoroughs/NJ,610
 1429860783,Trader Joe's Staten Island ,2385 Richmond Ave,Staten Island,NY,10314,718-370-1085,40.5896623,-74.1657412,Yes,No,,NYBoroughs/NJ,559
-1429860783,Trader Joe's Middletown ,1425 NJ-35,Middletown Township,NJ,07748,,40.4030542,-74.122482,,,,,591
+1429860783,Trader Joe's Middletown ,1425 NJ-35,Middletown Township,NJ,07748,,40.4030542,-74.122482,,,,NY Boroughs/NJ,591
 1429860783,Trader Joe's Paramus ,404 Rt 17 N,Paramus,NJ,07652,201-265-9624,40.9483179,-74.0705862,No,No,,NYBoroughs/NJ,605
 1429860783,Trader Joe's Brick ,110 Brick Plaza,Brick,NJ,08723,732-477-4781,40.0572433,-74.1408787,No,No,,NYBoroughs/NJ,615
 1429860783,Trader Joe's Westwood ,20 Irvington St,Westwood,NJ,07675,201-263-0134,40.9931741,-74.0359794,No,No,,NYBoroughs/NJ,602
@@ -495,35 +500,36 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's New York - Murray Hill ,200 E 32nd St,New York,NY,10016,212-889-3279,40.7439882,-73.9790839,Yes,No,,Manhattan,544
 1429860783,Trader Joe's Brooklyn - City Point ,445 Gold St,Brooklyn,NY,11201,718-243-0107,40.6909912,-73.9829165,Yes,No,,NY Boroughs/NJ,547
 1429860783,Trader Joe's Upper West Side ,670 Columbus Ave,New York,NY,10025,212-678-1680,40.7907104,-73.9695098,Yes,No,,Manhattan,545
+1429860783,Trader Joe's Harlem ,123 W 125th St,Harlem,NY,10027,,40.8138912,-73.9624327,Yes,No,,NY Boroughs/NJ,576
 1429860783,Trader Joe's Upper East Side - Bridgemarket ,405 E. 59th Street,New York,NY,10022,212-935-3870,40.7596592,-73.9615376,Yes,No,,Manhattan,571
 1429860783,Trader Joe's Brooklyn - Williamsburg ,200 Kent Ave,Brooklyn,NY,11249,718-218-7315,40.7177156,-73.9646799,Yes,No,,NY Boroughs/NJ,548
 1429860783,Trader Joe's Long Island City ,22-43 Jackson Ave,Queens,NY,11101,718-472-2672,40.7458383,-73.9461982,Yes,No,,NYBoroughs/NJ,565
 1429860783,Trader Joe's Colonie/Albany ,79 Wolf Rd,Colonie,NY,12205,518-482-4538,42.7141625,-73.8120389,Yes,No,,MetroWest/Boston,535
 1429860783,Trader Joe's Halfmoon ,3 Halfmoon Crossing Blvd,Halfmoon,NY,12065,518-383-5015,42.8591509,-73.7653061,Yes,No,,MetroWest/Boston,574
-1429860783,Trader Joe's Yorktown ,3240 Crompond Road,Yorktown,NY,10598,914-737-1460,41.2917236,-73.8248107,Yes,No,,Westchester County,567
+1429860783,Trader Joe's Yorktown ,3240 Crompond Road,Yorktown,NY,10598,914-737-1460,41.2917236,-73.8248107,Yes,No,,"CT/Long Island, Westchester, NJ",567
 1429860783,Trader Joe's Rego Park ,9030 Metropolitan Ave,Queens,NY,11374,718-275-1791,40.710916,-73.8582626,Yes,No,,NYBoroughs/NJ,557
 1429860783,Trader Joe's Forest Hills ,69-65 Yellowstone Blvd,Queens,NY,11375,718-544-8589,40.7300422,-73.8503722,Yes,No,,NY Boroughs/NJ,578
-1429860783,Trader Joe's Scarsdale ,727 White Plains Rd,Scarsdale,NY,10583,914-472-2988,40.9723375,-73.80487,Yes,No,,Westchester County,531
-1429860783,Trader Joe's Hartsdale ,215 N Central Ave,Hartsdale,NY,10530,914-997-1960,41.0255446,-73.7934729,Yes,No,,Westchester County,533
-1429860783,Trader Joe's Larchmont ,1260 Boston Post Rd,Larchmont,NY,10538,914-833-9112,40.9383639,-73.7464526,Yes,No,,Westchester County,532
-1429860783,Trader Joe's Hewlett ,1280 West Broadway,Hewlett,NY,11557,516-569-7191,40.6392018,-73.7017203,Yes,No,,Long Island,554
-1429860783,Trader Joe's Oceanside ,3418 Long Beach Rd,Oceanside,NY,11572,516-536-9163,40.6268133,-73.6411019,Yes,No,,Long Island,552
-1429860783,Trader Joe's Westbury ,910 Old Country Rd,Garden City,NY,11530,516-794-0174,40.7443902,-73.6039002,Yes,No,,Long Island,550
-1429860783,Trader Joe's Stamford ,1041 High Ridge Rd,Stamford,CT,06905,203-321-8440,41.1068964,-73.5473117,Yes,No,,CT,529
-1429860783,Trader Joe's Danbury ,113 Mill Plain Rd,Danbury,CT,06811,203-739-0098,41.3932099,-73.5215003,Yes,No,,CT,525
-1429860783,Trader Joe's Merrick ,1714 Merrick Rd,Merrick,NY,11566,516-771-1012,40.6533623,-73.5587687,Yes,No,,Long Island,553
-1429860783,Trader Joe's Plainview ,425 S Oyster Bay Rd,Plainview,NY,11803,516-933-6900,40.7817125,-73.5015006,Yes,No,,Long Island,555
-1429860783,Trader Joe's Darien ,436 Boston Post Rd,Darien,CT,06820,203-656-1414,41.0844564,-73.4617098,Yes,No,,CT,522
-1429860783,Trader Joe's Westport ,400 Post Road E,Westport,CT,06880,203-226-8966,41.1398413,-73.3519417,Yes,No,,CT,521
+1429860783,Trader Joe's Scarsdale ,727 White Plains Rd,Scarsdale,NY,10583,914-472-2988,40.9723375,-73.80487,Yes,No,,"CT/Long Island, Westchester, NJ",531
+1429860783,Trader Joe's Hartsdale ,215 N Central Ave,Hartsdale,NY,10530,914-997-1960,41.0255446,-73.7934729,Yes,No,,"CT/Long Island, Westchester, NJ",533
+1429860783,Trader Joe's Larchmont ,1260 Boston Post Rd,Larchmont,NY,10538,914-833-9112,40.9383639,-73.7464526,Yes,No,,"CT/Long Island, Westchester, NJ",532
+1429860783,Trader Joe's Hewlett ,1280 West Broadway,Hewlett,NY,11557,516-569-7191,40.6392018,-73.7017203,Yes,No,,"CT/Long Island, Westchester, NJ",554
+1429860783,Trader Joe's Oceanside ,3418 Long Beach Rd,Oceanside,NY,11572,516-536-9163,40.6268133,-73.6411019,Yes,No,,"CT/Long Island, Westchester, NJ",552
+1429860783,Trader Joe's Westbury ,910 Old Country Rd,Garden City,NY,11530,516-794-0174,40.7443902,-73.6039002,Yes,No,,"CT/Long Island, Westchester, NJ",550
+1429860783,Trader Joe's Stamford ,1041 High Ridge Rd,Stamford,CT,06905,203-321-8440,41.1068964,-73.5473117,Yes,No,,"CT/Long Island, Westchester, NJ",529
+1429860783,Trader Joe's Danbury ,113 Mill Plain Rd,Danbury,CT,06811,203-739-0098,41.3932099,-73.5215003,Yes,No,,"CT/Long Island, Westchester, NJ",525
+1429860783,Trader Joe's Merrick ,1714 Merrick Rd,Merrick,NY,11566,516-771-1012,40.6533623,-73.5587687,Yes,No,,"CT/Long Island, Westchester, NJ",553
+1429860783,Trader Joe's Plainview ,425 S Oyster Bay Rd,Plainview,NY,11803,516-933-6900,40.7817125,-73.5015006,Yes,No,,"CT/Long Island, Westchester, NJ",555
+1429860783,Trader Joe's Darien ,436 Boston Post Rd,Darien,CT,06820,203-656-1414,41.0844564,-73.4617098,Yes,No,,"CT/Long Island, Westchester, NJ",522
+1429860783,Trader Joe's Westport ,400 Post Road E,Westport,CT,06880,203-226-8966,41.1398413,-73.3519417,Yes,No,,"CT/Long Island, Westchester, NJ",521
 1429860783,Trader Joe's South Burlington ,200 Dorset St,South Burlington,VT,05403,802-658-4500,44.4636358,-73.1803986,Yes,No,,Coastal New England/Upstate NY,527
-1429860783,Trader Joe's Commack ,5900 Jericho Turnpike,Commack,NY,11725,631-499-0898,40.8403293,-73.3074892,Yes,No,,Long Island,551
-1429860783,Trader Joe's Fairfield ,2258 Black Rock Turnpike,Fairfield,CT,06825,203-330-8301,41.1831393,-73.253173,Yes,No,,CT,523
-1429860783,Trader Joe's Lake Grove ,2085 Smith Haven Plaza,Lake Grove,NY,11755,631-366-2094,40.8686356,-73.1280967,Yes,No,,Long Island,556
-1429860783,Trader Joe's Orange ,560 Boston Post Rd,Orange,CT,06477,203-795-5505,41.2508125,-73.0188747,Yes,No,,CT,524
-1429860783,Trader Joe's West Hartford ,1489 New Britain Ave,West Hartford,CT,06110,860-561-4771,41.7234651,-72.7580509,Yes,No,,CT,526
-1429860783,Trader Joe's Glastonbury ,400 Hebron Ave,Glastonbury,CT,06033,860-633-9270,41.7134698,-72.5998159,Yes,No,,CT,586
+1429860783,Trader Joe's Commack ,5900 Jericho Turnpike,Commack,NY,11725,631-499-0898,40.8403293,-73.3074892,Yes,No,,"CT/Long Island, Westchester, NJ",551
+1429860783,Trader Joe's Fairfield ,2258 Black Rock Turnpike,Fairfield,CT,06825,203-330-8301,41.1831393,-73.253173,Yes,No,,"CT/Long Island, Westchester, NJ",523
+1429860783,Trader Joe's Lake Grove ,2085 Smith Haven Plaza,Lake Grove,NY,11755,631-366-2094,40.8686356,-73.1280967,Yes,No,,"CT/Long Island, Westchester, NJ",556
+1429860783,Trader Joe's Orange ,560 Boston Post Rd,Orange,CT,06477,203-795-5505,41.2508125,-73.0188747,Yes,No,,"CT/Long Island, Westchester, NJ",524
+1429860783,Trader Joe's West Hartford ,1489 New Britain Ave,West Hartford,CT,06110,860-561-4771,41.7234651,-72.7580509,Yes,No,,"CT/Long Island, Westchester, NJ",526
+1429860783,Trader Joe's Glastonbury ,400 Hebron Ave,Glastonbury,CT,06033,860-633-9270,41.7134698,-72.5998159,Yes,No,,"CT/Long Island, Westchester, NJ",586
 1429860783,Trader Joe's Hadley ,375 Russell St,Hadley,MA,01035,413-587-3260,42.3577603,-72.5493664,No,No,,MetroWest/Boston,512
-1429860783,Trader Joe's Manchester ,1510 Pleasant Valley Road,Manchester,CT,06042,860-644-3182,41.8067497,-72.5576549,Yes,No,,CT,563
+1429860783,Trader Joe's Manchester ,1510 Pleasant Valley Road,Manchester,CT,06042,860-644-3182,41.8067497,-72.5576549,Yes,No,,"CT/Long Island, Westchester, NJ",563
 1429860783,Trader Joe's Shrewsbury ,77 Boston Turnpike,Shrewsbury,MA,01545,508-755-9560,42.2753458,-71.7512196,No,No,,MetroWest/Boston,508
 1429860783,Trader Joe's Bedford ,2 Market Street,Bedford,NH,03110,603-222-3074,42.9537285,-71.4772211,Yes,No,,Coastal New England/Upstate NY,562
 1429860783,Trader Joe's Nashua ,262 Daniel Webster HWY,Nashua,NH,03060,603-888-5460,42.7080149,-71.4384243,Yes,No,,Coastal New England/Upstate NY,507
@@ -542,6 +548,7 @@ uid,name,address,city,state,zip,phone,latitude,longitude,beer,liquor,wineshop,re
 1429860783,Trader Joe's Cambridge ,748 Memorial Dr,Cambridge,MA,02139,617-491-8582,42.3582624,-71.1141683,No,No,,MetroWest/Boston,502
 1429860783,Trader Joe's Somerville ,145 Middlesex Ave,Somerville,MA,02145,617-591-0124,42.3956168,-71.0828193,Yes,No,,MetroWest/Boston,560
 1429860783,Trader Joe's Boston - Back Bay ,899 Boylston St,Boston,MA,02115,617-262-6505,42.3484566,-71.0840861,No,No,,MetroWest/Boston,510
+1429860783,Trader Joe's Boston ,500 Boylston St,Boston,MA,02116,,42.3503741,-71.0744717,,,,MetroWest/Boston,500
 1429860783,Trader Joe's Fort Point Seaport ,44 Thomson Place,Boston,MA,02210,617-941-3714,42.3518578,-71.0472696,No,No,,MetroWest/Boston,566
 1429860783,Trader Joe's Saugus ,358 Broadway,Saugus,MA,01906,781-231-0848,42.4834902,-71.017554,No,No,,Coastal New England/Upstate NY,506
 1429860783,Trader Joe's Peabody ,300 Andover St,Peabody,MA,01960,978-977-5316,42.5497457,-70.9565375,Yes,Yes,,Coastal New England/Upstate NY,516
