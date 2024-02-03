@@ -5709,7 +5709,7 @@
         "city":"Millington",
         "state":"TN",
         "zipcode":"38053",
-        "opened":"02\/28\/2024",
+        "opened":"03\/06\/2024",
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
@@ -7206,6 +7206,7 @@
             "Parking Lot",
             "Beer",
             "Wine",
+            "Curbside",
             "Delivery"
         ],
         "url":"https:\/\/stores.aldi.us\/il\/bartlett\/200-e-devon"
@@ -15881,6 +15882,7 @@
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
+            "Beer",
             "Curbside",
             "Delivery"
         ],
@@ -18773,6 +18775,7 @@
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
+            "Beer",
             "Curbside",
             "Delivery"
         ],
@@ -20084,7 +20087,6 @@
             "Parking Lot",
             "Beer",
             "Wine",
-            "Curbside",
             "Delivery"
         ],
         "url":"https:\/\/stores.aldi.us\/mi\/dearborn-heights\/24130-van-born"
@@ -20182,6 +20184,8 @@
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
+            "Beer",
+            "Wine",
             "Curbside",
             "Delivery"
         ],
@@ -20318,6 +20322,8 @@
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
+            "Beer",
+            "Wine",
             "Curbside",
             "Delivery"
         ],
@@ -25366,6 +25372,8 @@
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
+            "Beer",
+            "Wine",
             "Curbside",
             "Delivery"
         ],
@@ -26684,6 +26692,7 @@
         "timezone":"America\/New_York",
         "tags":[
             "Parking Lot",
+            "Curbside",
             "Delivery"
         ],
         "url":"https:\/\/stores.aldi.us\/pa\/valencia\/1300-robert-william-dr"
@@ -27521,6 +27530,8 @@
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
+            "Beer",
+            "Wine",
             "Curbside",
             "Delivery"
         ],
@@ -39457,7 +39468,7 @@
         "city":"Neptune",
         "state":"NJ",
         "zipcode":"07753",
-        "opened":"02\/28\/2024",
+        "opened":"03\/06\/2024",
         "timezone":"America\/New_York",
         "tags":[
             "Parking Lot",
