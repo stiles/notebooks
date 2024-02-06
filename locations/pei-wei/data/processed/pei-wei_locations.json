@@ -1,0 +1,1212 @@
+[
+    {
+        "id":1464,
+        "address":"4801 Beltline Rd. Addison, TX 75254",
+        "latitude":"32.9546977",
+        "longitude":"-96.8294263",
+        "title":"Addison, Dallas TX",
+        "link":"texas\/60-addison\/",
+        "phone":"(972) 764-0844",
+        "state":"TX"
+    },
+    {
+        "id":1459,
+        "address":"1008 W McDermott Dr. Suite 100 Allen, TX 75013",
+        "latitude":"33.1013975",
+        "longitude":"-96.6874959",
+        "title":"Allen, TX",
+        "link":"texas\/44-allen\/",
+        "phone":"(469) 675-2266",
+        "state":"TX"
+    },
+    {
+        "id":1362,
+        "address":"355 E Altamonte Drive #100 Altamonte Springs, FL 32701",
+        "latitude":"28.6636289",
+        "longitude":"-81.3806041",
+        "title":"Altamonte Springs, FL",
+        "link":"florida\/228-altamonte-springs\/",
+        "phone":"(407)-834-0752",
+        "state":"FL"
+    },
+    {
+        "id":1325,
+        "address":"4340 E Indian School Rd. Bldg. A Suite 23 Phoenix, AZ 85018",
+        "latitude":"33.4954758",
+        "longitude":"-111.9881878",
+        "title":"Arcadia, Phoenix, AZ",
+        "link":"arizona\/2-arcadia\/",
+        "phone":"(602) 956-2300",
+        "state":"AZ"
+    },
+    {
+        "id":2548,
+        "address":"1290 S Normal Ave, Tempe, AZ",
+        "latitude":33.4176351,
+        "longitude":-111.9344268,
+        "title":"Arizona State University, AZ",
+        "link":"arizona\/30012-arizona-state-university\/",
+        "phone":"",
+        "state":"AZ"
+    },
+    {
+        "id":1322,
+        "address":"20004 N 67th Ave, Glendale, AZ 85308",
+        "latitude":"33.66594313060228",
+        "longitude":"-112.20407724380493",
+        "title":"Arrowhead, Glendale, AZ",
+        "link":"arizona\/14-arrowhead\/",
+        "phone":"(623) 825-9949",
+        "state":"AZ"
+    },
+    {
+        "id":1360,
+        "address":"18801 Biscayne Blvd., Suite B Miami, FL 33180",
+        "latitude":"25.9500602",
+        "longitude":"-80.1464858",
+        "title":"Aventura, Miami, FL",
+        "link":"florida\/222-aventura\/",
+        "phone":"(305) 935-2230",
+        "state":"FL"
+    },
+    {
+        "id":1140,
+        "address":"1619 North Dysart Rd. Suite 101 Avondale, AZ 85323",
+        "latitude":"33.4656065",
+        "longitude":"-112.3401568",
+        "title":"Avondale, AZ",
+        "link":"arizona\/114-avondale\/",
+        "phone":"(623) 535-9830",
+        "state":"AZ"
+    },
+    {
+        "id":1601,
+        "address":"13855 Conlan Circle Suite J Charlotte, NC 28277",
+        "latitude":"35.055393",
+        "longitude":"-80.8516606",
+        "title":"Ballantyne, Charlotte, NC",
+        "link":"north-carolina\/95-ballantyne\/",
+        "phone":"(704) 543-1121",
+        "state":"NC"
+    },
+    {
+        "id":1795,
+        "address":"11398 Bandera Rd. Building 1, Suite 101 San Antonio, TX 78250",
+        "latitude":"29.550525",
+        "longitude":"-98.66196459999999",
+        "title":"Bandera Oaks, San Antonio, TX",
+        "link":"texas\/112-bandera-oaks\/",
+        "phone":"(210) 523-0040",
+        "state":"TX"
+    },
+    {
+        "id":1139,
+        "address":"267 E Bell Rd suite 1, Phoenix, AZ 85022",
+        "latitude":33.6398764,
+        "longitude":-112.0703404,
+        "title":"Bell Town Plaza, Phoenix, AZ",
+        "link":"arizona\/111-bell-town-plaza\/",
+        "phone":"(602) 707-2800",
+        "state":"AZ"
+    },
+    {
+        "id":1784,
+        "address":"1841 Belle Isle Blvd. Oklahoma City, OK 73118",
+        "latitude":"35.5245043",
+        "longitude":"-97.54116839999999",
+        "title":"Belle Isle, Oklahoma City, OK",
+        "link":"oklahoma\/71-belle-isle\/",
+        "phone":"(405) 767-9001",
+        "state":"OK"
+    },
+    {
+        "id":1369,
+        "address":"9982 Glades Rd, Suite G5 Boca Raton, FL 33434",
+        "latitude":"26.3672339",
+        "longitude":"-80.20241310000002",
+        "title":"Boca Raton, FL",
+        "link":"florida\/256-boca-raton\/",
+        "phone":"(561)483-7067",
+        "state":"FL"
+    },
+    {
+        "id":2551,
+        "address":"175 William F McClellan Highway, Boston, MA 02128",
+        "latitude":42.3859398,
+        "longitude":-71.016161,
+        "title":"Boston-Logan Int Airport, MA",
+        "link":"massachusetts\/30019-boston-logan-international-airport\/",
+        "phone":"",
+        "state":"MA"
+    },
+    {
+        "id":1377,
+        "address":"1750 N Congress Ave. 700 Boynton Beach, FL 33426",
+        "latitude":"26.5414594",
+        "longitude":"-80.0902534",
+        "title":"Boynton Beach, FL",
+        "link":"florida\/80-boynton-beach\/",
+        "phone":"(561) 364-1830",
+        "state":"FL"
+    },
+    {
+        "id":1790,
+        "address":"101 Creekside Crossing Suite 1800 Brentwood, TN 37027",
+        "latitude":"36.0369114",
+        "longitude":"-86.7988293",
+        "title":"Brentwood, TN",
+        "link":"tennessee\/92-brentwood\/",
+        "phone":"(615) 514-4990",
+        "state":"TN"
+    },
+    {
+        "id":1389,
+        "address":"10251 Little Brier Creek Ln. Suite 112 Raleigh, NC 27617",
+        "latitude":"35.9114271",
+        "longitude":"-78.7851187",
+        "title":"Brier Creek, Raleigh, NC",
+        "link":"north-carolina\/108-brier-creek\/",
+        "phone":"(919) 484-4113",
+        "state":"NC"
+    },
+    {
+        "id":1776,
+        "address":"4609 W Kenosha St. Broken Arrow, OK 74012",
+        "latitude":"36.06052",
+        "longitude":"-95.84721599999999",
+        "title":"Broken Arrow, OK",
+        "link":"oklahoma\/117-broken-arrow\/",
+        "phone":"(918) 250-8557",
+        "state":"OK"
+    },
+    {
+        "id":1777,
+        "address":"3535 S Peoria Tulsa, OK 74105",
+        "latitude":"36.1123357",
+        "longitude":"-95.9753308",
+        "title":"Brookside, Tulsa, OK",
+        "link":"oklahoma\/137-brookside\/",
+        "phone":"(918) 749-6083",
+        "state":"OK"
+    },
+    {
+        "id":1385,
+        "address":"10830 W Charleston Blvd. Suite 110 Las Vegas, NV 89135",
+        "latitude":"36.1611213",
+        "longitude":"-115.3314004",
+        "title":"Canyon Pointe, Las Vegas, NV",
+        "link":"nevada\/45-canyon-pointe\/",
+        "phone":"(702) 233-4692",
+        "state":"NV"
+    },
+    {
+        "id":1138,
+        "address":"7131 W Ray Rd. Bldg. 1 Suite 3 Chandler, AZ 85226",
+        "latitude":"33.3181459",
+        "longitude":"-111.9657564",
+        "title":"Casa Paloma, Chandler, AZ",
+        "link":"arizona\/1-casa-paloma\/",
+        "phone":"(480) 940-3800",
+        "state":"AZ"
+    },
+    {
+        "id":1336,
+        "address":"633 W Ina Rd, Tucson, AZ 85704",
+        "latitude":32.3367267,
+        "longitude":-110.9790671,
+        "title":"Casas Adobes, Tucson, AZ",
+        "link":"arizona\/82-casas-adobes\/",
+        "phone":"(520) 297-3238",
+        "state":"AZ"
+    },
+    {
+        "id":1317,
+        "address":"4600 S.H. 121, Suite 120 Lewisville, TX 75056",
+        "latitude":"33.063807",
+        "longitude":"-96.8905432",
+        "title":"Castle Hills, Lewisville, TX",
+        "link":"texas\/251-castle-hills\/",
+        "phone":"(214)494-6150",
+        "state":"TX"
+    },
+    {
+        "id":1370,
+        "address":"6250 W Irlo Bronson Memorial Hwy Celebration, FL 34747",
+        "latitude":"28.3321447",
+        "longitude":"-81.5326074",
+        "title":"Celebration, FL",
+        "link":"florida\/258-celebration\/",
+        "phone":"(407)566-8488",
+        "state":"FL"
+    },
+    {
+        "id":1463,
+        "address":"19411-A Gulf Freeway Webster, TX 77598",
+        "latitude":"29.5423934",
+        "longitude":"-95.1403156",
+        "title":"Clearlake, Webster, TX",
+        "link":"texas\/58-clearlake\/",
+        "phone":"(281) 554-9876",
+        "state":"TX"
+    },
+    {
+        "id":1376,
+        "address":"3011 E Colonial Dr. Suite B Orlando, FL 32803",
+        "latitude":"28.5537641",
+        "longitude":"-81.3461722",
+        "title":"Colonial Marketplace, Orlando, FL",
+        "link":"florida\/76-colonial\/",
+        "phone":"(407) 563-8777",
+        "state":"FL"
+    },
+    {
+        "id":1350,
+        "address":"7148 N Academy Blvd. Colorado Springs, CO 80920",
+        "latitude":"38.93618319999999",
+        "longitude":"-104.7985202",
+        "title":"Colorado Springs, CO",
+        "link":"colorado\/52-colorado-springs-north\/",
+        "phone":"(719) 260-9922",
+        "state":"CO"
+    },
+    {
+        "id":1364,
+        "address":"2283 SW 37th Ave Miami, FL 33145",
+        "latitude":"25.7492362",
+        "longitude":"-80.25434829999999",
+        "title":"Coral Gables, Miami, FL",
+        "link":"florida\/240-coral-gables\/",
+        "phone":"(305) 444-1370",
+        "state":"FL"
+    },
+    {
+        "id":1371,
+        "address":"3112 University Drive, Bldg A Coral Springs, FL 33065",
+        "latitude":"26.2689622",
+        "longitude":"-80.2508197",
+        "title":"Coral Springs, FL",
+        "link":"florida\/262-coral-springs\/",
+        "phone":"(954)-346-1055",
+        "state":"FL"
+    },
+    {
+        "id":1388,
+        "address":"10420 Coors Bypass NW Suite 1B Albuquerque, NM 87114",
+        "latitude":"35.2067451",
+        "longitude":"-106.6577254",
+        "title":"Cottonwood, Albuquerque, NM",
+        "link":"new-mexico\/98-cottonwood\/",
+        "phone":"(505) 897-4811",
+        "state":"NM"
+    },
+    {
+        "id":1788,
+        "address":"2257 N Germantown Pkwy. Suite 110 Cordova, TN 38016",
+        "latitude":"35.1868033",
+        "longitude":"-89.79327819999999",
+        "title":"Countrywood Memphis, Cordova, TN",
+        "link":"tennessee\/165-countrywood-memphis\/",
+        "phone":"(901) 382-1822",
+        "state":"TN"
+    },
+    {
+        "id":1384,
+        "address":"11430 Olive Blvd, Creve Coeur, MO 63141",
+        "latitude":38.6707832,
+        "longitude":-90.4333528,
+        "title":"Creve Coeur, MO",
+        "link":"missouri\/107-creve-coeur\/",
+        "phone":"(314) 656-2004",
+        "state":"MO"
+    },
+    {
+        "id":1367,
+        "address":"1831 S. Federal Hwy. #300 Delray Beach, FL 33483",
+        "latitude":"26.4386063",
+        "longitude":"-80.0713468",
+        "title":"Delray Beach, FL",
+        "link":"florida\/250-delray-beach\/",
+        "phone":"(561) 279-4424",
+        "state":"FL"
+    },
+    {
+        "id":2555,
+        "address":"601 Rogell Dr Suite 4007 Detroit, MI 48424",
+        "latitude":"42.2258896",
+        "longitude":"-83.3485255",
+        "title":"Detroit Metro Airport, MI",
+        "link":"michigan\/30022-detroit-int-airport\/",
+        "phone":"",
+        "state":"MI"
+    },
+    {
+        "id":724,
+        "address":"22000 Dulles Retail Plaza suite 190, Dulles, VA 20166",
+        "latitude":39.006986,
+        "longitude":-77.4361286,
+        "title":"Dulles, VA",
+        "link":"virginia\/123-dulles\/",
+        "phone":"(703) 421-5590",
+        "state":"VA"
+    },
+    {
+        "id":1785,
+        "address":"1141 E 2nd St. Suite 100-A Edmond, OK 73034",
+        "latitude":"35.65403000000001",
+        "longitude":"-97.46490639999999",
+        "title":"Edmond, OK",
+        "link":"oklahoma\/96-edmond\/",
+        "phone":"(405) 341-6850",
+        "state":"OK"
+    },
+    {
+        "id":1798,
+        "address":"7500 N Mesa St. Suite 101 El Paso, TX 79912",
+        "latitude":"31.8388367",
+        "longitude":"-106.563618",
+        "title":"El Paso North, TX",
+        "link":"texas\/154-el-paso-north\/",
+        "phone":"(915) 581-8540",
+        "state":"TX"
+    },
+    {
+        "id":2550,
+        "address":"100 Campus Drive, Elon, NC 27244",
+        "latitude":36.105395,
+        "longitude":-79.50494,
+        "title":"Elon University, NC",
+        "link":"north-carolina\/30018-elon-university\/",
+        "phone":"",
+        "state":"NC"
+    },
+    {
+        "id":2573,
+        "address":"2511 TX-121, Euless, TX 76039",
+        "latitude":32.8735316,
+        "longitude":-97.1011168,
+        "title":"Euless, TX",
+        "link":"texas\/286-euless\/",
+        "phone":"(972) 426-5500",
+        "state":"TX"
+    },
+    {
+        "id":1814,
+        "address":"4461 Market Commons Dr, Fairfax, VA 22033",
+        "latitude":38.8583763,
+        "longitude":-77.3763359,
+        "title":"Fairfax\/Fair Lakes, VA",
+        "link":"virginia\/115-fairfax\/",
+        "phone":"(703) 803-4466",
+        "state":"VA"
+    },
+    {
+        "id":1445,
+        "address":"28902 Highway 290, Suite J-05 Cypress, TX 77433",
+        "latitude":"29.992803",
+        "longitude":"-95.75054899999999",
+        "title":"Fairfield Town Center, Cypress, TX",
+        "link":"texas\/270-fairfield-town-center\/",
+        "phone":"(281) 758-4154",
+        "state":"TX"
+    },
+    {
+        "id":1792,
+        "address":"4170 Lavon Dr. Garland, TX 75040",
+        "latitude":"32.9552952",
+        "longitude":"-96.61680419999999",
+        "title":"Firewheel, Garland, TX",
+        "link":"texas\/102-firewheel\/",
+        "phone":"(972) 202-5490",
+        "state":"TX"
+    },
+    {
+        "id":4476,
+        "address":"4640 Long Prairie Rd, Flower Mound, TX 75028",
+        "latitude":33.0488457,
+        "longitude":-97.0691299,
+        "title":"Flower Mound Windsor Ridge, TX",
+        "link":"texas\/301-windsor-ridge\/",
+        "phone":"(682) 688-5959",
+        "state":"TX"
+    },
+    {
+        "id":2546,
+        "address":"300 Terminal Drive #63, Ft Lauderdale, FL 33315",
+        "latitude":26.0703893,
+        "longitude":-80.1444486,
+        "title":"Fort Lauderdale Int Airport, FL",
+        "link":"florida\/30007-fort-lauderdale-international-airport\/",
+        "phone":"",
+        "state":"FL"
+    },
+    {
+        "id":4474,
+        "address":"16120 Eldorado Pkwy, Frisco, TX 75035",
+        "latitude":33.1749641,
+        "longitude":-96.7343882,
+        "title":"Frisco Custer Star, TX",
+        "link":"texas\/302-custer-star-frisco\/",
+        "phone":"(469) 731-3605",
+        "state":"TX"
+    },
+    {
+        "id":1313,
+        "address":"5110 Main Street, Suite 100 Frisco, TX 75034",
+        "latitude":"33.1534293",
+        "longitude":"-96.8423445",
+        "title":"Frisco, TX",
+        "link":"texas\/241-frisco\/",
+        "phone":"(214) 705-0341",
+        "state":"TX"
+    },
+    {
+        "id":1318,
+        "address":"2901 Heritage Trace Parkway, Suite 105 Fort Worth, TX 76177",
+        "latitude":"32.9151727",
+        "longitude":"-97.3137289",
+        "title":"Ft. Worth\/Alliance, TX",
+        "link":"texas\/257-ft-worth\/",
+        "phone":"817-741-4848",
+        "state":"TX"
+    },
+    {
+        "id":1330,
+        "address":"8787 N Scottsdale Rd. 214\/216 Scottsdale, AZ 85253",
+        "latitude":"33.564954",
+        "longitude":"-111.924412",
+        "title":"Gainey, Scottsdale, AZ",
+        "link":"arizona\/3-gainey\/",
+        "phone":"(480) 365-6000",
+        "state":"AZ"
+    },
+    {
+        "id":1337,
+        "address":"1084 S Gilbert Rd suite 601, Gilbert, AZ 85296",
+        "latitude":33.3300481,
+        "longitude":-111.7909503,
+        "title":"Gilbert, AZ",
+        "link":"arizona\/9-gilbert\/",
+        "phone":"(480) 926-9749",
+        "state":"AZ"
+    },
+    {
+        "id":4475,
+        "address":"9141 W Glendale Ave, Glendale, AZ 85305",
+        "latitude":33.5372131,
+        "longitude":-112.2558491,
+        "title":"Glendale Westgate, AZ",
+        "link":"arizona\/297-glendale-westgate\/",
+        "phone":"(602) 922-3626",
+        "state":"AZ"
+    },
+    {
+        "id":1334,
+        "address":"20851 N Scottsdale Rd. Suite 105 Scottsdale, AZ 85255",
+        "latitude":"33.6764734",
+        "longitude":"-111.9240002",
+        "title":"Grayhawk, AZ",
+        "link":"arizona\/7-grayhawk\/",
+        "phone":"(480) 365-6002",
+        "state":"AZ"
+    },
+    {
+        "id":3744,
+        "address":"6119 Greenville Avenue, Dallas, TX 75206",
+        "latitude":32.8603749,
+        "longitude":-96.7683633,
+        "title":"Greenville Ave, Dallas, TX",
+        "link":"texas\/290-greenville-avenue\/",
+        "phone":"(214) 660-5858",
+        "state":"TX"
+    },
+    {
+        "id":1373,
+        "address":"16441 Corporate Commerce Way Fort Myers, FL 33913",
+        "latitude":"26.4936185",
+        "longitude":"-81.78549459999999",
+        "title":"Gulf Coast Landings, Fort Myers, FL",
+        "link":"florida\/275-gulf-coast-landings\/",
+        "phone":"(239) 433-4208",
+        "state":"FL"
+    },
+    {
+        "id":2539,
+        "address":"6000 North Terminal Parkway, Atlanta, GA",
+        "latitude":33.6407742,
+        "longitude":-84.4467831,
+        "title":"Hartsfield-Jackson Atlanta Airport: ATL, GA",
+        "link":"georgia\/30003-hartsfield-jackson-atlanta-airport\/",
+        "phone":"",
+        "state":"GA"
+    },
+    {
+        "id":1347,
+        "address":"9352 S Colorado Blvd. Suite G-1 Highlands Ranch, CO 80126",
+        "latitude":"39.5453044",
+        "longitude":"-104.9435853",
+        "title":"Highlands Ranch, CO",
+        "link":"colorado\/25-highlands-ranch\/",
+        "phone":"(303) 346-4329",
+        "state":"CO"
+    },
+    {
+        "id":4280,
+        "address":"1249 North Loop West ste 200, Houston, TX 77008",
+        "latitude":29.8120107,
+        "longitude":-95.422192,
+        "title":"Houston Northwest Plaza, TX",
+        "link":"locations\/292-northwest-plaza-houston\/",
+        "phone":"(281) 201-4090",
+        "state":"TX"
+    },
+    {
+        "id":1797,
+        "address":"1413 S Voss Rd. Suite A Houston, TX 77057",
+        "latitude":"29.75177499999999",
+        "longitude":"-95.5005185",
+        "title":"Houston\/Voss, TX",
+        "link":"texas\/120-houston\/",
+        "phone":"(713) 785-1620",
+        "state":"TX"
+    },
+    {
+        "id":1817,
+        "address":"11267 Huebner Rd, San Antonio, TX 78230",
+        "latitude":29.5470105,
+        "longitude":-98.5768662,
+        "title":"Huebner Oaks, San Antonio, TX",
+        "link":"texas\/79-huebner-oaks\/",
+        "phone":"(210) 561-5600",
+        "state":"TX"
+    },
+    {
+        "id":1315,
+        "address":"1460 Precinct Line Road Hurst, TX 76053",
+        "latitude":"32.8381559",
+        "longitude":"-97.1854805",
+        "title":"Hurst, TX",
+        "link":"texas\/244-hurst\/",
+        "phone":"(817) 285-1776",
+        "state":"TX"
+    },
+    {
+        "id":4009,
+        "address":"6825 S Fry Rd #900, Katy, TX 77494",
+        "latitude":29.714757,
+        "longitude":-95.777184,
+        "title":"Katy, TX",
+        "link":"locations\/293-katy\/",
+        "phone":"(346) 443-2255",
+        "state":"TX"
+    },
+    {
+        "id":1783,
+        "address":"5954 S Yale Ave. Tulsa, OK 74135",
+        "latitude":"36.0774931",
+        "longitude":"-95.9227623",
+        "title":"KingsPointe, Tulsa, OK",
+        "link":"oklahoma\/53-kingspointe\/",
+        "phone":"(918) 497-1015",
+        "state":"OK"
+    },
+    {
+        "id":1461,
+        "address":"702 Kingwood Dr. Kingwood, TX 77339",
+        "latitude":"30.0507482",
+        "longitude":"-95.2452876",
+        "title":"Kingwood, TX",
+        "link":"texas\/50-kingwood\/",
+        "phone":"(281) 318-2877",
+        "state":"TX"
+    },
+    {
+        "id":1358,
+        "address":"2501 W Osceola Pkwy, Kissimmee, FL 34741",
+        "latitude":28.3424302,
+        "longitude":-81.4290573,
+        "title":"Kissimmee, FL",
+        "link":"florida\/202-kissimmee\/",
+        "phone":"(407) 846-0829",
+        "state":"FL"
+    },
+    {
+        "id":1812,
+        "address":"7600 N MacArthur Blvd suite 102, Irving, TX 75063",
+        "latitude":32.9097447,
+        "longitude":-96.9580605,
+        "title":"Las Colinas\/Irving,TX",
+        "link":"texas\/20-las-colinas\/",
+        "phone":"(972) 373-8000",
+        "state":"TX"
+    },
+    {
+        "id":1807,
+        "address":"1325 George Dieter Dr. Space K2 El Paso, TX 79936",
+        "latitude":"31.7248772",
+        "longitude":"-106.3034064",
+        "title":"Las Palmas, El Paso, TX",
+        "link":"texas\/183-las-palmas\/",
+        "phone":"(915) 591-2006",
+        "state":"TX"
+    },
+    {
+        "id":1808,
+        "address":"999 E Basse Rd. Suite 199 San Antonio, TX 78209",
+        "latitude":"29.497187",
+        "longitude":"-98.4693925",
+        "title":"Lincoln Heights, TX",
+        "link":"texas\/188-lincoln-heights\/",
+        "phone":"(210) 507-3600",
+        "state":"TX"
+    },
+    {
+        "id":1340,
+        "address":"205 N University Ave, Little Rock, AR 72205",
+        "latitude":34.7543937,
+        "longitude":-92.3407695,
+        "title":"Little Rock, AR",
+        "link":"arkansas\/84-little-rock\/",
+        "phone":"(501) 280-9423",
+        "state":"AR"
+    },
+    {
+        "id":1794,
+        "address":"4210 82nd St suite 230, Lubbock, TX 79423",
+        "latitude":33.5206622,
+        "longitude":-101.902807,
+        "title":"Lubbock, TX",
+        "link":"texas\/110-lubbock\/",
+        "phone":"(806) 792-4896",
+        "state":"TX"
+    },
+    {
+        "id":1323,
+        "address":"845 E University Blvd suite 135, Tucson, AZ 85719",
+        "latitude":32.2319122,
+        "longitude":-110.9582959,
+        "title":"Main Gate, Tucson, AZ",
+        "link":"arizona\/17-main-gate\/",
+        "phone":"(520) 884-7413",
+        "state":"AZ"
+    },
+    {
+        "id":3602,
+        "address":"1681 East Broad Street suite 101, Mansfield, TX 76063",
+        "latitude":32.5697187,
+        "longitude":-97.1141936,
+        "title":"Mansfield, TX",
+        "link":"texas\/287-mansfield",
+        "phone":"(817) 928-5828",
+        "state":"TX"
+    },
+    {
+        "id":2542,
+        "address":"Terminal 1, 5757 Wayne Newton Blvd, Las Vegas, NV 89119",
+        "latitude":"36.0854286",
+        "longitude":"-115.149927",
+        "title":"McCarran International Airport T1: LAS, NV",
+        "link":"nevada\/30005-mccarran-international-airport\/",
+        "phone":"",
+        "state":"NV"
+    },
+    {
+        "id":2541,
+        "address":"Terminal 3 5757 Wayne Newton Blvd Las Vegas, NV 89119",
+        "latitude":"36.08616790000001",
+        "longitude":"-115.1369865",
+        "title":"McCarran International Airport T3: LAS, NV",
+        "link":"nevada\/30004-mccarran-International-airport\/",
+        "phone":"",
+        "state":"NV"
+    },
+    {
+        "id":1321,
+        "address":"701 W McDowell Rd. Suite 101 Phoenix, AZ 85003",
+        "latitude":"33.4654229",
+        "longitude":"-112.08293",
+        "title":"Mcdowell, Phoenix, AZ",
+        "link":"arizona\/163-phoenix-mcdowell\/",
+        "phone":"(602) 308-0410",
+        "state":"AZ"
+    },
+    {
+        "id":1799,
+        "address":"3000 S Central Expressway McKinney, TX 75070",
+        "latitude":"33.1715854",
+        "longitude":"-96.6426417",
+        "title":"McKinney, TX",
+        "link":"texas\/138-mckinney\/",
+        "phone":"(972) 548-9843",
+        "state":"TX"
+    },
+    {
+        "id":1319,
+        "address":"3426 E Baseline Rd. Suite 121 Mesa, AZ 85204",
+        "latitude":"33.3811744",
+        "longitude":"-111.7566918",
+        "title":"Mesa, AZ",
+        "link":"arizona\/12-mesa\/",
+        "phone":"(480) 539-4454",
+        "state":"AZ"
+    },
+    {
+        "id":1328,
+        "address":"10450 North 28th Drive Phoenix, AZ 85051",
+        "latitude":"33.581175",
+        "longitude":"-112.122542",
+        "title":"Metrocenter, Phoenix, AZ",
+        "link":"arizona\/263-metrocenter-phoenix\/",
+        "phone":"(602)-870-7199",
+        "state":"AZ"
+    },
+    {
+        "id":1355,
+        "address":"13616 N Kendall Dr. Miami, FL 33186",
+        "latitude":"25.6844585",
+        "longitude":"-80.41515609999999",
+        "title":"Miami Kendall, FL",
+        "link":"florida\/150-miami-kendall\/",
+        "phone":"(305) 386-8510",
+        "state":"FL"
+    },
+    {
+        "id":1356,
+        "address":"15519 NW 67th Ave. Miami Lakes, FL 33014",
+        "latitude":"25.9143996",
+        "longitude":"-80.308505",
+        "title":"Miami Lakes, FL",
+        "link":"florida\/166-miami-lakes\/",
+        "phone":"(305) 817-8320",
+        "state":"FL"
+    },
+    {
+        "id":1352,
+        "address":"12927 N Dale Mabry Hwy. Tampa, FL 33618",
+        "latitude":"28.0643786",
+        "longitude":"-82.5027887",
+        "title":"Mission Bell, Tampa, FL",
+        "link":"florida\/127-mission-bell\/",
+        "phone":"(813) 960-2031",
+        "state":"FL"
+    },
+    {
+        "id":1793,
+        "address":"2600 W 7th St. Suite 101 Fort Worth, TX 76107",
+        "latitude":"32.7542407",
+        "longitude":"-97.3528979",
+        "title":"Montgomery Plaza, Fort Worth, TX",
+        "link":"texas\/109-montgomery-plaza\/",
+        "phone":"(817) 806-9950",
+        "state":"TX"
+    },
+    {
+        "id":1778,
+        "address":"1500 24th Ave. NW Norman, OK 73069",
+        "latitude":"35.2372421",
+        "longitude":"-97.48363599999999",
+        "title":"Norman, OK",
+        "link":"oklahoma\/191-norman\/",
+        "phone":"(405) 364-1690",
+        "state":"OK"
+    },
+    {
+        "id":1466,
+        "address":"1802 North Loop 1604 East suite 101, San Antonio, TX 78232",
+        "latitude":29.6069209,
+        "longitude":-98.4631131,
+        "title":"Northwoods, San Antonio, TX",
+        "link":"texas\/61-northwoods\/",
+        "phone":"(210) 507-9160",
+        "state":"TX"
+    },
+    {
+        "id":1335,
+        "address":"1085 W Queen Creek Rd Suite 1 Chandler, AZ 85248",
+        "latitude":"33.2608475",
+        "longitude":"-111.8601371",
+        "title":"Ocotillo\/Chandler, AZ",
+        "link":"arizona\/8-ocotillo\/",
+        "phone":"(480) 812-2230",
+        "state":"AZ"
+    },
+    {
+        "id":4279,
+        "address":"4747 PGA Boulevard, Palm Beach Gardens, Palm Beach, FL 33418",
+        "latitude":26.8390019,
+        "longitude":-80.1086829,
+        "title":"Palm Beach Gardens, FL",
+        "link":"locations\/295-palm-beach-gardens\/",
+        "phone":"(561) 282-6996",
+        "state":"FL"
+    },
+    {
+        "id":1813,
+        "address":"5932 Fairmont Pkwy suite 150, Pasadena, TX 77505",
+        "latitude":29.6491133,
+        "longitude":-95.151228,
+        "title":"Pasadena, TX",
+        "link":"texas\/205-pasadena\/",
+        "phone":"(281) 487-2226",
+        "state":"TX"
+    },
+    {
+        "id":1440,
+        "address":"2630 Pearland Parkway, Suite 130 Pearland, TX 77581",
+        "latitude":"29.5593855",
+        "longitude":"-95.260486",
+        "title":"Pearland Parkway, TX",
+        "link":"texas\/265-pearland-parkway\/",
+        "phone":"(281) 997-5525",
+        "state":"TX"
+    },
+    {
+        "id":1357,
+        "address":"11049 Pines Blvd suite 424, Pembroke Pines, FL 33026",
+        "latitude":26.0083605,
+        "longitude":-80.2950831,
+        "title":"Pembroke Pines, FL",
+        "link":"florida\/178-pembrokepines\/",
+        "phone":"(954) 499-8820",
+        "state":"FL"
+    },
+    {
+        "id":2547,
+        "address":"Terminal 4, 3964 E Sky Harbor Blvd #3588, Phoenix, AZ 85034",
+        "latitude":33.4360345,
+        "longitude":-111.9996366,
+        "title":"Phoenix Int&#8217;l Airport: PHX, AZ",
+        "link":"arizona\/30009-phoenix-intl-airport\/",
+        "phone":"",
+        "state":"AZ"
+    },
+    {
+        "id":1333,
+        "address":"742 E Glendale Suite 110 Phoenix, AZ 85020",
+        "latitude":"33.5389739",
+        "longitude":"-112.0641603",
+        "title":"Phoenix\/Madison, AZ",
+        "link":"arizona\/500-phoenix\/",
+        "phone":"(602) 707-0049",
+        "state":"AZ"
+    },
+    {
+        "id":1368,
+        "address":"2390 N Federal Highway, Suite 101 Pompano Beach, FL 33062",
+        "latitude":"26.2607153",
+        "longitude":"-80.0989287",
+        "title":"Pompano Beach, FL",
+        "link":"florida\/253-pompano-beach\/",
+        "phone":"(954)-784-2460",
+        "state":"FL"
+    },
+    {
+        "id":1815,
+        "address":"8412 Preston Rd suite 400, Plano, TX 75024",
+        "latitude":33.0932198,
+        "longitude":-96.8046649,
+        "title":"Preston Creek, Plano TX",
+        "link":"texas\/89-prestoncreek\/",
+        "phone":"(469) 362-8288",
+        "state":"TX"
+    },
+    {
+        "id":1460,
+        "address":"11700 Preston Rd. Suite 650 Dallas, TX 75230",
+        "latitude":"32.9083556",
+        "longitude":"-96.8028336",
+        "title":"Preston Forest, Dallas, TX",
+        "link":"texas\/48-preston-forest\/",
+        "phone":"(214) 765-0030",
+        "state":"TX"
+    },
+    {
+        "id":1782,
+        "address":"4401 W Memorial Road Suite 104 Oklahoma City, OK 73134",
+        "latitude":"35.611953",
+        "longitude":"-97.6025269",
+        "title":"Quail Brook Plaza, Oklahoma City, OK",
+        "link":"oklahoma\/279-quail-brook-plaza\/",
+        "phone":"(405) 751-6539",
+        "state":"OK"
+    },
+    {
+        "id":1329,
+        "address":"21051 S. Ellsworth Loop Rd. Suite 101 Queen Creek, AZ 85142",
+        "latitude":"33.2571433",
+        "longitude":"-111.6379236",
+        "title":"Queen Creek, AZ",
+        "link":"arizona\/285-queen-creek\/",
+        "phone":"(623) 289-6868",
+        "state":"AZ"
+    },
+    {
+        "id":1433,
+        "address":"1425 East Renner Road, Suite 610 Richardson, TX 75082",
+        "latitude":"32.997766",
+        "longitude":"-96.69733550000001",
+        "title":"Renner Road, Richardson, TX",
+        "link":"texas\/259-renner-road\/",
+        "phone":"214-459-2100",
+        "state":"TX"
+    },
+    {
+        "id":1439,
+        "address":"1401 West Campbell Road, Suite 200 Richardson, TX 75080",
+        "latitude":"32.9777187",
+        "longitude":"-96.7665889",
+        "title":"Richardson, TX",
+        "link":"texas\/260-richardson\/",
+        "phone":"(972) 238-7399",
+        "state":"TX"
+    },
+    {
+        "id":4254,
+        "address":"2235 S Goliad St, Rockwall, TX 75032",
+        "latitude":32.9084673,
+        "longitude":-96.4484703,
+        "title":"Rockwall, TX",
+        "link":"locations\/294-rockwall\/",
+        "phone":"469-405-3327",
+        "state":"TX"
+    },
+    {
+        "id":1339,
+        "address":"4895 West Pauline Whitaker Parkway, Rogers, AR 72758",
+        "latitude":36.2979429,
+        "longitude":-94.1840567,
+        "title":"Rogers, AR",
+        "link":"arkansas\/252-rogers\/",
+        "phone":"(479)-464-7900",
+        "state":"AR"
+    },
+    {
+        "id":4473,
+        "address":"9610 State Highway 151 suite 105, San Antonio, TX",
+        "latitude":29.4457489,
+        "longitude":-98.6714167,
+        "title":"San Antonio Wender Plaza, TX",
+        "link":"texas\/303-wender-plaza",
+        "phone":"(726) 223-4801",
+        "state":"TX"
+    },
+    {
+        "id":725,
+        "address":"10373 S State St. Sandy, UT 84070",
+        "latitude":"40.5630344",
+        "longitude":"-111.8903247",
+        "title":"Sandy\/Southtowne, UT",
+        "link":"utah\/73-sandy\/",
+        "phone":"(801) 601-1990",
+        "state":"UT"
+    },
+    {
+        "id":1359,
+        "address":"8511 Cooper Creek Blvd, Sarasota, FL 34201",
+        "latitude":27.3891374,
+        "longitude":-82.4556294,
+        "title":"Sarasota, FL",
+        "link":"florida\/215-sarasota\/",
+        "phone":"(941) 359-8570",
+        "state":"FL"
+    },
+    {
+        "id":1326,
+        "address":"8700 E. Raintree Dr. Scottsdale, AZ 85260",
+        "latitude":"33.6187702",
+        "longitude":"-111.8933289",
+        "title":"Scottsdale\/Raintree, AZ",
+        "link":"arizona\/236-scottsdale\/",
+        "phone":"(480) 308-9898",
+        "state":"AZ"
+    },
+    {
+        "id":2552,
+        "address":"Seattle-Tacoma International Airport (SEA), 17801 International Blvd, Seattle, WA 98158",
+        "latitude":47.4479736,
+        "longitude":-122.3088188,
+        "title":"Seattle-Tacoma Int Airport: Sea-Tac, WA",
+        "link":"washington\/30020-seattle-tacoma-int-airport\/",
+        "phone":"",
+        "state":"WA"
+    },
+    {
+        "id":1455,
+        "address":"19075 IH 45 S Suite 480 Shenandoah, TX 77385",
+        "latitude":"30.1827568",
+        "longitude":"-95.45120399999999",
+        "title":"Shenandoah, TX",
+        "link":"texas\/31-shenandoah\/",
+        "phone":"(936) 271-9217",
+        "state":"TX"
+    },
+    {
+        "id":1338,
+        "address":"1825 East Guadalupe Road suite f 112, Tempe, AZ 85283",
+        "latitude":33.3613781,
+        "longitude":-111.9103763,
+        "title":"South Tempe, AZ",
+        "link":"arizona\/91-south-tempe\/",
+        "phone":"(480) 333-0014",
+        "state":"AZ"
+    },
+    {
+        "id":1353,
+        "address":"2101 SE Federal Hwy. Stuart, FL 34994",
+        "latitude":"27.1791129",
+        "longitude":"-80.2357474",
+        "title":"Stuart, FL",
+        "link":"florida\/130-stuart\/",
+        "phone":"(772) 219-0466",
+        "state":"FL"
+    },
+    {
+        "id":1456,
+        "address":"16101 Kensington Dr. Sugar Land, TX 77479",
+        "latitude":"29.5982384",
+        "longitude":"-95.62593729999999",
+        "title":"Sugar Land, TX",
+        "link":"texas\/37-sugar-land\/",
+        "phone":"(281) 240-1931",
+        "state":"TX"
+    },
+    {
+        "id":1324,
+        "address":"14155 W Bell Rd. Suite 113 Surprise, AZ 85374",
+        "latitude":"33.6382606",
+        "longitude":"-112.3650241",
+        "title":"Surprise, AZ",
+        "link":"arizona\/195-surprise\/",
+        "phone":"(623) 546-6868",
+        "state":"AZ"
+    },
+    {
+        "id":2558,
+        "address":"4160 George J Bean Parkway suite 1200, Tampa, FL 33607",
+        "latitude":27.9807566,
+        "longitude":-82.5341727,
+        "title":"Tampa Airport, FL",
+        "link":"florida\/42125-tampa-airport\/",
+        "phone":"",
+        "state":"FL"
+    },
+    {
+        "id":1310,
+        "address":"4133 South Cooper Street, Arlington, TX",
+        "latitude":"32.6797865",
+        "longitude":"-97.13361429999999",
+        "title":"The Parks, Arlington, TX",
+        "link":"texas\/21-arlingtonparks\/",
+        "phone":"(817) 466-4545",
+        "state":"TX"
+    },
+    {
+        "id":1803,
+        "address":"11302 Broadway Suite 102 Pearland, TX 77584",
+        "latitude":"29.5552783",
+        "longitude":"-95.3947323",
+        "title":"Town Center Pearland, Pearland, TX",
+        "link":"texas\/175-town-center-pearland\/",
+        "phone":"(713) 436-3840",
+        "state":"TX"
+    },
+    {
+        "id":1779,
+        "address":"10005 S. Memorial Dr., Suite 10 Tulsa, OK 74133",
+        "latitude":"36.0192559",
+        "longitude":"-95.885746",
+        "title":"Tulsa, OK",
+        "link":"oklahoma\/243-tulsa\/",
+        "phone":"(918) 254-2151",
+        "state":"OK"
+    },
+    {
+        "id":1789,
+        "address":"11301 Parkside Dr. Suite 1200 Knoxville, TN 37901",
+        "latitude":"35.9003514",
+        "longitude":"-84.15864069999999",
+        "title":"Turkey Creek, Knoxville, TN",
+        "link":"tennessee\/204-knoxville-turkey-creek\/",
+        "phone":"(865) 966-1610",
+        "state":"TN"
+    },
+    {
+        "id":1341,
+        "address":"2695 Park Ave, Tustin, CA 92782",
+        "latitude":33.6955312,
+        "longitude":-117.8278707,
+        "title":"Tustin, CA",
+        "link":"california\/101-tustin\/",
+        "phone":"(714) 259-1125",
+        "state":"CA"
+    },
+    {
+        "id":1816,
+        "address":"2222 McKinney Ave suite 100, Dallas, TX 75201",
+        "latitude":32.7931158,
+        "longitude":-96.8021956,
+        "title":"Uptown Plaza, Dallas, TX",
+        "link":"texas\/88-uptownplaza\/",
+        "phone":"(214) 965-0007",
+        "state":"TX"
+    },
+    {
+        "id":3702,
+        "address":"5925 Convair Dr #501, Fort Worth, TX 76109",
+        "latitude":32.6990053,
+        "longitude":-97.4123659,
+        "title":"Waterside, Fort Worth TX",
+        "link":"locations\/296-waterside\/",
+        "phone":"(817) 294-0808",
+        "state":"TX"
+    },
+    {
+        "id":1378,
+        "address":"4517 Weston Rd. Weston, FL 33331",
+        "latitude":"26.0634876",
+        "longitude":"-80.36358779999999",
+        "title":"Weston, FL",
+        "link":"florida\/81-weston\/",
+        "phone":"(954) 308-7330",
+        "state":"FL"
+    },
+    {
+        "id":1365,
+        "address":"1816 N Westshore Blvd, Tampa, FL 33607",
+        "latitude":27.9583691,
+        "longitude":-82.5243842,
+        "title":"Westshore, Tampa, FL",
+        "link":"florida\/247-westshore\/",
+        "phone":"(813) 286-2603",
+        "state":"FL"
+    },
+    {
+        "id":1331,
+        "address":"5285 E Broadway Blvd. Suite 151 Tucson, AZ 85711",
+        "latitude":"32.2220412",
+        "longitude":"-110.8796465",
+        "title":"Williams Center, Tucson, AZ",
+        "link":"arizona\/30-williams-center\/",
+        "phone":"(520) 514-7004",
+        "state":"AZ"
+    },
+    {
+        "id":1372,
+        "address":"3337 Daniels Road, Suite 100 Winter Garden, FL 34787",
+        "latitude":"28.5192708",
+        "longitude":"-81.5860752",
+        "title":"Winter Garden Village, FL",
+        "link":"florida\/264-winter-garden-village\/",
+        "phone":"(407) 347-9928",
+        "state":"FL"
+    },
+    {
+        "id":3840,
+        "address":"2588 FM 544 ste 100, Wylie, TX 75098",
+        "latitude":33.0104644,
+        "longitude":-96.573972,
+        "title":"Wylie, TX",
+        "link":"locations\/288-wylie\/",
+        "phone":"(214) 764-9808",
+        "state":"TX"
+    }
+]
