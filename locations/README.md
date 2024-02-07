@@ -1,5 +1,7 @@
 # Locations
-A growing collection of data scrapers that collect information about the locations of popular stores, restaurants and other consumer sites.  
+A growing collection of data scrapers that collect information about the locations of popular stores, restaurants and other consumer sites.
+
+![starbucks locations](starbucks/visuals/visualization.png)
 
 |Company|Locations*|Formats|
 |:---  |---: |:---  |
@@ -32,6 +34,7 @@ A growing collection of data scrapers that collect information about the locatio
 |[Safeway](https://github.com/stiles/locations/tree/main/safeway)|tk|[CSV](), [GeoJSON]()|
 |[Sephora](https://github.com/stiles/locations/tree/main/sephora)|tk|[CSV](), [GeoJSON]()|
 |[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|tk|[CSV](), [GeoJSON]()|
+|[Starbucks](https://github.com/stiles/locations/tree/main/starbucks)|16,288|[CSV](), [GeoJSON]()|
 |[Torchy's Tacos](https://github.com/stiles/locations/tree/main/torchys-tacos)|124|[CSV](), [GeoJSON]()|
 |[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|tk|[CSV](), [GeoJSON]()|
 |[Ulta](https://github.com/stiles/locations/tree/main/ulta)|tk|[CSV](), [GeoJSON]()|
