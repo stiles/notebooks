@@ -39,6 +39,7 @@ A growing collection of data scrapers that collect information about the locatio
 |[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|tk|[CSV](), [GeoJSON]()|
 |[Ulta](https://github.com/stiles/locations/tree/main/ulta)|tk|[CSV](), [GeoJSON]()|
 |[Vons](https://github.com/stiles/locations/tree/main/vons)|tk|[CSV](), [GeoJSON]()|
+|[Wahoo's](https://github.com/stiles/locations/tree/main/wahoos)|46|[CSV](), [GeoJSON]()|
 |[Wendy's](https://github.com/stiles/locations/tree/main/wendys)|6,150|[CSV](), [GeoJSON]()|
 |[Whataburger](https://github.com/stiles/locations/tree/main/whataburger)|tk|[CSV](), [GeoJSON]()|
 |[Wienerschnitzel](https://github.com/stiles/locations/tree/main/wienerschnitzel)|320|[CSV](), [GeoJSON]()|
