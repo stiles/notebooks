@@ -5,12 +5,11 @@ A growing collection of data scrapers that collect information about the locatio
 
 |Company|Locations*|Formats|
 |:---  |---: |:---  |
-|[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|223|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/bank_of_america_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/bank_of_america_locations.geojson)|
+|[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|223|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.geojson)|
 |[Aldi](https://github.com/stiles/locations/tree/main/apple-stores)|2,357|[CSV](), [GeoJSON]()|
 |[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|526|[CSV](), [GeoJSON]()|
 |[Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)|71|[CSV](), [GeoJSON]()|
 |[Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)|6,066|[CSV](), [GeoJSON]()|
-<!-- |[Burger King](https://github.com/stiles/locations/tree/main/burger-king)|tk|[CSV](), [GeoJSON]()| -->
 |[Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)|1,026|[CSV](), [GeoJSON]()|
 |[Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)|tk|[CSV](), [GeoJSON]()|
 |[Chili's](https://github.com/stiles/locations/tree/main/chilis)|tk|[CSV](), [GeoJSON]()|
@@ -35,11 +34,14 @@ A growing collection of data scrapers that collect information about the locatio
 |[Sephora](https://github.com/stiles/locations/tree/main/sephora)|tk|[CSV](), [GeoJSON]()|
 |[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|tk|[CSV](), [GeoJSON]()|
 |[Starbucks](https://github.com/stiles/locations/tree/main/starbucks)|16,288|[CSV](), [GeoJSON]()|
+|[TCBY](https://github.com/stiles/locations/tree/main/tcby)|135|[CSV](), [GeoJSON]()|
 |[Torchy's Tacos](https://github.com/stiles/locations/tree/main/torchys-tacos)|124|[CSV](), [GeoJSON]()|
 |[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|tk|[CSV](), [GeoJSON]()|
 |[Ulta](https://github.com/stiles/locations/tree/main/ulta)|tk|[CSV](), [GeoJSON]()|
 |[Vons](https://github.com/stiles/locations/tree/main/vons)|tk|[CSV](), [GeoJSON]()|
+|[Wendy's](https://github.com/stiles/locations/tree/main/wendys)|6,150|[CSV](), [GeoJSON]()|
 |[Whataburger](https://github.com/stiles/locations/tree/main/whataburger)|tk|[CSV](), [GeoJSON]()|
+|[Wienerschnitzel](https://github.com/stiles/locations/tree/main/wienerschnitzel)|320|[CSV](), [GeoJSON]()|
 
 *This repo is a *slow* work in progress, and I make no guarantees about the accuracy of the data collected here. Please [let me know](mailto:mattstiles@gmail.com) if you have questions or concerns — or if there's a company you'd like to see on this list.
 

@@ -1,0 +1,136 @@
+store_number,name,address,city,zip,state,website,phone,latitude,longitude
+9017905,Essex Square Market Place,2 McFarland Blvd,Northport,35476,AL,https://store.tcby.com/home/essexsquaremarketplace,(205) 758-6855,33.2361582,-87.5523731
+9017906,Meadowbrook,2304 McFarland Blvd E,Tuscaloosa,35404,AL,https://store.tcby.com/home/meadowbrook,(205) 349-4661,33.1889321,-87.526194
+9291601,Corner Village,300 N Dean Rd,Auburn,36830,AL,https://store.tcby.com/home/auburntcby,(334) 826-8828,32.6100321,-85.4648807
+9237207,Gulf Shores,1301 Gulf Shores Pkwy,Gulf Shores,36542,AL,https://store.tcby.com/home/gulfshoresal,(251) 968-8229,30.2629312,-87.688844
+9448510,Merchants Walk,1919 28th Ave S,Birmingham,35209,AL,https://store.tcby.com/home/merchantswalk,(205) 870-8229,33.480864,-86.7882114
+9438102,Dimond Center,800 East Dimond Ctr,Anchorage,99515,AK,https://store.tcby.com/home/,(907) 522-2560,61.1456649,-149.8716301
+9411601,Lakewood Village,2600 Lakewood Village Pl,North Little Rock,72116,AR,https://store.tcby.com/home/lakewoodvillage,(501) 753-5572,34.7977281,-92.2331152
+9448001,Promenade Pointe,2005 Promenade Pointe Blvd,Rogers,72758,AR,https://store.tcby.com/home/,(479) 636-8229,36.3116465,-94.178592
+9448101,LakeView Plaza,570 E. Centerton Blvd.,Centerton,72719,AR,https://store.tcby.com/home/,(479) 379-0500,36.3593083,-94.276242
+9448401,Harrison,1313 Hwy  65 N,Harrison,72601,AR,https://store.tcby.com/home/,(870) 741-9554,35.5764717,-92.4513993
+9437101,Stockton Subway,5308 Pacific Ave,Stockton,95207,CA,https://store.tcby.com/home/,(209) 951-2524,37.9989377,-121.3137241
+9405601,Stockton Subway,3201 W Benjamin Holt Dr,Stockton,95219,CA,https://store.tcby.com/home/stocktonsubway,(209) 952-8873,38.0062349,-121.3551526
+9412801,Plaza West Covina,603 Plaza Dr,West Covina,91790,CA,https://store.tcby.com/home/plazawestcovina,(626) 960-7011,34.0698435,-117.9272576
+9427101,The Shops at Palm Desert,72840 Highway 111,Palm Desert,92260,CA,https://store.tcby.com/home/westfieldshoppingtown,(760) 346-4598,33.7216277,-116.3941345
+9293502,Galleria at Roseville,1151 Galleria Blvd Spc,Roseville,95678,CA,https://store.tcby.com/home/galleriaatroseville,(916) 878-5418,38.7734419,-121.2692846
+9400801,Grewal Business Center,72363 Baker Blvd,Baker,92309,CA,https://store.tcby.com/home/grewalbusinesscenter,(760) 733-4505,35.2684544,-116.0690303
+9430501,Northridge Mall,9301 Tampa Ave,Northridge,91324,CA,https://store.tcby.com/home/northridgemall,(818) 407-0404,34.2391367,-118.5536313
+9445801,Valley Plaza,2701 Ming Ave,Bakersfield,93304,CA,https://store.tcby.com/home/valleyplaza,(661) 832-8166,35.3353129,-119.0366279
+9445901,Great Mall of Bay Area,112 Great Mall Dr,Milpitas,95035,CA,https://store.tcby.com/home/,(408) 649-3258,37.4181228,-121.9012663
+9455001,Glendale Galleria,100 W Broadway #G002,Glendale,91210,CA,https://store.tcby.com/home/glendalegalleria,(818) 919-9691,34.1468059,-118.2721141
+9426001,Center Place,4530 Center Place Dr,Greeley,80634,CO,https://store.tcby.com/home/centerplace,(970) 673-8193,40.3941183,-104.7516384
+9431701,HighPointe Park,9645 Washington St,Thornton,80229,CO,https://store.tcby.com/home/highpointepark,(720) 872-6459,39.8718221,-104.9782794
+9426002,Troutman Parkway,100 W Troutman Unit B,Fort Collins,80525,CO,https://store.tcby.com/home/troutman,(970) 223-4851,40.5290143,-105.07757
+9383002,Christiana Mall,1531 Christiana Mall,Newark,19702,DE,https://store.tcby.com/home/christianamall,(302) 283-1346,39.678266,-75.649932
+9434801,Miami Subway TCBY,2720 S Dixie Hwy,Miami,33133,FL,https://store.tcby.com/home/,(305) 441-2613,25.739011,-80.2395219
+9446901,Shops at Pembroke Pines,14543 SW 5th Street,Pembroke Pines,33027,FL,https://store.tcby.com/home/shopsatpembrokegardens,(954) 432-5900,26.0043427,-80.3360752
+9354901,Fountain Oaks Shopping Center,4920 Roswell Rd NW,Atlanta,30342,GA,https://store.tcby.com/home/fountainoaksshoppingcenter,(404) 252-7437,33.8897521,-84.3831892
+9357701,Valdosta Mall,1700 Norman Dr,Valdosta,31601,GA,https://store.tcby.com/home/valdostamall,(229) 293-0093,30.8436408,-83.3208622
+9432101,Westside Plaza,807 West Ave,Cartersville,30120,GA,https://store.tcby.com/home/westsideplaza,(770) 334-2151,34.1576654,-84.8161983
+9447001,Braelinn Village Shopping Center,532 Crosstown Dr,Peachtree city,30269,GA,https://store.tcby.com/home/BraelinnVillageShoppingCenter,(770) 631-9803,33.3776179,-84.5637294
+9343701,Fred Meyer Plaza,1800 N Locust Grove,Meridian,83646,ID,https://store.tcby.com/home/meridiantcby,(208) 884-8366,43.6215781,-116.3739787
+9434203,Oak Lawn,6760 West 95th St,Oak Lawn,60453,IL,https://store.tcby.com/home/,(708) 233-9000,41.71996,-87.7890812
+9025804,Quincy,1735 State St,Quincy,62301,IL,https://store.tcby.com/home/quincy,(217) 228-2292,39.926515,-91.387482
+9150124,O'Hare Int'l Airport - Circular Bldg.,Circular Bldg #6 O'Hare Field,Chicago,60666,IL,https://store.tcby.com/home/ohareintlairport,(312) 686-6124,41.9849481,-87.9089623
+9428201,Old Farm,1731 W Kirby Ave,Champaign,61821,IL,https://store.tcby.com/home/oldfarm,(217) 607-5090,40.0982286,-88.2741589
+9423801,Shorewood Crossings,930 Brook Forest Ave,Shorewood,60404,IL,https://store.tcby.com/home/shorewoodcrossings,(815) 577-8229,41.5372937,-88.19932
+9433301,New Lenox,2356 E Lincoln Hwy,New Lenox,60451,IL,https://store.tcby.com/home/newlenox,(815) 687-8229,41.5094,-87.9213643
+9433401,Oswego,2840 Route 34,Oswego,60543,IL,https://store.tcby.com/home/Oswego,(630) 554-6443,41.699155,-88.3170041
+9439903,The Pride of Hinsdale,149 E Ogden Ave,Hinsdale,60521,IL,https://store.tcby.com/home/ThePRIDEofhinsdale,(630) 455-5841,41.8167288,-87.9262521
+9439901,The Pride of Aurora,1395 Butterfield Rd,Aurora,60502,IL,https://store.tcby.com/home/theprideofaurora,(630) 851-5585,41.8123756,-88.2804791
+9439902,The Pride of Geneva,1166 E State St,Geneva,60134,IL,https://store.tcby.com/home/ThePRIDEofgeneva,(630) 845-9300,41.887098,-88.283623
+9439904,The Pride of Elgin,1700 N State Rd Rte 31,Elgin,60123,IL,https://store.tcby.com/home/ThePRIDEofelgin,(847) 741-5784,42.0671098,-88.291559
+9439905,The Pride of Wheaton,25W420 Geneva Rd,Wheaton,60189,IL,https://store.tcby.com/home/ThePRIDEofwheaton,(630) 462-1300,41.8880117,-88.1118399
+7000013,The Pride of Chicago,1221 South Wabash Ave,Chicago,60605,IL,https://store.tcby.com/home/,(000) 000-0000,41.8669968,-87.6254637
+7000014,The Pride of Cicero,3100 South Cicero,Cicero,60804,IL,https://store.tcby.com/home/,(000) 000-0000,41.8362609,-87.7444611
+7000019,The Pride of West Chicago,1905 Franciscan Way,West Chicago,60185,IL,https://store.tcby.com/home/,(630) 520-0009,41.9164761,-88.2097099
+7000020,The Pride of Batavia,200 N Randall Rd,Batavia,60510,IL,https://store.tcby.com/home/a,(000) 000-0000,41.8548201,-88.3398509
+9439907,The Pride of Naperville,1503 N Aurora Rd,Naperville,60563,IL,https://store.tcby.com/home/,(630) 995-3243,41.780804,-88.1850801
+9445201,Chicago Premium Outlets,1650 Premium Outlets Rd,Aurora,60504,IL,https://store.tcby.com/home/,(630) 898-9909,41.8003339,-88.2739325
+9439908,The Pride of Palatine,1400 W Algonquin Rd,Palatine,60067,IL,https://store.tcby.com/home/,(847) 907-9479,42.0792508,-88.0783564
+9447901,Woodfield Mall,G119 Woodfield Mall,Schaumburg,60173,IL,https://store.tcby.com/home/woodfieldmall,(224) 520-8471,42.0472189,-88.0381905
+7000024,The Pride of Lake County,2095 Quentin Rd,Kildeer,60047,IL,https://store.tcby.com/home/,(847) 550-8392,42.1506247,-88.0629208
+9449301,Gurnee Mills Mall,Gurnee Mills Mall  6170 W. Grand Ave.,Gurnee,60031,IL,https://store.tcby.com/home/gurneemills,(847) 929-1111,42.3882428,-87.9574507
+9449101,Chicago Ridge Mall,444 Chicago Ridge Mall Dr,Chicago Ridge,60415,IL,https://store.tcby.com/home/chicagoridgemall,(708) 422-0123,41.7155304,-87.7835773
+9449501,North Riverside Park Mall,7501 W Cermak Rd,North Riverside,60546,IL,https://store.tcby.com/home/northriversidepark,(708) 447-5938,41.8462524,-87.8108905
+9261701,Georgetown Square,6422 E State Blvd,Fort Wayne,46815,IN,https://store.tcby.com/home/georgetownsquare,(260) 493-2795,41.1019607,-85.0579772
+9382801,Galleria Retail,425 US Route 30,Dyer,46311,IN,https://store.tcby.com/home/galleriaretail,(219) 865-2240,41.3092524,-97.6780789
+7000023,The Pride of Dyer,3 Joliet St,Dyer,46311,IN,https://store.tcby.com/home/,(000) 000-0000,41.4949193,-87.525347
+9299901,Council Bluffs Subway,208 E Broadway,Council Bluffs,51501,IA,https://store.tcby.com/home/councilbluffssubway,(712) 322-4114,41.2645208,-95.8424962
+9237202,Old Metairie Village,701 Metairie Rd Ste.23101,Metairie,70005,LA,https://store.tcby.com/home/oldmetairievillage,(504) 835-2983,29.9881619,-90.1310351
+9374701,Shreveport,1704 East Bert Kouns Loop Industrial Dr,Shreveport,71105,LA,https://store.tcby.com/home/shreveport,(318) 797-8229,32.433919,-93.707274
+9421301,Highway 59,1680 Highway 59,Mandeville,70448,LA,https://store.tcby.com/home/highway59,(985) 626-4770,30.373816,-90.055508
+9421302,Flowers Center,"70488 Hwy 21, #650",Covington,70433,LA,https://store.tcby.com/home/flowerscenter,(985) 892-9000,30.4592439,-90.1237167
+9237206,Camellia Square,1736 Gause Blvd East,Slidell,70461,LA,https://store.tcby.com/home/camelliasquare,(985) 288-0340,30.2868334,-89.7385145
+9453000,Arlington Creek Center,636 Arlington Creek Center Blvd. Unit D,Baton Rouge,70820,LA,https://store.tcby.com/home/arlingtoncreek,(225) 256-1427,30.3900835,-91.1629635
+9420905,Timonium TCBY,2080 York Rd,Timonium,21093,MD,https://store.tcby.com/home/timoniumtcby,(410) 252-9554,39.4398384,-76.626805
+9447201,Snowden River,9400 Snowden River Pkwy,Columbia,21045,MD,https://store.tcby.com/home/snowdenriver,(410) 309-0380,39.1767209,-76.8372743
+9448201,Greenway Center,7531 Greenbelt Road,Greenbelt,20770,MD,https://store.tcby.com/home/greenwaycenter,(240) 241-4919,38.9922138,-76.8783679
+9393801,North Hill Plaza,1421 N Rochester Rd,Rochester Hills,48307,MI,https://store.tcby.com/home/,(248) 650-2161,42.6922591,-83.1342522
+9448512,Grosse Pointe,17045 Kercheval Ave,Grosse Pointe,48230,MI,https://store.tcby.com/home/inthevillage,(313) 885-0384,42.3904301,-82.9161605
+9449303,Grosse Pointe,20385 Mack Ave,Grosse Pointe Woods,48236,MI,https://store.tcby.com/home/mackave,(313) 881-5608,42.4387227,-82.9082369
+9438401,Sunny Shell LLC 2,1206 Luckney Rd,Flowood,39232,MS,https://store.tcby.com/home/sunnyshellllc2,(769) 243-7143,32.3493551,-90.0535491
+9143701,Chaney's Pharmacy,501 Bramlett Blvd,Oxford,38655,MS,https://store.tcby.com/home/chaneyspharmacy,(662) 234-7221,34.3644214,-89.5106617
+9221501,Laurel Chevron,Macs Mini Mart,Laurel,39440,MS,https://store.tcby.com/home/laurelchevron,(601) 425-5900,31.6940509,-89.1306124
+9445701,Wedgewood Commons,5070 Goodman Rd,Olive Branch,38654,MS,https://store.tcby.com/home/wedgewoodcommons,(662) 420-7823,34.9633768,-89.8993769
+9448509,"Midwest Travel Plaza - Cuba, MO",5922 Highway 19,Cuba,65453,MO,https://store.tcby.com/home/,(573) 885-3229,38.0759238,-91.4095403
+9263801,McCook Subway,216 Westview Plaza,Mc Cook,69001,NE,https://store.tcby.com/home/mccooksubway,(308) 345-2322,40.2021386,-100.6462224
+9426601,Omaha - West Maple,14615 W Maple Rd,Omaha,68116,NE,https://store.tcby.com/home/omaha-westmaple,(402) 496-3981,41.29134,-96.142233
+9075055,McCarran International Airport- Terminal D,South Gate 5795 Paradise Rd. Terminal D,Las Vegas,89111,NV,https://store.tcby.com/home/mccarraninternationalairport,(702) 837-8654,36.1483132,-115.1951131
+9106038,McCarran International Airport - Terminal B,5795 Paradise Rd. Terminal B,Las Vegas,89119,NV,https://store.tcby.com/home/mccarraninternationalairport-3,(702) 798-3303,35.9766942,-115.1411556
+9445601,The Galleria at Sunset Mall,1300 W Sunset Rd,Henderson,89014,NV,https://store.tcby.com/home/,(702) 547-6196,36.0673234,-115.0416159
+9447301,Fashion Show Mall,3200 Las Vegas Blvd. S. #3800,Las Vegas,89109,NV,https://store.tcby.com/home/fashionshowmall,(702) 904-7040,36.1273449,-115.1730984
+9391701,Poppy's Bagels,204 W Englewood Ave,Teaneck,07666,NJ,https://store.tcby.com/home/poppysbagels,(201) 862-0800,40.9013096,-74.0067943
+9446501,Bayonne,1053 Broadway,Bayonne,07002,NJ,https://store.tcby.com/home/,(201) 354-9272,40.6827807,-74.101078
+9449001,Crispin Square,230 N Maple Ave,Marlton,08053,NJ,https://store.tcby.com/home/crispinsquare,(856) 983-8229,39.9153025,-74.9279102
+9026303,NMSU Food Court,Williams & Frenger St,Las Cruces,88001,NM,https://store.tcby.com/home/nmsufoodcourt,(505) 646-4001,48.432044,-103.2923954
+9445501,Pinetree Square,2812 Sudderth Dr,Ruidoso,88345,NM,https://store.tcby.com/home/,(575) 257-7822,33.3340219,-105.6803382
+9132101,Jericho Turnpike,1955 Jericho Tpke,East Northport,11731,NY,https://store.tcby.com/home/jerichoturnpike,(631) 499-1007,40.8388872,-73.3307802
+9326601,Garden City,158 7th St,Garden City,11530,NY,https://store.tcby.com/home/gardencity,(516) 741-5132,40.7250563,-73.6351392
+9059015,Washington Avenue Plaza,10 Washington Ave Plaza,Plainview,11803,NY,https://store.tcby.com/home/washingtonavenueplaza,(516) 942-8229,40.7878718,-73.4633521
+9423002,Waterloo Premium Outlets,665 Route 318 A025B,Waterloo,13165,NY,https://store.tcby.com/home/waterloopremiumoutlets,(315) 539-2700,42.9047884,-76.8627367
+9443301,Philips Plaza,653 Sunrise Highway,Lynbrook,11563,NY,https://store.tcby.com/home/lynbrook,(516) 596-1994,40.6556833,-73.6769449
+9447101,Bellmore,2880 Merrick Road,Bellmore,11710,NY,https://store.tcby.com/home/bellmore,(516) 490-6900,40.6635841,-73.5195294
+9448511,Staten Island Mall,2655 Richmond Ave,Staten Island,10314,NY,https://store.tcby.com/home/statenislandmall,(718) 831-8229,40.5818414,-74.1668656
+9449401,Roosevelt Field Mall,630 Old Country Road  (K114C),Garden City,11530,NY,https://store.tcby.com/home/rooseveltfieldmall,(516) 695-1178,40.7383205,-73.61396
+9279301,Edgewood Drive Subway,1408 Edgewood Dr,Mt. Airy,27030,NC,https://store.tcby.com/home/edgewooddrivesubway,(336) 789-0800,36.474808,-80.619229
+9279302,Pine Street Subway,701 W Pine St,Mt. Airy,27030,NC,https://store.tcby.com/home/pinestreetsubway,(336) 789-0900,36.498681,-80.620842
+9150164,Charlotte Douglas Airport,5501 Josh Birmingham Pkwy Concourse C,Charlotte,28219,NC,https://store.tcby.com/home/charlottedouglasairport,(704) 359-4469,35.208999,-80.9394541
+9400502,Crabtree Valley Mall,4325 Glenwood Ave,Raleigh,27612,NC,https://store.tcby.com/home/,(919) 783-5702,35.8377024,-78.6758944
+9447801,Rosedale Commons,9334 Rose Commons Dr,Huntersville,28078,NC,https://store.tcby.com/home/rosedalecommons,(704) 947-9700,35.4074009,-80.8678581
+9448503,Colony Place,7731 Colony Rd,Charlotte,28226,NC,https://store.tcby.com/home/colonyplace,(704) 341-2000,35.1065191,-80.8073691
+7000007,Vending Machine - Sandusky Mall,4314 Milan Road,Sandusky,44870,OH,https://store.tcby.com/home/,(419) 624-8383,41.4179475,-82.6689345
+9390403,Monroeville Mall,200 Monroeville Mall A10,Monroeville,15146,PA,https://store.tcby.com/home/monroevillemall,(412) 372-6227,40.4289701,-79.7969543
+9244801,Charleroi Subway,407 McKean Ave,Charleroi,15022,PA,https://store.tcby.com/home/charleroisubway,(724) 483-9495,40.1375457,-79.8968742
+9047104,Sutton Place,7 Brendan Way,Greenville,29615,SC,https://store.tcby.com/home/suttonplace,(864) 297-5683,34.8552705,-82.3289536
+9297002,Sumter Texaco,2000 W Liberty St,Sumter,29153,SC,https://store.tcby.com/home/sumtertexaco,(803) 934-0708,33.9235879,-80.3193344
+9449502,The Corner at Westcott,9514 Dorchester Rd,North Charleston,29485,SC,https://store.tcby.com/home/,(843) 871-9955,32.9365086,-80.1423786
+9449503,South Windermere Shopping Cente,2 Windermere Blvd,Charleston,29407,SC,https://store.tcby.com/home/,(843) 312-0051,32.777072,-79.9741069
+9449507,Azalea Square,214 Azalea Square Blvd.,Summerville,29483,SC,https://store.tcby.com/home/,(843) 821-1591,33.0381476,-80.1572166
+9449506,Mount Pleasant Towne Center,1332 Theater Dr,Mount Pleasant,29464,SC,https://store.tcby.com/home/,(843) 884-8224,32.8300166,-79.8287332
+9178902,Knoxville,7406 Strawberry Plains Pike,Knoxville,37924,TN,https://store.tcby.com/home/knoxvillebp,(865) 933-2251,36.0051,-83.772297
+9178906,Powell,404 E Emory Rd,Powell,37849,TN,https://store.tcby.com/home/powellbp,(865) 947-0338,36.048995,-83.998428
+9178907,Lenoir City BP,1104 Hwy 321 N,Lenoir City,37771,TN,https://store.tcby.com/home/lenoircitybp,(865) 986-5110,35.8267195,-84.2777754
+9451000,Thornwood Shopping Center,1730 S. Germantown Road Suite 113,Germantown,38138,TN,https://store.tcby.com/home/thornwoodshoppingcenter,(901) 381-6200,35.1018605,-89.8048563
+9447401,Brookhaven Circle,5134 Poplar Ave,Memphis,38117,TN,https://store.tcby.com/home/brookhavencircle,(901) 761-4126,35.1107312,-89.8905125
+9447701,Wolf Chase,7990 US Hwy 64 STE 108,Barlett,38133,TN,https://store.tcby.com/home/wolfchase_TN,(901) 383-7994,35.2066446,-89.7959996
+9449302,Morristown,2330 Sandstone Dr,Morristown,37814,TN,https://store.tcby.com/home/morristown,(423) 587-6212,36.2082374,-83.3256578
+9427502,Clock Tower Square,1025 Cannon Dr,Dripping Springs,78620,TX,https://store.tcby.com/home/,(512) 894-2136,30.1950916,-98.0755841
+9307601,Martin Luther King Boulevard,303 W Martin L King Jr Blvd,Austin,78701,TX,https://store.tcby.com/home/martinlutherkingboulevard,(512) 320-8229,30.281213,-97.740795
+9174404,Lakewood Dallas,6402 East Mockingbird Lane,Dallas,75214,TX,https://store.tcby.com/home/lakewooddallas,(214) 821-5757,32.836123,-96.7525573
+9236802,University Center,709 W Santa Gertrudis Ave,Kingsville,78363,TX,https://store.tcby.com/home/kingsvillesubway,(361) 592-6200,27.5217335,-97.8777883
+9427501,Parkside Village,5701 W Slaughter Lane,Austin,78749,TX,https://store.tcby.com/home/parksidevillage,(512) 505-8229,30.2005716,-97.8690631
+9441401,Plaza Theater,123 West Mills Ave,El Paso,79901,TX,https://store.tcby.com/home/,(915) 533-8826,31.7589007,-106.4892743
+9436402,Irving Music Factory,370 West Las Colinas Blvd,Irving,75039,TX,https://store.tcby.com/home/,(214) 614-8958,32.8728131,-96.9435444
+9443201,Panther Creek Shopping Center,4775 W Panther Creek Dr,Woodlands,77381,TX,https://store.tcby.com/home/panthercreekshoppingcenter,(281) 419-8053,30.1679376,-95.5039865
+9443701,San Felipe,5884 San Felipe St,Houston,77057,TX,https://store.tcby.com/home/sanfelipe,(832) 742-5555,29.7504019,-95.4852217
+9446101,Memorial City Mall,303 Memorial City Mall,Houston,77024,TX,https://store.tcby.com/home/memorialcitymall,(832) 358-3447,29.7810466,-95.5407043
+9450000,Windermere Lakes Shopping Center,12149 FM 1960 Rd West,Houston,77065,TX,https://store.tcby.com/home/suncreekvillage,(281) 653-9141,29.92396,-95.59923
+9435401,Sugarhouse Center,2274 S 1300 E,Salt Lake City,84106,UT,https://store.tcby.com/home/sugarhouse,(801) 708-7005,40.7215046,-111.8568715
+9206901,Cockerham Food Mart  # 9,1115 E Stuart Dr,Galax,24333,VA,https://store.tcby.com/home/cockerhamsfoodmartbp9,(276) 236-3036,36.6909849,-80.8808131
+9206902,Pizza Inn - Hillsville,49 Farmers Market Dr,Hillsville,24343,VA,https://store.tcby.com/home/hillsvillepizzainn,(276) 728-2799,36.7348555,-80.7674081
+9437001,North City Plaza Subway,18002 15th Ave Northeast,Shoreline,98155,WA,https://store.tcby.com/home/,(206) 306-0933,47.7595213,-122.313198
+9448301,Scott Way TCBY,42 Scott Way,Hurricane,25526,WV,https://store.tcby.com/home/,(304) 757-8220,38.4523029,-81.9390108
+9435701,Southridge Mall TCBY,5300 S 76th St,Greendale,53129,WI,https://store.tcby.com/home/southridgemalltcby,(414) 421-8849,42.9489856,-88.0078198
+9404502,Frontier Mall,1400 Del Range Blvd,Cheyenne,82009,WY,https://store.tcby.com/home/frontiermall,(307) 637-5547,41.161994,-104.807352
