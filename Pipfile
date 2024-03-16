@@ -30,6 +30,8 @@ matplotlib = '3.2.0'
 plotly = "*"
 cartopy = "*"
 twarc = "*"
+jupyter-black = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.9"

@@ -21,6 +21,8 @@ twitter/data/raw/
 cnn/
 trump-tweets/twarc.log
 elon/twarc.log
+personal/
+personal
 
 git rm --cached .DS_Store
 
