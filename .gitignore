@@ -23,6 +23,7 @@ trump-tweets/twarc.log
 elon/twarc.log
 personal/
 personal
+hey-dude/shoe_images/
 
 git rm --cached .DS_Store
 
