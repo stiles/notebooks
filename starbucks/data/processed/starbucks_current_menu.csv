@@ -1,0 +1,258 @@
+main_category,sub_category,category_detail,product_name,product_form,display_order,product_number,product_type,path,sizes
+Drinks,Oleato™,,Oleato Golden Foam™ Iced Shaken Espresso with Toffeenut,Iced,1,2123803,Beverage,/product/2123803/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Oleato™,,Oleato™ Caffé Latte with Oatmilk,Hot,4,2123744,Beverage,/product/2123744/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Oleato™,,Iced Chai Tea Latte with Oleato Golden Foam™,Iced,6,2123780,Beverage,/product/2123780/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Oleato™,,Iced Matcha Tea Latte with Oleato Golden Foam™,Iced,7,2123781,Beverage,/product/2123781/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Oleato™,,Paradise Drink Starbucks Refreshers® Beverage with Oleato Golden Foam™,Iced,8,2123779,Beverage,/product/2123779/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Oleato™,,Dragon Drink® Starbucks Refreshers® Beverage with Oleato Golden Foam™,Iced,9,2123782,Beverage,/product/2123782/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Hot Coffees,Americanos,Caffè Americano,Hot,1,406,Beverage,/product/406/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Featured Blonde Roast,Hot,1,873068625,Beverage,/product/873068625/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Featured Medium Roast Pike Place® Roast,Hot,2,480,Beverage,/product/480/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Featured Dark Roast,Hot,3,479,Beverage,/product/479/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Featured Decaf Roast Decaf Pike Place® Roast,Hot,4,481,Beverage,/product/481/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Veranda Blend® Clover Vertica™,Hot,5,2123770,Beverage,/product/2123770/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Featured Medium Roast Pike Place® Roast,Hot,6,2123738,Beverage,/product/2123738/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Featured Dark Roast Caffè Verona®,Hot,7,2123740,Beverage,/product/2123740/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Clover Vertica Starbucks Reserve® Sun-Dried Ethiopia Kayon Mountain Farm,Hot,9,2123811,Beverage,/product/2123811/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Clover Vertica Anniversary Blend,Hot,10,2123826,Beverage,/product/2123826/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Featured Decaf Roast Decaf Pike Place® Roast,Hot,11,2123739,Beverage,/product/2123739/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Caffè Misto,Hot,12,478,Beverage,/product/478/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Sun-Dried Ethiopia Kayon Mountain Farm Clover® Starbucks Reserve®,Hot,13,2122576,Beverage,/product/2122576/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Clover® Malawi Sable Farms Starbucks Reserve®,Hot,14,2121958,Beverage,/product/2121958/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Clover® Starbucks Reserve® Vietnam Da Lat,Hot,14,2121563,Beverage,/product/2121563/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Brewed Coffees,Guatemala Huehuetenango Clover® Starbucks Reserve®,Hot,16,2123363,Beverage,/product/2123363/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Cappuccinos,Cappuccino,Hot,1,409,Beverage,/product/409/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Espresso Shots,Espresso,Hot,2,410,Beverage,/product/410/hot,"['Single', 'Double', 'Triple', 'Quad']"
+Drinks,Hot Coffees,Espresso Shots,Espresso Con Panna,Hot,3,411,Beverage,/product/411/hot,"['Single', 'Double', 'Triple', 'Quad']"
+Drinks,Hot Coffees,Flat Whites,Flat White,Hot,1,565,Beverage,/product/565/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Flat Whites,Honey Almondmilk Flat White,Hot,4,2123158,Beverage,/product/2123158/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Lattes,Lavender Oatmilk Latte,Hot,1,2123829,Beverage,/product/2123829/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Lattes,Pistachio Latte,Hot,2,2123404,Beverage,/product/2123404/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Lattes,Oleato™ Caffé Latte with Oatmilk,Hot,7,2123744,Beverage,/product/2123744/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Lattes,Caffè Latte,Hot,40,407,Beverage,/product/407/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Lattes,Cinnamon Dolce Latte,Hot,44,414,Beverage,/product/414/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Lattes,Starbucks® Blonde Vanilla Latte,Hot,49,2122164,Beverage,/product/2122164/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Macchiatos,Caramel Macchiato,Hot,9,413,Beverage,/product/413/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Macchiatos,Espresso Macchiato,Hot,12,412,Beverage,/product/412/hot,"['Single', 'Double', 'Triple', 'Quad']"
+Drinks,Hot Coffees,Mochas,Caffè Mocha,Hot,17,408,Beverage,/product/408/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Mochas,White Chocolate Mocha,Hot,23,420,Beverage,/product/420/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Coffees,Coffee Travelers,Coffee Traveler - Veranda Blend®,Hot,1,873068654,Beverage,/product/873068654/hot,['Short']
+Drinks,Hot Coffees,Coffee Travelers,Coffee Traveler - Dark Roast,Hot,2,873068656,Beverage,/product/873068656/hot,['Short']
+Drinks,Hot Coffees,Coffee Travelers,Coffee Traveler - Pike Place® Roast,Hot,3,873068655,Beverage,/product/873068655/hot,['Short']
+Drinks,Hot Coffees,Coffee Travelers,Coffee Traveler - Decaf Pike Place® Roast,Hot,4,873068657,Beverage,/product/873068657/hot,['Short']
+Drinks,Hot Teas,Chai Teas,Chai Tea Latte,Hot,3,466,Beverage,/product/466/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Chai Teas,Chai Tea,Hot,6,2122273,Beverage,/product/2122273/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Black Teas,Earl Grey Tea,Hot,1,450,Beverage,/product/450/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Black Teas,Teavana® London Fog Tea Latte,Hot,3,477,Beverage,/product/477/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Black Teas,Royal English Breakfast Tea,Hot,4,446,Beverage,/product/446/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Black Teas,Royal English Breakfast Tea Latte,Hot,5,465,Beverage,/product/465/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Green Teas,Emperor’s Clouds & Mist®,Hot,1,873068751,Beverage,/product/873068751/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Green Teas,Matcha Tea Latte,Hot,2,468,Beverage,/product/468/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Green Teas,Honey Citrus Mint Tea,Hot,3,2122274,Beverage,/product/2122274/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Teas,Herbal Teas,Mint Majesty®,Hot,1,873068754,Beverage,/product/873068754/hot,"['Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Drinks,Hot Chocolates,Hot Chocolate,Hot,12,471,Beverage,/product/471/hot,"['Kids', 'Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Drinks,Hot Chocolates,White Hot Chocolate,Hot,20,472,Beverage,/product/472/hot,"['Kids', 'Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Drinks,Juice,Caramel Apple Spice,Hot,1,475,Beverage,/product/475/hot,"['Kids', 'Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Drinks,Juice,Steamed Apple Juice,Hot,2,489,Beverage,/product/489/hot,"['Kids', 'Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Drinks,Steamers,Pistachio Crème,Hot,1,2123366,Beverage,/product/2123366/hot,"['Kids', 'Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Drinks,Steamers,Steamed Milk,Hot,27,747,Beverage,/product/747/hot,"['Kids', 'Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Hot Drinks,Steamers,Vanilla Crème,Hot,28,873068652,Beverage,/product/873068652/hot,"['Kids', 'Short', 'Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Pistachio Frappuccino® Blended Beverage,Iced,1,2123364,Beverage,/product/2123364/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Mocha Cookie Crumble Frappuccino®,Iced,20,956,Beverage,/product/956/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Caramel Ribbon Crunch Frappuccino® Blended Beverage,Iced,29,1044,Beverage,/product/1044/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Espresso Frappuccino® Blended Beverage,Iced,30,500,Beverage,/product/500/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Caffè Vanilla Frappuccino® Blended Beverage,Iced,31,423,Beverage,/product/423/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Caramel Frappuccino® Blended Beverage,Iced,31,424,Beverage,/product/424/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Coffee Frappuccino® Blended Beverage,Iced,31,483,Beverage,/product/483/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Mocha Frappuccino® Blended Beverage,Iced,33,426,Beverage,/product/426/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,Java Chip Frappuccino® Blended Beverage,Iced,63,425,Beverage,/product/425/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Coffee Frappuccino®,White Chocolate Mocha Frappuccino® Blended Beverage,Iced,78,428,Beverage,/product/428/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Lavender Crème Frappuccino® Blended Beverage,Iced,2,2123827,Beverage,/product/2123827/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Pistachio Crème Frappuccino® Blended Beverage,Iced,4,2123365,Beverage,/product/2123365/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Chocolate Cookie Crumble Crème Frappuccino®,Iced,10,957,Beverage,/product/957/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage,Iced,11,1062,Beverage,/product/1062/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Strawberry Crème Frappuccino® Blended Beverage,Iced,12,2122724,Beverage,/product/2122724/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Chai Crème Frappuccino®,Iced,13,438,Beverage,/product/438/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Iced,14,435,Beverage,/product/435/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Matcha Crème Frappuccino® Blended Beverage,Iced,15,439,Beverage,/product/439/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,Vanilla Bean Crème Frappuccino® Blended Crème,Iced,16,440,Beverage,/product/440/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Frappuccino® Blended Beverages,Creme Frappuccino®,White Chocolate Crème Frappuccino® Blended Beverage,Iced,17,441,Beverage,/product/441/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Cold Brews,Pistachio Cream Cold Brew,Iced,2,2123702,Beverage,/product/2123702/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Cold Brews,Cinnamon Caramel Cream Cold Brew,Iced,3,2123736,Beverage,/product/2123736/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Cold Brews,Salted Caramel Cream Cold Brew,Iced,4,2122795,Beverage,/product/2122795/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Cold Brews,Chocolate Cream Cold Brew,Iced,6,2123644,Beverage,/product/2123644/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Cold Brews,Starbucks® Cold Brew Coffee,Iced,8,2121255,Beverage,/product/2121255/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Cold Brews,Vanilla Sweet Cream Cold Brew,Iced,9,2121859,Beverage,/product/2121859/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Cold Brews,Starbucks® Cold Brew Coffee with Milk,Iced,10,2121343,Beverage,/product/2121343/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Nitro Cold Brews,Cinnamon Caramel Cream Nitro Cold Brew,Iced,1,2123734,Beverage,/product/2123734/iced,"['Tall', 'Grande']"
+Drinks,Cold Coffees,Nitro Cold Brews,Nitro Cold Brew,Iced,12,2121912,Beverage,/product/2121912/iced,"['Tall', 'Grande']"
+Drinks,Cold Coffees,Nitro Cold Brews,Vanilla Sweet Cream Nitro Cold Brew,Iced,13,2122237,Beverage,/product/2122237/iced,"['Tall', 'Grande']"
+Drinks,Cold Coffees,Iced Americano,Iced Caffè Americano,Iced,1,406,Beverage,/product/406/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Coffees,Iced Coffee,Iced,1,422,Beverage,/product/422/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Iced Coffees,Iced Coffee with Milk,Iced,2,482,Beverage,/product/482/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Coffees,Iced Coffees,Iced Espresso,Iced,4,410,Beverage,/product/410/iced,"['Single', 'Double', 'Triple', 'Quad']"
+Drinks,Cold Coffees,Iced Shaken Espresso,Iced Hazelnut Oatmilk Shaken Espresso,Iced,1,2123805,Beverage,/product/2123805/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Shaken Espresso,Iced Brown Sugar Oatmilk Shaken Espresso,Iced,6,2123431,Beverage,/product/2123431/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Shaken Espresso,Iced Shaken Espresso,Iced,7,2123425,Beverage,/product/2123425/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Flat Whites,Iced Flat White,Iced,2,565,Beverage,/product/565/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Flat Whites,Iced Honey Almondmilk Flat White,Iced,5,2123158,Beverage,/product/2123158/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Lattes,Iced Lavender Oatmilk Latte,Iced,1,2123828,Beverage,/product/2123828/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Lattes,Iced Pistachio Latte,Iced,2,2123404,Beverage,/product/2123404/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Lattes,Iced Caffè Latte,Iced,42,407,Beverage,/product/407/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Lattes,Iced Cinnamon Dolce Latte,Iced,45,414,Beverage,/product/414/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Lattes,Iced Starbucks® Blonde Vanilla Latte,Iced,50,2122164,Beverage,/product/2122164/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Macchiatos,Iced Caramel Macchiato,Iced,10,413,Beverage,/product/413/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Mochas,Iced White Chocolate Mocha,Iced,5,420,Beverage,/product/420/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Coffees,Iced Mochas,Iced Caffè Mocha,Iced,18,408,Beverage,/product/408/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Iced Teas,Iced Black Teas,Iced Black Tea,Iced,9,457,Beverage,/product/457/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Iced Black Teas,Iced Black Tea Lemonade,Iced,10,458,Beverage,/product/458/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Iced Black Teas,Iced Royal English Breakfast Tea Latte,Iced,14,465,Beverage,/product/465/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Iced Teas,Iced Black Teas,Iced London Fog Tea Latte,Iced,16,477,Beverage,/product/477/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Iced Teas,Iced Chai Teas,Iced Chai Tea Latte,Iced,5,466,Beverage,/product/466/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Iced Teas,Iced Green Teas,Iced Lavender Cream Oatmilk Matcha,Iced,1,2123825,Beverage,/product/2123825/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Iced Teas,Iced Green Teas,Iced Peach Green Tea,Iced,2,2123077,Beverage,/product/2123077/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Iced Green Teas,Iced Peach Green Tea Lemonade,Iced,3,2123074,Beverage,/product/2123074/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Iced Green Teas,Iced Matcha Tea Latte,Iced,4,468,Beverage,/product/468/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Iced Teas,Iced Green Teas,Iced Green Tea,Iced,5,459,Beverage,/product/459/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Iced Green Teas,Iced Green Tea Lemonade,Iced,6,460,Beverage,/product/460/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Iced Green Teas,Iced Matcha Lemonade,Iced,7,2122376,Beverage,/product/2122376/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Iced Herbal Teas,Iced Passion Tango® Tea,Iced,4,461,Beverage,/product/461/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Iced Herbal Teas,Iced Passion Tango® Tea Lemonade,Iced,5,462,Beverage,/product/462/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Iced Teas,Bottled Teas,Teavana® Sparkling Unsweetened Peach Nectarine Green Tea,Packaged,1,2123465,Beverage,/product/2123465/packaged,['14.5-Packaged']
+Drinks,Iced Teas,Bottled Teas,Brew DR. Island Mango Kombucha,Packaged,3,2123778,Beverage,/product/2123778/packaged,['12-Packaged']
+Drinks,Iced Teas,Bottled Teas,Brew DR. Superberry Kombucha,Packaged,4,2123776,Beverage,/product/2123776/packaged,['12-Packaged']
+Drinks,Iced Teas,Bottled Teas,Teavana® Mango Black Tea,Packaged,6,2122247,Beverage,/product/2122247/packaged,['14.5-Packaged']
+Drinks,Cold Drinks,Starbucks Refreshers™,Frozen Pineapple Passionfruit Lemonade Starbucks Refreshers® Beverage,Iced,1,2123767,Beverage,/product/2123767/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Frozen Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Iced,2,2123766,Beverage,/product/2123766/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Frozen Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Iced,3,2123768,Beverage,/product/2123768/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Paradise Drink Starbucks Refreshers® Beverage,Iced,4,2123674,Beverage,/product/2123674/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Pineapple Passionfruit Starbucks Refreshers® Beverage,Iced,5,2123675,Beverage,/product/2123675/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Pineapple Passionfruit Lemonade Starbucks Refreshers® Beverage,Iced,6,2123676,Beverage,/product/2123676/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Pink Drink Starbucks Refreshers® Beverage,Iced,7,2122275,Beverage,/product/2122275/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Strawberry Açaí Starbucks Refreshers® Beverage,Iced,8,2121342,Beverage,/product/2121342/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Strawberry Açaí Lemonade Starbucks Refreshers® Beverage,Iced,9,2122677,Beverage,/product/2122677/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Dragon Drink® Starbucks Refreshers® Beverage,Iced,10,2122756,Beverage,/product/2122756/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Mango Dragonfruit Starbucks Refreshers® Beverage,Iced,11,2122725,Beverage,/product/2122725/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Starbucks Refreshers™,Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage,Iced,12,2122726,Beverage,/product/2122726/iced,"['Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Juice,Starbucks™ Baya Energy Mango Guava,Packaged,2,2123631,Beverage,/product/2123631/packaged,['12-Packaged']
+Drinks,Cold Drinks,Juice,Evolution Fresh® Organic Defense Up®,Packaged,5,2122702,Beverage,/product/2122702/packaged,['11-Packaged']
+Drinks,Cold Drinks,Juice,Evolution Fresh® Orange,Packaged,6,2122701,Beverage,/product/2122701/packaged,['11-Packaged']
+Drinks,Cold Drinks,Juice,Evolution Fresh® Organic Super Fruit Greens,Packaged,8,2122699,Beverage,/product/2122699/packaged,['11-Packaged']
+Drinks,Cold Drinks,Juice,Tree Top Apple Juice Box,Packaged,12,873068637,Beverage,/product/873068637/packaged,['8-Packaged']
+Drinks,Cold Drinks,Juice,Starbucks™ Baya Energy Raspberry Lime,Packaged,14,2123633,Beverage,/product/2123633/packaged,['12-Packaged']
+Drinks,Cold Drinks,Juice,Lemonade,Iced,20,873068639,Beverage,/product/873068639/iced,"['Kids', 'Tall', 'Grande', 'Venti', 'Trenta']"
+Drinks,Cold Drinks,Juice,Blended Strawberry Lemonade,Iced,22,873068641,Beverage,/product/873068641/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Drinks,Milk,Koia® Cacao Bean Protein Shake,Packaged,1,2123775,Beverage,/product/2123775/packaged,['12-Packaged']
+Drinks,Cold Drinks,Milk,Koia® Vanilla Bean Protein Shake,Packaged,2,2123777,Beverage,/product/2123777/packaged,['12-Packaged']
+Drinks,Cold Drinks,Milk,Horizon® Chocolate Organic Milk,Packaged,3,2121286,Beverage,/product/2121286/packaged,['8-Packaged']
+Drinks,Cold Drinks,Milk,Horizon® Organic Lowfat Milk Box,Packaged,4,2121281,Beverage,/product/2121281/packaged,['8-Packaged']
+Drinks,Cold Drinks,Milk,Cold Milk,Iced,6,490,Beverage,/product/490/iced,"['Tall', 'Grande', 'Venti']"
+Drinks,Cold Drinks,Sparkling Water,Spindrift® Grapefruit Sparkling Water,Packaged,5,2122640,Beverage,/product/2122640/packaged,['12-Packaged']
+Drinks,Cold Drinks,Sparkling Water,Spindrift® Raspberry Lime Sparkling Water,Packaged,6,2122638,Beverage,/product/2122638/packaged,['12-Packaged']
+Drinks,Cold Drinks,Water,DASANI Bottled Water,Packaged,1,2123597,Beverage,/product/2123597/packaged,['20-Packaged']
+Drinks,Cold Drinks,Water,Ethos® Bottled Water,Packaged,2,873068636,Beverage,/product/873068636/packaged,['23.7-Packaged']
+Drinks,Cold Drinks,Water,Hawai'i Volcanic Water,Packaged,3,2123023,Beverage,/product/2123023/packaged,['600-Packaged']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,"Chicken, Maple Butter & Egg Sandwich",Single,1,2123672,Food,/product/2123672/single,['1 Piece']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,"Bacon, Sausage & Egg Wrap",Single,2,2123181,Food,/product/2123181/single,['1 Piece']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,Impossible™ Breakfast Sandwich,Single,4,2123236,Food,/product/2123236/single,['1 Piece']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,"Bacon, Gouda & Egg Sandwich",Single,11,369,Food,/product/369/single,['1 Piece']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,"Double-Smoked Bacon, Cheddar & Egg Sandwich",Single,13,2121219,Food,/product/2121219/single,['1 Piece']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,"Turkey Bacon, Cheddar & Egg White Sandwich",Single,14,368,Food,/product/368/single,['1 Piece']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,"Sausage, Cheddar & Egg Sandwich",Single,15,367,Food,/product/367/single,['1 Piece']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,"Spinach, Feta & Egg White Wrap",Single,18,371,Food,/product/371/single,['1 Piece']
+Food,Hot Breakfast,Breakfast Sandwiches & Wraps,Avocado Spread,Single,20,2122257,Food,/product/2122257/single,['1 Piece']
+Food,Hot Breakfast,Bakes & Egg Bites,"Potato, Cheddar & Chive Bakes",Single,1,2123269,Food,/product/2123269/single,['1 Piece']
+Food,Hot Breakfast,Bakes & Egg Bites,Kale & Mushroom Egg Bites,Single,2,2123401,Food,/product/2123401/single,['1 Piece']
+Food,Hot Breakfast,Bakes & Egg Bites,Bacon & Gruyère Egg Bites,Single,5,2122116,Food,/product/2122116/single,['1 Piece']
+Food,Hot Breakfast,Bakes & Egg Bites,Egg White & Roasted Red Pepper Egg Bites,Single,6,2122117,Food,/product/2122117/single,['1 Piece']
+Food,Oatmeal & Yogurt,,Rolled & Steel-Cut Oatmeal,Single,3,301,Food,/product/301/single,['1 Piece']
+Food,Oatmeal & Yogurt,,Berry Trio Parfait,Single,5,2122192,Food,/product/2122192/single,['1 Piece']
+Food,Bakery,Bagels,Plain Bagel,Single,2,321,Food,/product/321/single,['1 Piece']
+Food,Bakery,Bagels,Everything Bagel,Single,6,324,Food,/product/324/single,['1 Piece']
+Food,Bakery,Bagels,Avocado Spread,Single,12,2122257,Food,/product/2122257/single,['1 Piece']
+Food,Bakery,Cake Pops,Cookies & Cream Cake Pop,Single,8,2123657,Food,/product/2123657/single,['1 Piece']
+Food,Bakery,Cake Pops,Birthday Cake Pop,Single,33,784,Food,/product/784/single,['1 Piece']
+Food,Bakery,Cake Pops,Chocolate Cake Pop,Single,37,1015,Food,/product/1015/single,['1 Piece']
+Food,Bakery,"Cookies, Brownies & Bars",Double Chocolate Brownie,Single,8,1130,Food,/product/1130/single,['1 Piece']
+Food,Bakery,"Cookies, Brownies & Bars",Chocolate Chip Cookie,Single,15,2122714,Food,/product/2122714/single,['1 Piece']
+Food,Bakery,"Cookies, Brownies & Bars",Marshmallow Dream Bar,Single,15,309,Food,/product/309/single,['1 Piece']
+Food,Bakery,Croissants,Ham & Swiss Croissant,Single,3,2122132,Food,/product/2122132/single,['1 Piece']
+Food,Bakery,Croissants,Butter Croissant,Single,4,1033,Food,/product/1033/single,['1 Piece']
+Food,Bakery,Croissants,Chocolate Croissant,Single,9,1028,Food,/product/1028/single,['1 Piece']
+Food,Bakery,"Loaves, Cakes & Buns",Cinnamon Coffee Cake,Single,7,1021,Food,/product/1021/single,['1 Piece']
+Food,Bakery,"Loaves, Cakes & Buns",Iced Lemon Loaf,Single,8,1254,Food,/product/1254/single,['1 Piece']
+Food,Bakery,"Loaves, Cakes & Buns",Pumpkin & Pepita Loaf,Single,9,1255,Food,/product/1255/single,['1 Piece']
+Food,Bakery,"Loaves, Cakes & Buns",Banana Walnut & Pecan Loaf,Single,10,1256,Food,/product/1256/single,['1 Piece']
+Food,Bakery,Danishes & Doughnuts,Vanilla Bean Custard Danish,Single,1,2123800,Food,/product/2123800/single,['1 Piece']
+Food,Bakery,Danishes & Doughnuts,Cheese Danish,Single,6,1040,Food,/product/1040/single,['1 Piece']
+Food,Bakery,Danishes & Doughnuts,Glazed Doughnut,Single,6,311,Food,/product/311/single,['1 Piece']
+Food,Bakery,Muffins & Scones,Blueberry Scone,Single,10,1041,Food,/product/1041/single,['1 Piece']
+Food,Bakery,Muffins & Scones,Petite Vanilla Bean Scone,Single,12,317,Food,/product/317/single,['1 Piece']
+Food,Bakery,Muffins & Scones,Blueberry Muffin,Single,14,1036,Food,/product/1036/single,['1 Piece']
+Food,Lunch,Warm Sandwiches,Crispy Grilled Cheese on Sourdough,Single,2,2123039,Food,/product/2123039/single,['1 Piece']
+Food,Lunch,Warm Sandwiches,Ham & Swiss on Baguette,Single,4,574,Food,/product/574/single,['1 Piece']
+Food,Lunch,Warm Sandwiches,"Turkey, Provolone & Pesto on Ciabatta",Single,9,2121962,Food,/product/2121962/single,['1 Piece']
+Food,Lunch,Warm Sandwiches,Tomato & Mozzarella on Focaccia,Single,19,573,Food,/product/573/single,['1 Piece']
+Food,Lunch,Warm Sandwiches,Avocado Spread,Single,25,2122257,Food,/product/2122257/single,['1 Piece']
+Food,Lunch,Protein Boxes,Eggs & Gouda Protein Box,Single,1,2123221,Food,/product/2123221/single,['1 Piece']
+Food,Lunch,Protein Boxes,Cheese Trio Protein Box,Single,2,2123222,Food,/product/2123222/single,['1 Piece']
+Food,Lunch,Protein Boxes,Cheddar & Uncured Salami Protein Box,Single,3,2123223,Food,/product/2123223/single,['1 Piece']
+Food,Lunch,Protein Boxes,Eggs & Cheddar Protein Box,Single,6,2122248,Food,/product/2122248/single,['1 Piece']
+Food,Lunch,Protein Boxes,PB&J Protein Box,Single,7,2122250,Food,/product/2122250/single,['1 Piece']
+Food,Lunch,Protein Boxes,Cheese & Fruit Protein Box,Single,8,2122249,Food,/product/2122249/single,['1 Piece']
+Food,Snacks & Sweets,Biscotti & Cookies,Madeleines,Single,19,2121740,Food,/product/2121740/single,['1 Piece']
+Food,Snacks & Sweets,Biscotti & Cookies,Vanilla Biscotti with Almonds,Single,21,2121411,Food,/product/2121411/single,['1 Piece']
+Food,Snacks & Sweets,Biscotti & Cookies,Shortbread Cookies,Single,22,2121410,Food,/product/2121410/single,['1 Piece']
+Food,Snacks & Sweets,Biscotti & Cookies,Rip van Wafels – Honey & Oats,Single,26,2121699,Food,/product/2121699/single,['1 Piece']
+Food,Snacks & Sweets,Chocolates & Candy,Salted Almond Chocolate Bites,Single,32,2122093,Food,/product/2122093/single,['1 Piece']
+Food,Snacks & Sweets,Chocolates & Candy,Dark Chocolate Covered Espresso Beans,Single,43,2122119,Food,/product/2122119/single,['1 Piece']
+Food,Snacks & Sweets,Chocolates & Candy,Dark Chocolate Peanut Butter Cups,Single,44,2121686,Food,/product/2121686/single,['1 Piece']
+Food,Snacks & Sweets,Fruit & Nuts,SkinnyDipped Dark Chocolate Cocoa Almonds,Single,3,2123823,Food,/product/2123823/single,['1 Piece']
+Food,Snacks & Sweets,Fruit & Nuts,SkinnyDipped Lemon Bliss Almonds,Single,4,2123820,Food,/product/2123820/single,['1 Piece']
+Food,Snacks & Sweets,Fruit & Nuts,Squirrel Brand® Fruit & Nut,Single,11,2121816,Food,/product/2121816/single,['1 Piece']
+Food,Snacks & Sweets,Fruit & Nuts,Peter Rabbit™ Organics Strawberry Banana,Single,18,2121692,Food,/product/2121692/single,['1 Piece']
+Food,Snacks & Sweets,Gum & Mints,Spearmint Gum,Single,1,2123299,Food,/product/2123299/single,['1 Piece']
+Food,Snacks & Sweets,Popcorn & Chips,Siete Sea Salt Kettle Cooked Potato Chips,Single,3,2123819,Food,/product/2123819/single,['1 Piece']
+Food,Snacks & Sweets,Popcorn & Chips,Siete Lime Grain Free Tortilla Chips,Single,4,2123822,Food,/product/2123822/single,['1 Piece']
+Food,Snacks & Sweets,Popcorn & Chips,Starbucks Butter Popcorn,Single,8,2121689,Food,/product/2121689/single,['1 Piece']
+Food,Snacks & Sweets,Popcorn & Chips,Perfectly Salted Chips,Single,23,2121813,Food,/product/2121813/single,['1 Piece']
+Food,Snacks & Sweets,Meat & Cheese,Country Archer - Hickory Smoked Turkey Jerkey,Single,2,2122004,Food,/product/2122004/single,['1 Piece']
+Food,Snacks & Sweets,Meat & Cheese,String Cheese,Single,7,2122033,Food,/product/2122033/single,['1 Piece']
+Food,Snacks & Sweets,Snack Bars,Perfect Bar® - Dark Chocolate Chip Peanut Butter,Single,1,2122867,Food,/product/2122867/single,['1 Piece']
+Food,Snacks & Sweets,Snack Bars,Perfect Bar® Peanut Butter,Single,2,2122631,Food,/product/2122631/single,['1 Piece']
+Food,Snacks & Sweets,Snack Bars,KIND - Almond Coconut Cashew Chai,Single,10,2121814,Food,/product/2121814/single,['1 Piece']
+Food,Snacks & Sweets,Snack Bars,KIND Peanut Butter Dark Chocolate Bar,Single,12,2121697,Food,/product/2121697/single,['1 Piece']
+Food,Snacks & Sweets,Snack Bars,KIND® Salted Caramel & Dark Chocolate Nut Bar,Single,13,2121815,Food,/product/2121815/single,['1 Piece']
+Food,Snacks & Sweets,Snack Bars,That's It® - Apple + Blueberry Bar,Single,14,2121694,Food,/product/2121694/single,['1 Piece']
+Food,Snacks & Sweets,Snack Bars,That's It® - Apple + Mango Bar,Single,15,2121693,Food,/product/2121693/single,['1 Piece']
+Food,Snacks & Sweets,Spreads,Avocado Spread,Single,3,2122257,Food,/product/2122257/single,['1 Piece']
+At Home Coffee,Whole Bean,Starbucks Reserve®,Sun-Dried Ethiopia Kayon Mountain Farm Starbucks Reserve®,Whole-Bean,6,2122178,Coffee,/product/2122178/whole-bean,['8.8-oz']
+At Home Coffee,Whole Bean,Starbucks Reserve®,Guatemala Huehuetenango Starbucks Reserve®,Whole-Bean,8,2122439,Coffee,/product/2122439/whole-bean,"['1-lb', '8.8-oz']"
+At Home Coffee,Whole Bean,Blonde Roast,Starbucks® Green Apron Blend™,Whole-Bean,1,2123755,Coffee,/product/2123755/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Blonde Roast,Veranda Blend®,Whole-Bean,3,860,Coffee,/product/860/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Blonde Roast,Starbucks® Blonde Espresso Roast,Whole-Bean,6,2122186,Coffee,/product/2122186/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Medium Roast,Starbucks Odyssey Blend® 2024,Whole-Bean,1,2123467,Coffee,/product/2123467/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Medium Roast,Starbucks Tribute Blend® 2024,Whole-Bean,8,792,Coffee,/product/792/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Medium Roast,Starbucks Siren’s Blend™,Whole-Bean,14,2123124,Coffee,/product/2123124/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Medium Roast,Guatemala Antigua,Whole-Bean,27,3,Coffee,/product/3/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Medium Roast,Pike Place® Roast,Whole-Bean,31,24,Coffee,/product/24/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Medium Roast,Organic Yukon Blend®,Whole-Bean,33,290,Coffee,/product/290/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Dark Roast,Starbucks® Anniversary Blend 2024,Whole-Bean,1,104,Coffee,/product/104/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Dark Roast,Decaf Sumatra,Whole-Bean,20,581,Coffee,/product/581/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Dark Roast,Caffè Verona®,Whole-Bean,29,15,Coffee,/product/15/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Dark Roast,Espresso Roast,Whole-Bean,30,20,Coffee,/product/20/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Dark Roast,Italian Roast,Whole-Bean,35,23,Coffee,/product/23/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Dark Roast,Komodo Dragon Blend®,Whole-Bean,37,10,Coffee,/product/10/whole-bean,['1-lb']
+At Home Coffee,Whole Bean,Dark Roast,Sumatra,Whole-Bean,38,8,Coffee,/product/8/whole-bean,['1-lb']
+At Home Coffee,VIA® Instant,Flavored,VIA® Sweetened Iced Coffee,VIA,3,810,Coffee,/product/810/via,['5-count']
+At Home Coffee,VIA® Instant,Blonde Roast,VIA® Veranda Blend™,VIA,1,860,Coffee,/product/860/via,['12-count']
+At Home Coffee,VIA® Instant,Medium Roast,Starbucks VIA® Instant Pike Place® Roast,VIA,2,24,Coffee,/product/24/via,['12-count']
+At Home Coffee,VIA® Instant,Dark Roast,VIA® Italian Roast,VIA,5,23,Coffee,/product/23/via,['12-count']
+At Home Coffee,VIA® Instant,Dark Roast,VIA® Decaf Italian Roast,VIA,6,868,Coffee,/product/868/via,['12-count']
+Merchandise,Cold Cups,,Plastic Reusable Cold Cup with Lid & Straw - 24 fl oz,Single,2,2123336,Food,/product/2123336/single,['1 Piece']
+Merchandise,Cold Cups,,Siren Logo Plastic Cold Cup - 24 fl oz,Single,12,2123607,Food,/product/2123607/single,['1 Piece']
+Merchandise,Tumblers,,Siren Logo Plastic Hot Cup - 16 fl oz,Single,5,2123291,Food,/product/2123291/single,['1 Piece']
+Merchandise,Mugs,,Glass Mug - 16 fl oz,Single,3,2123713,Food,/product/2123713/single,['1 Piece']
+Merchandise,Other,,French Press,Single,1,2123710,Food,/product/2123710/single,['1 Piece']
+Merchandise,Other,,Pour Over,Single,2,2123718,Food,/product/2123718/single,['1 Piece']
+Merchandise,Other,,Small Shopping Bag,Single,3,2121746,Food,/product/2121746/single,['1 Piece']

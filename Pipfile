@@ -32,6 +32,11 @@ cartopy = "*"
 twarc = "*"
 jupyter-black = "*"
 seaborn = "*"
+tikapi = "*"
+flatten-json = "*"
+statsmodels = "*"
+holoviews = "*"
+hvplot = "*"
 
 [requires]
 python_version = "3.9"
