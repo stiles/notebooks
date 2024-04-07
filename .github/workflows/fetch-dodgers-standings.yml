@@ -34,7 +34,7 @@ jobs:
         AWS_PERSONAL_PROFILE: ${{ secrets.AWS_PERSONAL_PROFILE }}
         AWS_ACCESS_KEY_ID: ${{ secrets.HAEKEO_AWS_KEY }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.HAEKEO_AWS_SECRET }}
-      run: python fetch_data.py
+      run: python dodgers/fetch_data.py
 
     - name: Configure Git
       run: |
