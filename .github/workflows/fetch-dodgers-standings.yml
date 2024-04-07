@@ -3,6 +3,7 @@ name: Update Dodgers standings
 on:
   schedule:
     - cron: '0 11,22 * * *'  # Runs at 4am and 3 pm PST each daily
+  workflow_dispatch:
 
 jobs:
   update_standings:
