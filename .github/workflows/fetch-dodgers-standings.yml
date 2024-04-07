@@ -1,0 +1,45 @@
+name: Update Dodgers standings
+
+on:
+  schedule:
+    - cron: '0 11,22 * * *'  # Runs at 4am and 3 pm PST each daily
+
+jobs:
+  update_standings:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests beautifulsoup4 boto3
+    
+    - name: Run script
+      env:
+        AWS_PERSONAL_PROFILE: ${{ secrets.AWS_PERSONAL_PROFILE }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.HAEKEO_AWS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HAEKEO_AWS_SECRET }}
+      run: python fetch_data.py
+
+    - name: Configure Git
+      run: |
+        git config --global user.name 'Matt Stiles'
+        git config --global user.email 'haekeostiles@gmail.com'
+    
+    - name: Commit updated files
+      run: |
+        git add data/processed/*
+        git commit -m "Automated update of Dodgers standings data"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: 'main'
