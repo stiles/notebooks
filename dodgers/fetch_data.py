@@ -15,7 +15,7 @@ import boto3
 # Configuration
 year = 2024
 url = f"https://www.baseball-reference.com/teams/LAD/{year}-schedule-scores.shtml"
-output_dir = "data/processed"
+output_dir = "dodgers/data/processed"
 csv_file = f"{output_dir}/dodgers_standings_1958_present.csv"
 json_file = f"{output_dir}/dodgers_standings_1958_present.json"
 parquet_file = f"{output_dir}/dodgers_standings_1958_present.parquet"
