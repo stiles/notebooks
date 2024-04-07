@@ -15,6 +15,13 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.8'
+
+    - name: Set up AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.HAEKEO_AWS_KEY }}
+        aws-secret-access-key: ${{ secrets.HAEKEO_AWS_SECRET }}
+        aws-region: your-aws-region-here
         
     - name: Install dependencies
       run: |
