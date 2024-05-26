@@ -37,6 +37,10 @@ flatten-json = "*"
 statsmodels = "*"
 holoviews = "*"
 hvplot = "*"
+librosa = "*"
+pydub = "*"
+spotipy = "*"
+google-api-python-client = "*"
 
 [requires]
 python_version = "3.9"

@@ -1,6 +1,9 @@
 twitter-scraper/input/
 locations/_reference/
 wells/input/
+asian-americans/data/raw/
+generations/data/raw/
+esri-rest-services/data/raw/
 swarm/keys.py
 youtube/creds.py
 elon/data/raw/
