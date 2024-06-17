@@ -32,7 +32,7 @@ Thelma,F,7814
 Edith,F,7773
 Jean,F,7714
 Hazel,F,7308
-Annie,F,7269
+Annie,F,7268
 Pauline,F,7180
 Grace,F,7172
 Lois,F,6560
@@ -861,7 +861,6 @@ Francine,F,71
 Kattie,F,71
 Lilyan,F,71
 Maryellen,F,71
-Palma,F,71
 Santa,F,71
 Bridget,F,70
 Doreen,F,70
@@ -869,6 +868,7 @@ Fairy,F,70
 Georgetta,F,70
 Lera,F,70
 Mariam,F,70
+Palma,F,70
 Alline,F,69
 Beaulah,F,69
 Dana,F,69
@@ -5793,7 +5793,7 @@ David,M,7444
 Clarence,M,7221
 Carl,M,7010
 Louis,M,6966
-Willie,M,6888
+Willie,M,6887
 Eugene,M,6866
 Earl,M,6533
 Roy,M,6355
@@ -5802,7 +5802,7 @@ Francis,M,6241
 Joe,M,6071
 Lawrence,M,5727
 Ernest,M,5566
-Leonard,M,5512
+Leonard,M,5511
 Warren,M,5492
 Stanley,M,5314
 Herbert,M,5249
@@ -6073,7 +6073,7 @@ Cleo,M,350
 Dallas,M,350
 Earle,M,349
 Joel,M,346
-Tommy,M,345
+Tommy,M,344
 Simon,M,342
 Clair,M,339
 Quentin,M,337
@@ -6218,7 +6218,7 @@ Alden,M,180
 Anderson,M,180
 Chris,M,180
 Elliott,M,180
-Gregory,M,180
+Gregory,M,179
 Raul,M,179
 Sydney,M,177
 Gale,M,176
@@ -6239,7 +6239,7 @@ Hobert,M,168
 Luke,M,166
 Riley,M,166
 Augustus,M,165
-Everette,M,165
+Everette,M,164
 Hoyt,M,164
 Olen,M,164
 Armando,M,162
