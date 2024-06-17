@@ -3064,10 +3064,10 @@ Karl,M,156
 Owen,M,156
 Bruce,M,155
 Forrest,M,152
-Juan,M,152
 Julian,M,152
 Perry,M,152
 Tommie,M,152
+Juan,M,151
 Dale,M,150
 Johnny,M,147
 Ervin,M,144

@@ -97,7 +97,7 @@ Bernice,F,702
 Lottie,F,690
 Sallie,F,676
 Nancy,F,673
-Betty,F,664
+Betty,F,665
 Hilda,F,663
 Theresa,F,659
 Lizzie,F,657
@@ -159,7 +159,7 @@ Flossie,F,368
 Estella,F,365
 Ola,F,352
 Matilda,F,348
-Barbara,F,339
+Barbara,F,338
 Sophie,F,338
 Alta,F,337
 Amy,F,335
@@ -294,7 +294,7 @@ Claudia,F,125
 Dessie,F,125
 Linda,F,125
 Marcella,F,125
-Phyllis,F,125
+Phyllis,F,124
 Lucinda,F,123
 Corinne,F,122
 Rosalie,F,121
@@ -2231,7 +2231,7 @@ Joseph,M,3714
 Frank,M,3477
 Edward,M,2720
 Henry,M,2606
-Thomas,M,2557
+Thomas,M,2556
 Walter,M,2298
 Harry,M,2272
 Willie,M,2113
