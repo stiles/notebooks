@@ -30,6 +30,18 @@ matplotlib = '3.2.0'
 plotly = "*"
 cartopy = "*"
 twarc = "*"
+jupyter-black = "*"
+seaborn = "*"
+tikapi = "*"
+flatten-json = "*"
+statsmodels = "*"
+holoviews = "*"
+hvplot = "*"
+librosa = "*"
+pydub = "*"
+spotipy = "*"
+google-api-python-client = "*"
+boto3 = "*"
 
 [requires]
 python_version = "3.9"
