@@ -1,0 +1,258 @@
+version,version_season,season_name,season,tribe,tribe_colour,tribe_status
+US,US01,Survivor: Borneo,1.0,Pagong,#FFFF05,Original
+US,US01,Survivor: Borneo,1.0,Rattana,#7CFC00,Merged
+US,US01,Survivor: Borneo,1.0,Tagi,#FF9900,Original
+US,US02,Survivor: The Australian Outback,2.0,Barramundi,#FF6600,Merged
+US,US02,Survivor: The Australian Outback,2.0,Kucha,#32CCFF,Original
+US,US02,Survivor: The Australian Outback,2.0,Ogakor,#A7FC00,Original
+US,US03,Survivor: Africa,3.0,Boran,#FFD700,Original
+US,US03,Survivor: Africa,3.0,Moto Maji,#00A693,Merged
+US,US03,Survivor: Africa,3.0,Samburu,#E41A2A,Original
+US,US04,Survivor: Marquesas,4.0,Maraamu,#DFFF00,Original
+US,US04,Survivor: Marquesas,4.0,Rotu,#99FFFF,Original
+US,US04,Survivor: Marquesas,4.0,Soliantu,#F400A1,Merged
+US,US05,Survivor: Thailand,5.0,Chuay Gahn,#FF321D,Original
+US,US05,Survivor: Thailand,5.0,Chuay Jai,#FFAA00,Merged
+US,US05,Survivor: Thailand,5.0,Sook Jai,#7515D4,Original
+US,US06,Survivor: The Amazon,6.0,Jaburu,#FFF71B,Original
+US,US06,Survivor: The Amazon,6.0,Jacare,#FF1D1D,Merged
+US,US06,Survivor: The Amazon,6.0,Tambaqui,#3366FF,Original
+US,US07,Survivor: Pearl Islands,7.0,Balboa,#000000,Merged
+US,US07,Survivor: Pearl Islands,7.0,Drake,#87CEEB,Original
+US,US07,Survivor: Pearl Islands,7.0,Morgan,#F88E17,Original
+US,US07,Survivor: Pearl Islands,7.0,The Outcasts,#9400D3,Swapped
+US,US08,Survivor: All-Stars,8.0,Chaboga Mogo,#290FB8,Merged
+US,US08,Survivor: All-Stars,8.0,Chapera,#BC0E16,Original
+US,US08,Survivor: All-Stars,8.0,Mogo Mogo,#2F663B,Original
+US,US08,Survivor: All-Stars,8.0,Saboga,#EFCC24,Original
+US,US09,Survivor: Vanuatu,9.0,Alinta,#F77613,Merged
+US,US09,Survivor: Vanuatu,9.0,Lopevi,#E21A1D,Original
+US,US09,Survivor: Vanuatu,9.0,Yasur,#F6F33C,Original
+US,US10,Survivor: Palau,10.0,Koror,#784937,Merged
+US,US10,Survivor: Palau,10.0,Koror,#784937,Original
+US,US10,Survivor: Palau,10.0,None,#BEBEBE,Original
+US,US10,Survivor: Palau,10.0,Ulong,#2840B4,Original
+US,US11,Survivor: Guatemala,11.0,Nakum,#FFDC4C,Original
+US,US11,Survivor: Guatemala,11.0,Xhakum,#DC143C,Merged
+US,US11,Survivor: Guatemala,11.0,Yaxha,#69C0C0,Original
+US,US12,Survivor: Panama,12.0,Bayoneta,#00A5FA,Original
+US,US12,Survivor: Panama,12.0,Casaya,#7800AA,Original
+US,US12,Survivor: Panama,12.0,Gitanos,#000000,Merged
+US,US12,Survivor: Panama,12.0,La Mina,#FF8709,Original
+US,US12,Survivor: Panama,12.0,Viveros,#26F823,Original
+US,US13,Survivor: Cook Islands,13.0,Aitutaki,#EB1010,Original
+US,US13,Survivor: Cook Islands,13.0,Aitutonga,#000000,Merged
+US,US13,Survivor: Cook Islands,13.0,Manihiki,#FFF105,Original
+US,US13,Survivor: Cook Islands,13.0,Puka Puka,#46CA00,Original
+US,US13,Survivor: Cook Islands,13.0,Rarotonga,#0047AB,Original
+US,US14,Survivor: Fiji,14.0,Bula Bula,#660099,Merged
+US,US14,Survivor: Fiji,14.0,Moto,#7FFF00,Original
+US,US14,Survivor: Fiji,14.0,Ravu,#FF5E00,Original
+US,US15,Survivor: China,15.0,Fei Long,#C80815,Original
+US,US15,Survivor: China,15.0,Hae Da Fung,#000000,Merged
+US,US15,Survivor: China,15.0,Zhan Hu,#FFDF2A,Original
+US,US16,Survivor: Micronesia,16.0,Airai,#FF9933,Original
+US,US16,Survivor: Micronesia,16.0,Dabu,#CCFF99,Merged
+US,US16,Survivor: Micronesia,16.0,Malakal,#9370DB,Original
+US,US17,Survivor: Gabon,17.0,Fang,#DD241A,Original
+US,US17,Survivor: Gabon,17.0,Kota,#F5FF0A,Original
+US,US17,Survivor: Gabon,17.0,Nobag,#2B60DE,Merged
+US,US18,Survivor: Tocantins,18.0,Forza,#5DCE5D,Merged
+US,US18,Survivor: Tocantins,18.0,Jalapao,#C11B17,Original
+US,US18,Survivor: Tocantins,18.0,Timbira,#000000,Original
+US,US19,Survivor: Samoa,19.0,Aiga,#007355,Merged
+US,US19,Survivor: Samoa,19.0,Foa Foa,#FFEF00,Original
+US,US19,Survivor: Samoa,19.0,Galu,#823C96,Original
+US,US20,Survivor: Heroes vs. Villains,20.0,Heroes,#0156C0,Original
+US,US20,Survivor: Heroes vs. Villains,20.0,Villains,#CC0012,Original
+US,US20,Survivor: Heroes vs. Villains,20.0,Yin Yang,#000000,Merged
+US,US21,Survivor: Nicaragua,21.0,Espada,#004C9A,Original
+US,US21,Survivor: Nicaragua,21.0,La Flor,#FFE400,Original
+US,US21,Survivor: Nicaragua,21.0,Libertad,#AC192B,Merged
+US,US22,Survivor: Redemption Island,22.0,Murlonio,#000000,Merged
+US,US22,Survivor: Redemption Island,22.0,None,#BEBEBE,Redemption Island
+US,US22,Survivor: Redemption Island,22.0,Ometepe,#F19027,Original
+US,US22,Survivor: Redemption Island,22.0,Zapatera,#703293,Original
+US,US23,Survivor: South Pacific,23.0,None,#BEBEBE,Redemption Island
+US,US23,Survivor: South Pacific,23.0,Savaii,#A91727,Original
+US,US23,Survivor: South Pacific,23.0,Te Tuna,#FEED01,Merged
+US,US23,Survivor: South Pacific,23.0,Upolu,#014B96,Original
+US,US24,Survivor: One World,24.0,Manono,#FC8501,Original
+US,US24,Survivor: One World,24.0,Salani,#6CBDB6,Original
+US,US24,Survivor: One World,24.0,Tikiano,#000000,Merged
+US,US25,Survivor: Philippines,25.0,Dangrayne,#000000,Merged
+US,US25,Survivor: Philippines,25.0,Kalabaw,#FF0126,Original
+US,US25,Survivor: Philippines,25.0,Matsing,#2150FF,Original
+US,US25,Survivor: Philippines,25.0,Tandang,#FFEB00,Original
+US,US26,Survivor: Caramoan,26.0,Bikal,#844184,Original
+US,US26,Survivor: Caramoan,26.0,Enil Edam,#81C41C,Merged
+US,US26,Survivor: Caramoan,26.0,Gota,#ED8927,Original
+US,US27,Survivor: Blood vs. Water,27.0,Galang,#E6AC1A,Original
+US,US27,Survivor: Blood vs. Water,27.0,Kasama,#4F2A7A,Merged
+US,US27,Survivor: Blood vs. Water,27.0,None,#BEBEBE,Redemption Island
+US,US27,Survivor: Blood vs. Water,27.0,Tadhana,#B1201D,Original
+US,US28,Survivor: Cagayan,28.0,Aparri,#F09733,Original
+US,US28,Survivor: Cagayan,28.0,Luzon,#2FA976,Original
+US,US28,Survivor: Cagayan,28.0,Solana,#8D2F87,Original
+US,US28,Survivor: Cagayan,28.0,Solarrion,#000000,Merged
+US,US29,Survivor: San Juan del Sur,29.0,Coyopa,#F89532,Original
+US,US29,Survivor: San Juan del Sur,29.0,Hunahpu,#5CD7DF,Original
+US,US29,Survivor: San Juan del Sur,29.0,Huyopa,#2CD08A,Merged
+US,US30,Survivor: Worlds Apart,30.0,Escameca,#0B58A0,Original
+US,US30,Survivor: Worlds Apart,30.0,Masaya,#E9CC0E,Original
+US,US30,Survivor: Worlds Apart,30.0,Merica,#000000,Merged
+US,US30,Survivor: Worlds Apart,30.0,Nagarote,#C11E21,Original
+US,US31,Survivor: Cambodia,31.0,Angkor,#D2B423,Swapped
+US,US31,Survivor: Cambodia,31.0,Bayon,#DA1789,Original
+US,US31,Survivor: Cambodia,31.0,Orkun,#F8693D,Merged
+US,US31,Survivor: Cambodia,31.0,Ta Keo,#029B8D,Original
+US,US32,Survivor: Kaoh Rong,32.0,Chan Loh,#0750F5,Original
+US,US32,Survivor: Kaoh Rong,32.0,Dara,#000000,Merged
+US,US32,Survivor: Kaoh Rong,32.0,Gondol,#FCB517,Original
+US,US32,Survivor: Kaoh Rong,32.0,To Tang,#E00C33,Original
+US,US33,Survivor: Millennials vs. Gen X,33.0,Ikabula,#4AAC1B,Swapped
+US,US33,Survivor: Millennials vs. Gen X,33.0,Takali,#500C8E,Original
+US,US33,Survivor: Millennials vs. Gen X,33.0,Vanua,#DC3D0D,Original
+US,US33,Survivor: Millennials vs. Gen X,33.0,Vinaka,#000000,Merged
+US,US34,Survivor: Game Changers,34.0,Maku Maku,#F4CC3C,Merged
+US,US34,Survivor: Game Changers,34.0,Mana,#A32D21,Original
+US,US34,Survivor: Game Changers,34.0,Nuku,#105B91,Original
+US,US34,Survivor: Game Changers,34.0,Tavua,#3BD23A,Swapped
+US,US35,Survivor: Heroes vs. Healers vs. Hustlers,35.0,Levu,#0C5DDC,Original
+US,US35,Survivor: Heroes vs. Healers vs. Hustlers,35.0,Soko,#F1CD1F,Original
+US,US35,Survivor: Heroes vs. Healers vs. Hustlers,35.0,Solewa,#912E8D,Merged
+US,US35,Survivor: Heroes vs. Healers vs. Hustlers,35.0,Yawa,#E0192C,Original
+US,US36,Survivor: Ghost Island,36.0,Lavita,#000000,Merged
+US,US36,Survivor: Ghost Island,36.0,Malolo,#FF8B29,Original
+US,US36,Survivor: Ghost Island,36.0,Naviti,#9F3875,Original
+US,US36,Survivor: Ghost Island,36.0,Yanuya,#50C163,Swapped
+US,US37,Survivor: David vs. Goliath,37.0,David,#CF7315,Original
+US,US37,Survivor: David vs. Goliath,37.0,Goliath,#672D7B,Original
+US,US37,Survivor: David vs. Goliath,37.0,Jabeni,#672D7B,Swapped
+US,US37,Survivor: David vs. Goliath,37.0,Kalokalo,#93D2FF,Merged
+US,US37,Survivor: David vs. Goliath,37.0,Tiva,#398043,Swapped
+US,US37,Survivor: David vs. Goliath,37.0,Vuku,#CF7315,Swapped
+US,US38,Survivor: Edge of Extinction,38.0,Kama,#FACF22,Original
+US,US38,Survivor: Edge of Extinction,38.0,Lesu,#009480,Swapped
+US,US38,Survivor: Edge of Extinction,38.0,Manu,#1050BA,Original
+US,US38,Survivor: Edge of Extinction,38.0,None,#BEBEBE,Edge of Extinction
+US,US38,Survivor: Edge of Extinction,38.0,Vata,#D32323,Merged
+US,US39,Survivor: Island of the Idols,39.0,Lairo,#F39442,Original
+US,US39,Survivor: Island of the Idols,39.0,Lumuwaku,#304ED2,Merged
+US,US39,Survivor: Island of the Idols,39.0,Vokai,#D99CD3,Original
+US,US40,Survivor: Winners at War,40.0,Dakal,#D80E0E,Original
+US,US40,Survivor: Winners at War,40.0,Koru,#000000,Merged
+US,US40,Survivor: Winners at War,40.0,None,#BEBEBE,Edge of Extinction
+US,US40,Survivor: Winners at War,40.0,Sele,#0067D6,Original
+US,US40,Survivor: Winners at War,40.0,Yara,#049451,Swapped
+US,US41,Survivor: 41,41.0,Luvu,#36AFE7,Original
+US,US41,Survivor: 41,41.0,Mergatory,#646464,Merged
+US,US41,Survivor: 41,41.0,Merged,#E34341,Merged
+US,US41,Survivor: 41,41.0,Ua,#76D070,Original
+US,US41,Survivor: 41,41.0,Via Kana,#E34341,Merged
+US,US41,Survivor: 41,41.0,Yase,#F8DF5E,Original
+US,US42,Survivor: 42,42.0,Ika,#2B8DCB,Original
+US,US42,Survivor: 42,42.0,Kula Kula,#CA74CF,Merged
+US,US42,Survivor: 42,42.0,Taku,#FB963E,Original
+US,US42,Survivor: 42,42.0,Vati,#4FD899,Original
+US,US43,Survivor: 43,43.0,Baka,#F8DC05,Original
+US,US43,Survivor: 43,43.0,Coco,#0687CB,Original
+US,US43,Survivor: 43,43.0,Gaia,#A7E4E4,Merged
+US,US43,Survivor: 43,43.0,Vesi,#EE4C53,Original
+US,US44,Survivor: 44,44.0,Mergatory,#BEBEBE,Mergatory
+US,US44,Survivor: 44,44.0,Ratu,#fd914e,Original
+US,US44,Survivor: 44,44.0,Soka,#94c068,Original
+US,US44,Survivor: 44,44.0,Tika,#bb9cc8,Original
+US,US44,Survivor: 44,44.0,Va Va,#000000,Merged
+US,US45,Survivor: 45,45.0,Belo,#009ed6,Original
+US,US45,Survivor: 45,45.0,Dakuwaqa,#ff8040,Merged
+US,US45,Survivor: 45,45.0,Lulu,#fde732,Original
+US,US45,Survivor: 45,45.0,Mergatory,#BEBEBE,Mergatory
+US,US45,Survivor: 45,45.0,Reba,#fb414c,Original
+US,US46,Survivor: 46,46.0,Siga,#93de7e,Original
+US,US46,Survivor: 46,46.0,Yanu,#c265c5,Original
+US,US46,Survivor: 46,46.0,Nami,#ffab30,Original
+US,US46,Survivor: 46,46.0,Mergatory,#BEBEBE,Mergatory
+US,US46,Survivor: 46,46.0,Nuinui,#f03240,Merged
+AU,AU01,Survivor Australia: 2016,1.0,Aganoa,#FF0000,Original
+AU,AU01,Survivor Australia: 2016,1.0,Fia Fia,#000000,Merged
+AU,AU01,Survivor Australia: 2016,1.0,Saanapu,#0000FF,Original
+AU,AU01,Survivor Australia: 2016,1.0,Vavau,#FFFF00,Original
+AU,AU02,Survivor Australia: 2017,2.0,Asaga,#00A19C,Original
+AU,AU02,Survivor Australia: 2017,2.0,Asatoa,#000000,Merged
+AU,AU02,Survivor Australia: 2017,2.0,Samatau,#A51A84,Original
+AU,AU03,Survivor Australia: Champions vs. Contenders,3.0,Champions,#0000FF,Original
+AU,AU03,Survivor Australia: Champions vs. Contenders,3.0,Contenders,#FF0000,Original
+AU,AU03,Survivor Australia: Champions vs. Contenders,3.0,Koro Savu,#000000,Merged
+AU,AU03,Survivor Australia: Champions vs. Contenders,3.0,None,#BEBEBE,Exile Beach
+AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Champions,#47CAED,Original
+AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Contenders,#F259A9,Original
+AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,None,#BEBEBE,Redemption Rock
+AU,AU04,Survivor Australia: Champions vs. Contenders (2019),4.0,Soli Bula,#000000,Merged
+AU,AU05,Survivor Australia: All Stars,5.0,Kalo Kalo,#000000,Merged
+AU,AU05,Survivor Australia: All Stars,5.0,Mokuta,#07D27C,Original
+AU,AU05,Survivor Australia: All Stars,5.0,None,#BEBEBE,Exile Beach
+AU,AU05,Survivor Australia: All Stars,5.0,Vakama,#F9D20A,Original
+AU,AU06,Survivor Australia: Brains vs. Brawn,6.0,Brains,#EDD421,Original
+AU,AU06,Survivor Australia: Brains vs. Brawn,6.0,Brawn,#C22613,Original
+AU,AU06,Survivor Australia: Brains vs. Brawn,6.0,Fire,#08726E,Merged
+AU,AU06,Survivor Australia: Brains vs. Brawn,6.0,None,#BEBEBE,Redemption Rock
+AU,AU06,Survivor Australia: Brains vs. Brawn,6.0,None,#BEBEBE,Medical Leave
+AU,AU07,Survivor Australia: Blood vs. Water,7.0,Blood,#DF4B62,Original
+AU,AU07,Survivor Australia: Blood vs. Water,7.0,Lava,#7209b7,Merged
+AU,AU07,Survivor Australia: Blood vs. Water,7.0,Purgatory,#BEBEBE,Purgatory
+AU,AU07,Survivor Australia: Blood vs. Water,7.0,Water,#097AC0,Original
+AU,AU08,Survivor Australia: Heroes vs. Villains,8.0,Fa'amolemole,#0ffd9c,Merged
+AU,AU08,Survivor Australia: Heroes vs. Villains,8.0,Heroes,#FECA1C,Original
+AU,AU08,Survivor Australia: Heroes vs. Villains,8.0,Villains,#6F5897,Original
+AU,AU09,Survivor Australia: Titans vs. Rebels,9.0,Rebels,#e60066,Original
+AU,AU09,Survivor Australia: Titans vs. Rebels,9.0,Titans,#33b3ff,Original
+AU,AU09,Survivor Australia: Titans vs. Rebels,9.0,Tasi,#173fa8,Merged
+SA,SA01,Survivor South Africa: Panama,1.0,Aguila,#3C459A,Original
+SA,SA01,Survivor South Africa: Panama,1.0,Burba,#F6EB41,Merged
+SA,SA01,Survivor South Africa: Panama,1.0,Dead Man's Island,#A6A6A6,Dead Man's Island
+SA,SA01,Survivor South Africa: Panama,1.0,Rana,#F33345,Original
+SA,SA02,Survivor South Africa: Malaysia,2.0,Bajau,#FBD333,Original
+SA,SA02,Survivor South Africa: Malaysia,2.0,Empu,#F23342,Merged
+SA,SA02,Survivor South Africa: Malaysia,2.0,Iban,#55A6FD,Original
+SA,SA03,Survivor South Africa: Santa Carolina,3.0,Chibudu,#BB200D,Original
+SA,SA03,Survivor South Africa: Santa Carolina,3.0,Kulukama,#26271F,Merged
+SA,SA03,Survivor South Africa: Santa Carolina,3.0,Timbila,#0A5FA6,Original
+SA,SA04,Survivor South Africa: Maldives,4.0,Black,#000000,Original
+SA,SA04,Survivor South Africa: Maldives,4.0,Eku,#FE5430,Merged
+SA,SA04,Survivor South Africa: Maldives,4.0,Goma,#009390,Original
+SA,SA04,Survivor South Africa: Maldives,4.0,Raituhn,#D5D746,Original
+SA,SA05,Survivor South Africa: Champions,5.0,Juara,#FF0000,Merged
+SA,SA05,Survivor South Africa: Champions,5.0,Seletan,#FFFFFF,Original
+SA,SA05,Survivor South Africa: Champions,5.0,Utara,#000000,Original
+SA,SA06,Survivor South Africa: Philippines,6.0,Araw,#f02281,Merged
+SA,SA06,Survivor South Africa: Philippines,6.0,Luzon,#FF0000,Original
+SA,SA06,Survivor South Africa: Philippines,6.0,Mindanao,#0000FF,Original
+SA,SA06,Survivor South Africa: Philippines,6.0,Visayas,#FFFF00,Swapped
+SA,SA07,Survivor South Africa: Island of Secrets,7.0,Island of Secrets,#BEBEBE,Island of Secrets
+SA,SA07,Survivor South Africa: Island of Secrets,7.0,Laumei,#F7CB20,Original
+SA,SA07,Survivor South Africa: Island of Secrets,7.0,Manumalo,#FF4500,Merged
+SA,SA07,Survivor South Africa: Island of Secrets,7.0,Sa'ula,#10C5DB,Original
+SA,SA07,Survivor South Africa: Island of Secrets,7.0,Ta'alo,#9934A9,Original
+SA,SA08,Survivor South Africa: Immunity Island,8.0,Osindile,#0364CF,Merged
+SA,SA08,Survivor South Africa: Immunity Island,8.0,Vuna,#F86E0F,Original
+SA,SA08,Survivor South Africa: Immunity Island,8.0,Zamba,#02AE2C,Original
+SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Masu,#0228A7,Original
+SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Salan,#FBD317,Merged
+SA,SA09,Survivor South Africa: Return of the Outcasts,9.0,Yontau,#A30103,Original
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Helang,#fff700,Original
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Sekutu,#fd7200,Merged
+UK,UK01,Survivor UK: Pulau Tiga,1.0,Ular,#4343eb,Original
+UK,UK02,Survivor UK: Panama,2.0,Columbus,#FFFFFF,Merged
+UK,UK02,Survivor UK: Panama,2.0,North Island,#bc120c,Original
+UK,UK02,Survivor UK: Panama,2.0,South Island,#2818df,Original
+UK,UK03,Survivor UK: 2023,3.0,Calena,#ff3380,Merged
+UK,UK03,Survivor UK: 2023,3.0,Caleton,#DC7639,Original
+UK,UK03,Survivor UK: 2023,3.0,La Nena,#81C9CA,Original
+NZ,NZ01,Survivor NZ: Nicaragua,1.0,Casar,#000000,Merged
+NZ,NZ01,Survivor NZ: Nicaragua,1.0,Hermosa,#593684,Original
+NZ,NZ01,Survivor NZ: Nicaragua,1.0,Mogoton,#FF9100,Original
+NZ,NZ01,Survivor NZ: Nicaragua,1.0,None,#BEBEBE,Redemption Island
+NZ,NZ02,Survivor NZ: Thailand,2.0,Chani,#0099cc,Original
+NZ,NZ02,Survivor NZ: Thailand,2.0,Khangkhaw,#FFFF00,Original
+NZ,NZ02,Survivor NZ: Thailand,2.0,Phsan,#4d0040,Merged
