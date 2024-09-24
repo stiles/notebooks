@@ -38,7 +38,7 @@ html5lib==1.1
 idna==3.4
 ipykernel==6.20.2
 ipympl==0.2.1
-ipython==8.9.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.0.0
 isoduration==20.11.0
