@@ -27,6 +27,7 @@ elon/twarc.log
 personal/
 personal
 hey-dude/shoe_images/
+dog/data/
 
 git rm --cached .DS_Store
 
