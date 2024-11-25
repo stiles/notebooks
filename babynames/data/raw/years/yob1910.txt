@@ -2814,7 +2814,7 @@ Jack,M,1576
 Louis,M,1569
 Joe,M,1553
 Carl,M,1339
-Howard,M,1310
+Howard,M,1309
 Ralph,M,1278
 Roy,M,1267
 David,M,1258

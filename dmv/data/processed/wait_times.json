@@ -1,0 +1,1318 @@
+[
+    {
+        "location":"long-beach",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"los-angeles",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"los-angeles-metro-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"lincoln-park",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"west-hollywood",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":1.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"hollywood",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"glendale",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":10.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"montebello",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"bell-gardens",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":17.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"inglewood",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":1.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"pasadena",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"culver-city",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"el-monte",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":16.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"santa-monica",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"hawthorne",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"gardena-commercial-drive-test-center",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"whittier",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":11.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"bellflower",
+        "type":"field-office",
+        "appt_wait":5.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"compton",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"torrance",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-pedro",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"winnetka",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":14.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"winnetka-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"thousand-oaks",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":9.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"simi-valley",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"van-nuys",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"arleta",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":14.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"west-covina",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":12.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fullerton",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"placentia-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"westminster",
+        "type":"field-office",
+        "appt_wait":13.0,
+        "no_appt_wait":13.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"santa-ana",
+        "type":"field-office",
+        "appt_wait":7.0,
+        "no_appt_wait":15.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"costa-mesa",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-marcos",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-marcos-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"newhall",
+        "type":"field-office",
+        "appt_wait":2.0,
+        "no_appt_wait":23.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"oxnard",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"santa-clara",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"rancho-cucamonga",
+        "type":"field-office",
+        "appt_wait":8.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"pomona",
+        "type":"field-office",
+        "appt_wait":11.0,
+        "no_appt_wait":12.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"norco",
+        "type":"field-office",
+        "appt_wait":1.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fontana-commercial-drive-test-center",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"king-city",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":8.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"daly-city",
+        "type":"field-office",
+        "appt_wait":4.0,
+        "no_appt_wait":10.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"redwood-city",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":8.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"yuba-city",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"crescent-city",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fontana",
+        "type":"field-office",
+        "appt_wait":1.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"rancho-san-diego-industry-business-center",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"rancho-san-diego-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"chula-vista",
+        "type":"field-office",
+        "appt_wait":1.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-ysidro",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-diego",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"el-cajon",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"el-centro",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"oceanside",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"temecula",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"brawley",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"indio",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"poway",
+        "type":"field-office",
+        "appt_wait":3.0,
+        "no_appt_wait":8.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"murrieta-express",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"laguna-hills",
+        "type":"field-office",
+        "appt_wait":5.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-clemente",
+        "type":"field-office",
+        "appt_wait":2.0,
+        "no_appt_wait":1.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-luis-obispo",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":13.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-diego-clairemont",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"palm-desert",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"blythe",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"palm-springs",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"twentynine-palms",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"needles",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"victorville",
+        "type":"field-office",
+        "appt_wait":3.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"barstow",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-bernardino-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"riverside",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-bernardino",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":17.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"riverside-east",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":11.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"redlands",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":13.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"ridgecrest",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"hemet",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":9.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"ventura",
+        "type":"field-office",
+        "appt_wait":4.0,
+        "no_appt_wait":11.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"santa-barbara",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"santa-paula",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":9.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"goleta",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"delano",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"hanford",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":12.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"arvin",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"lake-isabella",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"shafter",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"taft",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"porterville",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"coalinga",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"bakersfield",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"bakersfield-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"bakersfield-southwest",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"visalia",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"tulare",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"reedley",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"paso-robles",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":11.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"lompoc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"santa-maria",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"bishop",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"lancaster",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":10.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"mariposa",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"clovis",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":1.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"madera",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fresno",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fresno-north",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fresno-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"mendota",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fresno-commercial-drive-test-center",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"merced",
+        "type":"field-office",
+        "appt_wait":7.0,
+        "no_appt_wait":9.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"los-banos",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":2.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"salinas-commercial-drive-test-center",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"salinas",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"watsonville",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"seaside",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"hollister",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-mateo",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-francisco",
+        "type":"field-office",
+        "appt_wait":10.0,
+        "no_appt_wait":11.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"oakland-coliseum",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":8.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"mountain-view-industry-business-center",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"mountain-view-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"los-gatos",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-jose",
+        "type":"field-office",
+        "appt_wait":6.0,
+        "no_appt_wait":8.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"capitola",
+        "type":"field-office",
+        "appt_wait":9.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fremont",
+        "type":"field-office",
+        "appt_wait":2.0,
+        "no_appt_wait":10.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"west-sacramento-commercial-drive-test-center",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"sacramento",
+        "type":"field-office",
+        "appt_wait":4.0,
+        "no_appt_wait":16.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"sacramento-florin-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"sacramento-south",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"carmichael",
+        "type":"field-office",
+        "appt_wait":9.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"oakland",
+        "type":"field-office",
+        "appt_wait":11.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"el-cerrito",
+        "type":"field-office",
+        "appt_wait":12.0,
+        "no_appt_wait":9.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"hayward",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":14.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"vallejo",
+        "type":"field-office",
+        "appt_wait":8.0,
+        "no_appt_wait":14.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"napa",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":9.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fairfield-ibc",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fairfield",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":1.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"tracy",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":26.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"stockton",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"pleasanton-stoneridge",
+        "type":"field-office",
+        "appt_wait":1.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"pleasanton",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"pittsburg",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":15.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"concord",
+        "type":"field-office",
+        "appt_wait":3.0,
+        "no_appt_wait":15.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"santa-rosa",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"petaluma",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"vacaville",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"santa-teresa",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"clearlake",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"corte-madera",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"novato",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"gilroy",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"manteca",
+        "type":"field-office",
+        "appt_wait":1.0,
+        "no_appt_wait":13.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"lodi",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":11.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"san-andreas",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"sonora",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":6.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"south-lake-tahoe",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"jackson",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":10.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"modesto",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":7.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"turlock",
+        "type":"field-office",
+        "appt_wait":7.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fort-bragg",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"ukiah",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"lakeport",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"garberville",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"eureka",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":1.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"weaverville",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"yreka",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"auburn",
+        "type":"field-office",
+        "appt_wait":10.0,
+        "no_appt_wait":11.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"truckee",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"woodland",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":20.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"davis",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"colusa",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"folsom",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":5.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"placerville",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"rocklin",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"roseville",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":9.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"grass-valley",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"willows",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"chico",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":3.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"oroville",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"quincy",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"susanville",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":11.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"redding",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"alturas",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":0.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"fall-river-mills",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"mt-shasta",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"red-bluff",
+        "type":"field-office",
+        "appt_wait":0.0,
+        "no_appt_wait":4.0,
+        "captured":"2024-09-30 08:00:00"
+    },
+    {
+        "location":"tulelake",
+        "type":"field-office",
+        "appt_wait":null,
+        "no_appt_wait":null,
+        "captured":"2024-09-30 08:00:00"
+    }
+]

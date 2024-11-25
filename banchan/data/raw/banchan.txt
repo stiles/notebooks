@@ -1,0 +1,289 @@
+[
+    {
+        "Name": "Kimchi",
+        "Type": "Fermented",
+        "Vegetarian": False,
+        "Protein": "None or Seafood (fish sauce)",
+        "Spicy": True
+    },
+    {
+        "Name": "Kkakdugi",
+        "Type": "Fermented",
+        "Vegetarian": False,
+        "Protein": "None or Seafood (fish sauce)",
+        "Spicy": True
+    },
+    {
+        "Name": "Oi Muchim",
+        "Type": "Pickled/Stir-fried",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Namul",
+        "Type": "Stir-fried/Steamed",
+        "Vegetarian": True,
+        "Protein": "None or Egg",
+        "Spicy": False
+    },
+    {
+        "Name": "Kongnamul",
+        "Type": "Steamed/Stir-fried",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False
+    },
+    {
+        "Name": "Sigumchi Namul",
+        "Type": "Steamed/Stir-fried",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False
+    },
+    {
+        "Name": "Jeon",
+        "Type": "Fried",
+        "Vegetarian": False,
+        "Protein": "Various (Egg, Seafood, Beef, Pork)",
+        "Spicy": False,
+        "Notes": "Can be vegetarian if using only vegetables"
+    },
+    {
+        "Name": "Ojingeochae Muchim",
+        "Type": "Stir-fried",
+        "Vegetarian": False,
+        "Protein": "Squid",
+        "Spicy": True
+    },
+    {
+        "Name": "Gyeranjjim",
+        "Type": "Steamed",
+        "Vegetarian": True,
+        "Protein": "Egg",
+        "Spicy": False
+    },
+    {
+        "Name": "Dububuchim",
+        "Type": "Fried/Stir-fried",
+        "Vegetarian": True,
+        "Protein": "Tofu",
+        "Spicy": False
+    },
+    {
+        "Name": "Myeolchi Bokkeum",
+        "Type": "Stir-fried",
+        "Vegetarian": False,
+        "Protein": "Anchovy",
+        "Spicy": False,
+        "Notes": "Can be spicy depending on the recipe"
+    },
+    {
+        "Name": "Gaji Namul",
+        "Type": "Steamed",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False
+    },
+    {
+        "Name": "Jangjorim",
+        "Type": "Boiled/Stewed",
+        "Vegetarian": False,
+        "Protein": "Beef, Egg",
+        "Spicy": False
+    },
+    {
+        "Name": "Buchu Geotjeori",
+        "Type": "Fresh/Raw",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Gamja Jorim",
+        "Type": "Boiled/Stewed",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False
+    },
+    {
+        "Name": "Mu Saengchae",
+        "Type": "Pickled",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Chwinamul",
+        "Type": "Steamed/Stir-fried",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False
+    },
+    {
+        "Name": "Godeungeo Jorim",
+        "Type": "Boiled/Stewed",
+        "Vegetarian": False,
+        "Protein": "Mackerel",
+        "Spicy": True
+    },
+    {
+        "Name": "Bindaetteok",
+        "Type": "Fried",
+        "Vegetarian": True,
+        "Protein": "Mung beans",
+        "Spicy": False,
+        "Notes": "Can contain meat in some versions"
+    },
+    {
+        "Name": "Sigeumchi Muchim",
+        "Type": "Stir-fried/Steamed",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False
+    },
+    {
+        "Name": "Geotjeori",
+        "Type": "Fresh/Raw",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Gyeran Mari",
+        "Type": "Fried/Steamed",
+        "Vegetarian": True,
+        "Protein": "Egg",
+        "Spicy": False
+    },
+    {
+        "Name": "Kimchi Bokkeum",
+        "Type": "Stir-fried",
+        "Vegetarian": False,
+        "Protein": "None or Pork (optional)",
+        "Spicy": True
+    },
+    {
+        "Name": "Sukju Namul",
+        "Type": "Steamed/Stir-fried",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False
+    },
+    {
+        "Name": "Saengseon Jeon",
+        "Type": "Fried",
+        "Vegetarian": False,
+        "Protein": "Fish",
+        "Spicy": False
+    },
+    {
+        "Name": "Gochu Jangajji",
+        "Type": "Pickled",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Doraji Muchim",
+        "Type": "Stir-fried",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Beoseot Bokkeum",
+        "Type": "Stir-fried",
+        "Vegetarian": True,
+        "Protein": "Mushrooms",
+        "Spicy": False,
+        "Notes": "Can contain meat in some recipes"
+    },
+    {
+        "Name": "Japchae",
+        "Type": "Stir-fried",
+        "Vegetarian": True,
+        "Protein": "None or Beef",
+        "Spicy": False,
+        "Notes": "Can include meat in some versions"
+    },
+    {
+        "Name": "Musaengchae",
+        "Type": "Pickled",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Eomuk Bokkeum",
+        "Type": "Stir-fried",
+        "Vegetarian": False,
+        "Protein": "Fish cake",
+        "Spicy": True,
+        "Notes": "Spicy depending on the recipe"
+    },
+    {
+        "Name": "Ojingeo Jeotgal",
+        "Type": "Fermented",
+        "Vegetarian": False,
+        "Protein": "Squid",
+        "Spicy": True
+    },
+    {
+        "Name": "Chwinamul Muchim",
+        "Type": "Stir-fried/Steamed",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False
+    },
+    {
+        "Name": "Gamja Salad",
+        "Type": "Boiled",
+        "Vegetarian": True,
+        "Protein": "Egg (optional)",
+        "Spicy": False
+    },
+    {
+        "Name": "Yangbaechu Kimchi",
+        "Type": "Fermented",
+        "Vegetarian": False,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Ojingeo Bokkeum",
+        "Type": "Stir-fried",
+        "Vegetarian": False,
+        "Protein": "Squid",
+        "Spicy": True
+    },
+    {
+        "Name": "Godeungeo Gui",
+        "Type": "Grilled",
+        "Vegetarian": False,
+        "Protein": "Mackerel",
+        "Spicy": False
+    },
+    {
+        "Name": "Baechu Kimchi",
+        "Type": "Fermented",
+        "Vegetarian": False,
+        "Protein": "None",
+        "Spicy": True
+    },
+    {
+        "Name": "Guljeot",
+        "Type": "Fermented",
+        "Vegetarian": False,
+        "Protein": "Oysters",
+        "Spicy": True
+    },
+    {
+        "Name": "Nabak Kimchi",
+        "Type": "Fermented",
+        "Vegetarian": True,
+        "Protein": "None",
+        "Spicy": False,
+        "Notes": "Mildly spicy"
+    }
+]

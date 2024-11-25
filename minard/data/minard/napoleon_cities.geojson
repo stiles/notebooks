@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "napoleon_cities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "long": 24.0, "lat": 55.0, "city": "Kaunas" }, "geometry": { "type": "Point", "coordinates": [ 24.0, 55.0 ] } },
+{ "type": "Feature", "properties": { "long": 25.3, "lat": 54.7, "city": "Vilnius" }, "geometry": { "type": "Point", "coordinates": [ 25.3, 54.7 ] } },
+{ "type": "Feature", "properties": { "long": 26.4, "lat": 54.4, "city": "Smarhon" }, "geometry": { "type": "Point", "coordinates": [ 26.4, 54.4 ] } },
+{ "type": "Feature", "properties": { "long": 26.8, "lat": 54.3, "city": "Mstsislaw" }, "geometry": { "type": "Point", "coordinates": [ 26.8, 54.3 ] } },
+{ "type": "Feature", "properties": { "long": 27.7, "lat": 55.2, "city": "Hlybokaye" }, "geometry": { "type": "Point", "coordinates": [ 27.7, 55.2 ] } },
+{ "type": "Feature", "properties": { "long": 27.6, "lat": 53.9, "city": "Minsk" }, "geometry": { "type": "Point", "coordinates": [ 27.6, 53.9 ] } },
+{ "type": "Feature", "properties": { "long": 28.5, "lat": 54.3, "city": "Studzieniczna" }, "geometry": { "type": "Point", "coordinates": [ 28.5, 54.3 ] } },
+{ "type": "Feature", "properties": { "long": 28.7, "lat": 55.5, "city": "Polotsk" }, "geometry": { "type": "Point", "coordinates": [ 28.7, 55.5 ] } },
+{ "type": "Feature", "properties": { "long": 29.2, "lat": 54.4, "city": "Bobruisk" }, "geometry": { "type": "Point", "coordinates": [ 29.2, 54.4 ] } },
+{ "type": "Feature", "properties": { "long": 30.2, "lat": 55.3, "city": "Vitebsk" }, "geometry": { "type": "Point", "coordinates": [ 30.2, 55.3 ] } },
+{ "type": "Feature", "properties": { "long": 30.4, "lat": 54.5, "city": "Orsha" }, "geometry": { "type": "Point", "coordinates": [ 30.4, 54.5 ] } },
+{ "type": "Feature", "properties": { "long": 30.4, "lat": 53.9, "city": "Mogilev" }, "geometry": { "type": "Point", "coordinates": [ 30.4, 53.9 ] } },
+{ "type": "Feature", "properties": { "long": 32.0, "lat": 54.8, "city": "Smolensk" }, "geometry": { "type": "Point", "coordinates": [ 32.0, 54.8 ] } },
+{ "type": "Feature", "properties": { "long": 33.2, "lat": 54.9, "city": "Dorogobuzh" }, "geometry": { "type": "Point", "coordinates": [ 33.2, 54.9 ] } },
+{ "type": "Feature", "properties": { "long": 34.3, "lat": 55.2, "city": "Vyazma" }, "geometry": { "type": "Point", "coordinates": [ 34.3, 55.2 ] } },
+{ "type": "Feature", "properties": { "long": 34.4, "lat": 55.5, "city": "Chyhyryn" }, "geometry": { "type": "Point", "coordinates": [ 34.4, 55.5 ] } },
+{ "type": "Feature", "properties": { "long": 36.0, "lat": 55.5, "city": "Mozhaysk" }, "geometry": { "type": "Point", "coordinates": [ 36.0, 55.5 ] } },
+{ "type": "Feature", "properties": { "long": 37.6, "lat": 55.8, "city": "Moscow" }, "geometry": { "type": "Point", "coordinates": [ 37.6, 55.8 ] } },
+{ "type": "Feature", "properties": { "long": 36.6, "lat": 55.3, "city": "Tarantino" }, "geometry": { "type": "Point", "coordinates": [ 36.6, 55.3 ] } },
+{ "type": "Feature", "properties": { "long": 36.5, "lat": 55.0, "city": "Maloyaroslavets" }, "geometry": { "type": "Point", "coordinates": [ 36.5, 55.0 ] } }
+]
+}

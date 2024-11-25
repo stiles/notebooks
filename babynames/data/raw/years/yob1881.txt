@@ -936,7 +936,7 @@ Tiny,F,5
 Vernon,F,5
 Verona,F,5
 Viney,F,5
-John,M,8769
+John,M,8768
 William,M,8524
 James,M,5441
 George,M,4664
@@ -1634,7 +1634,6 @@ Sterling,M,8
 Sumner,M,8
 Theo,M,8
 Thos,M,8
-Todd,M,8
 Tommy,M,8
 Unknown,M,8
 Watt,M,8
@@ -1712,6 +1711,7 @@ Sheldon,M,7
 Shirley,M,7
 Ted,M,7
 Tilman,M,7
+Todd,M,7
 Vance,M,7
 Williams,M,7
 Worth,M,7

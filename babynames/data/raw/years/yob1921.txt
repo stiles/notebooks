@@ -43,7 +43,7 @@ Esther,F,5926
 Marion,F,5814
 Shirley,F,5695
 Clara,F,5606
-Gertrude,F,5350
+Gertrude,F,5349
 Jane,F,5188
 Rita,F,5157
 Katherine,F,5156
@@ -364,8 +364,8 @@ Ione,F,335
 Tillie,F,333
 Johanna,F,332
 Earline,F,331
-Eddie,F,331
 Madelyn,F,331
+Eddie,F,330
 Aurora,F,329
 Katharine,F,329
 Glenna,F,328
@@ -553,8 +553,8 @@ Petra,F,166
 Alva,F,165
 Bennie,F,165
 Jerry,F,165
+Lona,F,165
 Eleanora,F,164
-Lona,F,164
 Maryjane,F,164
 Maybelle,F,164
 Blanch,F,163
@@ -745,9 +745,9 @@ Dominga,F,97
 Henry,F,97
 Lucretia,F,97
 Magdalena,F,96
+Palma,F,96
 Theo,F,96
 Kathryne,F,95
-Palma,F,95
 Vernie,F,95
 Waneta,F,95
 Dawn,F,94
@@ -1828,7 +1828,6 @@ Azzie,F,23
 Cinderella,F,23
 Classie,F,23
 Corrinne,F,23
-Ellouise,F,23
 Elzora,F,23
 Evaline,F,23
 Gabriella,F,23
@@ -1879,6 +1878,7 @@ Donnabelle,F,22
 Dorathea,F,22
 Earleen,F,22
 Edmonia,F,22
+Ellouise,F,22
 Elza,F,22
 Emaline,F,22
 Emmeline,F,22
@@ -1983,6 +1983,7 @@ Vicki,F,21
 Violetta,F,21
 Wylma,F,21
 Wynema,F,21
+Zelia,F,21
 Zina,F,21
 Aggie,F,20
 Aldean,F,20
@@ -2044,7 +2045,6 @@ Vara,F,20
 Vassie,F,20
 Velna,F,20
 Virda,F,20
-Zelia,F,20
 Adda,F,19
 Aileene,F,19
 Alison,F,19
@@ -5869,11 +5869,11 @@ Zonnie,F,5
 Zular,F,5
 Zulmira,F,5
 John,M,58215
-Robert,M,52780
-William,M,51863
+Robert,M,52779
+William,M,51862
 James,M,49750
 Charles,M,29242
-George,M,27477
+George,M,27476
 Joseph,M,26182
 Edward,M,20817
 Frank,M,16705
@@ -5901,7 +5901,7 @@ Carl,M,7077
 Earl,M,6754
 Roy,M,6545
 Fred,M,6496
-Willie,M,6490
+Willie,M,6491
 Francis,M,6293
 Joe,M,6204
 Lawrence,M,5977
@@ -5910,7 +5910,7 @@ Leonard,M,5650
 Anthony,M,5239
 Stanley,M,5232
 Herbert,M,5217
-Alfred,M,4926
+Alfred,M,4925
 Samuel,M,4754
 Bernard,M,4485
 Norman,M,4479
@@ -5932,7 +5932,7 @@ Frederick,M,3376
 Clifford,M,3262
 Floyd,M,3255
 Herman,M,3219
-Theodore,M,3171
+Theodore,M,3172
 Lester,M,3076
 Ray,M,3075
 Vernon,M,3069
@@ -6131,7 +6131,7 @@ Doyle,M,464
 Millard,M,462
 Morton,M,461
 Charley,M,456
-Garland,M,455
+Garland,M,454
 Cornelius,M,449
 Preston,M,448
 Boyd,M,438
@@ -6294,8 +6294,8 @@ Gale,M,205
 Lorenzo,M,204
 Scott,M,204
 Freeman,M,203
+Everette,M,202
 Frederic,M,202
-Everette,M,201
 Hugo,M,201
 Lyman,M,201
 Aloysius,M,199
@@ -6359,8 +6359,8 @@ Noble,M,161
 Clay,M,160
 Palmer,M,160
 Riley,M,160
+Alfredo,M,159
 Blaine,M,159
-Alfredo,M,158
 Evan,M,157
 Phil,M,157
 Roberto,M,157
