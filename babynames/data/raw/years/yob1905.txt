@@ -66,7 +66,7 @@ Marion,F,1141
 Lucy,F,1132
 Stella,F,1097
 Fannie,F,1085
-Leona,F,1083
+Leona,F,1082
 Mamie,F,1068
 Vera,F,1053
 Cora,F,1044

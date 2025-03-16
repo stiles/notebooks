@@ -1,4 +1,4 @@
-Mary,F,65837
+Mary,F,65836
 Helen,F,33706
 Dorothy,F,31734
 Margaret,F,26238
@@ -199,7 +199,7 @@ Laverne,F,944
 Angelina,F,940
 Carol,F,932
 Effie,F,929
-Faye,F,926
+Faye,F,925
 Ora,F,920
 Rosalie,F,910
 Luella,F,905
@@ -3918,7 +3918,6 @@ Cyril,F,7
 Daphine,F,7
 Dara,F,7
 Darcas,F,7
-Debra,F,7
 Deette,F,7
 Delinda,F,7
 Delle,F,7
@@ -4374,6 +4373,7 @@ Darthula,F,6
 Dawna,F,6
 Dea,F,6
 Deanne,F,6
+Debra,F,6
 Decie,F,6
 Del,F,6
 Delaine,F,6
@@ -5557,15 +5557,15 @@ Zepha,F,5
 Zimmie,F,5
 Zoie,F,5
 Zuella,F,5
-John,M,53524
+John,M,53523
 William,M,43970
-James,M,42391
+James,M,42392
 Robert,M,41025
 Charles,M,25192
 George,M,25170
 Joseph,M,24266
 Edward,M,18536
-Frank,M,15702
+Frank,M,15701
 Thomas,M,13434
 Walter,M,12879
 Richard,M,12441
@@ -5653,7 +5653,7 @@ Everett,M,1772
 Arnold,M,1767
 Johnnie,M,1716
 Sidney,M,1715
-Stephen,M,1693
+Stephen,M,1694
 Wilbur,M,1689
 Eddie,M,1660
 Morris,M,1660
@@ -5805,7 +5805,7 @@ Murray,M,464
 Sherman,M,463
 Tommie,M,458
 Burton,M,456
-Harley,M,453
+Harley,M,452
 Norbert,M,449
 Erwin,M,443
 Louie,M,442
