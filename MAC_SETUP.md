@@ -183,23 +183,145 @@ python --version
 
 ---
 
-## **9. Python Dependency Management: Choose Your Tool**
-There are several options for managing Python dependencies. **Pick one:**
+## **9. Python Dependency Management: Use `uv`**
 
-### **Option 1: Native Python venv (Simple, Built-in)**
-For basic virtual environments:
+[`uv`](https://github.com/astral-sh/uv) is a modern, faster replacement for pip, venv, and other dependency managers.
 
-```bash
-python -m venv my_project
-source my_project/bin/activate
-pip install -U pip
-```
-
-### **Option 2: uv (Fast Alternative to Pip)**
-[`uv`](https://github.com/astral-sh/uv) is a modern, faster replacement for pip.
-
+### **Install `uv`**
 ```bash
 brew install uv
-uv venv create
-uv pip install numpy pandas matplotlib
+```
+
+### **Set up a Virtual Environment with `uv`**
+```bash
+export UV_VENV_PATH=".venv"
+uv venv
+source .venv/bin/activate
+```
+
+### **Install Dependencies**
+If you have a `requirements.txt` file:
+```bash
+uv pip install -r requirements.txt
+```
+
+For individual package installation:
+```bash
+uv add pandas numpy matplotlib jupyterlab
+```
+
+### **Run JupyterLab**
+```bash
+uv run jupyter lab
+```
+
+### **Lock Dependencies for Reproducibility**
+```bash
+uv lock
+```
+
+### **Sync Dependencies in a New Environment**
+```bash
+uv sync
+```
+
+---
+
+## **10. Install PostgreSQL + PostGIS**
+
+The easiest way to manage PostgreSQL with GIS support is via [Postgres.app](https://postgresapp.com/).
+
+Alternatively, install it via Homebrew:
+
+```bash
+brew install postgresql postgis
+brew services start postgresql
+```
+
+---
+
+## **11. Install QGIS (for GIS Work)**
+
+Download and install QGIS from its website:
+
+```bash
+brew install --cask qgis
+```
+
+---
+
+## **12. Install GDAL (for Geospatial Data Processing)**
+
+Required for working with geospatial files.
+
+```bash
+brew install gdal
+```
+
+Verify installation:
+
+```bash
+gdalinfo --version
+```
+
+---
+
+## **13. Install Additional Useful Packages**
+
+### **Common Python Libraries**
+
+```bash
+pip install numpy pandas matplotlib seaborn geopandas requests jupyterlab
+```
+
+### **Docker (for Containerized Development)**
+
+```bash
+brew install --cask docker
+```
+
+Open **Docker Desktop** and follow the setup instructions.
+
+### **fzf (Fuzzy Finder for Terminal)**
+
+```bash
+brew install fzf
+$(brew --prefix)/opt/fzf/install
+```
+
+### **ripgrep (Better Grep)**
+
+```bash
+brew install ripgrep
+```
+
+---
+
+## **14. Optional: Configure Your Shell**
+
+If you prefer **zsh** (default on macOS), enhance it with:
+
+### **Oh My Zsh**
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### **Enable zsh-autosuggestions & syntax highlighting**
+
+```bash
+brew install zsh-autosuggestions zsh-syntax-highlighting
+```
+
+Add this to `~/.zshrc`:
+
+```bash
+source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+```
+
+Apply changes:
+
+```bash
+source ~/.zshrc
 ```
