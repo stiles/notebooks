@@ -1,6 +1,6 @@
-# **Set Up Your Mac for Data & Development Work (2025 Edition)**
+# **Set Up Your Mac for Data & Development Work**
 
-This guide will help you set up your Mac for Python, data science, and development work using modern tools.
+This guide will help you set up your Mac for Python, data science and development work using modern tools. 
 
 ---
 
