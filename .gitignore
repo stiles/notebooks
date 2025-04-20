@@ -39,3 +39,5 @@ git rm --cached .DS_Store
 .DS_Store
 
 dc/data/raw/
+nfl/data/processed/*.json
+nfl/data/processed/*.csv
