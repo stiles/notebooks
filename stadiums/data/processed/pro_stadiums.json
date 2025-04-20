@@ -1,0 +1,1492 @@
+[
+    {
+        "name":"Angel Stadium",
+        "city":"Anaheim",
+        "team":"Los Angeles Angels",
+        "sports_league":"MLB",
+        "lng":-117.8827133181,
+        "lat":33.8003082276,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Chase Field",
+        "city":"Phoeniz",
+        "team":"Arizona Diamondbacks",
+        "sports_league":"MLB",
+        "lng":-112.0668029785,
+        "lat":33.445270538,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Citizens Bank Park",
+        "city":"Philadelphia",
+        "team":"Philadelphia Phillies",
+        "sports_league":"MLB",
+        "lng":-75.1664733891,
+        "lat":39.9061813358,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Comerica Park",
+        "city":"Detroit",
+        "team":"Detroit Tigers",
+        "sports_league":"MLB",
+        "lng":-83.0488281254,
+        "lat":42.3392791745,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Coors Field",
+        "city":"Denver",
+        "team":"Colorado Rockies",
+        "sports_league":"MLB",
+        "lng":-104.9941406254,
+        "lat":39.7563514708,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Dodger Stadium",
+        "city":"Los Angeles",
+        "team":"Los Angeles Dodgers",
+        "sports_league":"MLB",
+        "lng":-118.2399520875,
+        "lat":34.0738792418,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Fenway Park",
+        "city":"Boston",
+        "team":"Boston Red Sox",
+        "sports_league":"MLB",
+        "lng":-71.0977096553,
+        "lat":42.3462219237,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Great American Ballpark",
+        "city":"Cincinnati",
+        "team":"Cincinnati Reds",
+        "sports_league":"MLB",
+        "lng":-84.5064620972,
+        "lat":39.0972099307,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Progressive Field",
+        "city":"Cleveland",
+        "team":"Cleveland Indians",
+        "sports_league":"MLB",
+        "lng":-81.6852951051,
+        "lat":41.4957885739,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Kauffman Stadium",
+        "city":"Kansas City",
+        "team":"Kansas City Royals",
+        "sports_league":"MLB",
+        "lng":-94.4804306034,
+        "lat":39.0516395567,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Miller Park",
+        "city":"Milwaukee",
+        "team":"Milwaukee Brewers",
+        "sports_league":"MLB",
+        "lng":-87.9711837767,
+        "lat":43.0281181338,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Minute Maid Park",
+        "city":"Houston",
+        "team":"Houston Astros",
+        "sports_league":"MLB",
+        "lng":-95.3555374145,
+        "lat":29.7571792603,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Busch Stadium",
+        "city":"St. Louis",
+        "team":"St. Louis Cardinals",
+        "sports_league":"MLB",
+        "lng":-90.1930618282,
+        "lat":38.622581482,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Oriole Park at Camden Yards",
+        "city":"Baltimore",
+        "team":"Baltimore Orioles",
+        "sports_league":"MLB",
+        "lng":-76.6215591431,
+        "lat":39.2839508056,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Oracle Park",
+        "city":"San Francisco",
+        "team":"San Francisco Giants",
+        "sports_league":"MLB",
+        "lng":-122.3896942136,
+        "lat":37.7784004209,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Petco Park",
+        "city":"San Diego",
+        "team":"San Diego Padres",
+        "sports_league":"MLB",
+        "lng":-117.1570434572,
+        "lat":32.7075691227,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"PNC Park",
+        "city":"Pittsburgh",
+        "team":"Pittsburgh Pirates",
+        "sports_league":"MLB",
+        "lng":-80.0061569212,
+        "lat":40.4470481871,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"T-Mobile Park",
+        "city":"Seattle",
+        "team":"Seattle Mariners",
+        "sports_league":"MLB",
+        "lng":-122.3323516848,
+        "lat":47.591468811,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Citi Field",
+        "city":"Flushing",
+        "team":"New York Mets",
+        "sports_league":"MLB",
+        "lng":-73.8458862309,
+        "lat":40.7570419311,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Global Life Park in Arlington",
+        "city":"Arlington",
+        "team":"Texas Rangers",
+        "sports_league":"MLB",
+        "lng":-97.0825500484,
+        "lat":32.7512283326,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Tropicana Field",
+        "city":"St. Petersburg",
+        "team":"Tampa Bay Rays",
+        "sports_league":"MLB",
+        "lng":-82.6534576419,
+        "lat":27.7681255343,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Guaranteed Rate Field",
+        "city":"Chicago",
+        "team":"Chicago White Sox",
+        "sports_league":"MLB",
+        "lng":-87.6336517332,
+        "lat":41.8298492429,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Wrigley Field",
+        "city":"Chicago",
+        "team":"Chicago Cubs",
+        "sports_league":"MLB",
+        "lng":-87.6556472776,
+        "lat":41.9480590822,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Yankee Stadium",
+        "city":"Bronx",
+        "team":"New York Yankees",
+        "sports_league":"MLB",
+        "lng":-73.926239014,
+        "lat":40.8296318055,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Nationals Park",
+        "city":"Washington",
+        "team":"Washington Nationals",
+        "sports_league":"MLB",
+        "lng":-77.0074005128,
+        "lat":38.8730506899,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Target Field",
+        "city":"Minneapolis",
+        "team":"Minnesota Twins",
+        "sports_league":"MLB",
+        "lng":-93.2777709959,
+        "lat":44.9817504884,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Rogers Centre",
+        "city":"Toronto",
+        "team":"Toronto Blue Jays",
+        "sports_league":"MLB",
+        "lng":-79.3894195556,
+        "lat":43.6414222719,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Marlins Park",
+        "city":"Miami",
+        "team":"Miami Marlins",
+        "sports_league":"MLB",
+        "lng":-80.2195281982,
+        "lat":25.7780895233,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Oakland\u2013Alameda County Coliseum",
+        "city":"Oakland",
+        "team":"Oakland Athletics",
+        "sports_league":"MLB",
+        "lng":-122.2006225582,
+        "lat":37.7516098021,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"SunTrust Park",
+        "city":"Cumberland",
+        "team":"Atlanta Braves",
+        "sports_league":"MLB",
+        "lng":-84.4676055908,
+        "lat":33.8906097414,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"State Farm Stadium",
+        "city":"Glendale",
+        "team":"Arizona Cardinals",
+        "sports_league":"NFL",
+        "lng":-112.18627,
+        "lat":33.53861,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Mercedes-Benz Stadium",
+        "city":"Atlanta",
+        "team":"Atlanta Falcons",
+        "sports_league":"NFL",
+        "lng":-84.3911100002,
+        "lat":33.74831,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"M&T Bank Stadium",
+        "city":"Baltimore",
+        "team":"Baltimore Ravens",
+        "sports_league":"NFL",
+        "lng":-76.6092599996,
+        "lat":39.2905800002,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"New Era Field",
+        "city":"Orchard Park",
+        "team":"Buffalo Bills",
+        "sports_league":"NFL",
+        "lng":-78.7438800001,
+        "lat":42.7671799999,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Bank of America Stadium",
+        "city":"Charlotte",
+        "team":"Carolina Panthers",
+        "sports_league":"NFL",
+        "lng":-80.8379600003,
+        "lat":35.2228599997,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Soldier Field",
+        "city":"Chicago",
+        "team":"Chicago Bears",
+        "sports_league":"NFL",
+        "lng":-87.6324500003,
+        "lat":41.8842500001,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Paul Brown Stadium",
+        "city":"Cincinnati",
+        "team":"Cincinnati Bengals",
+        "sports_league":"NFL",
+        "lng":-84.4568900001,
+        "lat":39.1619999999,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"FirstEnergy Stadium",
+        "city":"Cleveland",
+        "team":"Cleveland Browns",
+        "sports_league":"NFL",
+        "lng":-81.6907399998,
+        "lat":41.5047300002,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"AT&T Stadium",
+        "city":"Arlington",
+        "team":"Dallas Cowboys",
+        "sports_league":"NFL",
+        "lng":-97.10772,
+        "lat":32.7355999996,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Broncos Stadium at Mile High",
+        "city":"Denver",
+        "team":"Denver Broncos",
+        "sports_league":"NFL",
+        "lng":-104.9920200004,
+        "lat":39.7400100003,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Ford Field",
+        "city":"Detroit",
+        "team":"Detroit Lions",
+        "sports_league":"NFL",
+        "lng":-83.048,
+        "lat":42.3316799999,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Lambeau Field",
+        "city":"Green Bay",
+        "team":"Green Bay Packers",
+        "sports_league":"NFL",
+        "lng":-88.0100099999,
+        "lat":44.5129999997,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"NRG Stadium",
+        "city":"Houston",
+        "team":"Houston Texans",
+        "sports_league":"NFL",
+        "lng":-95.3696799998,
+        "lat":29.7605799999,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Lucas Oil Stadium",
+        "city":"Indianapolis",
+        "team":"Indianapolis Colts",
+        "sports_league":"NFL",
+        "lng":-86.1499600004,
+        "lat":39.7669100003,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"TIAA Bank Field",
+        "city":"Jacksonville",
+        "team":"Jacksonville Jaguars",
+        "sports_league":"NFL",
+        "lng":-81.65622,
+        "lat":30.3314700002,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Arrowhead Stadium",
+        "city":"Kansas City",
+        "team":"Kansas City Chiefs",
+        "sports_league":"NFL",
+        "lng":-94.5831099996,
+        "lat":39.1034499999,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"StubHub Center",
+        "city":"Carson",
+        "team":"Los Angeles Chargers",
+        "sports_league":"NFL",
+        "lng":-118.2620899996,
+        "lat":33.8316100001,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Los Angeles Memorial Coliseum",
+        "city":"Los Angeles",
+        "team":"Los Angeles Rams",
+        "sports_league":"NFL",
+        "lng":-118.2453200001,
+        "lat":34.0534899996,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Hard Rock Stadium",
+        "city":"Miami Gardens",
+        "team":"Miami Dolphins",
+        "sports_league":"NFL",
+        "lng":-80.2232400001,
+        "lat":25.9274899998,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"U.S. Bank Stadium",
+        "city":"Minneapolis",
+        "team":"Minnesota Vikings",
+        "sports_league":"NFL",
+        "lng":-93.2649400003,
+        "lat":44.9790200002,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Gillette Stadium",
+        "city":"Foxborough",
+        "team":"New England Patriots",
+        "sports_league":"NFL",
+        "lng":-71.2483899996,
+        "lat":42.06587,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Mercedes-Benz Superdome",
+        "city":"New Orleans",
+        "team":"New Orleans Saints",
+        "sports_league":"NFL",
+        "lng":-90.07775,
+        "lat":29.9536999996,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"MetLife Stadium",
+        "city":"East Rutherford",
+        "team":"New York Giants",
+        "sports_league":"NFL",
+        "lng":-74.0983499998,
+        "lat":40.8345499998,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"MetLife Stadium",
+        "city":"East Rutherford",
+        "team":"New York Jets",
+        "sports_league":"NFL",
+        "lng":-74.0983499998,
+        "lat":40.8345499998,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Oakland\u2013Alameda County Coliseum",
+        "city":"Oakland",
+        "team":"Oakland Raiders",
+        "sports_league":"NFL",
+        "lng":-122.2730699997,
+        "lat":37.8050800002,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Lincoln Financial Field",
+        "city":"Philadelphia",
+        "team":"Philadelphia Eagles",
+        "sports_league":"NFL",
+        "lng":-75.1621799999,
+        "lat":39.9522199999,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Heinz Field",
+        "city":"Pittsburgh",
+        "team":"Pittsburgh Steelers",
+        "sports_league":"NFL",
+        "lng":-79.9973399999,
+        "lat":40.43851,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Levi's Stadium",
+        "city":"Santa Clara",
+        "team":"San Francisco 49ers",
+        "sports_league":"NFL",
+        "lng":-121.9550899996,
+        "lat":37.3557900001,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"CenturyLink Field",
+        "city":"Seattle",
+        "team":"Seattle Seahawks",
+        "sports_league":"NFL",
+        "lng":-122.3294499998,
+        "lat":47.6035699999,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Raymond James Stadium",
+        "city":"Tampa",
+        "team":"Tampa Bay Buccaneers",
+        "sports_league":"NFL",
+        "lng":-82.4592700001,
+        "lat":27.9465300001,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Nissan Stadium",
+        "city":"Nashville",
+        "team":"Tennessee Titans",
+        "sports_league":"NFL",
+        "lng":-86.7781600002,
+        "lat":36.1678399996,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"FedExField",
+        "city":"Landover",
+        "team":"Washington Redskins",
+        "sports_league":"NFL",
+        "lng":-76.8966399999,
+        "lat":38.9340000001,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Gillette Stadium",
+        "city":"FOXBORO",
+        "team":"New England Revolution",
+        "sports_league":"MLS",
+        "lng":-71.2643571621,
+        "lat":42.0909159219,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Nissan Stadium",
+        "city":"NASHVILLE",
+        "team":"Nashville SC",
+        "sports_league":"MLS",
+        "lng":-86.7712800002,
+        "lat":36.1664499997,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Soldier Field",
+        "city":"CHICAGO",
+        "team":"Chicago Fire FC",
+        "sports_league":"MLS",
+        "lng":-87.6166985916,
+        "lat":41.8623572992,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Lumen Field",
+        "city":"SEATTLE",
+        "team":"Seattle Sounders",
+        "sports_league":"MLS",
+        "lng":-122.3315618618,
+        "lat":47.5951704877,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Children's Mercy Park",
+        "city":"KANSAS CITY",
+        "team":"Sporting Kansas City",
+        "sports_league":"MLS",
+        "lng":-94.8232988462,
+        "lat":39.1216122289,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Red Bull Arena",
+        "city":"HARRISON",
+        "team":"New York Red Bulls",
+        "sports_league":"MLS",
+        "lng":-74.1502694432,
+        "lat":40.7369146811,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Dick's Sporting Goods Park",
+        "city":"COMMERCE CITY",
+        "team":"Colorado Rapids",
+        "sports_league":"MLS",
+        "lng":-104.8918441747,
+        "lat":39.8056436442,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Mapfre Stadium",
+        "city":"COLUMBUS",
+        "team":"Columbus Crew SC",
+        "sports_league":"MLS",
+        "lng":-82.9910499713,
+        "lat":40.0095500059,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Toyota Stadium",
+        "city":"FRISCO",
+        "team":"FC Dallas",
+        "sports_league":"MLS",
+        "lng":-96.8352217907,
+        "lat":33.1543322187,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Dignity Health Sports Park",
+        "city":"CARSON",
+        "team":"LA Galaxy",
+        "sports_league":"MLS",
+        "lng":-118.2611125724,
+        "lat":33.8642867121,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Rio Tinto Stadium",
+        "city":"SANDY",
+        "team":"Real Salt Lake",
+        "sports_league":"MLS",
+        "lng":-111.8933271293,
+        "lat":40.5829121691,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Subaru Park",
+        "city":"CHESTER",
+        "team":"Philadelphia Union",
+        "sports_league":"MLS",
+        "lng":-75.3785152349,
+        "lat":39.8327791731,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"BMO Field",
+        "city":"TORONTO",
+        "team":"Toronto FC",
+        "sports_league":"MLS",
+        "lng":-79.4185931538,
+        "lat":43.6331825092,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Paypal Park",
+        "city":"SAN JOSE",
+        "team":"San Jose Earthquakes",
+        "sports_league":"MLS",
+        "lng":-121.9248570002,
+        "lat":37.351158,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Providence Park",
+        "city":"PORTLAND",
+        "team":"Portland Timbers",
+        "sports_league":"MLS",
+        "lng":-122.691804045,
+        "lat":45.5215604808,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"BC Place",
+        "city":"VANCOUVER",
+        "team":"Vancouver Whitecaps FC",
+        "sports_league":"MLS",
+        "lng":-123.1120212771,
+        "lat":49.276637233,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Yankee Stadium",
+        "city":"BRONX",
+        "team":"New York City FC",
+        "sports_league":"MLS",
+        "lng":-73.9262400003,
+        "lat":40.8296300002,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Saputo Stadium",
+        "city":"MONTREAL",
+        "team":"CF Montreal",
+        "sports_league":"MLS",
+        "lng":-73.5526534109,
+        "lat":45.563093051,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"BBVA Compass Stadium",
+        "city":"HOUSTON",
+        "team":"Houston Dynamo FC",
+        "sports_league":"MLS",
+        "lng":-95.3520600001,
+        "lat":29.7523249999,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Mercedes-Benz Stadium",
+        "city":"ATLANTA",
+        "team":"Atlanta United FC",
+        "sports_league":"MLS",
+        "lng":-84.4011784517,
+        "lat":33.7556685049,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Exploria Stadium",
+        "city":"ORLANDO",
+        "team":"Orlando City SC",
+        "sports_league":"MLS",
+        "lng":-81.3890716373,
+        "lat":28.5411051712,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Allianz Field",
+        "city":"SAINT PAUL",
+        "team":"Minnesota United FC",
+        "sports_league":"MLS",
+        "lng":-93.1651810002,
+        "lat":44.9526890001,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Banc of California Stadium",
+        "city":"LOS ANGELES",
+        "team":"Los Angeles FC",
+        "sports_league":"MLS",
+        "lng":-118.2840789458,
+        "lat":34.0127834461,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Audi Field",
+        "city":"WASHINGTON",
+        "team":"DC United",
+        "sports_league":"MLS",
+        "lng":-77.0129175179,
+        "lat":38.8685411788,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Drive Pink Stadium",
+        "city":"FORT LAUDERDALE",
+        "team":"Inter Miami CF",
+        "sports_league":"MLS",
+        "lng":-80.1610598855,
+        "lat":26.1931469382,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"TQL Stadium",
+        "city":"CINCINNATI",
+        "team":"FC Cincinnati",
+        "sports_league":"MLS",
+        "lng":-84.522784441,
+        "lat":39.110825442,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Q2 Stadium",
+        "city":"AUSTIN",
+        "team":"Austin FC",
+        "sports_league":"MLS",
+        "lng":-97.7193578895,
+        "lat":30.388026387,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"American Airlines Arena",
+        "city":"Miami",
+        "team":"Miami Heat",
+        "sports_league":"NBA",
+        "lng":-80.1875799629,
+        "lat":25.7811699534,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"ARCO Arena",
+        "city":"Sacramento",
+        "team":"Sacramento Kings",
+        "sports_league":"NBA",
+        "lng":-121.5186899688,
+        "lat":38.6493199266,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"EnergySolutions Arena",
+        "city":"Salt Lake City",
+        "team":"Utah Jazz",
+        "sports_league":"NBA",
+        "lng":-111.9010251014,
+        "lat":40.7682055289,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Fed Ex Forum",
+        "city":"Memphis",
+        "team":"Memphis Gizzlies",
+        "sports_league":"NBA",
+        "lng":-90.0512999329,
+        "lat":35.1381000772,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Quicken Loans Arena",
+        "city":"Cleveland",
+        "team":"Cleveland Cavaliers",
+        "sports_league":"NBA",
+        "lng":-81.6886999531,
+        "lat":41.4964799365,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Oracle Arena",
+        "city":"Oakland",
+        "team":"Golden State Warriors",
+        "sports_league":"NBA",
+        "lng":-122.2021700077,
+        "lat":37.7513099239,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"New Orleans Arena",
+        "city":"New Orleans",
+        "team":"New Orleans Hornets",
+        "sports_league":"NBA",
+        "lng":-90.0820300029,
+        "lat":29.9488900015,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Rose Garden",
+        "city":"Portland",
+        "team":"Portland Trailblazers",
+        "sports_league":"NBA",
+        "lng":-122.6669200791,
+        "lat":45.5316500683,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Amway Arena",
+        "city":"Orlando",
+        "team":"Orlando Magic",
+        "sports_league":"NBA",
+        "lng":-81.3863599942,
+        "lat":28.5488299529,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Bradley Center",
+        "city":"Milwaukee",
+        "team":"Milwaukee Bucks",
+        "sports_league":"NBA",
+        "lng":-87.917359962,
+        "lat":43.0434600028,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"American Airlines Center",
+        "city":"Dallas",
+        "team":"Dallas Mavericks",
+        "sports_league":"NBA",
+        "lng":-96.810430005,
+        "lat":32.7906200461,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"TD Garden Center",
+        "city":"Boston",
+        "team":"Boston Celtics",
+        "sports_league":"NBA",
+        "lng":-71.06205995,
+        "lat":42.3665299187,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Pepsi Center",
+        "city":"Denver",
+        "team":"Denver Nuggets",
+        "sports_league":"NBA",
+        "lng":-105.0075076965,
+        "lat":39.7485294086,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Philips Arena",
+        "city":"Atlanta",
+        "team":"Atlanta Hawks",
+        "sports_league":"NBA",
+        "lng":-84.3963099839,
+        "lat":33.7572999671,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"United Center",
+        "city":"Chicago",
+        "team":"Chicago Bulls",
+        "sports_league":"NBA",
+        "lng":-87.6741799811,
+        "lat":41.88059006,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Wachovia Center",
+        "city":"Philadelphia",
+        "team":"Philadelphia 76ers",
+        "sports_league":"NBA",
+        "lng":-75.1721800596,
+        "lat":39.9009699876,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"IZOD Center",
+        "city":"East Rutherfor",
+        "team":"New Jersey Nets",
+        "sports_league":"NBA",
+        "lng":-74.0676699581,
+        "lat":40.8116299585,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Madison Square Garden",
+        "city":"New York",
+        "team":"New York Knicks",
+        "sports_league":"NBA",
+        "lng":-73.9937799573,
+        "lat":40.7505999769,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Verizon Center",
+        "city":"Washington",
+        "team":"Washington Wizards",
+        "sports_league":"NBA",
+        "lng":-77.0209800725,
+        "lat":38.898379979,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Staples Center",
+        "city":"Los Angeles",
+        "team":"Los Angeles Lakers, Clipppers",
+        "sports_league":"NBA",
+        "lng":-118.2671599362,
+        "lat":34.0432100542,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Target Center",
+        "city":"Minneapolis",
+        "team":"Minnesota Timberwolves",
+        "sports_league":"NBA",
+        "lng":-93.2760900166,
+        "lat":44.9794400286,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"US Airways Center",
+        "city":"Phoenix",
+        "team":"Phoenix Suns",
+        "sports_league":"NBA",
+        "lng":-112.0712500365,
+        "lat":33.4459999215,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Time Warner Cable Arena",
+        "city":"Charlotte",
+        "team":"Charlotte Bobcats",
+        "sports_league":"NBA",
+        "lng":-80.8399899622,
+        "lat":35.2237299404,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Conseco Fieldhouse",
+        "city":"Indianapolis",
+        "team":"Indiana Pacers",
+        "sports_league":"NBA",
+        "lng":-86.1555699767,
+        "lat":39.7640100163,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Toyota Center (Houston)",
+        "city":"Houston",
+        "team":"Houston Rockets",
+        "sports_league":"NBA",
+        "lng":-95.3621800464,
+        "lat":29.7507800198,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Palace of Auburn Hills",
+        "city":"Auburn Hills",
+        "team":"Detroit Pistons",
+        "sports_league":"NBA",
+        "lng":-83.2446699475,
+        "lat":42.6972099327,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"AT&T Center",
+        "city":"San Antonio",
+        "team":"San Antonio Spurs",
+        "sports_league":"NBA",
+        "lng":-98.4376599266,
+        "lat":29.4270299962,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Ford Center",
+        "city":"Oklahoma City",
+        "team":"Oklahoma City Thunder",
+        "sports_league":"NBA",
+        "lng":-97.5148299341,
+        "lat":35.4634699874,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Air Canada Centre",
+        "city":"Toronto",
+        "team":"Toronto Raptors",
+        "sports_league":"NBA",
+        "lng":-79.3790235376,
+        "lat":43.6434154743,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Honda Center",
+        "city":"Anaheim",
+        "team":"Ducks",
+        "sports_league":"NHL",
+        "lng":-117.8763235449,
+        "lat":33.8062054602,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Gila River Arena",
+        "city":"Glendale",
+        "team":"Coyotes",
+        "sports_league":"NHL",
+        "lng":-112.2620327316,
+        "lat":33.5302864478,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"TD Gardens",
+        "city":"Boston",
+        "team":"Bruins",
+        "sports_league":"NHL",
+        "lng":-71.0629405707,
+        "lat":42.365857932,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"First Niagara Center",
+        "city":"Buffalo",
+        "team":"Sabres",
+        "sports_league":"NHL",
+        "lng":-78.8774686771,
+        "lat":42.8759380972,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Scotiabank Saddledome",
+        "city":"Calgary",
+        "team":"Flames",
+        "sports_league":"NHL",
+        "lng":-114.051412531,
+        "lat":51.0381938122,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"PNC Arena",
+        "city":"Raleigh",
+        "team":"Hurricanes",
+        "sports_league":"NHL",
+        "lng":-78.726323902,
+        "lat":35.8042981723,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"United Center",
+        "city":"Chicago",
+        "team":"Blackhawks",
+        "sports_league":"NHL",
+        "lng":-87.6744850803,
+        "lat":41.8812541741,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Pepsi Center",
+        "city":"Denver",
+        "team":"Avalanche",
+        "sports_league":"NHL",
+        "lng":-105.0080111964,
+        "lat":39.7473737548,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Nationwide Arena",
+        "city":"Columbus",
+        "team":"Blue Jackets",
+        "sports_league":"NHL",
+        "lng":-83.0067341986,
+        "lat":39.9684313892,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"American Airlines Center",
+        "city":"Dallas",
+        "team":"Stars",
+        "sports_league":"NHL",
+        "lng":-96.8112802538,
+        "lat":32.7900634143,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Joe Louis Arena",
+        "city":"Detroit",
+        "team":"Red Wings",
+        "sports_league":"NHL",
+        "lng":-83.0503731442,
+        "lat":42.3247414658,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Rogers Place",
+        "city":"Edmonton",
+        "team":"Oilers",
+        "sports_league":"NHL",
+        "lng":-113.4961299631,
+        "lat":53.5462711118,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"BB&T Center",
+        "city":"Miami",
+        "team":"Panters",
+        "sports_league":"NHL",
+        "lng":-80.3244158178,
+        "lat":26.1558023618,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Staples Center",
+        "city":"Los Angeles",
+        "team":"Kings",
+        "sports_league":"NHL",
+        "lng":-118.2655823979,
+        "lat":34.043322218,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Xcel Energy Center",
+        "city":"St.Paul",
+        "team":"Wild",
+        "sports_league":"NHL",
+        "lng":-93.1010749469,
+        "lat":44.943895601,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Bell Centre",
+        "city":"Montreal",
+        "team":"Canadiens",
+        "sports_league":"NHL",
+        "lng":-73.569544011,
+        "lat":45.4969393591,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Bridgestone Arena",
+        "city":"Nashville",
+        "team":"Predators",
+        "sports_league":"NHL",
+        "lng":-86.7791202849,
+        "lat":36.1601430429,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Prudential Center",
+        "city":"Newark",
+        "team":"Devils",
+        "sports_league":"NHL",
+        "lng":-74.1701176287,
+        "lat":40.733403311,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Barclays Center",
+        "city":"New York",
+        "team":"Islanders",
+        "sports_league":"NHL",
+        "lng":-73.9760522359,
+        "lat":40.6834802359,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Madison Square Garden",
+        "city":"New York",
+        "team":"Rangers",
+        "sports_league":"NHL",
+        "lng":-73.9922329612,
+        "lat":40.7506852082,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Canadian Tire Centre",
+        "city":"Ottawa",
+        "team":"Senators",
+        "sports_league":"NHL",
+        "lng":-75.926268831,
+        "lat":45.2959014281,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Wells Fargo Center",
+        "city":"Philadelphia",
+        "team":"Flyers",
+        "sports_league":"NHL",
+        "lng":-75.1735077341,
+        "lat":39.9052522137,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Consol Energy Center",
+        "city":"Pittsburgh",
+        "team":"Penguins",
+        "sports_league":"NHL",
+        "lng":-79.9905400568,
+        "lat":40.4388314503,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"SAP Center at San Jose",
+        "city":"San Jose",
+        "team":"Sharks",
+        "sports_league":"NHL",
+        "lng":-121.9007341149,
+        "lat":37.3320034567,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Scottrade Center",
+        "city":"St. Louis",
+        "team":"Blues",
+        "sports_league":"NHL",
+        "lng":-90.2019050046,
+        "lat":38.6259430958,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Amalie Arena",
+        "city":"Tampa Bay",
+        "team":"Lightning",
+        "sports_league":"NHL",
+        "lng":-82.4527746803,
+        "lat":27.9434883513,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Air Canada Centre",
+        "city":"Toronto",
+        "team":"Maple Leafs",
+        "sports_league":"NHL",
+        "lng":-79.3781832456,
+        "lat":43.6437450229,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Rogers Arena",
+        "city":"Vancouver",
+        "team":"Canucks",
+        "sports_league":"NHL",
+        "lng":-123.1103149084,
+        "lat":49.2779102222,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"T-Mobile Arena",
+        "city":"Las Vegas",
+        "team":"Golden Knights",
+        "sports_league":"NHL",
+        "lng":-115.1731770316,
+        "lat":36.1035879893,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"Verizon Center",
+        "city":"Washington",
+        "team":"Capitals",
+        "sports_league":"NHL",
+        "lng":-77.0209605003,
+        "lat":38.8973634581,
+        "state_name":null,
+        "state_abbr":null
+    },
+    {
+        "name":"MTS Centre",
+        "city":"Winnipeg",
+        "team":"Jets",
+        "sports_league":"NHL",
+        "lng":-97.1442341807,
+        "lat":49.893298213,
+        "state_name":null,
+        "state_abbr":null
+    }
+]

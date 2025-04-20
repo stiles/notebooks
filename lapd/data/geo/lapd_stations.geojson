@@ -1,0 +1,23 @@
+{"type":"FeatureCollection","features":[
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2892416, 33.7576609]}, "properties": {"OBJECTID": 1, "DIVISION": "HARBOR", "LOCATION": "2175 JOHN S. GIBSON BLVD.", "PREC": 5}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2753942, 33.9386274]}, "properties": {"OBJECTID": 2, "DIVISION": "SOUTHEAST", "LOCATION": "145 W. 108TH ST.", "PREC": 18}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2776697, 33.9703074]}, "properties": {"OBJECTID": 3, "DIVISION": "77TH STREET", "LOCATION": "7600 S. BROADWAY", "PREC": 12}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.4198416, 33.9916553]}, "properties": {"OBJECTID": 4, "DIVISION": "PACIFIC", "LOCATION": "12312 CULVER BLVD.", "PREC": 14}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.3051416, 34.0105753]}, "properties": {"OBJECTID": 5, "DIVISION": "SOUTHWEST", "LOCATION": "1546 MARTIN LUTHER KING JR. BLVD.", "PREC": 3}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2561189, 34.0123559]}, "properties": {"OBJECTID": 6, "DIVISION": "NEWTON", "LOCATION": "3400 S. CENTRAL AVE.", "PREC": 13}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2472941, 34.0440195]}, "properties": {"OBJECTID": 7, "DIVISION": "CENTRAL", "LOCATION": "251 E. 6TH ST.", "PREC": 1}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.4507795, 34.0437774]}, "properties": {"OBJECTID": 8, "DIVISION": "WEST LOS ANGELES", "LOCATION": "1663 BUTLER AVE.", "PREC": 8}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.213068, 34.0450088]}, "properties": {"OBJECTID": 9, "DIVISION": "HOLLENBECK", "LOCATION": "2111 E. 1ST ST.", "PREC": 4}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.3428295, 34.0467477]}, "properties": {"OBJECTID": 10, "DIVISION": "WILSHIRE", "LOCATION": "4861 VENICE BLVD.", "PREC": 7}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2911759, 34.0502085]}, "properties": {"OBJECTID": 11, "DIVISION": "OLYMPIC", "LOCATION": "1130 S. VERMONT AVE.", "PREC": 20}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2669796, 34.0566904]}, "properties": {"OBJECTID": 12, "DIVISION": "RAMPART", "LOCATION": "1401 W. 6TH ST.", "PREC": 2}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.3306693, 34.0958332]}, "properties": {"OBJECTID": 13, "DIVISION": "HOLLYWOOD", "LOCATION": "1358 N. WILCOX AVE.", "PREC": 6}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.2494145, 34.1192007]}, "properties": {"OBJECTID": 14, "DIVISION": "NORTHEAST", "LOCATION": "3353 SAN FERNANDO RD.", "PREC": 11}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.3858593, 34.1716939]}, "properties": {"OBJECTID": 15, "DIVISION": "NORTH HOLLYWOOD", "LOCATION": "11640 BURBANK BLVD.", "PREC": 15}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.4452257, 34.1837433]}, "properties": {"OBJECTID": 16, "DIVISION": "VAN NUYS", "LOCATION": " 6240 SYLMAR AVE.", "PREC": 9}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.5474544, 34.1933972]}, "properties": {"OBJECTID": 17, "DIVISION": "WEST VALLEY", "LOCATION": "19020 VANOWEN ST.", "PREC": 10}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.5996365, 34.2213767]}, "properties": {"OBJECTID": 18, "DIVISION": "TOPANGA", "LOCATION": "21501 SCHOENBORN ST.", "PREC": 21}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.4104172, 34.2530912]}, "properties": {"OBJECTID": 19, "DIVISION": "FOOTHILL", "LOCATION": "12760 OSBORNE ST.", "PREC": 16}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.5313734, 34.2569691]}, "properties": {"OBJECTID": 20, "DIVISION": "DEVONSHIRE", "LOCATION": "10250 ETIWANDA AVE.", "PREC": 17}},
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-118.4681978, 34.2729794]}, "properties": {"OBJECTID": 21, "DIVISION": "MISSION", "LOCATION": "11121 N. SEPULVEDA BLVD.", "PREC": 19}}
+]}

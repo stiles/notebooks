@@ -114,7 +114,7 @@ Wilma,F,630
 Lola,F,623
 Lucile,F,592
 Lottie,F,580
-Marian,F,579
+Marian,F,578
 Juanita,F,572
 Loretta,F,566
 Mable,F,566
@@ -2910,7 +2910,6 @@ Bertram,M,27
 Bruno,M,27
 Bryan,M,27
 Elzie,M,27
-Gary,M,27
 General,M,27
 Junior,M,27
 Linwood,M,27
@@ -2923,6 +2922,7 @@ Rodney,M,27
 Rosevelt,M,27
 Arlie,M,26
 Clint,M,26
+Gary,M,26
 Granville,M,26
 Gregory,M,26
 Haywood,M,26

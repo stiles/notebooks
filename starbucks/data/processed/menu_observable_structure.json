@@ -1,0 +1,196 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "At Home Coffee",
+            "children": [
+                {
+                    "name": "VIA\u00ae Instant",
+                    "children": [
+                        {
+                            "name": "VIA\u00ae Instant",
+                            "value": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Whole Bean",
+                    "children": [
+                        {
+                            "name": "Whole Bean",
+                            "value": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Drinks",
+            "children": [
+                {
+                    "name": "Cold Coffees",
+                    "children": [
+                        {
+                            "name": "Cold Coffees",
+                            "value": 27
+                        }
+                    ]
+                },
+                {
+                    "name": "Cold Drinks",
+                    "children": [
+                        {
+                            "name": "Cold Drinks",
+                            "value": 30
+                        }
+                    ]
+                },
+                {
+                    "name": "Frappuccino\u00ae Blended Beverages",
+                    "children": [
+                        {
+                            "name": "Frappuccino\u00ae Blended Beverages",
+                            "value": 21
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Coffees",
+                    "children": [
+                        {
+                            "name": "Hot Coffees",
+                            "value": 35
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Drinks",
+                    "children": [
+                        {
+                            "name": "Hot Drinks",
+                            "value": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Teas",
+                    "children": [
+                        {
+                            "name": "Hot Teas",
+                            "value": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Iced Teas",
+                    "children": [
+                        {
+                            "name": "Iced Teas",
+                            "value": 18
+                        }
+                    ]
+                },
+                {
+                    "name": "Oleato\u2122",
+                    "children": [
+                        {
+                            "name": "Oleato\u2122",
+                            "value": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Food",
+            "children": [
+                {
+                    "name": "Bakery",
+                    "children": [
+                        {
+                            "name": "Bakery",
+                            "value": 22
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Breakfast",
+                    "children": [
+                        {
+                            "name": "Hot Breakfast",
+                            "value": 13
+                        }
+                    ]
+                },
+                {
+                    "name": "Lunch",
+                    "children": [
+                        {
+                            "name": "Lunch",
+                            "value": 11
+                        }
+                    ]
+                },
+                {
+                    "name": "Oatmeal & Yogurt",
+                    "children": [
+                        {
+                            "name": "Oatmeal & Yogurt",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Snacks & Sweets",
+                    "children": [
+                        {
+                            "name": "Snacks & Sweets",
+                            "value": 26
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Merchandise",
+            "children": [
+                {
+                    "name": "Cold Cups",
+                    "children": [
+                        {
+                            "name": "Cold Cups",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Mugs",
+                    "children": [
+                        {
+                            "name": "Mugs",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Other",
+                    "children": [
+                        {
+                            "name": "Other",
+                            "value": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Tumblers",
+                    "children": [
+                        {
+                            "name": "Tumblers",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
