@@ -28,6 +28,7 @@ personal/
 personal
 hey-dude/shoe_images/
 dog/data/
+banking/
 
 git rm --cached .DS_Store
 
