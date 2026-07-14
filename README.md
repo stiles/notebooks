@@ -1,6 +1,6 @@
 # Jupyter Notebooks Collection
 
-This repository contains 742 Jupyter notebooks across 186 topics. 
+This repository contains 695 Jupyter notebooks across 180 topics. 
 These notebooks are a mix of experiments, drafts and useful scripts for data analysis, visualization and storytelling.
 
 > **Note:** This is a personal sandbox for learning and experimenting. Some notebooks may be incomplete or outdated.
