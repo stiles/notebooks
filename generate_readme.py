@@ -31,53 +31,38 @@ def generate_readme(topic_counts, total_notebooks):
     readme_content = f"""# Jupyter Notebooks Collection
 
 This repository contains {total_notebooks} Jupyter notebooks across {len(topic_counts)} topics. 
-These notebooks are a mix of experiments, drafts, and useful scripts for data analysis, visualization, and storytelling.
+These notebooks are a mix of experiments, drafts and useful scripts for data analysis, visualization and storytelling.
 
 > **Note:** This is a personal sandbox for learning and experimenting. Some notebooks may be incomplete or outdated.
 
-## 🛠️ Setting Up the Environment
+## Setup
 
-This repository uses [`uv`](https://github.com/astral-sh/uv) for dependency management.
+This repository uses [uv](https://github.com/astral-sh/uv) to manage Python 3.13 and its dependencies, which are defined in `pyproject.toml` and pinned in `uv.lock`.
 
-### Install `uv`
-`uv` is a package manager for Python that simplifies the setup of virtual environments and dependency management.
-To install `uv`, follow the instructions on the [official website](https://astral.sh/uv/).
+### Install uv
 
 ```bash
 brew install uv
 ```
 
-### Set up a Virtual Environment
-```bash
-export UV_VENV_PATH=".venv"
-uv venv
-source .venv/bin/activate
-```
+### Install dependencies
 
-### Install Dependencies
-If you have a `requirements.txt` file:
-```bash
-uv pip install -r requirements.txt
-```
+This creates a `.venv` directory with Python 3.13 and everything in the lockfile:
 
-For individual package installation:
 ```bash
-uv add pandas numpy matplotlib jupyterlab
+uv sync
 ```
 
 ### Run JupyterLab
+
 ```bash
 uv run jupyter lab
 ```
 
-### Lock Dependencies for Reproducibility
-```bash
-uv lock
-```
+### Add a package
 
-### Sync Dependencies in a New Environment
 ```bash
-uv sync
+uv add some-package
 ```
 """
 
