@@ -11,6 +11,7 @@ dependencies = [
     "cython",
     "datawrapper",
     "geopandas",
+    "google-api-python-client>=2.198.0",
     "html5lib",
     "ipympl",
     "ipywidgets",
@@ -28,6 +29,7 @@ dependencies = [
     "rtree",
     "vl-convert-python",
     "xlrd",
+    "youtube-transcript-api>=1.2.4",
 ]
 
 [tool.uv]
