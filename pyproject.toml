@@ -1,0 +1,36 @@
+[project]
+name = "notebooks"
+version = "0.1.0"
+description = "A collection of Jupyter notebooks for data analysis, visualization and storytelling"
+requires-python = ">=3.13"
+dependencies = [
+    "altair",
+    "beautifulsoup4",
+    "boto3",
+    "census-data-downloader",
+    "cython",
+    "datawrapper",
+    "geopandas",
+    "google-api-python-client>=2.198.0",
+    "html5lib",
+    "ipympl",
+    "ipywidgets",
+    "jenkspy",
+    "jupyter",
+    "jupyter-black",
+    "jupyterlab",
+    "lxml",
+    "matplotlib",
+    "openpyxl",
+    "pageviewapi",
+    "pandas",
+    "plotly",
+    "requests",
+    "rtree",
+    "vl-convert-python",
+    "xlrd",
+    "youtube-transcript-api>=1.2.4",
+]
+
+[tool.uv]
+package = false

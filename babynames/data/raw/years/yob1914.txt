@@ -31,7 +31,7 @@ Lucille,F,5320
 Edith,F,5209
 Gertrude,F,4938
 Annie,F,4800
-Pauline,F,4699
+Pauline,F,4698
 Esther,F,4654
 Doris,F,4429
 Clara,F,4240
@@ -92,11 +92,11 @@ Carrie,F,1798
 Velma,F,1795
 Theresa,F,1794
 Juanita,F,1792
-Wilma,F,1787
+Wilma,F,1788
 Beulah,F,1775
 Hattie,F,1678
 Emily,F,1650
-Fannie,F,1616
+Fannie,F,1617
 Sophie,F,1584
 Inez,F,1579
 Nancy,F,1575
@@ -4238,8 +4238,8 @@ Francis,M,3901
 Roy,M,3852
 Earl,M,3842
 Joe,M,3712
-Samuel,M,3704
 Lawrence,M,3703
+Samuel,M,3703
 Anthony,M,3695
 Ernest,M,3632
 Stanley,M,3559

@@ -1,0 +1,135 @@
+[
+    {
+        "product_category":"Mueslix\u00ae",
+        "calories":250.0,
+        "saturated_fat":0.0,
+        "sodium":150.0,
+        "sugar":17.0
+    },
+    {
+        "product_category":"Smart Start\u00ae",
+        "calories":240.0,
+        "saturated_fat":0.0,
+        "sodium":260.0,
+        "sugar":18.0
+    },
+    {
+        "product_category":"Cracklin\u2019 Oat Bran\u00ae",
+        "calories":230.0,
+        "saturated_fat":3.5,
+        "sodium":65.0,
+        "sugar":16.0
+    },
+    {
+        "product_category":"Bear Naked\u00ae",
+        "calories":212.5,
+        "saturated_fat":1.83,
+        "sodium":87.5,
+        "sugar":9.58
+    },
+    {
+        "product_category":"Frosted Mini-Wheats\u00ae",
+        "calories":205.0,
+        "saturated_fat":0.12,
+        "sodium":35.0,
+        "sugar":11.88
+    },
+    {
+        "product_category":"Kashi\u00ae",
+        "calories":196.67,
+        "saturated_fat":0.4,
+        "sodium":88.0,
+        "sugar":9.47
+    },
+    {
+        "product_category":"Kellogg\u2019s Raisin Bran\u00ae",
+        "calories":182.5,
+        "saturated_fat":0.0,
+        "sodium":202.5,
+        "sugar":16.0
+    },
+    {
+        "product_category":"Special K\u00ae",
+        "calories":176.84,
+        "saturated_fat":0.66,
+        "sodium":252.11,
+        "sugar":10.79
+    },
+    {
+        "product_category":"Insta Bowl",
+        "calories":172.5,
+        "saturated_fat":2.62,
+        "sodium":187.5,
+        "sugar":14.5
+    },
+    {
+        "product_category":"Rice Krispies\u00ae",
+        "calories":155.0,
+        "saturated_fat":0.12,
+        "sodium":146.25,
+        "sugar":11.0
+    },
+    {
+        "product_category":"Crispix\u00ae",
+        "calories":150.0,
+        "saturated_fat":0.0,
+        "sodium":260.0,
+        "sugar":5.0
+    },
+    {
+        "product_category":"Corn Pops\u00ae",
+        "calories":150.0,
+        "saturated_fat":0.0,
+        "sodium":160.0,
+        "sugar":15.0
+    },
+    {
+        "product_category":"Kellogg's Frosted Flakes\u00ae",
+        "calories":140.0,
+        "saturated_fat":0.38,
+        "sodium":192.5,
+        "sugar":12.0
+    },
+    {
+        "product_category":"Kellogg\u2019s Corn Flakes\u00ae",
+        "calories":140.0,
+        "saturated_fat":0.0,
+        "sodium":270.0,
+        "sugar":5.33
+    },
+    {
+        "product_category":"Froot Loops\u00ae",
+        "calories":140.0,
+        "saturated_fat":0.75,
+        "sodium":165.0,
+        "sugar":14.0
+    },
+    {
+        "product_category":"Honey Smacks\u00ae",
+        "calories":130.0,
+        "saturated_fat":0.0,
+        "sodium":45.0,
+        "sugar":18.0
+    },
+    {
+        "product_category":"All-Bran\u00ae",
+        "calories":120.0,
+        "saturated_fat":0.0,
+        "sodium":215.0,
+        "sugar":9.33
+    },
+    {
+        "product_category":"Apple Jacks\u00ae",
+        "calories":101.25,
+        "saturated_fat":0.38,
+        "sodium":135.0,
+        "sugar":10.25
+    },
+    {
+        "product_category":"Jumbo Snax",
+        "calories":68.33,
+        "saturated_fat":0.17,
+        "sodium":88.33,
+        "sugar":7.67
+    }
+]

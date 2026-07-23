@@ -51,7 +51,7 @@ Nellie,F,1671
 Laura,F,1621
 Pauline,F,1591
 Lillie,F,1536
-Ella,F,1451
+Ella,F,1450
 Katherine,F,1413
 Willie,F,1394
 Mae,F,1375

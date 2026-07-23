@@ -672,9 +672,9 @@ Esta,F,104
 Kathryne,F,104
 Lue,F,104
 Rosalyn,F,104
-Diane,F,103
 Sibyl,F,103
 Verona,F,103
+Diane,F,102
 Easter,F,102
 Joe,F,101
 Leslie,F,101
@@ -5179,14 +5179,14 @@ Albert,M,9044
 Arthur,M,8921
 Harry,M,8476
 Donald,M,7737
-Ralph,M,7086
+Ralph,M,7085
 Louis,M,6817
 Carl,M,6786
 Clarence,M,6304
 Howard,M,6171
 Jack,M,6162
 Kenneth,M,6012
-David,M,5813
+David,M,5812
 Fred,M,5745
 Willie,M,5660
 Francis,M,5652

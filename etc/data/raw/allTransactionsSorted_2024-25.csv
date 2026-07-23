@@ -1,0 +1,319 @@
+Transaction Date,Order Total,Commission,Merchant,Domain,Status,Code,Title,Locked,Payment Date
+2025-04-03,$45.90 ,$6.88 ,19/99 Beauty,1999beauty.com,active,BEAUTY15,Cream Contour Stick,yes,6/13/25
+2024-12-02,$204.07 ,$9.71 ,Ambrosia Bag US,ambrosiaproducebag.com,active,-,Ambrosia Long-Life Linen,yes,1/31/25
+2024-12-01,$63.41 ,$3.02 ,Ambrosia Bag US,ambrosiaproducebag.com,active,-,Ambrosia Long-Life Linen,yes,1/31/25
+2024-11-28,$42.52 ,$2.02 ,Ambrosia Bag US,ambrosiaproducebag.com,active,-,Ambrosia Long-Life Linen,yes,1/3/25
+2024-11-27,$22.12 ,$1.05 ,Ambrosia Bag US,ambrosiaproducebag.com,active,-,Ambrosia Long-Life Linen,yes,1/3/25
+2024-01-18,$161.50 ,$19.22 ,AromaTech,aromatechscent.com,active,-,Bestseller Set,yes,5/3/24
+2024-11-13,$64.95 ,$1.66 ,ASICS America,asics.com,active,-,JAPAN S,yes,1/24/25
+2025-05-28,$101.29 ,$12.92 ,Athleta,athleta.gap.com,active,-,With Ease Crop Tee,yes,7/25/25
+2025-05-25,$0.00 ,$0.00 ,Athleta,athleta.gap.com,cancelled,-,With Ease Crop Tee,-,-
+2024-03-25,$149.00 ,$15.95 ,Aura Home,aurahome.com.au,active,-,Aura Frame,yes,6/28/24
+2025-01-05,$148.22 ,$22.23 ,Away,awaytravel.com,active,-,The Everywhere Bag,yes,3/14/25
+2025-01-03,$82.39 ,$12.36 ,Away,awaytravel.com,active,-,The Everywhere Bag,yes,3/14/25
+2024-11-04,$75.00 ,$8.93 ,Beekman 1802,beekman1802.com,active,-,Beekman 1802 Milk Shake,yes,5/16/25
+2025-11-28,$390.60 ,$49.80 ,Boden USA,,active,-,"Sienna Cotton Shirt-Ivory, Tennis",no,-
+2024-01-18,$60.00 ,$1.02 ,Charlotte Tilbury US,charlottetilbury.com/us,active,-,CHARLOTTE TILBURY | Hyaluronic Happikiss Lipstick Balm,yes,4/26/24
+2024-08-08,$75.00 ,$9.56 ,Clé de Peau,cledepeaubeaute.com,active,-,CONCEALER,yes,10/21/24
+2024-02-15,$378.25 ,$56.74 ,Clare V.,clarev.com,active,CV15-4v6gxC,Clare V Fanny Pack,yes,5/10/24
+2025-05-21,$117.00 ,$10.94 ,Coolibar,coolibar.com,active,-,Unisex Gannett UV Gloves | Sleek Grey,yes,10/17/25
+2025-05-16,$105.98 ,$9.91 ,Coolibar,coolibar.com,cancelled,BZCE5ZNVX,Unisex Gannett UV Gloves | Sleek Grey,-,-
+2025-05-23,$47.00 ,$4.39 ,Coolibar,coolibar.com,active,-,Unisex Gannett UV Gloves | Sleek Grey,yes,10/17/25
+2025-05-16,$39.00 ,$3.65 ,Coolibar,coolibar.com,active,-,Unisex Gannett UV Gloves | Sleek Grey,yes,7/18/25
+2025-05-20,$39.00 ,$3.65 ,Coolibar,coolibar.com,active,-,Unisex Gannett UV Gloves | Sleek Grey,yes,10/17/25
+2025-05-16,$29.99 ,$2.81 ,Coolibar,coolibar.com,active,-,Unisex Gannett UV Gloves | Sleek Grey,yes,7/18/25
+2025-05-30,$20.25 ,$1.90 ,Coolibar,coolibar.com,cancelled,GROWINGJOY25,Unisex Gannett UV Gloves | Sleek Grey,-,-
+2024-11-30,$566.00 ,$113.20 ,Cuyana,cuyana.com,active,-,Travel Jewelry Case,yes,2/7/25
+2024-12-01,$286.00 ,$57.20 ,Cuyana,cuyana.com,active,-,Travel Jewelry Case,yes,2/7/25
+2024-12-19,$128.00 ,$25.60 ,Cuyana,cuyana.com,active,-,Travel Jewelry Case,yes,3/7/25
+2024-11-28,$98.00 ,$19.60 ,Cuyana,cuyana.com,active,-,Travel Jewelry Case,yes,2/7/25
+2024-12-08,$98.00 ,$19.60 ,Cuyana,cuyana.com,active,-,Travel Jewelry Case,yes,3/7/25
+2025-05-19,$102.40 ,$17.41 ,Dermstore,dermstore.com,active,-,COLORESCIENCE | Sunforgettable Total Protection Brush-On Shield SPF 50,yes,7/18/25
+2025-05-16,$69.00 ,$11.73 ,Dermstore,dermstore.com,active,-,COLORESCIENCE | Sunforgettable Total Protection Brush-On Shield SPF 50,yes,7/18/25
+2025-05-17,$55.20 ,$9.38 ,Dermstore,dermstore.com,active,VIP,COLORESCIENCE | Sunforgettable Total Protection Brush-On Shield SPF 50,yes,7/18/25
+2025-05-19,$55.20 ,$9.38 ,Dermstore,dermstore.com,active,SUN,COLORESCIENCE | Sunforgettable Total Protection Brush-On Shield SPF 50,yes,7/18/25
+2024-05-08,$88.00 ,$14.96 ,Everlane,everlane.com,active,-,Everlane Dream Pant,yes,7/26/24
+2024-12-09,$81.60 ,$16.32 ,evolvetogether,evolvetogether.com,active,FOREVER15,evolvetogether,yes,4/25/25
+2024-12-10,$62.05 ,$12.41 ,evolvetogether,evolvetogether.com,active,FOREVER15,evolvetogether,yes,4/25/25
+2024-12-10,$45.90 ,$9.18 ,evolvetogether,evolvetogether.com,active,FOREVER15,evolvetogether,yes,4/25/25
+2024-12-10,$36.55 ,$7.31 ,evolvetogether,evolvetogether.com,active,FOREVER15,evolvetogether,yes,4/25/25
+2024-11-28,$212.00 ,$18.92 ,Field Company,fieldcompany.com,active,-,Ready for Commitment?,yes,2/28/25
+2024-11-29,$35.00 ,$4.46 ,Food52,food52.com,active,-,7470 Five Two Essential Kitchen Towels,yes,1/3/25
+2025-09-19,$107.10 ,$16.07 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,yes,11/7/25
+2025-06-25,$92.30 ,$13.85 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,yes,8/1/25
+2025-11-10,$57.20 ,$8.58 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,no,-
+2025-06-26,$55.90 ,$8.38 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,yes,8/1/25
+2025-07-01,$53.30 ,$8.00 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,yes,8/1/25
+2025-08-03,$49.83 ,$7.47 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,yes,10/3/25
+2025-08-14,$47.60 ,$7.14 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,yes,10/3/25
+2025-08-10,$30.60 ,$4.59 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,yes,10/3/25
+2025-09-17,$28.90 ,$4.34 ,Geometry,geometry.house,active,FOREVER15,Geometry Kitchen Tea Towels,yes,11/7/25
+2024-11-27,$129.60 ,$11.57 ,Geometry LLC,geometry.house,active,-,Geometry Kitchen Tea Towels,yes,2/28/25
+2024-10-05,$108.00 ,$9.64 ,Geometry LLC,geometry.house,active,-,Geometry Kitchen Tea Towels,yes,1/31/25
+2024-11-29,$102.24 ,$9.13 ,Geometry LLC,geometry.house,active,-,Geometry Kitchen Tea Towels,yes,2/28/25
+2024-11-27,$37.60 ,$3.36 ,Geometry LLC,geometry.house,active,-,Geometry Kitchen Tea Towels,yes,2/28/25
+2024-12-16,$36.00 ,$3.21 ,Geometry LLC,geometry.house,active,-,Geometry Kitchen Tea Towels,yes,3/28/25
+2024-10-17,$32.40 ,$2.89 ,Geometry LLC,geometry.house,active,-,Geometry Kitchen Tea Towels,yes,1/31/25
+2024-10-17,$32.40 ,$2.89 ,Geometry LLC,geometry.house,active,-,Geometry Kitchen Tea Towels,yes,1/31/25
+2024-11-29,$18.72 ,$1.67 ,Geometry LLC,geometry.house,active,-,Geometry Kitchen Tea Towels,yes,2/28/25
+2024-06-11,$53.07 ,$3.62 ,Hero Cosmetics,herocosmetics.us,active,HERO10,HERO COSMETICS | Superlight Sunscreen SPF 30,yes,8/23/24
+2025-05-16,$19.99 ,$1.36 ,Hero Cosmetics,herocosmetics.us,active,-,HERO COSMETICS | Superlight Sunscreen SPF 30,yes,8/1/25
+2025-05-17,$19.99 ,$1.36 ,Hero Cosmetics,herocosmetics.us,active,-,HERO COSMETICS | Superlight Sunscreen SPF 30,yes,8/1/25
+2024-08-08,$24.99 ,$2.13 ,Indeed Laboratories,indeedlabs.com,active,-,nanoblur™,yes,9/20/24
+2025-03-31,$28.00 ,$2.80 ,Jones Road,jonesroadbeauty.com,active,-,The Mascara,yes,5/16/25
+2025-04-09,$28.00 ,$2.80 ,Jones Road,jonesroadbeauty.com,active,-,The Mascara,yes,6/13/25
+2024-12-10,$79.90 ,$15.98 ,Jouer Cosmetics,jouercosmetics.com,active,PLAY15,Skin Barrier Cream,yes,2/7/25
+2025-01-02,$59.20 ,$11.84 ,Jouer Cosmetics,jouercosmetics.com,active,MERCI20,Skin Barrier Cream,yes,2/7/25
+2024-12-09,$55.25 ,$11.05 ,Jouer Cosmetics,jouercosmetics.com,active,PLAY15,Skin Barrier Cream,yes,2/7/25
+2025-01-03,$42.00 ,$8.40 ,Jouer Cosmetics,jouercosmetics.com,active,-,Skin Barrier Cream,yes,2/7/25
+2024-12-18,$35.70 ,$7.14 ,Jouer Cosmetics,jouercosmetics.com,active,PLAY15,Skin Barrier Cream,yes,2/7/25
+2024-12-09,$26.00 ,$5.20 ,Jouer Cosmetics,jouercosmetics.com,active,-,Skin Barrier Cream,yes,2/7/25
+2024-12-16,$26.00 ,$5.20 ,Jouer Cosmetics,jouercosmetics.com,active,-,Skin Barrier Cream,yes,2/7/25
+2024-12-14,$22.10 ,$4.42 ,Jouer Cosmetics,jouercosmetics.com,active,PLAY15,Skin Barrier Cream,yes,2/7/25
+2025-03-29,$22.10 ,$4.42 ,Jouer Cosmetics,jouercosmetics.com,active,PLAY15,Skin Barrier Cream,yes,5/16/25
+2024-01-01,$60.00 ,$3.57 ,Knix,knix.com,active,-,KNIX | The Evolution Bra: The Most Comfortable Wirefree Bra Online,yes,5/3/24
+2024-01-28,$288.00 ,$19.58 ,KYPRIS Beauty,kyprisbeauty.com,active,-,Beauty Elixir IIi: Prismatic Array - Gentle Moisturizing Face Oil,yes,3/1/24
+2024-12-10,$196.00 ,$24.99 ,LARQ,livelarq.com,active,-,LARQ Bottle PureVis™,yes,3/14/25
+2024-07-13,$189.00 ,$19.28 ,lululemon,shop.lululemon.com,active,-,Scuba High-Rise Jogger 7/8 Length,yes,12/6/24
+2024-09-06,$128.00 ,$13.06 ,lululemon,shop.lululemon.com,active,-,Lululemon Jogger,yes,12/6/24
+2024-09-09,$98.00 ,$10.00 ,lululemon,shop.lululemon.com,active,-,Lululemon Jogger,yes,12/6/24
+2024-09-10,$94.32 ,$9.62 ,lululemon,shop.lululemon.com,active,-,Lululemon Jogger,yes,12/6/24
+2024-03-19,$42.50 ,$5.10 ,Lunya,lunya.co,active,forever35pod,LUNYA | Washable Silk Sleep Mask,yes,5/3/24
+2025-10-29,$72.90 ,$30.98 ,Maelove,maelove.com,active,-,Glow Maker Vitamin C Serum,no,-
+2025-06-16,$84.48 ,$17.95 ,Maelove,maelove.com,active,fcwelcome,Glow Maker Vitamin C Serum,yes,10/3/25
+2025-05-05,$65.90 ,$14.01 ,Maelove,maelove.com,active,-,Glow Maker Vitamin C Serum,yes,9/5/25
+2025-05-14,$65.90 ,$14.01 ,Maelove,maelove.com,active,-,Glow Maker Vitamin C Serum,yes,9/5/25
+2025-06-01,$65.90 ,$14.01 ,Maelove,maelove.com,active,-,MAELOVE | The Glow Maker Serum,yes,10/3/25
+2025-06-11,$65.90 ,$14.01 ,Maelove,maelove.com,active,-,MAELOVE | The Glow Maker Serum,yes,10/3/25
+2025-06-18,$65.62 ,$13.95 ,Maelove,maelove.com,active,tenwelcome,Glow Maker Vitamin C Serum,yes,10/3/25
+2025-05-26,$59.32 ,$12.61 ,Maelove,maelove.com,active,tenwelcome,Glow Maker Vitamin C Serum,yes,10/3/25
+2025-06-17,$55.90 ,$11.87 ,Maelove,maelove.com,active,-,Glow Maker Vitamin C Serum,yes,10/3/25
+2025-05-15,$50.32 ,$10.69 ,Maelove,maelove.com,active,tenwelcome,Glow Maker Vitamin C Serum,yes,9/5/25
+2025-05-01,$47.95 ,$10.19 ,Maelove,maelove.com,active,-,MAELOVE | Peptide Squad,yes,9/5/25
+2025-04-09,$32.95 ,$7.00 ,Maelove,maelove.com,active,-,Glow Maker Vitamin C Serum,yes,8/1/25
+2025-05-14,$32.95 ,$7.00 ,Maelove,maelove.com,active,-,Glow Maker Vitamin C Serum,yes,9/5/25
+2025-06-09,$32.95 ,$7.00 ,Maelove,maelove.com,active,-,MAELOVE | Peptide Squad,yes,10/3/25
+2025-04-09,$29.66 ,$6.31 ,Maelove,maelove.com,active,tenwelcome,Glow Maker Vitamin C Serum,yes,8/1/25
+2025-08-24,$128.00 ,$9.14 ,Marley Monsters,marleysmonsters.com,active,-,UNpaper® Towels: Prints,no,-
+2024-08-28,$166.50 ,$28.30 ,Medik8,us.medik8.com,active,-,MEDIK8 | Advanced Night Ceramide,yes,10/4/24
+2024-12-31,$161.50 ,$27.45 ,Medik8,us.medik8.com,active,MOBILE15,Liquid Peptides™,yes,3/7/25
+2024-10-07,$104.00 ,$15.60 ,Medik8,us.medik8.com,active,F35,MEDIK8 | Advanced Night Ceramide,yes,1/3/25
+2024-09-06,$60.80 ,$10.34 ,Medik8,us.medik8.com,active,F35,MEDIK8 | Advanced Night Ceramide,yes,10/21/24
+2024-09-06,$60.80 ,$10.34 ,Medik8,us.medik8.com,active,F35,MEDIK8 | Advanced Night Ceramide,yes,10/21/24
+2024-09-07,$60.80 ,$10.34 ,Medik8,medik8.com,active,F35,MEDIK8 | Advanced Night Ceramide,yes,10/21/24
+2025-04-28,$142.20 ,$28.44 ,Monastery,monasterymade.com,active,WELCOME10,Monastery | Healing Botanical Skincare,yes,6/13/25
+2024-08-08,$89.00 ,$13.35 ,Mother Science,motherscience.com,active,-,MOTHER SCIENCE | Molecular Hero Serum,yes,11/1/24
+2024-08-03,$71.20 ,$10.68 ,Mother Science,motherscience.com,active,WELCOMETP672NKP,MOTHER SCIENCE | Molecular Hero Serum,yes,10/4/24
+2024-09-16,$71.20 ,$10.68 ,Mother Science,motherscience.com,active,WELCOMEZRP45XB3,MOTHER SCIENCE | Molecular Hero Serum,yes,11/29/24
+2025-08-28,$94.00 ,$14.10 ,OneSkin,oneskin.co,active,ONESKIN-5cc42f33dbf9,PREP Facial Cleanser,yes,11/7/25
+2024-01-18,$64.00 ,$3.04 ,OUAI,theouai.com,active,-,Melrose Place - Eau De Perfume,yes,5/3/24
+2024-01-20,$64.00 ,$3.04 ,OUAI,theouai.com,active,-,Melrose Place - Eau De Perfume,yes,5/3/24
+2025-10-04,$135.00 ,$8.03 ,P.F. Candle Co.,pfcandleco.com,active,-,Enoki Cedar– Candle,no,-
+2024-02-03,$17.00 ,$2.02 ,Prose,prose.com,active,-,Custom Shampoo,yes,6/28/24
+2024-12-05,$50.00 ,$4.25 ,Quince,quince.com,active,-,Quince Pants,yes,3/21/25
+2024-01-10,$66.40 ,$11.29 ,Rèphr,rephr.com,active,-,RÈPHR | Intense Hydration Cream 1.0,yes,3/8/24
+2024-01-11,$45.00 ,$7.65 ,Rèphr,rephr.com,active,-,RÈPHR | Intense Hydration Cream 1.0,yes,3/8/24
+2024-01-10,$26.00 ,$4.42 ,Rèphr,rephr.com,active,-,RÈPHR | Intense Hydration Cream 1.0,yes,3/8/24
+2024-01-12,$26.00 ,$4.42 ,Rèphr,rephr.com,active,-,RÈPHR | Intense Hydration Cream 1.0,yes,3/8/24
+2024-01-22,$26.00 ,$4.42 ,Rèphr,rephr.com,active,-,RÈPHR | Intense Hydration Cream 1.0,yes,3/8/24
+2024-04-02,$26.00 ,$4.42 ,Rèphr,rephr.com,active,-,RÈPHR | Intense Hydration Cream 1.0,yes,6/28/24
+2024-01-26,$16.90 ,$2.87 ,Rèphr,rephr.com,active,-,RÈPHR | Intense Hydration Cream 1.0,yes,3/8/24
+2024-01-10,$0.00 ,$0.00 ,Rèphr,rephr.com,cancelled,-,RÈPHR | Intense Hydration Cream 1.0,-,-
+2024-12-13,$79.88 ,$4.75 ,"ROBOTIME C&C (JIANGSU) CO.,LTD.",robotimeonline.com,active,-,DIY Miniature Room Kit,yes,3/28/25
+2024-11-27,$39.99 ,$2.38 ,"ROBOTIME C&C (JIANGSU) CO.,LTD.",robotimeonline.com,active,-,DIY Miniature Room Kit,yes,2/28/25
+2024-12-19,$39.99 ,$2.38 ,"ROBOTIME C&C (JIANGSU) CO.,LTD.",robotimeonline.com,active,-,DIY Miniature Room Kit,yes,3/28/25
+2024-12-03,$30.97 ,$1.84 ,"ROBOTIME C&C (JIANGSU) CO.,LTD.",robotimeonline.com,active,-,DIY Miniature Room Kit,yes,3/28/25
+2024-11-28,$17.81 ,$1.06 ,"ROBOTIME C&C (JIANGSU) CO.,LTD.",robotimeonline.com,active,-,DIY Miniature Room Kit,yes,2/28/25
+2025-11-20,$70.00 ,$10.50 ,Saie,saiehello.com,active,-,"YOUR SKIN, BUT BETTER",no,-
+2024-07-18,$28.00 ,$2.38 ,Saie Beauty,saiehello.com,active,-,SAIE | Hydrabeam Brightening + Hydrating Under Eye Concealer,yes,8/23/24
+2025-05-01,$108.00 ,$16.20 ,Saint Jane,saintjanebeauty.com,active,-,Luxury Sun Ritual - Pore Smoothing SPF 30 Sunscreen,yes,6/13/25
+2025-01-08,$66.00 ,$9.90 ,Saint Jane,saintjanebeauty.com,active,-,Luxury Sun Ritual - Pore Smoothing SPF 30 Sunscreen,yes,3/7/25
+2024-08-08,$291.00 ,$49.47 ,Saint Jane Beauty,saintjanebeauty.com,active,-,Luxury Sun Ritual - Pore Smoothing SPF 30 Sunscreen,yes,9/20/24
+2024-08-02,$38.00 ,$6.46 ,Saint Jane Beauty,saintjanebeauty.com,active,-,Luxury Sun Ritual - Pore Smoothing SPF 30 Sunscreen,yes,9/20/24
+2025-01-08,$106.00 ,$15.90 ,Sarah Creal Beauty,sarahcrealbeauty.com,active,-,FACE FLEX,yes,3/28/25
+2025-04-04,$260.20 ,$33.17 ,Sephora,sephora.com,active,-,ORIGINAL Beautyblender Makeup Sponge,yes,6/13/25
+2024-05-30,$276.00 ,$23.46 ,Sephora,sephora.com,active,-,SK-II | Skinpower Essence,yes,7/5/24
+2025-09-10,$110.00 ,$14.03 ,Sephora,sephora.com,active,-,SAINT JANE | Luxury Sun Ritual Pore Smoothing Sunscreen SPF 30,yes,11/7/25
+2024-05-23,$90.00 ,$7.65 ,Sephora,sephora.com,active,-,SK-II | Skinpower Essence,yes,7/5/24
+2025-10-02,$58.29 ,$7.43 ,Sephora,sephora.com,active,-,Make Up For Ever HD Skin Concealer,no,-
+2024-08-04,$46.40 ,$5.92 ,Sephora,sephora.com,active,-,"Danessa Myricks Beauty
+Yummy Skin Blurring Balm Powder",yes,10/4/24
+2025-06-15,$44.00 ,$5.61 ,Sephora,sephora.com,active,-,"PATRICK TA 
+Major Volume Plumping Lip Gloss",yes,9/5/25
+2025-09-17,$43.05 ,$5.49 ,Sephora,sephora.com,active,-,SAINT JANE | Luxury Sun Ritual Pore Smoothing Sunscreen SPF 30,yes,11/7/25
+2024-02-24,$64.00 ,$5.44 ,Sephora,sephora.com,active,-,-,yes,4/12/24
+2025-09-01,$31.10 ,$3.96 ,Sephora,sephora.com,active,-,IT COSMETICS | CC+ Nude Glow Color Correcting Skin Tint SPF 40,yes,11/7/25
+2024-10-22,$21.00 ,$2.68 ,Sephora,sephora.com,active,-,SK-II | Skinpower Essence,yes,12/6/24
+2024-08-25,$15.00 ,$2.30 ,Sephora,sephora.com,active,-,"Danessa Myricks Beauty
+Yummy Skin Blurring Balm Powder",yes,10/4/24
+2025-09-20,$0.00 ,$0.00 ,Sephora,sephora.com,cancelled,-,SAINT JANE | Luxury Sun Ritual Pore Smoothing Sunscreen SPF 30,-,-
+2025-10-27,$0.00 ,$0.00 ,Sephora,sephora.com,cancelled,-,"Danessa Myricks Beauty
+Yummy Skin Blurring Balm Powder",-,-
+2024-04-10,$154.28 ,$13.11 ,Sephora Canada,sephora.com/ca,active,-,"Rare Beauty by Selena Gomez
+Soft Pinch Liquid Blush",yes,5/31/24
+2025-07-06,$96.00 ,$19.20 ,Skincare Essentials,skincareessentials.com,active,STARS40,TIZO | 2 Facial Primer Non-Tinted SPF 40,yes,10/31/25
+2024-08-08,$148.00 ,$7.55 ,SkinCeuticals,skinceuticals.com,active,NONE,P-TIOX,yes,11/15/24
+2024-04-16,$54.00 ,$6.48 ,skinfix,skinfix.com,active,-,SKINFIX | Barrier+ Triple Lipid-Peptide Cream,yes,7/26/24
+2025-01-21,$70.00 ,$0.83 ,Skinfix,skinfix.com,active,-,Hand Repair Cream,yes,5/16/25
+2024-10-28,$71.72 ,$7.17 ,Snif,snif.co,active,-,Candle Bundle Kit,yes,12/6/24
+2024-09-29,$37.80 ,$4.82 ,Soko Glam,sokoglam.com,active,-,MISSHA | Time Revolution The First Treatment Essence 5x,yes,1/3/25
+2024-06-24,$32.22 ,$1.92 ,Style Korean US,bloomingkoco.com,active,-,Rom Nd Juicy Lasting Tint,yes,7/26/24
+2024-06-17,$17.90 ,$1.06 ,Style Korean US,bloomingkoco.com,active,-,Rom Nd Juicy Lasting Tint,yes,7/26/24
+2024-09-29,$28.37 ,$2.84 ,Stylevana,stylevana.com,active,-,[Deal] MISSHA - All-Around Safe Block Waterproof Sun Milk SPF 50+/PA++++ - 70ml,yes,11/15/24
+2024-07-28,$51.09 ,$2.55 ,Stylevana,stylevana.com,active,-,BEAUTY OF JOSEON | Matte Sun Stick : Mugwort + Camelia SPF50 PA++++,yes,9/20/24
+2024-01-24,$16.08 ,$1.61 ,Stylevana,stylevana.com,active,-,CURE | Natural Aqua Gel,yes,3/8/24
+2024-11-29,$280.00 ,$23.80 ,Target,target.com,active,7996789097,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2024-12-01,$218.49 ,$18.57 ,Target,target.com,active,-,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-12-01,$230.65 ,$15.84 ,Target,target.com,active,8173126822,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-12-03,$266.53 ,$11.59 ,Target,target.com,active,289069469,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2025-09-18,$173.98 ,$10.36 ,Target,target.com,active,"357,009,177,616,782,000,000,000,000",L'OREAL PARIS | Voluminous Lash Paradise Mascara,no,-
+2024-05-13,$126.58 ,$9.55 ,Target,target.com,active,-,Target Anti-Theft Fanny Pack,yes,8/23/24
+2024-12-02,$106.59 ,$8.98 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,3/21/25
+2024-12-14,$94.00 ,$7.99 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-12-01,$212.54 ,$7.90 ,Target,target.com,active,8081277125,3pc Waffle Kitchen Towels - Figmint™,yes,3/21/25
+2024-11-30,$201.13 ,$7.32 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2024-08-06,$99.35 ,$6.61 ,Target,target.com,active,3913454732,NEUTROGENA | Healthy Volume Lash-Plumping Mascara,yes,11/22/24
+2025-02-13,$174.26 ,$6.38 ,Target,target.com,active,519470099,PANTENE | Pro-V Repair & Protect Shampoo,yes,6/13/25
+2024-12-01,$118.50 ,$6.30 ,Target,target.com,active,2511442565,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-07-08,$69.99 ,$5.95 ,Target,target.com,active,-,Women's Drawstring Wide Leg Pants - Cupshe,yes,10/21/24
+2024-12-01,$95.52 ,$5.70 ,Target,target.com,active,321903097,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-10-07,$110.19 ,$5.55 ,Target,target.com,active,2996841653,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-11-29,$133.78 ,$5.46 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2024-11-30,$63.00 ,$5.36 ,Target,target.com,active,1187464473,3pc Waffle Kitchen Towels - Figmint™,yes,2/28/25
+2024-10-20,$107.05 ,$5.22 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-06-01,$289.32 ,$5.14 ,Target,target.com,active,-,VANICREAM | Daily Facial Moisturizer,yes,9/20/24
+2024-01-05,$63.47 ,$5.10 ,Target,target.com,active,9.85607E+19,VASELINE | Cocoa Shimmer Jelly Stick,yes,4/26/24
+2024-11-29,$87.88 ,$4.96 ,Target,target.com,active,1613520423,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2025-10-25,$99.01 ,$4.92 ,Target,target.com,active,"432,277,618,812,403,000,000,000,000",E.L.F. | Glow Reviver Lip Oil Glimmer,no,-
+2024-11-29,$83.58 ,$4.73 ,Target,target.com,active,7998846654,3pc Waffle Kitchen Towels - Figmint™,yes,2/28/25
+2024-12-13,$92.68 ,$4.61 ,Target,target.com,active,-,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-01-09,$52.30 ,$4.45 ,Target,target.com,active,-,VASELINE | Cocoa Shimmer Jelly Stick,yes,4/26/24
+2024-07-14,$87.28 ,$4.33 ,Target,target.com,active,3075615880,4.1oz Lidded Glass Jar Cozy Nights Candle - Opalhouse&#8482;,yes,10/21/24
+2024-11-29,$84.16 ,$4.33 ,Target,target.com,active,2370776211,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2024-11-16,$56.99 ,$4.31 ,Target,target.com,active,2504807219,VANICREAM | Moisturizing Cream,yes,2/28/25
+2024-12-01,$66.69 ,$4.17 ,Target,target.com,active,2401433577,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-01-31,$108.75 ,$3.90 ,Target,target.com,active,98560615038412738774:77efd3cb-87d4-4c52-b7f7-bcd439b749c0,BYBI | Clean Beauty Milk Melt Oat Milk Gently Foaming Vegan Facial Cleanser,yes,4/26/24
+2024-05-30,$55.58 ,$3.84 ,Target,target.com,active,-,Pixi Glow Tonic,yes,8/23/24
+2024-12-02,$89.99 ,$3.83 ,Target,target.com,active,-,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-06-02,$119.86 ,$3.80 ,Target,target.com,active,8038021349,VERSED | Dew Point Moisturizing Gel-Cream,yes,9/20/24
+2024-12-02,$80.94 ,$3.77 ,Target,target.com,active,-,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-12-02,$82.59 ,$3.51 ,Target,target.com,active,42006f8e-949b-46b6-b53f-30cf030a6f4a:1616559183,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-10-04,$56.54 ,$3.40 ,Target,target.com,active,8016331506,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2025-09-13,$50.99 ,$3.36 ,Target,target.com,active,357009177,NEUTROGENA | Healthy Volume Lash-Plumping Mascara,no,-
+2024-05-30,$88.55 ,$3.31 ,Target,target.com,active,7968638387,OPALHOUSE | 21oz Core Lidded Glass Jar 2-Wick Candle Cozy Nights -,yes,8/23/24
+2024-11-28,$39.04 ,$3.31 ,Target,target.com,active,3943280667,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2024-11-29,$53.37 ,$3.26 ,Target,target.com,active,2370776211,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2024-08-04,$122.97 ,$3.19 ,Target,target.com,active,1673649978,L'OREAL PARIS | Voluminous Lash Paradise Mascara,yes,11/22/24
+2024-03-23,$49.96 ,$3.16 ,Target,target.com,active,9.85606E+19,MAYBELLINE | Super Stay Matte Ink Lip Color,yes,6/28/24
+2024-11-28,$36.00 ,$3.06 ,Target,target.com,active,20143973108,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2024-02-18,$59.47 ,$2.98 ,Target,target.com,active,9.85606E+19,Target Anti-Theft Fanny Pack,yes,5/24/24
+2025-06-24,$54.49 ,$2.97 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,10/3/25
+2024-03-21,$61.25 ,$2.96 ,Target,target.com,active,-,11oz Lidded Milky Glass Jar Water Mint And Eucalyptus Candle - Threshold&#8482;,yes,6/28/24
+2024-10-09,$65.87 ,$2.95 ,Target,target.com,active,20141833923,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-06-02,$41.78 ,$2.91 ,Target,target.com,active,7806769746,Pixi Glow Tonic,yes,9/20/24
+2024-02-05,$37.38 ,$2.80 ,Target,target.com,active,-,Target Anti-Theft Fanny Pack,yes,5/24/24
+2024-02-10,$36.63 ,$2.76 ,Target,target.com,active,9.85606E+19,Target Anti-Theft Fanny Pack,yes,5/24/24
+2024-02-11,$52.20 ,$2.69 ,Target,target.com,active,9.85607E+19,Flamingo Spray On Moisturizer,yes,5/24/24
+2024-11-30,$41.46 ,$2.69 ,Target,target.com,active,8083986615,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2025-05-10,$44.43 ,$2.69 ,Target,target.com,active,1910841178,L'OREAL PARIS | Voluminous Lash Paradise Mascara,yes,9/5/25
+2024-02-08,$35.75 ,$2.62 ,Target,target.com,active,-,Flamingo Spray On Moisturizer,yes,5/24/24
+2024-12-02,$61.68 ,$2.62 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-11-29,$61.24 ,$2.60 ,Target,target.com,active,7991283889,3pc Waffle Kitchen Towels - Figmint™,yes,2/28/25
+2024-03-23,$102.30 ,$2.58 ,Target,target.com,active,-,11oz Lidded Milky Glass Jar Water Mint And Eucalyptus Candle - Threshold&#8482;,yes,6/28/24
+2024-01-31,$29.61 ,$2.52 ,Target,target.com,active,-,Target Anti-Theft Fanny Pack,yes,4/26/24
+2024-08-05,$83.29 ,$2.45 ,Target,target.com,active,3219661865,NEUTROGENA | Healthy Volume Lash-Plumping Mascara,yes,11/22/24
+2024-10-05,$34.99 ,$2.43 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-12-02,$61.15 ,$2.40 ,Target,target.com,active,3434220073,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-07-30,$40.16 ,$2.37 ,Target,target.com,active,-,L'OREAL PARIS | Voluminous Lash Paradise Mascara,yes,10/21/24
+2024-03-16,$131.88 ,$2.27 ,Target,target.com,active,-,Carmex Daily Care Lip Balm Moisturizing Tube - SPF 15 - Assorted - 4pk/1.4oz,yes,6/28/24
+2024-11-29,$40.77 ,$2.24 ,Target,target.com,active,-,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2024-11-28,$26.12 ,$2.23 ,Target,target.com,active,7886870441,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2024-05-31,$63.05 ,$2.19 ,Target,target.com,active,7806769746,Pixi Glow Tonic,yes,8/23/24
+2024-08-02,$34.60 ,$2.11 ,Target,target.com,active,-,L'OREAL PARIS | Voluminous Lash Paradise Mascara,yes,11/22/24
+2024-12-01,$68.32 ,$2.08 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,3/21/25
+2024-04-30,$24.00 ,$2.04 ,Target,target.com,active,9.85607E+19,HERO COSMETICS | Mighty Patch Micropoint for Blemishes,yes,7/26/24
+2025-08-22,$34.09 ,$2.03 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,11/21/25
+2025-10-12,$72.62 ,$2.01 ,Target,target.com,active,"14,084,115,488,810,000",NEUTROGENA | Healthy Volume Lash-Plumping Mascara,no,-
+2024-09-06,$48.41 ,$1.97 ,Target,target.com,active,-,L'OREAL PARIS | Voluminous Lash Paradise Mascara,yes,1/3/25
+2024-12-10,$51.26 ,$1.97 ,Target,target.com,active,44259529,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-03-27,$61.67 ,$1.93 ,Target,target.com,active,9.85606E+19,MAYBELLINE | Super Stay Matte Ink Lip Color,yes,6/28/24
+2025-06-21,$135.53 ,$1.92 ,Target,target.com,active,-,Coppertone Kids' Roll-On Sunscreen Lotion - SPF 50 - 2.5 fl oz,yes,10/3/25
+2024-02-01,$28.30 ,$1.90 ,Target,target.com,active,-,Target Anti-Theft Fanny Pack,yes,5/24/24
+2024-10-04,$36.48 ,$1.90 ,Target,target.com,active,1305284268,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-11-28,$89.58 ,$1.90 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2025-10-28,$75.56 ,$1.90 ,Target,target.com,active,"432,277,618,357,009,000",AUSSIE | Miracle Curls With Coconut And Jojoba Oil And Paraben Free Shampoo,no,-
+2024-02-16,$28.38 ,$1.86 ,Target,target.com,active,9.85607E+19,Flamingo Spray On Moisturizer,yes,5/24/24
+2024-10-25,$38.90 ,$1.81 ,Target,target.com,active,7960521796,11oz Lidded Milky Glass Jar Water Mint And Eucalyptus Candle - Threshold&#8482;,yes,1/24/25
+2024-12-01,$21.28 ,$1.81 ,Target,target.com,active,7948162904,3pc Waffle Kitchen Towels - Figmint™,yes,3/21/25
+2024-12-03,$44.06 ,$1.78 ,Target,target.com,active,7998400319,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-12-14,$32.17 ,$1.73 ,Target,target.com,active,8012111611,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-02-14,$44.96 ,$1.70 ,Target,target.com,active,-,BYBI | Clean Beauty Milk Melt Oat Milk Gently Foaming Vegan Facial Cleanser,yes,5/24/24
+2025-08-17,$37.98 ,$1.61 ,Target,target.com,active,-,VERSED | Dew Point Moisturizing Gel-Cream,yes,11/21/25
+2024-01-18,$38.14 ,$1.56 ,Target,target.com,active,-,VASELINE | Cocoa Shimmer Jelly Stick,yes,4/26/24
+2024-12-04,$91.20 ,$1.56 ,Target,target.com,active,1278619529,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-11-27,$44.65 ,$1.51 ,Target,target.com,active,-,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2024-02-07,$40.27 ,$1.50 ,Target,target.com,active,9.85606E+19,VASELINE | All-Over Body Balm Stick,yes,5/24/24
+2024-10-21,$47.46 ,$1.36 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-05-31,$68.64 ,$1.33 ,Target,target.com,active,1516201348,OPALHOUSE | 21oz Core Lidded Glass Jar 2-Wick Candle Cozy Nights -,yes,8/23/24
+2024-11-30,$109.19 ,$1.27 ,Target,target.com,active,7998846654,3pc Waffle Kitchen Towels - Figmint™,yes,2/28/25
+2024-10-23,$43.08 ,$1.19 ,Target,target.com,active,1352001438,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-10-26,$45.66 ,$1.16 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-12-02,$36.74 ,$1.16 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-12-13,$27.15 ,$1.16 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-11-30,$17.79 ,$1.15 ,Target,target.com,active,2370776211,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2025-09-29,$29.70 ,$1.12 ,Target,target.com,active,"12,194,378,688,810,200",NEUTROGENA | Healthy Volume Lash-Plumping Mascara,no,-
+2024-07-28,$33.94 ,$1.07 ,Target,target.com,active,2540180165,Women's Short Sleeve Boxy T-Shirt - Universal Thread,yes,10/21/24
+2024-12-01,$24.99 ,$1.06 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-12-03,$28.77 ,$1.06 ,Target,target.com,active,2151754627,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-12-01,$37.82 ,$1.03 ,Target,target.com,active,-,Mondo Llama : Kids’ Crafts,yes,3/21/25
+2024-02-02,$23.74 ,$1.01 ,Target,target.com,active,-,Target Anti-Theft Fanny Pack,yes,5/24/24
+2025-02-09,$36.93 ,$0.94 ,Target,target.com,active,-,L'OREAL PARIS | Revitalift Pressed Night Cream With Retinol,yes,6/13/25
+2024-02-02,$44.93 ,$0.93 ,Target,target.com,active,9.85606E+19,Target Anti-Theft Fanny Pack,yes,5/24/24
+2024-02-18,$52.48 ,$0.89 ,Target,target.com,active,9.85606E+19,Target Anti-Theft Fanny Pack,yes,5/24/24
+2024-12-04,$33.85 ,$0.86 ,Target,target.com,active,509886948,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-12-02,$45.71 ,$0.72 ,Target,target.com,active,3554477176,3pc Waffle Kitchen Towels - Figmint™,yes,3/21/25
+2024-11-27,$16.59 ,$0.71 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2024-11-29,$16.59 ,$0.71 ,Target,target.com,active,1511511481,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2024-11-27,$7.60 ,$0.65 ,Target,target.com,active,1408702120,3pc Waffle Kitchen Towels - Figmint™,yes,2/28/25
+2024-12-01,$13.93 ,$0.59 ,Target,target.com,active,-,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,3/21/25
+2024-02-13,$19.12 ,$0.48 ,Target,target.com,active,9.85607E+19,Flamingo Spray On Moisturizer,yes,5/24/24
+2024-11-28,$10.24 ,$0.43 ,Target,target.com,active,3152794264,Terra by Battat – Remote Control Infrared Light-Up Spider – Tarantula,yes,2/28/25
+2024-02-12,$3.72 ,$0.31 ,Target,target.com,active,9.85607E+19,Flamingo Spray On Moisturizer,yes,5/24/24
+2024-03-23,$19.98 ,$0.31 ,Target,target.com,active,-,11oz Lidded Milky Glass Jar Water Mint And Eucalyptus Candle - Threshold&#8482;,yes,6/28/24
+2024-11-30,$52.35 ,$0.31 ,Target,target.com,active,-,3pc Waffle Kitchen Towels - Figmint™,yes,2/28/25
+2024-02-12,$9.88 ,$0.25 ,Target,target.com,active,9.85607E+19,Flamingo Spray On Moisturizer,yes,5/24/24
+2024-08-18,$7.66 ,$0.20 ,Target,target.com,active,7987370196,Snack Club Tajin Gummy Bears Candy - 6.5oz,yes,11/22/24
+2024-10-25,$40.63 ,$0.19 ,Target,target.com,active,7948852035,3pc Waffle Kitchen Towels - Figmint™,yes,1/24/25
+2024-11-27,$5.99 ,$0.15 ,Target,target.com,active,8021120663,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2024-11-30,$5.59 ,$0.14 ,Target,target.com,active,8083986615,Mondo Llama : Kids’ Crafts,yes,2/28/25
+2024-01-05,$0.00 ,$0.00 ,Target,target.com,cancelled,-,A New Day Women's Quarter Zip Sweatshirt,-,-
+2024-04-25,$0.00 ,$0.00 ,Target,target.com,cancelled,9.85606E+19,CONAIR | Double Ceramic Rose Gold Curling Iron,-,-
+2024-05-13,$0.00 ,$0.00 ,Target,target.com,cancelled,-,Target Anti-Theft Fanny Pack,-,-
+2024-05-14,$0.00 ,$0.00 ,Target,target.com,cancelled,-,Target Anti-Theft Fanny Pack,-,-
+2024-05-16,$0.00 ,$0.00 ,Target,target.com,cancelled,-,Target Anti-Theft Fanny Pack,-,-
+2024-05-18,$0.00 ,$0.00 ,Target,target.com,cancelled,174711936,Target Anti-Theft Fanny Pack,-,-
+2024-10-05,$0.00 ,$0.00 ,Target,target.com,cancelled,365449874,3pc Waffle Kitchen Towels - Figmint™,-,-
+2024-10-17,$0.00 ,$0.00 ,Target,target.com,cancelled,861940786,3pc Waffle Kitchen Towels - Figmint™,-,-
+2024-11-27,$0.00 ,$0.00 ,Target,target.com,cancelled,8021120663,Mondo Llama : Kids’ Crafts,-,-
+2024-01-04,$92.40 ,$3.93 ,The Company Store,thecompanystore.com,active,COZY24,The Company | Spectrum Bath Towels,yes,4/12/24
+2024-01-07,$77.40 ,$3.29 ,The Company Store,thecompanystore.com,active,COZY24,The Company | Spectrum Bath Towels,yes,4/12/24
+2025-03-06,$45.60 ,$7.75 ,Thrive Causemetics,thrivecausemetics.com,cancelled,-,THRIVE CAUSEMETICS | Liquid Lash Extensions Mascara,-,-
+2025-02-26,$26.00 ,$3.31 ,Thrive Causemetics,thrivecausemetics.com,active,-,THRIVE CAUSEMETICS | Brilliant Eye Brightener,yes,4/25/25
+2024-01-03,$75.00 ,$2.24 ,Thymes,thymes.com,active,-,Thymes Frasier Fir Candle,yes,5/3/24
+2025-08-26,$115.60 ,$23.12 ,Tower 28,tower28beauty.com,active,ALIA2XLYIP,TOWER 28 | BeachPlease Luminous Tinted Cream Blush,yes,10/3/25
+2025-11-28,$37.44 ,$7.49 ,Tower 28,tower28beauty.com,active,-,TOWER 28 | BeachPlease Luminous Tinted Balm,no,-
+2024-04-27,$20.00 ,$2.00 ,Tower 28,tower28beauty.com,active,-,TOWER 28 | MakeWaves Lengthening + Curling Clean Mascara,yes,6/28/24
+2024-05-14,$16.00 ,$1.60 ,Tower 28,tower28beauty.com,active,-,TOWER 28 | Shineon Lip Jelly,yes,7/5/24
+2025-03-10,$90.00 ,$11.47 ,Ulta,ulta.com,active,-,TARTE | Shape Tape Concealer,yes,6/20/25
+2025-08-17,$119.00 ,$10.12 ,Ulta,ulta.com,active,-,NYX PROFESSIONAL MAKEUP | Butter Gloss Non-Stick Lip Gloss,yes,11/21/25
+2024-10-13,$44.69 ,$6.84 ,Ulta,ulta.com,active,-,Burt's Bees Lip Balm,yes,1/24/25
+2024-08-08,$5.49 ,$0.70 ,Ulta,ulta.com,active,-,Burt's Bees Lip Balm,yes,11/1/24
+2024-03-04,$0.00 ,$0.00 ,Ulta,ulta.com,cancelled,132rp17z3btuk2,BEEKMAN 1802 | Milk Shake Hyaluronic Acid & Squalane Facial Toner Mist,-,-
+2025-09-10,$111.00 ,$3.77 ,Universal Standard,universalstandard.com,active,-,Donna High Rise Curve Straight Leg Jeans 27 Inch - Dark Indigo,yes,11/21/25
+2024-05-13,$77.97 ,$14.03 ,VERSED,versedskin.com,active,-,VERSED | Day Dissolve Cleansing Balm,yes,7/5/24
+2025-11-21,$58.50 ,$14.62 ,VETTED Dermlab,vetteddermlab.com,active,BlkFri25,VETTED DERMLAB | VC - Vitamin C Complex Serum,no,-
+2024-12-11,$189.96 ,$4.84 ,Walmart Affiliate Program,walmart.com,active,-,-,yes,4/25/25
+2024-03-31,$45.10 ,$1.16 ,Walmart Affiliate Program,walmart.com,active,-,-,yes,8/23/24
+2024-12-13,$14.99 ,$0.51 ,Walmart Affiliate Program,walmart.com,active,-,-,yes,4/25/25
+2024-11-14,$14.50 ,$0.37 ,Walmart Affiliate Program,walmart.com,active,-,Phoera Soft Matte Longwear Liquid Foundation,yes,3/14/25
+2025-09-02,$104.90 ,$7.11 ,Zenni Optical,zennioptical.com,active,-,Kate's Cat Eye glasses,no,-

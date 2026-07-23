@@ -11,7 +11,7 @@ Anna,F,15666
 Evelyn,F,13493
 Marie,F,12589
 Alice,F,11590
-Florence,F,11317
+Florence,F,11318
 Lillian,F,9986
 Irene,F,9774
 Rose,F,9568
@@ -33,7 +33,7 @@ Thelma,F,7740
 Hazel,F,7615
 Marjorie,F,7517
 Pauline,F,7222
-Annie,F,6742
+Annie,F,6743
 Jean,F,6600
 Esther,F,6574
 Gertrude,F,6264
@@ -81,7 +81,7 @@ Phyllis,F,3326
 Genevieve,F,3304
 Wilma,F,3298
 Violet,F,3294
-Ella,F,3290
+Ella,F,3291
 Juanita,F,3260
 Marguerite,F,3249
 Maxine,F,3216
@@ -5585,7 +5585,7 @@ Zudora,F,5
 Zuella,F,5
 John,M,56558
 William,M,45291
-James,M,42116
+James,M,42115
 Robert,M,40619
 Charles,M,26921
 George,M,26318
@@ -5616,7 +5616,7 @@ Francis,M,6347
 Earl,M,6321
 Roy,M,6211
 Fred,M,6182
-Joe,M,5804
+Joe,M,5805
 Eugene,M,5631
 Stanley,M,5618
 Ernest,M,5527
@@ -5628,7 +5628,7 @@ Alfred,M,4873
 Samuel,M,4772
 Elmer,M,4373
 Michael,M,4296
-Andrew,M,4139
+Andrew,M,4138
 Bernard,M,4098
 Leo,M,4036
 Norman,M,3867

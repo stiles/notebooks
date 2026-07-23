@@ -1,0 +1,902 @@
+[
+    {
+        "name":"Baldwin, Tammy",
+        "state":"Wisconsin",
+        "party":"Democratic",
+        "fips":"55",
+        "density":108.84615502,
+        "population":5895908,
+        "population_portion":2947954.0
+    },
+    {
+        "name":"Barrasso, John",
+        "state":"Wyoming",
+        "party":"Republican",
+        "fips":"56",
+        "density":5.9615893092,
+        "population":578803,
+        "population_portion":289402.0
+    },
+    {
+        "name":"Bennet, Michael F.",
+        "state":"Colorado",
+        "party":"Democratic",
+        "fips":"08",
+        "density":56.081421447,
+        "population":5812069,
+        "population_portion":2906034.0
+    },
+    {
+        "name":"Blackburn, Marsha",
+        "state":"Tennessee",
+        "party":"Republican",
+        "fips":"47",
+        "density":169.16790214,
+        "population":6975218,
+        "population_portion":3487609.0
+    },
+    {
+        "name":"Blumenthal, Richard",
+        "state":"Connecticut",
+        "party":"Democratic",
+        "fips":"09",
+        "density":744.55699104,
+        "population":3605597,
+        "population_portion":1802798.0
+    },
+    {
+        "name":"Booker, Cory A.",
+        "state":"New Jersey",
+        "party":"Democratic",
+        "fips":"34",
+        "density":1260.0290755,
+        "population":9267130,
+        "population_portion":4633565.0
+    },
+    {
+        "name":"Boozman, John",
+        "state":"Arkansas",
+        "party":"Republican",
+        "fips":"05",
+        "density":58.194678618,
+        "population":3025891,
+        "population_portion":1512946.0
+    },
+    {
+        "name":"Braun, Mike",
+        "state":"Indiana",
+        "party":"Republican",
+        "fips":"18",
+        "density":189.97357795,
+        "population":6805985,
+        "population_portion":3402992.0
+    },
+    {
+        "name":"Britt, Katie Boyd",
+        "state":"Alabama",
+        "party":"Republican",
+        "fips":"01",
+        "density":99.509912915,
+        "population":5039877,
+        "population_portion":2519938.0
+    },
+    {
+        "name":"Brown, Sherrod",
+        "state":"Ohio",
+        "party":"Democratic",
+        "fips":"39",
+        "density":288.30981725,
+        "population":11780017,
+        "population_portion":5890008.0
+    },
+    {
+        "name":"Budd, Ted",
+        "state":"North Carolina",
+        "party":"Republican",
+        "fips":"37",
+        "density":216.99971703,
+        "population":10551162,
+        "population_portion":5275581.0
+    },
+    {
+        "name":"Butler, Laphonza R.",
+        "state":"California",
+        "party":"Democratic",
+        "fips":"06",
+        "density":251.75436223,
+        "population":39237836,
+        "population_portion":19618918.0
+    },
+    {
+        "name":"Cantwell, Maria",
+        "state":"Washington",
+        "party":"Democratic",
+        "fips":"53",
+        "density":116.44970943,
+        "population":7738692,
+        "population_portion":3869346.0
+    },
+    {
+        "name":"Capito, Shelley Moore",
+        "state":"West Virginia",
+        "party":"Republican",
+        "fips":"54",
+        "density":74.162762892,
+        "population":1782959,
+        "population_portion":891480.0
+    },
+    {
+        "name":"Cardin, Benjamin L.",
+        "state":"Maryland",
+        "party":"Democratic",
+        "fips":"24",
+        "density":634.8490376,
+        "population":6165129,
+        "population_portion":3082564.0
+    },
+    {
+        "name":"Carper, Thomas R.",
+        "state":"Delaware",
+        "party":"Democratic",
+        "fips":"10",
+        "density":514.93862029,
+        "population":1003384,
+        "population_portion":501692.0
+    },
+    {
+        "name":"Casey, Robert P., Jr.",
+        "state":"Pennsylvania",
+        "party":"Democratic",
+        "fips":"42",
+        "density":289.74978553,
+        "population":12964056,
+        "population_portion":6482028.0
+    },
+    {
+        "name":"Cassidy, Bill",
+        "state":"Louisiana",
+        "party":"Republican",
+        "fips":"22",
+        "density":107.01035949,
+        "population":4624047,
+        "population_portion":2312024.0
+    },
+    {
+        "name":"Collins, Susan M.",
+        "state":"Maine",
+        "party":"Republican",
+        "fips":"23",
+        "density":44.488287401,
+        "population":1372247,
+        "population_portion":686124.0
+    },
+    {
+        "name":"Coons, Christopher A.",
+        "state":"Delaware",
+        "party":"Democratic",
+        "fips":"10",
+        "density":514.93862029,
+        "population":1003384,
+        "population_portion":501692.0
+    },
+    {
+        "name":"Cornyn, John",
+        "state":"Texas",
+        "party":"Republican",
+        "fips":"48",
+        "density":113.01820138,
+        "population":29527941,
+        "population_portion":14763970.0
+    },
+    {
+        "name":"Cortez Masto, Catherine",
+        "state":"Nevada",
+        "party":"Democratic",
+        "fips":"32",
+        "density":28.618062094,
+        "population":3143991,
+        "population_portion":1571996.0
+    },
+    {
+        "name":"Cotton, Tom",
+        "state":"Arkansas",
+        "party":"Republican",
+        "fips":"05",
+        "density":58.194678618,
+        "population":3025891,
+        "population_portion":1512946.0
+    },
+    {
+        "name":"Cramer, Kevin",
+        "state":"North Dakota",
+        "party":"Republican",
+        "fips":"38",
+        "density":11.231803902,
+        "population":774948,
+        "population_portion":387474.0
+    },
+    {
+        "name":"Crapo, Mike",
+        "state":"Idaho",
+        "party":"Republican",
+        "fips":"16",
+        "density":23.001022601,
+        "population":1900923,
+        "population_portion":950462.0
+    },
+    {
+        "name":"Cruz, Ted",
+        "state":"Texas",
+        "party":"Republican",
+        "fips":"48",
+        "density":113.01820138,
+        "population":29527941,
+        "population_portion":14763970.0
+    },
+    {
+        "name":"Daines, Steve",
+        "state":"Montana",
+        "party":"Republican",
+        "fips":"30",
+        "density":7.5868654853,
+        "population":1104271,
+        "population_portion":552136.0
+    },
+    {
+        "name":"Duckworth, Tammy",
+        "state":"Illinois",
+        "party":"Democratic",
+        "fips":"17",
+        "density":228.2588546,
+        "population":12671469,
+        "population_portion":6335734.0
+    },
+    {
+        "name":"Durbin, Richard J.",
+        "state":"Illinois",
+        "party":"Democratic",
+        "fips":"17",
+        "density":228.2588546,
+        "population":12671469,
+        "population_portion":6335734.0
+    },
+    {
+        "name":"Ernst, Joni",
+        "state":"Iowa",
+        "party":"Republican",
+        "fips":"19",
+        "density":57.169008467,
+        "population":3193079,
+        "population_portion":1596540.0
+    },
+    {
+        "name":"Fetterman, John",
+        "state":"Pennsylvania",
+        "party":"Democratic",
+        "fips":"42",
+        "density":289.74978553,
+        "population":12964056,
+        "population_portion":6482028.0
+    },
+    {
+        "name":"Fischer, Deb",
+        "state":"Nebraska",
+        "party":"Republican",
+        "fips":"31",
+        "density":25.56296437,
+        "population":1963692,
+        "population_portion":981846.0
+    },
+    {
+        "name":"Gillibrand, Kirsten E.",
+        "state":"New York",
+        "party":"Democratic",
+        "fips":"36",
+        "density":420.93596008,
+        "population":19835913,
+        "population_portion":9917956.0
+    },
+    {
+        "name":"Graham, Lindsey",
+        "state":"South Carolina",
+        "party":"Republican",
+        "fips":"45",
+        "density":172.65344876,
+        "population":5190705,
+        "population_portion":2595352.0
+    },
+    {
+        "name":"Grassley, Chuck",
+        "state":"Iowa",
+        "party":"Republican",
+        "fips":"19",
+        "density":57.169008467,
+        "population":3193079,
+        "population_portion":1596540.0
+    },
+    {
+        "name":"Hagerty, Bill",
+        "state":"Tennessee",
+        "party":"Republican",
+        "fips":"47",
+        "density":169.16790214,
+        "population":6975218,
+        "population_portion":3487609.0
+    },
+    {
+        "name":"Hassan, Margaret Wood",
+        "state":"New Hampshire",
+        "party":"Democratic",
+        "fips":"33",
+        "density":155.12950348,
+        "population":1388992,
+        "population_portion":694496.0
+    },
+    {
+        "name":"Hawley, Josh",
+        "state":"Missouri",
+        "party":"Republican",
+        "fips":"29",
+        "density":89.723503599,
+        "population":6168187,
+        "population_portion":3084094.0
+    },
+    {
+        "name":"Heinrich, Martin",
+        "state":"New Mexico",
+        "party":"Democratic",
+        "fips":"35",
+        "density":17.441507027,
+        "population":2115877,
+        "population_portion":1057938.0
+    },
+    {
+        "name":"Hickenlooper, John W.",
+        "state":"Colorado",
+        "party":"Democratic",
+        "fips":"08",
+        "density":56.081421447,
+        "population":5812069,
+        "population_portion":2906034.0
+    },
+    {
+        "name":"Hirono, Mazie K.",
+        "state":"Hawaii",
+        "party":"Democratic",
+        "fips":"15",
+        "density":224.45613791,
+        "population":1441553,
+        "population_portion":720776.0
+    },
+    {
+        "name":"Hoeven, John",
+        "state":"North Dakota",
+        "party":"Republican",
+        "fips":"38",
+        "density":11.231803902,
+        "population":774948,
+        "population_portion":387474.0
+    },
+    {
+        "name":"Hyde-Smith, Cindy",
+        "state":"Mississippi",
+        "party":"Republican",
+        "fips":"28",
+        "density":62.866946395,
+        "population":2949965,
+        "population_portion":1474982.0
+    },
+    {
+        "name":"Johnson, Ron",
+        "state":"Wisconsin",
+        "party":"Republican",
+        "fips":"55",
+        "density":108.84615502,
+        "population":5895908,
+        "population_portion":2947954.0
+    },
+    {
+        "name":"Kaine, Tim",
+        "state":"Virginia",
+        "party":"Democratic",
+        "fips":"51",
+        "density":218.89051189,
+        "population":8642274,
+        "population_portion":4321137.0
+    },
+    {
+        "name":"Kelly, Mark",
+        "state":"Arizona",
+        "party":"Democratic",
+        "fips":"04",
+        "density":64.022113803,
+        "population":7276316,
+        "population_portion":3638158.0
+    },
+    {
+        "name":"Kennedy, John",
+        "state":"Louisiana",
+        "party":"Republican",
+        "fips":"22",
+        "density":107.01035949,
+        "population":4624047,
+        "population_portion":2312024.0
+    },
+    {
+        "name":"King, Angus S., Jr.",
+        "state":"Maine",
+        "party":"Independent",
+        "fips":"23",
+        "density":44.488287401,
+        "population":1372247,
+        "population_portion":686124.0
+    },
+    {
+        "name":"Klobuchar, Amy",
+        "state":"Minnesota",
+        "party":"Democratic",
+        "fips":"27",
+        "density":71.677007309,
+        "population":5707390,
+        "population_portion":2853695.0
+    },
+    {
+        "name":"Lankford, James",
+        "state":"Oklahoma",
+        "party":"Republican",
+        "fips":"40",
+        "density":58.117159393,
+        "population":3986639,
+        "population_portion":1993320.0
+    },
+    {
+        "name":"Lee, Mike",
+        "state":"Utah",
+        "party":"Republican",
+        "fips":"49",
+        "density":40.520795603,
+        "population":3337975,
+        "population_portion":1668988.0
+    },
+    {
+        "name":"Luj\u00e1n, Ben Ray",
+        "state":"New Mexico",
+        "party":"Democratic",
+        "fips":"35",
+        "density":17.441507027,
+        "population":2115877,
+        "population_portion":1057938.0
+    },
+    {
+        "name":"Lummis, Cynthia M.",
+        "state":"Wyoming",
+        "party":"Republican",
+        "fips":"56",
+        "density":5.9615893092,
+        "population":578803,
+        "population_portion":289402.0
+    },
+    {
+        "name":"Manchin, Joe, III",
+        "state":"West Virginia",
+        "party":"Independent",
+        "fips":"54",
+        "density":74.162762892,
+        "population":1782959,
+        "population_portion":891480.0
+    },
+    {
+        "name":"Markey, Edward J.",
+        "state":"Massachusetts",
+        "party":"Democratic",
+        "fips":"25",
+        "density":895.36953013,
+        "population":6984723,
+        "population_portion":3492362.0
+    },
+    {
+        "name":"Marshall, Roger",
+        "state":"Kansas",
+        "party":"Republican",
+        "fips":"20",
+        "density":35.893253619,
+        "population":2934582,
+        "population_portion":1467291.0
+    },
+    {
+        "name":"McConnell, Mitch",
+        "state":"Kentucky",
+        "party":"Republican",
+        "fips":"21",
+        "density":114.18646796,
+        "population":4509394,
+        "population_portion":2254697.0
+    },
+    {
+        "name":"Menendez, Robert",
+        "state":"New Jersey",
+        "party":"Democratic",
+        "fips":"34",
+        "density":1260.0290755,
+        "population":9267130,
+        "population_portion":4633565.0
+    },
+    {
+        "name":"Merkley, Jeff",
+        "state":"Oregon",
+        "party":"Democratic",
+        "fips":"41",
+        "density":44.232678273,
+        "population":4246155,
+        "population_portion":2123078.0
+    },
+    {
+        "name":"Moran, Jerry",
+        "state":"Kansas",
+        "party":"Republican",
+        "fips":"20",
+        "density":35.893253619,
+        "population":2934582,
+        "population_portion":1467291.0
+    },
+    {
+        "name":"Mullin, Markwayne",
+        "state":"Oklahoma",
+        "party":"Republican",
+        "fips":"40",
+        "density":58.117159393,
+        "population":3986639,
+        "population_portion":1993320.0
+    },
+    {
+        "name":"Murkowski, Lisa",
+        "state":"Alaska",
+        "party":"Republican",
+        "fips":"02",
+        "density":1.2830925496,
+        "population":732673,
+        "population_portion":366336.0
+    },
+    {
+        "name":"Murphy, Christopher",
+        "state":"Connecticut",
+        "party":"Democratic",
+        "fips":"09",
+        "density":744.55699104,
+        "population":3605597,
+        "population_portion":1802798.0
+    },
+    {
+        "name":"Murray, Patty",
+        "state":"Washington",
+        "party":"Democratic",
+        "fips":"53",
+        "density":116.44970943,
+        "population":7738692,
+        "population_portion":3869346.0
+    },
+    {
+        "name":"Ossoff, Jon",
+        "state":"Georgia",
+        "party":"Democratic",
+        "fips":"13",
+        "density":187.11258523,
+        "population":10799566,
+        "population_portion":5399783.0
+    },
+    {
+        "name":"Padilla, Alex",
+        "state":"California",
+        "party":"Democratic",
+        "fips":"06",
+        "density":251.75436223,
+        "population":39237836,
+        "population_portion":19618918.0
+    },
+    {
+        "name":"Paul, Rand",
+        "state":"Kentucky",
+        "party":"Republican",
+        "fips":"21",
+        "density":114.18646796,
+        "population":4509394,
+        "population_portion":2254697.0
+    },
+    {
+        "name":"Peters, Gary C.",
+        "state":"Michigan",
+        "party":"Democratic",
+        "fips":"26",
+        "density":177.55193594,
+        "population":10050811,
+        "population_portion":5025406.0
+    },
+    {
+        "name":"Reed, Jack",
+        "state":"Rhode Island",
+        "party":"Democratic",
+        "fips":"44",
+        "density":1059.6989939,
+        "population":1095610,
+        "population_portion":547805.0
+    },
+    {
+        "name":"Ricketts, Pete",
+        "state":"Nebraska",
+        "party":"Republican",
+        "fips":"31",
+        "density":25.56296437,
+        "population":1963692,
+        "population_portion":981846.0
+    },
+    {
+        "name":"Risch, James E.",
+        "state":"Idaho",
+        "party":"Republican",
+        "fips":"16",
+        "density":23.001022601,
+        "population":1900923,
+        "population_portion":950462.0
+    },
+    {
+        "name":"Romney, Mitt",
+        "state":"Utah",
+        "party":"Republican",
+        "fips":"49",
+        "density":40.520795603,
+        "population":3337975,
+        "population_portion":1668988.0
+    },
+    {
+        "name":"Rosen, Jacky",
+        "state":"Nevada",
+        "party":"Democratic",
+        "fips":"32",
+        "density":28.618062094,
+        "population":3143991,
+        "population_portion":1571996.0
+    },
+    {
+        "name":"Rounds, Mike",
+        "state":"South Dakota",
+        "party":"Republican",
+        "fips":"46",
+        "density":11.810848986,
+        "population":895376,
+        "population_portion":447688.0
+    },
+    {
+        "name":"Rubio, Marco",
+        "state":"Florida",
+        "party":"Republican",
+        "fips":"12",
+        "density":405.98041819,
+        "population":21781128,
+        "population_portion":10890564.0
+    },
+    {
+        "name":"Sanders, Bernard",
+        "state":"Vermont",
+        "party":"Independent",
+        "fips":"50",
+        "density":70.037811804,
+        "population":645570,
+        "population_portion":322785.0
+    },
+    {
+        "name":"Schatz, Brian",
+        "state":"Hawaii",
+        "party":"Democratic",
+        "fips":"15",
+        "density":224.45613791,
+        "population":1441553,
+        "population_portion":720776.0
+    },
+    {
+        "name":"Schmitt, Eric",
+        "state":"Missouri",
+        "party":"Republican",
+        "fips":"29",
+        "density":89.723503599,
+        "population":6168187,
+        "population_portion":3084094.0
+    },
+    {
+        "name":"Schumer, Charles E.",
+        "state":"New York",
+        "party":"Democratic",
+        "fips":"36",
+        "density":420.93596008,
+        "population":19835913,
+        "population_portion":9917956.0
+    },
+    {
+        "name":"Scott, Rick",
+        "state":"Florida",
+        "party":"Republican",
+        "fips":"12",
+        "density":405.98041819,
+        "population":21781128,
+        "population_portion":10890564.0
+    },
+    {
+        "name":"Scott, Tim",
+        "state":"South Carolina",
+        "party":"Republican",
+        "fips":"45",
+        "density":172.65344876,
+        "population":5190705,
+        "population_portion":2595352.0
+    },
+    {
+        "name":"Shaheen, Jeanne",
+        "state":"New Hampshire",
+        "party":"Democratic",
+        "fips":"33",
+        "density":155.12950348,
+        "population":1388992,
+        "population_portion":694496.0
+    },
+    {
+        "name":"Sinema, Kyrsten",
+        "state":"Arizona",
+        "party":"Independent",
+        "fips":"04",
+        "density":64.022113803,
+        "population":7276316,
+        "population_portion":3638158.0
+    },
+    {
+        "name":"Smith, Tina",
+        "state":"Minnesota",
+        "party":"Democratic",
+        "fips":"27",
+        "density":71.677007309,
+        "population":5707390,
+        "population_portion":2853695.0
+    },
+    {
+        "name":"Stabenow, Debbie",
+        "state":"Michigan",
+        "party":"Democratic",
+        "fips":"26",
+        "density":177.55193594,
+        "population":10050811,
+        "population_portion":5025406.0
+    },
+    {
+        "name":"Sullivan, Dan",
+        "state":"Alaska",
+        "party":"Republican",
+        "fips":"02",
+        "density":1.2830925496,
+        "population":732673,
+        "population_portion":366336.0
+    },
+    {
+        "name":"Tester, Jon",
+        "state":"Montana",
+        "party":"Democratic",
+        "fips":"30",
+        "density":7.5868654853,
+        "population":1104271,
+        "population_portion":552136.0
+    },
+    {
+        "name":"Thune, John",
+        "state":"South Dakota",
+        "party":"Republican",
+        "fips":"46",
+        "density":11.810848986,
+        "population":895376,
+        "population_portion":447688.0
+    },
+    {
+        "name":"Tillis, Thom",
+        "state":"North Carolina",
+        "party":"Republican",
+        "fips":"37",
+        "density":216.99971703,
+        "population":10551162,
+        "population_portion":5275581.0
+    },
+    {
+        "name":"Tuberville, Tommy",
+        "state":"Alabama",
+        "party":"Republican",
+        "fips":"01",
+        "density":99.509912915,
+        "population":5039877,
+        "population_portion":2519938.0
+    },
+    {
+        "name":"Van Hollen, Chris",
+        "state":"Maryland",
+        "party":"Democratic",
+        "fips":"24",
+        "density":634.8490376,
+        "population":6165129,
+        "population_portion":3082564.0
+    },
+    {
+        "name":"Vance, J.D.",
+        "state":"Ohio",
+        "party":"Republican",
+        "fips":"39",
+        "density":288.30981725,
+        "population":11780017,
+        "population_portion":5890008.0
+    },
+    {
+        "name":"Warner, Mark R.",
+        "state":"Virginia",
+        "party":"Democratic",
+        "fips":"51",
+        "density":218.89051189,
+        "population":8642274,
+        "population_portion":4321137.0
+    },
+    {
+        "name":"Warnock, Raphael G.",
+        "state":"Georgia",
+        "party":"Democratic",
+        "fips":"13",
+        "density":187.11258523,
+        "population":10799566,
+        "population_portion":5399783.0
+    },
+    {
+        "name":"Warren, Elizabeth",
+        "state":"Massachusetts",
+        "party":"Democratic",
+        "fips":"25",
+        "density":895.36953013,
+        "population":6984723,
+        "population_portion":3492362.0
+    },
+    {
+        "name":"Welch, Peter",
+        "state":"Vermont",
+        "party":"Democratic",
+        "fips":"50",
+        "density":70.037811804,
+        "population":645570,
+        "population_portion":322785.0
+    },
+    {
+        "name":"Whitehouse, Sheldon",
+        "state":"Rhode Island",
+        "party":"Democratic",
+        "fips":"44",
+        "density":1059.6989939,
+        "population":1095610,
+        "population_portion":547805.0
+    },
+    {
+        "name":"Wicker, Roger F.",
+        "state":"Mississippi",
+        "party":"Republican",
+        "fips":"28",
+        "density":62.866946395,
+        "population":2949965,
+        "population_portion":1474982.0
+    },
+    {
+        "name":"Wyden, Ron",
+        "state":"Oregon",
+        "party":"Democratic",
+        "fips":"41",
+        "density":44.232678273,
+        "population":4246155,
+        "population_portion":2123078.0
+    },
+    {
+        "name":"Young, Todd",
+        "state":"Indiana",
+        "party":"Republican",
+        "fips":"18",
+        "density":189.97357795,
+        "population":6805985,
+        "population_portion":3402992.0
+    }
+]

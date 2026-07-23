@@ -2101,6 +2101,7 @@ Hallie,M,11
 Jule,M,11
 Laura,M,11
 Mac,M,11
+Margaret,M,11
 Martha,M,11
 May,M,11
 Melville,M,11
@@ -2151,7 +2152,6 @@ Len,M,10
 Linwood,M,10
 Lou,M,10
 Manley,M,10
-Margaret,M,10
 Mat,M,10
 Maude,M,10
 Ocie,M,10

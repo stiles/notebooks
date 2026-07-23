@@ -2,15 +2,12 @@ name: 'Install dependencies'
 description: 'Install the Python dependencies'
 runs:
   using: "composite"
-  steps: 
-    - id: install-pipenv
-      name: Install pipenv
-      run: |
-          python -m pip install --upgrade --no-cache-dir pip
-          python -m pip install --no-cache-dir pipenv
-      shell: bash
+  steps:
+    - id: install-uv
+      name: Install uv
+      uses: astral-sh/setup-uv@v6
 
-    - id: sync-pipfile
-      name: Sync pipfile
-      run: pipenv sync
+    - id: sync-deps
+      name: Sync dependencies
+      run: uv sync --locked
       shell: bash
